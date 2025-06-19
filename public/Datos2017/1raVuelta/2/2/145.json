@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "BAQUERIZO MORENO",
+    "id": 295,
+    "votos": 4,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.69
+  },
+  {
+    "parroquia": "EMILIO MARÍA TERÁN",
+    "id": 1210,
+    "votos": 79,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.38
+  },
+  {
+    "parroquia": "MARCOS ESPINEL",
+    "id": 2375,
+    "votos": 167,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.98
+  },
+  {
+    "parroquia": "PRESIDENTE URBINA",
+    "id": 2945,
+    "votos": 114,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.41
+  },
+  {
+    "parroquia": "SAN ANDRÉS",
+    "id": 3300,
+    "votos": 851,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 11.61
+  },
+  {
+    "parroquia": "SAN JOSÉ DE POALO",
+    "id": 3485,
+    "votos": 242,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 15.58
+  },
+  {
+    "parroquia": "SAN MIGUELITO",
+    "id": 3585,
+    "votos": 420,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 12.4
+  },
+  {
+    "parroquia": "CIUDAD NUEVA",
+    "id": 5225,
+    "votos": 107,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.13
+  },
+  {
+    "parroquia": "PÍLLARO",
+    "id": 5785,
+    "votos": 979,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.09
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "SUMAYPAMBA",
+    "id": 310,
+    "votos": 46,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 7.74
+  },
+  {
+    "parroquia": "EL PARAÍSO DE CELÉN",
+    "id": 1165,
+    "votos": 25,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.96
+  },
+  {
+    "parroquia": "EL TABLÓN",
+    "id": 1190,
+    "votos": 4,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1
+  },
+  {
+    "parroquia": "LLUZHAPA",
+    "id": 2280,
+    "votos": 21,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.38
+  },
+  {
+    "parroquia": "MANÚ",
+    "id": 2360,
+    "votos": 52,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.99
+  },
+  {
+    "parroquia": "SAN ANTONIO DE CUMBE",
+    "id": 3340,
+    "votos": 8,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.13
+  },
+  {
+    "parroquia": "SAN PABLO DE TENTA",
+    "id": 3600,
+    "votos": 33,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.82
+  },
+  {
+    "parroquia": "SAN SEBASTIÁN DE YULOG",
+    "id": 3665,
+    "votos": 12,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.4
+  },
+  {
+    "parroquia": "SELVA ALEGRE",
+    "id": 3815,
+    "votos": 22,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.02
+  },
+  {
+    "parroquia": "URDANETA/PAQUISHAPA",
+    "id": 4145,
+    "votos": 36,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.73
+  },
+  {
+    "parroquia": "SARAGURO",
+    "id": 6075,
+    "votos": 73,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.16
+  }
+]

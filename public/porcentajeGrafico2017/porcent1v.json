@@ -1,0 +1,50 @@
+[
+  {
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "partido": "Fuerza.EC",
+    "value": 4.82,
+    "fill": "#000000"
+  },
+  {
+    "candidato": "Espinel Molina Jose Ivan",
+    "partido": "Fuerza ¡Compromiso Social!",
+    "value": 3.19,
+    "fill": "#051854"
+  },
+  {
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "partido": "Alianza Creo - Suma",
+    "value": 28.18,
+    "fill": "#062e81"
+  },
+  {
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "partido": "Acuerdo Por El Cambio",
+    "value": 6.70,
+    "fill": "#ff0000"
+  },
+  {
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "partido": "Movimiento Alianza Pais; Patria Altiva I Soberana",
+    "value": 39.33,
+    "fill": "#1eff00"
+  },
+  {
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "partido": "Union Ecuatoriana",
+    "value": 0.75,
+    "fill": "#ec0f0f"
+  },
+  {
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "partido": "Partido Social Cristiano",
+    "value": 16.26,
+    "fill": "#980505"
+  },
+  {
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "partido": "Partido Sociedad Patriotica '21 De Enero'",
+    "value": 0.77,
+    "fill": "#5d1a1a"
+  }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CANCHAGUA",
+        "id": 465,
+        "votos": 128,
+        "candidato": "Acosta Alberto",
+        "value": 13.0
+    },
+    {
+        "parroquia": "CHANTILIN",
+        "id": 830,
+        "votos": 42,
+        "candidato": "Acosta Alberto",
+        "value": 8.624
+    },
+    {
+        "parroquia": "COCHAPAMBA",
+        "id": 990,
+        "votos": 343,
+        "candidato": "Acosta Alberto",
+        "value": 29.4
+    },
+    {
+        "parroquia": "SAQUISILI",
+        "id": 6070,
+        "votos": 1520,
+        "candidato": "Acosta Alberto",
+        "value": 14.965
+    }
+]

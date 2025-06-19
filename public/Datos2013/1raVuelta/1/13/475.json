@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CHARAPOTO",
+        "id": 840,
+        "votos": 836,
+        "candidato": "Noboa Alvaro",
+        "value": 6.449124
+    },
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 3445,
+        "votos": 252,
+        "candidato": "Noboa Alvaro",
+        "value": 3.75727
+    },
+    {
+        "parroquia": "BAHIA DE CARAQUEZ",
+        "id": 5095,
+        "votos": 643,
+        "candidato": "Noboa Alvaro",
+        "value": 4.94501
+    },
+    {
+        "parroquia": "LEONIDAS PLAZA G.",
+        "id": 5580,
+        "votos": 181,
+        "candidato": "Noboa Alvaro",
+        "value": 5.76801
+    }
+]

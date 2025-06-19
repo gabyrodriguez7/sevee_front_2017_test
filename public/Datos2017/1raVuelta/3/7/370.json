@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "CAPIRO",
+    "id": 505,
+    "votos": 486,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 55.04
+  },
+  {
+    "parroquia": "SARACAY",
+    "id": 1385,
+    "votos": 467,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 45.12
+  },
+  {
+    "parroquia": "LA BOCANA",
+    "id": 2230,
+    "votos": 436,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 52.28
+  },
+  {
+    "parroquia": "MOROMORO",
+    "id": 2465,
+    "votos": 373,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 37.45
+  },
+  {
+    "parroquia": "PIEDRAS",
+    "id": 2850,
+    "votos": 202,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 42.71
+  },
+  {
+    "parroquia": "SAN ROQUE",
+    "id": 3650,
+    "votos": 233,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 49.47
+  },
+  {
+    "parroquia": "PIÑAS",
+    "id": 5790,
+    "votos": 4397,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 33.65
+  },
+  {
+    "parroquia": "PIÑAS GRANDE",
+    "id": 6675,
+    "votos": 20,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 28.99
+  },
+  {
+    "parroquia": "LA SUSAYA",
+    "id": 6680,
+    "votos": 43,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 28.48
+  }
+]

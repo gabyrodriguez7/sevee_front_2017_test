@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "TRIUNFO DORADO",
+    "id": 4385,
+    "votos": 4,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.98
+  },
+  {
+    "parroquia": "PANGUINTZA",
+    "id": 4600,
+    "votos": 5,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.72
+  },
+  {
+    "parroquia": "ZUMBI",
+    "id": 6625,
+    "votos": 12,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.34
+  }
+]

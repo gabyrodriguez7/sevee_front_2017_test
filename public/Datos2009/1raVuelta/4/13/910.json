@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "PEDERNALES",
+        "id": 6430,
+        "votos": 7062,
+        "candidato": "Rafael Correa Delgado",
+        "value": 49.05
+    },
+    {
+        "parroquia": "10 DE AGOSTO",
+        "id": 1030,
+        "votos": 720,
+        "candidato": "Rafael Correa Delgado",
+        "value": 53.73
+    },
+    {
+        "parroquia": "ATAHUALPA",
+        "id": 785,
+        "votos": 456,
+        "candidato": "Rafael Correa Delgado",
+        "value": 56.93
+    },
+    {
+        "parroquia": "COJIMIES",
+        "id": 580,
+        "votos": 1193,
+        "candidato": "Rafael Correa Delgado",
+        "value": 59.26
+    }
+]

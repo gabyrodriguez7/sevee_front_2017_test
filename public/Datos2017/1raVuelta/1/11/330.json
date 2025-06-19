@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "EL ARENAL",
+    "id": 270,
+    "votos": 129,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 30.28
+  },
+  {
+    "parroquia": "CIANO",
+    "id": 565,
+    "votos": 170,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 23.58
+  },
+  {
+    "parroquia": "EL LIMO /MARIANA DE JESÚS",
+    "id": 1155,
+    "votos": 325,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 24.36
+  },
+  {
+    "parroquia": "MERCADILLO",
+    "id": 2405,
+    "votos": 239,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 29
+  },
+  {
+    "parroquia": "VICENTINO",
+    "id": 4210,
+    "votos": 291,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 39.48
+  },
+  {
+    "parroquia": "ALAMOR",
+    "id": 5005,
+    "votos": 2320,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 38.66
+  }
+]

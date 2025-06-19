@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "AVILA",
+    "id": 215,
+    "votos": 44,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.16
+  },
+  {
+    "parroquia": "SAN VICENTE DE HUATICOCHA",
+    "id": 400,
+    "votos": 6,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.94
+  },
+  {
+    "parroquia": "PUERTO MURIALDO",
+    "id": 1050,
+    "votos": 83,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 5.28
+  },
+  {
+    "parroquia": "SAN JOSÉ DE DAHUANO",
+    "id": 1680,
+    "votos": 25,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.15
+  },
+  {
+    "parroquia": "SAN JOSÉ DE PAYAMINO",
+    "id": 3480,
+    "votos": 44,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.18
+  },
+  {
+    "parroquia": "LORETO",
+    "id": 6455,
+    "votos": 71,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.74
+  }
+]

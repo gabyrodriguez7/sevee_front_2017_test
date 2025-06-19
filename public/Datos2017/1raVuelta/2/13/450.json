@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "SANTA MARIANITA",
+    "id": 1800,
+    "votos": 15,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 0.93
+  },
+  {
+    "parroquia": "SAN LORENZO",
+    "id": 3550,
+    "votos": 48,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.49
+  },
+  {
+    "parroquia": "LOS ESTEROS",
+    "id": 5570,
+    "votos": 690,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.48
+  },
+  {
+    "parroquia": "MANTA",
+    "id": 5635,
+    "votos": 2040,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.79
+  },
+  {
+    "parroquia": "SAN MATEO",
+    "id": 6135,
+    "votos": 50,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.15
+  },
+  {
+    "parroquia": "TARQUI",
+    "id": 6155,
+    "votos": 1788,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.4
+  },
+  {
+    "parroquia": "ELOY ALFARO",
+    "id": 6745,
+    "votos": 458,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.23
+  }
+]

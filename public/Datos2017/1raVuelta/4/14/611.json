@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "SHIMPIS",
+    "id": 525,
+    "votos": 6,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 0.65
+  },
+  {
+    "parroquia": "YAUPI",
+    "id": 4300,
+    "votos": 5,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 0.63
+  },
+  {
+    "parroquia": "LOGROÑO",
+    "id": 6735,
+    "votos": 55,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 3.31
+  }
+]

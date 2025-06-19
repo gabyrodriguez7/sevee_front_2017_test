@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "TAISHA",
+    "id": 6700,
+    "votos": 18,
+    "candidato": "Alvaro Noboa",
+    "value": 1.42
+  },
+  {
+    "parroquia": "MACUMA",
+    "id": 2285,
+    "votos": 15,
+    "candidato": "Alvaro Noboa",
+    "value": 1.95
+  },
+  {
+    "parroquia": "TUTINENTZA",
+    "id": 1205,
+    "votos": 8,
+    "candidato": "Alvaro Noboa",
+    "value": 1.02
+  },
+  {
+    "parroquia": "HUASAGA /WAMPUIK",
+    "id": 595,
+    "votos": 5,
+    "candidato": "Alvaro Noboa",
+    "value": 0.91
+  }
+]

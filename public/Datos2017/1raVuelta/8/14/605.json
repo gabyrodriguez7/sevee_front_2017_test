@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "COPAL",
+    "id": 645,
+    "votos": 2,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.81
+  },
+  {
+    "parroquia": "CHUPIANZA",
+    "id": 970,
+    "votos": 5,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.49
+  },
+  {
+    "parroquia": "SAN FCO. DE CHINIMBIMI",
+    "id": 1365,
+    "votos": 7,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.09
+  },
+  {
+    "parroquia": "PATUCA",
+    "id": 2795,
+    "votos": 14,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.81
+  },
+  {
+    "parroquia": "SAN LUIS DEL ACHO",
+    "id": 3565,
+    "votos": 3,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.85
+  },
+  {
+    "parroquia": "TAYUZA",
+    "id": 4115,
+    "votos": 15,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.88
+  },
+  {
+    "parroquia": "MÉNDEZ",
+    "id": 5645,
+    "votos": 28,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.16
+  }
+]

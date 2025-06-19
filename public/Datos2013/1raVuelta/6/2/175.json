@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "BALZAPAMBA",
+        "id": 275,
+        "votos": 493,
+        "candidato": "Lasso Guillermo",
+        "value": 22.0
+    },
+    {
+        "parroquia": "BILOVAN",
+        "id": 345,
+        "votos": 299,
+        "candidato": "Lasso Guillermo",
+        "value": 22.0
+    },
+    {
+        "parroquia": "SAN PABLO DE ATENAS",
+        "id": 3595,
+        "votos": 957,
+        "candidato": "Lasso Guillermo",
+        "value": 28.4
+    },
+    {
+        "parroquia": "SANTIAGO",
+        "id": 3775,
+        "votos": 343,
+        "candidato": "Lasso Guillermo",
+        "value": 32.51
+    },
+    {
+        "parroquia": "SAN VICENTE",
+        "id": 3900,
+        "votos": 140,
+        "candidato": "Lasso Guillermo",
+        "value": 23.0
+    },
+    {
+        "parroquia": "REGULO DE MORA",
+        "id": 4515,
+        "votos": 127,
+        "candidato": "Lasso Guillermo",
+        "value": 25.1
+    },
+    {
+        "parroquia": "SAN MIGUEL",
+        "id": 5995,
+        "votos": 3840,
+        "candidato": "Lasso Guillermo",
+        "value": 43.0
+    }
+]

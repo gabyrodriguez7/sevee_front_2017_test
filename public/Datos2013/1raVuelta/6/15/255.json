@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "GONZALO DIAZ DE PINEDA",
+    "id": 1020,
+    "votos": 54,
+    "candidato": "Lasso Guillermo",
+    "value": 17.5
+  },
+  {
+    "parroquia": "LINARES",
+    "id": 2180,
+    "votos": 25,
+    "candidato": "Lasso Guillermo",
+    "value": 15.1
+  },
+  {
+    "parroquia": "OYACACHI",
+    "id": 2640,
+    "votos": 16,
+    "candidato": "Lasso Guillermo",
+    "value": 4.4444444
+  },
+  {
+    "parroquia": "SANTA ROSA DE QUIJOS",
+    "id": 3745,
+    "votos": 137,
+    "candidato": "Lasso Guillermo",
+    "value": 18.7414501
+  },
+  {
+    "parroquia": "SARDINAS",
+    "id": 3790,
+    "votos": 34,
+    "candidato": "Lasso Guillermo",
+    "value": 11.81
+  },
+  {
+    "parroquia": "EL CHACO",
+    "id": 5510,
+    "votos": 639,
+    "candidato": "Lasso Guillermo",
+    "value": 20.47
+  }
+]

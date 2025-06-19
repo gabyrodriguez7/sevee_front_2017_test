@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "GRAL. LEONIDAS PLAZA",
+        "id": 5390,
+        "votos": 1028,
+        "candidato": "Rafael Correa Delgado",
+        "value": 39.94
+    },
+    {
+        "parroquia": "YUNGANZA /EL ROSARIO",
+        "id": 4305,
+        "votos": 160,
+        "candidato": "Rafael Correa Delgado",
+        "value": 45.45
+    },
+    {
+        "parroquia": "SANTA SUSANA DE CHIVIAZA",
+        "id": 3760,
+        "votos": 162,
+        "candidato": "Rafael Correa Delgado",
+        "value": 52.77
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3320,
+        "votos": 45,
+        "candidato": "Rafael Correa Delgado",
+        "value": 22.5
+    },
+    {
+        "parroquia": "SAN MIGUEL DE CONCHAY",
+        "id": 3250,
+        "votos": 59,
+        "candidato": "Rafael Correa Delgado",
+        "value": 23.98
+    },
+    {
+        "parroquia": "INDANZA",
+        "id": 1720,
+        "votos": 196,
+        "candidato": "Rafael Correa Delgado",
+        "value": 37.76
+    }
+]

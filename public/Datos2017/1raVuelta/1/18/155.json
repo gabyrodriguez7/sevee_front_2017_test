@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "LOS ANDES",
+    "id": 2210,
+    "votos": 302,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 39.95
+  },
+  {
+    "parroquia": "SUCRE",
+    "id": 3885,
+    "votos": 750,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 56.31
+  },
+  {
+    "parroquia": "EL TRIUNFO",
+    "id": 4110,
+    "votos": 411,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 51.06
+  },
+  {
+    "parroquia": "PATATE",
+    "id": 5830,
+    "votos": 2285,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 38.12
+  }
+]

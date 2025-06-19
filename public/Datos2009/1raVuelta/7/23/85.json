@@ -1,0 +1,100 @@
+[
+  {
+    "parroquia": "ZARACAY",
+    "id": 6180,
+    "votos": 253,
+    "candidato": "Alvaro Noboa",
+    "value": 9.72
+  },
+  {
+    "parroquia": "CHIGUILPE",
+    "id": 6175,
+    "votos": 714,
+    "candidato": "Alvaro Noboa",
+    "value": 9.79
+  },
+  {
+    "parroquia": "SANTO DOMINGO",
+    "id": 6065,
+    "votos": 10044,
+    "candidato": "Alvaro Noboa",
+    "value": 9.72
+  },
+  {
+    "parroquia": "RIO TOACHI",
+    "id": 5870,
+    "votos": 139,
+    "candidato": "Alvaro Noboa",
+    "value": 6.8
+  },
+  {
+    "parroquia": "RIO VERDE",
+    "id": 5865,
+    "votos": 1407,
+    "candidato": "Alvaro Noboa",
+    "value": 9.05
+  },
+  {
+    "parroquia": "BOMBOLI",
+    "id": 5860,
+    "votos": 1440,
+    "candidato": "Alvaro Noboa",
+    "value": 10.43
+  },
+  {
+    "parroquia": "ABRAHAM CALAZACON",
+    "id": 5730,
+    "votos": 1106,
+    "candidato": "Alvaro Noboa",
+    "value": 9.54
+  },
+  {
+    "parroquia": "PUERTO LIMON",
+    "id": 4440,
+    "votos": 232,
+    "candidato": "Alvaro Noboa",
+    "value": 5.73
+  },
+  {
+    "parroquia": "SANTA MARIA DEL TOACHI",
+    "id": 2045,
+    "votos": 33,
+    "candidato": "Alvaro Noboa",
+    "value": 2.65
+  },
+  {
+    "parroquia": "EL ESFUERZO",
+    "id": 1990,
+    "votos": 124,
+    "candidato": "Alvaro Noboa",
+    "value": 7.11
+  },
+  {
+    "parroquia": "SAN JACINTO DEL BUA",
+    "id": 1970,
+    "votos": 255,
+    "candidato": "Alvaro Noboa",
+    "value": 7.66
+  },
+  {
+    "parroquia": "LUZ DE AMERICA",
+    "id": 1755,
+    "votos": 122,
+    "candidato": "Alvaro Noboa",
+    "value": 6.63
+  },
+  {
+    "parroquia": "VALLE HERMOSO",
+    "id": 305,
+    "votos": 175,
+    "candidato": "Alvaro Noboa",
+    "value": 7.0
+  },
+  {
+    "parroquia": "ALLURIQUIN",
+    "id": 75,
+    "votos": 265,
+    "candidato": "Alvaro Noboa",
+    "value": 6.94
+  }
+]

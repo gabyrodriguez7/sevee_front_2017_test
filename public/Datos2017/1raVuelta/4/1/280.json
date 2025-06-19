@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "CUTCHIL",
+    "id": 750,
+    "votos": 36,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 4.67
+  },
+  {
+    "parroquia": "GIMA",
+    "id": 1355,
+    "votos": 88,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 4.13
+  },
+  {
+    "parroquia": "GUEL",
+    "id": 1490,
+    "votos": 18,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 2.25
+  },
+  {
+    "parroquia": "LUDO",
+    "id": 2215,
+    "votos": 50,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 2.69
+  },
+  {
+    "parroquia": "SAN BARTOLOMÉ",
+    "id": 3360,
+    "votos": 82,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 3.92
+  },
+  {
+    "parroquia": "SAN JOSÉ DE RARANGA",
+    "id": 3495,
+    "votos": 50,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 4.69
+  },
+  {
+    "parroquia": "SIGSIG",
+    "id": 6085,
+    "votos": 300,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 3.74
+  }
+]

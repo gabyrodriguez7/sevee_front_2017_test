@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "BALZAPAMBA",
+    "id": 275,
+    "votos": 14,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.62
+  },
+  {
+    "parroquia": "BILOVAN",
+    "id": 345,
+    "votos": 26,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.8
+  },
+  {
+    "parroquia": "SAN PABLO DE ATENAS",
+    "id": 3595,
+    "votos": 40,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.16
+  },
+  {
+    "parroquia": "SANTIAGO",
+    "id": 3775,
+    "votos": 5,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.46
+  },
+  {
+    "parroquia": "SAN VICENTE",
+    "id": 3900,
+    "votos": 5,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.84
+  },
+  {
+    "parroquia": "RÉGULO DE MORA",
+    "id": 4515,
+    "votos": 6,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.96
+  },
+  {
+    "parroquia": "SAN MIGUEL",
+    "id": 5995,
+    "votos": 219,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 2.33
+  }
+]

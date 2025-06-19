@@ -1,0 +1,114 @@
+[
+  {
+    "parroquia": "YARUQUIES",
+    "id": 6290,
+    "votos": 1222,
+    "candidato": "Lucio Gutierrez",
+    "value": 36.53
+  },
+  {
+    "parroquia": "VELOZ",
+    "id": 6230,
+    "votos": 4306,
+    "candidato": "Lucio Gutierrez",
+    "value": 36.52
+  },
+  {
+    "parroquia": "VELASCO",
+    "id": 6220,
+    "votos": 7814,
+    "candidato": "Lucio Gutierrez",
+    "value": 37.84
+  },
+  {
+    "parroquia": "MALDONADO",
+    "id": 5630,
+    "votos": 7392,
+    "candidato": "Lucio Gutierrez",
+    "value": 38.65
+  },
+  {
+    "parroquia": "LIZARZABURU",
+    "id": 5590,
+    "votos": 10470,
+    "candidato": "Lucio Gutierrez",
+    "value": 37.24
+  },
+  {
+    "parroquia": "SAN LUIS",
+    "id": 3560,
+    "votos": 1419,
+    "candidato": "Lucio Gutierrez",
+    "value": 43.94
+  },
+  {
+    "parroquia": "SAN JUAN",
+    "id": 3515,
+    "votos": 2350,
+    "candidato": "Lucio Gutierrez",
+    "value": 56.22
+  },
+  {
+    "parroquia": "QUIMIAG",
+    "id": 3095,
+    "votos": 1420,
+    "candidato": "Lucio Gutierrez",
+    "value": 48.54
+  },
+  {
+    "parroquia": "PUNIN",
+    "id": 3040,
+    "votos": 1606,
+    "candidato": "Lucio Gutierrez",
+    "value": 49.65
+  },
+  {
+    "parroquia": "PUNGALA",
+    "id": 3035,
+    "votos": 1141,
+    "candidato": "Lucio Gutierrez",
+    "value": 42.44
+  },
+  {
+    "parroquia": "LICTO",
+    "id": 2165,
+    "votos": 1562,
+    "candidato": "Lucio Gutierrez",
+    "value": 36.62
+  },
+  {
+    "parroquia": "LICAN",
+    "id": 2160,
+    "votos": 1331,
+    "candidato": "Lucio Gutierrez",
+    "value": 52.42
+  },
+  {
+    "parroquia": "FLORES",
+    "id": 1280,
+    "votos": 982,
+    "candidato": "Lucio Gutierrez",
+    "value": 36.97
+  },
+  {
+    "parroquia": "CUBIJIES",
+    "id": 705,
+    "votos": 739,
+    "candidato": "Lucio Gutierrez",
+    "value": 60.37
+  },
+  {
+    "parroquia": "CALPI",
+    "id": 445,
+    "votos": 1779,
+    "candidato": "Lucio Gutierrez",
+    "value": 50.25
+  },
+  {
+    "parroquia": "CACHA",
+    "id": 420,
+    "votos": 458,
+    "candidato": "Lucio Gutierrez",
+    "value": 28.41
+  }
+]

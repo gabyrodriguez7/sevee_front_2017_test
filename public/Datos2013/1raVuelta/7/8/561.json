@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CHONTADURO",
+        "id": 930,
+        "votos": 19,
+        "candidato": "Zavala Nelson",
+        "value": 1.7
+    },
+    {
+        "parroquia": "CHUMUNDE",
+        "id": 965,
+        "votos": 33,
+        "candidato": "Zavala Nelson",
+        "value": 3.695
+    },
+    {
+        "parroquia": "LAGARTO",
+        "id": 2035,
+        "votos": 47,
+        "candidato": "Zavala Nelson",
+        "value": 2.357
+    },
+    {
+        "parroquia": "MONTALVO / HORQUETA",
+        "id": 2445,
+        "votos": 39,
+        "candidato": "Zavala Nelson",
+        "value": 2.17
+    },
+    {
+        "parroquia": "ROCAFUERTE",
+        "id": 3215,
+        "votos": 40,
+        "candidato": "Zavala Nelson",
+        "value": 1.57
+    },
+    {
+        "parroquia": "RIO VERDE",
+        "id": 6720,
+        "votos": 84,
+        "candidato": "Zavala Nelson",
+        "value": 2.8493894
+    }
+]

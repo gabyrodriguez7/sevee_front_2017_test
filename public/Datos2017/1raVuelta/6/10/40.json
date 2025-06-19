@@ -1,0 +1,72 @@
+[
+  {
+    "parroquia": "APUELA",
+    "id": 145,
+    "votos": 9,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.78
+  },
+  {
+    "parroquia": "GARCÍA MORENO / LLURIMAGUA",
+    "id": 1310,
+    "votos": 11,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.5
+  },
+  {
+    "parroquia": "IMANTAG",
+    "id": 1710,
+    "votos": 26,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.84
+  },
+  {
+    "parroquia": "PEÑAHERRERA",
+    "id": 2820,
+    "votos": 7,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.67
+  },
+  {
+    "parroquia": "PLAZA GUTIERREZ/CALVARIO",
+    "id": 2915,
+    "votos": 2,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.61
+  },
+  {
+    "parroquia": "QUIROGA",
+    "id": 3115,
+    "votos": 32,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.69
+  },
+  {
+    "parroquia": "6 DE JULIO DE CUELLAJE",
+    "id": 3800,
+    "votos": 13,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.14
+  },
+  {
+    "parroquia": "VACAS GALINDO",
+    "id": 4185,
+    "votos": 0,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0
+  },
+  {
+    "parroquia": "SAGRARIO",
+    "id": 5910,
+    "votos": 41,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.56
+  },
+  {
+    "parroquia": "SAN FRANCISCO",
+    "id": 5955,
+    "votos": 37,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.93
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "CHANGAIMINA /LA LIBERTAD",
+    "id": 825,
+    "votos": 766,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 50.43
+  },
+  {
+    "parroquia": "NAMBACOLA",
+    "id": 2520,
+    "votos": 1109,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 46.02
+  },
+  {
+    "parroquia": "PURUNUMA /EGUIGUREN",
+    "id": 3045,
+    "votos": 457,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 63.38
+  },
+  {
+    "parroquia": "SACAPALCA",
+    "id": 3270,
+    "votos": 623,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 53.02
+  },
+  {
+    "parroquia": "GONZANAMÁ",
+    "id": 5400,
+    "votos": 1500,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 56.22
+  }
+]

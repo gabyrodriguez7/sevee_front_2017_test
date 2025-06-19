@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "ARCHIDONA",
+    "id": 5070,
+    "votos": 30,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.42
+  },
+  {
+    "parroquia": "SAN PABLO DE USHPAYACU",
+    "id": 3605,
+    "votos": 1,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.11
+  },
+  {
+    "parroquia": "COTUNDO",
+    "id": 685,
+    "votos": 6,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.19
+  }
+]

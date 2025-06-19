@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CAHUASQUI",
+        "id": 425,
+        "votos": 831,
+        "candidato": "Correa Delgado Rafael",
+        "value": 65.3
+    },
+    {
+        "parroquia": "LA MERCED DE BUENOS AIRES",
+        "id": 2060,
+        "votos": 508,
+        "candidato": "Correa Delgado Rafael",
+        "value": 49.08213
+    },
+    {
+        "parroquia": "PABLO ARENAS",
+        "id": 2675,
+        "votos": 936,
+        "candidato": "Correa Delgado Rafael",
+        "value": 69.4
+    },
+    {
+        "parroquia": "SAN BLAS",
+        "id": 3365,
+        "votos": 1431,
+        "candidato": "Correa Delgado Rafael",
+        "value": 71.59
+    },
+    {
+        "parroquia": "TUMBABIRO",
+        "id": 4080,
+        "votos": 680,
+        "candidato": "Correa Delgado Rafael",
+        "value": 72.187
+    },
+    {
+        "parroquia": "URCUQUI",
+        "id": 6190,
+        "votos": 2386,
+        "candidato": "Correa Delgado Rafael",
+        "value": 62.0
+    }
+]

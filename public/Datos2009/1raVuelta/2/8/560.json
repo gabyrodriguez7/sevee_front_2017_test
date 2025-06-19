@@ -1,0 +1,93 @@
+[
+    {
+        "parroquia": "SIMON PLATA TORRES",
+        "id": 6905,
+        "votos": 0,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.0
+    },
+    {
+        "parroquia": "LUIS TELLO / LAS PALMAS /",
+        "id": 5600,
+        "votos": 26,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.48
+    },
+    {
+        "parroquia": "ESMERALDAS",
+        "id": 5335,
+        "votos": 79,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.33
+    },
+    {
+        "parroquia": "5 DE AGOSTO",
+        "id": 5210,
+        "votos": 110,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.51
+    },
+    {
+        "parroquia": "BARTOLOME RUIZ",
+        "id": 5205,
+        "votos": 69,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.49
+    },
+    {
+        "parroquia": "VUELTA LARGA",
+        "id": 4240,
+        "votos": 19,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.17
+    },
+    {
+        "parroquia": "TACHINA",
+        "id": 3940,
+        "votos": 7,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.45
+    },
+    {
+        "parroquia": "TABIAZO",
+        "id": 3930,
+        "votos": 12,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.18
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 3570,
+        "votos": 9,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.52
+    },
+    {
+        "parroquia": "MAJUA",
+        "id": 2320,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.16
+    },
+    {
+        "parroquia": "CHINCA",
+        "id": 895,
+        "votos": 4,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.37
+    },
+    {
+        "parroquia": "CRNL.CARLOS CONCHA TORRES",
+        "id": 655,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.64
+    },
+    {
+        "parroquia": "CAMARONES",
+        "id": 450,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.13
+    }
+]

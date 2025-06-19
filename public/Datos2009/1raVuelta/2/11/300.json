@@ -1,0 +1,121 @@
+[
+    {
+        "parroquia": "VALLE",
+        "id": 6210,
+        "votos": 96,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.44
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 6100,
+        "votos": 156,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.45
+    },
+    {
+        "parroquia": "SAN SEBASTIAN",
+        "id": 6015,
+        "votos": 172,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.88
+    },
+    {
+        "parroquia": "EL SAGRARIO",
+        "id": 5320,
+        "votos": 133,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.85
+    },
+    {
+        "parroquia": "SAN PEDRO DE VILCABAMBA",
+        "id": 4540,
+        "votos": 0,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.0
+    },
+    {
+        "parroquia": "CHANTACO",
+        "id": 4475,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.17
+    },
+    {
+        "parroquia": "YANGANA / ARSENIO CASTILLO",
+        "id": 4280,
+        "votos": 4,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.52
+    },
+    {
+        "parroquia": "VILCABAMBA/VICTORIA",
+        "id": 4235,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.04
+    },
+    {
+        "parroquia": "TAQUIL /MIGUEL RIOFRIO",
+        "id": 3970,
+        "votos": 5,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.36
+    },
+    {
+        "parroquia": "SANTIAGO",
+        "id": 3770,
+        "votos": 2,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.28
+    },
+    {
+        "parroquia": "SAN LUCAS",
+        "id": 3555,
+        "votos": 15,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.88
+    },
+    {
+        "parroquia": "MALACATOS/VALLADOLID",
+        "id": 2325,
+        "votos": 13,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.4
+    },
+    {
+        "parroquia": "JIMBILLA",
+        "id": 1840,
+        "votos": 5,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.83
+    },
+    {
+        "parroquia": "QUINARA",
+        "id": 1780,
+        "votos": 4,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.74
+    },
+    {
+        "parroquia": "GUALEL",
+        "id": 1405,
+        "votos": 5,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.61
+    },
+    {
+        "parroquia": "EL CISNE",
+        "id": 1135,
+        "votos": 5,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.69
+    },
+    {
+        "parroquia": "CHUQUIRIBAMBA",
+        "id": 975,
+        "votos": 13,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.99
+    }
+]

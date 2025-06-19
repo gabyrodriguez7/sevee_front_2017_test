@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "SANTA ROSA",
+    "id": 6995,
+    "votos": 19,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.69
+  },
+  {
+    "parroquia": "CARLOS ESPINOZA LARREA",
+    "id": 6280,
+    "votos": 2,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.65
+  },
+  {
+    "parroquia": "VICENTE ROCAFUERTE",
+    "id": 6275,
+    "votos": 0,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.0
+  },
+  {
+    "parroquia": "GRAL. A. E. GALLO",
+    "id": 6270,
+    "votos": 3,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 6.25
+  },
+  {
+    "parroquia": "SALINAS",
+    "id": 5920,
+    "votos": 196,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.13
+  },
+  {
+    "parroquia": "JOSE LUIS TAMAYO / MUEY",
+    "id": 1850,
+    "votos": 58,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.78
+  },
+  {
+    "parroquia": "ANCONCITO",
+    "id": 115,
+    "votos": 16,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.33
+  }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "VELASCO IBARRA",
+        "id": 6225,
+        "votos": 3344,
+        "candidato": "Alvaro Noboa",
+        "value": 10.02
+    },
+    {
+        "parroquia": "EL ROSARIO",
+        "id": 1640,
+        "votos": 26,
+        "candidato": "Alvaro Noboa",
+        "value": 2.06
+    },
+    {
+        "parroquia": "GUAYAS / PUERTO NUEVO",
+        "id": 1470,
+        "votos": 129,
+        "candidato": "Alvaro Noboa",
+        "value": 10.13
+    }
+]

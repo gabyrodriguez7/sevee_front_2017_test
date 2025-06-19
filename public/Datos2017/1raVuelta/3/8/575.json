@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "CÚBE / CHANCAMA",
+    "id": 700,
+    "votos": 653,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 43.94
+  },
+  {
+    "parroquia": "CHURA",
+    "id": 980,
+    "votos": 522,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 50.1
+  },
+  {
+    "parroquia": "LA UNIÓN",
+    "id": 1530,
+    "votos": 4253,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 39.69
+  },
+  {
+    "parroquia": "MALIMPIA / GUAYLLABAMBA",
+    "id": 2345,
+    "votos": 2963,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 47.61
+  },
+  {
+    "parroquia": "VICHE",
+    "id": 4230,
+    "votos": 1552,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 40.52
+  },
+  {
+    "parroquia": "ROSA ZÁRATE",
+    "id": 5895,
+    "votos": 13783,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 35.8
+  }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "MADRE TIERRA",
+        "id": 2310,
+        "votos": 665,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 52.0344288
+    },
+    {
+        "parroquia": "SHELL",
+        "id": 3840,
+        "votos": 3108,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 67.4332827
+    },
+    {
+        "parroquia": "MERA",
+        "id": 5650,
+        "votos": 731,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 62.5320787
+    }
+]

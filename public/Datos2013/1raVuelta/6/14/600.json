@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "INDANZA",
+    "id": 1720,
+    "votos": 134,
+    "candidato": "Lasso Guillermo",
+    "value": 20.458
+  },
+  {
+    "parroquia": "SAN MIGUEL DE CONCHAY",
+    "id": 3250,
+    "votos": 31,
+    "candidato": "Lasso Guillermo",
+    "value": 7.1
+  },
+  {
+    "parroquia": "SAN ANTONIO",
+    "id": 3320,
+    "votos": 25,
+    "candidato": "Lasso Guillermo",
+    "value": 8.3
+  },
+  {
+    "parroquia": "SANTA SUSANA DE CHIVIAZA",
+    "id": 3760,
+    "votos": 114,
+    "candidato": "Lasso Guillermo",
+    "value": 29.0
+  },
+  {
+    "parroquia": "YUNGANZA /EL ROSARIO",
+    "id": 4305,
+    "votos": 39,
+    "candidato": "Lasso Guillermo",
+    "value": 9.1121495
+  },
+  {
+    "parroquia": "GRAL. LEONIDAS PLAZA",
+    "id": 5390,
+    "votos": 705,
+    "candidato": "Lasso Guillermo",
+    "value": 22.4522293
+  }
+]

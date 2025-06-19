@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "PUERTO AYORA",
+        "id": 6505,
+        "votos": 3144,
+        "candidato": "Rafael Correa Delgado",
+        "value": 54.14
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 1985,
+        "votos": 108,
+        "candidato": "Rafael Correa Delgado",
+        "value": 60.34
+    },
+    {
+        "parroquia": "BELLA VISTA",
+        "id": 235,
+        "votos": 325,
+        "candidato": "Rafael Correa Delgado",
+        "value": 57.93
+    }
+]

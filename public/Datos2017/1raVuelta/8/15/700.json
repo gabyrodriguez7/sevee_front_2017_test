@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "COTUNDO",
+    "id": 685,
+    "votos": 28,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.82
+  },
+  {
+    "parroquia": "SAN PABLO DE USHPAYACU",
+    "id": 3605,
+    "votos": 14,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.86
+  },
+  {
+    "parroquia": "HATUN SUMAKU",
+    "id": 4630,
+    "votos": 9,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.66
+  },
+  {
+    "parroquia": "ARCHIDONA",
+    "id": 5070,
+    "votos": 102,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.08
+  }
+]

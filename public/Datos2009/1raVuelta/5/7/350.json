@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "EL CAMBIO",
+        "id": 6795,
+        "votos": 44,
+        "candidato": "Melba Jacome",
+        "value": 1.18
+    },
+    {
+        "parroquia": "9 DE MAYO",
+        "id": 6490,
+        "votos": 24,
+        "candidato": "Melba Jacome",
+        "value": 1.11
+    },
+    {
+        "parroquia": "PUERTO BOLIVAR",
+        "id": 5805,
+        "votos": 153,
+        "candidato": "Melba Jacome",
+        "value": 1.14
+    },
+    {
+        "parroquia": "MACHALA",
+        "id": 5625,
+        "votos": 1274,
+        "candidato": "Melba Jacome",
+        "value": 1.27
+    },
+    {
+        "parroquia": "LA PROVIDENCIA",
+        "id": 5565,
+        "votos": 18,
+        "candidato": "Melba Jacome",
+        "value": 1.13
+    },
+    {
+        "parroquia": "EL RETIRO",
+        "id": 255,
+        "votos": 6,
+        "candidato": "Melba Jacome",
+        "value": 0.56
+    }
+]

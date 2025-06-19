@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "EL PLAYÓN DE SN. FRANCISCO",
+    "id": 1170,
+    "votos": 24,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.02
+  },
+  {
+    "parroquia": "LA SOFÍA",
+    "id": 2095,
+    "votos": 0,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0
+  },
+  {
+    "parroquia": "ROSA FLORIDA",
+    "id": 3220,
+    "votos": 2,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.77
+  },
+  {
+    "parroquia": "SANTA BÁRBARA",
+    "id": 3690,
+    "votos": 2,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.38
+  },
+  {
+    "parroquia": "LA BONITA",
+    "id": 5525,
+    "votos": 5,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.85
+  }
+]

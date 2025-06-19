@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "TARAPOA",
+        "id": 6765,
+        "votos": 1223,
+        "candidato": "Rafael Correa Delgado",
+        "value": 46.63
+    },
+    {
+        "parroquia": "AGUAS NEGRAS",
+        "id": 1555,
+        "votos": 287,
+        "candidato": "Rafael Correa Delgado",
+        "value": 52.85
+    },
+    {
+        "parroquia": "CUYABENO",
+        "id": 760,
+        "votos": 66,
+        "candidato": "Rafael Correa Delgado",
+        "value": 37.29
+    }
+]

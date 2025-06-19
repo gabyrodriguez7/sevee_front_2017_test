@@ -1,0 +1,100 @@
+[
+  {
+    "parroquia": "ALLURIQUÍN",
+    "id": 75,
+    "votos": 2506,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 44.63
+  },
+  {
+    "parroquia": "VALLE HERMOSO",
+    "id": 305,
+    "votos": 2687,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 60.02
+  },
+  {
+    "parroquia": "LUZ DE AMÉRICA",
+    "id": 1755,
+    "votos": 2262,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 60.02
+  },
+  {
+    "parroquia": "SAN JACINTO DEL BÚA",
+    "id": 1970,
+    "votos": 3749,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 60.98
+  },
+  {
+    "parroquia": "EL ESFUERZO",
+    "id": 1990,
+    "votos": 1446,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 48.02
+  },
+  {
+    "parroquia": "SANTA MARÍA DEL TOACHI",
+    "id": 2045,
+    "votos": 1232,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 51.83
+  },
+  {
+    "parroquia": "PUERTO LIMÓN",
+    "id": 4440,
+    "votos": 3668,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 55.91
+  },
+  {
+    "parroquia": "ABRAHAM CALAZACÓN",
+    "id": 5730,
+    "votos": 15662,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 54.72
+  },
+  {
+    "parroquia": "BOMBOLÍ",
+    "id": 5860,
+    "votos": 21104,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 51.85
+  },
+  {
+    "parroquia": "RÍO VERDE",
+    "id": 5865,
+    "votos": 26968,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 52.93
+  },
+  {
+    "parroquia": "RÍO TOACHI",
+    "id": 5870,
+    "votos": 2828,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 51
+  },
+  {
+    "parroquia": "SANTO DOMINGO",
+    "id": 6065,
+    "votos": 29012,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 50.15
+  },
+  {
+    "parroquia": "CHIGUILPE",
+    "id": 6175,
+    "votos": 18169,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 48.6
+  },
+  {
+    "parroquia": "ZARACAY",
+    "id": 6180,
+    "votos": 2452,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 43.65
+  }
+]

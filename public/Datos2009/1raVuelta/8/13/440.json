@@ -1,0 +1,114 @@
+[
+  {
+    "parroquia": "SIMON BOLIVAR",
+    "id": 6910,
+    "votos": 207,
+    "candidato": "Lucio Gutierrez",
+    "value": 33.5
+  },
+  {
+    "parroquia": "FRANCISCO PACHECO",
+    "id": 6775,
+    "votos": 263,
+    "candidato": "Lucio Gutierrez",
+    "value": 38.45
+  },
+  {
+    "parroquia": "18 DE OCTUBRE",
+    "id": 6770,
+    "votos": 144,
+    "candidato": "Lucio Gutierrez",
+    "value": 47.21
+  },
+  {
+    "parroquia": "SAN PABLO",
+    "id": 6585,
+    "votos": 1095,
+    "candidato": "Lucio Gutierrez",
+    "value": 32.32
+  },
+  {
+    "parroquia": "PICOAZA",
+    "id": 5845,
+    "votos": 2777,
+    "candidato": "Lucio Gutierrez",
+    "value": 28.37
+  },
+  {
+    "parroquia": "PORTOVIEJO",
+    "id": 5795,
+    "votos": 8637,
+    "candidato": "Lucio Gutierrez",
+    "value": 36.64
+  },
+  {
+    "parroquia": "12 DE MARZO",
+    "id": 5280,
+    "votos": 10671,
+    "candidato": "Lucio Gutierrez",
+    "value": 37.59
+  },
+  {
+    "parroquia": "COLON",
+    "id": 5265,
+    "votos": 2955,
+    "candidato": "Lucio Gutierrez",
+    "value": 31.71
+  },
+  {
+    "parroquia": "ANDRES DE VERA",
+    "id": 5030,
+    "votos": 12499,
+    "candidato": "Lucio Gutierrez",
+    "value": 35.48
+  },
+  {
+    "parroquia": "SAN PLACIDO",
+    "id": 3625,
+    "votos": 1610,
+    "candidato": "Lucio Gutierrez",
+    "value": 35.59
+  },
+  {
+    "parroquia": "RIO CHICO",
+    "id": 3185,
+    "votos": 1638,
+    "candidato": "Lucio Gutierrez",
+    "value": 28.06
+  },
+  {
+    "parroquia": "PUEBLO NUEVO",
+    "id": 2970,
+    "votos": 483,
+    "candidato": "Lucio Gutierrez",
+    "value": 29.22
+  },
+  {
+    "parroquia": "CHIRIJOS",
+    "id": 1925,
+    "votos": 204,
+    "candidato": "Lucio Gutierrez",
+    "value": 32.8
+  },
+  {
+    "parroquia": "CRUCITA",
+    "id": 770,
+    "votos": 1548,
+    "candidato": "Lucio Gutierrez",
+    "value": 29.86
+  },
+  {
+    "parroquia": "ALHAJUELA /BAJO GRANDE",
+    "id": 50,
+    "votos": 805,
+    "candidato": "Lucio Gutierrez",
+    "value": 27.52
+  },
+  {
+    "parroquia": "ABDON CALDERON",
+    "id": 10,
+    "votos": 2146,
+    "candidato": "Lucio Gutierrez",
+    "value": 29.14
+  }
+]

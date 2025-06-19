@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "DR MIGUEL EGAS/PEGUCHE",
+    "id": 1040,
+    "votos": 52,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.39
+  },
+  {
+    "parroquia": "EUGENIO ESPEJO",
+    "id": 1215,
+    "votos": 75,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.77
+  },
+  {
+    "parroquia": "GONZALEZ SÚAREZ",
+    "id": 1360,
+    "votos": 36,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.93
+  },
+  {
+    "parroquia": "PATAQUI",
+    "id": 2785,
+    "votos": 0,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0
+  },
+  {
+    "parroquia": "SAN JOSÉ DE QUICHINCHE",
+    "id": 3490,
+    "votos": 96,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.03
+  },
+  {
+    "parroquia": "SAN JUAN DE ILUMÁN",
+    "id": 3525,
+    "votos": 168,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.53
+  },
+  {
+    "parroquia": "SAN PABLO",
+    "id": 3590,
+    "votos": 67,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.03
+  },
+  {
+    "parroquia": "SAN RAFAEL",
+    "id": 3630,
+    "votos": 57,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.87
+  },
+  {
+    "parroquia": "SELVA ALEGRE",
+    "id": 3810,
+    "votos": 6,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.54
+  },
+  {
+    "parroquia": "JORDÁN",
+    "id": 5490,
+    "votos": 436,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.03
+  },
+  {
+    "parroquia": "SAN LUIS",
+    "id": 5980,
+    "votos": 287,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.07
+  }
+]

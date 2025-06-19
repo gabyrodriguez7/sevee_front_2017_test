@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "ANTONIO J. HOLGUÍN",
+    "id": 135,
+    "votos": 362,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 20.09
+  },
+  {
+    "parroquia": "CUSUBAMBA",
+    "id": 745,
+    "votos": 1240,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 29.21
+  },
+  {
+    "parroquia": "MULALILLO",
+    "id": 2475,
+    "votos": 1382,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 32.05
+  },
+  {
+    "parroquia": "MULLIQUINDIL",
+    "id": 2490,
+    "votos": 1106,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 24.14
+  },
+  {
+    "parroquia": "PANZALEO",
+    "id": 2760,
+    "votos": 453,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 21.07
+  },
+  {
+    "parroquia": "SAN MIGUEL DE SALCEDO",
+    "id": 6000,
+    "votos": 5110,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 21.98
+  }
+]

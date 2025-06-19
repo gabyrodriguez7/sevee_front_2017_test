@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "JIJÓN Y CAAMAÑO",
+    "id": 1835,
+    "votos": 24,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.24
+  },
+  {
+    "parroquia": "JUAN MONTALVO",
+    "id": 1875,
+    "votos": 26,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.02
+  },
+  {
+    "parroquia": "LA CONCEPCIÓN",
+    "id": 2010,
+    "votos": 28,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.45
+  },
+  {
+    "parroquia": "MIRA",
+    "id": 5685,
+    "votos": 149,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.16
+  }
+]

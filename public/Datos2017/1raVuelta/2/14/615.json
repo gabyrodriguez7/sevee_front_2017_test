@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "ARAPICOS",
+    "id": 155,
+    "votos": 20,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.23
+  },
+  {
+    "parroquia": "CUMANDÁ",
+    "id": 715,
+    "votos": 51,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 13.18
+  },
+  {
+    "parroquia": "16 DE AGOSTO",
+    "id": 1685,
+    "votos": 33,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.18
+  },
+  {
+    "parroquia": "SANGAY",
+    "id": 3420,
+    "votos": 18,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.5
+  },
+  {
+    "parroquia": "PALORA",
+    "id": 5760,
+    "votos": 157,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.67
+  }
+]

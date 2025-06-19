@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "SUCUA",
+        "id": 6110,
+        "votos": 2259,
+        "candidato": "Rafael Correa Delgado",
+        "value": 39.44
+    },
+    {
+        "parroquia": "HUAMBI",
+        "id": 1635,
+        "votos": 372,
+        "candidato": "Rafael Correa Delgado",
+        "value": 33.85
+    },
+    {
+        "parroquia": "SANTA MARIANITA DE JESUS",
+        "id": 1140,
+        "votos": 80,
+        "candidato": "Rafael Correa Delgado",
+        "value": 35.71
+    },
+    {
+        "parroquia": "ASUNCION",
+        "id": 180,
+        "votos": 173,
+        "candidato": "Rafael Correa Delgado",
+        "value": 30.4
+    }
+]

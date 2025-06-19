@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "PAUTE",
+        "id": 5775,
+        "votos": 103,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.47
+    },
+    {
+        "parroquia": "EL CABO",
+        "id": 4565,
+        "votos": 10,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.58
+    },
+    {
+        "parroquia": "TOMEBAMBA",
+        "id": 4050,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.62
+    },
+    {
+        "parroquia": "SAN CRISTOBAL",
+        "id": 3375,
+        "votos": 7,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.94
+    },
+    {
+        "parroquia": "GUARAINAC",
+        "id": 1455,
+        "votos": 11,
+        "candidato": "Diego Delgado Jara",
+        "value": 2.15
+    },
+    {
+        "parroquia": "DUG-DUG",
+        "id": 890,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.26
+    },
+    {
+        "parroquia": "CHICAN / GUILLERMO ORTEGA",
+        "id": 870,
+        "votos": 15,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.65
+    },
+    {
+        "parroquia": "BULAN / J. VICTOR IZQUIERDO",
+        "id": 395,
+        "votos": 12,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.69
+    }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "NOVILLO",
+    "id": 1600,
+    "votos": 340,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 30.99
+  },
+  {
+    "parroquia": "ZAPALLO",
+    "id": 1620,
+    "votos": 456,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 25.81
+  },
+  {
+    "parroquia": "FLAVIO ALFARO",
+    "id": 5480,
+    "votos": 3561,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 25.65
+  }
+]

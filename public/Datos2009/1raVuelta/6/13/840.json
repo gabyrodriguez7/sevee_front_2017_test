@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "PICHINCHA /GERMUD",
+    "id": 6550,
+    "votos": 54,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.43
+  },
+  {
+    "parroquia": "BARRAGANETE",
+    "id": 1065,
+    "votos": 8,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.09
+  },
+  {
+    "parroquia": "SAN SEBASTIAN",
+    "id": 1060,
+    "votos": 8,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.38
+  }
+]

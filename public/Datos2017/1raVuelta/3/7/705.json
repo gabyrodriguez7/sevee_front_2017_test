@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "AYAPAMBA",
+    "id": 225,
+    "votos": 351,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 32
+  },
+  {
+    "parroquia": "SAN JUAN DE CERRO AZUL",
+    "id": 375,
+    "votos": 158,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 55.05
+  },
+  {
+    "parroquia": "CORDONCILLO",
+    "id": 4480,
+    "votos": 210,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 34.88
+  },
+  {
+    "parroquia": "SAN JOSÉ",
+    "id": 4530,
+    "votos": 85,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 29.93
+  },
+  {
+    "parroquia": "MILAGRO",
+    "id": 4535,
+    "votos": 90,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 37.82
+  },
+  {
+    "parroquia": "PACCHA",
+    "id": 5745,
+    "votos": 593,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 29.2
+  }
+]

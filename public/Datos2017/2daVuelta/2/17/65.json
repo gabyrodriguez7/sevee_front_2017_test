@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "ASCÁZUBI",
+    "id": 165,
+    "votos": 1809,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 60.1596275
+  },
+  {
+    "parroquia": "CANGAHUA",
+    "id": 480,
+    "votos": 4201,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 50.0894241
+  },
+  {
+    "parroquia": "OLMEDO/PESILLO",
+    "id": 2600,
+    "votos": 3187,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 67.1229992
+  },
+  {
+    "parroquia": "OTÓN",
+    "id": 2635,
+    "votos": 1024,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 57.6576577
+  },
+  {
+    "parroquia": "STA.ROSA DE CUSUBAMBA",
+    "id": 3735,
+    "votos": 1283,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 57.8188373
+  },
+  {
+    "parroquia": "SAN JOSÉ DE AYORA",
+    "id": 4620,
+    "votos": 2965,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 61.0333471
+  },
+  {
+    "parroquia": "CAYAMBE",
+    "id": 5190,
+    "votos": 16120,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 52.3427607
+  },
+  {
+    "parroquia": "JUAN MONTALVO",
+    "id": 5495,
+    "votos": 1503,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 54.515778
+  }
+]

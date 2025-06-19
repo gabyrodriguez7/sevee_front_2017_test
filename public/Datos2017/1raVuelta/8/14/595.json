@@ -1,0 +1,72 @@
+[
+  {
+    "parroquia": "AMAZONAS",
+    "id": 90,
+    "votos": 0,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0
+  },
+  {
+    "parroquia": "BERMEJOS",
+    "id": 340,
+    "votos": 1,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.52
+  },
+  {
+    "parroquia": "BOMBOIZA",
+    "id": 350,
+    "votos": 14,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.68
+  },
+  {
+    "parroquia": "CHIGUINDA",
+    "id": 880,
+    "votos": 8,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.25
+  },
+  {
+    "parroquia": "EL IDEAL",
+    "id": 1910,
+    "votos": 7,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.53
+  },
+  {
+    "parroquia": "NUEVA TARQUI",
+    "id": 2565,
+    "votos": 9,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.02
+  },
+  {
+    "parroquia": "ROSARIO",
+    "id": 3225,
+    "votos": 20,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 5.45
+  },
+  {
+    "parroquia": "SAN MIGUEL DE CUYES",
+    "id": 3580,
+    "votos": 10,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 7.94
+  },
+  {
+    "parroquia": "GUALAQUIZA",
+    "id": 5425,
+    "votos": 126,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.17
+  },
+  {
+    "parroquia": "MERCEDES MOLINA",
+    "id": 5655,
+    "votos": 5,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.29
+  }
+]

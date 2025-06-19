@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "EL ARENAL",
+    "id": 270,
+    "votos": 8,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.88
+  },
+  {
+    "parroquia": "CIANO",
+    "id": 565,
+    "votos": 19,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.64
+  },
+  {
+    "parroquia": "EL LIMO /MARIANA DE JESÚS",
+    "id": 1155,
+    "votos": 50,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.75
+  },
+  {
+    "parroquia": "MERCADILLO",
+    "id": 2405,
+    "votos": 29,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.52
+  },
+  {
+    "parroquia": "VICENTINO",
+    "id": 4210,
+    "votos": 21,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.85
+  },
+  {
+    "parroquia": "ALAMOR",
+    "id": 5005,
+    "votos": 140,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.33
+  }
+]

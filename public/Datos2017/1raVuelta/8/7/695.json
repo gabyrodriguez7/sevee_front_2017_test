@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "HUAQUILLAS",
+    "id": 5460,
+    "votos": 584,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.19
+  },
+  {
+    "parroquia": "HUALTACO",
+    "id": 6800,
+    "votos": 25,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.4
+  },
+  {
+    "parroquia": "MILTON REYES",
+    "id": 6805,
+    "votos": 10,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.4
+  },
+  {
+    "parroquia": "EL PARAÍSO",
+    "id": 6810,
+    "votos": 10,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.83
+  },
+  {
+    "parroquia": "ECUADOR",
+    "id": 6815,
+    "votos": 24,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.54
+  },
+  {
+    "parroquia": "UNIÓN LOJANA",
+    "id": 6820,
+    "votos": 41,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.39
+  }
+]

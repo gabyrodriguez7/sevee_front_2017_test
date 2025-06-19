@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "LA PILA",
+    "id": 1545,
+    "votos": 111,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 6.11
+  },
+  {
+    "parroquia": "MONTECRISTI",
+    "id": 5665,
+    "votos": 2979,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 10.19
+  },
+  {
+    "parroquia": "ANIBAL SAN ANDRÉS",
+    "id": 7460,
+    "votos": 105,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 17.33
+  },
+  {
+    "parroquia": "COLORADO",
+    "id": 7490,
+    "votos": 79,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 9.03
+  },
+  {
+    "parroquia": "LEONIDAS PROAÑO",
+    "id": 7495,
+    "votos": 417,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 5.63
+  },
+  {
+    "parroquia": "GENERAL ELOY ALFARO DELGA",
+    "id": 7500,
+    "votos": 70,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 6.17
+  }
+]

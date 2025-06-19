@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "AYACUCHO",
+        "id": 220,
+        "votos": 36,
+        "candidato": "Zavala Nelson",
+        "value": 0.8128
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 1105,
+        "votos": 13,
+        "candidato": "Zavala Nelson",
+        "value": 1.0
+    },
+    {
+        "parroquia": "HONORATO VASQUEZ",
+        "id": 1610,
+        "votos": 23,
+        "candidato": "Zavala Nelson",
+        "value": 0.8
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 2135,
+        "votos": 38,
+        "candidato": "Zavala Nelson",
+        "value": 1.2
+    },
+    {
+        "parroquia": "SANTA ANA",
+        "id": 6030,
+        "votos": 127,
+        "candidato": "Zavala Nelson",
+        "value": 0.824
+    },
+    {
+        "parroquia": "LODANA",
+        "id": 6725,
+        "votos": 5,
+        "candidato": "Zavala Nelson",
+        "value": 0.668
+    }
+]

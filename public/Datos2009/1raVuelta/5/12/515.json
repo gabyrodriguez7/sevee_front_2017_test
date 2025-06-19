@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "EL SALTO",
+        "id": 6835,
+        "votos": 112,
+        "candidato": "Melba Jacome",
+        "value": 31.19
+    },
+    {
+        "parroquia": "BARREIRO /SANTA RITA",
+        "id": 6830,
+        "votos": 183,
+        "candidato": "Melba Jacome",
+        "value": 4.43
+    },
+    {
+        "parroquia": "DR. CAMILO PONCE E.",
+        "id": 5285,
+        "votos": 632,
+        "candidato": "Melba Jacome",
+        "value": 3.4
+    },
+    {
+        "parroquia": "CLEMENTE BAQUERIZO",
+        "id": 5215,
+        "votos": 1079,
+        "candidato": "Melba Jacome",
+        "value": 3.4
+    },
+    {
+        "parroquia": "PIMOCHA",
+        "id": 2875,
+        "votos": 185,
+        "candidato": "Melba Jacome",
+        "value": 2.94
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 1525,
+        "votos": 135,
+        "candidato": "Melba Jacome",
+        "value": 3.27
+    },
+    {
+        "parroquia": "FEBRES CORDERO",
+        "id": 1265,
+        "votos": 81,
+        "candidato": "Melba Jacome",
+        "value": 1.22
+    },
+    {
+        "parroquia": "CARACOL",
+        "id": 520,
+        "votos": 45,
+        "candidato": "Melba Jacome",
+        "value": 2.22
+    }
+]

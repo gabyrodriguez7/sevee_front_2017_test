@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "SHIMPIS",
+        "id": 525,
+        "votos": 234,
+        "candidato": "Acosta Alberto",
+        "value": 48.55
+    },
+    {
+        "parroquia": "YAUPI",
+        "id": 4300,
+        "votos": 342,
+        "candidato": "Acosta Alberto",
+        "value": 55.0
+    },
+    {
+        "parroquia": "LOGROÑO",
+        "id": 6735,
+        "votos": 281,
+        "candidato": "Acosta Alberto",
+        "value": 17.607
+    }
+]

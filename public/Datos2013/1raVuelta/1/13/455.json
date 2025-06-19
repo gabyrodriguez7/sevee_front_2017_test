@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "AMERICA /LA CERA",
+        "id": 105,
+        "votos": 68,
+        "candidato": "Noboa Alvaro",
+        "value": 3.17
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 560,
+        "votos": 38,
+        "candidato": "Noboa Alvaro",
+        "value": 4.83
+    },
+    {
+        "parroquia": "EL ANEGADO",
+        "id": 1115,
+        "votos": 171,
+        "candidato": "Noboa Alvaro",
+        "value": 5.046
+    },
+    {
+        "parroquia": "JULCUY",
+        "id": 1880,
+        "votos": 87,
+        "candidato": "Noboa Alvaro",
+        "value": 7.16
+    },
+    {
+        "parroquia": "PEDRO PABLO GOMEZ",
+        "id": 2810,
+        "votos": 107,
+        "candidato": "Noboa Alvaro",
+        "value": 3.994
+    },
+    {
+        "parroquia": "PUERTO CAYO",
+        "id": 2990,
+        "votos": 143,
+        "candidato": "Noboa Alvaro",
+        "value": 7.5026
+    },
+    {
+        "parroquia": "MEMBRILLAL",
+        "id": 4490,
+        "votos": 28,
+        "candidato": "Noboa Alvaro",
+        "value": 4.3682
+    },
+    {
+        "parroquia": "JIPIJAPA",
+        "id": 5485,
+        "votos": 1352,
+        "candidato": "Noboa Alvaro",
+        "value": 5.5103
+    },
+    {
+        "parroquia": "DR. MIGUEL MORAN LUCIO",
+        "id": 7465,
+        "votos": 211,
+        "candidato": "Noboa Alvaro",
+        "value": 6.1337
+    },
+    {
+        "parroquia": "MANUEL INOCENCIO PARRALES",
+        "id": 7470,
+        "votos": 139,
+        "candidato": "Noboa Alvaro",
+        "value": 8.460134
+    },
+    {
+        "parroquia": "SAN LORENZO DE JIPIJAPA",
+        "id": 7475,
+        "votos": 373,
+        "candidato": "Noboa Alvaro",
+        "value": 6.39794
+    }
+]

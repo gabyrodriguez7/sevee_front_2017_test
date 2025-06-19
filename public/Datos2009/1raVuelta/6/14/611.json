@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "LOGRO\u00d1O",
+    "id": 6735,
+    "votos": 4,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.31
+  },
+  {
+    "parroquia": "YAUPI",
+    "id": 4300,
+    "votos": 1,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.22
+  },
+  {
+    "parroquia": "SHIMPIS",
+    "id": 525,
+    "votos": 1,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.18
+  }
+]

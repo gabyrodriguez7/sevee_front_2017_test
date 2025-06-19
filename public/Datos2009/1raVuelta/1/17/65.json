@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "JUAN MONTALVO",
+    "id": 5495,
+    "votos": 44,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 3.44
+  },
+  {
+    "parroquia": "CAYAMBE",
+    "id": 5190,
+    "votos": 1142,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 5.09
+  },
+  {
+    "parroquia": "AYORA",
+    "id": 5060,
+    "votos": 112,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 4.74
+  },
+  {
+    "parroquia": "STA.ROSA DE CUSUBAMBA",
+    "id": 3735,
+    "votos": 35,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.23
+  },
+  {
+    "parroquia": "OTON",
+    "id": 2635,
+    "votos": 22,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.72
+  },
+  {
+    "parroquia": "OLMEDO/PESILLO",
+    "id": 2600,
+    "votos": 96,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.68
+  },
+  {
+    "parroquia": "CANGAHUA",
+    "id": 480,
+    "votos": 102,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.21
+  },
+  {
+    "parroquia": "ASCAZUBI",
+    "id": 165,
+    "votos": 86,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 4.29
+  }
+]

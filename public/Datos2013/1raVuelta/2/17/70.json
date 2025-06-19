@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "ALOAG",
+        "id": 55,
+        "votos": 119,
+        "candidato": "Noboa Alvaro",
+        "value": 2.23
+    },
+    {
+        "parroquia": "ALOASI",
+        "id": 60,
+        "votos": 126,
+        "candidato": "Noboa Alvaro",
+        "value": 3.664
+    },
+    {
+        "parroquia": "CORNEJO ASTORGA /TANDAPI",
+        "id": 650,
+        "votos": 55,
+        "candidato": "Noboa Alvaro",
+        "value": 3.56
+    },
+    {
+        "parroquia": "CUTUGLAGUA",
+        "id": 755,
+        "votos": 170,
+        "candidato": "Noboa Alvaro",
+        "value": 2.185371
+    },
+    {
+        "parroquia": "CHAUPI",
+        "id": 850,
+        "votos": 25,
+        "candidato": "Noboa Alvaro",
+        "value": 3.2383
+    },
+    {
+        "parroquia": "TAMBILLO",
+        "id": 3960,
+        "votos": 106,
+        "candidato": "Noboa Alvaro",
+        "value": 1.8
+    },
+    {
+        "parroquia": "UYUMBICHO",
+        "id": 4155,
+        "votos": 46,
+        "candidato": "Noboa Alvaro",
+        "value": 2.0
+    },
+    {
+        "parroquia": "MACHACHI",
+        "id": 5620,
+        "votos": 581,
+        "candidato": "Noboa Alvaro",
+        "value": 3.0
+    }
+]

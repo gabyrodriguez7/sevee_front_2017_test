@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "BELLAVISTA",
+    "id": 455,
+    "votos": 23,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.8
+  },
+  {
+    "parroquia": "NUEVO QUITO",
+    "id": 1120,
+    "votos": 73,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.1
+  },
+  {
+    "parroquia": "PAQUISHA",
+    "id": 6885,
+    "votos": 134,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.08
+  }
+]

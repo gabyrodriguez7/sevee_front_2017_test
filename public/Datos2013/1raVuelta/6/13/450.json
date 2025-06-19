@@ -1,0 +1,52 @@
+[
+                {
+                    "parroquia": "SANTA MARIANITA",
+                    "id": 1800,
+                    "votos": 97,
+                    "candidato": "Lasso Guillermo",
+                    "value": 6.93848
+                },
+                {
+                    "parroquia": "SAN LORENZO",
+                    "id": 3550,
+                    "votos": 173,
+                    "candidato": "Lasso Guillermo",
+                    "value": 10.02317
+                },
+                {
+                    "parroquia": "LOS ESTEROS",
+                    "id": 5570,
+                    "votos": 1853,
+                    "candidato": "Lasso Guillermo",
+                    "value": 12.313
+                },
+                {
+                    "parroquia": "MANTA",
+                    "id": 5635,
+                    "votos": 9891,
+                    "candidato": "Lasso Guillermo",
+                    "value": 19.17
+                },
+                {
+                    "parroquia": "SAN MATEO",
+                    "id": 6135,
+                    "votos": 92,
+                    "candidato": "Lasso Guillermo",
+                    "value": 4.28
+                },
+                {
+                    "parroquia": "TARQUI",
+                    "id": 6155,
+                    "votos": 7251,
+                    "candidato": "Lasso Guillermo",
+                    "value": 14.2
+                },
+                {
+                    "parroquia": "ELOY ALFARO",
+                    "id": 6745,
+                    "votos": 1860,
+                    "candidato": "Lasso Guillermo",
+                    "value": 11.37
+                }
+            ]
+            

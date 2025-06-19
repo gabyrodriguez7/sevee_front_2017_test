@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "CHONTADURO",
+    "id": 930,
+    "votos": 133,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.29
+  },
+  {
+    "parroquia": "CHUMUNDÉ",
+    "id": 965,
+    "votos": 134,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.37
+  },
+  {
+    "parroquia": "LAGARTO",
+    "id": 2035,
+    "votos": 199,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.21
+  },
+  {
+    "parroquia": "MONTALVO / HORQUETA",
+    "id": 2445,
+    "votos": 192,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.18
+  },
+  {
+    "parroquia": "ROCAFUERTE",
+    "id": 3215,
+    "votos": 369,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.08
+  },
+  {
+    "parroquia": "RÍO VERDE",
+    "id": 6720,
+    "votos": 444,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.9
+  }
+]

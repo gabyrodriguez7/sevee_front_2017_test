@@ -1,0 +1,23 @@
+[
+                {
+                    "parroquia": "CALCETA",
+                    "id": 5150,
+                    "votos": 87,
+                    "candidato": "Melba Jacome",
+                    "value": 0.49
+                },
+                {
+                    "parroquia": "QUIROGA",
+                    "id": 3110,
+                    "votos": 8,
+                    "candidato": "Melba Jacome",
+                    "value": 0.42
+                },
+                {
+                    "parroquia": "MEMBRILLO",
+                    "id": 240,
+                    "votos": 15,
+                    "candidato": "Melba Jacome",
+                    "value": 0.96
+                }
+            ]

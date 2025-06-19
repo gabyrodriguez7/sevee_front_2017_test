@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "SAN JACINTO DE WAKAMBEIS",
+    "id": 710,
+    "votos": 3,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.43
+  },
+  {
+    "parroquia": "SANTIAGO DE PANANZA",
+    "id": 1785,
+    "votos": 0,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0
+  },
+  {
+    "parroquia": "PAN DE AZÚCAR",
+    "id": 2750,
+    "votos": 0,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0
+  },
+  {
+    "parroquia": "SAN CARLOS DE LIMÓN",
+    "id": 3920,
+    "votos": 2,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.48
+  },
+  {
+    "parroquia": "SAN JUAN BOSCO",
+    "id": 6445,
+    "votos": 3,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.19
+  }
+]

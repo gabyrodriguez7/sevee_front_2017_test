@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "SAN RAFAEL",
+        "id": 1055,
+        "votos": 33,
+        "candidato": "Gutierrez Lucio",
+        "value": 3.4884
+    },
+    {
+        "parroquia": "GARCIA MORENO",
+        "id": 1315,
+        "votos": 46,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.0
+    },
+    {
+        "parroquia": "LOS ANDES",
+        "id": 2205,
+        "votos": 56,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.0
+    },
+    {
+        "parroquia": "MONTEOLIVO",
+        "id": 2455,
+        "votos": 94,
+        "candidato": "Gutierrez Lucio",
+        "value": 9.0
+    },
+    {
+        "parroquia": "SAN VICENTE DE PUSIR",
+        "id": 3680,
+        "votos": 23,
+        "candidato": "Gutierrez Lucio",
+        "value": 1.9
+    },
+    {
+        "parroquia": "BOLIVAR",
+        "id": 6520,
+        "votos": 134,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.0
+    }
+]

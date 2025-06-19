@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "LLIGUA",
+    "id": 2270,
+    "votos": 118,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 39.46
+  },
+  {
+    "parroquia": "RÍO NEGRO",
+    "id": 3190,
+    "votos": 355,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 44.43
+  },
+  {
+    "parroquia": "RÍO NEGRO",
+    "id": 3200,
+    "votos": 402,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 48.49
+  },
+  {
+    "parroquia": "ULBA",
+    "id": 4135,
+    "votos": 534,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 43.06
+  },
+  {
+    "parroquia": "BAÑOS",
+    "id": 5105,
+    "votos": 4183,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 36.62
+  }
+]

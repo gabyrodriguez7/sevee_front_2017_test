@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CHACRAS",
+        "id": 805,
+        "votos": 449,
+        "candidato": "Correa Delgado Rafael",
+        "value": 65.932452
+    },
+    {
+        "parroquia": "CARCABON",
+        "id": 1695,
+        "votos": 188,
+        "candidato": "Correa Delgado Rafael",
+        "value": 57.7
+    },
+    {
+        "parroquia": "PALMALES",
+        "id": 2715,
+        "votos": 899,
+        "candidato": "Correa Delgado Rafael",
+        "value": 59.0
+    },
+    {
+        "parroquia": "ARENILLAS",
+        "id": 5040,
+        "votos": 6578,
+        "candidato": "Correa Delgado Rafael",
+        "value": 49.645283
+    }
+]

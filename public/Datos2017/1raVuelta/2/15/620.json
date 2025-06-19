@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "AHUANO",
+    "id": 25,
+    "votos": 106,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.29
+  },
+  {
+    "parroquia": "CHONTAPUNTA",
+    "id": 940,
+    "votos": 170,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.2
+  },
+  {
+    "parroquia": "TALAG",
+    "id": 1930,
+    "votos": 104,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.94
+  },
+  {
+    "parroquia": "PANO",
+    "id": 2755,
+    "votos": 83,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.47
+  },
+  {
+    "parroquia": "PUERTO MISAHUALLÍ",
+    "id": 3000,
+    "votos": 153,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.51
+  },
+  {
+    "parroquia": "PUERTO NAPO",
+    "id": 3050,
+    "votos": 160,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.16
+  },
+  {
+    "parroquia": "SAN JUAN DE MUYUNA",
+    "id": 4580,
+    "votos": 119,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.44
+  },
+  {
+    "parroquia": "TENA",
+    "id": 6160,
+    "votos": 1221,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.03
+  }
+]

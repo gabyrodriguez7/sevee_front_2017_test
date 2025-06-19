@@ -1,0 +1,114 @@
+[
+    {
+        "parroquia": "CACHA",
+        "id": 420,
+        "votos": 106,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 5.14
+    },
+    {
+        "parroquia": "CALPI",
+        "id": 445,
+        "votos": 269,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 6.49
+    },
+    {
+        "parroquia": "CUBIJIES",
+        "id": 705,
+        "votos": 92,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 6.14
+    },
+    {
+        "parroquia": "FLORES",
+        "id": 1280,
+        "votos": 118,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.54
+    },
+    {
+        "parroquia": "LICTO",
+        "id": 2165,
+        "votos": 242,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.4
+    },
+    {
+        "parroquia": "PUNGALA",
+        "id": 3035,
+        "votos": 254,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 7.57
+    },
+    {
+        "parroquia": "PUNIN",
+        "id": 3040,
+        "votos": 182,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.52
+    },
+    {
+        "parroquia": "QUIMIAG",
+        "id": 3095,
+        "votos": 197,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 5.75
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3515,
+        "votos": 254,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 5.23
+    },
+    {
+        "parroquia": "SAN LUIS",
+        "id": 3560,
+        "votos": 237,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 5.95
+    },
+    {
+        "parroquia": "LIZARZABURU",
+        "id": 5590,
+        "votos": 2711,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 8.05
+    },
+    {
+        "parroquia": "MALDONADO",
+        "id": 5630,
+        "votos": 2231,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 9.74
+    },
+    {
+        "parroquia": "VELASCO",
+        "id": 6220,
+        "votos": 2021,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 8.29
+    },
+    {
+        "parroquia": "VELOZ",
+        "id": 6230,
+        "votos": 1159,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 8.0
+    },
+    {
+        "parroquia": "YARUQUIES",
+        "id": 6290,
+        "votos": 288,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 7.0
+    },
+    {
+        "parroquia": "LICAN",
+        "id": 6960,
+        "votos": 259,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 7.8
+    }
+]

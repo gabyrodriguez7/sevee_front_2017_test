@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "GRAL. VERNAZA",
+        "id": 1350,
+        "votos": 14,
+        "candidato": "Wray Norman",
+        "value": 0.3
+    },
+    {
+        "parroquia": "JUNQUILLAL",
+        "id": 1595,
+        "votos": 29,
+        "candidato": "Wray Norman",
+        "value": 0.63
+    },
+    {
+        "parroquia": "VICTORIA",
+        "id": 4220,
+        "votos": 19,
+        "candidato": "Wray Norman",
+        "value": 0.81
+    },
+    {
+        "parroquia": "BOCANA",
+        "id": 5120,
+        "votos": 1,
+        "candidato": "Wray Norman",
+        "value": 0.38
+    },
+    {
+        "parroquia": "CANDILEJOS",
+        "id": 5155,
+        "votos": 5,
+        "candidato": "Wray Norman",
+        "value": 0.6993
+    },
+    {
+        "parroquia": "SALITRE",
+        "id": 5200,
+        "votos": 69,
+        "candidato": "Wray Norman",
+        "value": 0.3262
+    },
+    {
+        "parroquia": "PARAISO",
+        "id": 5765,
+        "votos": 1,
+        "candidato": "Wray Norman",
+        "value": 0.8
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 5990,
+        "votos": 1,
+        "candidato": "Wray Norman",
+        "value": 0.8197
+    }
+]

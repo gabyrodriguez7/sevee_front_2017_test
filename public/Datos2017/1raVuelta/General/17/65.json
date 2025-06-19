@@ -1,0 +1,90 @@
+[
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 165,
+        "votos": 2928,
+        "votos1": 1373,
+        "votos2": 670,
+        "fill": "#1eff00",
+        "porcentaje1": 46.89,
+        "porcentaje2": 22.88
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "MONCAYO GALLEGOS PACO ROSENDO",
+        "id": 480,
+        "votos": 7612,
+        "votos1": 2489,
+        "votos2": 2436,
+        "fill": "#1eff00",
+        "porcentaje1": 32.7,
+        "porcentaje2": 32
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "MONCAYO GALLEGOS PACO ROSENDO",
+        "id": 2600,
+        "votos": 4440,
+        "votos1": 2203,
+        "votos2": 1049,
+        "fill": "#1eff00",
+        "porcentaje1": 49.62,
+        "porcentaje2": 23.63
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "MONCAYO GALLEGOS PACO ROSENDO",
+        "id": 2635,
+        "votos": 1612,
+        "votos1": 674,
+        "votos2": 344,
+        "fill": "#1eff00",
+        "porcentaje1": 41.81,
+        "porcentaje2": 21.34
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 3735,
+        "votos": 2152,
+        "votos1": 968,
+        "votos2": 582,
+        "fill": "#1eff00",
+        "porcentaje1": 44.98,
+        "porcentaje2": 27.04
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "MONCAYO GALLEGOS PACO ROSENDO",
+        "id": 4620,
+        "votos": 4627,
+        "votos1": 2005,
+        "votos2": 982,
+        "fill": "#1eff00",
+        "porcentaje1": 43.33,
+        "porcentaje2": 21.22
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 5190,
+        "votos": 30416,
+        "votos1": 11608,
+        "votos2": 7926,
+        "fill": "#1eff00",
+        "porcentaje1": 38.16,
+        "porcentaje2": 26.06
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "MONCAYO GALLEGOS PACO ROSENDO",
+        "id": 5495,
+        "votos": 2578,
+        "votos1": 918,
+        "votos2": 642,
+        "fill": "#1eff00",
+        "porcentaje1": 35.61,
+        "porcentaje2": 24.9
+    }
+]

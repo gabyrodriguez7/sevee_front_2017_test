@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "CURTINCAPAC",
+    "id": 740,
+    "votos": 1,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.26
+  },
+  {
+    "parroquia": "SALATI",
+    "id": 3275,
+    "votos": 3,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.49
+  },
+  {
+    "parroquia": "MORALES",
+    "id": 4520,
+    "votos": 0,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0
+  },
+  {
+    "parroquia": "PORTOVELO",
+    "id": 5850,
+    "votos": 34,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.49
+  }
+]

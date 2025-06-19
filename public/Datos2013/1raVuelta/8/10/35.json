@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "DR MIGUEL EGAS/PEGUCHE",
+        "id": 1040,
+        "votos": 48,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.4101
+    },
+    {
+        "parroquia": "EUGENIO ESPEJO",
+        "id": 1215,
+        "votos": 100,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.51
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 1360,
+        "votos": 109,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.103
+    },
+    {
+        "parroquia": "PATAQUI",
+        "id": 2785,
+        "votos": 5,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.0
+    },
+    {
+        "parroquia": "SAN JOSE DE QUICHINCHE",
+        "id": 3490,
+        "votos": 76,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.8151
+    },
+    {
+        "parroquia": "SAN JUAN DE ILUMAN",
+        "id": 3525,
+        "votos": 104,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.3261
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 3590,
+        "votos": 182,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.1026
+    },
+    {
+        "parroquia": "SAN RAFAEL",
+        "id": 3630,
+        "votos": 106,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.488
+    },
+    {
+        "parroquia": "SELVA ALEGRE",
+        "id": 3810,
+        "votos": 20,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.1053
+    },
+    {
+        "parroquia": "JORDAN",
+        "id": 5490,
+        "votos": 668,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.4624
+    },
+    {
+        "parroquia": "SAN LUIS",
+        "id": 5980,
+        "votos": 381,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.0
+    }
+]

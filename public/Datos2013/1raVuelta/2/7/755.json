@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 1075,
+        "votos": 133,
+        "candidato": "Correa Delgado Rafael",
+        "value": 39.1176471
+    },
+    {
+        "parroquia": "EL PARAISO",
+        "id": 1080,
+        "votos": 243,
+        "candidato": "Correa Delgado Rafael",
+        "value": 56.4
+    },
+    {
+        "parroquia": "LA LIBERTAD",
+        "id": 1100,
+        "votos": 294,
+        "candidato": "Correa Delgado Rafael",
+        "value": 56.21415
+    },
+    {
+        "parroquia": "LA VICTORIA/LAS LAJAS",
+        "id": 6335,
+        "votos": 893,
+        "candidato": "Correa Delgado Rafael",
+        "value": 45.6
+    },
+    {
+        "parroquia": "PLATANILLOS",
+        "id": 6950,
+        "votos": 201,
+        "candidato": "Correa Delgado Rafael",
+        "value": 56.94
+    }
+]

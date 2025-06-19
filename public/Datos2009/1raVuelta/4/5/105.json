@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "PUJILI",
+        "id": 5820,
+        "votos": 9369,
+        "candidato": "Rafael Correa Delgado",
+        "value": 53.85
+    },
+    {
+        "parroquia": "ZUMBAHUA",
+        "id": 4365,
+        "votos": 2543,
+        "candidato": "Rafael Correa Delgado",
+        "value": 61.35
+    },
+    {
+        "parroquia": "TINGO",
+        "id": 4015,
+        "votos": 708,
+        "candidato": "Rafael Correa Delgado",
+        "value": 52.67
+    },
+    {
+        "parroquia": "PILALO",
+        "id": 2865,
+        "votos": 357,
+        "candidato": "Rafael Correa Delgado",
+        "value": 61.13
+    },
+    {
+        "parroquia": "LA VICTORIA",
+        "id": 2150,
+        "votos": 732,
+        "candidato": "Rafael Correa Delgado",
+        "value": 50.27
+    },
+    {
+        "parroquia": "GUANGAJE",
+        "id": 1430,
+        "votos": 1335,
+        "candidato": "Rafael Correa Delgado",
+        "value": 44.75
+    },
+    {
+        "parroquia": "ANGAMARCA",
+        "id": 125,
+        "votos": 467,
+        "candidato": "Rafael Correa Delgado",
+        "value": 37.18
+    }
+]

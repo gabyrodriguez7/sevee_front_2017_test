@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "SUCRE",
+        "id": 6105,
+        "votos": 46,
+        "candidato": "Melba Jacome",
+        "value": 0.53
+    },
+    {
+        "parroquia": "NOBOA",
+        "id": 2555,
+        "votos": 26,
+        "candidato": "Melba Jacome",
+        "value": 0.85
+    },
+    {
+        "parroquia": "ARQ.SIXTO DURAN BALLEN",
+        "id": 1570,
+        "votos": 7,
+        "candidato": "Melba Jacome",
+        "value": 1.23
+    },
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 330,
+        "votos": 13,
+        "candidato": "Melba Jacome",
+        "value": 0.6
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "VALLE DE LA VIRGEN",
+        "id": 185,
+        "votos": 179,
+        "candidato": "Wray Norman",
+        "value": 11.6612
+    },
+    {
+        "parroquia": "SABANILLA",
+        "id": 1670,
+        "votos": 12,
+        "candidato": "Wray Norman",
+        "value": 0.6167
+    },
+    {
+        "parroquia": "PEDRO CARBO",
+        "id": 5735,
+        "votos": 131,
+        "candidato": "Wray Norman",
+        "value": 0.5817
+    }
+]

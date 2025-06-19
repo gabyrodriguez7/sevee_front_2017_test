@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "SARAGURO",
+    "id": 6075,
+    "votos": 1563,
+    "candidato": "Lucio Gutierrez",
+    "value": 37.41
+  },
+  {
+    "parroquia": "URDANETA/PAQUISHAPA",
+    "id": 4145,
+    "votos": 332,
+    "candidato": "Lucio Gutierrez",
+    "value": 23.18
+  },
+  {
+    "parroquia": "SELVA ALEGRE",
+    "id": 3815,
+    "votos": 319,
+    "candidato": "Lucio Gutierrez",
+    "value": 43.4
+  },
+  {
+    "parroquia": "SAN SEBASTIAN DE YULOG",
+    "id": 3665,
+    "votos": 112,
+    "candidato": "Lucio Gutierrez",
+    "value": 31.19
+  },
+  {
+    "parroquia": "SAN PABLO DE TENTA",
+    "id": 3600,
+    "votos": 327,
+    "candidato": "Lucio Gutierrez",
+    "value": 30.84
+  },
+  {
+    "parroquia": "SAN ANTONIO DE CUMBE",
+    "id": 3340,
+    "votos": 195,
+    "candidato": "Lucio Gutierrez",
+    "value": 43.23
+  },
+  {
+    "parroquia": "MANU",
+    "id": 2360,
+    "votos": 393,
+    "candidato": "Lucio Gutierrez",
+    "value": 31.49
+  },
+  {
+    "parroquia": "LLUZHAPA",
+    "id": 2280,
+    "votos": 157,
+    "candidato": "Lucio Gutierrez",
+    "value": 26.52
+  },
+  {
+    "parroquia": "EL TABLON",
+    "id": 1190,
+    "votos": 116,
+    "candidato": "Lucio Gutierrez",
+    "value": 39.05
+  },
+  {
+    "parroquia": "EL PARAISO DE CELEN",
+    "id": 1165,
+    "votos": 401,
+    "candidato": "Lucio Gutierrez",
+    "value": 46.51
+  },
+  {
+    "parroquia": "SUMAYPAMBA",
+    "id": 310,
+    "votos": 70,
+    "candidato": "Lucio Gutierrez",
+    "value": 15.73
+  }
+]

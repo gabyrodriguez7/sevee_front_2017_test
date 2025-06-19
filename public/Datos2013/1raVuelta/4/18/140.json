@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "BENITEZ /PACHANLICA",
+        "id": 335,
+        "votos": 31,
+        "candidato": "Acosta Alberto",
+        "value": 2.1
+    },
+    {
+        "parroquia": "BOLIVAR",
+        "id": 365,
+        "votos": 27,
+        "candidato": "Acosta Alberto",
+        "value": 1.65
+    },
+    {
+        "parroquia": "COTALO",
+        "id": 675,
+        "votos": 13,
+        "candidato": "Acosta Alberto",
+        "value": 1.0
+    },
+    {
+        "parroquia": "CHIQUICHA",
+        "id": 900,
+        "votos": 34,
+        "candidato": "Acosta Alberto",
+        "value": 2.7
+    },
+    {
+        "parroquia": "EL ROSARIO /RUMICHACA",
+        "id": 1185,
+        "votos": 58,
+        "candidato": "Acosta Alberto",
+        "value": 3.85
+    },
+    {
+        "parroquia": "GARCIA MORENO",
+        "id": 1320,
+        "votos": 33,
+        "candidato": "Acosta Alberto",
+        "value": 1.5566
+    },
+    {
+        "parroquia": "HUAMBALO",
+        "id": 1630,
+        "votos": 55,
+        "candidato": "Acosta Alberto",
+        "value": 1.14
+    },
+    {
+        "parroquia": "SALASACA",
+        "id": 3905,
+        "votos": 287,
+        "candidato": "Acosta Alberto",
+        "value": 9.852
+    },
+    {
+        "parroquia": "PELILEO",
+        "id": 5780,
+        "votos": 265,
+        "candidato": "Acosta Alberto",
+        "value": 1.6
+    },
+    {
+        "parroquia": "PELILEO GRANDE /R. MINO",
+        "id": 5900,
+        "votos": 13,
+        "candidato": "Acosta Alberto",
+        "value": 2.0
+    }
+]

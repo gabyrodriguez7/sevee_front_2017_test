@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "COPAL",
+    "id": 645,
+    "votos": 118,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 44.36
+  },
+  {
+    "parroquia": "CHUPIANZA",
+    "id": 970,
+    "votos": 162,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 45.76
+  },
+  {
+    "parroquia": "SAN FCO. DE CHINIMBIMI",
+    "id": 1365,
+    "votos": 502,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 70.51
+  },
+  {
+    "parroquia": "PATUCA",
+    "id": 2795,
+    "votos": 511,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 61.2
+  },
+  {
+    "parroquia": "SAN LUIS DEL ACHO",
+    "id": 3565,
+    "votos": 211,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 54.38
+  },
+  {
+    "parroquia": "TAYUZA",
+    "id": 4115,
+    "votos": 506,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 56.92
+  },
+  {
+    "parroquia": "MÉNDEZ",
+    "id": 5645,
+    "votos": 1520,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 56.46
+  }
+]

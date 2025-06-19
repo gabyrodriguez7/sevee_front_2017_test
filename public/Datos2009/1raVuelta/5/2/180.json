@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "CHILLANES",
+        "id": 5245,
+        "votos": 37,
+        "candidato": "Melba Jacome",
+        "value": 0.63
+    },
+    {
+        "parroquia": "SAN JOSE DE TAMBO",
+        "id": 3500,
+        "votos": 15,
+        "candidato": "Melba Jacome",
+        "value": 0.56
+    }
+]

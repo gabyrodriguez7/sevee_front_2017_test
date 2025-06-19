@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "EL GOALTAL / LAS JUNTAS",
+    "id": 1150,
+    "votos": 82,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 13.23
+  },
+  {
+    "parroquia": "LA LIBERTAD",
+    "id": 2040,
+    "votos": 337,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 12.45
+  },
+  {
+    "parroquia": "SAN ISIDRO",
+    "id": 3435,
+    "votos": 287,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 12.8
+  },
+  {
+    "parroquia": "EL ÁNGEL",
+    "id": 5295,
+    "votos": 412,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 11.3
+  },
+  {
+    "parroquia": "27 DE SEPTIEMBRE",
+    "id": 6250,
+    "votos": 122,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 11.33
+  }
+]

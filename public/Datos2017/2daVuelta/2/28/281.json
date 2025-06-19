@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "C. E. EN MÉXICO",
+    "id": 9047,
+    "votos": 75,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": "25,17"
+  },
+  {
+    "parroquia": "C. E. EN TAPACHULA",
+    "id": 9082,
+    "votos": 3,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": "75,00"
+  },
+  {
+    "parroquia": "C. E. EN MONTERREY",
+    "id": 9086,
+    "votos": 14,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": "28,57"
+  }
+]

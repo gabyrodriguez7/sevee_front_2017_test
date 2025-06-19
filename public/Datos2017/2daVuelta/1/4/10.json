@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "PIARTAL",
+    "id": 250,
+    "votos": 304,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 39.9
+  },
+  {
+    "parroquia": "CRISTÓBAL COLÓN",
+    "id": 690,
+    "votos": 998,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 46.72
+  },
+  {
+    "parroquia": "CHITÁN DE NAVARRETES",
+    "id": 910,
+    "votos": 215,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 50.35
+  },
+  {
+    "parroquia": "FERNÁNDEZ SALVADOR",
+    "id": 1270,
+    "votos": 285,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 39.86
+  },
+  {
+    "parroquia": "LA PAZ",
+    "id": 2065,
+    "votos": 909,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 40.73
+  },
+  {
+    "parroquia": "GONZALEZ SUÁREZ",
+    "id": 5405,
+    "votos": 4047,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 54.28
+  },
+  {
+    "parroquia": "SAN JOSÉ",
+    "id": 5970,
+    "votos": 3612,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 47.41
+  }
+]

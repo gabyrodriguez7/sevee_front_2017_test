@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "CANI",
+    "id": 500,
+    "votos": 40,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.03
+  },
+  {
+    "parroquia": "COLUMBE",
+    "id": 610,
+    "votos": 686,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.72
+  },
+  {
+    "parroquia": "JUAN DE VELASCO / PONGOR",
+    "id": 1865,
+    "votos": 106,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.24
+  },
+  {
+    "parroquia": "SANTIAGO DE QUITO",
+    "id": 4430,
+    "votos": 74,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.93
+  },
+  {
+    "parroquia": "CAJABAMBA",
+    "id": 5145,
+    "votos": 538,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.44
+  },
+  {
+    "parroquia": "SICALPA",
+    "id": 6080,
+    "votos": 507,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.39
+  }
+]

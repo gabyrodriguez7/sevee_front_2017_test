@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "ALOAG",
+    "id": 55,
+    "votos": 1847,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 30.71
+  },
+  {
+    "parroquia": "ALOASI",
+    "id": 60,
+    "votos": 1304,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 32.70
+  },
+  {
+    "parroquia": "CORNEJO ASTORGA /TANDAPI",
+    "id": 650,
+    "votos": 552,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 35.52
+  },
+  {
+    "parroquia": "CUTUGLAGUA",
+    "id": 755,
+    "votos": 3916,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 44.72
+  },
+  {
+    "parroquia": "CHAUPI",
+    "id": 850,
+    "votos": 297,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 33.04
+  },
+  {
+    "parroquia": "TAMBILLO",
+    "id": 3960,
+    "votos": 2525,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 38.24
+  },
+  {
+    "parroquia": "UYUMBICHO",
+    "id": 4155,
+    "votos": 1013,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 37.44
+  },
+  {
+    "parroquia": "MACHACHI",
+    "id": 5620,
+    "votos": 7194,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 30.75
+  }
+]

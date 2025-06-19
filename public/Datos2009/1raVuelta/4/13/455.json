@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "JIPIJAPA",
+        "id": 5485,
+        "votos": 14794,
+        "candidato": "Rafael Correa Delgado",
+        "value": 54.73
+    },
+    {
+        "parroquia": "MEMBRILLAL",
+        "id": 4490,
+        "votos": 300,
+        "candidato": "Rafael Correa Delgado",
+        "value": 59.52
+    },
+    {
+        "parroquia": "PUERTO CAYO",
+        "id": 2990,
+        "votos": 813,
+        "candidato": "Rafael Correa Delgado",
+        "value": 56.5
+    },
+    {
+        "parroquia": "PEDRO PABLO GOMEZ",
+        "id": 2810,
+        "votos": 1195,
+        "candidato": "Rafael Correa Delgado",
+        "value": 49.18
+    },
+    {
+        "parroquia": "JULCUY",
+        "id": 1880,
+        "votos": 598,
+        "candidato": "Rafael Correa Delgado",
+        "value": 63.96
+    },
+    {
+        "parroquia": "EL ANEGADO",
+        "id": 1115,
+        "votos": 1724,
+        "candidato": "Rafael Correa Delgado",
+        "value": 60.85
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 560,
+        "votos": 394,
+        "candidato": "Rafael Correa Delgado",
+        "value": 71.38
+    },
+    {
+        "parroquia": "AMERICA /LA CERA",
+        "id": 105,
+        "votos": 1184,
+        "candidato": "Rafael Correa Delgado",
+        "value": 59.23
+    }
+]

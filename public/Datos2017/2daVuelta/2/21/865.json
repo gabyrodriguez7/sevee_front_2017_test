@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "EL REVENTADOR",
+    "id": 230,
+    "votos": 502,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 57.57
+  },
+  {
+    "parroquia": "GONZALO PIZARRO",
+    "id": 1090,
+    "votos": 1105,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 53.1
+  },
+  {
+    "parroquia": "PUERTO LIBRE",
+    "id": 3615,
+    "votos": 562,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 79.94
+  },
+  {
+    "parroquia": "LUMBAQUÍ",
+    "id": 6300,
+    "votos": 1495,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 55.66
+  }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "ANCONCITO",
+        "id": 115,
+        "votos": 43,
+        "candidato": "Zavala Nelson",
+        "value": 1.0
+    },
+    {
+        "parroquia": "JOSE LUIS TAMAYO / MUEY",
+        "id": 1850,
+        "votos": 132,
+        "candidato": "Zavala Nelson",
+        "value": 1.4278
+    },
+    {
+        "parroquia": "SALINAS",
+        "id": 5920,
+        "votos": 178,
+        "candidato": "Zavala Nelson",
+        "value": 1.0
+    },
+    {
+        "parroquia": "GRAL. A. E. GALLO",
+        "id": 6270,
+        "votos": 10,
+        "candidato": "Zavala Nelson",
+        "value": 1.0
+    },
+    {
+        "parroquia": "VICENTE ROCAFUERTE",
+        "id": 6275,
+        "votos": 31,
+        "candidato": "Zavala Nelson",
+        "value": 1.6
+    },
+    {
+        "parroquia": "CARLOS ESPINOZA LARREA",
+        "id": 6280,
+        "votos": 29,
+        "candidato": "Zavala Nelson",
+        "value": 0.977
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 6925,
+        "votos": 31,
+        "candidato": "Zavala Nelson",
+        "value": 1.1
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "LA VICTORIA/LAS LAJAS",
+        "id": 6335,
+        "votos": 42,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.04
+    },
+    {
+        "parroquia": "LA LIBERTAD",
+        "id": 1100,
+        "votos": 9,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.17
+    },
+    {
+        "parroquia": "EL PARAISO",
+        "id": 1080,
+        "votos": 2,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 0.72
+    },
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 1075,
+        "votos": 7,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.58
+    }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "EL PROGRESO",
+    "id": 1220,
+    "votos": 1,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.25
+  },
+  {
+    "parroquia": "ISLA SANTA MARÍA",
+    "id": 4415,
+    "votos": 0,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0
+  },
+  {
+    "parroquia": "PTO. BAQUERIZO MORENO",
+    "id": 6510,
+    "votos": 15,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.37
+  }
+]

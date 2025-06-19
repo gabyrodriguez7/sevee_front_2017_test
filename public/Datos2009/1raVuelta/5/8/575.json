@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "ROSA ZARATE",
+        "id": 5895,
+        "votos": 214,
+        "candidato": "Melba Jacome",
+        "value": 0.71
+    },
+    {
+        "parroquia": "VICHE",
+        "id": 4230,
+        "votos": 13,
+        "candidato": "Melba Jacome",
+        "value": 0.5
+    },
+    {
+        "parroquia": "MALIMPIA / GUAYLLABAMBA",
+        "id": 2345,
+        "votos": 24,
+        "candidato": "Melba Jacome",
+        "value": 0.95
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 1530,
+        "votos": 49,
+        "candidato": "Melba Jacome",
+        "value": 0.73
+    },
+    {
+        "parroquia": "CHURA",
+        "id": 980,
+        "votos": 6,
+        "candidato": "Melba Jacome",
+        "value": 2.14
+    },
+    {
+        "parroquia": "CUBE / CHANCAMA",
+        "id": 700,
+        "votos": 10,
+        "candidato": "Melba Jacome",
+        "value": 1.34
+    }
+]

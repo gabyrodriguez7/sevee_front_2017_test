@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "SHIMPIS",
+    "id": 525,
+    "votos": 161,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 15.09
+  },
+  {
+    "parroquia": "YAUPI",
+    "id": 4300,
+    "votos": 159,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 17.13
+  },
+  {
+    "parroquia": "LOGROÑO",
+    "id": 6735,
+    "votos": 639,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 34.99
+  }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "PIARTAL",
+        "id": 250,
+        "votos": 15,
+        "candidato": "Noboa Alvaro",
+        "value": 2.1127
+    },
+    {
+        "parroquia": "CRISTOBAL COLON",
+        "id": 690,
+        "votos": 84,
+        "candidato": "Noboa Alvaro",
+        "value": 4.1
+    },
+    {
+        "parroquia": "CHITAN DE NAVARRETES",
+        "id": 910,
+        "votos": 13,
+        "candidato": "Noboa Alvaro",
+        "value": 3.0
+    },
+    {
+        "parroquia": "FERNANDEZ SALVADOR",
+        "id": 1270,
+        "votos": 20,
+        "candidato": "Noboa Alvaro",
+        "value": 3.1
+    },
+    {
+        "parroquia": "LA PAZ",
+        "id": 2065,
+        "votos": 56,
+        "candidato": "Noboa Alvaro",
+        "value": 2.79
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 5405,
+        "votos": 258,
+        "candidato": "Noboa Alvaro",
+        "value": 3.67
+    },
+    {
+        "parroquia": "SAN JOSE",
+        "id": 5970,
+        "votos": 238,
+        "candidato": "Noboa Alvaro",
+        "value": 3.48
+    }
+]

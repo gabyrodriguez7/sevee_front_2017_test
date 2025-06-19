@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "ANCONCITO",
+    "id": 115,
+    "votos": 483,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 7.21
+  },
+  {
+    "parroquia": "JOSÉ LUIS TAMAYO / MUEY",
+    "id": 1850,
+    "votos": 804,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 6.57
+  },
+  {
+    "parroquia": "SALINAS",
+    "id": 5920,
+    "votos": 1112,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 8.08
+  },
+  {
+    "parroquia": "GRAL. A. E. GALLO",
+    "id": 6270,
+    "votos": 81,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 4.98
+  },
+  {
+    "parroquia": "VICENTE ROCAFUERTE",
+    "id": 6275,
+    "votos": 131,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 6.25
+  },
+  {
+    "parroquia": "CARLOS ESPINOZA LARREA",
+    "id": 6280,
+    "votos": 239,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 6.66
+  },
+  {
+    "parroquia": "SANTA ROSA",
+    "id": 6925,
+    "votos": 239,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 6.11
+  }
+]

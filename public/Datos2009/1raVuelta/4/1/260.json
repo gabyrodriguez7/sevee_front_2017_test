@@ -1,0 +1,254 @@
+[
+    {
+        "parroquia": "HERMANO MIGUEL",
+        "id": 6865,
+        "votos": 2654,
+        "candidato": "Rafael Correa Delgado",
+        "value": 69.82
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 6090,
+        "votos": 8747,
+        "candidato": "Rafael Correa Delgado",
+        "value": 60.17
+    },
+    {
+        "parroquia": "SAN SEBASTIAN",
+        "id": 6010,
+        "votos": 12250,
+        "candidato": "Rafael Correa Delgado",
+        "value": 61.15
+    },
+    {
+        "parroquia": "SAN BLAS",
+        "id": 5930,
+        "votos": 9702,
+        "candidato": "Rafael Correa Delgado",
+        "value": 59.77
+    },
+    {
+        "parroquia": "SAGRARIO",
+        "id": 5905,
+        "votos": 10037,
+        "candidato": "Rafael Correa Delgado",
+        "value": 60.64
+    },
+    {
+        "parroquia": "RAMIREZ DAVALOS",
+        "id": 5875,
+        "votos": 5269,
+        "candidato": "Rafael Correa Delgado",
+        "value": 60.97
+    },
+    {
+        "parroquia": "HUAYNACAPAC",
+        "id": 5450,
+        "votos": 6171,
+        "candidato": "Rafael Correa Delgado",
+        "value": 58.72
+    },
+    {
+        "parroquia": "YANUNCAY",
+        "id": 5370,
+        "votos": 6834,
+        "candidato": "Rafael Correa Delgado",
+        "value": 67.27
+    },
+    {
+        "parroquia": "TOTORACOCHA",
+        "id": 5360,
+        "votos": 7741,
+        "candidato": "Rafael Correa Delgado",
+        "value": 64.76
+    },
+    {
+        "parroquia": "EL VECINO",
+        "id": 5330,
+        "votos": 16498,
+        "candidato": "Rafael Correa Delgado",
+        "value": 64.68
+    },
+    {
+        "parroquia": "MONAY",
+        "id": 5290,
+        "votos": 4250,
+        "candidato": "Rafael Correa Delgado",
+        "value": 68.24
+    },
+    {
+        "parroquia": "MACHANGARA",
+        "id": 5140,
+        "votos": 2565,
+        "candidato": "Rafael Correa Delgado",
+        "value": 65.23
+    },
+    {
+        "parroquia": "EL BATAN",
+        "id": 5135,
+        "votos": 3827,
+        "candidato": "Rafael Correa Delgado",
+        "value": 61.48
+    },
+    {
+        "parroquia": "CAÑARIBAMBA",
+        "id": 5080,
+        "votos": 3732,
+        "candidato": "Rafael Correa Delgado",
+        "value": 64.43
+    },
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 5075,
+        "votos": 5693,
+        "candidato": "Rafael Correa Delgado",
+        "value": 64.73
+    },
+    {
+        "parroquia": "VICTORIA DEL PORTETE",
+        "id": 4225,
+        "votos": 964,
+        "candidato": "Rafael Correa Delgado",
+        "value": 48.39
+    },
+    {
+        "parroquia": "VALLE",
+        "id": 4200,
+        "votos": 4826,
+        "candidato": "Rafael Correa Delgado",
+        "value": 63.4
+    },
+    {
+        "parroquia": "TURI",
+        "id": 4095,
+        "votos": 1817,
+        "candidato": "Rafael Correa Delgado",
+        "value": 65.64
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 3980,
+        "votos": 2593,
+        "candidato": "Rafael Correa Delgado",
+        "value": 60.71
+    },
+    {
+        "parroquia": "SININCAY",
+        "id": 3870,
+        "votos": 3158,
+        "candidato": "Rafael Correa Delgado",
+        "value": 65.38
+    },
+    {
+        "parroquia": "SIDCAY",
+        "id": 3850,
+        "votos": 1382,
+        "candidato": "Rafael Correa Delgado",
+        "value": 72.69
+    },
+    {
+        "parroquia": "SAYAUSI",
+        "id": 3795,
+        "votos": 3485,
+        "candidato": "Rafael Correa Delgado",
+        "value": 67.76
+    },
+    {
+        "parroquia": "SANTA ANA",
+        "id": 3685,
+        "votos": 2089,
+        "candidato": "Rafael Correa Delgado",
+        "value": 73.63
+    },
+    {
+        "parroquia": "SAN JOAQUIN",
+        "id": 3460,
+        "votos": 2583,
+        "candidato": "Rafael Correa Delgado",
+        "value": 66.91
+    },
+    {
+        "parroquia": "RICAURTE",
+        "id": 3165,
+        "votos": 5300,
+        "candidato": "Rafael Correa Delgado",
+        "value": 65.01
+    },
+    {
+        "parroquia": "QUINGEO",
+        "id": 3105,
+        "votos": 1560,
+        "candidato": "Rafael Correa Delgado",
+        "value": 62.7
+    },
+    {
+        "parroquia": "PACCHA",
+        "id": 2680,
+        "votos": 1511,
+        "candidato": "Rafael Correa Delgado",
+        "value": 67.21
+    },
+    {
+        "parroquia": "OCTAVIO CORDERO PALACIOS",
+        "id": 2595,
+        "votos": 755,
+        "candidato": "Rafael Correa Delgado",
+        "value": 75.5
+    },
+    {
+        "parroquia": "MULTI /  NULTI",
+        "id": 2570,
+        "votos": 1438,
+        "candidato": "Rafael Correa Delgado",
+        "value": 64.57
+    },
+    {
+        "parroquia": "MOLLETURO",
+        "id": 2430,
+        "votos": 1417,
+        "candidato": "Rafael Correa Delgado",
+        "value": 50.12
+    },
+    {
+        "parroquia": "LLACAO",
+        "id": 2255,
+        "votos": 1218,
+        "candidato": "Rafael Correa Delgado",
+        "value": 62.78
+    },
+    {
+        "parroquia": "CHIQUINTAD",
+        "id": 905,
+        "votos": 1326,
+        "candidato": "Rafael Correa Delgado",
+        "value": 63.44
+    },
+    {
+        "parroquia": "CHECA JIDCAY",
+        "id": 860,
+        "votos": 788,
+        "candidato": "Rafael Correa Delgado",
+        "value": 61.56
+    },
+    {
+        "parroquia": "CHAUCHA / ANGAS",
+        "id": 845,
+        "votos": 406,
+        "candidato": "Rafael Correa Delgado",
+        "value": 72.89
+    },
+    {
+        "parroquia": "CUMBE",
+        "id": 730,
+        "votos": 1462,
+        "candidato": "Rafael Correa Delgado",
+        "value": 51.49
+    },
+    {
+        "parroquia": "BAÑOS",
+        "id": 285,
+        "votos": 6604,
+        "candidato": "Rafael Correa Delgado",
+        "value": 64.92
+    }
+]

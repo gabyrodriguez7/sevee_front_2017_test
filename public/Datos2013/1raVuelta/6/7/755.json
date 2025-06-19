@@ -1,0 +1,37 @@
+[
+	{
+		"parroquia": "SAN ISIDRO",
+		"id": 1075,
+		"votos": 129,
+		"candidato": "Lasso Guillermo",
+		"value": 37.9411765
+	},
+	{
+		"parroquia": "EL PARAISO",
+		"id": 1080,
+		"votos": 132,
+		"candidato": "Lasso Guillermo",
+		"value": 30.6
+	},
+	{
+		"parroquia": "LA LIBERTAD",
+		"id": 1100,
+		"votos": 178,
+		"candidato": "Lasso Guillermo",
+		"value": 34.03442
+	},
+	{
+		"parroquia": "LA VICTORIA/LAS LAJAS",
+		"id": 6335,
+		"votos": 787,
+		"candidato": "Lasso Guillermo",
+		"value": 40.2
+	},
+	{
+		"parroquia": "PLATANILLOS",
+		"id": 6950,
+		"votos": 128,
+		"candidato": "Lasso Guillermo",
+		"value": 36.26
+	}
+]

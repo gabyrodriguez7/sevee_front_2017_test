@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "JIPIJAPA",
+        "id": 5485,
+        "votos": 153,
+        "candidato": "Melba Jacome",
+        "value": 0.57
+    },
+    {
+        "parroquia": "MEMBRILLAL",
+        "id": 4490,
+        "votos": 2,
+        "candidato": "Melba Jacome",
+        "value": 0.4
+    },
+    {
+        "parroquia": "PUERTO CAYO",
+        "id": 2990,
+        "votos": 15,
+        "candidato": "Melba Jacome",
+        "value": 1.04
+    },
+    {
+        "parroquia": "PEDRO PABLO GOMEZ",
+        "id": 2810,
+        "votos": 44,
+        "candidato": "Melba Jacome",
+        "value": 1.81
+    },
+    {
+        "parroquia": "JULCUY",
+        "id": 1880,
+        "votos": 3,
+        "candidato": "Melba Jacome",
+        "value": 0.32
+    },
+    {
+        "parroquia": "EL ANEGADO",
+        "id": 1115,
+        "votos": 22,
+        "candidato": "Melba Jacome",
+        "value": 0.78
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 560,
+        "votos": 2,
+        "candidato": "Melba Jacome",
+        "value": 0.36
+    },
+    {
+        "parroquia": "AMERICA /LA CERA",
+        "id": 105,
+        "votos": 27,
+        "candidato": "Melba Jacome",
+        "value": 1.35
+    }
+]

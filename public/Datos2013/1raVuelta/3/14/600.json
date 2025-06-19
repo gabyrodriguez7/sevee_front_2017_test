@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "INDANZA",
+        "id": 1720,
+        "votos": 6,
+        "candidato": "Wray Norman",
+        "value": 0.916
+    },
+    {
+        "parroquia": "SAN MIGUEL DE CONCHAY",
+        "id": 3250,
+        "votos": 1,
+        "candidato": "Wray Norman",
+        "value": 0.2
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3320,
+        "votos": 3,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "SANTA SUSANA DE CHIVIAZA",
+        "id": 3760,
+        "votos": 1,
+        "candidato": "Wray Norman",
+        "value": 0.0
+    },
+    {
+        "parroquia": "YUNGANZA /EL ROSARIO",
+        "id": 4305,
+        "votos": 1,
+        "candidato": "Wray Norman",
+        "value": 0.2336449
+    },
+    {
+        "parroquia": "GRAL. LEONIDAS PLAZA",
+        "id": 5390,
+        "votos": 36,
+        "candidato": "Wray Norman",
+        "value": 1.1464968
+    }
+]

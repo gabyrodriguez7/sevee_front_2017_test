@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "EL TAMBO",
+    "id": 1200,
+    "votos": 28,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.49
+  },
+  {
+    "parroquia": "GUAYQUICHUMA",
+    "id": 1480,
+    "votos": 5,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.98
+  },
+  {
+    "parroquia": "SAN PEDRO DE LA BENDITA",
+    "id": 3610,
+    "votos": 17,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.46
+  },
+  {
+    "parroquia": "ZAMBI",
+    "id": 4455,
+    "votos": 7,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.24
+  },
+  {
+    "parroquia": "CATAMAYO",
+    "id": 5270,
+    "votos": 518,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.34
+  },
+  {
+    "parroquia": "SAN JOSÉ",
+    "id": 6825,
+    "votos": 25,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.91
+  }
+]

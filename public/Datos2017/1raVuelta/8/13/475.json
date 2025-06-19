@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "CHARAPOTO",
+    "id": 840,
+    "votos": 736,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 5.51
+  },
+  {
+    "parroquia": "SAN ISIDRO",
+    "id": 3445,
+    "votos": 129,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.92
+  },
+  {
+    "parroquia": "BAHÍA DE CARÁQUEZ",
+    "id": 5095,
+    "votos": 289,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.22
+  },
+  {
+    "parroquia": "LEONIDAS PLAZA G.",
+    "id": 5580,
+    "votos": 93,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.53
+  }
+]

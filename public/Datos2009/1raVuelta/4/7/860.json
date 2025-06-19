@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "MARCABELI",
+        "id": 6570,
+        "votos": 1812,
+        "candidato": "Rafael Correa Delgado",
+        "value": 67.73
+    },
+    {
+        "parroquia": "EL INGENIO",
+        "id": 160,
+        "votos": 128,
+        "candidato": "Rafael Correa Delgado",
+        "value": 64.0
+    }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "CUTCHIL",
+    "id": 750,
+    "votos": 12,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.56
+  },
+  {
+    "parroquia": "GIMA",
+    "id": 1355,
+    "votos": 16,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.75
+  },
+  {
+    "parroquia": "GUEL",
+    "id": 1490,
+    "votos": 7,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.87
+  },
+  {
+    "parroquia": "LUDO",
+    "id": 2215,
+    "votos": 29,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.56
+  },
+  {
+    "parroquia": "SAN BARTOLOMÉ",
+    "id": 3360,
+    "votos": 17,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.81
+  },
+  {
+    "parroquia": "SAN JOSÉ DE RARANGA",
+    "id": 3495,
+    "votos": 15,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.41
+  },
+  {
+    "parroquia": "SIGSIG",
+    "id": 6085,
+    "votos": 71,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.88
+  }
+]

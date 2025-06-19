@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "PACCHA",
+        "id": 5745,
+        "votos": 15,
+        "candidato": "Melba Jacome",
+        "value": 0.86
+    },
+    {
+        "parroquia": "MILAGRO",
+        "id": 4535,
+        "votos": 1,
+        "candidato": "Melba Jacome",
+        "value": 0.45
+    },
+    {
+        "parroquia": "SAN JOSE",
+        "id": 4530,
+        "votos": 3,
+        "candidato": "Melba Jacome",
+        "value": 1.27
+    },
+    {
+        "parroquia": "CORDONCILLO",
+        "id": 4480,
+        "votos": 1,
+        "candidato": "Melba Jacome",
+        "value": 0.21
+    },
+    {
+        "parroquia": "SAN JUAN DE CERRO AZUL",
+        "id": 375,
+        "votos": 3,
+        "candidato": "Melba Jacome",
+        "value": 1.29
+    },
+    {
+        "parroquia": "AYAPAMBA",
+        "id": 225,
+        "votos": 3,
+        "candidato": "Melba Jacome",
+        "value": 0.33
+    }
+]

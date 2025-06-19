@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "PEDERNALES",
+    "id": 6430,
+    "votos": 247,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.72
+  },
+  {
+    "parroquia": "10 DE AGOSTO",
+    "id": 1030,
+    "votos": 20,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.49
+  },
+  {
+    "parroquia": "ATAHUALPA",
+    "id": 785,
+    "votos": 8,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.0
+  },
+  {
+    "parroquia": "COJIMIES",
+    "id": 580,
+    "votos": 23,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.14
+  }
+]

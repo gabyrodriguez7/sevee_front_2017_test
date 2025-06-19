@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "ANTONIO J. HOLGUÍN",
+    "id": 135,
+    "votos": 179,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.93
+  },
+  {
+    "parroquia": "CUSUBAMBA",
+    "id": 745,
+    "votos": 282,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.64
+  },
+  {
+    "parroquia": "MULALILLO",
+    "id": 2475,
+    "votos": 387,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.97
+  },
+  {
+    "parroquia": "MULLIQUINDIL",
+    "id": 2490,
+    "votos": 444,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.69
+  },
+  {
+    "parroquia": "PANZALEO",
+    "id": 2760,
+    "votos": 208,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.67
+  },
+  {
+    "parroquia": "SAN MIGUEL DE SALCEDO",
+    "id": 6000,
+    "votos": 2564,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.03
+  }
+]

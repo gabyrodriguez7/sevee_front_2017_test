@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "YAGUACHI NUEVO",
+        "id": 6285,
+        "votos": 27,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.2
+    },
+    {
+        "parroquia": "YAGUACHI VIEJO/CONE",
+        "id": 4275,
+        "votos": 11,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.4
+    },
+    {
+        "parroquia": "VIRGEN DE FATIMA",
+        "id": 1915,
+        "votos": 5,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.16
+    },
+    {
+        "parroquia": "GRAL.PEDRO MONTERO",
+        "id": 1340,
+        "votos": 18,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.48
+    }
+]

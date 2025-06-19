@@ -1,0 +1,44 @@
+[
+	{
+		"parroquia": "AYAPAMBA",
+		"id": 225,
+		"votos": 387,
+		"candidato": "Lasso Guillermo",
+		"value": 36.5784499
+	},
+	{
+		"parroquia": "SAN JUAN DE CERRO AZUL",
+		"id": 375,
+		"votos": 63,
+		"candidato": "Lasso Guillermo",
+		"value": 19.3846154
+	},
+	{
+		"parroquia": "CORDONCILLO",
+		"id": 4480,
+		"votos": 259,
+		"candidato": "Lasso Guillermo",
+		"value": 46.4
+	},
+	{
+		"parroquia": "SAN JOSE",
+		"id": 4530,
+		"votos": 98,
+		"candidato": "Lasso Guillermo",
+		"value": 36.98
+	},
+	{
+		"parroquia": "MILAGRO",
+		"id": 4535,
+		"votos": 91,
+		"candidato": "Lasso Guillermo",
+		"value": 39.74
+	},
+	{
+		"parroquia": "PACCHA",
+		"id": 5745,
+		"votos": 960,
+		"candidato": "Lasso Guillermo",
+		"value": 48.6
+	}
+]

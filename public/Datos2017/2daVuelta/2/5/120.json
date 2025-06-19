@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "MORASPUNGO",
+    "id": 2460,
+    "votos": 3257,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 44.6
+  },
+  {
+    "parroquia": "PINLLOPATA",
+    "id": 2890,
+    "votos": 183,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 30.6
+  },
+  {
+    "parroquia": "RAMÓN CAMPAÑA",
+    "id": 3155,
+    "votos": 223,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 23.52
+  },
+  {
+    "parroquia": "EL CORAZÓN",
+    "id": 5305,
+    "votos": 1770,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 35.92
+  }
+]

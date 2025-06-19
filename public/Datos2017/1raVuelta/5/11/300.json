@@ -1,0 +1,121 @@
+[
+  {
+    "parroquia": "CHUQUIRIBAMBA",
+    "id": 975,
+    "votos": 32,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 2.08
+  },
+  {
+    "parroquia": "EL CISNE",
+    "id": 1135,
+    "votos": 18,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.84
+  },
+  {
+    "parroquia": "GUALEL",
+    "id": 1405,
+    "votos": 17,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.53
+  },
+  {
+    "parroquia": "QUINARA",
+    "id": 1780,
+    "votos": 7,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.87
+  },
+  {
+    "parroquia": "JIMBILLA",
+    "id": 1840,
+    "votos": 13,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.59
+  },
+  {
+    "parroquia": "MALACATOS/VALLADOLID",
+    "id": 2325,
+    "votos": 47,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.99
+  },
+  {
+    "parroquia": "SAN LUCAS",
+    "id": 3555,
+    "votos": 30,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.1
+  },
+  {
+    "parroquia": "SANTIAGO",
+    "id": 3770,
+    "votos": 12,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.33
+  },
+  {
+    "parroquia": "TAQUIL /MIGUEL RIOFRÍO",
+    "id": 3970,
+    "votos": 30,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.71
+  },
+  {
+    "parroquia": "VILCABAMBA/VICTORIA",
+    "id": 4235,
+    "votos": 28,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.86
+  },
+  {
+    "parroquia": "YANGANA / ARSENIO CASTILLO",
+    "id": 4280,
+    "votos": 6,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.6
+  },
+  {
+    "parroquia": "CHANTACO",
+    "id": 4475,
+    "votos": 7,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.93
+  },
+  {
+    "parroquia": "SAN PEDRO DE VILCABAMBA",
+    "id": 4540,
+    "votos": 2,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.29
+  },
+  {
+    "parroquia": "EL SAGRARIO",
+    "id": 5320,
+    "votos": 90,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.52
+  },
+  {
+    "parroquia": "SAN SEBASTIÁN",
+    "id": 6015,
+    "votos": 125,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.5
+  },
+  {
+    "parroquia": "SUCRE",
+    "id": 6100,
+    "votos": 293,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.59
+  },
+  {
+    "parroquia": "VALLE",
+    "id": 6210,
+    "votos": 182,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.58
+  }
+]

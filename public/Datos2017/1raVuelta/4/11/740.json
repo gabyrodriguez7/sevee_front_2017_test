@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "FUNDOCHAMBA",
+    "id": 360,
+    "votos": 28,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.56
+  },
+  {
+    "parroquia": "SAN ANTONIO DE LAS ARADAS",
+    "id": 3345,
+    "votos": 61,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.04
+  },
+  {
+    "parroquia": "QUILANGA /LA PAZ",
+    "id": 6260,
+    "votos": 300,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 15.21
+  }
+]

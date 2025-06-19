@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "YAGUACHI NUEVO",
+        "id": 6285,
+        "votos": 1258,
+        "candidato": "Alvaro Noboa",
+        "value": 9.43
+    },
+    {
+        "parroquia": "YAGUACHI VIEJO/CONE",
+        "id": 4275,
+        "votos": 149,
+        "candidato": "Alvaro Noboa",
+        "value": 5.55
+    },
+    {
+        "parroquia": "VIRGEN DE FATIMA",
+        "id": 1915,
+        "votos": 206,
+        "candidato": "Alvaro Noboa",
+        "value": 6.83
+    },
+    {
+        "parroquia": "GRAL.PEDRO MONTERO",
+        "id": 1340,
+        "votos": 260,
+        "candidato": "Alvaro Noboa",
+        "value": 7.0
+    }
+]

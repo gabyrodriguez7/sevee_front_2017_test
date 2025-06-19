@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "ARAPICOS",
+        "id": 155,
+        "votos": 37,
+        "candidato": "Gutierrez Lucio",
+        "value": 15.9
+    },
+    {
+        "parroquia": "CUMANDA",
+        "id": 715,
+        "votos": 61,
+        "candidato": "Gutierrez Lucio",
+        "value": 16.4
+    },
+    {
+        "parroquia": "16 DE AGOSTO",
+        "id": 1685,
+        "votos": 81,
+        "candidato": "Gutierrez Lucio",
+        "value": 18.367
+    },
+    {
+        "parroquia": "SANGAY",
+        "id": 3420,
+        "votos": 73,
+        "candidato": "Gutierrez Lucio",
+        "value": 12.63
+    },
+    {
+        "parroquia": "PALORA",
+        "id": 5760,
+        "votos": 267,
+        "candidato": "Gutierrez Lucio",
+        "value": 10.88
+    }
+]

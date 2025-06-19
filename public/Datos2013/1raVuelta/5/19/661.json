@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "EL PORVENIR DEL CARMEN",
+        "id": 1240,
+        "votos": 103,
+        "candidato": "Gutierrez Lucio",
+        "value": 19.3
+    },
+    {
+        "parroquia": "LA CANELA",
+        "id": 2170,
+        "votos": 28,
+        "candidato": "Gutierrez Lucio",
+        "value": 13.146
+    },
+    {
+        "parroquia": "VALLADOLID",
+        "id": 4195,
+        "votos": 23,
+        "candidato": "Gutierrez Lucio",
+        "value": 2.401
+    },
+    {
+        "parroquia": "SAN FRANCISCO DEL VERGEL",
+        "id": 4505,
+        "votos": 186,
+        "candidato": "Gutierrez Lucio",
+        "value": 30.0
+    },
+    {
+        "parroquia": "PALANDA",
+        "id": 6740,
+        "votos": 175,
+        "candidato": "Gutierrez Lucio",
+        "value": 7.2105
+    }
+]

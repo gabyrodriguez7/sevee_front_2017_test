@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "BELLA VISTA",
+        "id": 235,
+        "votos": 412,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 52.42
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 1985,
+        "votos": 129,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 47.43
+    },
+    {
+        "parroquia": "PUERTO AYORA",
+        "id": 6505,
+        "votos": 4216,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 58.67
+    }
+]

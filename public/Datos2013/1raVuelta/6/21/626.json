@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "CUYABENO",
+    "id": 760,
+    "votos": 23,
+    "candidato": "Lasso Guillermo",
+    "value": 9.35
+  },
+  {
+    "parroquia": "AGUAS NEGRAS",
+    "id": 1555,
+    "votos": 122,
+    "candidato": "Lasso Guillermo",
+    "value": 18.9
+  },
+  {
+    "parroquia": "TARAPOA",
+    "id": 6765,
+    "votos": 685,
+    "candidato": "Lasso Guillermo",
+    "value": 22.489
+  }
+]

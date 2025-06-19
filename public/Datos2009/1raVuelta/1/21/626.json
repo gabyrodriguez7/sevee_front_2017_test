@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "TARAPOA",
+    "id": 6765,
+    "votos": 48,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.83
+  },
+  {
+    "parroquia": "AGUAS NEGRAS",
+    "id": 1555,
+    "votos": 15,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.76
+  },
+  {
+    "parroquia": "CUYABENO",
+    "id": 760,
+    "votos": 1,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 0.56
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "LA PILA",
+    "id": 1545,
+    "votos": 1075,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 59.13
+  },
+  {
+    "parroquia": "MONTECRISTI",
+    "id": 5665,
+    "votos": 16995,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 58.15
+  },
+  {
+    "parroquia": "ANIBAL SAN ANDRÉS",
+    "id": 7460,
+    "votos": 309,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 50.99
+  },
+  {
+    "parroquia": "COLORADO",
+    "id": 7490,
+    "votos": 506,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 57.83
+  },
+  {
+    "parroquia": "LEONIDAS PROAÑO",
+    "id": 7495,
+    "votos": 5612,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 75.8
+  },
+  {
+    "parroquia": "GENERAL ELOY ALFARO DELGA",
+    "id": 7500,
+    "votos": 807,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 71.16
+  }
+]

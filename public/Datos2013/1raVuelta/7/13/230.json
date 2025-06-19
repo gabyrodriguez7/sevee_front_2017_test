@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "NOVILLO",
+        "id": 1600,
+        "votos": 14,
+        "candidato": "Zavala Nelson",
+        "value": 1.4752
+    },
+    {
+        "parroquia": "ZAPALLO",
+        "id": 1620,
+        "votos": 12,
+        "candidato": "Zavala Nelson",
+        "value": 0.944
+    },
+    {
+        "parroquia": "FLAVIO ALFARO",
+        "id": 5480,
+        "votos": 263,
+        "candidato": "Zavala Nelson",
+        "value": 1.944
+    }
+]

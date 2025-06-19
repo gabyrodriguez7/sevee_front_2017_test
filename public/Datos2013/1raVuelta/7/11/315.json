@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CRUZPAMBA/BUSTAMANTE",
+        "id": 695,
+        "votos": 7,
+        "candidato": "Zavala Nelson",
+        "value": 1.0
+    },
+    {
+        "parroquia": "TNTE M.RODRIGUEZ LOAYZA",
+        "id": 1495,
+        "votos": 2,
+        "candidato": "Zavala Nelson",
+        "value": 1.0
+    },
+    {
+        "parroquia": "SABANILLA",
+        "id": 3255,
+        "votos": 4,
+        "candidato": "Zavala Nelson",
+        "value": 0.3
+    },
+    {
+        "parroquia": "SAN JUAN DE POZUL",
+        "id": 3535,
+        "votos": 10,
+        "candidato": "Zavala Nelson",
+        "value": 0.64
+    },
+    {
+        "parroquia": "CELICA",
+        "id": 5195,
+        "votos": 20,
+        "candidato": "Zavala Nelson",
+        "value": 0.5031
+    }
+]

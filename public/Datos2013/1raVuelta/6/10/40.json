@@ -1,0 +1,73 @@
+[
+                {
+                    "parroquia": "APUELA",
+                    "id": 145,
+                    "votos": 188,
+                    "candidato": "Lasso Guillermo",
+                    "value": 17.8
+                },
+                {
+                    "parroquia": "GARCIA MORENO / LLURIMAGUA",
+                    "id": 1310,
+                    "votos": 389,
+                    "candidato": "Lasso Guillermo",
+                    "value": 12.0
+                },
+                {
+                    "parroquia": "IMANTAG",
+                    "id": 1710,
+                    "votos": 492,
+                    "candidato": "Lasso Guillermo",
+                    "value": 18.0
+                },
+                {
+                    "parroquia": "PEÑAHERRERA",
+                    "id": 2820,
+                    "votos": 124,
+                    "candidato": "Lasso Guillermo",
+                    "value": 12.0
+                },
+                {
+                    "parroquia": "PLAZA GUTIERREZ/CALVARIO",
+                    "id": 2915,
+                    "votos": 60,
+                    "candidato": "Lasso Guillermo",
+                    "value": 19.4
+                },
+                {
+                    "parroquia": "QUIROGA",
+                    "id": 3115,
+                    "votos": 834,
+                    "candidato": "Lasso Guillermo",
+                    "value": 19.8
+                },
+                {
+                    "parroquia": "6 DE JULIO DE CUELLAJE",
+                    "id": 3800,
+                    "votos": 141,
+                    "candidato": "Lasso Guillermo",
+                    "value": 13.9
+                },
+                {
+                    "parroquia": "VACAS GALINDO",
+                    "id": 4185,
+                    "votos": 55,
+                    "candidato": "Lasso Guillermo",
+                    "value": 15.8
+                },
+                {
+                    "parroquia": "SAGRARIO",
+                    "id": 5910,
+                    "votos": 1784,
+                    "candidato": "Lasso Guillermo",
+                    "value": 27.0
+                },
+                {
+                    "parroquia": "SAN FRANCISCO",
+                    "id": 5955,
+                    "votos": 965,
+                    "candidato": "Lasso Guillermo",
+                    "value": 26.5
+                }
+            ]
+            

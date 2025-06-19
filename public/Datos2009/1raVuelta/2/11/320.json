@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "SAN VICENTE",
+        "id": 6025,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.93
+    },
+    {
+        "parroquia": "CHILE",
+        "id": 5240,
+        "votos": 6,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.46
+    },
+    {
+        "parroquia": "CARIAMANGA",
+        "id": 5175,
+        "votos": 27,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.31
+    },
+    {
+        "parroquia": "UTUANA",
+        "id": 4150,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.26
+    },
+    {
+        "parroquia": "SANGUILLIN",
+        "id": 1550,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.18
+    },
+    {
+        "parroquia": "EL LUCERO",
+        "id": 1230,
+        "votos": 5,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.56
+    },
+    {
+        "parroquia": "COLAIZACA",
+        "id": 590,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.33
+    }
+]

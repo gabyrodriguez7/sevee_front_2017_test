@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "SAN PEDRO DE LOS COFANES",
+        "id": 600,
+        "votos": 30,
+        "candidato": "Noboa Alvaro",
+        "value": 1.84
+    },
+    {
+        "parroquia": "SIETE DE JULIO",
+        "id": 780,
+        "votos": 51,
+        "candidato": "Noboa Alvaro",
+        "value": 3.05
+    },
+    {
+        "parroquia": "LIMONCOCHA",
+        "id": 2175,
+        "votos": 20,
+        "candidato": "Noboa Alvaro",
+        "value": 1.463
+    },
+    {
+        "parroquia": "PANACOCHA",
+        "id": 2765,
+        "votos": 2,
+        "candidato": "Noboa Alvaro",
+        "value": 1.0
+    },
+    {
+        "parroquia": "SAN ROQUE",
+        "id": 3645,
+        "votos": 18,
+        "candidato": "Noboa Alvaro",
+        "value": 1.4
+    },
+    {
+        "parroquia": "SHUSHUFINDI CENTRAL",
+        "id": 6140,
+        "votos": 434,
+        "candidato": "Noboa Alvaro",
+        "value": 2.78
+    }
+]

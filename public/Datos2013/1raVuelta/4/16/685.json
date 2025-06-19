@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "MADRE TIERRA",
+        "id": 2310,
+        "votos": 96,
+        "candidato": "Acosta Alberto",
+        "value": 10.0
+    },
+    {
+        "parroquia": "SHELL",
+        "id": 3840,
+        "votos": 198,
+        "candidato": "Acosta Alberto",
+        "value": 5.27
+    },
+    {
+        "parroquia": "MERA",
+        "id": 5650,
+        "votos": 43,
+        "candidato": "Acosta Alberto",
+        "value": 4.41
+    }
+]

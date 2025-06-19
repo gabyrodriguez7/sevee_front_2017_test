@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "ARCHIDONA",
+    "id": 5070,
+    "votos": 219,
+    "candidato": "Alvaro Noboa",
+    "value": 3.06
+  },
+  {
+    "parroquia": "SAN PABLO DE USHPAYACU",
+    "id": 3605,
+    "votos": 44,
+    "candidato": "Alvaro Noboa",
+    "value": 5.05
+  },
+  {
+    "parroquia": "COTUNDO",
+    "id": 685,
+    "votos": 102,
+    "candidato": "Alvaro Noboa",
+    "value": 3.18
+  }
+]

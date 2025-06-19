@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "CHACRAS",
+    "id": 805,
+    "votos": 14,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.66
+  },
+  {
+    "parroquia": "CARCABÓN",
+    "id": 1695,
+    "votos": 6,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.46
+  },
+  {
+    "parroquia": "PALMALES",
+    "id": 2715,
+    "votos": 39,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.39
+  },
+  {
+    "parroquia": "ARENILLAS",
+    "id": 5040,
+    "votos": 421,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.83
+  }
+]

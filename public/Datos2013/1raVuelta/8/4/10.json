@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "PIARTAL",
+        "id": 250,
+        "votos": 27,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.8028
+    },
+    {
+        "parroquia": "CRISTOBAL COLON",
+        "id": 690,
+        "votos": 58,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.8
+    },
+    {
+        "parroquia": "CHITAN DE NAVARRETES",
+        "id": 910,
+        "votos": 13,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.0
+    },
+    {
+        "parroquia": "FERNANDEZ SALVADOR",
+        "id": 1270,
+        "votos": 20,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.1
+    },
+    {
+        "parroquia": "LA PAZ",
+        "id": 2065,
+        "votos": 37,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.84
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 5405,
+        "votos": 251,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.57
+    },
+    {
+        "parroquia": "SAN JOSE",
+        "id": 5970,
+        "votos": 210,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.07
+    }
+]

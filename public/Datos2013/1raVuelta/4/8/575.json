@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CUBE / CHANCAMA",
+        "id": 700,
+        "votos": 76,
+        "candidato": "Acosta Alberto",
+        "value": 6.0
+    },
+    {
+        "parroquia": "CHURA",
+        "id": 980,
+        "votos": 75,
+        "candidato": "Acosta Alberto",
+        "value": 13.2
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 1530,
+        "votos": 249,
+        "candidato": "Acosta Alberto",
+        "value": 2.73086
+    },
+    {
+        "parroquia": "MALIMPIA / GUAYLLABAMBA",
+        "id": 2345,
+        "votos": 445,
+        "candidato": "Acosta Alberto",
+        "value": 8.1
+    },
+    {
+        "parroquia": "VICHE",
+        "id": 4230,
+        "votos": 112,
+        "candidato": "Acosta Alberto",
+        "value": 3.21193
+    },
+    {
+        "parroquia": "ROSA ZARATE",
+        "id": 5895,
+        "votos": 1501,
+        "candidato": "Acosta Alberto",
+        "value": 4.0
+    }
+]

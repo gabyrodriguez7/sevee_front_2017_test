@@ -1,0 +1,93 @@
+[
+    {
+        "parroquia": "ALTO TAMBO/GUADAL",
+        "id": 70,
+        "votos": 77,
+        "candidato": "Acosta Alberto",
+        "value": 15.94
+    },
+    {
+        "parroquia": "ANCON/PALMA REAL",
+        "id": 110,
+        "votos": 30,
+        "candidato": "Acosta Alberto",
+        "value": 5.1
+    },
+    {
+        "parroquia": "CALDERON",
+        "id": 435,
+        "votos": 17,
+        "candidato": "Acosta Alberto",
+        "value": 4.8
+    },
+    {
+        "parroquia": "CARONDELET",
+        "id": 535,
+        "votos": 22,
+        "candidato": "Acosta Alberto",
+        "value": 5.0
+    },
+    {
+        "parroquia": "5 DE JUNIO/HUIMBI",
+        "id": 570,
+        "votos": 4,
+        "candidato": "Acosta Alberto",
+        "value": 3.0
+    },
+    {
+        "parroquia": "CONCEPCION",
+        "id": 620,
+        "votos": 21,
+        "candidato": "Acosta Alberto",
+        "value": 4.15
+    },
+    {
+        "parroquia": "MATAJE",
+        "id": 2395,
+        "votos": 8,
+        "candidato": "Acosta Alberto",
+        "value": 3.213
+    },
+    {
+        "parroquia": "SAN JAVIER DE CACHABI",
+        "id": 3455,
+        "votos": 13,
+        "candidato": "Acosta Alberto",
+        "value": 4.1
+    },
+    {
+        "parroquia": "SANTA RITA",
+        "id": 3725,
+        "votos": 11,
+        "candidato": "Acosta Alberto",
+        "value": 2.1
+    },
+    {
+        "parroquia": "TAMBILLO",
+        "id": 3955,
+        "votos": 31,
+        "candidato": "Acosta Alberto",
+        "value": 5.7
+    },
+    {
+        "parroquia": "TULULBI /RICAURTE",
+        "id": 4075,
+        "votos": 54,
+        "candidato": "Acosta Alberto",
+        "value": 8.852
+    },
+    {
+        "parroquia": "URBINA",
+        "id": 4125,
+        "votos": 101,
+        "candidato": "Acosta Alberto",
+        "value": 25.7
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 6130,
+        "votos": 1031,
+        "candidato": "Acosta Alberto",
+        "value": 10.77
+    }
+]

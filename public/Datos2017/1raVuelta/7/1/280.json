@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "CUTCHIL",
+    "id": 750,
+    "votos": 13,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.69
+  },
+  {
+    "parroquia": "GIMA",
+    "id": 1355,
+    "votos": 21,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.98
+  },
+  {
+    "parroquia": "GUEL",
+    "id": 1490,
+    "votos": 12,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.5
+  },
+  {
+    "parroquia": "LUDO",
+    "id": 2215,
+    "votos": 19,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.02
+  },
+  {
+    "parroquia": "SAN BARTOLOMÉ",
+    "id": 3360,
+    "votos": 36,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.72
+  },
+  {
+    "parroquia": "SAN JOSÉ DE RARANGA",
+    "id": 3495,
+    "votos": 30,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.81
+  },
+  {
+    "parroquia": "SIGSIG",
+    "id": 6085,
+    "votos": 164,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.04
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "NUEVA FATIMA",
+    "id": 2575,
+    "votos": 268,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 47.1
+  },
+  {
+    "parroquia": "TACAMOROS",
+    "id": 3935,
+    "votos": 463,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 33.7
+  },
+  {
+    "parroquia": "SOZORANGA",
+    "id": 6120,
+    "votos": 722,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 41.69
+  }
+]

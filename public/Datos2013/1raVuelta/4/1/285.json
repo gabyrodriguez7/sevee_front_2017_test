@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "ABDON CALDERON / LA UNION",
+        "id": 15,
+        "votos": 140,
+        "candidato": "Acosta Alberto",
+        "value": 9.0
+    },
+    {
+        "parroquia": "SHAGLLI",
+        "id": 3835,
+        "votos": 284,
+        "candidato": "Acosta Alberto",
+        "value": 27.0
+    },
+    {
+        "parroquia": "SAN SALVADOR DE CAÑARIBAMBA",
+        "id": 4610,
+        "votos": 156,
+        "candidato": "Acosta Alberto",
+        "value": 48.0
+    },
+    {
+        "parroquia": "SANTA ISABEL",
+        "id": 6045,
+        "votos": 1611,
+        "candidato": "Acosta Alberto",
+        "value": 19.0
+    }
+]

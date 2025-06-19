@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "CAPIRO",
+    "id": 505,
+    "votos": 182,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 20.61
+  },
+  {
+    "parroquia": "SARACAY",
+    "id": 1385,
+    "votos": 210,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 20.29
+  },
+  {
+    "parroquia": "LA BOCANA",
+    "id": 2230,
+    "votos": 96,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.51
+  },
+  {
+    "parroquia": "MOROMORO",
+    "id": 2465,
+    "votos": 298,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 29.92
+  },
+  {
+    "parroquia": "PIEDRAS",
+    "id": 2850,
+    "votos": 90,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 19.03
+  },
+  {
+    "parroquia": "SAN ROQUE",
+    "id": 3650,
+    "votos": 131,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 27.81
+  },
+  {
+    "parroquia": "PIÑAS",
+    "id": 5790,
+    "votos": 4166,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 31.88
+  },
+  {
+    "parroquia": "PIÑAS GRANDE",
+    "id": 6675,
+    "votos": 30,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 43.48
+  },
+  {
+    "parroquia": "LA SUSAYA",
+    "id": 6680,
+    "votos": 62,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 41.06
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "BOYACÁ",
+    "id": 380,
+    "votos": 28,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.1
+  },
+  {
+    "parroquia": "CHIBUNGA",
+    "id": 405,
+    "votos": 18,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.66
+  },
+  {
+    "parroquia": "CANUTO",
+    "id": 495,
+    "votos": 70,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.08
+  },
+  {
+    "parroquia": "CONVENTO",
+    "id": 640,
+    "votos": 24,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.72
+  },
+  {
+    "parroquia": "ELOY ALFARO",
+    "id": 1160,
+    "votos": 31,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.27
+  },
+  {
+    "parroquia": "RICAURTE",
+    "id": 3170,
+    "votos": 28,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.82
+  },
+  {
+    "parroquia": "SAN ANTONIO / DEL PELUDO",
+    "id": 3350,
+    "votos": 20,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.41
+  },
+  {
+    "parroquia": "CHONE",
+    "id": 5250,
+    "votos": 236,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.58
+  },
+  {
+    "parroquia": "SANTA RITA",
+    "id": 6055,
+    "votos": 77,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.83
+  }
+]

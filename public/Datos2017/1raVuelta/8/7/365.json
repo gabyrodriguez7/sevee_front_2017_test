@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "BUENAVISTA",
+    "id": 390,
+    "votos": 132,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.39
+  },
+  {
+    "parroquia": "CAÑAQUEMADA",
+    "id": 775,
+    "votos": 22,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.97
+  },
+  {
+    "parroquia": "PROGRESO",
+    "id": 1225,
+    "votos": 79,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.25
+  },
+  {
+    "parroquia": "LA PEAÑA",
+    "id": 2075,
+    "votos": 82,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.62
+  },
+  {
+    "parroquia": "UZHCURRUMI",
+    "id": 4160,
+    "votos": 25,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.77
+  },
+  {
+    "parroquia": "CASACAY",
+    "id": 4495,
+    "votos": 29,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.44
+  },
+  {
+    "parroquia": "OCHOA LEÓN/MATRIZ",
+    "id": 5770,
+    "votos": 1258,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.46
+  },
+  {
+    "parroquia": "LOMA DE FRANCO",
+    "id": 6365,
+    "votos": 22,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.66
+  },
+  {
+    "parroquia": "BOLIVAR",
+    "id": 6370,
+    "votos": 12,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.07
+  },
+  {
+    "parroquia": "TRES CERRITOS",
+    "id": 6375,
+    "votos": 14,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.4
+  },
+  {
+    "parroquia": "PASAJE",
+    "id": 6940,
+    "votos": 29,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.07
+  }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "TRIUNFO DORADO",
+        "id": 4385,
+        "votos": 261,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 58.65
+    },
+    {
+        "parroquia": "PANGUINTZA",
+        "id": 4600,
+        "votos": 488,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 64.46
+    },
+    {
+        "parroquia": "ZUMBI",
+        "id": 6625,
+        "votos": 2225,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 61.55
+    }
+]

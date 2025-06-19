@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CUBE / CHANCAMA",
+        "id": 700,
+        "votos": 659,
+        "candidato": "Correa Delgado Rafael",
+        "value": 53.0
+    },
+    {
+        "parroquia": "CHURA",
+        "id": 980,
+        "votos": 326,
+        "candidato": "Correa Delgado Rafael",
+        "value": 57.3
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 1530,
+        "votos": 4941,
+        "candidato": "Correa Delgado Rafael",
+        "value": 54.18952
+    },
+    {
+        "parroquia": "MALIMPIA / GUAYLLABAMBA",
+        "id": 2345,
+        "votos": 3473,
+        "candidato": "Correa Delgado Rafael",
+        "value": 63.0
+    },
+    {
+        "parroquia": "VICHE",
+        "id": 4230,
+        "votos": 1934,
+        "candidato": "Correa Delgado Rafael",
+        "value": 55.4631488
+    },
+    {
+        "parroquia": "ROSA ZARATE",
+        "id": 5895,
+        "votos": 20047,
+        "candidato": "Correa Delgado Rafael",
+        "value": 53.5
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN JOSE DE TAMBO",
+        "id": 3500,
+        "votos": 1287,
+        "candidato": "Correa Delgado Rafael",
+        "value": 41.0
+    },
+    {
+        "parroquia": "CHILLANES",
+        "id": 5245,
+        "votos": 2718,
+        "candidato": "Correa Delgado Rafael",
+        "value": 37.8
+    }
+]

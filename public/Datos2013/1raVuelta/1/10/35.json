@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "DR MIGUEL EGAS/PEGUCHE",
+        "id": 1040,
+        "votos": 164,
+        "candidato": "Noboa Alvaro",
+        "value": 4.8179
+    },
+    {
+        "parroquia": "EUGENIO ESPEJO",
+        "id": 1215,
+        "votos": 173,
+        "candidato": "Noboa Alvaro",
+        "value": 4.3424
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 1360,
+        "votos": 118,
+        "candidato": "Noboa Alvaro",
+        "value": 3.359
+    },
+    {
+        "parroquia": "PATAQUI",
+        "id": 2785,
+        "votos": 4,
+        "candidato": "Noboa Alvaro",
+        "value": 1.0
+    },
+    {
+        "parroquia": "SAN JOSE DE QUICHINCHE",
+        "id": 3490,
+        "votos": 344,
+        "candidato": "Noboa Alvaro",
+        "value": 8.2159
+    },
+    {
+        "parroquia": "SAN JUAN DE ILUMAN",
+        "id": 3525,
+        "votos": 393,
+        "candidato": "Noboa Alvaro",
+        "value": 8.79
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 3590,
+        "votos": 186,
+        "candidato": "Noboa Alvaro",
+        "value": 3.1708
+    },
+    {
+        "parroquia": "SAN RAFAEL",
+        "id": 3630,
+        "votos": 111,
+        "candidato": "Noboa Alvaro",
+        "value": 3.6525
+    },
+    {
+        "parroquia": "SELVA ALEGRE",
+        "id": 3810,
+        "votos": 48,
+        "candidato": "Noboa Alvaro",
+        "value": 5.0526
+    },
+    {
+        "parroquia": "JORDAN",
+        "id": 5490,
+        "votos": 915,
+        "candidato": "Noboa Alvaro",
+        "value": 4.7427
+    },
+    {
+        "parroquia": "SAN LUIS",
+        "id": 5980,
+        "votos": 699,
+        "candidato": "Noboa Alvaro",
+        "value": 5.0
+    }
+]

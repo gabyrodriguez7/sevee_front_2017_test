@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "VALLE DE LA VIRGEN",
+        "id": 185,
+        "votos": 162,
+        "candidato": "Gutierrez Lucio",
+        "value": 10.5537
+    },
+    {
+        "parroquia": "SABANILLA",
+        "id": 1670,
+        "votos": 205,
+        "candidato": "Gutierrez Lucio",
+        "value": 10.5344
+    },
+    {
+        "parroquia": "PEDRO CARBO",
+        "id": 5735,
+        "votos": 2649,
+        "candidato": "Gutierrez Lucio",
+        "value": 11.7624
+    }
+]

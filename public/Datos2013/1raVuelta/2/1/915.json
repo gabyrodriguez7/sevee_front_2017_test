@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "LA UNION",
+        "id": 1535,
+        "votos": 246,
+        "candidato": "Correa Delgado Rafael",
+        "value": 61.80905
+    },
+    {
+        "parroquia": "SAN MARTIN DE PUZHIO",
+        "id": 1575,
+        "votos": 175,
+        "candidato": "Correa Delgado Rafael",
+        "value": 49.2958
+    },
+    {
+        "parroquia": "LUIS GALARZA O. (DELEGSOL)",
+        "id": 1585,
+        "votos": 394,
+        "candidato": "Correa Delgado Rafael",
+        "value": 81.0
+    },
+    {
+        "parroquia": "PRINCIPAL",
+        "id": 2950,
+        "votos": 568,
+        "candidato": "Correa Delgado Rafael",
+        "value": 85.03
+    },
+    {
+        "parroquia": "CHORDELEG",
+        "id": 6435,
+        "votos": 2925,
+        "candidato": "Correa Delgado Rafael",
+        "value": 61.0
+    }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "ZAPOTILLO",
+    "id": 6320,
+    "votos": 627,
+    "candidato": "Lucio Gutierrez",
+    "value": 24.13
+  },
+  {
+    "parroquia": "PALETILLAS",
+    "id": 2710,
+    "votos": 191,
+    "candidato": "Lucio Gutierrez",
+    "value": 18.1
+  },
+  {
+    "parroquia": "BOLASPAMBA",
+    "id": 2000,
+    "votos": 21,
+    "candidato": "Lucio Gutierrez",
+    "value": 7.11
+  },
+  {
+    "parroquia": "CAZADEROS",
+    "id": 550,
+    "votos": 66,
+    "candidato": "Lucio Gutierrez",
+    "value": 11.57
+  },
+  {
+    "parroquia": "GARZAREAL",
+    "id": 290,
+    "votos": 54,
+    "candidato": "Lucio Gutierrez",
+    "value": 12.58
+  },
+  {
+    "parroquia": "LIMONES",
+    "id": 280,
+    "votos": 129,
+    "candidato": "Lucio Gutierrez",
+    "value": 34.49
+  }
+]

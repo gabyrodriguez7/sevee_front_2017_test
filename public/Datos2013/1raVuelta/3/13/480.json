@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "BOYACA",
+        "id": 380,
+        "votos": 19,
+        "candidato": "Wray Norman",
+        "value": 0.8
+    },
+    {
+        "parroquia": "CHIBUNGA",
+        "id": 405,
+        "votos": 14,
+        "candidato": "Wray Norman",
+        "value": 0.62612
+    },
+    {
+        "parroquia": "CANUTO",
+        "id": 495,
+        "votos": 35,
+        "candidato": "Wray Norman",
+        "value": 0.54
+    },
+    {
+        "parroquia": "CONVENTO",
+        "id": 640,
+        "votos": 113,
+        "candidato": "Wray Norman",
+        "value": 3.4
+    },
+    {
+        "parroquia": "ELOY ALFARO",
+        "id": 1160,
+        "votos": 30,
+        "candidato": "Wray Norman",
+        "value": 1.1
+    },
+    {
+        "parroquia": "RICAURTE",
+        "id": 3170,
+        "votos": 16,
+        "candidato": "Wray Norman",
+        "value": 0.5
+    },
+    {
+        "parroquia": "SAN ANTONIO / DEL PELUDO",
+        "id": 3350,
+        "votos": 26,
+        "candidato": "Wray Norman",
+        "value": 0.6
+    },
+    {
+        "parroquia": "CHONE",
+        "id": 5250,
+        "votos": 237,
+        "candidato": "Wray Norman",
+        "value": 0.587
+    },
+    {
+        "parroquia": "SANTA RITA",
+        "id": 6055,
+        "votos": 64,
+        "candidato": "Wray Norman",
+        "value": 0.711
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "LA TRONCAL",
+        "id": 5610,
+        "votos": 10471,
+        "candidato": "Rafael Correa Delgado",
+        "value": 54.45
+    },
+    {
+        "parroquia": "PANCHO NEGRO",
+        "id": 2745,
+        "votos": 1393,
+        "candidato": "Rafael Correa Delgado",
+        "value": 71.1
+    },
+    {
+        "parroquia": "MANUEL J. CALLE",
+        "id": 2365,
+        "votos": 1129,
+        "candidato": "Rafael Correa Delgado",
+        "value": 62.68
+    }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "HUASAGA /WAMPUIK",
+    "id": 595,
+    "votos": 396,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 46.64
+  },
+  {
+    "parroquia": "TUTINENTZA",
+    "id": 1205,
+    "votos": 203,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 8.73
+  },
+  {
+    "parroquia": "MACUMA",
+    "id": 2285,
+    "votos": 209,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 9.37
+  },
+  {
+    "parroquia": "PUMPUENTSA",
+    "id": 4575,
+    "votos": 135,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 13.6
+  },
+  {
+    "parroquia": "TAISHA",
+    "id": 6700,
+    "votos": 445,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 13.72
+  }
+]

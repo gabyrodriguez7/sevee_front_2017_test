@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "NOVILLO",
+        "id": 1600,
+        "votos": 49,
+        "candidato": "Noboa Alvaro",
+        "value": 5.1633
+    },
+    {
+        "parroquia": "ZAPALLO",
+        "id": 1620,
+        "votos": 57,
+        "candidato": "Noboa Alvaro",
+        "value": 4.485
+    },
+    {
+        "parroquia": "FLAVIO ALFARO",
+        "id": 5480,
+        "votos": 529,
+        "candidato": "Noboa Alvaro",
+        "value": 3.911
+    }
+]

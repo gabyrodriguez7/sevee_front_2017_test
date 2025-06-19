@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "EL PANGUI",
+    "id": 6355,
+    "votos": 8,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.31
+  },
+  {
+    "parroquia": "PACHICUTZA",
+    "id": 1015,
+    "votos": 4,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.92
+  },
+  {
+    "parroquia": "TUNDAYME",
+    "id": 945,
+    "votos": 3,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.39
+  },
+  {
+    "parroquia": "EL GUISMI",
+    "id": 665,
+    "votos": 4,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.76
+  }
+]

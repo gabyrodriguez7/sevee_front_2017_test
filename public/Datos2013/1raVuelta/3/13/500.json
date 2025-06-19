@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "WILFRIDO LOOR MOREIRA",
+        "id": 1070,
+        "votos": 5,
+        "candidato": "Wray Norman",
+        "value": 0.591
+    },
+    {
+        "parroquia": "SAN PEDRO DE SUMA",
+        "id": 1980,
+        "votos": 7,
+        "candidato": "Wray Norman",
+        "value": 0.6
+    },
+    {
+        "parroquia": "EL CARMEN",
+        "id": 5300,
+        "votos": 311,
+        "candidato": "Wray Norman",
+        "value": 0.6
+    },
+    {
+        "parroquia": "4 DE DICIEMBRE",
+        "id": 6197,
+        "votos": 0,
+        "candidato": "Wray Norman",
+        "value": 0.0
+    }
+]

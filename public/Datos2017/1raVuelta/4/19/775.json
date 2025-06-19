@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "EL GUISMI",
+    "id": 665,
+    "votos": 51,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.01
+  },
+  {
+    "parroquia": "TUNDAYME",
+    "id": 945,
+    "votos": 31,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.42
+  },
+  {
+    "parroquia": "PACHICUTZA",
+    "id": 1015,
+    "votos": 79,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.81
+  },
+  {
+    "parroquia": "EL PANGUI",
+    "id": 6355,
+    "votos": 269,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.04
+  }
+]

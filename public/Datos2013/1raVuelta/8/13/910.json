@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "COJIMIES",
+        "id": 580,
+        "votos": 54,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.0
+    },
+    {
+        "parroquia": "ATAHUALPA",
+        "id": 785,
+        "votos": 10,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.0
+    },
+    {
+        "parroquia": "10 DE AGOSTO",
+        "id": 1030,
+        "votos": 29,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.0
+    },
+    {
+        "parroquia": "PEDERNALES",
+        "id": 6430,
+        "votos": 360,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.7
+    }
+]

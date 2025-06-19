@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "ANTONIO J. HOLGUÍN",
+    "id": 135,
+    "votos": 56,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.11
+  },
+  {
+    "parroquia": "CUSUBAMBA",
+    "id": 745,
+    "votos": 115,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.71
+  },
+  {
+    "parroquia": "MULALILLO",
+    "id": 2475,
+    "votos": 172,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.99
+  },
+  {
+    "parroquia": "MULLIQUINDIL",
+    "id": 2490,
+    "votos": 182,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.97
+  },
+  {
+    "parroquia": "PANZALEO",
+    "id": 2760,
+    "votos": 95,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.42
+  },
+  {
+    "parroquia": "SAN MIGUEL DE SALCEDO",
+    "id": 6000,
+    "votos": 781,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.36
+  }
+]

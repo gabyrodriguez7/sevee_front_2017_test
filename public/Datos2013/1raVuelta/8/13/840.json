@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "SAN SEBASTIAN",
+        "id": 1060,
+        "votos": 109,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.54
+    },
+    {
+        "parroquia": "BARRAGANETE",
+        "id": 1065,
+        "votos": 47,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.6
+    },
+    {
+        "parroquia": "PICHINCHA /GERMUD",
+        "id": 6550,
+        "votos": 364,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.0
+    }
+]

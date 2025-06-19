@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "MACHACHI",
+    "id": 5620,
+    "votos": 961,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 5.45
+  },
+  {
+    "parroquia": "UYUMBICHO",
+    "id": 4155,
+    "votos": 101,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 4.58
+  },
+  {
+    "parroquia": "TAMBILLO",
+    "id": 3960,
+    "votos": 184,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 3.82
+  },
+  {
+    "parroquia": "CHAUPI",
+    "id": 850,
+    "votos": 26,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 4.08
+  },
+  {
+    "parroquia": "CUTUGLAGUA",
+    "id": 755,
+    "votos": 112,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.56
+  },
+  {
+    "parroquia": "CORNEJO ASTORGA /TANDAPI",
+    "id": 650,
+    "votos": 22,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.05
+  },
+  {
+    "parroquia": "ALOASI",
+    "id": 60,
+    "votos": 95,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 3.81
+  },
+  {
+    "parroquia": "ALOAG",
+    "id": 55,
+    "votos": 203,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 4.63
+  }
+]

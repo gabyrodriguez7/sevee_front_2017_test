@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "BUENAVISTA",
+    "id": 385,
+    "votos": 489,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 56.14
+  },
+  {
+    "parroquia": "EL ROSARIO",
+    "id": 1180,
+    "votos": 167,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 50.91
+  },
+  {
+    "parroquia": "AMARILLOS",
+    "id": 1450,
+    "votos": 117,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 37.38
+  },
+  {
+    "parroquia": "SANTA RUFINA",
+    "id": 3755,
+    "votos": 395,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 55.09
+  },
+  {
+    "parroquia": "CHAGUARPAMBA",
+    "id": 6530,
+    "votos": 1216,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 39.92
+  }
+]

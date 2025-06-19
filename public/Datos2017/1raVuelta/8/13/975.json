@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "SALANGO",
+    "id": 1920,
+    "votos": 90,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.74
+  },
+  {
+    "parroquia": "MACHALILLA",
+    "id": 2305,
+    "votos": 73,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.42
+  },
+  {
+    "parroquia": "PUERTO LÓPEZ",
+    "id": 6575,
+    "votos": 390,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.49
+  }
+]

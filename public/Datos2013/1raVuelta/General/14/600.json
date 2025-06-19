@@ -1,0 +1,68 @@
+[
+    {
+        "candidato1": "CORREA DELGADO RAFAEL",
+        "candidato2": "LASSO  GUILLERMO",
+        "id": 1720,
+        "votos": 655,
+        "votos1": 303,
+        "votos2": 134,
+        "fill": "#02C01C",
+        "porcentaje1": 46.26,
+        "porcentaje2": 20.45
+    },
+    {
+        "candidato1": "ACOSTA  ALBERTO",
+        "candidato2": "CORREA DELGADO RAFAEL",
+        "id": 3250,
+        "votos": 438,
+        "votos1": 214,
+        "votos2": 119,
+        "fill": "#AA5A00",
+        "porcentaje1": 48.9,
+        "porcentaje2": 27.2
+    },
+    {
+        "candidato1": "ACOSTA  ALBERTO",
+        "candidato2": "CORREA DELGADO RAFAEL",
+        "id": 3320,
+        "votos": 300,
+        "votos1": 126,
+        "votos2": 95,
+        "fill": "#AA5A00",
+        "porcentaje1": 42.0,
+        "porcentaje2": 31.7
+    },
+    {
+        "candidato1": "CORREA DELGADO RAFAEL",
+        "candidato2": "LASSO  GUILLERMO",
+        "id": 3760,
+        "votos": 392,
+        "votos1": 164,
+        "votos2": 114,
+        "fill": "#02C01C",
+        "porcentaje1": 42.0,
+        "porcentaje2": 29.0
+    },
+    {
+        "candidato1": "ACOSTA  ALBERTO",
+        "candidato2": "CORREA DELGADO RAFAEL",
+        "id": 4305,
+        "votos": 428,
+        "votos1": 173,
+        "votos2": 160,
+        "fill": "#AA5A00",
+        "porcentaje1": 40.42,
+        "porcentaje2": 37.38
+    },
+    {
+        "candidato1": "CORREA DELGADO RAFAEL",
+        "candidato2": "LASSO  GUILLERMO",
+        "id": 5390,
+        "votos": 3140,
+        "votos1": 1242,
+        "votos2": 705,
+        "fill": "#02C01C",
+        "porcentaje1": 39.55,
+        "porcentaje2": 22.45
+    }
+]

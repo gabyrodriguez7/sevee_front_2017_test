@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "LA PAZ",
+        "id": 2070,
+        "votos": 821,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 69.69
+    },
+    {
+        "parroquia": "TUTUPALI",
+        "id": 4105,
+        "votos": 373,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 66.02
+    },
+    {
+        "parroquia": "28 DE MAYO",
+        "id": 6215,
+        "votos": 1711,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 71.05
+    }
+]

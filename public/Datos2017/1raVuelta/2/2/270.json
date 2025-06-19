@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "ASUNCIÓN",
+    "id": 175,
+    "votos": 111,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.17
+  },
+  {
+    "parroquia": "SAN GERARDO",
+    "id": 885,
+    "votos": 22,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.92
+  },
+  {
+    "parroquia": "GIRÓN",
+    "id": 5395,
+    "votos": 434,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.09
+  }
+]

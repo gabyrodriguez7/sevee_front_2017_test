@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CUBE / CHANCAMA",
+        "id": 700,
+        "votos": 102,
+        "candidato": "Gutierrez Lucio",
+        "value": 8.0
+    },
+    {
+        "parroquia": "CHURA",
+        "id": 980,
+        "votos": 27,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.7
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 1530,
+        "votos": 745,
+        "candidato": "Gutierrez Lucio",
+        "value": 8.17065
+    },
+    {
+        "parroquia": "MALIMPIA / GUAYLLABAMBA",
+        "id": 2345,
+        "votos": 311,
+        "candidato": "Gutierrez Lucio",
+        "value": 5.6
+    },
+    {
+        "parroquia": "VICHE",
+        "id": 4230,
+        "votos": 209,
+        "candidato": "Gutierrez Lucio",
+        "value": 5.9936909
+    },
+    {
+        "parroquia": "ROSA ZARATE",
+        "id": 5895,
+        "votos": 2006,
+        "candidato": "Gutierrez Lucio",
+        "value": 5.4
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "parroquia": "SIMON BOLIVAR",
+        "id": 6910,
+        "votos": 0,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.0
+    },
+    {
+        "parroquia": "FRANCISCO PACHECO",
+        "id": 6775,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.44
+    },
+    {
+        "parroquia": "18 DE OCTUBRE",
+        "id": 6770,
+        "votos": 2,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.66
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 6585,
+        "votos": 5,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.15
+    },
+    {
+        "parroquia": "PICOAZA",
+        "id": 5845,
+        "votos": 23,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.23
+    },
+    {
+        "parroquia": "PORTOVIEJO",
+        "id": 5795,
+        "votos": 43,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.18
+    },
+    {
+        "parroquia": "12 DE MARZO",
+        "id": 5280,
+        "votos": 84,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.3
+    },
+    {
+        "parroquia": "COLON",
+        "id": 5265,
+        "votos": 35,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.38
+    },
+    {
+        "parroquia": "ANDRES DE VERA",
+        "id": 5030,
+        "votos": 75,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.21
+    },
+    {
+        "parroquia": "SAN PLACIDO",
+        "id": 3625,
+        "votos": 10,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.22
+    },
+    {
+        "parroquia": "RIO CHICO",
+        "id": 3185,
+        "votos": 13,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.22
+    },
+    {
+        "parroquia": "PUEBLO NUEVO",
+        "id": 2970,
+        "votos": 4,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.24
+    },
+    {
+        "parroquia": "CHIRIJOS",
+        "id": 1925,
+        "votos": 0,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.0
+    },
+    {
+        "parroquia": "CRUCITA",
+        "id": 770,
+        "votos": 5,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.1
+    },
+    {
+        "parroquia": "ALHAJUELA /BAJO GRANDE",
+        "id": 50,
+        "votos": 11,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.38
+    },
+    {
+        "parroquia": "ABDON CALDERON",
+        "id": 10,
+        "votos": 14,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.19
+    }
+]

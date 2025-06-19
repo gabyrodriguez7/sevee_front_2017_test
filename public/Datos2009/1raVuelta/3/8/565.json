@@ -1,0 +1,107 @@
+[
+  {
+    "parroquia": "VALDEZ/LIMONES/",
+    "id": 6205,
+    "votos": 25,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.94
+  },
+  {
+    "parroquia": "SANTO DOMINGO DE ONZOLE",
+    "id": 4465,
+    "votos": 4,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 1.1
+  },
+  {
+    "parroquia": "TELEMBI",
+    "id": 4170,
+    "votos": 11,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 1.3
+  },
+  {
+    "parroquia": "SELVA ALEGRE",
+    "id": 3805,
+    "votos": 8,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 1.86
+  },
+  {
+    "parroquia": "SAN FRANCISCO DE ONZOLE",
+    "id": 3405,
+    "votos": 8,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 2.53
+  },
+  {
+    "parroquia": "PAMPANAL DE BOLIVAR",
+    "id": 2670,
+    "votos": 0,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.0
+  },
+  {
+    "parroquia": "MALDONADO",
+    "id": 2335,
+    "votos": 7,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 1.24
+  },
+  {
+    "parroquia": "LUIS VARGAS TORRES",
+    "id": 2225,
+    "votos": 3,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 1.92
+  },
+  {
+    "parroquia": "LA TOLA",
+    "id": 2125,
+    "votos": 11,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 1.01
+  },
+  {
+    "parroquia": "TIMBIRE",
+    "id": 1515,
+    "votos": 1,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.32
+  },
+  {
+    "parroquia": "COLON ELOY DE MARIA",
+    "id": 1510,
+    "votos": 1,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.4
+  },
+  {
+    "parroquia": "SAN JOSE DE CAYAPAS",
+    "id": 1505,
+    "votos": 7,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 1.73
+  },
+  {
+    "parroquia": "BORBON",
+    "id": 370,
+    "votos": 30,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 1.05
+  },
+  {
+    "parroquia": "ATAHUALPA/CAMARONES",
+    "id": 200,
+    "votos": 3,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.61
+  },
+  {
+    "parroquia": "ANCHAYACU",
+    "id": 120,
+    "votos": 5,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 1.53
+  }
+]

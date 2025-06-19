@@ -1,0 +1,45 @@
+[
+	{
+		"parroquia": "CANI",
+		"id": 500,
+		"votos": 154,
+		"candidato": "Lasso Guillermo",
+		"value": 29.057
+	},
+	{
+		"parroquia": "COLUMBE",
+		"id": 610,
+		"votos": 2077,
+		"candidato": "Lasso Guillermo",
+		"value": 19.836
+	},
+	{
+		"parroquia": "JUAN DE VELASCO / PONGOR",
+		"id": 1865,
+		"votos": 262,
+		"candidato": "Lasso Guillermo",
+		"value": 16.94
+	},
+	{
+		"parroquia": "SANTIAGO DE QUITO",
+		"id": 4430,
+		"votos": 170,
+		"candidato": "Lasso Guillermo",
+		"value": 12.42
+	},
+	{
+		"parroquia": "CAJABAMBA",
+		"id": 5145,
+		"votos": 1641,
+		"candidato": "Lasso Guillermo",
+		"value": 22.22
+	},
+	{
+		"parroquia": "SICALPA",
+	"id": 6080,
+	"votos": 1311,
+	"candidato": "Lasso Guillermo",
+	"value": 21.33789
+	}
+	]
+		

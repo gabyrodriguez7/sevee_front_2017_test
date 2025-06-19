@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "EL REVENTADOR",
+        "id": 230,
+        "votos": 24,
+        "candidato": "Acosta Alberto",
+        "value": 3.2
+    },
+    {
+        "parroquia": "GONZALO PIZARRO",
+        "id": 1090,
+        "votos": 262,
+        "candidato": "Acosta Alberto",
+        "value": 17.035
+    },
+    {
+        "parroquia": "PUERTO LIBRE",
+        "id": 3615,
+        "votos": 19,
+        "candidato": "Acosta Alberto",
+        "value": 3.619
+    },
+    {
+        "parroquia": "LUMBAQUI",
+        "id": 6300,
+        "votos": 170,
+        "candidato": "Acosta Alberto",
+        "value": 6.911
+    }
+]

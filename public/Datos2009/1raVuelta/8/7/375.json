@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "ARENILLAS",
+    "id": 5040,
+    "votos": 2557,
+    "candidato": "Lucio Gutierrez",
+    "value": 23.41
+  },
+  {
+    "parroquia": "PALMALES",
+    "id": 2715,
+    "votos": 232,
+    "candidato": "Lucio Gutierrez",
+    "value": 18.84
+  },
+  {
+    "parroquia": "CARCABON",
+    "id": 1695,
+    "votos": 56,
+    "candidato": "Lucio Gutierrez",
+    "value": 20.74
+  },
+  {
+    "parroquia": "CHACRAS",
+    "id": 805,
+    "votos": 59,
+    "candidato": "Lucio Gutierrez",
+    "value": 11.04
+  }
+]

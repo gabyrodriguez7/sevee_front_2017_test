@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "BELLAVISTA",
+    "id": 455,
+    "votos": 7,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 3.23
+  },
+  {
+    "parroquia": "NUEVO QUITO",
+    "id": 1120,
+    "votos": 18,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 2.68
+  },
+  {
+    "parroquia": "PAQUISHA",
+    "id": 6885,
+    "votos": 42,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 3.41
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "parroquia": "PELILEO GRANDE /R. MINO",
+    "id": 5900,
+    "votos": 15,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.94
+  },
+  {
+    "parroquia": "PELILEO",
+    "id": 5780,
+    "votos": 466,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 3.21
+  },
+  {
+    "parroquia": "SALASACA",
+    "id": 3905,
+    "votos": 169,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 7.29
+  },
+  {
+    "parroquia": "HUAMBALO",
+    "id": 1630,
+    "votos": 99,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.4
+  },
+  {
+    "parroquia": "GARCIA MORENO",
+    "id": 1320,
+    "votos": 68,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 3.87
+  },
+  {
+    "parroquia": "EL ROSARIO /RUMICHACA",
+    "id": 1185,
+    "votos": 44,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 3.55
+  },
+  {
+    "parroquia": "CHIQUICHA",
+    "id": 900,
+    "votos": 20,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.99
+  },
+  {
+    "parroquia": "COTALO",
+    "id": 675,
+    "votos": 34,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 3.1
+  },
+  {
+    "parroquia": "BOLIVAR",
+    "id": 365,
+    "votos": 58,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 4.2
+  },
+  {
+    "parroquia": "BENITEZ /PACHANLICA",
+    "id": 335,
+    "votos": 34,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.68
+  }
+]

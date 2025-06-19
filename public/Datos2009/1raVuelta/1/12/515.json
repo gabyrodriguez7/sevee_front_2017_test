@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "EL SALTO",
+    "id": 6835,
+    "votos": 6,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.67
+  },
+  {
+    "parroquia": "BARREIRO /SANTA RITA",
+    "id": 6830,
+    "votos": 59,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.42
+  },
+  {
+    "parroquia": "DR. CAMILO PONCE E.",
+    "id": 5285,
+    "votos": 504,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.71
+  },
+  {
+    "parroquia": "CLEMENTE BAQUERIZO",
+    "id": 5215,
+    "votos": 777,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.45
+  },
+  {
+    "parroquia": "PIMOCHA",
+    "id": 2875,
+    "votos": 74,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.17
+  },
+  {
+    "parroquia": "LA UNION",
+    "id": 1525,
+    "votos": 52,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.26
+  },
+  {
+    "parroquia": "FEBRES CORDERO",
+    "id": 1265,
+    "votos": 72,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.09
+  },
+  {
+    "parroquia": "CARACOL",
+    "id": 520,
+    "votos": 21,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.04
+  }
+]

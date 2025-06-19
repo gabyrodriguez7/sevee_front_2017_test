@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "SAN PEDRO DE LOS COFANES",
+        "id": 600,
+        "votos": 39,
+        "candidato": "Acosta Alberto",
+        "value": 2.39
+    },
+    {
+        "parroquia": "SIETE DE JULIO",
+        "id": 780,
+        "votos": 33,
+        "candidato": "Acosta Alberto",
+        "value": 1.97
+    },
+    {
+        "parroquia": "LIMONCOCHA",
+        "id": 2175,
+        "votos": 81,
+        "candidato": "Acosta Alberto",
+        "value": 5.925
+    },
+    {
+        "parroquia": "PANACOCHA",
+        "id": 2765,
+        "votos": 10,
+        "candidato": "Acosta Alberto",
+        "value": 4.8
+    },
+    {
+        "parroquia": "SAN ROQUE",
+        "id": 3645,
+        "votos": 32,
+        "candidato": "Acosta Alberto",
+        "value": 2.4
+    },
+    {
+        "parroquia": "SHUSHUFINDI CENTRAL",
+        "id": 6140,
+        "votos": 357,
+        "candidato": "Acosta Alberto",
+        "value": 2.29
+    }
+]

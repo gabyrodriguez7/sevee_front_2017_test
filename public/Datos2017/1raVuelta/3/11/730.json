@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "CHAQUINAL",
+    "id": 835,
+    "votos": 322,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 48.06
+  },
+  {
+    "parroquia": "12 DE DICIEMBRE",
+    "id": 1035,
+    "votos": 492,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 54.42
+  },
+  {
+    "parroquia": "MILAGROS",
+    "id": 4545,
+    "votos": 635,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 59.01
+  },
+  {
+    "parroquia": "PINDAL /FEDERÍCO PÁEZ",
+    "id": 5810,
+    "votos": 1338,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 45.56
+  }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "PAUTE",
+        "id": 5775,
+        "votos": 49,
+        "candidato": "Melba Jacome",
+        "value": 0.7
+    },
+    {
+        "parroquia": "EL CABO",
+        "id": 4565,
+        "votos": 2,
+        "candidato": "Melba Jacome",
+        "value": 0.31
+    },
+    {
+        "parroquia": "TOMEBAMBA",
+        "id": 4050,
+        "votos": 5,
+        "candidato": "Melba Jacome",
+        "value": 1.04
+    },
+    {
+        "parroquia": "SAN CRISTOBAL",
+        "id": 3375,
+        "votos": 3,
+        "candidato": "Melba Jacome",
+        "value": 0.4
+    },
+    {
+        "parroquia": "GUARAINAC",
+        "id": 1455,
+        "votos": 0,
+        "candidato": "Melba Jacome",
+        "value": 0.0
+    },
+    {
+        "parroquia": "DUG-DUG",
+        "id": 890,
+        "votos": 1,
+        "candidato": "Melba Jacome",
+        "value": 0.26
+    },
+    {
+        "parroquia": "CHICAN / GUILLERMO ORTEGA",
+        "id": 870,
+        "votos": 2,
+        "candidato": "Melba Jacome",
+        "value": 0.22
+    },
+    {
+        "parroquia": "BULAN / J. VICTOR IZQUIERDO",
+        "id": 395,
+        "votos": 2,
+        "candidato": "Melba Jacome",
+        "value": 0.28
+    }
+]

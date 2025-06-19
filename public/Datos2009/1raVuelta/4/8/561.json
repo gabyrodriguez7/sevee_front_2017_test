@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "RIO VERDE",
+        "id": 6720,
+        "votos": 1337,
+        "candidato": "Rafael Correa Delgado",
+        "value": 61.02
+    },
+    {
+        "parroquia": "ROCAFUERTE",
+        "id": 3215,
+        "votos": 1505,
+        "candidato": "Rafael Correa Delgado",
+        "value": 76.01
+    },
+    {
+        "parroquia": "MONTALVO / HORQUETA",
+        "id": 2445,
+        "votos": 939,
+        "candidato": "Rafael Correa Delgado",
+        "value": 71.08
+    },
+    {
+        "parroquia": "LAGARTO",
+        "id": 2035,
+        "votos": 954,
+        "candidato": "Rafael Correa Delgado",
+        "value": 65.47
+    },
+    {
+        "parroquia": "CHUMUNDE",
+        "id": 965,
+        "votos": 220,
+        "candidato": "Rafael Correa Delgado",
+        "value": 55.55
+    },
+    {
+        "parroquia": "CHONTADURO",
+        "id": 930,
+        "votos": 457,
+        "candidato": "Rafael Correa Delgado",
+        "value": 63.2
+    }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "PUERTO AYORA",
+    "id": 6505,
+    "votos": 380,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 6.54
+  },
+  {
+    "parroquia": "SANTA ROSA",
+    "id": 1985,
+    "votos": 8,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 4.47
+  },
+  {
+    "parroquia": "BELLA VISTA",
+    "id": 235,
+    "votos": 41,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 7.31
+  }
+]

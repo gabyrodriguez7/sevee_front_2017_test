@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "CHITO",
+    "id": 915,
+    "votos": 14,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 2.92
+  },
+  {
+    "parroquia": "EL CHORRO",
+    "id": 1145,
+    "votos": 17,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 7.6
+  },
+  {
+    "parroquia": "LA CHONTA",
+    "id": 2015,
+    "votos": 0,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 0.0
+  },
+  {
+    "parroquia": "SAN ANDRES",
+    "id": 2110,
+    "votos": 8,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 2.5157
+  },
+  {
+    "parroquia": "PUCAPAMBA",
+    "id": 2955,
+    "votos": 2,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 2.0
+  },
+  {
+    "parroquia": "ZUMBA",
+    "id": 6315,
+    "votos": 151,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 4.0
+  }
+]

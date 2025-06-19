@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "EL REVENTADOR",
+        "id": 230,
+        "votos": 4,
+        "candidato": "Wray Norman",
+        "value": 0.5
+    },
+    {
+        "parroquia": "GONZALO PIZARRO",
+        "id": 1090,
+        "votos": 3,
+        "candidato": "Wray Norman",
+        "value": 0.195
+    },
+    {
+        "parroquia": "PUERTO LIBRE",
+        "id": 3615,
+        "votos": 4,
+        "candidato": "Wray Norman",
+        "value": 0.762
+    },
+    {
+        "parroquia": "LUMBAQUI",
+        "id": 6300,
+        "votos": 19,
+        "candidato": "Wray Norman",
+        "value": 0.772
+    }
+]

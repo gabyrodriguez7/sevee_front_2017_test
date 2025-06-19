@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "EL PANGUI",
+        "id": 6355,
+        "votos": 1027,
+        "candidato": "Rafael Correa Delgado",
+        "value": 39.62
+    },
+    {
+        "parroquia": "PACHICUTZA",
+        "id": 1015,
+        "votos": 209,
+        "candidato": "Rafael Correa Delgado",
+        "value": 48.16
+    },
+    {
+        "parroquia": "TUNDAYME",
+        "id": 945,
+        "votos": 135,
+        "candidato": "Rafael Correa Delgado",
+        "value": 62.5
+    },
+    {
+        "parroquia": "EL GUISMI",
+        "id": 665,
+        "votos": 179,
+        "candidato": "Rafael Correa Delgado",
+        "value": 33.9
+    }
+]

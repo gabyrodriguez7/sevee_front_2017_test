@@ -1,0 +1,52 @@
+[
+	{
+		"parroquia": "LA CANDELARIA",
+		"id": 925,
+		"votos": 52,
+		"candidato": "Lasso Guillermo",
+		"value": 23.74
+	},
+	{
+		"parroquia": "EL ALTAR",
+		"id": 1110,
+		"votos": 208,
+		"candidato": "Lasso Guillermo",
+		"value": 23.72
+	},
+	{
+		"parroquia": "BILBAO",
+		"id": 1325,
+		"votos": 37,
+		"candidato": "Lasso Guillermo",
+		"value": 19.8
+	},
+	{
+		"parroquia": "MATUS",
+		"id": 2400,
+		"votos": 237,
+		"candidato": "Lasso Guillermo",
+		"value": 35.426
+	},
+	{
+		"parroquia": "PUELA",
+		"id": 2975,
+		"votos": 143,
+		"candidato": "Lasso Guillermo",
+		"value": 26.3352
+	},
+	{
+		"parroquia": "SAN ANTONIO DE BAYUSHIG",
+	"id": 3335,
+	"votos": 360,
+	"candidato": "Lasso Guillermo",
+	"value": 33.99433428
+	},
+	{
+	"parroquia": "PENIPE",
+	"id": 5740,
+	"votos": 549,
+	"candidato": "Lasso Guillermo",
+	"value": 30.9
+	}
+	]
+		

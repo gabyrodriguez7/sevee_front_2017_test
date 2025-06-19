@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "SAN CARLOS",
+    "id": 415,
+    "votos": 1011,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 46.21
+  },
+  {
+    "parroquia": "ENOKANQUI",
+    "id": 490,
+    "votos": 770,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 46.03
+  },
+  {
+    "parroquia": "RUMIPAMBA",
+    "id": 1950,
+    "votos": 443,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 52.99
+  },
+  {
+    "parroquia": "TRES DE NOVIEMBRE",
+    "id": 1955,
+    "votos": 804,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 40.81
+  },
+  {
+    "parroquia": "LAGO SAN PEDRO",
+    "id": 1960,
+    "votos": 603,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 46.28
+  },
+  {
+    "parroquia": "UNIÓN MILAGREÑA",
+    "id": 1965,
+    "votos": 937,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 48.35
+  },
+  {
+    "parroquia": "POMPEYA",
+    "id": 2930,
+    "votos": 289,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 40.82
+  },
+  {
+    "parroquia": "SAN SEBASTIÁN DE COCA",
+    "id": 3660,
+    "votos": 1126,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 44.63
+  },
+  {
+    "parroquia": "LA JOYA DE LOS SACHAS",
+    "id": 6200,
+    "votos": 5500,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 42.36
+  }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "LA CANDELARIA",
+        "id": 925,
+        "votos": 93,
+        "candidato": "Correa Delgado Rafael",
+        "value": 42.47
+    },
+    {
+        "parroquia": "EL ALTAR",
+        "id": 1110,
+        "votos": 487,
+        "candidato": "Correa Delgado Rafael",
+        "value": 55.53
+    },
+    {
+        "parroquia": "BILBAO",
+        "id": 1325,
+        "votos": 103,
+        "candidato": "Correa Delgado Rafael",
+        "value": 55.1
+    },
+    {
+        "parroquia": "MATUS",
+        "id": 2400,
+        "votos": 259,
+        "candidato": "Correa Delgado Rafael",
+        "value": 38.7145
+    },
+    {
+        "parroquia": "PUELA",
+        "id": 2975,
+        "votos": 275,
+        "candidato": "Correa Delgado Rafael",
+        "value": 50.6446
+    },
+    {
+        "parroquia": "SAN ANTONIO DE BAYUSHIG",
+        "id": 3335,
+        "votos": 395,
+        "candidato": "Correa Delgado Rafael",
+        "value": 37.299339
+    },
+    {
+        "parroquia": "PENIPE",
+        "id": 5740,
+        "votos": 810,
+        "candidato": "Correa Delgado Rafael",
+        "value": 45.6
+    }
+]

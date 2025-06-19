@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "PORTOVELO",
+        "id": 5850,
+        "votos": 198,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.76
+    },
+    {
+        "parroquia": "MORALES",
+        "id": 4520,
+        "votos": 5,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.51
+    },
+    {
+        "parroquia": "SALATI",
+        "id": 3275,
+        "votos": 4,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.0
+    },
+    {
+        "parroquia": "CURTINCAPAC",
+        "id": 740,
+        "votos": 2,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 0.68
+    }
+]

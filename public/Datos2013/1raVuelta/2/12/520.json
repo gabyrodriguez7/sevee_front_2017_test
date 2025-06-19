@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "GUARE",
+        "id": 1460,
+        "votos": 138,
+        "candidato": "Noboa Alvaro",
+        "value": 3.8048
+    },
+    {
+        "parroquia": "ISLA DE BEJUCAL",
+        "id": 1740,
+        "votos": 237,
+        "candidato": "Noboa Alvaro",
+        "value": 5.4621
+    },
+    {
+        "parroquia": "BABA",
+        "id": 5085,
+        "votos": 448,
+        "candidato": "Noboa Alvaro",
+        "value": 3.2087
+    }
+]

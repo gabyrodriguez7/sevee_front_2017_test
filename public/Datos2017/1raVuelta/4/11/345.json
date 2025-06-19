@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "NUEVA FATIMA",
+    "id": 2575,
+    "votos": 51,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.96
+  },
+  {
+    "parroquia": "TACAMOROS",
+    "id": 3935,
+    "votos": 188,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.68
+  },
+  {
+    "parroquia": "SOZORANGA",
+    "id": 6120,
+    "votos": 221,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.76
+  }
+]

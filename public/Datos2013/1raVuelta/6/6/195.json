@@ -1,0 +1,115 @@
+[
+	{
+		"parroquia": "CACHA",
+		"id": 420,
+		"votos": 394,
+		"candidato": "Lasso Guillermo",
+		"value": 19.1
+	},
+	{
+		"parroquia": "CALPI",
+		"id": 445,
+		"votos": 1172,
+		"candidato": "Lasso Guillermo",
+		"value": 28.26
+	},
+	{
+		"parroquia": "CUBIJIES",
+		"id": 705,
+		"votos": 422,
+		"candidato": "Lasso Guillermo",
+		"value": 28.17
+	},
+	{
+		"parroquia": "FLORES",
+		"id": 1280,
+		"votos": 598,
+		"candidato": "Lasso Guillermo",
+		"value": 17.96
+	},
+	{
+		"parroquia": "LICTO",
+		"id": 2165,
+		"votos": 924,
+		"candidato": "Lasso Guillermo",
+		"value": 16.81
+	},
+	{
+		"parroquia": "PUNGALA",
+	"id": 3035,
+	"votos": 478,
+	"candidato": "Lasso Guillermo",
+	"value": 14.25
+	},
+	{
+	"parroquia": "PUNIN",
+	"id": 3040,
+	"votos": 798,
+	"candidato": "Lasso Guillermo",
+	"value": 19.81
+	},
+	{
+	"parroquia": "QUIMIAG",
+	"id": 3095,
+	"votos": 791,
+	"candidato": "Lasso Guillermo",
+	"value": 23.09
+	},
+	{
+	"parroquia": "SAN JUAN",
+	"id": 3515,
+	"votos": 1318,
+	"candidato": "Lasso Guillermo",
+	"value": 27.14
+	},
+	{
+	"parroquia": "SAN LUIS",
+	"id": 3560,
+	"votos": 1121,
+	"candidato": "Lasso Guillermo",
+	"value": 28.17
+	},
+	{
+	"parroquia": "LIZARZABURU",
+	"id": 5590,
+	"votos": 12823,
+	"candidato": "Lasso Guillermo",
+	"value": 38.07
+	},
+	{
+	"parroquia": "MALDONADO",
+	"id": 5630,
+	"votos": 8612,
+	"candidato": "Lasso Guillermo",
+	"value": 37.58
+	},
+	{
+	"parroquia": "VELASCO",
+	"id": 6220,
+	"votos": 9453,
+	"candidato": "Lasso Guillermo",
+	"value": 38.77
+	},
+	{
+	"parroquia": "VELOZ",
+	"id": 6230,
+	"votos": 5382,
+	"candidato": "Lasso Guillermo",
+	"value": 38.0
+	},
+	{
+	"parroquia": "YARUQUIES",
+	"id": 6290,
+	"votos": 1106,
+	"candidato": "Lasso Guillermo",
+	"value": 28.0
+	},
+	{
+	"parroquia": "LICAN",
+	"id": 6960,
+	"votos": 981,
+	"candidato": "Lasso Guillermo",
+	"value": 29.5
+	}
+	]
+		

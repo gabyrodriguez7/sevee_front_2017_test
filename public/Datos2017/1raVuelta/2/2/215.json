@@ -1,0 +1,72 @@
+[
+  {
+    "parroquia": "ACHUPALLAS",
+    "id": 20,
+    "votos": 249,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.59
+  },
+  {
+    "parroquia": "GUASUNTOS",
+    "id": 1465,
+    "votos": 97,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.08
+  },
+  {
+    "parroquia": "HUIGRA",
+    "id": 1660,
+    "votos": 73,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.06
+  },
+  {
+    "parroquia": "MULTITUD",
+    "id": 2485,
+    "votos": 38,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.53
+  },
+  {
+    "parroquia": "PISTISHI",
+    "id": 2905,
+    "votos": 4,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.76
+  },
+  {
+    "parroquia": "PUMALLACTA",
+    "id": 3025,
+    "votos": 15,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.39
+  },
+  {
+    "parroquia": "SEVILLA",
+    "id": 3820,
+    "votos": 5,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.39
+  },
+  {
+    "parroquia": "SIBAMBE",
+    "id": 3845,
+    "votos": 95,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.36
+  },
+  {
+    "parroquia": "TIXÁN",
+    "id": 4030,
+    "votos": 379,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.28
+  },
+  {
+    "parroquia": "ALAUSÍ",
+    "id": 5010,
+    "votos": 520,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.77
+  }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "LAS NAVES",
+        "id": 6470,
+        "votos": 123,
+        "candidato": "Noboa Alvaro",
+        "value": 3.666
+    },
+    {
+        "parroquia": "LAS MERCEDES",
+        "id": 6475,
+        "votos": 19,
+        "candidato": "Noboa Alvaro",
+        "value": 4.4
+    }
+]

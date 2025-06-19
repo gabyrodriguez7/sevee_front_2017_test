@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "CAPIRO",
+        "id": 505,
+        "votos": 32,
+        "candidato": "Acosta Alberto",
+        "value": 3.583427
+    },
+    {
+        "parroquia": "SARACAY",
+        "id": 1385,
+        "votos": 29,
+        "candidato": "Acosta Alberto",
+        "value": 3.21864595
+    },
+    {
+        "parroquia": "LA BOCANA",
+        "id": 2230,
+        "votos": 13,
+        "candidato": "Acosta Alberto",
+        "value": 1.7
+    },
+    {
+        "parroquia": "MOROMORO",
+        "id": 2465,
+        "votos": 17,
+        "candidato": "Acosta Alberto",
+        "value": 2.0
+    },
+    {
+        "parroquia": "PIEDRAS",
+        "id": 2850,
+        "votos": 10,
+        "candidato": "Acosta Alberto",
+        "value": 2.267574
+    },
+    {
+        "parroquia": "SAN ROQUE",
+        "id": 3650,
+        "votos": 44,
+        "candidato": "Acosta Alberto",
+        "value": 10.1382
+    },
+    {
+        "parroquia": "PIÑAS",
+        "id": 5790,
+        "votos": 647,
+        "candidato": "Acosta Alberto",
+        "value": 5.529442
+    },
+    {
+        "parroquia": "PIÑAS GRANDE",
+        "id": 6675,
+        "votos": 2,
+        "candidato": "Acosta Alberto",
+        "value": 5.4
+    },
+    {
+        "parroquia": "LA SUSAYA",
+        "id": 6680,
+        "votos": 3,
+        "candidato": "Acosta Alberto",
+        "value": 3.225806
+    }
+]

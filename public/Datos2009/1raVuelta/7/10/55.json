@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "URCUQUI",
+        "id": 6190,
+        "votos": 291,
+        "candidato": "Alvaro Noboa",
+        "value": 9.32
+    },
+    {
+        "parroquia": "TUMBABIRO",
+        "id": 4080,
+        "votos": 60,
+        "candidato": "Alvaro Noboa",
+        "value": 7.75
+    },
+    {
+        "parroquia": "SAN BLAS",
+        "id": 3365,
+        "votos": 87,
+        "candidato": "Alvaro Noboa",
+        "value": 5.13
+    },
+    {
+        "parroquia": "PABLO ARENAS",
+        "id": 2675,
+        "votos": 72,
+        "candidato": "Alvaro Noboa",
+        "value": 6.44
+    },
+    {
+        "parroquia": "LA MERCED DE BUENOS AIRES",
+        "id": 2060,
+        "votos": 21,
+        "candidato": "Alvaro Noboa",
+        "value": 2.59
+    },
+    {
+        "parroquia": "CAHUASQUI",
+        "id": 425,
+        "votos": 81,
+        "candidato": "Alvaro Noboa",
+        "value": 8.46
+    }
+]

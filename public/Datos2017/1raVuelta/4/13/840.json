@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "SAN SEBASTIÁN",
+    "id": 1060,
+    "votos": 201,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.34
+  },
+  {
+    "parroquia": "BARRAGANETE",
+    "id": 1065,
+    "votos": 415,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 17.07
+  },
+  {
+    "parroquia": "PICHINCHA /GERMUD",
+    "id": 6550,
+    "votos": 1407,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.5
+  }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "LIMONES",
+        "id": 280,
+        "votos": 1,
+        "candidato": "Zavala Nelson",
+        "value": 0.16
+    },
+    {
+        "parroquia": "GARZAREAL",
+        "id": 290,
+        "votos": 10,
+        "candidato": "Zavala Nelson",
+        "value": 2.0
+    },
+    {
+        "parroquia": "MANGAHURCO",
+        "id": 550,
+        "votos": 6,
+        "candidato": "Zavala Nelson",
+        "value": 1.33
+    },
+    {
+        "parroquia": "BOLASPAMBA",
+        "id": 2000,
+        "votos": 1,
+        "candidato": "Zavala Nelson",
+        "value": 0.25
+    },
+    {
+        "parroquia": "PALETILLAS",
+        "id": 2710,
+        "votos": 6,
+        "candidato": "Zavala Nelson",
+        "value": 0.44
+    },
+    {
+        "parroquia": "CAZADEROS",
+        "id": 4605,
+        "votos": 3,
+        "candidato": "Zavala Nelson",
+        "value": 1.0
+    },
+    {
+        "parroquia": "ZAPOTILLO",
+        "id": 6320,
+        "votos": 26,
+        "candidato": "Zavala Nelson",
+        "value": 0.83871
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "PENIPE",
+        "id": 5740,
+        "votos": 10,
+        "candidato": "Melba Jacome",
+        "value": 0.67
+    },
+    {
+        "parroquia": "SAN ANTONIO DE BAYUSHIG",
+        "id": 3335,
+        "votos": 11,
+        "candidato": "Melba Jacome",
+        "value": 1.09
+    },
+    {
+        "parroquia": "PUELA",
+        "id": 2975,
+        "votos": 1,
+        "candidato": "Melba Jacome",
+        "value": 0.2
+    },
+    {
+        "parroquia": "MATUS",
+        "id": 2400,
+        "votos": 3,
+        "candidato": "Melba Jacome",
+        "value": 0.49
+    },
+    {
+        "parroquia": "BILBAO",
+        "id": 1325,
+        "votos": 0,
+        "candidato": "Melba Jacome",
+        "value": 0.0
+    },
+    {
+        "parroquia": "EL ALTAR",
+        "id": 1110,
+        "votos": 4,
+        "candidato": "Melba Jacome",
+        "value": 0.51
+    },
+    {
+        "parroquia": "LA CANDELARIA",
+        "id": 925,
+        "votos": 2,
+        "candidato": "Melba Jacome",
+        "value": 1.11
+    }
+]

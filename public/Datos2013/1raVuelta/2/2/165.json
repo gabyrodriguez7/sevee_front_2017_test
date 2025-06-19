@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "SAN LUIS DE PAMBIL",
+        "id": 795,
+        "votos": 1017,
+        "candidato": "Correa Delgado Rafael",
+        "value": 33.0
+    },
+    {
+        "parroquia": "FACUNDO VELA",
+        "id": 1255,
+        "votos": 318,
+        "candidato": "Correa Delgado Rafael",
+        "value": 31.0
+    },
+    {
+        "parroquia": "JULIO E MORENO",
+        "id": 1890,
+        "votos": 215,
+        "candidato": "Correa Delgado Rafael",
+        "value": 22.8
+    },
+    {
+        "parroquia": "SALINAS",
+        "id": 3285,
+        "votos": 921,
+        "candidato": "Correa Delgado Rafael",
+        "value": 44.172662
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 3545,
+        "votos": 387,
+        "candidato": "Correa Delgado Rafael",
+        "value": 31.39
+    },
+    {
+        "parroquia": "SAN SIMON",
+        "id": 3670,
+        "votos": 703,
+        "candidato": "Correa Delgado Rafael",
+        "value": 35.18518518
+    },
+    {
+        "parroquia": "SANTA FE",
+        "id": 3710,
+        "votos": 434,
+        "candidato": "Correa Delgado Rafael",
+        "value": 35.37
+    },
+    {
+        "parroquia": "SIMIATUG",
+        "id": 3860,
+        "votos": 2299,
+        "candidato": "Correa Delgado Rafael",
+        "value": 55.0
+    },
+    {
+        "parroquia": "ANGEL POLIVIO CHAVEZ",
+        "id": 5035,
+        "votos": 2783,
+        "candidato": "Correa Delgado Rafael",
+        "value": 33.5
+    },
+    {
+        "parroquia": "GABRIEL I VEINTIMILLA",
+        "id": 5375,
+        "votos": 3943,
+        "candidato": "Correa Delgado Rafael",
+        "value": 32.0
+    },
+    {
+        "parroquia": "GUANUJO",
+        "id": 6630,
+        "votos": 3548,
+        "candidato": "Correa Delgado Rafael",
+        "value": 28.0
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "ARENILLAS",
+        "id": 5040,
+        "votos": 7014,
+        "candidato": "Rafael Correa Delgado",
+        "value": 64.23
+    },
+    {
+        "parroquia": "PALMALES",
+        "id": 2715,
+        "votos": 846,
+        "candidato": "Rafael Correa Delgado",
+        "value": 68.72
+    },
+    {
+        "parroquia": "CARCABON",
+        "id": 1695,
+        "votos": 183,
+        "candidato": "Rafael Correa Delgado",
+        "value": 67.77
+    },
+    {
+        "parroquia": "CHACRAS",
+        "id": 805,
+        "votos": 424,
+        "candidato": "Rafael Correa Delgado",
+        "value": 79.4
+    }
+]

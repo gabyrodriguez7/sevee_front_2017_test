@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "BAEZA",
+    "id": 5090,
+    "votos": 633,
+    "candidato": "Lucio Gutierrez",
+    "value": 54.33
+  },
+  {
+    "parroquia": "SUMACO",
+    "id": 3890,
+    "votos": 67,
+    "candidato": "Lucio Gutierrez",
+    "value": 57.26
+  },
+  {
+    "parroquia": "SAN FRANCISCO DE BORJA",
+    "id": 3395,
+    "votos": 668,
+    "candidato": "Lucio Gutierrez",
+    "value": 64.6
+  },
+  {
+    "parroquia": "PAPALLACTA",
+    "id": 2770,
+    "votos": 195,
+    "candidato": "Lucio Gutierrez",
+    "value": 52.14
+  },
+  {
+    "parroquia": "CUYUJA",
+    "id": 765,
+    "votos": 181,
+    "candidato": "Lucio Gutierrez",
+    "value": 68.82
+  },
+  {
+    "parroquia": "COSANGA",
+    "id": 670,
+    "votos": 178,
+    "candidato": "Lucio Gutierrez",
+    "value": 54.43
+  }
+]

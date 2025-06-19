@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "LIMONES",
+    "id": 280,
+    "votos": 16,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.24
+  },
+  {
+    "parroquia": "GARZAREAL",
+    "id": 290,
+    "votos": 13,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.98
+  },
+  {
+    "parroquia": "MANGAHURCO",
+    "id": 550,
+    "votos": 7,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.46
+  },
+  {
+    "parroquia": "BOLASPAMBA",
+    "id": 2000,
+    "votos": 9,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.86
+  },
+  {
+    "parroquia": "PALETILLAS",
+    "id": 2710,
+    "votos": 42,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.84
+  },
+  {
+    "parroquia": "CAZADEROS",
+    "id": 4605,
+    "votos": 3,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.17
+  },
+  {
+    "parroquia": "ZAPOTILLO",
+    "id": 6320,
+    "votos": 35,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.06
+  }
+]

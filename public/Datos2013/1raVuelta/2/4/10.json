@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "PIARTAL",
+        "id": 250,
+        "votos": 477,
+        "candidato": "Correa Delgado Rafael",
+        "value": 67.1831
+    },
+    {
+        "parroquia": "CRISTOBAL COLON",
+        "id": 690,
+        "votos": 1070,
+        "candidato": "Correa Delgado Rafael",
+        "value": 52.4
+    },
+    {
+        "parroquia": "CHITAN DE NAVARRETES",
+        "id": 910,
+        "votos": 211,
+        "candidato": "Correa Delgado Rafael",
+        "value": 51.0
+    },
+    {
+        "parroquia": "FERNANDEZ SALVADOR",
+        "id": 1270,
+        "votos": 366,
+        "candidato": "Correa Delgado Rafael",
+        "value": 57.4
+    },
+    {
+        "parroquia": "LA PAZ",
+        "id": 2065,
+        "votos": 1258,
+        "candidato": "Correa Delgado Rafael",
+        "value": 62.68
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 5405,
+        "votos": 3141,
+        "candidato": "Correa Delgado Rafael",
+        "value": 44.73
+    },
+    {
+        "parroquia": "SAN JOSE",
+        "id": 5970,
+        "votos": 3633,
+        "candidato": "Correa Delgado Rafael",
+        "value": 53.11
+    }
+]

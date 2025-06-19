@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "CHUGÁ",
+    "id": 955,
+    "votos": 13,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.67
+  },
+  {
+    "parroquia": "MARIANO ACOSTA",
+    "id": 2380,
+    "votos": 10,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.83
+  },
+  {
+    "parroquia": "SAN FRANCISCO DE SIGSIPAMBA",
+    "id": 3415,
+    "votos": 4,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.54
+  },
+  {
+    "parroquia": "PIMAMPIRO",
+    "id": 5750,
+    "votos": 156,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.12
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "EL GOALTAL / LAS JUNTAS",
+    "id": 1150,
+    "votos": 338,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 50.83
+  },
+  {
+    "parroquia": "LA LIBERTAD",
+    "id": 2040,
+    "votos": 1695,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 59.49
+  },
+  {
+    "parroquia": "SAN ISIDRO",
+    "id": 3435,
+    "votos": 1291,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 55.22
+  },
+  {
+    "parroquia": "EL ÁNGEL",
+    "id": 5295,
+    "votos": 1619,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 43.17
+  },
+  {
+    "parroquia": "27 DE SEPTIEMBRE",
+    "id": 6250,
+    "votos": 500,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 45.29
+  }
+]

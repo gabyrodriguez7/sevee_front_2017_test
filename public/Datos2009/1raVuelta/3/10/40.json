@@ -1,0 +1,72 @@
+[
+  {
+    "parroquia": "SAN FRANCISCO",
+    "id": 5955,
+    "votos": 16,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.55
+  },
+  {
+    "parroquia": "SAGRARIO",
+    "id": 5910,
+    "votos": 19,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.36
+  },
+  {
+    "parroquia": "VACAS GALINDO",
+    "id": 4185,
+    "votos": 3,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 1.07
+  },
+  {
+    "parroquia": "6 DE JULIO DE CUELLAJE",
+    "id": 3800,
+    "votos": 0,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.0
+  },
+  {
+    "parroquia": "QUIROGA",
+    "id": 3115,
+    "votos": 11,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.32
+  },
+  {
+    "parroquia": "PLAZA GUTIERREZ/CALVARIO",
+    "id": 2915,
+    "votos": 3,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 1.26
+  },
+  {
+    "parroquia": "PEÑAHERRERA",
+    "id": 2820,
+    "votos": 3,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.38
+  },
+  {
+    "parroquia": "IMANTAG",
+    "id": 1710,
+    "votos": 8,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.37
+  },
+  {
+    "parroquia": "GARCIA MORENO / LLURIMAGUA",
+    "id": 1310,
+    "votos": 16,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.57
+  },
+  {
+    "parroquia": "APUELA",
+    "id": 145,
+    "votos": 4,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.47
+  }
+]

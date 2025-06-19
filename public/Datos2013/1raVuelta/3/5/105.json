@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "ANGAMARCA",
+        "id": 125,
+        "votos": 22,
+        "candidato": "Wray Norman",
+        "value": 1.1
+    },
+    {
+        "parroquia": "GUANGAJE",
+        "id": 1430,
+        "votos": 41,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "LA VICTORIA",
+        "id": 2150,
+        "votos": 26,
+        "candidato": "Wray Norman",
+        "value": 1.56
+    },
+    {
+        "parroquia": "PILALO",
+        "id": 2865,
+        "votos": 12,
+        "candidato": "Wray Norman",
+        "value": 1.29
+    },
+    {
+        "parroquia": "TINGO",
+        "id": 4015,
+        "votos": 12,
+        "candidato": "Wray Norman",
+        "value": 0.7
+    },
+    {
+        "parroquia": "ZUMBAHUA",
+        "id": 4365,
+        "votos": 54,
+        "candidato": "Wray Norman",
+        "value": 0.8
+    },
+    {
+        "parroquia": "PUJILI",
+        "id": 5820,
+        "votos": 303,
+        "candidato": "Wray Norman",
+        "value": 1.464688
+    }
+]

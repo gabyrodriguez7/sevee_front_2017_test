@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "TRIUNFO DORADO",
+    "id": 4385,
+    "votos": 10,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.44
+  },
+  {
+    "parroquia": "PANGUINTZA",
+    "id": 4600,
+    "votos": 13,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.87
+  },
+  {
+    "parroquia": "ZUMBI",
+    "id": 6625,
+    "votos": 42,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.2
+  }
+]

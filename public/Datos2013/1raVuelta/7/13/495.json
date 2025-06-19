@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CAMPOZANO",
+        "id": 460,
+        "votos": 41,
+        "candidato": "Zavala Nelson",
+        "value": 1.3074
+    },
+    {
+        "parroquia": "CASCOL",
+        "id": 540,
+        "votos": 48,
+        "candidato": "Zavala Nelson",
+        "value": 1.0471
+    },
+    {
+        "parroquia": "GUALE/STO.DOMINGO",
+        "id": 1395,
+        "votos": 60,
+        "candidato": "Zavala Nelson",
+        "value": 2.2
+    },
+    {
+        "parroquia": "LASCANO",
+        "id": 2090,
+        "votos": 32,
+        "candidato": "Zavala Nelson",
+        "value": 1.57
+    },
+    {
+        "parroquia": "PAJAN",
+        "id": 5755,
+        "votos": 189,
+        "candidato": "Zavala Nelson",
+        "value": 1.441
+    }
+]

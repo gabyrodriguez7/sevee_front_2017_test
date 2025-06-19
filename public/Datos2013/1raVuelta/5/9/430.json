@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "GRAL. VERNAZA",
+        "id": 1350,
+        "votos": 416,
+        "candidato": "Gutierrez Lucio",
+        "value": 10.2
+    },
+    {
+        "parroquia": "JUNQUILLAL",
+        "id": 1595,
+        "votos": 593,
+        "candidato": "Gutierrez Lucio",
+        "value": 12.85
+    },
+    {
+        "parroquia": "VICTORIA",
+        "id": 4220,
+        "votos": 245,
+        "candidato": "Gutierrez Lucio",
+        "value": 10.46
+    },
+    {
+        "parroquia": "BOCANA",
+        "id": 5120,
+        "votos": 25,
+        "candidato": "Gutierrez Lucio",
+        "value": 9.62
+    },
+    {
+        "parroquia": "CANDILEJOS",
+        "id": 5155,
+        "votos": 89,
+        "candidato": "Gutierrez Lucio",
+        "value": 12.4476
+    },
+    {
+        "parroquia": "SALITRE",
+        "id": 5200,
+        "votos": 2313,
+        "candidato": "Gutierrez Lucio",
+        "value": 10.9362
+    },
+    {
+        "parroquia": "PARAISO",
+        "id": 5765,
+        "votos": 11,
+        "candidato": "Gutierrez Lucio",
+        "value": 8.5
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 5990,
+        "votos": 9,
+        "candidato": "Gutierrez Lucio",
+        "value": 7.377
+    }
+]

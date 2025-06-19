@@ -1,0 +1,114 @@
+[
+  {
+    "parroquia": "CACHA",
+    "id": 420,
+    "votos": 40,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.9
+  },
+  {
+    "parroquia": "CALPI",
+    "id": 445,
+    "votos": 73,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.71
+  },
+  {
+    "parroquia": "CUBIJÍES",
+    "id": 705,
+    "votos": 22,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.45
+  },
+  {
+    "parroquia": "FLORES",
+    "id": 1280,
+    "votos": 34,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.13
+  },
+  {
+    "parroquia": "LICAN",
+    "id": 2160,
+    "votos": 38,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1
+  },
+  {
+    "parroquia": "LICTO",
+    "id": 2165,
+    "votos": 87,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.61
+  },
+  {
+    "parroquia": "PUNGALÁ",
+    "id": 3035,
+    "votos": 69,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.98
+  },
+  {
+    "parroquia": "PUNÍN",
+    "id": 3040,
+    "votos": 65,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.61
+  },
+  {
+    "parroquia": "QUIMIAG",
+    "id": 3095,
+    "votos": 63,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.8
+  },
+  {
+    "parroquia": "SAN JUAN",
+    "id": 3515,
+    "votos": 115,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 2.16
+  },
+  {
+    "parroquia": "SAN LUIS",
+    "id": 3560,
+    "votos": 48,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.14
+  },
+  {
+    "parroquia": "LIZARZABURU",
+    "id": 5590,
+    "votos": 188,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.51
+  },
+  {
+    "parroquia": "MALDONADO",
+    "id": 5630,
+    "votos": 194,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.79
+  },
+  {
+    "parroquia": "VELASCO",
+    "id": 6220,
+    "votos": 159,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.6
+  },
+  {
+    "parroquia": "VELOZ",
+    "id": 6230,
+    "votos": 85,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.53
+  },
+  {
+    "parroquia": "YARUQUÍES",
+    "id": 6290,
+    "votos": 37,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.89
+  }
+]

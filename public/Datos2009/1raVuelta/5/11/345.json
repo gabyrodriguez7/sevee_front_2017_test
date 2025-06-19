@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "SOZORANGA",
+        "id": 6120,
+        "votos": 5,
+        "candidato": "Melba Jacome",
+        "value": 0.34
+    },
+    {
+        "parroquia": "TACAMOROS",
+        "id": 3935,
+        "votos": 14,
+        "candidato": "Melba Jacome",
+        "value": 1.3
+    },
+    {
+        "parroquia": "NUEVA FATIMA",
+        "id": 2575,
+        "votos": 0,
+        "candidato": "Melba Jacome",
+        "value": 0.0
+    }
+]

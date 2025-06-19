@@ -1,0 +1,145 @@
+[
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "VITERI JIMENEZ CYNTHIA FERNANDA",
+        "id": 515,
+        "votos": 480543,
+        "votos1": 37521,
+        "votos2": 25438,
+        "fill": "#1eff00",
+        "porcentaje1": 17.68,
+        "porcentaje2": 5.87
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 516,
+        "votos": 480543,
+        "votos1": 11186,
+        "votos2": 5877,
+        "fill": "#1eff00",
+        "porcentaje1": 5.27,
+        "porcentaje2": 6.14
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "VITERI JIMENEZ CYNTHIA FERNANDA",
+        "id": 520,
+        "votos": 480543,
+        "votos1": 12757,
+        "votos2": 3773,
+        "fill": "#1eff00",
+        "porcentaje1": 6.01,
+        "porcentaje2": 3.76
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "VITERI JIMENEZ CYNTHIA FERNANDA",
+        "id": 525,
+        "votos": 480543,
+        "votos1": 19496,
+        "votos2": 12875,
+        "fill": "#1eff00",
+        "porcentaje1": 9.19,
+        "porcentaje2": 12.83
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 530,
+        "votos": 480543,
+        "votos1": 9038,
+        "votos2": 4751,
+        "fill": "#1eff00",
+        "porcentaje1": 4.26,
+        "porcentaje2": 4.97
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "BUCARAM PULLEY ABDALA JAIME",
+        "id": 535,
+        "votos": 480543,
+        "votos1": 6905,
+        "votos2": 4263,
+        "fill": "#1eff00",
+        "porcentaje1": 3.25,
+        "porcentaje2": 10.48
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "VITERI JIMENEZ CYNTHIA FERNANDA",
+        "id": 540,
+        "votos": 480543,
+        "votos1": 52782,
+        "votos2": 25743,
+        "fill": "#1eff00",
+        "porcentaje1": 24.88,
+        "porcentaje2": 25.65
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 545,
+        "votos": 480543,
+        "votos1": 16223,
+        "votos2": 10224,
+        "fill": "#1eff00",
+        "porcentaje1": 7.65,
+        "porcentaje2": 10.69
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 546,
+        "votos": 480543,
+        "votos1": 3146,
+        "votos2": 2124,
+        "fill": "#1eff00",
+        "porcentaje1": 1.48,
+        "porcentaje2": 2.22
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 710,
+        "votos": 480543,
+        "votos1": 5515,
+        "votos2": 3928,
+        "fill": "#1eff00",
+        "porcentaje1": 2.6,
+        "porcentaje2": 4.11
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "VITERI JIMENEZ CYNTHIA FERNANDA",
+        "id": 750,
+        "votos": 480543,
+        "votos1": 7620,
+        "votos2": 1290,
+        "fill": "#1eff00",
+        "porcentaje1": 3.59,
+        "porcentaje2": 1.29
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 945,
+        "votos": 480543,
+        "votos1": 18285,
+        "votos2": 8581,
+        "fill": "#1eff00",
+        "porcentaje1": 8.62,
+        "porcentaje2": 8.97
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 946,
+        "votos": 480543,
+        "votos1": 11691,
+        "votos2": 2825,
+        "fill": "#1eff00",
+        "porcentaje1": 5.51,
+        "porcentaje2": 2.95
+    }
+]

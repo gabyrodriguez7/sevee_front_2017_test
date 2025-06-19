@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "DANIEL CORDOVA TORAL",
+        "id": 1005,
+        "votos": 29,
+        "candidato": "Noboa Alvaro",
+        "value": 3.0
+    },
+    {
+        "parroquia": "LUIS CORDERO VEGA",
+        "id": 1760,
+        "votos": 10,
+        "candidato": "Noboa Alvaro",
+        "value": 3.597122
+    },
+    {
+        "parroquia": "JADAN",
+        "id": 1805,
+        "votos": 54,
+        "candidato": "Noboa Alvaro",
+        "value": 2.0
+    },
+    {
+        "parroquia": "MARIANO MORENO/CALLASAY",
+        "id": 2385,
+        "votos": 34,
+        "candidato": "Noboa Alvaro",
+        "value": 3.0
+    },
+    {
+        "parroquia": "REMIGIO CRESPO TORAL",
+        "id": 3160,
+        "votos": 7,
+        "candidato": "Noboa Alvaro",
+        "value": 1.41
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3505,
+        "votos": 62,
+        "candidato": "Noboa Alvaro",
+        "value": 2.6
+    },
+    {
+        "parroquia": "SIMON BOLIVAR",
+        "id": 3780,
+        "votos": 6,
+        "candidato": "Noboa Alvaro",
+        "value": 1.66666667
+    },
+    {
+        "parroquia": "ZHIDMAD",
+        "id": 4340,
+        "votos": 30,
+        "candidato": "Noboa Alvaro",
+        "value": 2.0
+    },
+    {
+        "parroquia": "GUALACEO",
+        "id": 5420,
+        "votos": 316,
+        "candidato": "Noboa Alvaro",
+        "value": 2.0
+    }
+]

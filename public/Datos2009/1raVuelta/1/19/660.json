@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "ZUMBA",
+    "id": 6315,
+    "votos": 86,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.74
+  },
+  {
+    "parroquia": "PUCAPAMBA",
+    "id": 2955,
+    "votos": 2,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.27
+  },
+  {
+    "parroquia": "SAN ANDRES",
+    "id": 2110,
+    "votos": 4,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.54
+  },
+  {
+    "parroquia": "LA CHONTA",
+    "id": 2015,
+    "votos": 5,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.72
+  },
+  {
+    "parroquia": "EL CHORRO",
+    "id": 1145,
+    "votos": 15,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 6.02
+  },
+  {
+    "parroquia": "CHITO",
+    "id": 915,
+    "votos": 6,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.49
+  }
+]

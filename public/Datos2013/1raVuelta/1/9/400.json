@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "LIMONAL",
+        "id": 260,
+        "votos": 67,
+        "candidato": "Noboa Alvaro",
+        "value": 4.42
+    },
+    {
+        "parroquia": "JUAN BAUTISTA AGUIRRE",
+        "id": 1855,
+        "votos": 104,
+        "candidato": "Noboa Alvaro",
+        "value": 4.15
+    },
+    {
+        "parroquia": "LAS LOJAS",
+        "id": 2105,
+        "votos": 144,
+        "candidato": "Noboa Alvaro",
+        "value": 5.16
+    },
+    {
+        "parroquia": "EL LAUREL",
+        "id": 4500,
+        "votos": 222,
+        "candidato": "Noboa Alvaro",
+        "value": 5.77523
+    },
+    {
+        "parroquia": "DAULE",
+        "id": 5275,
+        "votos": 3319,
+        "candidato": "Noboa Alvaro",
+        "value": 6.1
+    },
+    {
+        "parroquia": "LA AURORA",
+        "id": 6850,
+        "votos": 185,
+        "candidato": "Noboa Alvaro",
+        "value": 2.8
+    },
+    {
+        "parroquia": "MAGRO",
+        "id": 7425,
+        "votos": 7,
+        "candidato": "Noboa Alvaro",
+        "value": 3.4
+    }
+]

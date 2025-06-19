@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "EL ARENAL",
+    "id": 270,
+    "votos": 2,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.47
+  },
+  {
+    "parroquia": "CIANO",
+    "id": 565,
+    "votos": 5,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.69
+  },
+  {
+    "parroquia": "EL LIMO /MARIANA DE JESÚS",
+    "id": 1155,
+    "votos": 23,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.72
+  },
+  {
+    "parroquia": "MERCADILLO",
+    "id": 2405,
+    "votos": 10,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.21
+  },
+  {
+    "parroquia": "VICENTINO",
+    "id": 4210,
+    "votos": 9,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.22
+  },
+  {
+    "parroquia": "ALAMOR",
+    "id": 5005,
+    "votos": 82,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.37
+  }
+]

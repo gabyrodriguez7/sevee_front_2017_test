@@ -1,0 +1,107 @@
+[
+    {
+        "parroquia": "SAN BUENAVENTURA",
+        "id": 5940,
+        "votos": 86,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.14
+    },
+    {
+        "parroquia": "LA MATRIZ",
+        "id": 5555,
+        "votos": 985,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 5.46
+    },
+    {
+        "parroquia": "JUAN MONTALVO",
+        "id": 5500,
+        "votos": 276,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.11
+    },
+    {
+        "parroquia": "IGNACIO FLORES",
+        "id": 5465,
+        "votos": 293,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.68
+    },
+    {
+        "parroquia": "ELOY ALFARO / SAN FELIPE",
+        "id": 5310,
+        "votos": 508,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.27
+    },
+    {
+        "parroquia": "TOACAZO",
+        "id": 4035,
+        "votos": 140,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.01
+    },
+    {
+        "parroquia": "TANICUCHI",
+        "id": 3965,
+        "votos": 174,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.57
+    },
+    {
+        "parroquia": "SAN JUAN DE PASTOCALLE",
+        "id": 3530,
+        "votos": 112,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.14
+    },
+    {
+        "parroquia": "POALO",
+        "id": 2920,
+        "votos": 74,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.65
+    },
+    {
+        "parroquia": "11 DE NOVIEMBRE",
+        "id": 2620,
+        "votos": 40,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.25
+    },
+    {
+        "parroquia": "MULALO",
+        "id": 2480,
+        "votos": 115,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.44
+    },
+    {
+        "parroquia": "JOSEGUANGO BAJO",
+        "id": 1905,
+        "votos": 30,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.26
+    },
+    {
+        "parroquia": "GUAYTACAMA",
+        "id": 1485,
+        "votos": 135,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.89
+    },
+    {
+        "parroquia": "BELISARIO QUEVEDO",
+        "id": 315,
+        "votos": 72,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.79
+    },
+    {
+        "parroquia": "ALAQUEZ",
+        "id": 35,
+        "votos": 82,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.19
+    }
+]

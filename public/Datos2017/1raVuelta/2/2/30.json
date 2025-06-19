@@ -1,0 +1,86 @@
+[
+  {
+    "parroquia": "AMBUQUÍ/CHOTA",
+    "id": 100,
+    "votos": 217,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.23
+  },
+  {
+    "parroquia": "ANGOCHAGUA",
+    "id": 130,
+    "votos": 328,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 13.03
+  },
+  {
+    "parroquia": "CAROLINA /GUALLUPI",
+    "id": 530,
+    "votos": 97,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.04
+  },
+  {
+    "parroquia": "LA ESPERANZA",
+    "id": 2020,
+    "votos": 849,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 16.9
+  },
+  {
+    "parroquia": "LITA",
+    "id": 2185,
+    "votos": 114,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.44
+  },
+  {
+    "parroquia": "SALINAS",
+    "id": 3290,
+    "votos": 86,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.94
+  },
+  {
+    "parroquia": "SAN ANTONIO",
+    "id": 3315,
+    "votos": 1245,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.85
+  },
+  {
+    "parroquia": "CARANQUI",
+    "id": 5165,
+    "votos": 1425,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 13.76
+  },
+  {
+    "parroquia": "GUAYAQUIL DE ALPACHACA",
+    "id": 5440,
+    "votos": 704,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.72
+  },
+  {
+    "parroquia": "SAGRARIO",
+    "id": 5915,
+    "votos": 4171,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.45
+  },
+  {
+    "parroquia": "SAN FRANCISCO",
+    "id": 5960,
+    "votos": 4050,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.33
+  },
+  {
+    "parroquia": "LA DOLOROSA DEL PRIORATO",
+    "id": 6780,
+    "votos": 208,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.95
+  }
+]

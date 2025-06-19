@@ -1,0 +1,44 @@
+[
+        {
+            "canton": 30,
+            "candidato": "ZUQUILANDA DUQUE JOSE PATRICIO",
+            "votos": 783,
+            "value": 45.44
+        },
+        {
+            "canton": 35,
+            "candidato": "ZUQUILANDA DUQUE JOSE PATRICIO",
+            "votos": 432,
+            "value": 25.07
+        },
+        {
+            "canton": 40,
+            "candidato": "ZUQUILANDA DUQUE JOSE PATRICIO",
+            "votos": 190,
+            "value": 11.03
+        },
+        {
+            "canton": 45,
+            "candidato": "ZUQUILANDA DUQUE JOSE PATRICIO",
+            "votos": 128,
+            "value": 7.43
+        },
+        {
+            "canton": 50,
+            "candidato": "ZUQUILANDA DUQUE JOSE PATRICIO",
+            "votos": 79,
+            "value": 4.59
+        },
+        {
+            "canton": 55,
+            "candidato": "ZUQUILANDA DUQUE JOSE PATRICIO",
+            "votos": 95,
+            "value": 5.51
+        },
+        {
+            "canton": 998,
+            "candidato": "ZUQUILANDA DUQUE JOSE PATRICIO",
+            "votos": 16,
+            "value": 0.93
+        }
+    ]

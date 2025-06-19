@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "BUENAVISTA",
+        "id": 385,
+        "votos": 14,
+        "candidato": "Noboa Alvaro",
+        "value": 2.0
+    },
+    {
+        "parroquia": "EL ROSARIO",
+        "id": 1180,
+        "votos": 7,
+        "candidato": "Noboa Alvaro",
+        "value": 2.7
+    },
+    {
+        "parroquia": "AMARILLOS",
+        "id": 1450,
+        "votos": 7,
+        "candidato": "Noboa Alvaro",
+        "value": 3.2
+    },
+    {
+        "parroquia": "SANTA RUFINA",
+        "id": 3755,
+        "votos": 10,
+        "candidato": "Noboa Alvaro",
+        "value": 1.8
+    },
+    {
+        "parroquia": "CHAGUARPAMBA",
+        "id": 6530,
+        "votos": 98,
+        "candidato": "Noboa Alvaro",
+        "value": 3.73
+    }
+]

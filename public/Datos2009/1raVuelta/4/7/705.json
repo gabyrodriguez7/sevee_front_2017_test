@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "PACCHA",
+        "id": 5745,
+        "votos": 962,
+        "candidato": "Rafael Correa Delgado",
+        "value": 55.31
+    },
+    {
+        "parroquia": "MILAGRO",
+        "id": 4535,
+        "votos": 166,
+        "candidato": "Rafael Correa Delgado",
+        "value": 75.79
+    },
+    {
+        "parroquia": "SAN JOSE",
+        "id": 4530,
+        "votos": 176,
+        "candidato": "Rafael Correa Delgado",
+        "value": 74.89
+    },
+    {
+        "parroquia": "CORDONCILLO",
+        "id": 4480,
+        "votos": 278,
+        "candidato": "Rafael Correa Delgado",
+        "value": 60.69
+    },
+    {
+        "parroquia": "SAN JUAN DE CERRO AZUL",
+        "id": 375,
+        "votos": 180,
+        "candidato": "Rafael Correa Delgado",
+        "value": 77.92
+    },
+    {
+        "parroquia": "AYAPAMBA",
+        "id": 225,
+        "votos": 653,
+        "candidato": "Rafael Correa Delgado",
+        "value": 72.87
+    }
+]

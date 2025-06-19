@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "SAN CARLOS",
+    "id": 415,
+    "votos": 139,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.82
+  },
+  {
+    "parroquia": "ENOKANQUI",
+    "id": 490,
+    "votos": 139,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.15
+  },
+  {
+    "parroquia": "RUMIPAMBA",
+    "id": 1950,
+    "votos": 116,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 16.04
+  },
+  {
+    "parroquia": "TRES DE NOVIEMBRE",
+    "id": 1955,
+    "votos": 106,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.81
+  },
+  {
+    "parroquia": "LAGO SAN PEDRO",
+    "id": 1960,
+    "votos": 73,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.1
+  },
+  {
+    "parroquia": "UNIÓN MILAGREÑA",
+    "id": 1965,
+    "votos": 105,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.02
+  },
+  {
+    "parroquia": "POMPEYA",
+    "id": 2930,
+    "votos": 28,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.2
+  },
+  {
+    "parroquia": "SAN SEBASTIÁN DE COCA",
+    "id": 3660,
+    "votos": 193,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.62
+  },
+  {
+    "parroquia": "LA JOYA DE LOS SACHAS",
+    "id": 6200,
+    "votos": 1239,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.07
+  }
+]

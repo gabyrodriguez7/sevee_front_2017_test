@@ -1,0 +1,86 @@
+[
+    {
+        "parroquia": "DAYUMA",
+        "id": 1235,
+        "votos": 915,
+        "candidato": "Gutierrez Lucio",
+        "value": 28.68
+    },
+    {
+        "parroquia": "TARACOA",
+        "id": 1245,
+        "votos": 368,
+        "candidato": "Gutierrez Lucio",
+        "value": 26.7
+    },
+    {
+        "parroquia": "EL DORADO",
+        "id": 1560,
+        "votos": 234,
+        "candidato": "Gutierrez Lucio",
+        "value": 22.5
+    },
+    {
+        "parroquia": "INES ARANGO",
+        "id": 1565,
+        "votos": 429,
+        "candidato": "Gutierrez Lucio",
+        "value": 30.0
+    },
+    {
+        "parroquia": "ALEJANDRO LABAKA",
+        "id": 1580,
+        "votos": 281,
+        "candidato": "Gutierrez Lucio",
+        "value": 59.79
+    },
+    {
+        "parroquia": "EL EDEN",
+        "id": 1590,
+        "votos": 171,
+        "candidato": "Gutierrez Lucio",
+        "value": 64.528
+    },
+    {
+        "parroquia": "GARCIA MORENO",
+        "id": 1810,
+        "votos": 237,
+        "candidato": "Gutierrez Lucio",
+        "value": 32.1
+    },
+    {
+        "parroquia": "LA BELLEZA",
+        "id": 1820,
+        "votos": 957,
+        "candidato": "Gutierrez Lucio",
+        "value": 48.65
+    },
+    {
+        "parroquia": "SAN LUIS DE ARMENIA",
+        "id": 1935,
+        "votos": 647,
+        "candidato": "Gutierrez Lucio",
+        "value": 62.6
+    },
+    {
+        "parroquia": "NUEVO PARAISO",
+        "id": 1940,
+        "votos": 348,
+        "candidato": "Gutierrez Lucio",
+        "value": 27.8
+    },
+    {
+        "parroquia": "SAN JOSE DE GUAYUSA",
+        "id": 1945,
+        "votos": 350,
+        "candidato": "Gutierrez Lucio",
+        "value": 43.3
+    },
+    {
+        "parroquia": "PTO. FCO. DE ORELLANA",
+        "id": 5815,
+        "votos": 3779,
+        "candidato": "Gutierrez Lucio",
+        "value": 15.87
+    }
+]

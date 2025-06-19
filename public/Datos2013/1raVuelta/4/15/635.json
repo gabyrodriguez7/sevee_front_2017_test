@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "COSANGA",
+        "id": 670,
+        "votos": 21,
+        "candidato": "Acosta Alberto",
+        "value": 6.1
+    },
+    {
+        "parroquia": "CUYUJA",
+        "id": 765,
+        "votos": 3,
+        "candidato": "Acosta Alberto",
+        "value": 0.9
+    },
+    {
+        "parroquia": "PAPALLACTA",
+        "id": 2770,
+        "votos": 26,
+        "candidato": "Acosta Alberto",
+        "value": 6.0324826
+    },
+    {
+        "parroquia": "SAN FRANCISCO DE BORJA",
+        "id": 3395,
+        "votos": 25,
+        "candidato": "Acosta Alberto",
+        "value": 2.0
+    },
+    {
+        "parroquia": "SUMACO",
+        "id": 3890,
+        "votos": 6,
+        "candidato": "Acosta Alberto",
+        "value": 4.0
+    },
+    {
+        "parroquia": "BAEZA",
+        "id": 5090,
+        "votos": 28,
+        "candidato": "Acosta Alberto",
+        "value": 2.0
+    }
+]

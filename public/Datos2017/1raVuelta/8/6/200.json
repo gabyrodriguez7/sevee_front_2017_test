@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "SANTA FE DE GALÁN",
+    "id": 40,
+    "votos": 22,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.13
+  },
+  {
+    "parroquia": "SAN JOSÉ DEL CHAZO",
+    "id": 45,
+    "votos": 10,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.35
+  },
+  {
+    "parroquia": "VALPARAISO",
+    "id": 410,
+    "votos": 10,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.16
+  },
+  {
+    "parroquia": "GUANANDO",
+    "id": 1415,
+    "votos": 8,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.07
+  },
+  {
+    "parroquia": "ILAPO",
+    "id": 1705,
+    "votos": 72,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.99
+  },
+  {
+    "parroquia": "LA PROVIDENCIA",
+    "id": 2080,
+    "votos": 10,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.43
+  },
+  {
+    "parroquia": "SAN ANDRÉS",
+    "id": 3295,
+    "votos": 316,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.87
+  },
+  {
+    "parroquia": "SAN GERARDO / PAQUICAHUAN",
+    "id": 3425,
+    "votos": 62,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 5.11
+  },
+  {
+    "parroquia": "SAN ISIDRO DE PATULÚ",
+    "id": 3450,
+    "votos": 61,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.41
+  },
+  {
+    "parroquia": "EL ROSARIO",
+    "id": 5315,
+    "votos": 66,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.22
+  },
+  {
+    "parroquia": "LA MATRIZ",
+    "id": 5550,
+    "votos": 387,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.94
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "BELLAVISTA",
+    "id": 455,
+    "votos": 157,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 52.16
+  },
+  {
+    "parroquia": "NUEVO QUITO",
+    "id": 1120,
+    "votos": 329,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 38.8
+  },
+  {
+    "parroquia": "PAQUISHA",
+    "id": 6885,
+    "votos": 775,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 50.49
+  }
+]

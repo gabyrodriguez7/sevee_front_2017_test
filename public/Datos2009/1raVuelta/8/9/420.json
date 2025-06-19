@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "MILAGRO",
+    "id": 5660,
+    "votos": 24016,
+    "candidato": "Lucio Gutierrez",
+    "value": 28.41
+  },
+  {
+    "parroquia": "ROBERTO ASTUDILLO",
+    "id": 3235,
+    "votos": 735,
+    "candidato": "Lucio Gutierrez",
+    "value": 30.27
+  },
+  {
+    "parroquia": "MARISCAL SUCRE/HUAQUES",
+    "id": 2390,
+    "votos": 413,
+    "candidato": "Lucio Gutierrez",
+    "value": 21.97
+  },
+  {
+    "parroquia": "CHOBO",
+    "id": 920,
+    "votos": 59,
+    "candidato": "Lucio Gutierrez",
+    "value": 11.89
+  }
+]

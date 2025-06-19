@@ -1,0 +1,93 @@
+[
+  {
+    "parroquia": "CAMARONES",
+    "id": 450,
+    "votos": 591,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 44.24
+  },
+  {
+    "parroquia": "CRNL.CARLOS CONCHA TORRES",
+    "id": 655,
+    "votos": 263,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 32.83
+  },
+  {
+    "parroquia": "CHINCA",
+    "id": 895,
+    "votos": 624,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 35.78
+  },
+  {
+    "parroquia": "MAJUA",
+    "id": 2320,
+    "votos": 423,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 40.02
+  },
+  {
+    "parroquia": "SAN MATEO",
+    "id": 3570,
+    "votos": 1211,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 42.02
+  },
+  {
+    "parroquia": "TABIAZO",
+    "id": 3930,
+    "votos": 566,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 39.47
+  },
+  {
+    "parroquia": "TACHINA",
+    "id": 3940,
+    "votos": 994,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 43.85
+  },
+  {
+    "parroquia": "VUELTA LARGA",
+    "id": 4240,
+    "votos": 5114,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 34.32
+  },
+  {
+    "parroquia": "BARTOLOMÉ RUÍZ",
+    "id": 5205,
+    "votos": 5656,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 32.9
+  },
+  {
+    "parroquia": "5 DE AGOSTO",
+    "id": 5210,
+    "votos": 8148,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 29.93
+  },
+  {
+    "parroquia": "ESMERALDAS",
+    "id": 5335,
+    "votos": 9507,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 31.19
+  },
+  {
+    "parroquia": "LUIS TELLO / LAS PALMAS /",
+    "id": 5600,
+    "votos": 2275,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 34.31
+  },
+  {
+    "parroquia": "SIMÓN PLATA TORRES",
+    "id": 6905,
+    "votos": 2621,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 37.43
+  }
+]

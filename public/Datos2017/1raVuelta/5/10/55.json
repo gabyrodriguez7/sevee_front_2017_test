@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "CAHUASQUÍ",
+    "id": 425,
+    "votos": 5,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.38
+  },
+  {
+    "parroquia": "LA MERCED DE BUENOS AIRES",
+    "id": 2060,
+    "votos": 17,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.59
+  },
+  {
+    "parroquia": "PABLO ARENAS",
+    "id": 2675,
+    "votos": 10,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.71
+  },
+  {
+    "parroquia": "SAN BLAS",
+    "id": 3365,
+    "votos": 27,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.41
+  },
+  {
+    "parroquia": "TUMBABIRO",
+    "id": 4080,
+    "votos": 6,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.57
+  },
+  {
+    "parroquia": "URCUQUÍ",
+    "id": 6190,
+    "votos": 30,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.69
+  }
+]

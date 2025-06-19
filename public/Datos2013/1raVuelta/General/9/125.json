@@ -1,0 +1,24 @@
+[
+    {
+        "candidato1": "CORREA DELGADO RAFAEL",
+        "candidato2": "WRAY  NORMAN",
+        "id": 1435,
+        "votos": 1569,
+        "votos1": 975,
+        "votos2": 193,
+        "fill": "#02C01C",
+        "porcentaje1": 62.14,
+        "porcentaje2": 12.3
+    },
+    {
+        "candidato1": "CORREA DELGADO RAFAEL",
+        "candidato2": "GUTIERREZ  LUCIO",
+        "id": 5365,
+        "votos": 10624,
+        "votos1": 7393,
+        "votos2": 1570,
+        "fill": "#02C01C",
+        "porcentaje1": 69.6,
+        "porcentaje2": 14.8
+    }
+]

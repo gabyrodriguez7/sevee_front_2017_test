@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "BELLAVISTA",
+    "id": 455,
+    "votos": 4,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.36
+  },
+  {
+    "parroquia": "NUEVO QUITO",
+    "id": 1120,
+    "votos": 12,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.5
+  },
+  {
+    "parroquia": "PAQUISHA",
+    "id": 6885,
+    "votos": 5,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.34
+  }
+]

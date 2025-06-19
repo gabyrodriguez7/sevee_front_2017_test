@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "PALO QUEMADO",
+    "id": 815,
+    "votos": 79,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 15.52
+  },
+  {
+    "parroquia": "CHUGCHILAN",
+    "id": 960,
+    "votos": 800,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 23.43
+  },
+  {
+    "parroquia": "ISINLIVI",
+    "id": 1735,
+    "votos": 373,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 22.11
+  },
+  {
+    "parroquia": "LAS PAMPAS",
+    "id": 2115,
+    "votos": 167,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 13.61
+  },
+  {
+    "parroquia": "SIGCHOS",
+    "id": 6450,
+    "votos": 833,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 14.95
+  }
+]

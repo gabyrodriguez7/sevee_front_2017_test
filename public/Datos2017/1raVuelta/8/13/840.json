@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "SAN SEBASTIÁN",
+    "id": 1060,
+    "votos": 124,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.91
+  },
+  {
+    "parroquia": "BARRAGANETE",
+    "id": 1065,
+    "votos": 40,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.65
+  },
+  {
+    "parroquia": "PICHINCHA /GERMUD",
+    "id": 6550,
+    "votos": 475,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.21
+  }
+]

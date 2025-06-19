@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "JESÚS MARÍA",
+    "id": 1830,
+    "votos": 497,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 26.09
+  },
+  {
+    "parroquia": "SAN CARLOS",
+    "id": 3370,
+    "votos": 501,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 25.96
+  },
+  {
+    "parroquia": "SANTA ROSA DE FLANDES",
+    "id": 3740,
+    "votos": 327,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 24.92
+  },
+  {
+    "parroquia": "TAURA",
+    "id": 3990,
+    "votos": 968,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 22.91
+  },
+  {
+    "parroquia": "NARANJAL",
+    "id": 5675,
+    "votos": 12066,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 35.57
+  }
+]

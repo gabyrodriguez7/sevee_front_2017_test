@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "CHONTADURO",
+    "id": 930,
+    "votos": 14,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.08
+  },
+  {
+    "parroquia": "CHUMUNDÉ",
+    "id": 965,
+    "votos": 10,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.77
+  },
+  {
+    "parroquia": "LAGARTO",
+    "id": 2035,
+    "votos": 16,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.74
+  },
+  {
+    "parroquia": "MONTALVO / HORQUETA",
+    "id": 2445,
+    "votos": 17,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.9
+  },
+  {
+    "parroquia": "ROCAFUERTE",
+    "id": 3215,
+    "votos": 10,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.35
+  },
+  {
+    "parroquia": "RÍO VERDE",
+    "id": 6720,
+    "votos": 18,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.52
+  }
+]

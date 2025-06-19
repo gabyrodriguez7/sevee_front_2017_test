@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "ELOY ALFARO /DURÁN",
+    "id": 6525,
+    "votos": 18908,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 18.46
+  },
+  {
+    "parroquia": "EL RECREO",
+    "id": 7455,
+    "votos": 3350,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 13.96
+  },
+  {
+    "parroquia": "DIVINO NIÑO",
+    "id": 7515,
+    "votos": 2400,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 15.21
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "BAQUERIZO MORENO",
+    "id": 295,
+    "votos": 3,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.27
+  },
+  {
+    "parroquia": "EMILIO MARÍA TERÁN",
+    "id": 1210,
+    "votos": 39,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.14
+  },
+  {
+    "parroquia": "MARCOS ESPINEL",
+    "id": 2375,
+    "votos": 52,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.42
+  },
+  {
+    "parroquia": "PRESIDENTE URBINA",
+    "id": 2945,
+    "votos": 48,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.38
+  },
+  {
+    "parroquia": "SAN ANDRÉS",
+    "id": 3300,
+    "votos": 311,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.24
+  },
+  {
+    "parroquia": "SAN JOSÉ DE POALO",
+    "id": 3485,
+    "votos": 56,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.61
+  },
+  {
+    "parroquia": "SAN MIGUELITO",
+    "id": 3585,
+    "votos": 160,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.72
+  },
+  {
+    "parroquia": "CIUDAD NUEVA",
+    "id": 5225,
+    "votos": 33,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.13
+  },
+  {
+    "parroquia": "PÍLLARO",
+    "id": 5785,
+    "votos": 438,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.07
+  }
+]

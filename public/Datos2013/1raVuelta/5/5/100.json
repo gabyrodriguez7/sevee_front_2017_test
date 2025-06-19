@@ -1,0 +1,107 @@
+[
+    {
+        "parroquia": "ALAQUEZ",
+        "id": 35,
+        "votos": 669,
+        "candidato": "Gutierrez Lucio",
+        "value": 15.6
+    },
+    {
+        "parroquia": "BELISARIO QUEVEDO",
+        "id": 315,
+        "votos": 518,
+        "candidato": "Gutierrez Lucio",
+        "value": 16.7
+    },
+    {
+        "parroquia": "GUAYTACAMA",
+        "id": 1485,
+        "votos": 437,
+        "candidato": "Gutierrez Lucio",
+        "value": 8.016878
+    },
+    {
+        "parroquia": "JOSEGUANGO BAJO",
+        "id": 1905,
+        "votos": 106,
+        "candidato": "Gutierrez Lucio",
+        "value": 10.4
+    },
+    {
+        "parroquia": "MULALO",
+        "id": 2480,
+        "votos": 569,
+        "candidato": "Gutierrez Lucio",
+        "value": 11.0
+    },
+    {
+        "parroquia": "11 DE NOVIEMBRE",
+        "id": 2620,
+        "votos": 190,
+        "candidato": "Gutierrez Lucio",
+        "value": 13.44
+    },
+    {
+        "parroquia": "POALO",
+        "id": 2920,
+        "votos": 547,
+        "candidato": "Gutierrez Lucio",
+        "value": 16.0
+    },
+    {
+        "parroquia": "SAN JUAN DE PASTOCALLE",
+        "id": 3530,
+        "votos": 985,
+        "candidato": "Gutierrez Lucio",
+        "value": 16.0
+    },
+    {
+        "parroquia": "TANICUCHI",
+        "id": 3965,
+        "votos": 764,
+        "candidato": "Gutierrez Lucio",
+        "value": 9.85
+    },
+    {
+        "parroquia": "TOACAZO",
+        "id": 4035,
+        "votos": 878,
+        "candidato": "Gutierrez Lucio",
+        "value": 15.47
+    },
+    {
+        "parroquia": "ELOY ALFARO / SAN FELIPE",
+        "id": 5310,
+        "votos": 2422,
+        "candidato": "Gutierrez Lucio",
+        "value": 12.86
+    },
+    {
+        "parroquia": "IGNACIO FLORES",
+        "id": 5465,
+        "votos": 1504,
+        "candidato": "Gutierrez Lucio",
+        "value": 15.3
+    },
+    {
+        "parroquia": "JUAN MONTALVO",
+        "id": 5500,
+        "votos": 1787,
+        "candidato": "Gutierrez Lucio",
+        "value": 17.64
+    },
+    {
+        "parroquia": "LA MATRIZ",
+        "id": 5555,
+        "votos": 1262,
+        "candidato": "Gutierrez Lucio",
+        "value": 6.4
+    },
+    {
+        "parroquia": "SAN BUENAVENTURA",
+        "id": 5940,
+        "votos": 538,
+        "candidato": "Gutierrez Lucio",
+        "value": 17.0
+    }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "EL GOALTAL / LAS JUNTAS",
+    "id": 1150,
+    "votos": 2,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.32
+  },
+  {
+    "parroquia": "LA LIBERTAD",
+    "id": 2040,
+    "votos": 23,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.85
+  },
+  {
+    "parroquia": "SAN ISIDRO",
+    "id": 3435,
+    "votos": 13,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.58
+  },
+  {
+    "parroquia": "EL ÁNGEL",
+    "id": 5295,
+    "votos": 19,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.52
+  },
+  {
+    "parroquia": "27 DE SEPTIEMBRE",
+    "id": 6250,
+    "votos": 6,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.56
+  }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN JOSE DE MORONA",
+        "id": 1295,
+        "votos": 4,
+        "candidato": "Wray Norman",
+        "value": 0.3
+    },
+    {
+        "parroquia": "SANTIAGO",
+        "id": 6890,
+        "votos": 7,
+        "candidato": "Wray Norman",
+        "value": 0.4
+    }
+]

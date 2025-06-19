@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CAP. AUGUSTO RIVADENEIRA",
+        "id": 510,
+        "votos": 1,
+        "candidato": "Zavala Nelson",
+        "value": 0.325
+    },
+    {
+        "parroquia": "CONONACO",
+        "id": 630,
+        "votos": 0,
+        "candidato": "Zavala Nelson",
+        "value": 0.0
+    },
+    {
+        "parroquia": "STA. MARIA DE HUIRIRIMA",
+        "id": 3720,
+        "votos": 3,
+        "candidato": "Zavala Nelson",
+        "value": 0.91
+    },
+    {
+        "parroquia": "TIPUTINI",
+        "id": 4020,
+        "votos": 2,
+        "candidato": "Zavala Nelson",
+        "value": 0.27
+    },
+    {
+        "parroquia": "YASUNI",
+        "id": 4295,
+        "votos": 0,
+        "candidato": "Zavala Nelson",
+        "value": 0.0
+    },
+    {
+        "parroquia": "NUEVO ROCAFUERTE",
+        "id": 5700,
+        "votos": 3,
+        "candidato": "Zavala Nelson",
+        "value": 0.6
+    }
+]

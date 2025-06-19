@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "ALOAG",
+        "id": 55,
+        "votos": 150,
+        "candidato": "Wray Norman",
+        "value": 2.811
+    },
+    {
+        "parroquia": "ALOASI",
+        "id": 60,
+        "votos": 75,
+        "candidato": "Wray Norman",
+        "value": 2.181
+    },
+    {
+        "parroquia": "CORNEJO ASTORGA /TANDAPI",
+        "id": 650,
+        "votos": 14,
+        "candidato": "Wray Norman",
+        "value": 0.906
+    },
+    {
+        "parroquia": "CUTUGLAGUA",
+        "id": 755,
+        "votos": 135,
+        "candidato": "Wray Norman",
+        "value": 1.735442
+    },
+    {
+        "parroquia": "CHAUPI",
+        "id": 850,
+        "votos": 9,
+        "candidato": "Wray Norman",
+        "value": 1.1658
+    },
+    {
+        "parroquia": "TAMBILLO",
+        "id": 3960,
+        "votos": 132,
+        "candidato": "Wray Norman",
+        "value": 2.3
+    },
+    {
+        "parroquia": "UYUMBICHO",
+        "id": 4155,
+        "votos": 68,
+        "candidato": "Wray Norman",
+        "value": 3.0
+    },
+    {
+        "parroquia": "MACHACHI",
+        "id": 5620,
+        "votos": 476,
+        "candidato": "Wray Norman",
+        "value": 2.0
+    }
+]

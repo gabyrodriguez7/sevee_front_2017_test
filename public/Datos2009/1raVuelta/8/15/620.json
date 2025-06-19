@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "TENA",
+    "id": 6160,
+    "votos": 10538,
+    "candidato": "Lucio Gutierrez",
+    "value": 67.72
+  },
+  {
+    "parroquia": "PUERTO NAPO",
+    "id": 3050,
+    "votos": 1720,
+    "candidato": "Lucio Gutierrez",
+    "value": 80.68
+  },
+  {
+    "parroquia": "PUERTO MISAHUALLI",
+    "id": 3000,
+    "votos": 1548,
+    "candidato": "Lucio Gutierrez",
+    "value": 80.75
+  },
+  {
+    "parroquia": "PANO",
+    "id": 2755,
+    "votos": 532,
+    "candidato": "Lucio Gutierrez",
+    "value": 70.0
+  },
+  {
+    "parroquia": "TALAG",
+    "id": 1930,
+    "votos": 950,
+    "candidato": "Lucio Gutierrez",
+    "value": 83.85
+  },
+  {
+    "parroquia": "CHONTAPUNTA",
+    "id": 940,
+    "votos": 2024,
+    "candidato": "Lucio Gutierrez",
+    "value": 87.96
+  },
+  {
+    "parroquia": "AHUANO",
+    "id": 25,
+    "votos": 1917,
+    "candidato": "Lucio Gutierrez",
+    "value": 84.82
+  }
+]

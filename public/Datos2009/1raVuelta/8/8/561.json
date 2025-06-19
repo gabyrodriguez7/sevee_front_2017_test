@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "RIO VERDE",
+    "id": 6720,
+    "votos": 379,
+    "candidato": "Lucio Gutierrez",
+    "value": 17.29
+  },
+  {
+    "parroquia": "ROCAFUERTE",
+    "id": 3215,
+    "votos": 164,
+    "candidato": "Lucio Gutierrez",
+    "value": 8.28
+  },
+  {
+    "parroquia": "MONTALVO / HORQUETA",
+    "id": 2445,
+    "votos": 177,
+    "candidato": "Lucio Gutierrez",
+    "value": 13.39
+  },
+  {
+    "parroquia": "LAGARTO",
+    "id": 2035,
+    "votos": 326,
+    "candidato": "Lucio Gutierrez",
+    "value": 22.37
+  },
+  {
+    "parroquia": "CHUMUNDE",
+    "id": 965,
+    "votos": 70,
+    "candidato": "Lucio Gutierrez",
+    "value": 17.67
+  },
+  {
+    "parroquia": "CHONTADURO",
+    "id": 930,
+    "votos": 138,
+    "candidato": "Lucio Gutierrez",
+    "value": 19.08
+  }
+]

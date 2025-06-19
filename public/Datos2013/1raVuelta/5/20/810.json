@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "TOMAS DE BERLANGA",
+        "id": 4165,
+        "votos": 2,
+        "candidato": "Gutierrez Lucio",
+        "value": 1.7
+    },
+    {
+        "parroquia": "PUERTO VILLAMIL",
+        "id": 6515,
+        "votos": 15,
+        "candidato": "Gutierrez Lucio",
+        "value": 1.27
+    }
+]

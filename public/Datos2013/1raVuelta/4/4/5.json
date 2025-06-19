@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "EL CARMELO/EL PUN/",
+        "id": 1125,
+        "votos": 37,
+        "candidato": "Acosta Alberto",
+        "value": 2.29
+    },
+    {
+        "parroquia": "EL CHICAL",
+        "id": 1195,
+        "votos": 19,
+        "candidato": "Acosta Alberto",
+        "value": 1.85
+    },
+    {
+        "parroquia": "SANTA MARTHA DE CUBA",
+        "id": 1765,
+        "votos": 65,
+        "candidato": "Acosta Alberto",
+        "value": 5.043
+    },
+    {
+        "parroquia": "JULIO ANDRADE",
+        "id": 1885,
+        "votos": 165,
+        "candidato": "Acosta Alberto",
+        "value": 2.78
+    },
+    {
+        "parroquia": "MALDONADO",
+        "id": 2340,
+        "votos": 14,
+        "candidato": "Acosta Alberto",
+        "value": 2.0
+    },
+    {
+        "parroquia": "PIOTER",
+        "id": 2900,
+        "votos": 45,
+        "candidato": "Acosta Alberto",
+        "value": 8.6
+    },
+    {
+        "parroquia": "TOBAR DONOSO",
+        "id": 4040,
+        "votos": 2,
+        "candidato": "Acosta Alberto",
+        "value": 1.1
+    },
+    {
+        "parroquia": "TUFIÑO",
+        "id": 4070,
+        "votos": 69,
+        "candidato": "Acosta Alberto",
+        "value": 4.23
+    },
+    {
+        "parroquia": "URBINA",
+        "id": 4130,
+        "votos": 11,
+        "candidato": "Acosta Alberto",
+        "value": 1.31
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 5415,
+        "votos": 715,
+        "candidato": "Acosta Alberto",
+        "value": 4.0
+    },
+    {
+        "parroquia": "TULCAN",
+        "id": 6165,
+        "votos": 859,
+        "candidato": "Acosta Alberto",
+        "value": 4.0
+    }
+]

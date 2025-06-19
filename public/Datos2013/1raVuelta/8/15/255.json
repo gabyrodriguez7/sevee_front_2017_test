@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "GONZALO DIAZ DE PINEDA",
+    "id": 1020,
+    "votos": 4,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 1.3
+  },
+  {
+    "parroquia": "LINARES",
+    "id": 2180,
+    "votos": 4,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 2.4
+  },
+  {
+    "parroquia": "OYACACHI",
+    "id": 2640,
+    "votos": 2,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 0.5555556
+  },
+  {
+    "parroquia": "SANTA ROSA DE QUIJOS",
+    "id": 3745,
+    "votos": 6,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 0.8207934
+  },
+  {
+    "parroquia": "SARDINAS",
+    "id": 3790,
+    "votos": 11,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 3.82
+  },
+  {
+    "parroquia": "EL CHACO",
+    "id": 5510,
+    "votos": 83,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 2.66
+  }
+]

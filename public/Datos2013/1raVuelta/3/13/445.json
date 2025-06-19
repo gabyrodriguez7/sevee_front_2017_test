@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "LA PILA",
+        "id": 1545,
+        "votos": 16,
+        "candidato": "Wray Norman",
+        "value": 0.798
+    },
+    {
+        "parroquia": "MONTECRISTI",
+        "id": 5665,
+        "votos": 419,
+        "candidato": "Wray Norman",
+        "value": 1.3204
+    },
+    {
+        "parroquia": "ANIBAL SAN ANDRES",
+        "id": 7460,
+        "votos": 4,
+        "candidato": "Wray Norman",
+        "value": 1.52091
+    }
+]

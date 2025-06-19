@@ -1,0 +1,114 @@
+[
+  {
+    "parroquia": "ANCHAYACU",
+    "id": 120,
+    "votos": 3,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.44
+  },
+  {
+    "parroquia": "ATAHUALPA/CAMARONES",
+    "id": 200,
+    "votos": 17,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 2.23
+  },
+  {
+    "parroquia": "BORBÓN",
+    "id": 370,
+    "votos": 16,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.36
+  },
+  {
+    "parroquia": "SAN JOSÉ DE CAYAPAS",
+    "id": 1505,
+    "votos": 7,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.07
+  },
+  {
+    "parroquia": "COLÓN ELOY DE MARÍA",
+    "id": 1510,
+    "votos": 4,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.67
+  },
+  {
+    "parroquia": "TIMBIRÉ",
+    "id": 1515,
+    "votos": 0,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0
+  },
+  {
+    "parroquia": "LA TOLA",
+    "id": 2125,
+    "votos": 5,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.34
+  },
+  {
+    "parroquia": "LUIS VARGAS TORRES",
+    "id": 2225,
+    "votos": 0,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0
+  },
+  {
+    "parroquia": "MALDONADO",
+    "id": 2335,
+    "votos": 1,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.11
+  },
+  {
+    "parroquia": "PAMPANAL DE BOLIVAR",
+    "id": 2670,
+    "votos": 0,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0
+  },
+  {
+    "parroquia": "SAN FRANCISCO DE ONZOLE",
+    "id": 3405,
+    "votos": 9,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.42
+  },
+  {
+    "parroquia": "SELVA ALEGRE",
+    "id": 3805,
+    "votos": 6,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.03
+  },
+  {
+    "parroquia": "TELEMBÍ",
+    "id": 4170,
+    "votos": 16,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.89
+  },
+  {
+    "parroquia": "SANTO DOMINGO DE ONZOLE",
+    "id": 4465,
+    "votos": 9,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.86
+  },
+  {
+    "parroquia": "SANTA LUCIA DE LAS PEÑAS",
+    "id": 4595,
+    "votos": 3,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.57
+  },
+  {
+    "parroquia": "VALDÉZ/LIMONES/",
+    "id": 6205,
+    "votos": 7,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.18
+  }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "COSANGA",
+        "id": 670,
+        "votos": 177,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 47.71
+    },
+    {
+        "parroquia": "CUYUJA",
+        "id": 765,
+        "votos": 164,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 44.69
+    },
+    {
+        "parroquia": "PAPALLACTA",
+        "id": 2770,
+        "votos": 195,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 41.23
+    },
+    {
+        "parroquia": "SAN FRANCISCO DE BORJA",
+        "id": 3395,
+        "votos": 807,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 55.58
+    },
+    {
+        "parroquia": "SUMACO",
+        "id": 3890,
+        "votos": 83,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 51.88
+    },
+    {
+        "parroquia": "BAEZA",
+        "id": 5090,
+        "votos": 890,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 56.51
+    }
+]

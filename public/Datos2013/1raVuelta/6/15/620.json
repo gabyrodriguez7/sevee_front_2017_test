@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "AHUANO",
+    "id": 25,
+    "votos": 393,
+    "candidato": "Lasso Guillermo",
+    "value": 13.3
+  },
+  {
+    "parroquia": "CHONTAPUNTA",
+    "id": 940,
+    "votos": 426,
+    "candidato": "Lasso Guillermo",
+    "value": 15.848214
+  },
+  {
+    "parroquia": "TALAG",
+    "id": 1930,
+    "votos": 134,
+    "candidato": "Lasso Guillermo",
+    "value": 9.27
+  },
+  {
+    "parroquia": "PANO",
+    "id": 2755,
+    "votos": 127,
+    "candidato": "Lasso Guillermo",
+    "value": 13.8
+  },
+  {
+    "parroquia": "PUERTO MISAHUALLI",
+    "id": 3000,
+    "votos": 215,
+    "candidato": "Lasso Guillermo",
+    "value": 8.7
+  },
+  {
+    "parroquia": "PUERTO NAPO",
+    "id": 3050,
+    "votos": 333,
+    "candidato": "Lasso Guillermo",
+    "value": 13.4
+  },
+  {
+    "parroquia": "SAN JUAN DE MUYUNA",
+    "id": 4580,
+    "votos": 228,
+    "candidato": "Lasso Guillermo",
+    "value": 13.4831461
+  },
+  {
+    "parroquia": "TENA",
+    "id": 6160,
+    "votos": 3765,
+    "candidato": "Lasso Guillermo",
+    "value": 21.5
+  }
+]

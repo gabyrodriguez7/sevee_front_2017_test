@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "ARCHIDONA",
+    "id": 5070,
+    "votos": 146,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.04
+  },
+  {
+    "parroquia": "SAN PABLO DE USHPAYACU",
+    "id": 3605,
+    "votos": 28,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 3.21
+  },
+  {
+    "parroquia": "COTUNDO",
+    "id": 685,
+    "votos": 32,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.0
+  }
+]

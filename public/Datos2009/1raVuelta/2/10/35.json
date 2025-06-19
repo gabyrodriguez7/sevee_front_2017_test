@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "SAN LUIS",
+        "id": 5980,
+        "votos": 68,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.64
+    },
+    {
+        "parroquia": "JORDAN",
+        "id": 5490,
+        "votos": 107,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.69
+    },
+    {
+        "parroquia": "SELVA ALEGRE",
+        "id": 3810,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.13
+    },
+    {
+        "parroquia": "SAN RAFAEL",
+        "id": 3630,
+        "votos": 18,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.79
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 3590,
+        "votos": 31,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.65
+    },
+    {
+        "parroquia": "SAN JUAN DE ILUMAN",
+        "id": 3525,
+        "votos": 19,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.55
+    },
+    {
+        "parroquia": "SAN JOSE DE QUICHINCHE",
+        "id": 3490,
+        "votos": 24,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.75
+    },
+    {
+        "parroquia": "PATAQUI",
+        "id": 2785,
+        "votos": 0,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.0
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 1360,
+        "votos": 15,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.52
+    },
+    {
+        "parroquia": "EUGENIO ESPEJO",
+        "id": 1215,
+        "votos": 19,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.68
+    },
+    {
+        "parroquia": "DR MIGUEL EGAS/PEGUCHE",
+        "id": 1040,
+        "votos": 18,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.73
+    }
+]

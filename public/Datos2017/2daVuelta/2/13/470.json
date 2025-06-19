@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "AYACUCHO",
+    "id": 220,
+    "votos": 3460,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 68.65
+  },
+  {
+    "parroquia": "SAN PABLO",
+    "id": 1105,
+    "votos": 1901,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 79.01
+  },
+  {
+    "parroquia": "HONORATO VÁSQUEZ",
+    "id": 1610,
+    "votos": 2752,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 76.91
+  },
+  {
+    "parroquia": "LA UNIÓN",
+    "id": 2135,
+    "votos": 3022,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 76.22
+  },
+  {
+    "parroquia": "SANTA ANA",
+    "id": 6030,
+    "votos": 11763,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 66.87
+  },
+  {
+    "parroquia": "LODANA",
+    "id": 6725,
+    "votos": 602,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 65.15
+  }
+]

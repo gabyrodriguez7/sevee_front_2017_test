@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "CANCHAGUA",
+    "id": 465,
+    "votos": 50,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 4.12
+  },
+  {
+    "parroquia": "CHANTILIN",
+    "id": 830,
+    "votos": 39,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.74
+  },
+  {
+    "parroquia": "COCHAPAMBA",
+    "id": 990,
+    "votos": 36,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 2.1
+  },
+  {
+    "parroquia": "SAQUISILÍ",
+    "id": 6070,
+    "votos": 1000,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.68
+  }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "SAN MIGUEL DE SALCEDO",
+        "id": 6000,
+        "votos": 505,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.91
+    },
+    {
+        "parroquia": "PANZALEO",
+        "id": 2760,
+        "votos": 47,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.75
+    },
+    {
+        "parroquia": "MULLIQUINDIL",
+        "id": 2490,
+        "votos": 86,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.35
+    },
+    {
+        "parroquia": "MULALILLO",
+        "id": 2475,
+        "votos": 88,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.71
+    },
+    {
+        "parroquia": "CUSUBAMBA",
+        "id": 745,
+        "votos": 59,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.9
+    },
+    {
+        "parroquia": "ANTONIO J. HOLGUIN",
+        "id": 135,
+        "votos": 33,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.25
+    }
+]

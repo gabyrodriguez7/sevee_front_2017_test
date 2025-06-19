@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "EL TAMBO",
+    "id": 1200,
+    "votos": 10,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.53
+  },
+  {
+    "parroquia": "GUAYQUICHUMA",
+    "id": 1480,
+    "votos": 2,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.79
+  },
+  {
+    "parroquia": "SAN PEDRO DE LA BENDITA",
+    "id": 3610,
+    "votos": 6,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.51
+  },
+  {
+    "parroquia": "ZAMBI",
+    "id": 4455,
+    "votos": 1,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.32
+  },
+  {
+    "parroquia": "CATAMAYO",
+    "id": 5270,
+    "votos": 74,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.48
+  },
+  {
+    "parroquia": "SAN JOSñ",
+    "id": 6825,
+    "votos": 5,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.78
+  }
+]

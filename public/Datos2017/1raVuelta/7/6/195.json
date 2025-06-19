@@ -1,0 +1,114 @@
+[
+  {
+    "parroquia": "CACHA",
+    "id": 420,
+    "votos": 69,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.28
+  },
+  {
+    "parroquia": "CALPI",
+    "id": 445,
+    "votos": 99,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.31
+  },
+  {
+    "parroquia": "CUBIJÍES",
+    "id": 705,
+    "votos": 24,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.58
+  },
+  {
+    "parroquia": "FLORES",
+    "id": 1280,
+    "votos": 60,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.99
+  },
+  {
+    "parroquia": "LICAN",
+    "id": 2160,
+    "votos": 70,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.85
+  },
+  {
+    "parroquia": "LICTO",
+    "id": 2165,
+    "votos": 123,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.27
+  },
+  {
+    "parroquia": "PUNGALÁ",
+    "id": 3035,
+    "votos": 67,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.93
+  },
+  {
+    "parroquia": "PUNÍN",
+    "id": 3040,
+    "votos": 99,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.45
+  },
+  {
+    "parroquia": "QUIMIAG",
+    "id": 3095,
+    "votos": 62,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.77
+  },
+  {
+    "parroquia": "SAN JUAN",
+    "id": 3515,
+    "votos": 82,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.54
+  },
+  {
+    "parroquia": "SAN LUIS",
+    "id": 3560,
+    "votos": 118,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.81
+  },
+  {
+    "parroquia": "LIZARZABURU",
+    "id": 5590,
+    "votos": 717,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.94
+  },
+  {
+    "parroquia": "MALDONADO",
+    "id": 5630,
+    "votos": 424,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.72
+  },
+  {
+    "parroquia": "VELASCO",
+    "id": 6220,
+    "votos": 489,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.85
+  },
+  {
+    "parroquia": "VELOZ",
+    "id": 6230,
+    "votos": 293,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.81
+  },
+  {
+    "parroquia": "YARUQUÍES",
+    "id": 6290,
+    "votos": 88,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.11
+  }
+]

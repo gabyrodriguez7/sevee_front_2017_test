@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "LA JOYA DE LOS SACHAS",
+    "id": 6200,
+    "votos": 597,
+    "candidato": "Alvaro Noboa",
+    "value": 6.16
+  },
+  {
+    "parroquia": "SAN SEBASTIAN DE COCA",
+    "id": 3660,
+    "votos": 57,
+    "candidato": "Alvaro Noboa",
+    "value": 4.23
+  },
+  {
+    "parroquia": "POMPEYA",
+    "id": 2930,
+    "votos": 5,
+    "candidato": "Alvaro Noboa",
+    "value": 1.13
+  },
+  {
+    "parroquia": "UNION MILAGREÑA",
+    "id": 1965,
+    "votos": 13,
+    "candidato": "Alvaro Noboa",
+    "value": 1.59
+  },
+  {
+    "parroquia": "LAGO SAN PEDRO",
+    "id": 1960,
+    "votos": 15,
+    "candidato": "Alvaro Noboa",
+    "value": 2.64
+  },
+  {
+    "parroquia": "TRES DE NOVIEMBRE",
+    "id": 1955,
+    "votos": 16,
+    "candidato": "Alvaro Noboa",
+    "value": 1.48
+  },
+  {
+    "parroquia": "RUMIPAMBA",
+    "id": 1950,
+    "votos": 4,
+    "candidato": "Alvaro Noboa",
+    "value": 0.97
+  },
+  {
+    "parroquia": "ENOKANQUI",
+    "id": 490,
+    "votos": 40,
+    "candidato": "Alvaro Noboa",
+    "value": 4.87
+  },
+  {
+    "parroquia": "SAN CARLOS",
+    "id": 415,
+    "votos": 28,
+    "candidato": "Alvaro Noboa",
+    "value": 2.85
+  }
+]

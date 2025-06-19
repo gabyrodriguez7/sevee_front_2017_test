@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "NUEVA FATIMA",
+    "id": 2575,
+    "votos": 4,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.7
+  },
+  {
+    "parroquia": "TACAMOROS",
+    "id": 3935,
+    "votos": 32,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.33
+  },
+  {
+    "parroquia": "SOZORANGA",
+    "id": 6120,
+    "votos": 17,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.98
+  }
+]

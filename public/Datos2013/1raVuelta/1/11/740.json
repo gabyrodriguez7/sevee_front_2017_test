@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "FUNDOCHAMBA",
+        "id": 360,
+        "votos": 8,
+        "candidato": "Noboa Alvaro",
+        "value": 2.837
+    },
+    {
+        "parroquia": "SAN ANTONIO DE LAS ARADAS",
+        "id": 3345,
+        "votos": 14,
+        "candidato": "Noboa Alvaro",
+        "value": 2.439
+    },
+    {
+        "parroquia": "QUILANGA /LA PAZ",
+        "id": 6260,
+        "votos": 122,
+        "candidato": "Noboa Alvaro",
+        "value": 6.33
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "TRES CERRITOS",
+        "id": 6375,
+        "votos": 0,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.0
+    },
+    {
+        "parroquia": "BOLIVAR",
+        "id": 6370,
+        "votos": 0,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.0
+    },
+    {
+        "parroquia": "LOMA DE FRANCO",
+        "id": 6365,
+        "votos": 2,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.46
+    },
+    {
+        "parroquia": "OCHOA LEON/MATRIZ",
+        "id": 5770,
+        "votos": 108,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.37
+    },
+    {
+        "parroquia": "CASACAY",
+        "id": 4495,
+        "votos": 5,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.69
+    },
+    {
+        "parroquia": "UZHCURRUMI",
+        "id": 4160,
+        "votos": 4,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.59
+    },
+    {
+        "parroquia": "LA PEAÑA",
+        "id": 2075,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.17
+    },
+    {
+        "parroquia": "PROGRESO",
+        "id": 1225,
+        "votos": 8,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.7
+    },
+    {
+        "parroquia": "CAÑAQUEMADA",
+        "id": 775,
+        "votos": 0,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.0
+    },
+    {
+        "parroquia": "BUENAVISTA",
+        "id": 390,
+        "votos": 6,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.19
+    }
+]

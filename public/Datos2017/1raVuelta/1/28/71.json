@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "C. E. EN BRASILIA",
+    "id": 9009,
+    "votos": 15,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 35.71
+  },
+  {
+    "parroquia": "C. E. EN SAO PAULO",
+    "id": 9067,
+    "votos": 64,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 44.14
+  },
+  {
+    "parroquia": "C. E. EN RÍO DE JANEIRO",
+    "id": 9083,
+    "votos": 17,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 25.76
+  }
+]

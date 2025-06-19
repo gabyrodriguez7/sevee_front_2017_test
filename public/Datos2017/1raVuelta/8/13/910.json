@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "COJIMÍES",
+    "id": 580,
+    "votos": 81,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.91
+  },
+  {
+    "parroquia": "ATAHUALPA",
+    "id": 785,
+    "votos": 21,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.62
+  },
+  {
+    "parroquia": "10 DE AGOSTO",
+    "id": 1030,
+    "votos": 47,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.1
+  },
+  {
+    "parroquia": "PEDERNALES",
+    "id": 6430,
+    "votos": 406,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.79
+  }
+]

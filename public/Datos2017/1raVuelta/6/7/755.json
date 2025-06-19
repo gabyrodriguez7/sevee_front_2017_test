@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "SAN ISIDRO",
+    "id": 1075,
+    "votos": 2,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.5
+  },
+  {
+    "parroquia": "EL PARAÍSO",
+    "id": 1080,
+    "votos": 1,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.2
+  },
+  {
+    "parroquia": "LA LIBERTAD",
+    "id": 1100,
+    "votos": 2,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.33
+  },
+  {
+    "parroquia": "LA VICTORIA/LAS LAJAS",
+    "id": 6335,
+    "votos": 4,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.19
+  },
+  {
+    "parroquia": "PLATANILLOS",
+    "id": 6950,
+    "votos": 3,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.83
+  }
+]

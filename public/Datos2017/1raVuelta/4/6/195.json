@@ -1,0 +1,114 @@
+[
+  {
+    "parroquia": "CACHA",
+    "id": 420,
+    "votos": 151,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.17
+  },
+  {
+    "parroquia": "CALPI",
+    "id": 445,
+    "votos": 585,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.67
+  },
+  {
+    "parroquia": "CUBIJÍES",
+    "id": 705,
+    "votos": 199,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.1
+  },
+  {
+    "parroquia": "FLORES",
+    "id": 1280,
+    "votos": 173,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.73
+  },
+  {
+    "parroquia": "LICAN",
+    "id": 2160,
+    "votos": 576,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 15.2
+  },
+  {
+    "parroquia": "LICTO",
+    "id": 2165,
+    "votos": 456,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.42
+  },
+  {
+    "parroquia": "PUNGALÁ",
+    "id": 3035,
+    "votos": 268,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.71
+  },
+  {
+    "parroquia": "PUNÍN",
+    "id": 3040,
+    "votos": 337,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.33
+  },
+  {
+    "parroquia": "QUIMIAG",
+    "id": 3095,
+    "votos": 393,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.25
+  },
+  {
+    "parroquia": "SAN JUAN",
+    "id": 3515,
+    "votos": 533,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.02
+  },
+  {
+    "parroquia": "SAN LUIS",
+    "id": 3560,
+    "votos": 478,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.39
+  },
+  {
+    "parroquia": "LIZARZABURU",
+    "id": 5590,
+    "votos": 6529,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 17.69
+  },
+  {
+    "parroquia": "MALDONADO",
+    "id": 5630,
+    "votos": 4520,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 18.29
+  },
+  {
+    "parroquia": "VELASCO",
+    "id": 6220,
+    "votos": 4928,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 18.67
+  },
+  {
+    "parroquia": "VELOZ",
+    "id": 6230,
+    "votos": 3035,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 18.77
+  },
+  {
+    "parroquia": "YARUQUÍES",
+    "id": 6290,
+    "votos": 610,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 14.63
+  }
+]

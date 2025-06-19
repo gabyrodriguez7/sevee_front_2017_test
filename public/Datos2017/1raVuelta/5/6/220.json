@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "CAPZOL",
+    "id": 515,
+    "votos": 1,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.29
+  },
+  {
+    "parroquia": "COMPUD",
+    "id": 615,
+    "votos": 10,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 2.9
+  },
+  {
+    "parroquia": "GONZOL",
+    "id": 1370,
+    "votos": 6,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.11
+  },
+  {
+    "parroquia": "LLAGOS",
+    "id": 2260,
+    "votos": 15,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 2.36
+  },
+  {
+    "parroquia": "CHUNCHI",
+    "id": 5255,
+    "votos": 67,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.31
+  }
+]

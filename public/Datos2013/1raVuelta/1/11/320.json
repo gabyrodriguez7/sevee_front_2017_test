@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "COLAIZACA",
+        "id": 590,
+        "votos": 32,
+        "candidato": "Noboa Alvaro",
+        "value": 3.1
+    },
+    {
+        "parroquia": "EL LUCERO",
+        "id": 1230,
+        "votos": 44,
+        "candidato": "Noboa Alvaro",
+        "value": 3.5
+    },
+    {
+        "parroquia": "SANGUILLIN",
+        "id": 1550,
+        "votos": 7,
+        "candidato": "Noboa Alvaro",
+        "value": 1.86
+    },
+    {
+        "parroquia": "UTUANA",
+        "id": 4150,
+        "votos": 17,
+        "candidato": "Noboa Alvaro",
+        "value": 4.0
+    },
+    {
+        "parroquia": "CARIAMANGA",
+        "id": 5175,
+        "votos": 306,
+        "candidato": "Noboa Alvaro",
+        "value": 2.8
+    },
+    {
+        "parroquia": "CHILE",
+        "id": 5240,
+        "votos": 30,
+        "candidato": "Noboa Alvaro",
+        "value": 2.0
+    },
+    {
+        "parroquia": "SAN VICENTE",
+        "id": 6025,
+        "votos": 13,
+        "candidato": "Noboa Alvaro",
+        "value": 3.341902
+    }
+]

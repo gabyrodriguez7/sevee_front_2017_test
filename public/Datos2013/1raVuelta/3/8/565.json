@@ -1,0 +1,114 @@
+[
+    {
+        "parroquia": "ANCHAYACU",
+        "id": 120,
+        "votos": 3,
+        "candidato": "Wray Norman",
+        "value": 0.5618
+    },
+    {
+        "parroquia": "ATAHUALPA/CAMARONES",
+        "id": 200,
+        "votos": 8,
+        "candidato": "Wray Norman",
+        "value": 1.182
+    },
+    {
+        "parroquia": "BORBON",
+        "id": 370,
+        "votos": 13,
+        "candidato": "Wray Norman",
+        "value": 0.3
+    },
+    {
+        "parroquia": "SAN JOSE DE CAYAPAS",
+        "id": 1505,
+        "votos": 7,
+        "candidato": "Wray Norman",
+        "value": 1.4
+    },
+    {
+        "parroquia": "COLON ELOY DE MARIA",
+        "id": 1510,
+        "votos": 2,
+        "candidato": "Wray Norman",
+        "value": 0.412
+    },
+    {
+        "parroquia": "TIMBIRE",
+        "id": 1515,
+        "votos": 1,
+        "candidato": "Wray Norman",
+        "value": 0.276
+    },
+    {
+        "parroquia": "LA TOLA",
+        "id": 2125,
+        "votos": 5,
+        "candidato": "Wray Norman",
+        "value": 0.4488
+    },
+    {
+        "parroquia": "LUIS VARGAS TORRES",
+        "id": 2225,
+        "votos": 1,
+        "candidato": "Wray Norman",
+        "value": 0.55
+    },
+    {
+        "parroquia": "MALDONADO",
+        "id": 2335,
+        "votos": 4,
+        "candidato": "Wray Norman",
+        "value": 0.5
+    },
+    {
+        "parroquia": "PAMPANAL DE BOLIVAR",
+        "id": 2670,
+        "votos": 1,
+        "candidato": "Wray Norman",
+        "value": 0.32895
+    },
+    {
+        "parroquia": "SAN FRANCISCO DE ONZOLE",
+        "id": 3405,
+        "votos": 8,
+        "candidato": "Wray Norman",
+        "value": 2.0
+    },
+    {
+        "parroquia": "SELVA ALEGRE",
+        "id": 3805,
+        "votos": 2,
+        "candidato": "Wray Norman",
+        "value": 0.4
+    },
+    {
+        "parroquia": "TELEMBI",
+        "id": 4170,
+        "votos": 5,
+        "candidato": "Wray Norman",
+        "value": 0.4
+    },
+    {
+        "parroquia": "SANTO DOMINGO DE ONZOLE",
+        "id": 4465,
+        "votos": 4,
+        "candidato": "Wray Norman",
+        "value": 0.73
+    },
+    {
+        "parroquia": "SANTA LUCIA DE LAS PEÑAS",
+        "id": 4595,
+        "votos": 0,
+        "candidato": "Wray Norman",
+        "value": 0.0
+    },
+    {
+        "parroquia": "VALDEZ/LIMONES/",
+        "id": 6205,
+        "votos": 11,
+        "candidato": "Wray Norman",
+        "value": 0.3
+    }
+]

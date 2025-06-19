@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "ZAPOTAL",
+    "id": 4330,
+    "votos": 221,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 5.02
+  },
+  {
+    "parroquia": "LOS ÁNGELES",
+    "id": 4585,
+    "votos": 46,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 5.99
+  },
+  {
+    "parroquia": "CHACARITA",
+    "id": 4590,
+    "votos": 31,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 4.11
+  },
+  {
+    "parroquia": "VENTANAS",
+    "id": 6235,
+    "votos": 3487,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 10.35
+  },
+  {
+    "parroquia": "10 DE NOVIEMBRE",
+    "id": 7480,
+    "votos": 119,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 9.66
+  }
+]

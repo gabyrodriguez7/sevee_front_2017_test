@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CHAGUARPAMBA",
+        "id": 6530,
+        "votos": 9,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.4
+    },
+    {
+        "parroquia": "SANTA RUFINA",
+        "id": 3755,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.64
+    },
+    {
+        "parroquia": "AMARILLOS",
+        "id": 1450,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.61
+    },
+    {
+        "parroquia": "EL ROSARIO",
+        "id": 1180,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.46
+    },
+    {
+        "parroquia": "BUENAVISTA",
+        "id": 385,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.16
+    }
+]

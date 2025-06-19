@@ -1,0 +1,170 @@
+[
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 1,
+        "porcentaje": 62.0,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "AZUAY"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 2,
+        "porcentaje": 34.0,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "BOLÍVAR"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 3,
+        "porcentaje": 50.0,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "CAÑAR"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 4,
+        "porcentaje": 52.0,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "CARCHI"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 5,
+        "porcentaje": 46.29,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "COTOPAXI"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 6,
+        "porcentaje": 42.0,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "CHIMBORAZO"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 7,
+        "porcentaje": 56.86,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "EL ORO"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 8,
+        "porcentaje": 55.91,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "ESMERALDAS"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 9,
+        "porcentaje": 63.22,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "GUAYAS"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 10,
+        "porcentaje": 57.04,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "IMBABURA"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 11,
+        "porcentaje": 45.32,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "LOJA"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 12,
+        "porcentaje": 61.02,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "LOS RÍOS"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 13,
+        "porcentaje": 62.8,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "MANABÍ"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 14,
+        "porcentaje": 33.53,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "MORONA SANTIAGO"
+    },
+    {
+        "candidato_tabla": "GUTIERREZ  LUCIO",
+        "id_tabla": 15,
+        "porcentaje": 48.04,
+        "partido_pol": "PARTIDO SOCIEDAD PATRIÓTICA",
+        "prov_tabla": "NAPO"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 16,
+        "porcentaje": 36.29,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "PASTAZA"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 17,
+        "porcentaje": 57.96,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "PICHINCHA"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 18,
+        "porcentaje": 43.97,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "TUNGURAHUA"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 19,
+        "porcentaje": 34.27,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "ZAMORA CHINCHIPE"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 20,
+        "porcentaje": 64.23,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "GALÁPAGOS"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 21,
+        "porcentaje": 44.29,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "SUCUMBÍOS"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 22,
+        "porcentaje": 38.88,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "ORELLANA"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 23,
+        "porcentaje": 58.0,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "STO. DGO. DE LOS TSÁCHILAS"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 24,
+        "porcentaje": 64.1,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "SANTA ELENA"
+    }
+]

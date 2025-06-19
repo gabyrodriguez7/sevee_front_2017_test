@@ -1,0 +1,45 @@
+[
+                {
+                    "parroquia": "CAHUASQUI",
+                    "id": 425,
+                    "votos": 255,
+                    "candidato": "Lasso Guillermo",
+                    "value": 20.0
+                },
+                {
+                    "parroquia": "LA MERCED DE BUENOS AIRES",
+                    "id": 2060,
+                    "votos": 320,
+                    "candidato": "Lasso Guillermo",
+                    "value": 30.91787
+                },
+                {
+                    "parroquia": "PABLO ARENAS",
+                    "id": 2675,
+                    "votos": 216,
+                    "candidato": "Lasso Guillermo",
+                    "value": 16.0
+                },
+                {
+                    "parroquia": "SAN BLAS",
+                    "id": 3365,
+                    "votos": 306,
+                    "candidato": "Lasso Guillermo",
+                    "value": 15.31
+                },
+                {
+                    "parroquia": "TUMBABIRO",
+                    "id": 4080,
+                    "votos": 190,
+                    "candidato": "Lasso Guillermo",
+                    "value": 20.17
+                },
+                {
+                    "parroquia": "URCUQUI",
+                    "id": 6190,
+                    "votos": 880,
+                    "candidato": "Lasso Guillermo",
+                    "value": 23.0
+                }
+            ]
+            

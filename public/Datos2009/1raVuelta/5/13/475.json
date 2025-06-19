@@ -1,0 +1,30 @@
+[
+                {
+                    "parroquia": "LEONIDAS PLAZA G.",
+                    "id": 5580,
+                    "votos": 99,
+                    "candidato": "Melba Jacome",
+                    "value": 4.15
+                },
+                {
+                    "parroquia": "BAHIA DE CARAQUEZ",
+                    "id": 5095,
+                    "votos": 413,
+                    "candidato": "Melba Jacome",
+                    "value": 3.72
+                },
+                {
+                    "parroquia": "SAN ISIDRO",
+                    "id": 3445,
+                    "votos": 53,
+                    "candidato": "Melba Jacome",
+                    "value": 0.93
+                },
+                {
+                    "parroquia": "CHARAPOTO",
+                    "id": 840,
+                    "votos": 50,
+                    "candidato": "Melba Jacome",
+                    "value": 0.48
+                }
+            ]

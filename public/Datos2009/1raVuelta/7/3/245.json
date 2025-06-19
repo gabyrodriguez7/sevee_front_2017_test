@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "BIBLIAN",
+        "id": 5115,
+        "votos": 275,
+        "candidato": "Alvaro Noboa",
+        "value": 4.18
+    },
+    {
+        "parroquia": "TURUPAMBA",
+        "id": 4100,
+        "votos": 5,
+        "candidato": "Alvaro Noboa",
+        "value": 1.44
+    },
+    {
+        "parroquia": "SAN FCO. DE SAGEO",
+        "id": 3410,
+        "votos": 21,
+        "candidato": "Alvaro Noboa",
+        "value": 3.63
+    },
+    {
+        "parroquia": "NAZON",
+        "id": 2545,
+        "votos": 34,
+        "candidato": "Alvaro Noboa",
+        "value": 2.46
+    },
+    {
+        "parroquia": "JERUSALEN",
+        "id": 1085,
+        "votos": 7,
+        "candidato": "Alvaro Noboa",
+        "value": 3.19
+    }
+]

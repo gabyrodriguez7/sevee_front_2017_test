@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "INDANZA",
+    "id": 1720,
+    "votos": 10,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.4
+  },
+  {
+    "parroquia": "SAN MIGUEL DE CONCHAY",
+    "id": 3250,
+    "votos": 0,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0
+  },
+  {
+    "parroquia": "SAN ANTONIO",
+    "id": 3320,
+    "votos": 2,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.29
+  },
+  {
+    "parroquia": "SANTA SUSANA DE CHIVIAZA",
+    "id": 3760,
+    "votos": 3,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.64
+  },
+  {
+    "parroquia": "YUNGANZA /EL ROSARIO",
+    "id": 4305,
+    "votos": 4,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.75
+  },
+  {
+    "parroquia": "GRAL. LEONIDAS PLAZA",
+    "id": 5390,
+    "votos": 30,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.95
+  }
+]

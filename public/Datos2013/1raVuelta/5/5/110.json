@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "ANTONIO J. HOLGUIN",
+        "id": 135,
+        "votos": 272,
+        "candidato": "Gutierrez Lucio",
+        "value": 16.0
+    },
+    {
+        "parroquia": "CUSUBAMBA",
+        "id": 745,
+        "votos": 470,
+        "candidato": "Gutierrez Lucio",
+        "value": 12.0
+    },
+    {
+        "parroquia": "MULALILLO",
+        "id": 2475,
+        "votos": 723,
+        "candidato": "Gutierrez Lucio",
+        "value": 18.4
+    },
+    {
+        "parroquia": "MULLIQUINDIL",
+        "id": 2490,
+        "votos": 979,
+        "candidato": "Gutierrez Lucio",
+        "value": 22.84
+    },
+    {
+        "parroquia": "PANZALEO",
+        "id": 2760,
+        "votos": 298,
+        "candidato": "Gutierrez Lucio",
+        "value": 15.07
+    },
+    {
+        "parroquia": "SAN MIGUEL DE SALCEDO",
+        "id": 6000,
+        "votos": 3853,
+        "candidato": "Gutierrez Lucio",
+        "value": 18.0
+    }
+]

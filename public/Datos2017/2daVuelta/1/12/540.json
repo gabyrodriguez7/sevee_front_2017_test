@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "LA ESPERANZA",
+    "id": 4420,
+    "votos": 885,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 33.68
+  },
+  {
+    "parroquia": "SAN CARLOS",
+    "id": 4425,
+    "votos": 2229,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 28.93
+  },
+  {
+    "parroquia": "QUEVEDO",
+    "id": 5855,
+    "votos": 24577,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 43.73
+  },
+  {
+    "parroquia": "SAN CAMILO",
+    "id": 6115,
+    "votos": 9578,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 45.17
+  },
+  {
+    "parroquia": "SAN CRISTÓBAL",
+    "id": 6635,
+    "votos": 1520,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 40.02
+  },
+  {
+    "parroquia": "VENUS DEL RÍO QUEVEDO",
+    "id": 6640,
+    "votos": 3219,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 34.84
+  },
+  {
+    "parroquia": "NICOLÁS INFANTE DÍAZ",
+    "id": 6645,
+    "votos": 1292,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 38.87
+  },
+  {
+    "parroquia": "GUAYACÁN",
+    "id": 6650,
+    "votos": 2702,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 47.13
+  },
+  {
+    "parroquia": "SIETE DE OCTUBRE",
+    "id": 6655,
+    "votos": 2447,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 41.33
+  },
+  {
+    "parroquia": "VIVA ALFARO",
+    "id": 6660,
+    "votos": 1541,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 38.98
+  },
+  {
+    "parroquia": "24 DE MAYO",
+    "id": 6690,
+    "votos": 1812,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 41.96
+  }
+]

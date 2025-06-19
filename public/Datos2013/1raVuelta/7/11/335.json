@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CHANGAIMINA /LA LIBERTAD",
+        "id": 825,
+        "votos": 7,
+        "candidato": "Zavala Nelson",
+        "value": 0.505
+    },
+    {
+        "parroquia": "NAMBACOLA",
+        "id": 2520,
+        "votos": 12,
+        "candidato": "Zavala Nelson",
+        "value": 0.578
+    },
+    {
+        "parroquia": "PURUNUMA /EGUIGUREN",
+        "id": 3045,
+        "votos": 4,
+        "candidato": "Zavala Nelson",
+        "value": 0.6
+    },
+    {
+        "parroquia": "SACAPALCA",
+        "id": 3270,
+        "votos": 14,
+        "candidato": "Zavala Nelson",
+        "value": 1.5
+    },
+    {
+        "parroquia": "GONZANAMA",
+        "id": 5400,
+        "votos": 17,
+        "candidato": "Zavala Nelson",
+        "value": 0.6899
+    }
+]

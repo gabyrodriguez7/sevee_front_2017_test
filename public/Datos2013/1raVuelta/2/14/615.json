@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "ARAPICOS",
+        "id": 155,
+        "votos": 2,
+        "candidato": "Noboa Alvaro",
+        "value": 0.9
+    },
+    {
+        "parroquia": "CUMANDA",
+        "id": 715,
+        "votos": 11,
+        "candidato": "Noboa Alvaro",
+        "value": 3.0
+    },
+    {
+        "parroquia": "16 DE AGOSTO",
+        "id": 1685,
+        "votos": 1,
+        "candidato": "Noboa Alvaro",
+        "value": 0.227
+    },
+    {
+        "parroquia": "SANGAY",
+        "id": 3420,
+        "votos": 11,
+        "candidato": "Noboa Alvaro",
+        "value": 1.9
+    },
+    {
+        "parroquia": "PALORA",
+        "id": 5760,
+        "votos": 25,
+        "candidato": "Noboa Alvaro",
+        "value": 1.02
+    }
+]

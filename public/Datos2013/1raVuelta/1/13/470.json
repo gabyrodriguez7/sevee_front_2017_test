@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "AYACUCHO",
+        "id": 220,
+        "votos": 190,
+        "candidato": "Noboa Alvaro",
+        "value": 4.2899
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 1105,
+        "votos": 63,
+        "candidato": "Noboa Alvaro",
+        "value": 3.0
+    },
+    {
+        "parroquia": "HONORATO VASQUEZ",
+        "id": 1610,
+        "votos": 98,
+        "candidato": "Noboa Alvaro",
+        "value": 3.3
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 2135,
+        "votos": 165,
+        "candidato": "Noboa Alvaro",
+        "value": 5.3
+    },
+    {
+        "parroquia": "SANTA ANA",
+        "id": 6030,
+        "votos": 969,
+        "candidato": "Noboa Alvaro",
+        "value": 6.288
+    },
+    {
+        "parroquia": "LODANA",
+        "id": 6725,
+        "votos": 61,
+        "candidato": "Noboa Alvaro",
+        "value": 8.144
+    }
+]

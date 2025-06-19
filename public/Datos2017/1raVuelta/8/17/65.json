@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "ASCÁZUBI",
+    "id": 165,
+    "votos": 132,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.51
+  },
+  {
+    "parroquia": "CANGAHUA",
+    "id": 480,
+    "votos": 277,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.64
+  },
+  {
+    "parroquia": "OLMEDO/PESILLO",
+    "id": 2600,
+    "votos": 166,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.74
+  },
+  {
+    "parroquia": "OTÓN",
+    "id": 2635,
+    "votos": 83,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 5.15
+  },
+  {
+    "parroquia": "STA.ROSA DE CUSUBAMBA",
+    "id": 3735,
+    "votos": 74,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.44
+  },
+  {
+    "parroquia": "SAN JOSÉ DE AYORA",
+    "id": 4620,
+    "votos": 231,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.99
+  },
+  {
+    "parroquia": "CAYAMBE",
+    "id": 5190,
+    "votos": 1491,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.90
+  },
+  {
+    "parroquia": "JUAN MONTALVO",
+    "id": 5495,
+    "votos": 164,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 6.36
+  }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "LIMONES",
+        "id": 280,
+        "votos": 6,
+        "candidato": "Acosta Alberto",
+        "value": 0.96
+    },
+    {
+        "parroquia": "GARZAREAL",
+        "id": 290,
+        "votos": 18,
+        "candidato": "Acosta Alberto",
+        "value": 3.0
+    },
+    {
+        "parroquia": "MANGAHURCO",
+        "id": 550,
+        "votos": 15,
+        "candidato": "Acosta Alberto",
+        "value": 3.33
+    },
+    {
+        "parroquia": "BOLASPAMBA",
+        "id": 2000,
+        "votos": 15,
+        "candidato": "Acosta Alberto",
+        "value": 3.72
+    },
+    {
+        "parroquia": "PALETILLAS",
+        "id": 2710,
+        "votos": 76,
+        "candidato": "Acosta Alberto",
+        "value": 5.59
+    },
+    {
+        "parroquia": "CAZADEROS",
+        "id": 4605,
+        "votos": 10,
+        "candidato": "Acosta Alberto",
+        "value": 3.3
+    },
+    {
+        "parroquia": "ZAPOTILLO",
+        "id": 6320,
+        "votos": 73,
+        "candidato": "Acosta Alberto",
+        "value": 2.35484
+    }
+]

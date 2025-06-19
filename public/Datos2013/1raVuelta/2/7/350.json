@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "EL RETIRO",
+        "id": 255,
+        "votos": 810,
+        "candidato": "Correa Delgado Rafael",
+        "value": 65.4
+    },
+    {
+        "parroquia": "LA PROVIDENCIA",
+        "id": 5565,
+        "votos": 2921,
+        "candidato": "Correa Delgado Rafael",
+        "value": 62.8
+    },
+    {
+        "parroquia": "MACHALA",
+        "id": 5625,
+        "votos": 68708,
+        "candidato": "Correa Delgado Rafael",
+        "value": 58.1
+    },
+    {
+        "parroquia": "PUERTO BOLIVAR",
+        "id": 5805,
+        "votos": 11342,
+        "candidato": "Correa Delgado Rafael",
+        "value": 69.56
+    },
+    {
+        "parroquia": "9 DE MAYO",
+        "id": 6490,
+        "votos": 2020,
+        "candidato": "Correa Delgado Rafael",
+        "value": 66.0
+    },
+    {
+        "parroquia": "EL CAMBIO",
+        "id": 6795,
+        "votos": 2975,
+        "candidato": "Correa Delgado Rafael",
+        "value": 64.9
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "parroquia": "CANELOS",
+        "id": 475,
+        "votos": 8,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "10 DE AGOSTO",
+        "id": 1025,
+        "votos": 12,
+        "candidato": "Wray Norman",
+        "value": 1.4
+    },
+    {
+        "parroquia": "FATIMA",
+        "id": 1260,
+        "votos": 11,
+        "candidato": "Wray Norman",
+        "value": 1.4
+    },
+    {
+        "parroquia": "EL TRIUNFO",
+        "id": 1275,
+        "votos": 7,
+        "candidato": "Wray Norman",
+        "value": 0.8
+    },
+    {
+        "parroquia": "MONTALVO/ANDOAS",
+        "id": 2450,
+        "votos": 7,
+        "candidato": "Wray Norman",
+        "value": 0.9
+    },
+    {
+        "parroquia": "POMONA",
+        "id": 3055,
+        "votos": 2,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "RIO CORRIENTES",
+        "id": 3180,
+        "votos": 1,
+        "candidato": "Wray Norman",
+        "value": 0.0
+    },
+    {
+        "parroquia": "RIO TIGRE",
+        "id": 3195,
+        "votos": 3,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "ZARAYACU",
+        "id": 3785,
+        "votos": 5,
+        "candidato": "Wray Norman",
+        "value": 0.47
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 3985,
+        "votos": 3,
+        "candidato": "Wray Norman",
+        "value": 0.3
+    },
+    {
+        "parroquia": "TNTE. HUGO ORTIZ",
+        "id": 4005,
+        "votos": 2,
+        "candidato": "Wray Norman",
+        "value": 0.0
+    },
+    {
+        "parroquia": "VERACRUZ",
+        "id": 4205,
+        "votos": 20,
+        "candidato": "Wray Norman",
+        "value": 1.67
+    },
+    {
+        "parroquia": "SIMON BOLIVAR",
+        "id": 4510,
+        "votos": 9,
+        "candidato": "Wray Norman",
+        "value": 0.4
+    },
+    {
+        "parroquia": "PUYO",
+        "id": 5825,
+        "votos": 357,
+        "candidato": "Wray Norman",
+        "value": 2.0
+    }
+]

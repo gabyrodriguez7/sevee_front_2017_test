@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "SAN CARLOS",
+    "id": 415,
+    "votos": 35,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 2.08
+  },
+  {
+    "parroquia": "ENOKANQUI",
+    "id": 490,
+    "votos": 24,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 1.832
+  },
+  {
+    "parroquia": "RUMIPAMBA",
+    "id": 1950,
+    "votos": 26,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 3.945
+  },
+  {
+    "parroquia": "TRES DE NOVIEMBRE",
+    "id": 1955,
+    "votos": 37,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 2.497
+  },
+  {
+    "parroquia": "LAGO SAN PEDRO",
+    "id": 1960,
+    "votos": 12,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 1.289
+  },
+  {
+    "parroquia": "UNION MILAGRE\u00d1A",
+    "id": 1965,
+    "votos": 34,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 2.44956772
+  },
+  {
+    "parroquia": "POMPEYA",
+    "id": 2930,
+    "votos": 3,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 0.61
+  },
+  {
+    "parroquia": "SAN SEBASTIAN DE COCA",
+    "id": 3660,
+    "votos": 28,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 1.5
+  },
+  {
+    "parroquia": "LA JOYA DE LOS SACHAS",
+    "id": 6200,
+    "votos": 251,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 2.3
+  }
+]

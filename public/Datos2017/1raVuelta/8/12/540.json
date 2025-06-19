@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "LA ESPERANZA",
+    "id": 4420,
+    "votos": 54,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.36
+  },
+  {
+    "parroquia": "SAN CARLOS",
+    "id": 4425,
+    "votos": 203,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.85
+  },
+  {
+    "parroquia": "QUEVEDO",
+    "id": 5855,
+    "votos": 1359,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.56
+  },
+  {
+    "parroquia": "SAN CAMILO",
+    "id": 6115,
+    "votos": 518,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.54
+  },
+  {
+    "parroquia": "SAN CRISTÓBAL",
+    "id": 6635,
+    "votos": 86,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.38
+  },
+  {
+    "parroquia": "VENUS DEL RÍO QUEVEDO",
+    "id": 6640,
+    "votos": 253,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.86
+  },
+  {
+    "parroquia": "NICOLÁS INFANTE DÍAZ",
+    "id": 6645,
+    "votos": 76,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.46
+  },
+  {
+    "parroquia": "GUAYACÁN",
+    "id": 6650,
+    "votos": 141,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.51
+  },
+  {
+    "parroquia": "SIETE DE OCTUBRE",
+    "id": 6655,
+    "votos": 144,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.5
+  },
+  {
+    "parroquia": "VIVA ALFARO",
+    "id": 6660,
+    "votos": 110,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.93
+  },
+  {
+    "parroquia": "24 DE MAYO",
+    "id": 6690,
+    "votos": 105,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.63
+  }
+]

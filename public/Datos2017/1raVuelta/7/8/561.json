@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "CHONTADURO",
+    "id": 930,
+    "votos": 63,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 4.87
+  },
+  {
+    "parroquia": "CHUMUNDÉ",
+    "id": 965,
+    "votos": 37,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.86
+  },
+  {
+    "parroquia": "LAGARTO",
+    "id": 2035,
+    "votos": 156,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 7.22
+  },
+  {
+    "parroquia": "MONTALVO / HORQUETA",
+    "id": 2445,
+    "votos": 113,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 5.99
+  },
+  {
+    "parroquia": "ROCAFUERTE",
+    "id": 3215,
+    "votos": 203,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 7.2
+  },
+  {
+    "parroquia": "RÍO VERDE",
+    "id": 6720,
+    "votos": 400,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 11.62
+  }
+]

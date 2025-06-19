@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "MIRA",
+    "id": 5685,
+    "votos": 14,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.36
+  },
+  {
+    "parroquia": "LA CONCEPCION",
+    "id": 2010,
+    "votos": 10,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.67
+  },
+  {
+    "parroquia": "JUAN MONTALVO",
+    "id": 1875,
+    "votos": 2,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.29
+  },
+  {
+    "parroquia": "JIJON Y CAAMAÑO",
+    "id": 1835,
+    "votos": 6,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.73
+  }
+]

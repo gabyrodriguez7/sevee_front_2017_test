@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "PUERTO PECHICHE",
+        "id": 3015,
+        "votos": 34,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.4015
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3510,
+        "votos": 209,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.27619
+    },
+    {
+        "parroquia": "PUEBLO VIEJO",
+        "id": 5800,
+        "votos": 174,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.085
+    }
+]

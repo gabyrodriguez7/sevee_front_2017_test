@@ -1,0 +1,23 @@
+[
+                {
+                    "parroquia": "MERA",
+                    "id": 5650,
+                    "votos": 3,
+                    "candidato": "Melba Jacome",
+                    "value": 0.34
+                },
+                {
+                    "parroquia": "SHELL",
+                    "id": 3840,
+                    "votos": 37,
+                    "candidato": "Melba Jacome",
+                    "value": 1.14
+                },
+                {
+                    "parroquia": "MADRE TIERRA",
+                    "id": 2310,
+                    "votos": 3,
+                    "candidato": "Melba Jacome",
+                    "value": 0.36
+                }
+            ]

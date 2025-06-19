@@ -1,0 +1,107 @@
+[
+    {
+        "parroquia": "VALDEZ/LIMONES/",
+        "id": 6205,
+        "votos": 257,
+        "candidato": "Alvaro Noboa",
+        "value": 9.74
+    },
+    {
+        "parroquia": "SANTO DOMINGO DE ONZOLE",
+        "id": 4465,
+        "votos": 44,
+        "candidato": "Alvaro Noboa",
+        "value": 12.18
+    },
+    {
+        "parroquia": "TELEMBI",
+        "id": 4170,
+        "votos": 55,
+        "candidato": "Alvaro Noboa",
+        "value": 6.53
+    },
+    {
+        "parroquia": "SELVA ALEGRE",
+        "id": 3805,
+        "votos": 33,
+        "candidato": "Alvaro Noboa",
+        "value": 7.67
+    },
+    {
+        "parroquia": "SAN FRANCISCO DE ONZOLE",
+        "id": 3405,
+        "votos": 58,
+        "candidato": "Alvaro Noboa",
+        "value": 18.35
+    },
+    {
+        "parroquia": "PAMPANAL DE BOLIVAR",
+        "id": 2670,
+        "votos": 14,
+        "candidato": "Alvaro Noboa",
+        "value": 6.11
+    },
+    {
+        "parroquia": "MALDONADO",
+        "id": 2335,
+        "votos": 62,
+        "candidato": "Alvaro Noboa",
+        "value": 11.01
+    },
+    {
+        "parroquia": "LUIS VARGAS TORRES",
+        "id": 2225,
+        "votos": 15,
+        "candidato": "Alvaro Noboa",
+        "value": 9.61
+    },
+    {
+        "parroquia": "LA TOLA",
+        "id": 2125,
+        "votos": 172,
+        "candidato": "Alvaro Noboa",
+        "value": 15.94
+    },
+    {
+        "parroquia": "TIMBIRE",
+        "id": 1515,
+        "votos": 12,
+        "candidato": "Alvaro Noboa",
+        "value": 3.88
+    },
+    {
+        "parroquia": "COLON ELOY DE MARIA",
+        "id": 1510,
+        "votos": 34,
+        "candidato": "Alvaro Noboa",
+        "value": 13.93
+    },
+    {
+        "parroquia": "SAN JOSE DE CAYAPAS",
+        "id": 1505,
+        "votos": 44,
+        "candidato": "Alvaro Noboa",
+        "value": 10.91
+    },
+    {
+        "parroquia": "BORBON",
+        "id": 370,
+        "votos": 514,
+        "candidato": "Alvaro Noboa",
+        "value": 18.14
+    },
+    {
+        "parroquia": "ATAHUALPA/CAMARONES",
+        "id": 200,
+        "votos": 44,
+        "candidato": "Alvaro Noboa",
+        "value": 9.05
+    },
+    {
+        "parroquia": "ANCHAYACU",
+        "id": 120,
+        "votos": 32,
+        "candidato": "Alvaro Noboa",
+        "value": 9.84
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CURTINCAPAC",
+        "id": 740,
+        "votos": 4,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "SALATI",
+        "id": 3275,
+        "votos": 8,
+        "candidato": "Wray Norman",
+        "value": 1.49
+    },
+    {
+        "parroquia": "MORALES",
+        "id": 4520,
+        "votos": 0,
+        "candidato": "Wray Norman",
+        "value": 0.0
+    },
+    {
+        "parroquia": "PORTOVELO",
+        "id": 5850,
+        "votos": 58,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    }
+]

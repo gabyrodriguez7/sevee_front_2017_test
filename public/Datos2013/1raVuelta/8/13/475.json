@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CHARAPOTO",
+        "id": 840,
+        "votos": 303,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.337422
+    },
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 3445,
+        "votos": 123,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.8339
+    },
+    {
+        "parroquia": "BAHIA DE CARAQUEZ",
+        "id": 5095,
+        "votos": 174,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.33815
+    },
+    {
+        "parroquia": "LEONIDAS PLAZA G.",
+        "id": 5580,
+        "votos": 45,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.43403
+    }
+]

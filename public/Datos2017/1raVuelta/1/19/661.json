@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "EL PORVENIR DEL CARMEN",
+    "id": 1240,
+    "votos": 293,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 42.28
+  },
+  {
+    "parroquia": "LA CANELA",
+    "id": 2170,
+    "votos": 121,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 55.25
+  },
+  {
+    "parroquia": "VALLADOLID",
+    "id": 4195,
+    "votos": 407,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 41.4
+  },
+  {
+    "parroquia": "SAN FRANCISCO DEL VERGEL",
+    "id": 4505,
+    "votos": 389,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 53.73
+  },
+  {
+    "parroquia": "PALANDA",
+    "id": 6740,
+    "votos": 1145,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 43.95
+  }
+]

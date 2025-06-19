@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "GRAL.PEDRO MONTERO",
+        "id": 1340,
+        "votos": 23,
+        "candidato": "Wray Norman",
+        "value": 0.49
+    },
+    {
+        "parroquia": "VIRGEN DE FATIMA",
+        "id": 1915,
+        "votos": 16,
+        "candidato": "Wray Norman",
+        "value": 0.31
+    },
+    {
+        "parroquia": "YAGUACHI VIEJO/CONE",
+        "id": 4275,
+        "votos": 19,
+        "candidato": "Wray Norman",
+        "value": 0.52
+    },
+    {
+        "parroquia": "YAGUACHI NUEVO",
+        "id": 6285,
+        "votos": 66,
+        "candidato": "Wray Norman",
+        "value": 0.402
+    }
+]

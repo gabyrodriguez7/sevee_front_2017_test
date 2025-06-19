@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "BUENAVISTA",
+        "id": 390,
+        "votos": 78,
+        "candidato": "Acosta Alberto",
+        "value": 2.161
+    },
+    {
+        "parroquia": "CAÑAQUEMADA",
+        "id": 775,
+        "votos": 5,
+        "candidato": "Acosta Alberto",
+        "value": 1.116
+    },
+    {
+        "parroquia": "PROGRESO",
+        "id": 1225,
+        "votos": 12,
+        "candidato": "Acosta Alberto",
+        "value": 0.797
+    },
+    {
+        "parroquia": "LA PEAÑA",
+        "id": 2075,
+        "votos": 44,
+        "candidato": "Acosta Alberto",
+        "value": 2.1
+    },
+    {
+        "parroquia": "UZHCURRUMI",
+        "id": 4160,
+        "votos": 18,
+        "candidato": "Acosta Alberto",
+        "value": 2.148
+    },
+    {
+        "parroquia": "CASACAY",
+        "id": 4495,
+        "votos": 23,
+        "candidato": "Acosta Alberto",
+        "value": 2.2817
+    },
+    {
+        "parroquia": "OCHOA LEON/MATRIZ",
+        "id": 5770,
+        "votos": 811,
+        "candidato": "Acosta Alberto",
+        "value": 2.33133
+    },
+    {
+        "parroquia": "LOMA DE FRANCO",
+        "id": 6365,
+        "votos": 12,
+        "candidato": "Acosta Alberto",
+        "value": 2.01342
+    },
+    {
+        "parroquia": "BOLIVAR",
+        "id": 6370,
+        "votos": 6,
+        "candidato": "Acosta Alberto",
+        "value": 1.5
+    },
+    {
+        "parroquia": "TRES CERRITOS",
+        "id": 6375,
+        "votos": 6,
+        "candidato": "Acosta Alberto",
+        "value": 1.880878
+    },
+    {
+        "parroquia": "PASAJE",
+        "id": 6940,
+        "votos": 6,
+        "candidato": "Acosta Alberto",
+        "value": 2.31
+    }
+]

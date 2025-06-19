@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "EL TAMBO",
+        "id": 1200,
+        "votos": 165,
+        "candidato": "Noboa Alvaro",
+        "value": 9.0
+    },
+    {
+        "parroquia": "GUAYQUICHUMA",
+        "id": 1480,
+        "votos": 5,
+        "candidato": "Noboa Alvaro",
+        "value": 2.183
+    },
+    {
+        "parroquia": "SAN PEDRO DE LA BENDITA",
+        "id": 3610,
+        "votos": 26,
+        "candidato": "Noboa Alvaro",
+        "value": 2.37
+    },
+    {
+        "parroquia": "ZAMBI",
+        "id": 4455,
+        "votos": 11,
+        "candidato": "Noboa Alvaro",
+        "value": 3.343
+    },
+    {
+        "parroquia": "CATAMAYO",
+        "id": 5270,
+        "votos": 675,
+        "candidato": "Noboa Alvaro",
+        "value": 5.0
+    },
+    {
+        "parroquia": "SAN JOSE",
+        "id": 6825,
+        "votos": 16,
+        "candidato": "Noboa Alvaro",
+        "value": 4.2
+    }
+]

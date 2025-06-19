@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "SANTA MARIANITA",
+        "id": 1800,
+        "votos": 4,
+        "candidato": "Gutierrez Lucio",
+        "value": 0.28612
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 3550,
+        "votos": 25,
+        "candidato": "Gutierrez Lucio",
+        "value": 1.44844
+    },
+    {
+        "parroquia": "LOS ESTEROS",
+        "id": 5570,
+        "votos": 215,
+        "candidato": "Gutierrez Lucio",
+        "value": 1.429
+    },
+    {
+        "parroquia": "MANTA",
+        "id": 5635,
+        "votos": 661,
+        "candidato": "Gutierrez Lucio",
+        "value": 1.28
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 6135,
+        "votos": 24,
+        "candidato": "Gutierrez Lucio",
+        "value": 1.12
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 6155,
+        "votos": 772,
+        "candidato": "Gutierrez Lucio",
+        "value": 1.5
+    },
+    {
+        "parroquia": "ELOY ALFARO",
+        "id": 6745,
+        "votos": 260,
+        "candidato": "Gutierrez Lucio",
+        "value": 1.59
+    }
+]

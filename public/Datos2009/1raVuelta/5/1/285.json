@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "SANTA ISABEL",
+        "id": 6045,
+        "votos": 28,
+        "candidato": "Melba Jacome",
+        "value": 0.42
+    },
+    {
+        "parroquia": "SHAGLLI",
+        "id": 3835,
+        "votos": 2,
+        "candidato": "Melba Jacome",
+        "value": 0.24
+    },
+    {
+        "parroquia": "EL CARMEN DE PIJILI",
+        "id": 1130,
+        "votos": 3,
+        "candidato": "Melba Jacome",
+        "value": 0.62
+    },
+    {
+        "parroquia": "ABDON CALDERON / LA UNION",
+        "id": 15,
+        "votos": 8,
+        "candidato": "Melba Jacome",
+        "value": 0.63
+    }
+]

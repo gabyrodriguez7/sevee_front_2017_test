@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "GRAL.PEDRO MONTERO",
+        "id": 1340,
+        "votos": 127,
+        "candidato": "Gutierrez Lucio",
+        "value": 2.72
+    },
+    {
+        "parroquia": "VIRGEN DE FATIMA",
+        "id": 1915,
+        "votos": 149,
+        "candidato": "Gutierrez Lucio",
+        "value": 2.84
+    },
+    {
+        "parroquia": "YAGUACHI VIEJO/CONE",
+        "id": 4275,
+        "votos": 111,
+        "candidato": "Gutierrez Lucio",
+        "value": 3.06
+    },
+    {
+        "parroquia": "YAGUACHI NUEVO",
+        "id": 6285,
+        "votos": 685,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.172
+    }
+]

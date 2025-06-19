@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "EL GUABO",
+    "id": 5340,
+    "votos": 2172,
+    "candidato": "Lucio Gutierrez",
+    "value": 13.13
+  },
+  {
+    "parroquia": "TENDALES",
+    "id": 4000,
+    "votos": 162,
+    "candidato": "Lucio Gutierrez",
+    "value": 11.72
+  },
+  {
+    "parroquia": "RIO BONITO",
+    "id": 2050,
+    "votos": 157,
+    "candidato": "Lucio Gutierrez",
+    "value": 14.41
+  },
+  {
+    "parroquia": "BARBONES",
+    "id": 300,
+    "votos": 244,
+    "candidato": "Lucio Gutierrez",
+    "value": 9.05
+  },
+  {
+    "parroquia": "LA IBERIA",
+    "id": 245,
+    "votos": 147,
+    "candidato": "Lucio Gutierrez",
+    "value": 12.62
+  }
+]

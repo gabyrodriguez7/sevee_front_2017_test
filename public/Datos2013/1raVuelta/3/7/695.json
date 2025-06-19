@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "HUAQUILLAS",
+        "id": 5460,
+        "votos": 147,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "HUALTACO",
+        "id": 6800,
+        "votos": 1,
+        "candidato": "Wray Norman",
+        "value": 0.205
+    },
+    {
+        "parroquia": "MILTON REYES",
+        "id": 6805,
+        "votos": 3,
+        "candidato": "Wray Norman",
+        "value": 0.677
+    },
+    {
+        "parroquia": "EL PARAISO",
+        "id": 6810,
+        "votos": 8,
+        "candidato": "Wray Norman",
+        "value": 2.0
+    },
+    {
+        "parroquia": "ECUADOR",
+        "id": 6815,
+        "votos": 2,
+        "candidato": "Wray Norman",
+        "value": 0.295421
+    },
+    {
+        "parroquia": "UNION LOJANA",
+        "id": 6820,
+        "votos": 5,
+        "candidato": "Wray Norman",
+        "value": 0.4460303
+    }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "EL CAMBIO",
+    "id": 6795,
+    "votos": 23,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.61
+  },
+  {
+    "parroquia": "9 DE MAYO",
+    "id": 6490,
+    "votos": 14,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.64
+  },
+  {
+    "parroquia": "PUERTO BOLIVAR",
+    "id": 5805,
+    "votos": 67,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.5
+  },
+  {
+    "parroquia": "MACHALA",
+    "id": 5625,
+    "votos": 612,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.61
+  },
+  {
+    "parroquia": "LA PROVIDENCIA",
+    "id": 5565,
+    "votos": 5,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.31
+  },
+  {
+    "parroquia": "EL RETIRO",
+    "id": 255,
+    "votos": 2,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.18
+  }
+]

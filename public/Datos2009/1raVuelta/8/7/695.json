@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "UNION LOJANA",
+    "id": 6820,
+    "votos": 218,
+    "candidato": "Lucio Gutierrez",
+    "value": 21.6
+  },
+  {
+    "parroquia": "ECUADOR",
+    "id": 6815,
+    "votos": 90,
+    "candidato": "Lucio Gutierrez",
+    "value": 16.36
+  },
+  {
+    "parroquia": "EL PARAISO",
+    "id": 6810,
+    "votos": 68,
+    "candidato": "Lucio Gutierrez",
+    "value": 19.88
+  },
+  {
+    "parroquia": "MILTON REYES",
+    "id": 6805,
+    "votos": 75,
+    "candidato": "Lucio Gutierrez",
+    "value": 23.0
+  },
+  {
+    "parroquia": "HUALTACO",
+    "id": 6800,
+    "votos": 72,
+    "candidato": "Lucio Gutierrez",
+    "value": 17.73
+  },
+  {
+    "parroquia": "HUAQUILLAS",
+    "id": 5460,
+    "votos": 4138,
+    "candidato": "Lucio Gutierrez",
+    "value": 19.98
+  }
+]

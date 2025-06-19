@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "BAEZA",
+    "id": 5090,
+    "votos": 22,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.89
+  },
+  {
+    "parroquia": "SUMACO",
+    "id": 3890,
+    "votos": 2,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.71
+  },
+  {
+    "parroquia": "SAN FRANCISCO DE BORJA",
+    "id": 3395,
+    "votos": 8,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.77
+  },
+  {
+    "parroquia": "PAPALLACTA",
+    "id": 2770,
+    "votos": 8,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 2.14
+  },
+  {
+    "parroquia": "CUYUJA",
+    "id": 765,
+    "votos": 3,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.14
+  },
+  {
+    "parroquia": "COSANGA",
+    "id": 670,
+    "votos": 1,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.31
+  }
+]

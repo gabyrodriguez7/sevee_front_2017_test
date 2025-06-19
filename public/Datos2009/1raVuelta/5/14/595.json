@@ -1,0 +1,72 @@
+[
+                {
+                    "parroquia": "MERCEDES MOLINA",
+                    "id": 5655,
+                    "votos": 0,
+                    "candidato": "Melba Jacome",
+                    "value": 0.0
+                },
+                {
+                    "parroquia": "GUALAQUIZA",
+                    "id": 5425,
+                    "votos": 14,
+                    "candidato": "Melba Jacome",
+                    "value": 0.34
+                },
+                {
+                    "parroquia": "SAN MIGUEL DE CUYES",
+                    "id": 3580,
+                    "votos": 0,
+                    "candidato": "Melba Jacome",
+                    "value": 0.0
+                },
+                {
+                    "parroquia": "ROSARIO",
+                    "id": 3225,
+                    "votos": 0,
+                    "candidato": "Melba Jacome",
+                    "value": 0.0
+                },
+                {
+                    "parroquia": "NUEVA TARQUI",
+                    "id": 2565,
+                    "votos": 3,
+                    "candidato": "Melba Jacome",
+                    "value": 0.85
+                },
+                {
+                    "parroquia": "EL IDEAL",
+                    "id": 1910,
+                    "votos": 2,
+                    "candidato": "Melba Jacome",
+                    "value": 0.94
+                },
+                {
+                    "parroquia": "CHIGUINDA",
+                    "id": 880,
+                    "votos": 0,
+                    "candidato": "Melba Jacome",
+                    "value": 0.0
+                },
+                {
+                    "parroquia": "BOMBOIZA",
+                    "id": 350,
+                    "votos": 6,
+                    "candidato": "Melba Jacome",
+                    "value": 0.59
+                },
+                {
+                    "parroquia": "BERMEJOS",
+                    "id": 340,
+                    "votos": 0,
+                    "candidato": "Melba Jacome",
+                    "value": 0.0
+                },
+                {
+                    "parroquia": "AMAZONAS",
+                    "id": 90,
+                    "votos": 1,
+                    "candidato": "Melba Jacome",
+                    "value": 1.45
+                }
+            ]

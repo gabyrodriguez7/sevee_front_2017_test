@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "LA CANDELARIA",
+    "id": 925,
+    "votos": 1,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.38
+  },
+  {
+    "parroquia": "EL ALTAR",
+    "id": 1110,
+    "votos": 10,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.12
+  },
+  {
+    "parroquia": "BILBAO",
+    "id": 1325,
+    "votos": 2,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.02
+  },
+  {
+    "parroquia": "MATUS",
+    "id": 2400,
+    "votos": 2,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.28
+  },
+  {
+    "parroquia": "PUELA",
+    "id": 2975,
+    "votos": 6,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.08
+  },
+  {
+    "parroquia": "SAN ANTONIO DE BAYUSHIG",
+    "id": 3335,
+    "votos": 17,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.49
+  },
+  {
+    "parroquia": "PENIPE",
+    "id": 5740,
+    "votos": 13,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.65
+  }
+]

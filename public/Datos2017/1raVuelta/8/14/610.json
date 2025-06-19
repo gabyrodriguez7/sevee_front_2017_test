@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "ASUNCIÓN",
+    "id": 180,
+    "votos": 3,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.37
+  },
+  {
+    "parroquia": "SANTA MARIANITA DE JESÚS",
+    "id": 1140,
+    "votos": 9,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.15
+  },
+  {
+    "parroquia": "HUAMBI",
+    "id": 1635,
+    "votos": 28,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.67
+  },
+  {
+    "parroquia": "SUCÚA",
+    "id": 6110,
+    "votos": 125,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.59
+  }
+]

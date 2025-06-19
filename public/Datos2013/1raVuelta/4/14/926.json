@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "HUASAGA /WAMPUIK",
+        "id": 595,
+        "votos": 506,
+        "candidato": "Acosta Alberto",
+        "value": 96.565
+    },
+    {
+        "parroquia": "TUTINENTZA",
+        "id": 1205,
+        "votos": 1048,
+        "candidato": "Acosta Alberto",
+        "value": 81.0
+    },
+    {
+        "parroquia": "MACUMA",
+        "id": 2285,
+        "votos": 1257,
+        "candidato": "Acosta Alberto",
+        "value": 78.80878
+    },
+    {
+        "parroquia": "PUMPUENTSA",
+        "id": 4575,
+        "votos": 530,
+        "candidato": "Acosta Alberto",
+        "value": 82.0433
+    },
+    {
+        "parroquia": "TAISHA",
+        "id": 6700,
+        "votos": 1049,
+        "candidato": "Acosta Alberto",
+        "value": 55.917
+    }
+]

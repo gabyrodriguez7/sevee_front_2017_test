@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN FERNANDO",
+        "id": 6565,
+        "votos": 8,
+        "candidato": "Melba Jacome",
+        "value": 0.4
+    },
+    {
+        "parroquia": "CHUMBLIN",
+        "id": 4560,
+        "votos": 0,
+        "candidato": "Melba Jacome",
+        "value": 0.0
+    }
+]

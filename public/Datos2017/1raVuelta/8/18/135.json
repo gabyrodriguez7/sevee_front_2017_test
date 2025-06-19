@@ -1,0 +1,191 @@
+[
+  {
+    "parroquia": "AMBATILLO",
+    "id": 95,
+    "votos": 165,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 5.55
+  },
+  {
+    "parroquia": "ATAHUALPA /CHIPZALATA",
+    "id": 190,
+    "votos": 240,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.93
+  },
+  {
+    "parroquia": "AUGUSTO N. MARTÍNEZ",
+    "id": 210,
+    "votos": 279,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.47
+  },
+  {
+    "parroquia": "CONSTANTINO FERNÁNDEZ",
+    "id": 635,
+    "votos": 64,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.75
+  },
+  {
+    "parroquia": "CUNCHIBAMBA",
+    "id": 800,
+    "votos": 96,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.96
+  },
+  {
+    "parroquia": "UNAMUNCHO",
+    "id": 810,
+    "votos": 64,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.1
+  },
+  {
+    "parroquia": "HUACHI GRANDE",
+    "id": 1625,
+    "votos": 213,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.73
+  },
+  {
+    "parroquia": "IZAMBA",
+    "id": 1745,
+    "votos": 597,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.59
+  },
+  {
+    "parroquia": "JUAN BENIGNO VELA",
+    "id": 1860,
+    "votos": 221,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.6
+  },
+  {
+    "parroquia": "MONTALVO",
+    "id": 2435,
+    "votos": 104,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.56
+  },
+  {
+    "parroquia": "PASA",
+    "id": 2775,
+    "votos": 163,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.09
+  },
+  {
+    "parroquia": "PICAYHUA",
+    "id": 2830,
+    "votos": 588,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 5.9
+  },
+  {
+    "parroquia": "PILAHUÍN",
+    "id": 2860,
+    "votos": 136,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.03
+  },
+  {
+    "parroquia": "QUISAPINCHA",
+    "id": 3120,
+    "votos": 306,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.51
+  },
+  {
+    "parroquia": "SAN BARTOLOMÉ",
+    "id": 3355,
+    "votos": 211,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.76
+  },
+  {
+    "parroquia": "SAN FERNANDO",
+    "id": 3380,
+    "votos": 54,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.58
+  },
+  {
+    "parroquia": "SANTA ROSA",
+    "id": 3730,
+    "votos": 468,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.34
+  },
+  {
+    "parroquia": "TOTORAS",
+    "id": 4065,
+    "votos": 216,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 5.01
+  },
+  {
+    "parroquia": "ATOCHA FICOA",
+    "id": 5045,
+    "votos": 256,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.59
+  },
+  {
+    "parroquia": "CELIANO MONGE",
+    "id": 5230,
+    "votos": 57,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.77
+  },
+  {
+    "parroquia": "HUACHI LORETO",
+    "id": 5445,
+    "votos": 1434,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.34
+  },
+  {
+    "parroquia": "HUACHI CHICO",
+    "id": 5455,
+    "votos": 753,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.56
+  },
+  {
+    "parroquia": "LA MATRIZ",
+    "id": 5545,
+    "votos": 635,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.77
+  },
+  {
+    "parroquia": "LA MERCED",
+    "id": 5560,
+    "votos": 418,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.42
+  },
+  {
+    "parroquia": "LA PENINSULA",
+    "id": 5605,
+    "votos": 62,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.25
+  },
+  {
+    "parroquia": "PISHILATA",
+    "id": 5840,
+    "votos": 111,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 5.14
+  },
+  {
+    "parroquia": "SAN FRANCISCO",
+    "id": 5945,
+    "votos": 142,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.45
+  }
+]

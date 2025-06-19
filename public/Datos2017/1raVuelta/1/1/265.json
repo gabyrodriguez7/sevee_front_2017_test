@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "DANIEL CÓRDOVA TORAL",
+    "id": 1005,
+    "votos": 246,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 24.95
+  },
+  {
+    "parroquia": "LUIS CORDERO VEGA",
+    "id": 1760,
+    "votos": 96,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 30.09
+  },
+  {
+    "parroquia": "JADÁN",
+    "id": 1805,
+    "votos": 575,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 22.42
+  },
+  {
+    "parroquia": "MARIANO MORENO/CALLASAY",
+    "id": 2385,
+    "votos": 290,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 26.7
+  },
+  {
+    "parroquia": "REMIGIO CRESPO TORAL",
+    "id": 3160,
+    "votos": 134,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 25.87
+  },
+  {
+    "parroquia": "SAN JUAN",
+    "id": 3505,
+    "votos": 559,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 22.03
+  },
+  {
+    "parroquia": "SIMÓN BOLÍVAR",
+    "id": 3780,
+    "votos": 95,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 21.79
+  },
+  {
+    "parroquia": "ZHIDMAD",
+    "id": 4340,
+    "votos": 401,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 26.86
+  },
+  {
+    "parroquia": "GUALACEO",
+    "id": 5420,
+    "votos": 4328,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 28.74
+  }
+]

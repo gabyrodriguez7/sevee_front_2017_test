@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "GRAL.PEDRO MONTERO",
+    "id": 1340,
+    "votos": 105,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.24
+  },
+  {
+    "parroquia": "VIRGEN DE FÁTIMA",
+    "id": 1915,
+    "votos": 200,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.88
+  },
+  {
+    "parroquia": "YAGUACHI VIEJO/CONE",
+    "id": 4275,
+    "votos": 80,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.97
+  },
+  {
+    "parroquia": "YAGUACHI NUEVO",
+    "id": 6285,
+    "votos": 387,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.14
+  }
+]

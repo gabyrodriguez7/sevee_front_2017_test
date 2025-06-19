@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "CUMBARATZA",
+    "id": 720,
+    "votos": 23,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.04
+  },
+  {
+    "parroquia": "GUADALUPE",
+    "id": 1390,
+    "votos": 25,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.3
+  },
+  {
+    "parroquia": "SAN CARLOS DE LAS MINAS",
+    "id": 1770,
+    "votos": 19,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.71
+  },
+  {
+    "parroquia": "LA VICTORIA DE IMBANA",
+    "id": 2155,
+    "votos": 2,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.31
+  },
+  {
+    "parroquia": "SABANILLA",
+    "id": 3260,
+    "votos": 10,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.14
+  },
+  {
+    "parroquia": "TIMBARA",
+    "id": 4010,
+    "votos": 6,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.7
+  },
+  {
+    "parroquia": "ZAMORA",
+    "id": 6305,
+    "votos": 111,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.14
+  },
+  {
+    "parroquia": "EL LIMÓN",
+    "id": 6840,
+    "votos": 4,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.28
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "SEVILLA",
+    "id": 1095,
+    "votos": 28,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 2.152
+  },
+  {
+    "parroquia": "SANTA ROSA DE SUCUMBIOS",
+    "id": 3750,
+    "votos": 7,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 1.74
+  },
+  {
+    "parroquia": "EL DORADO DE CASCALES",
+    "id": 6325,
+    "votos": 61,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 1.666
+  }
+]

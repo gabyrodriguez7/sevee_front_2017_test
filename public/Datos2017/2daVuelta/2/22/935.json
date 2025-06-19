@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "AVILA",
+    "id": 215,
+    "votos": 1189,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 51.45
+  },
+  {
+    "parroquia": "SAN VICENTE DE HUATICOCHA",
+    "id": 400,
+    "votos": 372,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 52.39
+  },
+  {
+    "parroquia": "PUERTO MURIALDO",
+    "id": 1050,
+    "votos": 602,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 33.19
+  },
+  {
+    "parroquia": "SAN JOSÉ DE DAHUANO",
+    "id": 1680,
+    "votos": 1066,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 40.76
+  },
+  {
+    "parroquia": "SAN JOSÉ DE PAYAMINO",
+    "id": 3480,
+    "votos": 810,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 52.02
+  },
+  {
+    "parroquia": "LORETO",
+    "id": 6455,
+    "votos": 2058,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 46.89
+  }
+]

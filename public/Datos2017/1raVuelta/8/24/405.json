@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "ANCONCITO",
+    "id": 115,
+    "votos": 198,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.95522388
+  },
+  {
+    "parroquia": "JOSÉ LUIS TAMAYO / MUEY",
+    "id": 1850,
+    "votos": 469,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.83514596
+  },
+  {
+    "parroquia": "SALINAS",
+    "id": 5920,
+    "votos": 442,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.21010967
+  },
+  {
+    "parroquia": "GRAL. A. E. GALLO",
+    "id": 6270,
+    "votos": 62,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.81303813
+  },
+  {
+    "parroquia": "VICENTE ROCAFUERTE",
+    "id": 6275,
+    "votos": 56,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.67175573
+  },
+  {
+    "parroquia": "CARLOS ESPINOZA LARREA",
+    "id": 6280,
+    "votos": 95,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.64550265
+  },
+  {
+    "parroquia": "SANTA ROSA",
+    "id": 6925,
+    "votos": 128,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.27114746
+  }
+]

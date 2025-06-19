@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "EL CAMBIO",
+        "id": 6795,
+        "votos": 13,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.34
+    },
+    {
+        "parroquia": "9 DE MAYO",
+        "id": 6490,
+        "votos": 9,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.41
+    },
+    {
+        "parroquia": "PUERTO BOLIVAR",
+        "id": 5805,
+        "votos": 32,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.23
+    },
+    {
+        "parroquia": "MACHALA",
+        "id": 5625,
+        "votos": 351,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.35
+    },
+    {
+        "parroquia": "LA PROVIDENCIA",
+        "id": 5565,
+        "votos": 9,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.56
+    },
+    {
+        "parroquia": "EL RETIRO",
+        "id": 255,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.09
+    }
+]

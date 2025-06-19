@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "ANTONIO J. HOLGUÍN",
+    "id": 135,
+    "votos": 25,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.39
+  },
+  {
+    "parroquia": "CUSUBAMBA",
+    "id": 745,
+    "votos": 50,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.18
+  },
+  {
+    "parroquia": "MULALILLO",
+    "id": 2475,
+    "votos": 40,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.93
+  },
+  {
+    "parroquia": "MULLIQUINDIL",
+    "id": 2490,
+    "votos": 57,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.24
+  },
+  {
+    "parroquia": "PANZALEO",
+    "id": 2760,
+    "votos": 22,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.02
+  },
+  {
+    "parroquia": "SAN MIGUEL DE SALCEDO",
+    "id": 6000,
+    "votos": 250,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.08
+  }
+]

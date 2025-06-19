@@ -1,0 +1,114 @@
+[
+  {
+    "parroquia": "ANCHAYACU",
+    "id": 120,
+    "votos": 58,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.49
+  },
+  {
+    "parroquia": "ATAHUALPA/CAMARONES",
+    "id": 200,
+    "votos": 53,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.94
+  },
+  {
+    "parroquia": "BORBÓN",
+    "id": 370,
+    "votos": 454,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.15
+  },
+  {
+    "parroquia": "SAN JOSÉ DE CAYAPAS",
+    "id": 1505,
+    "votos": 59,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.02
+  },
+  {
+    "parroquia": "COLÓN ELOY DE MARÍA",
+    "id": 1510,
+    "votos": 48,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.08
+  },
+  {
+    "parroquia": "TIMBIRÉ",
+    "id": 1515,
+    "votos": 43,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.86
+  },
+  {
+    "parroquia": "LA TOLA",
+    "id": 2125,
+    "votos": 117,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.05
+  },
+  {
+    "parroquia": "LUIS VARGAS TORRES",
+    "id": 2225,
+    "votos": 10,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 4.31
+  },
+  {
+    "parroquia": "MALDONADO",
+    "id": 2335,
+    "votos": 103,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.86
+  },
+  {
+    "parroquia": "PAMPANAL DE BOLIVAR",
+    "id": 2670,
+    "votos": 30,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.24
+  },
+  {
+    "parroquia": "SAN FRANCISCO DE ONZOLE",
+    "id": 3405,
+    "votos": 88,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.84
+  },
+  {
+    "parroquia": "SELVA ALEGRE",
+    "id": 3805,
+    "votos": 27,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 4.65
+  },
+  {
+    "parroquia": "TELEMBÍ",
+    "id": 4170,
+    "votos": 36,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 2.01
+  },
+  {
+    "parroquia": "SANTO DOMINGO DE ONZOLE",
+    "id": 4465,
+    "votos": 63,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.01
+  },
+  {
+    "parroquia": "SANTA LUCIA DE LAS PEÑAS",
+    "id": 4595,
+    "votos": 31,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.88
+  },
+  {
+    "parroquia": "VALDÉZ/LIMONES/",
+    "id": 6205,
+    "votos": 296,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.77
+  }
+]

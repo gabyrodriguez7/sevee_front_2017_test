@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "ATUNTAQUI",
+        "id": 5050,
+        "votos": 84,
+        "candidato": "Melba Jacome",
+        "value": 0.82
+    },
+    {
+        "parroquia": "ANDRADE MARIN/LOURDES",
+        "id": 5025,
+        "votos": 11,
+        "candidato": "Melba Jacome",
+        "value": 0.49
+    },
+    {
+        "parroquia": "SAN ROQUE",
+        "id": 3640,
+        "votos": 21,
+        "candidato": "Melba Jacome",
+        "value": 0.47
+    },
+    {
+        "parroquia": "SAN JOSE DE CHALTURA",
+        "id": 3465,
+        "votos": 5,
+        "candidato": "Melba Jacome",
+        "value": 0.3
+    },
+    {
+        "parroquia": "SAN FCO.DE NATABUELA",
+        "id": 3400,
+        "votos": 19,
+        "candidato": "Melba Jacome",
+        "value": 0.75
+    },
+    {
+        "parroquia": "IMBAYA",
+        "id": 1715,
+        "votos": 2,
+        "candidato": "Melba Jacome",
+        "value": 0.36
+    }
+]

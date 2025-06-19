@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "WILFRIDO LOOR MOREIRA",
+        "id": 1070,
+        "votos": 35,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.137
+    },
+    {
+        "parroquia": "SAN PEDRO DE SUMA",
+        "id": 1980,
+        "votos": 71,
+        "candidato": "Gutierrez Lucio",
+        "value": 6.0
+    },
+    {
+        "parroquia": "EL CARMEN",
+        "id": 5300,
+        "votos": 1816,
+        "candidato": "Gutierrez Lucio",
+        "value": 3.7
+    },
+    {
+        "parroquia": "4 DE DICIEMBRE",
+        "id": 6199,
+        "votos": 0,
+        "candidato": "Gutierrez Lucio",
+        "value": 0.0
+    }
+]

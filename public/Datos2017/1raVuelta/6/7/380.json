@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "LA IBERIA",
+    "id": 245,
+    "votos": 3,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.16
+  },
+  {
+    "parroquia": "BARBONES",
+    "id": 300,
+    "votos": 14,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.37
+  },
+  {
+    "parroquia": "RÍO BONITO",
+    "id": 2050,
+    "votos": 12,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.59
+  },
+  {
+    "parroquia": "TENDALES",
+    "id": 4000,
+    "votos": 3,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.16
+  },
+  {
+    "parroquia": "EL GUABO",
+    "id": 5340,
+    "votos": 68,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.3
+  }
+]

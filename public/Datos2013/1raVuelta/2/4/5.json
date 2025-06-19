@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "EL CARMELO/EL PUN/",
+        "id": 1125,
+        "votos": 869,
+        "candidato": "Correa Delgado Rafael",
+        "value": 53.81
+    },
+    {
+        "parroquia": "EL CHICAL",
+        "id": 1195,
+        "votos": 616,
+        "candidato": "Correa Delgado Rafael",
+        "value": 59.98
+    },
+    {
+        "parroquia": "SANTA MARTHA DE CUBA",
+        "id": 1765,
+        "votos": 748,
+        "candidato": "Correa Delgado Rafael",
+        "value": 58.029
+    },
+    {
+        "parroquia": "JULIO ANDRADE",
+        "id": 1885,
+        "votos": 2644,
+        "candidato": "Correa Delgado Rafael",
+        "value": 44.52
+    },
+    {
+        "parroquia": "MALDONADO",
+        "id": 2340,
+        "votos": 495,
+        "candidato": "Correa Delgado Rafael",
+        "value": 61.0
+    },
+    {
+        "parroquia": "PIOTER",
+        "id": 2900,
+        "votos": 260,
+        "candidato": "Correa Delgado Rafael",
+        "value": 49.7
+    },
+    {
+        "parroquia": "TOBAR DONOSO",
+        "id": 4040,
+        "votos": 152,
+        "candidato": "Correa Delgado Rafael",
+        "value": 81.7
+    },
+    {
+        "parroquia": "TUFIÑO",
+        "id": 4070,
+        "votos": 938,
+        "candidato": "Correa Delgado Rafael",
+        "value": 57.55
+    },
+    {
+        "parroquia": "URBINA",
+        "id": 4130,
+        "votos": 464,
+        "candidato": "Correa Delgado Rafael",
+        "value": 55.24
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 5415,
+        "votos": 8258,
+        "candidato": "Correa Delgado Rafael",
+        "value": 46.0
+    },
+    {
+        "parroquia": "TULCAN",
+        "id": 6165,
+        "votos": 9958,
+        "candidato": "Correa Delgado Rafael",
+        "value": 45.0
+    }
+]

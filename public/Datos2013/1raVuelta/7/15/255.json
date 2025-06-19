@@ -1,0 +1,44 @@
+[
+                {
+                    "parroquia": "GONZALO DIAZ DE PINEDA",
+                    "id": 1020,
+                    "votos": 0,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.0
+                },
+                {
+                    "parroquia": "LINARES",
+                    "id": 2180,
+                    "votos": 6,
+                    "candidato": "Zavala Nelson",
+                    "value": 3.6
+                },
+                {
+                    "parroquia": "OYACACHI",
+                    "id": 2640,
+                    "votos": 2,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.5555556
+                },
+                {
+                    "parroquia": "SANTA ROSA DE QUIJOS",
+                    "id": 3745,
+                    "votos": 2,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.2735978
+                },
+                {
+                    "parroquia": "SARDINAS",
+                    "id": 3790,
+                    "votos": 6,
+                    "candidato": "Zavala Nelson",
+                    "value": 2.08
+                },
+                {
+                    "parroquia": "EL CHACO",
+                    "id": 5510,
+                    "votos": 17,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.54
+                }
+            ]

@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CAP. AUGUSTO RIVADENEIRA",
+        "id": 510,
+        "votos": 228,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 56.16
+    },
+    {
+        "parroquia": "CONONACO",
+        "id": 630,
+        "votos": 211,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 74.56
+    },
+    {
+        "parroquia": "STA. MARÍA DE HUIRIRIMA",
+        "id": 3720,
+        "votos": 209,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 46.86
+    },
+    {
+        "parroquia": "YASUNÍ",
+        "id": 4295,
+        "votos": 60,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 25.86
+    },
+    {
+        "parroquia": "NUEVO ROCAFUERTE",
+        "id": 5700,
+        "votos": 106,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 16.85
+    },
+    {
+        "parroquia": "TIPUTINI",
+        "id": 7485,
+        "votos": 551,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 58.55
+    }
+]

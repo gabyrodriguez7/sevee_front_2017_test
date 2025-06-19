@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "GONZANAMA",
+        "id": 5400,
+        "votos": 10,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.45
+    },
+    {
+        "parroquia": "SACAPALCA",
+        "id": 3270,
+        "votos": 2,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.26
+    },
+    {
+        "parroquia": "PURUNUMA /EGUIGUREN",
+        "id": 3045,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.53
+    },
+    {
+        "parroquia": "NAMBACOLA",
+        "id": 2520,
+        "votos": 9,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.53
+    },
+    {
+        "parroquia": "CHANGAIMINA /LA LIBERTAD",
+        "id": 825,
+        "votos": 4,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.33
+    }
+]

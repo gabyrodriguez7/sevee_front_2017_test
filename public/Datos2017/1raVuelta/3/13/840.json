@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "SAN SEBASTIÁN",
+    "id": 1060,
+    "votos": 2276,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 71.82
+  },
+  {
+    "parroquia": "BARRAGANETE",
+    "id": 1065,
+    "votos": 1342,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 55.2
+  },
+  {
+    "parroquia": "PICHINCHA /GERMUD",
+    "id": 6550,
+    "votos": 9752,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 65.88
+  }
+]

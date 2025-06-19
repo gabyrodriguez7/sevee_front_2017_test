@@ -1,0 +1,86 @@
+[
+  {
+    "parroquia": "DAYUMA",
+    "id": 1235,
+    "votos": 92,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.07
+  },
+  {
+    "parroquia": "TARACOA",
+    "id": 1245,
+    "votos": 88,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 5.62
+  },
+  {
+    "parroquia": "EL DORADO",
+    "id": 1560,
+    "votos": 29,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.22
+  },
+  {
+    "parroquia": "INÉS ARANGO",
+    "id": 1565,
+    "votos": 25,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.39
+  },
+  {
+    "parroquia": "EL EDÉN",
+    "id": 1590,
+    "votos": 3,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.8
+  },
+  {
+    "parroquia": "GARCÍA MORENO",
+    "id": 1810,
+    "votos": 13,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.52
+  },
+  {
+    "parroquia": "LA BELLEZA",
+    "id": 1820,
+    "votos": 67,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.87
+  },
+  {
+    "parroquia": "SAN LUIS DE ARMENIA",
+    "id": 1935,
+    "votos": 53,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 4.54
+  },
+  {
+    "parroquia": "NUEVO PARAÍSO",
+    "id": 1940,
+    "votos": 26,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.77
+  },
+  {
+    "parroquia": "SAN JOSÉ DE GUAYUSA",
+    "id": 1945,
+    "votos": 15,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.4
+  },
+  {
+    "parroquia": "ALEJANDRO LABAKA",
+    "id": 1995,
+    "votos": 8,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.42
+  },
+  {
+    "parroquia": "PTO. FCO. DE ORELLANA",
+    "id": 5815,
+    "votos": 790,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.91
+  }
+]

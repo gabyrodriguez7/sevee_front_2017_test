@@ -1,0 +1,23 @@
+[
+                {
+                    "parroquia": "PAQUISHA",
+                    "id": 6885,
+                    "votos": 5,
+                    "candidato": "Melba Jacome",
+                    "value": 0.48
+                },
+                {
+                    "parroquia": "NUEVO QUITO",
+                    "id": 1120,
+                    "votos": 3,
+                    "candidato": "Melba Jacome",
+                    "value": 0.61
+                },
+                {
+                    "parroquia": "BELLAVISTA",
+                    "id": 455,
+                    "votos": 0,
+                    "candidato": "Melba Jacome",
+                    "value": 0.0
+                }
+            ]

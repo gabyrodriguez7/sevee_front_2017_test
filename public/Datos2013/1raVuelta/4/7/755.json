@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 1075,
+        "votos": 4,
+        "candidato": "Acosta Alberto",
+        "value": 1.1764706
+    },
+    {
+        "parroquia": "EL PARAISO",
+        "id": 1080,
+        "votos": 10,
+        "candidato": "Acosta Alberto",
+        "value": 2.3
+    },
+    {
+        "parroquia": "LA LIBERTAD",
+        "id": 1100,
+        "votos": 5,
+        "candidato": "Acosta Alberto",
+        "value": 0.95602
+    },
+    {
+        "parroquia": "LA VICTORIA/LAS LAJAS",
+        "id": 6335,
+        "votos": 40,
+        "candidato": "Acosta Alberto",
+        "value": 2.0
+    },
+    {
+        "parroquia": "PLATANILLOS",
+        "id": 6950,
+        "votos": 4,
+        "candidato": "Acosta Alberto",
+        "value": 1.13
+    }
+]

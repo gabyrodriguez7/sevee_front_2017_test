@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "TULCAN",
+        "id": 6165,
+        "votos": 1256,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 6.5
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 5415,
+        "votos": 926,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 5.91
+    },
+    {
+        "parroquia": "URBINA",
+        "id": 4130,
+        "votos": 20,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.73
+    },
+    {
+        "parroquia": "TUFIÑO",
+        "id": 4070,
+        "votos": 50,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.73
+    },
+    {
+        "parroquia": "TOBAR DONOSO",
+        "id": 4040,
+        "votos": 3,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.75
+    },
+    {
+        "parroquia": "PIOTER",
+        "id": 2900,
+        "votos": 19,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 4.32
+    },
+    {
+        "parroquia": "MALDONADO",
+        "id": 2340,
+        "votos": 13,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.1
+    },
+    {
+        "parroquia": "JULIO ANDRADE",
+        "id": 1885,
+        "votos": 181,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.59
+    },
+    {
+        "parroquia": "SANTA MARTHA DE CUBA",
+        "id": 1765,
+        "votos": 16,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.52
+    },
+    {
+        "parroquia": "EL CHICAL",
+        "id": 1195,
+        "votos": 20,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.53
+    },
+    {
+        "parroquia": "EL CARMELO/EL PUN/",
+        "id": 1125,
+        "votos": 27,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.1
+    }
+]

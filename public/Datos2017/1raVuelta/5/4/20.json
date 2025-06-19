@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "JIJÓN Y CAAMAÑO",
+    "id": 1835,
+    "votos": 19,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.77
+  },
+  {
+    "parroquia": "JUAN MONTALVO",
+    "id": 1875,
+    "votos": 2,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.23
+  },
+  {
+    "parroquia": "LA CONCEPCIÓN",
+    "id": 2010,
+    "votos": 9,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.47
+  },
+  {
+    "parroquia": "MIRA",
+    "id": 5685,
+    "votos": 20,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.42
+  }
+]

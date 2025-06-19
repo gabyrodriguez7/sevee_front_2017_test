@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "SAN RAFAEL",
+        "id": 1055,
+        "votos": 7,
+        "candidato": "Wray Norman",
+        "value": 0.74
+    },
+    {
+        "parroquia": "GARCIA MORENO",
+        "id": 1315,
+        "votos": 13,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "LOS ANDES",
+        "id": 2205,
+        "votos": 6,
+        "candidato": "Wray Norman",
+        "value": 0.0
+    },
+    {
+        "parroquia": "MONTEOLIVO",
+        "id": 2455,
+        "votos": 21,
+        "candidato": "Wray Norman",
+        "value": 2.0
+    },
+    {
+        "parroquia": "SAN VICENTE DE PUSIR",
+        "id": 3680,
+        "votos": 10,
+        "candidato": "Wray Norman",
+        "value": 0.8
+    },
+    {
+        "parroquia": "BOLIVAR",
+        "id": 6520,
+        "votos": 55,
+        "candidato": "Wray Norman",
+        "value": 2.0
+    }
+]

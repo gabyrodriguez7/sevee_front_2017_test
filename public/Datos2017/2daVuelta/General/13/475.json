@@ -1,0 +1,46 @@
+[
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 840,
+        "votos": 14634,
+        "votos1": 11155,
+        "votos2": 3479,
+        "fill": "#1eff00",
+        "porcentaje1": "76,23",
+        "porcentaje2": "23,77"
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 3445,
+        "votos": 7830,
+        "votos1": 5341,
+        "votos2": 2489,
+        "fill": "#1eff00",
+        "porcentaje1": "68,21",
+        "porcentaje2": "31,79"
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 5095,
+        "votos": 13728,
+        "votos1": 8829,
+        "votos2": 4899,
+        "fill": "#1eff00",
+        "porcentaje1": "64,31",
+        "porcentaje2": "35,69"
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 5580,
+        "votos": 3921,
+        "votos1": 2645,
+        "votos2": 1276,
+        "fill": "#1eff00",
+        "porcentaje1": "67,46",
+        "porcentaje2": "32,54"
+    }
+]

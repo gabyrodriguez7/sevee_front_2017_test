@@ -1,0 +1,114 @@
+[
+    {
+        "parroquia": "YARUQUIES",
+        "id": 6290,
+        "votos": 212,
+        "candidato": "Alvaro Noboa",
+        "value": 6.33
+    },
+    {
+        "parroquia": "VELOZ",
+        "id": 6230,
+        "votos": 970,
+        "candidato": "Alvaro Noboa",
+        "value": 8.22
+    },
+    {
+        "parroquia": "VELASCO",
+        "id": 6220,
+        "votos": 1858,
+        "candidato": "Alvaro Noboa",
+        "value": 8.99
+    },
+    {
+        "parroquia": "MALDONADO",
+        "id": 5630,
+        "votos": 1598,
+        "candidato": "Alvaro Noboa",
+        "value": 8.35
+    },
+    {
+        "parroquia": "LIZARZABURU",
+        "id": 5590,
+        "votos": 2575,
+        "candidato": "Alvaro Noboa",
+        "value": 9.16
+    },
+    {
+        "parroquia": "SAN LUIS",
+        "id": 3560,
+        "votos": 196,
+        "candidato": "Alvaro Noboa",
+        "value": 6.06
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3515,
+        "votos": 134,
+        "candidato": "Alvaro Noboa",
+        "value": 3.2
+    },
+    {
+        "parroquia": "QUIMIAG",
+        "id": 3095,
+        "votos": 115,
+        "candidato": "Alvaro Noboa",
+        "value": 3.93
+    },
+    {
+        "parroquia": "PUNIN",
+        "id": 3040,
+        "votos": 141,
+        "candidato": "Alvaro Noboa",
+        "value": 4.35
+    },
+    {
+        "parroquia": "PUNGALA",
+        "id": 3035,
+        "votos": 73,
+        "candidato": "Alvaro Noboa",
+        "value": 2.71
+    },
+    {
+        "parroquia": "LICTO",
+        "id": 2165,
+        "votos": 166,
+        "candidato": "Alvaro Noboa",
+        "value": 3.89
+    },
+    {
+        "parroquia": "LICAN",
+        "id": 2160,
+        "votos": 146,
+        "candidato": "Alvaro Noboa",
+        "value": 5.75
+    },
+    {
+        "parroquia": "FLORES",
+        "id": 1280,
+        "votos": 92,
+        "candidato": "Alvaro Noboa",
+        "value": 3.46
+    },
+    {
+        "parroquia": "CUBIJIES",
+        "id": 705,
+        "votos": 41,
+        "candidato": "Alvaro Noboa",
+        "value": 3.34
+    },
+    {
+        "parroquia": "CALPI",
+        "id": 445,
+        "votos": 135,
+        "candidato": "Alvaro Noboa",
+        "value": 3.81
+    },
+    {
+        "parroquia": "CACHA",
+        "id": 420,
+        "votos": 121,
+        "candidato": "Alvaro Noboa",
+        "value": 7.5
+    }
+]

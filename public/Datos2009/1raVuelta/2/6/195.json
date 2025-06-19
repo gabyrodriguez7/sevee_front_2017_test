@@ -1,0 +1,114 @@
+[
+    {
+        "parroquia": "YARUQUIES",
+        "id": 6290,
+        "votos": 16,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.47
+    },
+    {
+        "parroquia": "VELOZ",
+        "id": 6230,
+        "votos": 56,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.47
+    },
+    {
+        "parroquia": "VELASCO",
+        "id": 6220,
+        "votos": 123,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.59
+    },
+    {
+        "parroquia": "MALDONADO",
+        "id": 5630,
+        "votos": 158,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.82
+    },
+    {
+        "parroquia": "LIZARZABURU",
+        "id": 5590,
+        "votos": 167,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.59
+    },
+    {
+        "parroquia": "SAN LUIS",
+        "id": 3560,
+        "votos": 10,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.3
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3515,
+        "votos": 26,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.62
+    },
+    {
+        "parroquia": "QUIMIAG",
+        "id": 3095,
+        "votos": 8,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.27
+    },
+    {
+        "parroquia": "PUNIN",
+        "id": 3040,
+        "votos": 38,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.17
+    },
+    {
+        "parroquia": "PUNGALA",
+        "id": 3035,
+        "votos": 41,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.52
+    },
+    {
+        "parroquia": "LICTO",
+        "id": 2165,
+        "votos": 28,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.65
+    },
+    {
+        "parroquia": "LICAN",
+        "id": 2160,
+        "votos": 8,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.31
+    },
+    {
+        "parroquia": "FLORES",
+        "id": 1280,
+        "votos": 26,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.97
+    },
+    {
+        "parroquia": "CUBIJIES",
+        "id": 705,
+        "votos": 4,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.32
+    },
+    {
+        "parroquia": "CALPI",
+        "id": 445,
+        "votos": 26,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.73
+    },
+    {
+        "parroquia": "CACHA",
+        "id": 420,
+        "votos": 28,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.73
+    }
+]

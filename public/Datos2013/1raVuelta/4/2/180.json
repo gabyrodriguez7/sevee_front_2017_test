@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN JOSE DE TAMBO",
+        "id": 3500,
+        "votos": 100,
+        "candidato": "Acosta Alberto",
+        "value": 3.2
+    },
+    {
+        "parroquia": "CHILLANES",
+        "id": 5245,
+        "votos": 164,
+        "candidato": "Acosta Alberto",
+        "value": 2.3
+    }
+]

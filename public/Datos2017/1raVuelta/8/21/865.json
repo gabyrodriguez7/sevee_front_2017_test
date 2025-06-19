@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "EL REVENTADOR",
+    "id": 230,
+    "votos": 17,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.08
+  },
+  {
+    "parroquia": "GONZALO PIZARRO",
+    "id": 1090,
+    "votos": 27,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.42
+  },
+  {
+    "parroquia": "PUERTO LIBRE",
+    "id": 3615,
+    "votos": 16,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.41
+  },
+  {
+    "parroquia": "LUMBAQUÍ",
+    "id": 6300,
+    "votos": 46,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.8
+  }
+]

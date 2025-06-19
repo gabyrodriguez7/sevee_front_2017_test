@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "EL PLAYÓN DE SN. FRANCISCO",
+    "id": 1170,
+    "votos": 6,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.51
+  },
+  {
+    "parroquia": "LA SOFÍA",
+    "id": 2095,
+    "votos": 0,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0
+  },
+  {
+    "parroquia": "ROSA FLORIDA",
+    "id": 3220,
+    "votos": 3,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.15
+  },
+  {
+    "parroquia": "SANTA BÁRBARA",
+    "id": 3690,
+    "votos": 2,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.38
+  },
+  {
+    "parroquia": "LA BONITA",
+    "id": 5525,
+    "votos": 0,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0
+  }
+]

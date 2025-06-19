@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "SAN PEDRO DE LOS COFANES",
+    "id": 600,
+    "votos": 35,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.07
+  },
+  {
+    "parroquia": "SIETE DE JULIO",
+    "id": 780,
+    "votos": 59,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.04
+  },
+  {
+    "parroquia": "LIMONCOCHA",
+    "id": 2175,
+    "votos": 22,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.18
+  },
+  {
+    "parroquia": "PANACOCHA",
+    "id": 2765,
+    "votos": 7,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.04
+  },
+  {
+    "parroquia": "SAN ROQUE",
+    "id": 3645,
+    "votos": 41,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.49
+  },
+  {
+    "parroquia": "SHUSHUFINDI CENTRAL",
+    "id": 6140,
+    "votos": 461,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.73
+  }
+]

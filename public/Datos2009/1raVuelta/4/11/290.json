@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "SAN JOSE",
+        "id": 6825,
+        "votos": 166,
+        "candidato": "Rafael Correa Delgado",
+        "value": 69.74
+    },
+    {
+        "parroquia": "CATAMAYO",
+        "id": 5270,
+        "votos": 6557,
+        "candidato": "Rafael Correa Delgado",
+        "value": 59.69
+    },
+    {
+        "parroquia": "ZAMBI",
+        "id": 4455,
+        "votos": 161,
+        "candidato": "Rafael Correa Delgado",
+        "value": 56.09
+    },
+    {
+        "parroquia": "SAN PEDRO DE LA BENDITA",
+        "id": 3610,
+        "votos": 514,
+        "candidato": "Rafael Correa Delgado",
+        "value": 60.11
+    },
+    {
+        "parroquia": "GUAYQUICHUMA",
+        "id": 1480,
+        "votos": 159,
+        "candidato": "Rafael Correa Delgado",
+        "value": 75.0
+    },
+    {
+        "parroquia": "EL TAMBO",
+        "id": 1200,
+        "votos": 937,
+        "candidato": "Rafael Correa Delgado",
+        "value": 70.61
+    }
+]

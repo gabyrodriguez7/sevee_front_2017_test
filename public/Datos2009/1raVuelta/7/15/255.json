@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "EL CHACO",
+    "id": 5510,
+    "votos": 121,
+    "candidato": "Alvaro Noboa",
+    "value": 4.96
+  },
+  {
+    "parroquia": "SARDINAS",
+    "id": 3790,
+    "votos": 8,
+    "candidato": "Alvaro Noboa",
+    "value": 3.05
+  },
+  {
+    "parroquia": "SANTA ROSA DE QUIJOS",
+    "id": 3745,
+    "votos": 9,
+    "candidato": "Alvaro Noboa",
+    "value": 1.63
+  },
+  {
+    "parroquia": "OYACACHI",
+    "id": 2640,
+    "votos": 6,
+    "candidato": "Alvaro Noboa",
+    "value": 1.89
+  },
+  {
+    "parroquia": "LINARES",
+    "id": 2180,
+    "votos": 1,
+    "candidato": "Alvaro Noboa",
+    "value": 0.72
+  },
+  {
+    "parroquia": "GONZALO DIAZ DE PINEDA",
+    "id": 1020,
+    "votos": 6,
+    "candidato": "Alvaro Noboa",
+    "value": 2.22
+  }
+]

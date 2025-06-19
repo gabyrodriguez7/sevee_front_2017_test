@@ -1,0 +1,20 @@
+[
+    {
+        "id": 800,
+        "candidato": "Wray Norman",
+        "votos": 22,
+        "value": 0.5
+    },
+    {
+        "id": 805,
+        "candidato": "Wray Norman",
+        "votos": 57,
+        "value": 0.8
+    },
+    {
+        "id": 810,
+        "candidato": "Wray Norman",
+        "votos": 6,
+        "value": 0.461
+    }
+]

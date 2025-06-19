@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "ARENILLAS",
+        "id": 5040,
+        "votos": 354,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.24
+    },
+    {
+        "parroquia": "PALMALES",
+        "id": 2715,
+        "votos": 27,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.19
+    },
+    {
+        "parroquia": "CARCABON",
+        "id": 1695,
+        "votos": 11,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 4.07
+    },
+    {
+        "parroquia": "CHACRAS",
+        "id": 805,
+        "votos": 13,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.43
+    }
+]

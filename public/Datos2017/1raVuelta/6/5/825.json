@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "GUASAGANDA",
+    "id": 1500,
+    "votos": 15,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.84
+  },
+  {
+    "parroquia": "PUCAYACO",
+    "id": 2965,
+    "votos": 14,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.84
+  },
+  {
+    "parroquia": "LA MANÁ",
+    "id": 6535,
+    "votos": 124,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.61
+  },
+  {
+    "parroquia": "EL CARMEN",
+    "id": 6880,
+    "votos": 10,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.52
+  },
+  {
+    "parroquia": "EL TRIUNFO",
+    "id": 6895,
+    "votos": 11,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.52
+  }
+]

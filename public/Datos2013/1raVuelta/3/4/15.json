@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "EL GOALTAL / LAS JUNTAS",
+        "id": 1150,
+        "votos": 1,
+        "candidato": "Wray Norman",
+        "value": 0.17
+    },
+    {
+        "parroquia": "LA LIBERTAD",
+        "id": 2040,
+        "votos": 45,
+        "candidato": "Wray Norman",
+        "value": 1.71
+    },
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 3435,
+        "votos": 25,
+        "candidato": "Wray Norman",
+        "value": 1.11
+    },
+    {
+        "parroquia": "EL ANGEL",
+        "id": 5295,
+        "votos": 56,
+        "candidato": "Wray Norman",
+        "value": 1.69
+    },
+    {
+        "parroquia": "27 DE SEPTIEMBRE",
+        "id": 6250,
+        "votos": 14,
+        "candidato": "Wray Norman",
+        "value": 1.41
+    }
+]

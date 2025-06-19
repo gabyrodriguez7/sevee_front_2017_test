@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "ABDON CALDERON / LA UNION",
+        "id": 15,
+        "votos": 53,
+        "candidato": "Gutierrez Lucio",
+        "value": 3.0
+    },
+    {
+        "parroquia": "SHAGLLI",
+        "id": 3835,
+        "votos": 53,
+        "candidato": "Gutierrez Lucio",
+        "value": 5.0
+    },
+    {
+        "parroquia": "SAN SALVADOR DE CA�ARIBAMBA",
+        "id": 4610,
+        "votos": 16,
+        "candidato": "Gutierrez Lucio",
+        "value": 5.0
+    },
+    {
+        "parroquia": "SANTA ISABEL",
+        "id": 6045,
+        "votos": 413,
+        "candidato": "Gutierrez Lucio",
+        "value": 5.0
+    }
+]

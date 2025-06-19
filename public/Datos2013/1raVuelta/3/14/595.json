@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "AMAZONAS",
+        "id": 90,
+        "votos": 1,
+        "candidato": "Wray Norman",
+        "value": 0.7
+    },
+    {
+        "parroquia": "BERMEJOS",
+        "id": 340,
+        "votos": 3,
+        "candidato": "Wray Norman",
+        "value": 2.0
+    },
+    {
+        "parroquia": "BOMBOIZA",
+        "id": 350,
+        "votos": 3,
+        "candidato": "Wray Norman",
+        "value": 0.0
+    },
+    {
+        "parroquia": "CHIGUINDA",
+        "id": 880,
+        "votos": 2,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "EL IDEAL",
+        "id": 1910,
+        "votos": 0,
+        "candidato": "Wray Norman",
+        "value": 0.0
+    },
+    {
+        "parroquia": "NUEVA TARQUI",
+        "id": 2565,
+        "votos": 2,
+        "candidato": "Wray Norman",
+        "value": 0.4
+    },
+    {
+        "parroquia": "ROSARIO",
+        "id": 3225,
+        "votos": 2,
+        "candidato": "Wray Norman",
+        "value": 0.59
+    },
+    {
+        "parroquia": "SAN MIGUEL DE CUYES",
+        "id": 3580,
+        "votos": 1,
+        "candidato": "Wray Norman",
+        "value": 0.9
+    },
+    {
+        "parroquia": "GUALAQUIZA",
+        "id": 5425,
+        "votos": 43,
+        "candidato": "Wray Norman",
+        "value": 0.8
+    },
+    {
+        "parroquia": "MERCEDES MOLINA",
+        "id": 5655,
+        "votos": 1,
+        "candidato": "Wray Norman",
+        "value": 0.4
+    }
+]

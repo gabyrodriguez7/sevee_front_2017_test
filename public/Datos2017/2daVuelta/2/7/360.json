@@ -1,0 +1,72 @@
+[
+  {
+    "parroquia": "ABANIN",
+    "id": 5,
+    "votos": 649,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 62.52
+  },
+  {
+    "parroquia": "GUANAZAN",
+    "id": 1420,
+    "votos": 1254,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 62.33
+  },
+  {
+    "parroquia": "GUIZHAGUIÑA",
+    "id": 1425,
+    "votos": 315,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 34.69
+  },
+  {
+    "parroquia": "HUERTAS",
+    "id": 1655,
+    "votos": 699,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 48.54
+  },
+  {
+    "parroquia": "SINSAO",
+    "id": 1700,
+    "votos": 225,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 31.56
+  },
+  {
+    "parroquia": "SALVIAS",
+    "id": 1750,
+    "votos": 125,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 25.83
+  },
+  {
+    "parroquia": "MALVAS",
+    "id": 2350,
+    "votos": 268,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 43.23
+  },
+  {
+    "parroquia": "ARCAPAMBA",
+    "id": 4445,
+    "votos": 263,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 35.59
+  },
+  {
+    "parroquia": "MULUNCAY GRANDE",
+    "id": 4450,
+    "votos": 241,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 43.35
+  },
+  {
+    "parroquia": "ZARUMA",
+    "id": 6310,
+    "votos": 3137,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 35.32
+  }
+]

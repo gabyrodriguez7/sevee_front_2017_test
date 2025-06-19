@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "EL CORAZON",
+        "id": 5305,
+        "votos": 25,
+        "candidato": "Melba Jacome",
+        "value": 0.76
+    },
+    {
+        "parroquia": "RAMON CAMPAÑA",
+        "id": 3155,
+        "votos": 4,
+        "candidato": "Melba Jacome",
+        "value": 0.8
+    },
+    {
+        "parroquia": "PINLLOPATA",
+        "id": 2890,
+        "votos": 2,
+        "candidato": "Melba Jacome",
+        "value": 0.54
+    },
+    {
+        "parroquia": "MORASPUNGO",
+        "id": 2460,
+        "votos": 13,
+        "candidato": "Melba Jacome",
+        "value": 0.29
+    }
+]

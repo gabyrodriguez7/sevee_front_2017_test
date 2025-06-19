@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "YANZATZA",
+    "id": 6295,
+    "votos": 2970,
+    "candidato": "Lucio Gutierrez",
+    "value": 49.12
+  },
+  {
+    "parroquia": "LOS ENCUENTROS",
+    "id": 2240,
+    "votos": 478,
+    "candidato": "Lucio Gutierrez",
+    "value": 41.21
+  },
+  {
+    "parroquia": "CHICANA",
+    "id": 985,
+    "votos": 346,
+    "candidato": "Lucio Gutierrez",
+    "value": 43.09
+  }
+]

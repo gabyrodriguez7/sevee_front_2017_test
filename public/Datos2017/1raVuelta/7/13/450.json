@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "SANTA MARIANITA",
+    "id": 1800,
+    "votos": 36,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.23
+  },
+  {
+    "parroquia": "SAN LORENZO",
+    "id": 3550,
+    "votos": 78,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 4.05
+  },
+  {
+    "parroquia": "LOS ESTEROS",
+    "id": 5570,
+    "votos": 1848,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 9.33
+  },
+  {
+    "parroquia": "MANTA",
+    "id": 5635,
+    "votos": 4842,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 9
+  },
+  {
+    "parroquia": "SAN MATEO",
+    "id": 6135,
+    "votos": 130,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 5.6
+  },
+  {
+    "parroquia": "TARQUI",
+    "id": 6155,
+    "votos": 4438,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 8.43
+  },
+  {
+    "parroquia": "ELOY ALFARO",
+    "id": 6745,
+    "votos": 1688,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 8.21
+  }
+]

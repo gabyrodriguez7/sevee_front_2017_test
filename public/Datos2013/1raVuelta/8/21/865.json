@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "EL REVENTADOR",
+    "id": 230,
+    "votos": 12,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 1.6
+  },
+  {
+    "parroquia": "GONZALO PIZARRO",
+    "id": 1090,
+    "votos": 30,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 1.951
+  },
+  {
+    "parroquia": "PUERTO LIBRE",
+    "id": 3615,
+    "votos": 11,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 2.095
+  },
+  {
+    "parroquia": "LUMBAQUI",
+    "id": 6300,
+    "votos": 78,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 3.171
+  }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 330,
+        "votos": 133,
+        "candidato": "Wray Norman",
+        "value": 4.965
+    },
+    {
+        "parroquia": "ARQ.SIXTO DURAN BALLEN",
+        "id": 1570,
+        "votos": 9,
+        "candidato": "Wray Norman",
+        "value": 0.810081
+    },
+    {
+        "parroquia": "NOBOA",
+        "id": 2555,
+        "votos": 44,
+        "candidato": "Wray Norman",
+        "value": 1.17
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 6105,
+        "votos": 94,
+        "candidato": "Wray Norman",
+        "value": 0.93
+    }
+]

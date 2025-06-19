@@ -1,0 +1,79 @@
+[
+                {
+                    "parroquia": "TULCAN",
+                    "id": 6165,
+                    "votos": 400,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 2.07
+                },
+                {
+                    "parroquia": "GONZALEZ SUAREZ",
+                    "id": 5415,
+                    "votos": 303,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 1.93
+                },
+                {
+                    "parroquia": "URBINA",
+                    "id": 4130,
+                    "votos": 3,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 0.41
+                },
+                {
+                    "parroquia": "TUFIÑO",
+                    "id": 4070,
+                    "votos": 15,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 1.12
+                },
+                {
+                    "parroquia": "TOBAR DONOSO",
+                    "id": 4040,
+                    "votos": 2,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 2.5
+                },
+                {
+                    "parroquia": "PIOTER",
+                    "id": 2900,
+                    "votos": 3,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 0.68
+                },
+                {
+                    "parroquia": "MALDONADO",
+                    "id": 2340,
+                    "votos": 12,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 1.94
+                },
+                {
+                    "parroquia": "JULIO ANDRADE",
+                    "id": 1885,
+                    "votos": 57,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 1.13
+                },
+                {
+                    "parroquia": "SANTA MARTHA DE CUBA",
+                    "id": 1765,
+                    "votos": 14,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 1.33
+                },
+                {
+                    "parroquia": "EL CHICAL",
+                    "id": 1195,
+                    "votos": 19,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 2.41
+                },
+                {
+                    "parroquia": "EL CARMELO/EL PUN/",
+                    "id": 1125,
+                    "votos": 11,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 0.85
+                }
+            ]

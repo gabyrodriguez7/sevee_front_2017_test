@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "LOGROÑO",
+        "id": 6735,
+        "votos": 372,
+        "candidato": "Rafael Correa Delgado",
+        "value": 29.18
+    },
+    {
+        "parroquia": "YAUPI",
+        "id": 4300,
+        "votos": 36,
+        "candidato": "Rafael Correa Delgado",
+        "value": 7.91
+    },
+    {
+        "parroquia": "SHIMPIS",
+        "id": 525,
+        "votos": 43,
+        "candidato": "Rafael Correa Delgado",
+        "value": 7.65
+    }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "JIJÓN Y CAAMAÑO",
+    "id": 1835,
+    "votos": 638,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 59.57
+  },
+  {
+    "parroquia": "JUAN MONTALVO",
+    "id": 1875,
+    "votos": 590,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 68.6
+  },
+  {
+    "parroquia": "LA CONCEPCIÓN",
+    "id": 2010,
+    "votos": 1478,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 76.78
+  },
+  {
+    "parroquia": "MIRA",
+    "id": 5685,
+    "votos": 2439,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 51.81
+  }
+]

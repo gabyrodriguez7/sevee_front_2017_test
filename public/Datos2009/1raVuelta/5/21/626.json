@@ -1,0 +1,23 @@
+[
+                {
+                    "parroquia": "TARAPOA",
+                    "id": 6765,
+                    "votos": 6,
+                    "candidato": "Melba Jacome",
+                    "value": 0.23
+                },
+                {
+                    "parroquia": "AGUAS NEGRAS",
+                    "id": 1555,
+                    "votos": 2,
+                    "candidato": "Melba Jacome",
+                    "value": 0.37
+                },
+                {
+                    "parroquia": "CUYABENO",
+                    "id": 760,
+                    "votos": 0,
+                    "candidato": "Melba Jacome",
+                    "value": 0.0
+                }
+            ]

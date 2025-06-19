@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CHONTADURO",
+        "id": 930,
+        "votos": 753,
+        "candidato": "Correa Delgado Rafael",
+        "value": 67.4
+    },
+    {
+        "parroquia": "CHUMUNDE",
+        "id": 965,
+        "votos": 553,
+        "candidato": "Correa Delgado Rafael",
+        "value": 61.926
+    },
+    {
+        "parroquia": "LAGARTO",
+        "id": 2035,
+        "votos": 1377,
+        "candidato": "Correa Delgado Rafael",
+        "value": 69.057
+    },
+    {
+        "parroquia": "MONTALVO / HORQUETA",
+        "id": 2445,
+        "votos": 1141,
+        "candidato": "Correa Delgado Rafael",
+        "value": 63.46
+    },
+    {
+        "parroquia": "ROCAFUERTE",
+        "id": 3215,
+        "votos": 1790,
+        "candidato": "Correa Delgado Rafael",
+        "value": 70.22
+    },
+    {
+        "parroquia": "RIO VERDE",
+        "id": 6720,
+        "votos": 1891,
+        "candidato": "Correa Delgado Rafael",
+        "value": 64.1451832
+    }
+]

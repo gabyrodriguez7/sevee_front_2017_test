@@ -1,0 +1,44 @@
+[
+    {
+        "id": 100,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "votos": 1508,
+        "value": 1.67
+    },
+    {
+        "id": 105,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "votos": 306,
+        "value": 1.04
+    },
+    {
+        "id": 110,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "votos": 327,
+        "value": 1.07
+    },
+    {
+        "id": 115,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "votos": 98,
+        "value": 0.95
+    },
+    {
+        "id": 120,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "votos": 73,
+        "value": 0.85
+    },
+    {
+        "id": 825,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "votos": 147,
+        "value": 0.75
+    },
+    {
+        "id": 930,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "votos": 73,
+        "value": 0.8
+    }
+]

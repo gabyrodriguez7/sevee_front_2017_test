@@ -1,0 +1,72 @@
+[
+  {
+    "parroquia": "AMAZONAS",
+    "id": 90,
+    "votos": 3,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.83
+  },
+  {
+    "parroquia": "BERMEJOS",
+    "id": 340,
+    "votos": 5,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.62
+  },
+  {
+    "parroquia": "BOMBOIZA",
+    "id": 350,
+    "votos": 2,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.1
+  },
+  {
+    "parroquia": "CHIGUINDA",
+    "id": 880,
+    "votos": 2,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.56
+  },
+  {
+    "parroquia": "EL IDEAL",
+    "id": 1910,
+    "votos": 3,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.66
+  },
+  {
+    "parroquia": "NUEVA TARQUI",
+    "id": 2565,
+    "votos": 13,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.92
+  },
+  {
+    "parroquia": "ROSARIO",
+    "id": 3225,
+    "votos": 7,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.91
+  },
+  {
+    "parroquia": "SAN MIGUEL DE CUYES",
+    "id": 3580,
+    "votos": 2,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.59
+  },
+  {
+    "parroquia": "GUALAQUIZA",
+    "id": 5425,
+    "votos": 89,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.53
+  },
+  {
+    "parroquia": "MERCEDES MOLINA",
+    "id": 5655,
+    "votos": 5,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.29
+  }
+]

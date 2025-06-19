@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "BUENAVISTA",
+    "id": 390,
+    "votos": 7,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.18
+  },
+  {
+    "parroquia": "CAÑAQUEMADA",
+    "id": 775,
+    "votos": 3,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.54
+  },
+  {
+    "parroquia": "PROGRESO",
+    "id": 1225,
+    "votos": 11,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.59
+  },
+  {
+    "parroquia": "LA PEAÑA",
+    "id": 2075,
+    "votos": 9,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.4
+  },
+  {
+    "parroquia": "UZHCURRUMI",
+    "id": 4160,
+    "votos": 6,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.67
+  },
+  {
+    "parroquia": "CASACAY",
+    "id": 4495,
+    "votos": 5,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.42
+  },
+  {
+    "parroquia": "OCHOA LEÓN/MATRIZ",
+    "id": 5770,
+    "votos": 142,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.39
+  },
+  {
+    "parroquia": "LOMA DE FRANCO",
+    "id": 6365,
+    "votos": 4,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.48
+  },
+  {
+    "parroquia": "BOLIVAR",
+    "id": 6370,
+    "votos": 6,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.04
+  },
+  {
+    "parroquia": "TRES CERRITOS",
+    "id": 6375,
+    "votos": 0,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0
+  },
+  {
+    "parroquia": "PASAJE",
+    "id": 6940,
+    "votos": 2,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.21
+  }
+]

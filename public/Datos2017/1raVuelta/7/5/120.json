@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "MORASPUNGO",
+    "id": 2460,
+    "votos": 128,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.93
+  },
+  {
+    "parroquia": "PINLLOPATA",
+    "id": 2890,
+    "votos": 5,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.98
+  },
+  {
+    "parroquia": "RAMÓN CAMPAÑA",
+    "id": 3155,
+    "votos": 15,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.88
+  },
+  {
+    "parroquia": "EL CORAZÓN",
+    "id": 5305,
+    "votos": 57,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.33
+  }
+]

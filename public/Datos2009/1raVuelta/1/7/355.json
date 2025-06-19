@@ -1,0 +1,86 @@
+[
+    {
+        "parroquia": "NUEVO SANTA ROSA",
+        "id": 6990,
+        "votos": 11,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.73
+    },
+    {
+        "parroquia": "JUMON",
+        "id": 6985,
+        "votos": 8,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.63
+    },
+    {
+        "parroquia": "BALNEARIO JAMBELI",
+        "id": 6900,
+        "votos": 13,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 16.25
+    },
+    {
+        "parroquia": "PUERTO JELI",
+        "id": 6670,
+        "votos": 10,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.7
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 6060,
+        "votos": 1076,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.85
+    },
+    {
+        "parroquia": "TORATA",
+        "id": 4525,
+        "votos": 22,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.8
+    },
+    {
+        "parroquia": "VICTORIA",
+        "id": 4215,
+        "votos": 19,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.59
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3330,
+        "votos": 10,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.71
+    },
+    {
+        "parroquia": "LA AVANZADA",
+        "id": 2005,
+        "votos": 34,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.97
+    },
+    {
+        "parroquia": "JAMBELI",
+        "id": 1815,
+        "votos": 6,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.44
+    },
+    {
+        "parroquia": "BELLAMARIA",
+        "id": 1665,
+        "votos": 13,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.68
+    },
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 325,
+        "votos": 63,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 4.81
+    }
+]

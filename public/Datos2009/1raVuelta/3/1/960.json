@@ -1,0 +1,16 @@
+[
+                {
+                    "parroquia": "EL PAN",
+                    "id": 6485,
+                    "votos": 3,
+                    "candidato": "Carlos Gonzalez Albornoz",
+                    "value": 0.29
+                },
+                {
+                    "parroquia": "SAN VICENTE",
+                    "id": 1650,
+                    "votos": 2,
+                    "candidato": "Carlos Gonzalez Albornoz",
+                    "value": 0.3
+                }
+            ]

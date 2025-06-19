@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "LA VICTORIA/LAS LAJAS",
+        "id": 6335,
+        "votos": 187,
+        "candidato": "Alvaro Noboa",
+        "value": 9.11
+    },
+    {
+        "parroquia": "LA LIBERTAD",
+        "id": 1100,
+        "votos": 10,
+        "candidato": "Alvaro Noboa",
+        "value": 2.41
+    },
+    {
+        "parroquia": "EL PARAISO",
+        "id": 1080,
+        "votos": 10,
+        "candidato": "Alvaro Noboa",
+        "value": 3.64
+    },
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 1075,
+        "votos": 19,
+        "candidato": "Alvaro Noboa",
+        "value": 7.01
+    }
+]

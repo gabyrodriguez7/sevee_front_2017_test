@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "LA RAMA",
+    "id": 2085,
+    "votos": 221,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 42.91
+  },
+  {
+    "parroquia": "LA VICTORIA",
+    "id": 2145,
+    "votos": 172,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 26.14
+  },
+  {
+    "parroquia": "SABIANGO",
+    "id": 3265,
+    "votos": 141,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 31.76
+  },
+  {
+    "parroquia": "GRAL.ELOY ALFARO",
+    "id": 5385,
+    "votos": 260,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 28.29
+  },
+  {
+    "parroquia": "MACARÁ",
+    "id": 5680,
+    "votos": 2533,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 28.91
+  }
+]

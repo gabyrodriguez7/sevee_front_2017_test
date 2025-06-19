@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "YANZATZA",
+        "id": 6295,
+        "votos": 49,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.81
+    },
+    {
+        "parroquia": "LOS ENCUENTROS",
+        "id": 2240,
+        "votos": 12,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.03
+    },
+    {
+        "parroquia": "CHICANA",
+        "id": 985,
+        "votos": 17,
+        "candidato": "Diego Delgado Jara",
+        "value": 2.12
+    }
+]

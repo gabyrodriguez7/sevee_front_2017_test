@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "COLAIZACA",
+    "id": 590,
+    "votos": 13,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 1.29
+  },
+  {
+    "parroquia": "EL LUCERO",
+    "id": 1230,
+    "votos": 5,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.37
+  },
+  {
+    "parroquia": "SANGUILLIN",
+    "id": 1550,
+    "votos": 3,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.7
+  },
+  {
+    "parroquia": "UTUANA",
+    "id": 4150,
+    "votos": 5,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 1.14
+  },
+  {
+    "parroquia": "CARIAMANGA",
+    "id": 5175,
+    "votos": 60,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.55
+  },
+  {
+    "parroquia": "CHILE",
+    "id": 5240,
+    "votos": 15,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.84
+  },
+  {
+    "parroquia": "SAN VICENTE",
+    "id": 6025,
+    "votos": 0,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0
+  }
+]

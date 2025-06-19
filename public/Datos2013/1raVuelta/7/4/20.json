@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "JIJON Y CAAMAÑO",
+    "id": 1835,
+    "votos": 4,
+    "candidato": "Zavala Nelson",
+    "value": 0.41
+  },
+  {
+    "parroquia": "JUAN MONTALVO",
+    "id": 1875,
+    "votos": 1,
+    "candidato": "Zavala Nelson",
+    "value": 0.1
+  },
+  {
+    "parroquia": "LA CONCEPCION",
+    "id": 2010,
+    "votos": 4,
+    "candidato": "Zavala Nelson",
+    "value": 0.0
+  },
+  {
+    "parroquia": "MIRA",
+    "id": 5685,
+    "votos": 12,
+    "candidato": "Zavala Nelson",
+    "value": 0.0
+  }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "MIRA",
+        "id": 5685,
+        "votos": 23,
+        "candidato": "Melba Jacome",
+        "value": 0.6
+    },
+    {
+        "parroquia": "LA CONCEPCION",
+        "id": 2010,
+        "votos": 9,
+        "candidato": "Melba Jacome",
+        "value": 0.6
+    },
+    {
+        "parroquia": "JUAN MONTALVO",
+        "id": 1875,
+        "votos": 1,
+        "candidato": "Melba Jacome",
+        "value": 0.14
+    },
+    {
+        "parroquia": "JIJON Y CAAMA�O",
+        "id": 1835,
+        "votos": 5,
+        "candidato": "Melba Jacome",
+        "value": 0.61
+    }
+]

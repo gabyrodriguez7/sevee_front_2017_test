@@ -1,0 +1,100 @@
+[
+    {
+        "parroquia": "ALLURIQUIN",
+        "id": 75,
+        "votos": 59,
+        "candidato": "Wray Norman",
+        "value": 1.19
+    },
+    {
+        "parroquia": "VALLE HERMOSO",
+        "id": 305,
+        "votos": 36,
+        "candidato": "Wray Norman",
+        "value": 0.982
+    },
+    {
+        "parroquia": "LUZ DE AMERICA",
+        "id": 1755,
+        "votos": 25,
+        "candidato": "Wray Norman",
+        "value": 0.86
+    },
+    {
+        "parroquia": "SAN JACINTO DEL BUA",
+        "id": 1970,
+        "votos": 47,
+        "candidato": "Wray Norman",
+        "value": 0.977
+    },
+    {
+        "parroquia": "EL ESFUERZO",
+        "id": 1990,
+        "votos": 28,
+        "candidato": "Wray Norman",
+        "value": 1.1
+    },
+    {
+        "parroquia": "SANTA MARIA DEL TOACHI",
+        "id": 2045,
+        "votos": 12,
+        "candidato": "Wray Norman",
+        "value": 0.7
+    },
+    {
+        "parroquia": "PUERTO LIMON",
+        "id": 4440,
+        "votos": 40,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "ABRAHAM CALAZACON",
+        "id": 5730,
+        "votos": 145,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "BOMBOLI",
+        "id": 5860,
+        "votos": 221,
+        "candidato": "Wray Norman",
+        "value": 1.1581
+    },
+    {
+        "parroquia": "RIO VERDE",
+        "id": 5865,
+        "votos": 197,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "RIO TOACHI",
+        "id": 5870,
+        "votos": 20,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "SANTO DOMINGO",
+        "id": 6065,
+        "votos": 1185,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "CHIGUILPE",
+        "id": 6175,
+        "votos": 130,
+        "candidato": "Wray Norman",
+        "value": 1.3
+    },
+    {
+        "parroquia": "ZARACAY",
+        "id": 6180,
+        "votos": 53,
+        "candidato": "Wray Norman",
+        "value": 1.3
+    }
+]

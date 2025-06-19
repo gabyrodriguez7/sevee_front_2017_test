@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "ROSA ZARATE",
+    "id": 5895,
+    "votos": 152,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.5
+  },
+  {
+    "parroquia": "VICHE",
+    "id": 4230,
+    "votos": 17,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.66
+  },
+  {
+    "parroquia": "MALIMPIA / GUAYLLABAMBA",
+    "id": 2345,
+    "votos": 16,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.63
+  },
+  {
+    "parroquia": "LA UNION",
+    "id": 1530,
+    "votos": 21,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.31
+  },
+  {
+    "parroquia": "CHURA",
+    "id": 980,
+    "votos": 3,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 1.07
+  },
+  {
+    "parroquia": "CUBE / CHANCAMA",
+    "id": 700,
+    "votos": 8,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 1.07
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "PUERTO PECHICHE",
+    "id": 3015,
+    "votos": 29,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.08
+  },
+  {
+    "parroquia": "SAN JUAN",
+    "id": 3510,
+    "votos": 34,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.33
+  },
+  {
+    "parroquia": "PUEBLO VIEJO",
+    "id": 5800,
+    "votos": 41,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.46
+  }
+]

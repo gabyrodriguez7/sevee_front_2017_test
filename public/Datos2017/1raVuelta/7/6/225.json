@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "LA CANDELARIA",
+    "id": 925,
+    "votos": 1,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.38
+  },
+  {
+    "parroquia": "EL ALTAR",
+    "id": 1110,
+    "votos": 17,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.9
+  },
+  {
+    "parroquia": "BILBAO",
+    "id": 1325,
+    "votos": 3,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.53
+  },
+  {
+    "parroquia": "MATUS",
+    "id": 2400,
+    "votos": 8,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.13
+  },
+  {
+    "parroquia": "PUELA",
+    "id": 2975,
+    "votos": 7,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.26
+  },
+  {
+    "parroquia": "SAN ANTONIO DE BAYUSHIG",
+    "id": 3335,
+    "votos": 14,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.23
+  },
+  {
+    "parroquia": "PENIPE",
+    "id": 5740,
+    "votos": 24,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.2
+  }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "partido": "",
+        "nombrePartido": "Resultados Generales",
+        "json": "1"
+    },{
+        "partido": 1,
+        "nombre": "MARTHA ROLDOS BUCARAM",
+        "nombrePartido": "ALIANZA IZQUIERDA UNIDA",
+        "json": "1"
+    },
+    {
+        "partido": 2,
+        "nombre": "DIEGO DELGADO JARA",
+       "nombrePartido": "MOVIMIENTO DE INTEGRACION Y TRANSFORMACION SOCIAL",
+        "json": "2"
+    },
+    {
+        "partido": 3,
+        "nombre": "CARLOS GONZALEZ ALBORNOZ",
+         "nombrePartido": "MOVIMIENTO INDEPENDIENTE JUSTO Y SOLIDARIO",
+        "json": "3"
+    },
+    {
+        "partido": 4,
+        "nombre": "RAFAEL CORREA DELGADO",
+         "nombrePartido": "MOVIMIENTO PATRIA ALTIVA I SOBERANA",
+        "json": "4"
+    },
+    {
+        "partido": 5,
+        "nombre": "MELBA JACOME",
+        "nombrePartido": "MOVIMIENTO TIERRA FERTIL",
+        "json": "5"
+    },
+    {
+        "partido": 6,
+        "nombre": "CARLOS SAGNAY DE LA BASTIDA",
+        "nombrePartido": "MOVIMIENTO TRIUNFO MIL",
+        "json": "6"
+    },
+    {
+        "partido": 7,
+        "nombre": "ALVARO NOBOA",
+        "nombrePartido": "PARTIDO RENOVADOR INSTITUCIONAL ACCION NACIONAL",
+        "json": "7"
+    },
+    {
+        "partido": 8,
+        "nombre": "LUCIO GUTIERREZ",
+        "nombrePartido": "PARTIDO SOCIEDAD PATRIOTICA 21 DE ENERO",
+        "json": "8"
+    }
+]

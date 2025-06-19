@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "NABON",
+        "id": 6595,
+        "votos": 75,
+        "candidato": "Alvaro Noboa",
+        "value": 1.83
+    },
+    {
+        "parroquia": "NIEVES",
+        "id": 2550,
+        "votos": 11,
+        "candidato": "Alvaro Noboa",
+        "value": 1.87
+    },
+    {
+        "parroquia": "EL PROGRESO",
+        "id": 1175,
+        "votos": 10,
+        "candidato": "Alvaro Noboa",
+        "value": 1.51
+    },
+    {
+        "parroquia": "COCHAPATA",
+        "id": 575,
+        "votos": 10,
+        "candidato": "Alvaro Noboa",
+        "value": 0.89
+    }
+]

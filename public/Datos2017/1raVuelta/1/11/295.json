@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "LIMONES",
+    "id": 280,
+    "votos": 292,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 40.9
+  },
+  {
+    "parroquia": "GARZAREAL",
+    "id": 290,
+    "votos": 230,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 35.11
+  },
+  {
+    "parroquia": "MANGAHURCO",
+    "id": 550,
+    "votos": 136,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 28.33
+  },
+  {
+    "parroquia": "BOLASPAMBA",
+    "id": 2000,
+    "votos": 152,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 31.34
+  },
+  {
+    "parroquia": "PALETILLAS",
+    "id": 2710,
+    "votos": 606,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 41.03
+  },
+  {
+    "parroquia": "CAZADEROS",
+    "id": 4605,
+    "votos": 65,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 25.39
+  },
+  {
+    "parroquia": "ZAPOTILLO",
+    "id": 6320,
+    "votos": 1570,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 47.72
+  }
+]

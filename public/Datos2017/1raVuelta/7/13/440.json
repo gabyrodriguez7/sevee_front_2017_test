@@ -1,0 +1,114 @@
+[
+  {
+    "parroquia": "ABDÓN CALDERÓN",
+    "id": 10,
+    "votos": 500,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 5.35
+  },
+  {
+    "parroquia": "ALHAJUELA /BAJO GRANDE",
+    "id": 50,
+    "votos": 179,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 5.34
+  },
+  {
+    "parroquia": "CRUCITA",
+    "id": 770,
+    "votos": 656,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 8.7
+  },
+  {
+    "parroquia": "CHIRIJOS",
+    "id": 1925,
+    "votos": 44,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.35
+  },
+  {
+    "parroquia": "PUEBLO NUEVO",
+    "id": 2970,
+    "votos": 145,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 6.02
+  },
+  {
+    "parroquia": "RÍO CHICO",
+    "id": 3185,
+    "votos": 476,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 6.05
+  },
+  {
+    "parroquia": "SAN PLÁCIDO",
+    "id": 3625,
+    "votos": 207,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.71
+  },
+  {
+    "parroquia": "ANDRÉS DE VERA",
+    "id": 5030,
+    "votos": 5365,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 10.92
+  },
+  {
+    "parroquia": "COLÓN",
+    "id": 5265,
+    "votos": 1242,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 9.79
+  },
+  {
+    "parroquia": "12 DE MARZO",
+    "id": 5280,
+    "votos": 2280,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 8.09
+  },
+  {
+    "parroquia": "PORTOVIEJO",
+    "id": 5795,
+    "votos": 2493,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 10.88
+  },
+  {
+    "parroquia": "PICOAZA",
+    "id": 5845,
+    "votos": 1400,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 10.55
+  },
+  {
+    "parroquia": "SAN PABLO",
+    "id": 6585,
+    "votos": 602,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 11.83
+  },
+  {
+    "parroquia": "18 DE OCTUBRE",
+    "id": 6770,
+    "votos": 463,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 7.19
+  },
+  {
+    "parroquia": "FRANCISCO PACHECO",
+    "id": 6775,
+    "votos": 582,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 11.59
+  },
+  {
+    "parroquia": "SIMÓN BOLÍVAR",
+    "id": 6910,
+    "votos": 245,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 10.52
+  }
+]

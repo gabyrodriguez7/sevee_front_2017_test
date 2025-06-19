@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "SAN SEBASTIÁN",
+    "id": 1060,
+    "votos": 74,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.34
+  },
+  {
+    "parroquia": "BARRAGANETE",
+    "id": 1065,
+    "votos": 159,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.54
+  },
+  {
+    "parroquia": "PICHINCHA /GERMUD",
+    "id": 6550,
+    "votos": 477,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.22
+  }
+]

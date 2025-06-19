@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "GUARE",
+        "id": 1460,
+        "votos": 62,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.7094
+    },
+    {
+        "parroquia": "ISLA DE BEJUCAL",
+        "id": 1740,
+        "votos": 64,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.475
+    },
+    {
+        "parroquia": "BABA",
+        "id": 5085,
+        "votos": 257,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.8407
+    }
+]

@@ -1,0 +1,457 @@
+[
+  {
+    "parroquia": "COTOCOLLAO",
+    "id": 5220,
+    "votos": 22604,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 34.29
+  },
+  {
+    "parroquia": "BELISARIO QUEVEDO",
+    "id": 7130,
+    "votos": 9561,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 31.36
+  },
+  {
+    "parroquia": "CARCELÉN",
+    "id": 7135,
+    "votos": 10588,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 35.62
+  },
+  {
+    "parroquia": "COCHAPAMBA",
+    "id": 7145,
+    "votos": 9290,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 36.34
+  },
+  {
+    "parroquia": "COMITÉ DEL PUEBLO",
+    "id": 7150,
+    "votos": 9787,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 46.47
+  },
+  {
+    "parroquia": "EL CONDADO",
+    "id": 7160,
+    "votos": 14813,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 42.25
+  },
+  {
+    "parroquia": "IÑAQUITO",
+    "id": 7170,
+    "votos": 13095,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 24.00
+  },
+  {
+    "parroquia": "ITCHIMBIA",
+    "id": 7175,
+    "votos": 12324,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 34.71
+  },
+  {
+    "parroquia": "JIPIJAPA",
+    "id": 7180,
+    "votos": 10134,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 26.94
+  },
+  {
+    "parroquia": "KENNEDY",
+    "id": 7185,
+    "votos": 15150,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 29.01
+  },
+  {
+    "parroquia": "LA CONCEPCIÓN",
+    "id": 7195,
+    "votos": 6269,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 27.50
+  },
+  {
+    "parroquia": "MARISCAL SUCRE",
+    "id": 7215,
+    "votos": 6652,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 31.43
+  },
+  {
+    "parroquia": "PONCEANO",
+    "id": 7220,
+    "votos": 7920,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 32.59
+  },
+  {
+    "parroquia": "RUMIPAMBA",
+    "id": 7235,
+    "votos": 7383,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 21.78
+  },
+  {
+    "parroquia": "SAN ISIDRO DEL INCA",
+    "id": 7245,
+    "votos": 6739,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 34.58
+  },
+  {
+    "parroquia": "SAN JUAN",
+    "id": 7250,
+    "votos": 13850,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 36.15
+  },
+  {
+    "parroquia": "CHIMBACALLE",
+    "id": 5015,
+    "votos": 24697,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 38.82
+  },
+  {
+    "parroquia": "CHILLOGALLO",
+    "id": 5260,
+    "votos": 30468,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 38.52
+  },
+  {
+    "parroquia": "LA LIBERTAD",
+    "id": 5535,
+    "votos": 6410,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 39.33
+  },
+  {
+    "parroquia": "LA MAGDALENA",
+    "id": 5540,
+    "votos": 26188,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 36.10
+  },
+  {
+    "parroquia": "CENTRO HISTÓRICO",
+    "id": 7140,
+    "votos": 23641,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 38.51
+  },
+  {
+    "parroquia": "CHILIBULO",
+    "id": 7155,
+    "votos": 6509,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 38.78
+  },
+  {
+    "parroquia": "GUAMANÍ",
+    "id": 7165,
+    "votos": 13134,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 41.90
+  },
+  {
+    "parroquia": "LA ARGELIA",
+    "id": 7190,
+    "votos": 9184,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 45.50
+  },
+  {
+    "parroquia": "LA ECUATORIANA",
+    "id": 7200,
+    "votos": 10967,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 42.20
+  },
+  {
+    "parroquia": "LA FERROVIARIA",
+    "id": 7205,
+    "votos": 13345,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 42.83
+  },
+  {
+    "parroquia": "LA MENA",
+    "id": 7210,
+    "votos": 8289,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 40.63
+  },
+  {
+    "parroquia": "PUENGASÍ",
+    "id": 7225,
+    "votos": 7770,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 39.08
+  },
+  {
+    "parroquia": "QUITUMBE",
+    "id": 7230,
+    "votos": 12221,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 42.20
+  },
+  {
+    "parroquia": "SAN BARTOLO",
+    "id": 7240,
+    "votos": 17170,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 39.27
+  },
+  {
+    "parroquia": "SOLANDA",
+    "id": 7255,
+    "votos": 14981,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 40.81
+  },
+  {
+    "parroquia": "TURUBAMBA",
+    "id": 7260,
+    "votos": 9669,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 42.73
+  },
+  {
+    "parroquia": "ALANGASÍ",
+    "id": 30,
+    "votos": 5096,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 40.79
+  },
+  {
+    "parroquia": "AMAGUAÑA",
+    "id": 80,
+    "votos": 7918,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 41.84
+  },
+  {
+    "parroquia": "ATAHUALPA /HABASPAMBA",
+    "id": 195,
+    "votos": 582,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 44.19
+  },
+  {
+    "parroquia": "CALACALÍ",
+    "id": 430,
+    "votos": 1297,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 40.26
+  },
+  {
+    "parroquia": "CALDERÓN",
+    "id": 440,
+    "votos": 40140,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 44.20
+  },
+  {
+    "parroquia": "CONOCOTO",
+    "id": 625,
+    "votos": 18685,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 34.29
+  },
+  {
+    "parroquia": "CUMBAYA",
+    "id": 725,
+    "votos": 6161,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 25.17
+  },
+  {
+    "parroquia": "CHAVEZPAMBA",
+    "id": 855,
+    "votos": 263,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 47.56
+  },
+  {
+    "parroquia": "CHECA",
+    "id": 865,
+    "votos": 2554,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 54.62
+  },
+  {
+    "parroquia": "GUALEA",
+    "id": 1400,
+    "votos": 505,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 42.72
+  },
+  {
+    "parroquia": "GUANGOPOLO",
+    "id": 1440,
+    "votos": 879,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 40.00
+  },
+  {
+    "parroquia": "GUAYLLABAMBA",
+    "id": 1475,
+    "votos": 5196,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 51.86
+  },
+  {
+    "parroquia": "LA MERCED",
+    "id": 2055,
+    "votos": 2159,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 47.33
+  },
+  {
+    "parroquia": "LLANO CHICO",
+    "id": 2265,
+    "votos": 2488,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 39.46
+  },
+  {
+    "parroquia": "LLOA",
+    "id": 2275,
+    "votos": 662,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 44.22
+  },
+  {
+    "parroquia": "NANEGAL",
+    "id": 2525,
+    "votos": 703,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 44.19
+  },
+  {
+    "parroquia": "NANEGALITO",
+    "id": 2530,
+    "votos": 799,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 38.45
+  },
+  {
+    "parroquia": "NAYÓN",
+    "id": 2540,
+    "votos": 2003,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 27.99
+  },
+  {
+    "parroquia": "NONO",
+    "id": 2560,
+    "votos": 429,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 42.02
+  },
+  {
+    "parroquia": "PACTO",
+    "id": 2690,
+    "votos": 961,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 35.01
+  },
+  {
+    "parroquia": "PERUCHO",
+    "id": 2825,
+    "votos": 235,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 40.73
+  },
+  {
+    "parroquia": "PIFO",
+    "id": 2855,
+    "votos": 4907,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 45.85
+  },
+  {
+    "parroquia": "PINTAG",
+    "id": 2895,
+    "votos": 5842,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 47.20
+  },
+  {
+    "parroquia": "POMASQUI",
+    "id": 2925,
+    "votos": 8076,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 36.82
+  },
+  {
+    "parroquia": "PUELLARO",
+    "id": 2980,
+    "votos": 2185,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 51.85
+  },
+  {
+    "parroquia": "PUEMBO",
+    "id": 2985,
+    "votos": 3995,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 45.68
+  },
+  {
+    "parroquia": "QUINCHE",
+    "id": 3100,
+    "votos": 5478,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 48.47
+  },
+  {
+    "parroquia": "SAN ANTONIO",
+    "id": 3325,
+    "votos": 9082,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 42.59
+  },
+  {
+    "parroquia": "SAN JOSÉ DE MINAS",
+    "id": 3475,
+    "votos": 2090,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 48.65
+  },
+  {
+    "parroquia": "TABABELA",
+    "id": 3925,
+    "votos": 733,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 45.70
+  },
+  {
+    "parroquia": "TUMBACO",
+    "id": 4085,
+    "votos": 13765,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 38.16
+  },
+  {
+    "parroquia": "YARUQUÍ",
+    "id": 4290,
+    "votos": 5938,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 48.00
+  },
+  {
+    "parroquia": "ZAMBIZA",
+    "id": 4325,
+    "votos": 1303,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 35.15
+  }
+]

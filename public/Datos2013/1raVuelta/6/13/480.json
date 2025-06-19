@@ -1,0 +1,66 @@
+[
+                {
+                    "parroquia": "BOYACA",
+                    "id": 380,
+                    "votos": 383,
+                    "candidato": "Lasso Guillermo",
+                    "value": 16.1
+                },
+                {
+                    "parroquia": "CHIBUNGA",
+                    "id": 405,
+                    "votos": 525,
+                    "candidato": "Lasso Guillermo",
+                    "value": 23.47943
+                },
+                {
+                    "parroquia": "CANUTO",
+                    "id": 495,
+                    "votos": 1511,
+                    "candidato": "Lasso Guillermo",
+                    "value": 23.51
+                },
+                {
+                    "parroquia": "CONVENTO",
+                    "id": 640,
+                    "votos": 828,
+                    "candidato": "Lasso Guillermo",
+                    "value": 24.7
+                },
+                {
+                    "parroquia": "ELOY ALFARO",
+                    "id": 1160,
+                    "votos": 586,
+                    "candidato": "Lasso Guillermo",
+                    "value": 21.6
+                },
+                {
+                    "parroquia": "RICAURTE",
+                    "id": 3170,
+                    "votos": 794,
+                    "candidato": "Lasso Guillermo",
+                    "value": 24.8
+                },
+                {
+                    "parroquia": "SAN ANTONIO / DEL PELUDO",
+                    "id": 3350,
+                    "votos": 887,
+                    "candidato": "Lasso Guillermo",
+                    "value": 18.8
+                },
+                {
+                    "parroquia": "CHONE",
+                    "id": 5250,
+                    "votos": 13228,
+                    "candidato": "Lasso Guillermo",
+                    "value": 32.759
+                },
+                {
+                    "parroquia": "SANTA RITA",
+                    "id": 6055,
+                    "votos": 2057,
+                    "candidato": "Lasso Guillermo",
+                    "value": 22.838
+                }
+            ]
+            

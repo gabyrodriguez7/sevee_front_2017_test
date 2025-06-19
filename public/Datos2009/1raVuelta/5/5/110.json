@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "SAN MIGUEL DE SALCEDO",
+        "id": 6000,
+        "votos": 127,
+        "candidato": "Melba Jacome",
+        "value": 0.73
+    },
+    {
+        "parroquia": "PANZALEO",
+        "id": 2760,
+        "votos": 12,
+        "candidato": "Melba Jacome",
+        "value": 0.7
+    },
+    {
+        "parroquia": "MULLIQUINDIL",
+        "id": 2490,
+        "votos": 17,
+        "candidato": "Melba Jacome",
+        "value": 0.46
+    },
+    {
+        "parroquia": "MULALILLO",
+        "id": 2475,
+        "votos": 20,
+        "candidato": "Melba Jacome",
+        "value": 0.61
+    },
+    {
+        "parroquia": "CUSUBAMBA",
+        "id": 745,
+        "votos": 52,
+        "candidato": "Melba Jacome",
+        "value": 1.68
+    },
+    {
+        "parroquia": "ANTONIO J. HOLGUIN",
+        "id": 135,
+        "votos": 14,
+        "candidato": "Melba Jacome",
+        "value": 0.95
+    }
+]

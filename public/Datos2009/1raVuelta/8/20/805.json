@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "PUERTO AYORA",
+    "id": 6505,
+    "votos": 1339,
+    "candidato": "Lucio Gutierrez",
+    "value": 23.06
+  },
+  {
+    "parroquia": "SANTA ROSA",
+    "id": 1985,
+    "votos": 42,
+    "candidato": "Lucio Gutierrez",
+    "value": 23.46
+  },
+  {
+    "parroquia": "BELLA VISTA",
+    "id": 235,
+    "votos": 129,
+    "candidato": "Lucio Gutierrez",
+    "value": 22.99
+  }
+]

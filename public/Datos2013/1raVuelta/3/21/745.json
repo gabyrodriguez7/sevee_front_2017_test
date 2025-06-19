@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "SEVILLA",
+        "id": 1095,
+        "votos": 5,
+        "candidato": "Wray Norman",
+        "value": 0.384
+    },
+    {
+        "parroquia": "SANTA ROSA DE SUCUMBIOS",
+        "id": 3750,
+        "votos": 2,
+        "candidato": "Wray Norman",
+        "value": 0.5
+    },
+    {
+        "parroquia": "EL DORADO DE CASCALES",
+        "id": 6325,
+        "votos": 27,
+        "candidato": "Wray Norman",
+        "value": 0.738
+    }
+]

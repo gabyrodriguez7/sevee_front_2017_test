@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "BUENAVISTA",
+        "id": 390,
+        "votos": 75,
+        "candidato": "Gutierrez Lucio",
+        "value": 2.078
+    },
+    {
+        "parroquia": "CAÑAQUEMADA",
+        "id": 775,
+        "votos": 2,
+        "candidato": "Gutierrez Lucio",
+        "value": 0.446
+    },
+    {
+        "parroquia": "PROGRESO",
+        "id": 1225,
+        "votos": 101,
+        "candidato": "Gutierrez Lucio",
+        "value": 6.711
+    },
+    {
+        "parroquia": "LA PEAÑA",
+        "id": 2075,
+        "votos": 34,
+        "candidato": "Gutierrez Lucio",
+        "value": 1.6
+    },
+    {
+        "parroquia": "UZHCURRUMI",
+        "id": 4160,
+        "votos": 50,
+        "candidato": "Gutierrez Lucio",
+        "value": 5.9666
+    },
+    {
+        "parroquia": "CASACAY",
+        "id": 4495,
+        "votos": 56,
+        "candidato": "Gutierrez Lucio",
+        "value": 5.5556
+    },
+    {
+        "parroquia": "OCHOA LEON/MATRIZ",
+        "id": 5770,
+        "votos": 960,
+        "candidato": "Gutierrez Lucio",
+        "value": 2.75965
+    },
+    {
+        "parroquia": "LOMA DE FRANCO",
+        "id": 6365,
+        "votos": 23,
+        "candidato": "Gutierrez Lucio",
+        "value": 3.85906
+    },
+    {
+        "parroquia": "BOLIVAR",
+        "id": 6370,
+        "votos": 14,
+        "candidato": "Gutierrez Lucio",
+        "value": 3.5
+    },
+    {
+        "parroquia": "TRES CERRITOS",
+        "id": 6375,
+        "votos": 30,
+        "candidato": "Gutierrez Lucio",
+        "value": 9.404389
+    },
+    {
+        "parroquia": "PASAJE",
+        "id": 6940,
+        "votos": 9,
+        "candidato": "Gutierrez Lucio",
+        "value": 3.46
+    }
+]

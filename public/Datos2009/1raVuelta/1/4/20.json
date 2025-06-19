@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "MIRA",
+        "id": 5685,
+        "votos": 204,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 5.34
+    },
+    {
+        "parroquia": "LA CONCEPCION",
+        "id": 2010,
+        "votos": 16,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.07
+    },
+    {
+        "parroquia": "JUAN MONTALVO",
+        "id": 1875,
+        "votos": 11,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.6
+    },
+    {
+        "parroquia": "JIJON Y CAAMAÑO",
+        "id": 1835,
+        "votos": 8,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 0.98
+    }
+]

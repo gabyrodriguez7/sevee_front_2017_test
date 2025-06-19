@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "CUMBARATZA",
+    "id": 720,
+    "votos": 6,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.27
+  },
+  {
+    "parroquia": "GUADALUPE",
+    "id": 1390,
+    "votos": 12,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.62
+  },
+  {
+    "parroquia": "SAN CARLOS DE LAS MINAS",
+    "id": 1770,
+    "votos": 5,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.45
+  },
+  {
+    "parroquia": "LA VICTORIA DE IMBANA",
+    "id": 2155,
+    "votos": 2,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.31
+  },
+  {
+    "parroquia": "SABANILLA",
+    "id": 3260,
+    "votos": 2,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.43
+  },
+  {
+    "parroquia": "TIMBARA",
+    "id": 4010,
+    "votos": 4,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.47
+  },
+  {
+    "parroquia": "ZAMORA",
+    "id": 6305,
+    "votos": 36,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.37
+  },
+  {
+    "parroquia": "EL LIMÓN",
+    "id": 6840,
+    "votos": 0,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0
+  }
+]

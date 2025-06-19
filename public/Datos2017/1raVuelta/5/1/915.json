@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "LA UNIÓN",
+    "id": 1535,
+    "votos": 6,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.18
+  },
+  {
+    "parroquia": "SAN MARTÍN DE PUZHIO",
+    "id": 1575,
+    "votos": 10,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 2.63
+  },
+  {
+    "parroquia": "LUIS GALARZA O. (DELEGSOL)",
+    "id": 1585,
+    "votos": 7,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.35
+  },
+  {
+    "parroquia": "PRINCIPAL",
+    "id": 2950,
+    "votos": 4,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.53
+  },
+  {
+    "parroquia": "CHORDELEG",
+    "id": 6435,
+    "votos": 46,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.91
+  }
+]

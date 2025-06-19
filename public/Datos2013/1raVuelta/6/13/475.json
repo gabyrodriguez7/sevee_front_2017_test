@@ -1,0 +1,31 @@
+[
+                {
+                    "parroquia": "CHARAPOTO",
+                    "id": 840,
+                    "votos": 2158,
+                    "candidato": "Lasso Guillermo",
+                    "value": 16.647381
+                },
+                {
+                    "parroquia": "SAN ISIDRO",
+                    "id": 3445,
+                    "votos": 1072,
+                    "candidato": "Lasso Guillermo",
+                    "value": 15.9833
+                },
+                {
+                    "parroquia": "BAHIA DE CARAQUEZ",
+                    "id": 5095,
+                    "votos": 3368,
+                    "candidato": "Lasso Guillermo",
+                    "value": 25.90171
+                },
+                {
+                    "parroquia": "LEONIDAS PLAZA G.",
+                    "id": 5580,
+                    "votos": 733,
+                    "candidato": "Lasso Guillermo",
+                    "value": 23.35883
+                }
+            ]
+            

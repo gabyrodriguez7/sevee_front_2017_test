@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "LA AURORA",
+        "id": 6850,
+        "votos": 254,
+        "candidato": "Alvaro Noboa",
+        "value": 19.02
+    },
+    {
+        "parroquia": "DAULE",
+        "id": 5275,
+        "votos": 6011,
+        "candidato": "Alvaro Noboa",
+        "value": 12.49
+    },
+    {
+        "parroquia": "EL LAUREL",
+        "id": 4500,
+        "votos": 311,
+        "candidato": "Alvaro Noboa",
+        "value": 11.98
+    },
+    {
+        "parroquia": "LAS LOJAS",
+        "id": 2105,
+        "votos": 136,
+        "candidato": "Alvaro Noboa",
+        "value": 8.05
+    },
+    {
+        "parroquia": "JUAN BAUTISTA AGUIRRE",
+        "id": 1855,
+        "votos": 134,
+        "candidato": "Alvaro Noboa",
+        "value": 8.0
+    },
+    {
+        "parroquia": "LIMONAL",
+        "id": 260,
+        "votos": 93,
+        "candidato": "Alvaro Noboa",
+        "value": 10.03
+    }
+]

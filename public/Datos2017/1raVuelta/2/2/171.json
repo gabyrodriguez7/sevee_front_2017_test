@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "C. E. EN PALMA DE MALLORCA",
+    "id": 9021,
+    "votos": 124,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.03
+  },
+  {
+    "parroquia": "C. E. EN BARCELONA",
+    "id": 9023,
+    "votos": 747,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.05
+  },
+  {
+    "parroquia": "C. E. EN MADRID",
+    "id": 9024,
+    "votos": 2031,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 11.09
+  },
+  {
+    "parroquia": "C. E. EN VALENCIA",
+    "id": 9025,
+    "votos": 529,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.62
+  },
+  {
+    "parroquia": "C. E. EN MURCIA",
+    "id": 9026,
+    "votos": 706,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.16
+  },
+  {
+    "parroquia": "C. E. EN MALAGA",
+    "id": 9066,
+    "votos": 366,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 11.28
+  },
+  {
+    "parroquia": "C. E. EN ALICANTE",
+    "id": 9074,
+    "votos": 109,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.28
+  }
+]

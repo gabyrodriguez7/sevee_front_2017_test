@@ -1,0 +1,90 @@
+[
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "VITERI JIMENEZ CYNTHIA FERNANDA",
+        "id": 1350,
+        "votos": 4343,
+        "votos1": 1976,
+        "votos2": 986,
+        "fill": "#1eff00",
+        "porcentaje1": 45.5,
+        "porcentaje2": 22.7
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "VITERI JIMENEZ CYNTHIA FERNANDA",
+        "id": 1595,
+        "votos": 4819,
+        "votos1": 2162,
+        "votos2": 1141,
+        "fill": "#1eff00",
+        "porcentaje1": 44.86,
+        "porcentaje2": 23.68
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "VITERI JIMENEZ CYNTHIA FERNANDA",
+        "id": 4220,
+        "votos": 2506,
+        "votos1": 1009,
+        "votos2": 734,
+        "fill": "#1eff00",
+        "porcentaje1": 40.26,
+        "porcentaje2": 29.29
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "VITERI JIMENEZ CYNTHIA FERNANDA",
+        "id": 5120,
+        "votos": 275,
+        "votos1": 103,
+        "votos2": 74,
+        "fill": "#1eff00",
+        "porcentaje1": 37.45,
+        "porcentaje2": 26.91
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "VITERI JIMENEZ CYNTHIA FERNANDA",
+        "id": 5155,
+        "votos": 579,
+        "votos1": 281,
+        "votos2": 128,
+        "fill": "#1eff00",
+        "porcentaje1": 48.53,
+        "porcentaje2": 22.11
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "VITERI JIMENEZ CYNTHIA FERNANDA",
+        "id": 5200,
+        "votos": 22596,
+        "votos1": 8758,
+        "votos2": 6486,
+        "fill": "#1eff00",
+        "porcentaje1": 38.76,
+        "porcentaje2": 28.7
+    },
+    {
+        "candidato1": "VITERI JIMENEZ CYNTHIA FERNANDA",
+        "candidato2": "MORENO GARCES LENIN BOLTAIRE",
+        "id": 5765,
+        "votos": 122,
+        "votos1": 51,
+        "votos2": 42,
+        "fill": "#980505",
+        "porcentaje1": 41.8,
+        "porcentaje2": 34.43
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "VITERI JIMENEZ CYNTHIA FERNANDA",
+        "id": 5990,
+        "votos": 114,
+        "votos1": 46,
+        "votos2": 41,
+        "fill": "#1eff00",
+        "porcentaje1": 40.35,
+        "porcentaje2": 35.96
+    }
+]

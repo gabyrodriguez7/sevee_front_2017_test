@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "MONTERREY",
+        "id": 4370,
+        "votos": 18,
+        "candidato": "Zavala Nelson",
+        "value": 1.0
+    },
+    {
+        "parroquia": "LA VILLEGAS",
+        "id": 4375,
+        "votos": 20,
+        "candidato": "Zavala Nelson",
+        "value": 1.5
+    },
+    {
+        "parroquia": "PLAN PILOTO",
+        "id": 4380,
+        "votos": 2,
+        "candidato": "Zavala Nelson",
+        "value": 0.7
+    },
+    {
+        "parroquia": "LA CONCORDIA",
+        "id": 6920,
+        "votos": 189,
+        "candidato": "Zavala Nelson",
+        "value": 0.9
+    }
+]

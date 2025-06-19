@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "VENTANAS",
+        "id": 6235,
+        "votos": 365,
+        "candidato": "Melba Jacome",
+        "value": 1.35
+    },
+    {
+        "parroquia": "ZAPOTAL",
+        "id": 4330,
+        "votos": 23,
+        "candidato": "Melba Jacome",
+        "value": 0.65
+    }
+]

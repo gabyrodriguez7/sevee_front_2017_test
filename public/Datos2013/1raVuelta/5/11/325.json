@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "LA RAMA",
+        "id": 2085,
+        "votos": 73,
+        "candidato": "Gutierrez Lucio",
+        "value": 14.3
+    },
+    {
+        "parroquia": "LA VICTORIA",
+        "id": 2145,
+        "votos": 47,
+        "candidato": "Gutierrez Lucio",
+        "value": 7.5
+    },
+    {
+        "parroquia": "SABIANGO",
+        "id": 3265,
+        "votos": 22,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.6
+    },
+    {
+        "parroquia": "GRAL.ELOY ALFARO",
+        "id": 5385,
+        "votos": 37,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.2093
+    },
+    {
+        "parroquia": "MACARA",
+        "id": 5680,
+        "votos": 323,
+        "candidato": "Gutierrez Lucio",
+        "value": 3.943
+    }
+]

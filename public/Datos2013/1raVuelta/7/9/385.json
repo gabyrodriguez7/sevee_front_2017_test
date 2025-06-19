@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "GUAYAS / PUERTO NUEVO",
+        "id": 1470,
+        "votos": 36,
+        "candidato": "Zavala Nelson",
+        "value": 1.6
+    },
+    {
+        "parroquia": "EL ROSARIO",
+        "id": 1640,
+        "votos": 31,
+        "candidato": "Zavala Nelson",
+        "value": 1.213
+    },
+    {
+        "parroquia": "VELASCO IBARRA",
+        "id": 6225,
+        "votos": 397,
+        "candidato": "Zavala Nelson",
+        "value": 0.941
+    }
+]

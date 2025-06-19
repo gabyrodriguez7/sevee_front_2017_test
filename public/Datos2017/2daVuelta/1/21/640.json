@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "EL PLAYÓN DE SN. FRANCISCO",
+        "id": 1170,
+        "votos": 536,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 42.68
+    },
+    {
+        "parroquia": "LA SOFÍA",
+        "id": 2095,
+        "votos": 59,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 62.11
+    },
+    {
+        "parroquia": "ROSA FLORIDA",
+        "id": 3220,
+        "votos": 126,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 44.06
+    },
+    {
+        "parroquia": "SANTA BÁRBARA",
+        "id": 3690,
+        "votos": 290,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 51.33
+    },
+    {
+        "parroquia": "LA BONITA",
+        "id": 5525,
+        "votos": 280,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 44.37
+    }
+]

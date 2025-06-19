@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "SAN JACINTO DE WAKAMBEIS",
+    "id": 710,
+    "votos": 17,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.1
+  },
+  {
+    "parroquia": "SANTIAGO DE PANANZA",
+    "id": 1785,
+    "votos": 28,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.34
+  },
+  {
+    "parroquia": "PAN DE AZÚCAR",
+    "id": 2750,
+    "votos": 9,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 4.41
+  },
+  {
+    "parroquia": "SAN CARLOS DE LIMÓN",
+    "id": 3920,
+    "votos": 26,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.19
+  },
+  {
+    "parroquia": "SAN JUAN BOSCO",
+    "id": 6445,
+    "votos": 114,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.33
+  }
+]

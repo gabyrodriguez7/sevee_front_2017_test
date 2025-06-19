@@ -1,0 +1,37 @@
+[
+{
+    "parroquia": "LA IBERIA",
+    "id": 245,
+    "votos": 39,
+    "candidato": "Zavala Nelson",
+    "value": 2.496799
+},
+{
+    "parroquia": "BARBONES",
+    "id": 300,
+    "votos": 55,
+    "candidato": "Zavala Nelson",
+    "value": 1.687634
+},
+{
+    "parroquia": "RIO BONITO",
+    "id": 2050,
+    "votos": 23,
+    "candidato": "Zavala Nelson",
+    "value": 1.0
+},
+{
+    "parroquia": "TENDALES",
+    "id": 4000,
+    "votos": 41,
+    "candidato": "Zavala Nelson",
+    "value": 2.4
+},
+{
+    "parroquia": "EL GUABO",
+    "id": 5340,
+    "votos": 402,
+    "candidato": "Zavala Nelson",
+    "value": 1.997516
+}
+]

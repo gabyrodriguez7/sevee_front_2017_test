@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "CAHUASQUÍ",
+    "id": 425,
+    "votos": 162,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.35
+  },
+  {
+    "parroquia": "LA MERCED DE BUENOS AIRES",
+    "id": 2060,
+    "votos": 71,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.64
+  },
+  {
+    "parroquia": "PABLO ARENAS",
+    "id": 2675,
+    "votos": 97,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.91
+  },
+  {
+    "parroquia": "SAN BLAS",
+    "id": 3365,
+    "votos": 150,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.81
+  },
+  {
+    "parroquia": "TUMBABIRO",
+    "id": 4080,
+    "votos": 77,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.31
+  },
+  {
+    "parroquia": "URCUQUÍ",
+    "id": 6190,
+    "votos": 336,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.69
+  }
+]

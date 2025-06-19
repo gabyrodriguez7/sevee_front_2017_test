@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "COSANGA",
+        "id": 670,
+        "votos": 9,
+        "candidato": "Noboa Alvaro",
+        "value": 2.6
+    },
+    {
+        "parroquia": "CUYUJA",
+        "id": 765,
+        "votos": 5,
+        "candidato": "Noboa Alvaro",
+        "value": 1.5
+    },
+    {
+        "parroquia": "PAPALLACTA",
+        "id": 2770,
+        "votos": 7,
+        "candidato": "Noboa Alvaro",
+        "value": 1.6241299
+    },
+    {
+        "parroquia": "SAN FRANCISCO DE BORJA",
+        "id": 3395,
+        "votos": 18,
+        "candidato": "Noboa Alvaro",
+        "value": 1.0
+    },
+    {
+        "parroquia": "SUMACO",
+        "id": 3890,
+        "votos": 1,
+        "candidato": "Noboa Alvaro",
+        "value": 1.0
+    },
+    {
+        "parroquia": "BAEZA",
+        "id": 5090,
+        "votos": 17,
+        "candidato": "Noboa Alvaro",
+        "value": 1.0
+    }
+]

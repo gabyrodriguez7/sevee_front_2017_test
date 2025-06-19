@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "LODANA",
+        "id": 6725,
+        "votos": 44,
+        "candidato": "Alvaro Noboa",
+        "value": 8.54
+    },
+    {
+        "parroquia": "SANTA ANA",
+        "id": 6030,
+        "votos": 1335,
+        "candidato": "Alvaro Noboa",
+        "value": 10.07
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 2135,
+        "votos": 183,
+        "candidato": "Alvaro Noboa",
+        "value": 8.64
+    },
+    {
+        "parroquia": "HONORATO VASQUEZ",
+        "id": 1610,
+        "votos": 137,
+        "candidato": "Alvaro Noboa",
+        "value": 5.84
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 1105,
+        "votos": 47,
+        "candidato": "Alvaro Noboa",
+        "value": 3.78
+    },
+    {
+        "parroquia": "AYACUCHO",
+        "id": 220,
+        "votos": 265,
+        "candidato": "Alvaro Noboa",
+        "value": 7.53
+    }
+]

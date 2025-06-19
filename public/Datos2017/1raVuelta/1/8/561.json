@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "CHONTADURO",
+    "id": 930,
+    "votos": 245,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 18.95
+  },
+  {
+    "parroquia": "CHUMUNDÉ",
+    "id": 965,
+    "votos": 293,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 22.68
+  },
+  {
+    "parroquia": "LAGARTO",
+    "id": 2035,
+    "votos": 428,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 19.81
+  },
+  {
+    "parroquia": "MONTALVO / HORQUETA",
+    "id": 2445,
+    "votos": 286,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 15.16
+  },
+  {
+    "parroquia": "ROCAFUERTE",
+    "id": 3215,
+    "votos": 435,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 15.42
+  },
+  {
+    "parroquia": "RÍO VERDE",
+    "id": 6720,
+    "votos": 576,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 16.73
+  }
+]

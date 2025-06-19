@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "ZARUMA",
+        "id": 6310,
+        "votos": 4670,
+        "candidato": "Rafael Correa Delgado",
+        "value": 68.13
+    },
+    {
+        "parroquia": "MULUNCAY GRANDE",
+        "id": 4450,
+        "votos": 303,
+        "candidato": "Rafael Correa Delgado",
+        "value": 78.49
+    },
+    {
+        "parroquia": "ARCAPAMBA",
+        "id": 4445,
+        "votos": 458,
+        "candidato": "Rafael Correa Delgado",
+        "value": 80.06
+    },
+    {
+        "parroquia": "MALVAS",
+        "id": 2350,
+        "votos": 433,
+        "candidato": "Rafael Correa Delgado",
+        "value": 83.42
+    },
+    {
+        "parroquia": "SALVIAS",
+        "id": 1750,
+        "votos": 244,
+        "candidato": "Rafael Correa Delgado",
+        "value": 76.01
+    },
+    {
+        "parroquia": "SINSAO",
+        "id": 1700,
+        "votos": 296,
+        "candidato": "Rafael Correa Delgado",
+        "value": 72.01
+    },
+    {
+        "parroquia": "HUERTAS",
+        "id": 1655,
+        "votos": 870,
+        "candidato": "Rafael Correa Delgado",
+        "value": 76.51
+    },
+    {
+        "parroquia": "GUIZHAGUI�A",
+        "id": 1425,
+        "votos": 490,
+        "candidato": "Rafael Correa Delgado",
+        "value": 84.19
+    },
+    {
+        "parroquia": "GUANAZAN",
+        "id": 1420,
+        "votos": 882,
+        "candidato": "Rafael Correa Delgado",
+        "value": 78.89
+    },
+    {
+        "parroquia": "ABANIN",
+        "id": 5,
+        "votos": 345,
+        "candidato": "Rafael Correa Delgado",
+        "value": 69.27
+    }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "CHARAPOTO",
+    "id": 840,
+    "votos": 46,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.34
+  },
+  {
+    "parroquia": "SAN ISIDRO",
+    "id": 3445,
+    "votos": 43,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.64
+  },
+  {
+    "parroquia": "BAHÍA DE CARÁQUEZ",
+    "id": 5095,
+    "votos": 29,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.22
+  },
+  {
+    "parroquia": "LEONIDAS PLAZA G.",
+    "id": 5580,
+    "votos": 7,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.19
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "COJIMIES",
+    "id": 580,
+    "votos": 619,
+    "candidato": "Lasso Guillermo",
+    "value": 20.0
+  },
+  {
+    "parroquia": "ATAHUALPA",
+    "id": 785,
+    "votos": 222,
+    "candidato": "Lasso Guillermo",
+    "value": 21.0
+  },
+  {
+    "parroquia": "10 DE AGOSTO",
+    "id": 1030,
+    "votos": 304,
+    "candidato": "Lasso Guillermo",
+    "value": 17.0
+  },
+  {
+    "parroquia": "PEDERNALES",
+    "id": 6430,
+    "votos": 4939,
+    "candidato": "Lasso Guillermo",
+    "value": 23.7
+  }
+]

@@ -1,0 +1,254 @@
+[
+    {
+        "parroquia": "BAÑOS",
+        "id": 285,
+        "votos": 8892,
+        "candidato": "Correa Delgado Rafael",
+        "value": 65.0
+    },
+    {
+        "parroquia": "CUMBE",
+        "id": 730,
+        "votos": 2073,
+        "candidato": "Correa Delgado Rafael",
+        "value": 57.0
+    },
+    {
+        "parroquia": "CHAUCHA / ANGAS",
+        "id": 845,
+        "votos": 547,
+        "candidato": "Correa Delgado Rafael",
+        "value": 77.4
+    },
+    {
+        "parroquia": "CHECA JIDCAY",
+        "id": 860,
+        "votos": 1084,
+        "candidato": "Correa Delgado Rafael",
+        "value": 63.727
+    },
+    {
+        "parroquia": "CHIQUINTAD",
+        "id": 905,
+        "votos": 1663,
+        "candidato": "Correa Delgado Rafael",
+        "value": 63.814
+    },
+    {
+        "parroquia": "LLACAO",
+        "id": 2255,
+        "votos": 1646,
+        "candidato": "Correa Delgado Rafael",
+        "value": 64.982
+    },
+    {
+        "parroquia": "MOLLETURO",
+        "id": 2430,
+        "votos": 2355,
+        "candidato": "Correa Delgado Rafael",
+        "value": 58.08
+    },
+    {
+        "parroquia": "MULTI /  NULTI",
+        "id": 2570,
+        "votos": 1879,
+        "candidato": "Correa Delgado Rafael",
+        "value": 64.9
+    },
+    {
+        "parroquia": "OCTAVIO CORDERO PALACIOS",
+        "id": 2595,
+        "votos": 893,
+        "candidato": "Correa Delgado Rafael",
+        "value": 74.4
+    },
+    {
+        "parroquia": "PACCHA",
+        "id": 2680,
+        "votos": 2003,
+        "candidato": "Correa Delgado Rafael",
+        "value": 69.7
+    },
+    {
+        "parroquia": "QUINGEO",
+        "id": 3105,
+        "votos": 2168,
+        "candidato": "Correa Delgado Rafael",
+        "value": 63.0
+    },
+    {
+        "parroquia": "RICAURTE",
+        "id": 3165,
+        "votos": 6958,
+        "candidato": "Correa Delgado Rafael",
+        "value": 66.0
+    },
+    {
+        "parroquia": "SAN JOAQUIN",
+        "id": 3460,
+        "votos": 3494,
+        "candidato": "Correa Delgado Rafael",
+        "value": 68.349
+    },
+    {
+        "parroquia": "SANTA ANA",
+        "id": 3685,
+        "votos": 2642,
+        "candidato": "Correa Delgado Rafael",
+        "value": 74.801812
+    },
+    {
+        "parroquia": "SAYAUSI",
+        "id": 3795,
+        "votos": 4591,
+        "candidato": "Correa Delgado Rafael",
+        "value": 66.0
+    },
+    {
+        "parroquia": "SIDCAY",
+        "id": 3850,
+        "votos": 1870,
+        "candidato": "Correa Delgado Rafael",
+        "value": 76.9
+    },
+    {
+        "parroquia": "SININCAY",
+        "id": 3870,
+        "votos": 4372,
+        "candidato": "Correa Delgado Rafael",
+        "value": 69.54
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 3980,
+        "votos": 3767,
+        "candidato": "Correa Delgado Rafael",
+        "value": 66.79078
+    },
+    {
+        "parroquia": "TURI",
+        "id": 4095,
+        "votos": 2610,
+        "candidato": "Correa Delgado Rafael",
+        "value": 69.2
+    },
+    {
+        "parroquia": "VALLE",
+        "id": 4200,
+        "votos": 6487,
+        "candidato": "Correa Delgado Rafael",
+        "value": 66.0
+    },
+    {
+        "parroquia": "VICTORIA DEL PORTETE",
+        "id": 4225,
+        "votos": 1614,
+        "candidato": "Correa Delgado Rafael",
+        "value": 58.0
+    },
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 5075,
+        "votos": 6829,
+        "candidato": "Correa Delgado Rafael",
+        "value": 62.0
+    },
+    {
+        "parroquia": "CAÑARIBAMBA",
+        "id": 5080,
+        "votos": 3960,
+        "candidato": "Correa Delgado Rafael",
+        "value": 58.63192
+    },
+    {
+        "parroquia": "EL BATAN",
+        "id": 5135,
+        "votos": 4771,
+        "candidato": "Correa Delgado Rafael",
+        "value": 58.0
+    },
+    {
+        "parroquia": "MACHANGARA",
+        "id": 5140,
+        "votos": 3344,
+        "candidato": "Correa Delgado Rafael",
+        "value": 65.0
+    },
+    {
+        "parroquia": "MONAY",
+        "id": 5290,
+        "votos": 5290,
+        "candidato": "Correa Delgado Rafael",
+        "value": 65.0
+    },
+    {
+        "parroquia": "EL VECINO",
+        "id": 5330,
+        "votos": 19399,
+        "candidato": "Correa Delgado Rafael",
+        "value": 64.0
+    },
+    {
+        "parroquia": "TOTORACOCHA",
+        "id": 5360,
+        "votos": 9369,
+        "candidato": "Correa Delgado Rafael",
+        "value": 64.0
+    },
+    {
+        "parroquia": "YANUNCAY",
+        "id": 5370,
+        "votos": 8469,
+        "candidato": "Correa Delgado Rafael",
+        "value": 61.0
+    },
+    {
+        "parroquia": "HUAYNACAPAC",
+        "id": 5450,
+        "votos": 6810,
+        "candidato": "Correa Delgado Rafael",
+        "value": 55.0
+    },
+    {
+        "parroquia": "RAMIREZ DAVALOS",
+        "id": 5875,
+        "votos": 5554,
+        "candidato": "Correa Delgado Rafael",
+        "value": 58.22
+    },
+    {
+        "parroquia": "SAGRARIO",
+        "id": 5905,
+        "votos": 10559,
+        "candidato": "Correa Delgado Rafael",
+        "value": 58.0
+    },
+    {
+        "parroquia": "SAN BLAS",
+        "id": 5930,
+        "votos": 9691,
+        "candidato": "Correa Delgado Rafael",
+        "value": 56.0
+    },
+    {
+        "parroquia": "SAN SEBASTIAN",
+        "id": 6010,
+        "votos": 14021,
+        "candidato": "Correa Delgado Rafael",
+        "value": 59.0
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 6090,
+        "votos": 9174,
+        "candidato": "Correa Delgado Rafael",
+        "value": 55.0
+    },
+    {
+        "parroquia": "HERMANO MIGUEL",
+        "id": 6865,
+        "votos": 3610,
+        "candidato": "Correa Delgado Rafael",
+        "value": 70.3
+    }
+]

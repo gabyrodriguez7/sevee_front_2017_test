@@ -1,0 +1,107 @@
+[
+  {
+    "parroquia": "ALAQUEZ",
+    "id": 35,
+    "votos": 33,
+    "candidato": "Zavala Nelson",
+    "value": 0.8
+  },
+  {
+    "parroquia": "BELISARIO QUEVEDO",
+    "id": 315,
+    "votos": 12,
+    "candidato": "Zavala Nelson",
+    "value": 0.4
+  },
+  {
+    "parroquia": "GUAYTACAMA",
+    "id": 1485,
+    "votos": 62,
+    "candidato": "Zavala Nelson",
+    "value": 1.137406
+  },
+  {
+    "parroquia": "JOSEGUANGO BAJO",
+    "id": 1905,
+    "votos": 6,
+    "candidato": "Zavala Nelson",
+    "value": 0.6
+  },
+  {
+    "parroquia": "MULALO",
+    "id": 2480,
+    "votos": 34,
+    "candidato": "Zavala Nelson",
+    "value": 1.0
+  },
+  {
+    "parroquia": "11 DE NOVIEMBRE",
+    "id": 2620,
+    "votos": 7,
+    "candidato": "Zavala Nelson",
+    "value": 0.5
+  },
+  {
+    "parroquia": "POALO",
+    "id": 2920,
+    "votos": 29,
+    "candidato": "Zavala Nelson",
+    "value": 1.0
+  },
+  {
+    "parroquia": "SAN JUAN DE PASTOCALLE",
+    "id": 3530,
+    "votos": 55,
+    "candidato": "Zavala Nelson",
+    "value": 1.0
+  },
+  {
+    "parroquia": "TANICUCHI",
+    "id": 3965,
+    "votos": 80,
+    "candidato": "Zavala Nelson",
+    "value": 1.03
+  },
+  {
+    "parroquia": "TOACAZO",
+    "id": 4035,
+    "votos": 20,
+    "candidato": "Zavala Nelson",
+    "value": 0.35
+  },
+  {
+    "parroquia": "ELOY ALFARO / SAN FELIPE",
+    "id": 5310,
+    "votos": 137,
+    "candidato": "Zavala Nelson",
+    "value": 0.73
+  },
+  {
+    "parroquia": "IGNACIO FLORES",
+    "id": 5465,
+    "votos": 59,
+    "candidato": "Zavala Nelson",
+    "value": 0.6
+  },
+  {
+    "parroquia": "JUAN MONTALVO",
+    "id": 5500,
+    "votos": 45,
+    "candidato": "Zavala Nelson",
+    "value": 0.44
+  },
+  {
+    "parroquia": "LA MATRIZ",
+    "id": 5555,
+    "votos": 113,
+    "candidato": "Zavala Nelson",
+    "value": 0.6
+  },
+  {
+    "parroquia": "SAN BUENAVENTURA",
+    "id": 5940,
+    "votos": 13,
+    "candidato": "Zavala Nelson",
+    "value": 0.4
+  }
+]

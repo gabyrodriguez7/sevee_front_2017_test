@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "ASUNCION",
+        "id": 170,
+        "votos": 81,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 5.2
+    },
+    {
+        "parroquia": "MAGDALENA/CHAPACOTO",
+        "id": 2315,
+        "votos": 86,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.733076
+    },
+    {
+        "parroquia": "SAN SEBASTIAN",
+        "id": 3655,
+        "votos": 23,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.9676
+    },
+    {
+        "parroquia": "TELIMBELA",
+        "id": 3995,
+        "votos": 38,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 5.128
+    },
+    {
+        "parroquia": "SAN JOSE DE CHIMBO",
+        "id": 5975,
+        "votos": 181,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.16
+    }
+]

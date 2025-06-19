@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "24 DE MAYO",
+        "id": 6690,
+        "votos": 664,
+        "candidato": "Rafael Correa Delgado",
+        "value": 59.39
+    },
+    {
+        "parroquia": "VIVA ALFARO",
+        "id": 6660,
+        "votos": 873,
+        "candidato": "Rafael Correa Delgado",
+        "value": 57.92
+    },
+    {
+        "parroquia": "SIETE DE OCTUBRE",
+        "id": 6655,
+        "votos": 1471,
+        "candidato": "Rafael Correa Delgado",
+        "value": 59.31
+    },
+    {
+        "parroquia": "GUAYACAN",
+        "id": 6650,
+        "votos": 1072,
+        "candidato": "Rafael Correa Delgado",
+        "value": 58.26
+    },
+    {
+        "parroquia": "NICOLAS INFANTE DIAZ",
+        "id": 6645,
+        "votos": 784,
+        "candidato": "Rafael Correa Delgado",
+        "value": 56.6
+    },
+    {
+        "parroquia": "VENUS DEL RIO QUEVEDO",
+        "id": 6640,
+        "votos": 2096,
+        "candidato": "Rafael Correa Delgado",
+        "value": 63.76
+    },
+    {
+        "parroquia": "SAN CRISTOBAL",
+        "id": 6635,
+        "votos": 217,
+        "candidato": "Rafael Correa Delgado",
+        "value": 63.45
+    },
+    {
+        "parroquia": "SAN CAMILO",
+        "id": 6115,
+        "votos": 7985,
+        "candidato": "Rafael Correa Delgado",
+        "value": 58.34
+    },
+    {
+        "parroquia": "QUEVEDO",
+        "id": 5855,
+        "votos": 32258,
+        "candidato": "Rafael Correa Delgado",
+        "value": 56.7
+    },
+    {
+        "parroquia": "SAN CARLOS",
+        "id": 4425,
+        "votos": 2360,
+        "candidato": "Rafael Correa Delgado",
+        "value": 53.86
+    },
+    {
+        "parroquia": "LA ESPERANZA",
+        "id": 4420,
+        "votos": 724,
+        "candidato": "Rafael Correa Delgado",
+        "value": 63.67
+    }
+]

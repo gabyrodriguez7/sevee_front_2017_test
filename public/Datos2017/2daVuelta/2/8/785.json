@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "TONSUPA",
+    "id": 1615,
+    "votos": 3368,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 60.93
+  },
+  {
+    "parroquia": "LA UNIÓN",
+    "id": 2130,
+    "votos": 1083,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 64.43
+  },
+  {
+    "parroquia": "SÚA/BOCANA",
+    "id": 3880,
+    "votos": 1527,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 67.9
+  },
+  {
+    "parroquia": "TONCHÍGUE",
+    "id": 4055,
+    "votos": 3121,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 65.32
+  },
+  {
+    "parroquia": "ATACAMES",
+    "id": 6380,
+    "votos": 6560,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 58.53
+  }
+]

@@ -1,0 +1,16 @@
+[
+                {
+                    "parroquia": "CHILLANES",
+                    "id": 5245,
+                    "votos": 76,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 1.3
+                },
+                {
+                    "parroquia": "SAN JOSE DE TAMBO",
+                    "id": 3500,
+                    "votos": 20,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 0.75
+                }
+            ]

@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "NARANJAL",
+        "id": 5675,
+        "votos": 14717,
+        "candidato": "Rafael Correa Delgado",
+        "value": 67.06
+    },
+    {
+        "parroquia": "TAURA",
+        "id": 3990,
+        "votos": 1864,
+        "candidato": "Rafael Correa Delgado",
+        "value": 72.24
+    },
+    {
+        "parroquia": "SANTA ROSA DE FLANDES",
+        "id": 3740,
+        "votos": 346,
+        "candidato": "Rafael Correa Delgado",
+        "value": 73.46
+    },
+    {
+        "parroquia": "SAN CARLOS",
+        "id": 3370,
+        "votos": 664,
+        "candidato": "Rafael Correa Delgado",
+        "value": 70.48
+    },
+    {
+        "parroquia": "JESUS MARIA",
+        "id": 1830,
+        "votos": 787,
+        "candidato": "Rafael Correa Delgado",
+        "value": 72.6
+    }
+]

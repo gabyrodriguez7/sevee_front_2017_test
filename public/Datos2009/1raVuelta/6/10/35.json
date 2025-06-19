@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "SAN LUIS",
+        "id": 5980,
+        "votos": 219,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 2.06
+    },
+    {
+        "parroquia": "JORDAN",
+        "id": 5490,
+        "votos": 325,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 2.11
+    },
+    {
+        "parroquia": "SELVA ALEGRE",
+        "id": 3810,
+        "votos": 6,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.82
+    },
+    {
+        "parroquia": "SAN RAFAEL",
+        "id": 3630,
+        "votos": 17,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.74
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 3590,
+        "votos": 98,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 2.06
+    },
+    {
+        "parroquia": "SAN JUAN DE ILUMAN",
+        "id": 3525,
+        "votos": 35,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.01
+    },
+    {
+        "parroquia": "SAN JOSE DE QUICHINCHE",
+        "id": 3490,
+        "votos": 48,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.5
+    },
+    {
+        "parroquia": "PATAQUI",
+        "id": 2785,
+        "votos": 2,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.8
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 1360,
+        "votos": 31,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.08
+    },
+    {
+        "parroquia": "EUGENIO ESPEJO",
+        "id": 1215,
+        "votos": 39,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.41
+    },
+    {
+        "parroquia": "DR MIGUEL EGAS/PEGUCHE",
+        "id": 1040,
+        "votos": 29,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.18
+    }
+]

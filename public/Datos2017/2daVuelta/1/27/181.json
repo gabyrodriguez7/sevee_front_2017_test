@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "C. E. EN CHICAGO",
+    "id": 9027,
+    "votos": 1008,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 44.39
+  },
+  {
+    "parroquia": "C. E. EN MIAMI",
+    "id": 9028,
+    "votos": 1800,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 84.87
+  },
+  {
+    "parroquia": "C. E. EN NUEVA YORK",
+    "id": 9029,
+    "votos": 5281,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 50.00
+  },
+  {
+    "parroquia": "C. E. EN WASHINGTON",
+    "id": 9031,
+    "votos": 676,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 71.99
+  },
+  {
+    "parroquia": "C. E. EN LOS ÁNGELES",
+    "id": 9032,
+    "votos": 676,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 62.65
+  },
+  {
+    "parroquia": "C. E. EN CONNECTICUT",
+    "id": 9033,
+    "votos": 1391,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 55.35
+  },
+  {
+    "parroquia": "C. E. EN HOUSTON",
+    "id": 9034,
+    "votos": 526,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 79.46
+  },
+  {
+    "parroquia": "C. E. EN NEW JERSEY",
+    "id": 9035,
+    "votos": 5652,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 58.82
+  },
+  {
+    "parroquia": "C. E. EN MINNEAPOLIS",
+    "id": 9069,
+    "votos": 239,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 35.51
+  },
+  {
+    "parroquia": "C. E. EN ATLANTA",
+    "id": 9071,
+    "votos": 335,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 69.36
+  },
+  {
+    "parroquia": "C. E. EN PHOENIX",
+    "id": 9073,
+    "votos": 40,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 70.18
+  }
+]

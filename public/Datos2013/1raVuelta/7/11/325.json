@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "LA RAMA",
+        "id": 2085,
+        "votos": 3,
+        "candidato": "Zavala Nelson",
+        "value": 0.6
+    },
+    {
+        "parroquia": "LA VICTORIA",
+        "id": 2145,
+        "votos": 6,
+        "candidato": "Zavala Nelson",
+        "value": 1.0
+    },
+    {
+        "parroquia": "SABIANGO",
+        "id": 3265,
+        "votos": 1,
+        "candidato": "Zavala Nelson",
+        "value": 0.2
+    },
+    {
+        "parroquia": "GRAL.ELOY ALFARO",
+        "id": 5385,
+        "votos": 10,
+        "candidato": "Zavala Nelson",
+        "value": 1.1377
+    },
+    {
+        "parroquia": "MACARA",
+        "id": 5680,
+        "votos": 47,
+        "candidato": "Zavala Nelson",
+        "value": 0.574
+    }
+]

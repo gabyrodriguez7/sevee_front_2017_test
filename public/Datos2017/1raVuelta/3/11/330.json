@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "EL ARENAL",
+    "id": 270,
+    "votos": 242,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 56.81
+  },
+  {
+    "parroquia": "CIANO",
+    "id": 565,
+    "votos": 460,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 63.8
+  },
+  {
+    "parroquia": "EL LIMO /MARIANA DE JESÚS",
+    "id": 1155,
+    "votos": 825,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 61.84
+  },
+  {
+    "parroquia": "MERCADILLO",
+    "id": 2405,
+    "votos": 445,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 54
+  },
+  {
+    "parroquia": "VICENTINO",
+    "id": 4210,
+    "votos": 350,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 47.49
+  },
+  {
+    "parroquia": "ALAMOR",
+    "id": 5005,
+    "votos": 2775,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 46.24
+  }
+]

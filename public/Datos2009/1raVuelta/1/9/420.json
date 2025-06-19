@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "MILAGRO",
+        "id": 5660,
+        "votos": 3390,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 4.01
+    },
+    {
+        "parroquia": "ROBERTO ASTUDILLO",
+        "id": 3235,
+        "votos": 65,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.67
+    },
+    {
+        "parroquia": "MARISCAL SUCRE/HUAQUES",
+        "id": 2390,
+        "votos": 34,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.8
+    },
+    {
+        "parroquia": "CHOBO",
+        "id": 920,
+        "votos": 5,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.0
+    }
+]

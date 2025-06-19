@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "TRES CERRITOS",
+        "id": 6375,
+        "votos": 2,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.31
+    },
+    {
+        "parroquia": "BOLIVAR",
+        "id": 6370,
+        "votos": 3,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 4.91
+    },
+    {
+        "parroquia": "LOMA DE FRANCO",
+        "id": 6365,
+        "votos": 7,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.62
+    },
+    {
+        "parroquia": "OCHOA LEON/MATRIZ",
+        "id": 5770,
+        "votos": 1206,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 4.15
+    },
+    {
+        "parroquia": "CASACAY",
+        "id": 4495,
+        "votos": 18,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.5
+    },
+    {
+        "parroquia": "UZHCURRUMI",
+        "id": 4160,
+        "votos": 17,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.54
+    },
+    {
+        "parroquia": "LA PEAÑA",
+        "id": 2075,
+        "votos": 68,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.92
+    },
+    {
+        "parroquia": "PROGRESO",
+        "id": 1225,
+        "votos": 17,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.48
+    },
+    {
+        "parroquia": "CAÑAQUEMADA",
+        "id": 775,
+        "votos": 12,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.88
+    },
+    {
+        "parroquia": "BUENAVISTA",
+        "id": 390,
+        "votos": 96,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.18
+    }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "EL RETIRO",
+    "id": 255,
+    "votos": 539,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 31.07
+  },
+  {
+    "parroquia": "LA PROVIDENCIA",
+    "id": 5565,
+    "votos": 26597,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 47.32
+  },
+  {
+    "parroquia": "MACHALA",
+    "id": 5625,
+    "votos": 36008,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 47.42
+  },
+  {
+    "parroquia": "PUERTO BOLÍVAR",
+    "id": 5805,
+    "votos": 6389,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 35
+  },
+  {
+    "parroquia": "9 DE MAYO",
+    "id": 6490,
+    "votos": 1617,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 37.54
+  },
+  {
+    "parroquia": "EL CAMBIO",
+    "id": 6795,
+    "votos": 2228,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 38.04
+  },
+  {
+    "parroquia": "JUBONES",
+    "id": 7505,
+    "votos": 551,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 35.55
+  },
+  {
+    "parroquia": "JAMBELÍ",
+    "id": 7510,
+    "votos": 1237,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 32.12
+  }
+]

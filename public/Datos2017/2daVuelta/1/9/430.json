@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "GRAL. VERNAZA",
+    "id": 1350,
+    "votos": 1776,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 35.56
+  },
+  {
+    "parroquia": "JUNQUILLAL",
+    "id": 1595,
+    "votos": 2022,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 36.7
+  },
+  {
+    "parroquia": "VICTORIA",
+    "id": 4220,
+    "votos": 1152,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 41.14
+  },
+  {
+    "parroquia": "BOCANA",
+    "id": 5120,
+    "votos": 128,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 44.6
+  },
+  {
+    "parroquia": "CANDILEJOS",
+    "id": 5155,
+    "votos": 376,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 49.21
+  },
+  {
+    "parroquia": "SALITRE",
+    "id": 5200,
+    "votos": 10083,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 40.95
+  },
+  {
+    "parroquia": "PARAÍSO",
+    "id": 5765,
+    "votos": 72,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 53.73
+  },
+  {
+    "parroquia": "SAN MATEO",
+    "id": 5990,
+    "votos": 51,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 42.15
+  }
+]

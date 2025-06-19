@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "AMALUZA",
+    "id": 85,
+    "votos": 27,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 4.5
+  },
+  {
+    "parroquia": "PALMAS",
+    "id": 2725,
+    "votos": 73,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 4.24
+  },
+  {
+    "parroquia": "SEVILLA DE ORO",
+    "id": 6480,
+    "votos": 42,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 2.43
+  }
+]

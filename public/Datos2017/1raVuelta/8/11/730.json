@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "CHAQUINAL",
+    "id": 835,
+    "votos": 13,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.94
+  },
+  {
+    "parroquia": "12 DE DICIEMBRE",
+    "id": 1035,
+    "votos": 17,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.88
+  },
+  {
+    "parroquia": "MILAGROS",
+    "id": 4545,
+    "votos": 28,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.6
+  },
+  {
+    "parroquia": "PINDAL /FEDERÍCO PÁEZ",
+    "id": 5810,
+    "votos": 41,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.4
+  }
+]

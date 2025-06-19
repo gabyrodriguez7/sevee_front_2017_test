@@ -1,0 +1,20 @@
+[
+    {
+        "id": 800,
+        "candidato": "Diego Delgado Jara",
+        "votos": 8,
+        "value": 0.22
+    },
+    {
+        "id": 805,
+        "candidato": "Diego Delgado Jara",
+        "votos": 21,
+        "value": 0.32
+    },
+    {
+        "id": 810,
+        "candidato": "Diego Delgado Jara",
+        "votos": 5,
+        "value": 0.42
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "SIGSIG",
+        "id": 6085,
+        "votos": 201,
+        "candidato": "Diego Delgado Jara",
+        "value": 3.5
+    },
+    {
+        "parroquia": "SAN JOSE DE RARANGA",
+        "id": 3495,
+        "votos": 78,
+        "candidato": "Diego Delgado Jara",
+        "value": 12.01
+    },
+    {
+        "parroquia": "SAN BARTOLOME",
+        "id": 3360,
+        "votos": 23,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.61
+    },
+    {
+        "parroquia": "LUDO",
+        "id": 2215,
+        "votos": 37,
+        "candidato": "Diego Delgado Jara",
+        "value": 3.41
+    },
+    {
+        "parroquia": "GUEL",
+        "id": 1490,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.55
+    },
+    {
+        "parroquia": "GIMA",
+        "id": 1355,
+        "votos": 92,
+        "candidato": "Diego Delgado Jara",
+        "value": 6.21
+    },
+    {
+        "parroquia": "CUTCHIL",
+        "id": 750,
+        "votos": 16,
+        "candidato": "Diego Delgado Jara",
+        "value": 2.78
+    }
+]

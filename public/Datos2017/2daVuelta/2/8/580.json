@@ -1,0 +1,93 @@
+[
+  {
+    "parroquia": "ALTO TAMBO/GUADAL",
+    "id": 70,
+    "votos": 355,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 54.03
+  },
+  {
+    "parroquia": "ANCÓN/PALMA REAL",
+    "id": 110,
+    "votos": 669,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 77.61
+  },
+  {
+    "parroquia": "CALDERÓN",
+    "id": 435,
+    "votos": 277,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 68.91
+  },
+  {
+    "parroquia": "CARONDELET",
+    "id": 535,
+    "votos": 426,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 70.07
+  },
+  {
+    "parroquia": "5 DE JUNIO/HUIMBI",
+    "id": 570,
+    "votos": 145,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 80.11
+  },
+  {
+    "parroquia": "CONCEPCIÓN",
+    "id": 620,
+    "votos": 558,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 70.28
+  },
+  {
+    "parroquia": "MATAJE",
+    "id": 2395,
+    "votos": 456,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 80.57
+  },
+  {
+    "parroquia": "SAN JAVIER DE CACHABI",
+    "id": 3455,
+    "votos": 290,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 68.4
+  },
+  {
+    "parroquia": "SANTA RITA",
+    "id": 3725,
+    "votos": 503,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 81.13
+  },
+  {
+    "parroquia": "TAMBILLO",
+    "id": 3955,
+    "votos": 511,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 71.57
+  },
+  {
+    "parroquia": "TULULBÍ /RICAURTE",
+    "id": 4075,
+    "votos": 563,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 58.46
+  },
+  {
+    "parroquia": "URBINA",
+    "id": 4125,
+    "votos": 355,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 60.89
+  },
+  {
+    "parroquia": "SAN LORENZO",
+    "id": 6130,
+    "votos": 7595,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 59.49
+  }
+]

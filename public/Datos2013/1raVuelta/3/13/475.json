@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CHARAPOTO",
+        "id": 840,
+        "votos": 247,
+        "candidato": "Wray Norman",
+        "value": 1.905423
+    },
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 3445,
+        "votos": 45,
+        "candidato": "Wray Norman",
+        "value": 0.67094
+    },
+    {
+        "parroquia": "BAHIA DE CARAQUEZ",
+        "id": 5095,
+        "votos": 191,
+        "candidato": "Wray Norman",
+        "value": 1.46889
+    },
+    {
+        "parroquia": "LEONIDAS PLAZA G.",
+        "id": 5580,
+        "votos": 36,
+        "candidato": "Wray Norman",
+        "value": 1.14723
+    }
+]

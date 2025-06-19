@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "CANI",
+    "id": 500,
+    "votos": 84,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 14.76
+  },
+  {
+    "parroquia": "COLUMBE",
+    "id": 610,
+    "votos": 398,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 3.9
+  },
+  {
+    "parroquia": "JUAN DE VELASCO / PONGOR",
+    "id": 1865,
+    "votos": 102,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.01
+  },
+  {
+    "parroquia": "SANTIAGO DE QUITO",
+    "id": 4430,
+    "votos": 57,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 4.57
+  },
+  {
+    "parroquia": "CAJABAMBA",
+    "id": 5145,
+    "votos": 557,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.7
+  },
+  {
+    "parroquia": "SICALPA",
+    "id": 6080,
+    "votos": 513,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.49
+  }
+]

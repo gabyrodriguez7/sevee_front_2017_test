@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "EL REVENTADOR",
+    "id": 230,
+    "votos": 125,
+    "candidato": "Lasso Guillermo",
+    "value": 16.6
+  },
+  {
+    "parroquia": "GONZALO PIZARRO",
+    "id": 1090,
+    "votos": 286,
+    "candidato": "Lasso Guillermo",
+    "value": 18.596
+  },
+  {
+    "parroquia": "PUERTO LIBRE",
+    "id": 3615,
+    "votos": 73,
+    "candidato": "Lasso Guillermo",
+    "value": 13.905
+  },
+  {
+    "parroquia": "LUMBAQUI",
+    "id": 6300,
+    "votos": 546,
+    "candidato": "Lasso Guillermo",
+    "value": 22.195
+  }
+]

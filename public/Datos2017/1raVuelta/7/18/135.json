@@ -1,0 +1,191 @@
+[
+  {
+    "parroquia": "AMBATILLO",
+    "id": 95,
+    "votos": 82,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.76
+  },
+  {
+    "parroquia": "ATAHUALPA /CHIPZALATA",
+    "id": 190,
+    "votos": 148,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.42
+  },
+  {
+    "parroquia": "AUGUSTO N. MARTÍNEZ",
+    "id": 210,
+    "votos": 134,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.15
+  },
+  {
+    "parroquia": "CONSTANTINO FERNÁNDEZ",
+    "id": 635,
+    "votos": 37,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.17
+  },
+  {
+    "parroquia": "CUNCHIBAMBA",
+    "id": 800,
+    "votos": 55,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.27
+  },
+  {
+    "parroquia": "UNAMUNCHO",
+    "id": 810,
+    "votos": 34,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.18
+  },
+  {
+    "parroquia": "HUACHI GRANDE",
+    "id": 1625,
+    "votos": 192,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.36
+  },
+  {
+    "parroquia": "IZAMBA",
+    "id": 1745,
+    "votos": 304,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.34
+  },
+  {
+    "parroquia": "JUAN BENIGNO VELA",
+    "id": 1860,
+    "votos": 110,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.29
+  },
+  {
+    "parroquia": "MONTALVO",
+    "id": 2435,
+    "votos": 70,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.07
+  },
+  {
+    "parroquia": "PASA",
+    "id": 2775,
+    "votos": 107,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.68
+  },
+  {
+    "parroquia": "PICAYHUA",
+    "id": 2830,
+    "votos": 302,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.03
+  },
+  {
+    "parroquia": "PILAHUÍN",
+    "id": 2860,
+    "votos": 256,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.83
+  },
+  {
+    "parroquia": "QUISAPINCHA",
+    "id": 3120,
+    "votos": 280,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 4.13
+  },
+  {
+    "parroquia": "SAN BARTOLOMÉ",
+    "id": 3355,
+    "votos": 147,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.62
+  },
+  {
+    "parroquia": "SAN FERNANDO",
+    "id": 3380,
+    "votos": 48,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.18
+  },
+  {
+    "parroquia": "SANTA ROSA",
+    "id": 3730,
+    "votos": 318,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.95
+  },
+  {
+    "parroquia": "TOTORAS",
+    "id": 4065,
+    "votos": 108,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.51
+  },
+  {
+    "parroquia": "ATOCHA FICOA",
+    "id": 5045,
+    "votos": 204,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.07
+  },
+  {
+    "parroquia": "CELIANO MONGE",
+    "id": 5230,
+    "votos": 62,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.01
+  },
+  {
+    "parroquia": "HUACHI LORETO",
+    "id": 5445,
+    "votos": 1548,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.6
+  },
+  {
+    "parroquia": "HUACHI CHICO",
+    "id": 5455,
+    "votos": 661,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.13
+  },
+  {
+    "parroquia": "LA MATRIZ",
+    "id": 5545,
+    "votos": 583,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.54
+  },
+  {
+    "parroquia": "LA MERCED",
+    "id": 5560,
+    "votos": 470,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.72
+  },
+  {
+    "parroquia": "LA PENINSULA",
+    "id": 5605,
+    "votos": 40,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.74
+  },
+  {
+    "parroquia": "PISHILATA",
+    "id": 5840,
+    "votos": 34,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.57
+  },
+  {
+    "parroquia": "SAN FRANCISCO",
+    "id": 5945,
+    "votos": 124,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.14
+  }
+]

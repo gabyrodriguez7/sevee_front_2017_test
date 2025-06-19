@@ -1,0 +1,86 @@
+[
+  {
+    "parroquia": "DAYUMA",
+    "id": 1235,
+    "votos": 19,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.43
+  },
+  {
+    "parroquia": "TARACOA",
+    "id": 1245,
+    "votos": 8,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.51
+  },
+  {
+    "parroquia": "EL DORADO",
+    "id": 1560,
+    "votos": 7,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.54
+  },
+  {
+    "parroquia": "INÉS ARANGO",
+    "id": 1565,
+    "votos": 9,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.5
+  },
+  {
+    "parroquia": "EL EDÉN",
+    "id": 1590,
+    "votos": 2,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.53
+  },
+  {
+    "parroquia": "GARCÍA MORENO",
+    "id": 1810,
+    "votos": 2,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.23
+  },
+  {
+    "parroquia": "LA BELLEZA",
+    "id": 1820,
+    "votos": 27,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.16
+  },
+  {
+    "parroquia": "SAN LUIS DE ARMENIA",
+    "id": 1935,
+    "votos": 7,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.6
+  },
+  {
+    "parroquia": "NUEVO PARAÍSO",
+    "id": 1940,
+    "votos": 7,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.48
+  },
+  {
+    "parroquia": "SAN JOSÉ DE GUAYUSA",
+    "id": 1945,
+    "votos": 5,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.47
+  },
+  {
+    "parroquia": "ALEJANDRO LABAKA",
+    "id": 1995,
+    "votos": 0,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0
+  },
+  {
+    "parroquia": "PTO. FCO. DE ORELLANA",
+    "id": 5815,
+    "votos": 128,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.47
+  }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "BENITEZ /PACHANLICA",
+        "id": 335,
+        "votos": 6,
+        "candidato": "Zavala Nelson",
+        "value": 0.4
+    },
+    {
+        "parroquia": "BOLIVAR",
+        "id": 365,
+        "votos": 8,
+        "candidato": "Zavala Nelson",
+        "value": 0.49
+    },
+    {
+        "parroquia": "COTALO",
+        "id": 675,
+        "votos": 6,
+        "candidato": "Zavala Nelson",
+        "value": 0.5
+    },
+    {
+        "parroquia": "CHIQUICHA",
+        "id": 900,
+        "votos": 13,
+        "candidato": "Zavala Nelson",
+        "value": 1.0
+    },
+    {
+        "parroquia": "EL ROSARIO /RUMICHACA",
+        "id": 1185,
+        "votos": 11,
+        "candidato": "Zavala Nelson",
+        "value": 0.73
+    },
+    {
+        "parroquia": "GARCIA MORENO",
+        "id": 1320,
+        "votos": 11,
+        "candidato": "Zavala Nelson",
+        "value": 0.5189
+    },
+    {
+        "parroquia": "HUAMBALO",
+        "id": 1630,
+        "votos": 38,
+        "candidato": "Zavala Nelson",
+        "value": 0.79
+    },
+    {
+        "parroquia": "SALASACA",
+        "id": 3905,
+        "votos": 72,
+        "candidato": "Zavala Nelson",
+        "value": 2.472
+    },
+    {
+        "parroquia": "PELILEO",
+        "id": 5780,
+        "votos": 102,
+        "candidato": "Zavala Nelson",
+        "value": 0.6
+    },
+    {
+        "parroquia": "PELILEO GRANDE /R. MINO",
+        "id": 5900,
+        "votos": 4,
+        "candidato": "Zavala Nelson",
+        "value": 0.6
+    }
+]

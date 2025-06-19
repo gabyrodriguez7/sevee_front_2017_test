@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "CUMBARATZA",
+        "id": 720,
+        "votos": 252,
+        "candidato": "Acosta Alberto",
+        "value": 12.0
+    },
+    {
+        "parroquia": "GUADALUPE",
+        "id": 1390,
+        "votos": 362,
+        "candidato": "Acosta Alberto",
+        "value": 20.757
+    },
+    {
+        "parroquia": "SAN CARLOS DE LAS MINAS",
+        "id": 1770,
+        "votos": 179,
+        "candidato": "Acosta Alberto",
+        "value": 17.846
+    },
+    {
+        "parroquia": "LA VICTORIA DE IMBANA",
+        "id": 2155,
+        "votos": 192,
+        "candidato": "Acosta Alberto",
+        "value": 33.68
+    },
+    {
+        "parroquia": "SABANILLA",
+        "id": 3260,
+        "votos": 28,
+        "candidato": "Acosta Alberto",
+        "value": 6.6
+    },
+    {
+        "parroquia": "TIMBARA",
+        "id": 4010,
+        "votos": 144,
+        "candidato": "Acosta Alberto",
+        "value": 19.1235
+    },
+    {
+        "parroquia": "ZAMORA",
+        "id": 6305,
+        "votos": 1221,
+        "candidato": "Acosta Alberto",
+        "value": 13.872
+    },
+    {
+        "parroquia": "EL LIMON",
+        "id": 6840,
+        "votos": 34,
+        "candidato": "Acosta Alberto",
+        "value": 11.371
+    }
+]

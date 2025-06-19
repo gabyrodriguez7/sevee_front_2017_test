@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "PUJILI",
+    "id": 5820,
+    "votos": 6650,
+    "candidato": "Lucio Gutierrez",
+    "value": 38.22
+  },
+  {
+    "parroquia": "ZUMBAHUA",
+    "id": 4365,
+    "votos": 1213,
+    "candidato": "Lucio Gutierrez",
+    "value": 29.26
+  },
+  {
+    "parroquia": "TINGO",
+    "id": 4015,
+    "votos": 547,
+    "candidato": "Lucio Gutierrez",
+    "value": 40.69
+  },
+  {
+    "parroquia": "PILALO",
+    "id": 2865,
+    "votos": 164,
+    "candidato": "Lucio Gutierrez",
+    "value": 28.08
+  },
+  {
+    "parroquia": "LA VICTORIA",
+    "id": 2150,
+    "votos": 580,
+    "candidato": "Lucio Gutierrez",
+    "value": 39.83
+  },
+  {
+    "parroquia": "GUANGAJE",
+    "id": 1430,
+    "votos": 1207,
+    "candidato": "Lucio Gutierrez",
+    "value": 40.46
+  },
+  {
+    "parroquia": "ANGAMARCA",
+    "id": 125,
+    "votos": 581,
+    "candidato": "Lucio Gutierrez",
+    "value": 46.25
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "CAPZOL",
+    "id": 515,
+    "votos": 5,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.47
+  },
+  {
+    "parroquia": "COMPUD",
+    "id": 615,
+    "votos": 3,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.87
+  },
+  {
+    "parroquia": "GONZOL",
+    "id": 1370,
+    "votos": 12,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.23
+  },
+  {
+    "parroquia": "LLAGOS",
+    "id": 2260,
+    "votos": 8,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.26
+  },
+  {
+    "parroquia": "CHUNCHI",
+    "id": 5255,
+    "votos": 73,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.43
+  }
+]

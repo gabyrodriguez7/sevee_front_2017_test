@@ -1,0 +1,93 @@
+[
+    {
+        "parroquia": "CAMARONES",
+        "id": 450,
+        "votos": 33,
+        "candidato": "Noboa Alvaro",
+        "value": 2.99
+    },
+    {
+        "parroquia": "CRNL.CARLOS CONCHA TORRES",
+        "id": 655,
+        "votos": 156,
+        "candidato": "Noboa Alvaro",
+        "value": 21.3
+    },
+    {
+        "parroquia": "CHINCA",
+        "id": 895,
+        "votos": 89,
+        "candidato": "Noboa Alvaro",
+        "value": 5.8
+    },
+    {
+        "parroquia": "MAJUA",
+        "id": 2320,
+        "votos": 61,
+        "candidato": "Noboa Alvaro",
+        "value": 6.6
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 3570,
+        "votos": 118,
+        "candidato": "Noboa Alvaro",
+        "value": 5.14
+    },
+    {
+        "parroquia": "TABIAZO",
+        "id": 3930,
+        "votos": 85,
+        "candidato": "Noboa Alvaro",
+        "value": 6.5
+    },
+    {
+        "parroquia": "TACHINA",
+        "id": 3940,
+        "votos": 51,
+        "candidato": "Noboa Alvaro",
+        "value": 2.5462
+    },
+    {
+        "parroquia": "VUELTA LARGA",
+        "id": 4240,
+        "votos": 763,
+        "candidato": "Noboa Alvaro",
+        "value": 5.765
+    },
+    {
+        "parroquia": "BARTOLOME RUIZ",
+        "id": 5205,
+        "votos": 843,
+        "candidato": "Noboa Alvaro",
+        "value": 5.126
+    },
+    {
+        "parroquia": "5 DE AGOSTO",
+        "id": 5210,
+        "votos": 1068,
+        "candidato": "Noboa Alvaro",
+        "value": 4.38
+    },
+    {
+        "parroquia": "ESMERALDAS",
+        "id": 5335,
+        "votos": 1375,
+        "candidato": "Noboa Alvaro",
+        "value": 4.89
+    },
+    {
+        "parroquia": "LUIS TELLO / LAS PALMAS /",
+        "id": 5600,
+        "votos": 463,
+        "candidato": "Noboa Alvaro",
+        "value": 7.38
+    },
+    {
+        "parroquia": "SIMON PLATA TORRES",
+        "id": 6905,
+        "votos": 174,
+        "candidato": "Noboa Alvaro",
+        "value": 4.51
+    }
+]

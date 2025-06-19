@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "BOYACÁ",
+    "id": 380,
+    "votos": 127,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 4.99
+  },
+  {
+    "parroquia": "CHIBUNGA",
+    "id": 405,
+    "votos": 60,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.21
+  },
+  {
+    "parroquia": "CANUTO",
+    "id": 495,
+    "votos": 457,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 7.07
+  },
+  {
+    "parroquia": "CONVENTO",
+    "id": 640,
+    "votos": 119,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.55
+  },
+  {
+    "parroquia": "ELOY ALFARO",
+    "id": 1160,
+    "votos": 95,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.89
+  },
+  {
+    "parroquia": "RICAURTE",
+    "id": 3170,
+    "votos": 143,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 4.18
+  },
+  {
+    "parroquia": "SAN ANTONIO / DEL PELUDO",
+    "id": 3350,
+    "votos": 304,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 6.29
+  },
+  {
+    "parroquia": "CHONE",
+    "id": 5250,
+    "votos": 2756,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 6.77
+  },
+  {
+    "parroquia": "SANTA RITA",
+    "id": 6055,
+    "votos": 568,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 6.14
+  }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "QUINCHICOTO",
+        "id": 1375,
+        "votos": 123,
+        "candidato": "Gutierrez Lucio",
+        "value": 20.7
+    },
+    {
+        "parroquia": "TISALEO",
+        "id": 5515,
+        "votos": 1014,
+        "candidato": "Gutierrez Lucio",
+        "value": 15.0
+    }
+]

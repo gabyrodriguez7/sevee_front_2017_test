@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "COPAL",
+    "id": 645,
+    "votos": 34,
+    "candidato": "Lasso Guillermo",
+    "value": 15.7407407
+  },
+  {
+    "parroquia": "CHUPIANZA",
+    "id": 970,
+    "votos": 49,
+    "candidato": "Lasso Guillermo",
+    "value": 15.86
+  },
+  {
+    "parroquia": "SAN FCO. DE CHINIMBIMI",
+    "id": 1365,
+    "votos": 54,
+    "candidato": "Lasso Guillermo",
+    "value": 11.4
+  },
+  {
+    "parroquia": "PATUCA",
+    "id": 2795,
+    "votos": 128,
+    "candidato": "Lasso Guillermo",
+    "value": 19.4
+  },
+  {
+    "parroquia": "SAN LUIS DEL ACHO",
+    "id": 3565,
+    "votos": 70,
+    "candidato": "Lasso Guillermo",
+    "value": 23.0
+  },
+  {
+    "parroquia": "TAYUZA",
+    "id": 4115,
+    "votos": 111,
+    "candidato": "Lasso Guillermo",
+    "value": 16.34757
+  },
+  {
+    "parroquia": "MENDEZ",
+    "id": 5645,
+    "votos": 643,
+    "candidato": "Lasso Guillermo",
+    "value": 26.78
+  }
+]

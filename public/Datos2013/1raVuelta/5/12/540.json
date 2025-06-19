@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "LA ESPERANZA",
+        "id": 4420,
+        "votos": 117,
+        "candidato": "Gutierrez Lucio",
+        "value": 7.2943
+    },
+    {
+        "parroquia": "SAN CARLOS",
+        "id": 4425,
+        "votos": 572,
+        "candidato": "Gutierrez Lucio",
+        "value": 9.453
+    },
+    {
+        "parroquia": "QUEVEDO",
+        "id": 5855,
+        "votos": 3801,
+        "candidato": "Gutierrez Lucio",
+        "value": 5.8919
+    },
+    {
+        "parroquia": "SAN CAMILO",
+        "id": 6115,
+        "votos": 969,
+        "candidato": "Gutierrez Lucio",
+        "value": 5.63176
+    },
+    {
+        "parroquia": "SAN CRISTOBAL",
+        "id": 6635,
+        "votos": 46,
+        "candidato": "Gutierrez Lucio",
+        "value": 5.7935
+    },
+    {
+        "parroquia": "VENUS DEL RIO QUEVEDO",
+        "id": 6640,
+        "votos": 287,
+        "candidato": "Gutierrez Lucio",
+        "value": 5.92363
+    },
+    {
+        "parroquia": "NICOLAS INFANTE DIAZ",
+        "id": 6645,
+        "votos": 122,
+        "candidato": "Gutierrez Lucio",
+        "value": 5.8429
+    },
+    {
+        "parroquia": "GUAYACAN",
+        "id": 6650,
+        "votos": 107,
+        "candidato": "Gutierrez Lucio",
+        "value": 3.86282
+    },
+    {
+        "parroquia": "SIETE DE OCTUBRE",
+        "id": 6655,
+        "votos": 153,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.394
+    },
+    {
+        "parroquia": "VIVA ALFARO",
+        "id": 6660,
+        "votos": 83,
+        "candidato": "Gutierrez Lucio",
+        "value": 3.95426
+    },
+    {
+        "parroquia": "24 DE MAYO",
+        "id": 6690,
+        "votos": 101,
+        "candidato": "Gutierrez Lucio",
+        "value": 5.74516
+    }
+]

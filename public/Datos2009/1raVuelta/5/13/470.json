@@ -1,0 +1,44 @@
+[
+                {
+                    "parroquia": "LODANA",
+                    "id": 6725,
+                    "votos": 0,
+                    "candidato": "Melba Jacome",
+                    "value": 0.0
+                },
+                {
+                    "parroquia": "SANTA ANA",
+                    "id": 6030,
+                    "votos": 90,
+                    "candidato": "Melba Jacome",
+                    "value": 0.68
+                },
+                {
+                    "parroquia": "LA UNION",
+                    "id": 2135,
+                    "votos": 27,
+                    "candidato": "Melba Jacome",
+                    "value": 1.28
+                },
+                {
+                    "parroquia": "HONORATO VASQUEZ",
+                    "id": 1610,
+                    "votos": 17,
+                    "candidato": "Melba Jacome",
+                    "value": 0.72
+                },
+                {
+                    "parroquia": "SAN PABLO",
+                    "id": 1105,
+                    "votos": 12,
+                    "candidato": "Melba Jacome",
+                    "value": 0.96
+                },
+                {
+                    "parroquia": "AYACUCHO",
+                    "id": 220,
+                    "votos": 26,
+                    "candidato": "Melba Jacome",
+                    "value": 0.74
+                }
+            ]

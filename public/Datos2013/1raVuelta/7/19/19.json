@@ -1,0 +1,56 @@
+[
+    {
+        "id": 130,
+        "candidato": "Zavala Nelson",
+        "votos": 8,
+        "value": 0.3
+    },
+    {
+        "id": 655,
+        "candidato": "Zavala Nelson",
+        "votos": 55,
+        "value": 0.3504
+    },
+    {
+        "id": 660,
+        "candidato": "Zavala Nelson",
+        "votos": 10,
+        "value": 0.21
+    },
+    {
+        "id": 661,
+        "candidato": "Zavala Nelson",
+        "votos": 10,
+        "value": 0.2
+    },
+    {
+        "id": 665,
+        "candidato": "Zavala Nelson",
+        "votos": 11,
+        "value": 0.3
+    },
+    {
+        "id": 670,
+        "candidato": "Zavala Nelson",
+        "votos": 45,
+        "value": 0.44
+    },
+    {
+        "id": 775,
+        "candidato": "Zavala Nelson",
+        "votos": 14,
+        "value": 0.3
+    },
+    {
+        "id": 980,
+        "candidato": "Zavala Nelson",
+        "votos": 11,
+        "value": 0.271
+    },
+    {
+        "id": 981,
+        "candidato": "Zavala Nelson",
+        "votos": 3,
+        "value": 0.142
+    }
+]

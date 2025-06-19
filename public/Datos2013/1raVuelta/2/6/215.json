@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "ACHUPALLAS",
+        "id": 20,
+        "votos": 2433,
+        "candidato": "Correa Delgado Rafael",
+        "value": 58.4
+    },
+    {
+        "parroquia": "GUASUNTOS",
+        "id": 1465,
+        "votos": 580,
+        "candidato": "Correa Delgado Rafael",
+        "value": 59.7
+    },
+    {
+        "parroquia": "HUIGRA",
+        "id": 1660,
+        "votos": 822,
+        "candidato": "Correa Delgado Rafael",
+        "value": 68.729
+    },
+    {
+        "parroquia": "MULTITUD",
+        "id": 2485,
+        "votos": 304,
+        "candidato": "Correa Delgado Rafael",
+        "value": 42.577
+    },
+    {
+        "parroquia": "PISTISHI",
+        "id": 2905,
+        "votos": 90,
+        "candidato": "Correa Delgado Rafael",
+        "value": 61.2
+    },
+    {
+        "parroquia": "PUMALLACTA",
+        "id": 3025,
+        "votos": 287,
+        "candidato": "Correa Delgado Rafael",
+        "value": 78.2
+    },
+    {
+        "parroquia": "SEVILLA",
+        "id": 3820,
+        "votos": 340,
+        "candidato": "Correa Delgado Rafael",
+        "value": 81.15
+    },
+    {
+        "parroquia": "SIBAMBE",
+        "id": 3845,
+        "votos": 669,
+        "candidato": "Correa Delgado Rafael",
+        "value": 44.0
+    },
+    {
+        "parroquia": "TIXAN",
+        "id": 4030,
+        "votos": 2062,
+        "candidato": "Correa Delgado Rafael",
+        "value": 43.5
+    },
+    {
+        "parroquia": "ALAUSI",
+        "id": 5010,
+        "votos": 3267,
+        "candidato": "Correa Delgado Rafael",
+        "value": 47.4
+    }
+]

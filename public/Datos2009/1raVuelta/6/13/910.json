@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "PEDERNALES",
+    "id": 6430,
+    "votos": 124,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.86
+  },
+  {
+    "parroquia": "10 DE AGOSTO",
+    "id": 1030,
+    "votos": 26,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.94
+  },
+  {
+    "parroquia": "ATAHUALPA",
+    "id": 785,
+    "votos": 9,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.12
+  },
+  {
+    "parroquia": "COJIMIES",
+    "id": 580,
+    "votos": 23,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.14
+  }
+]

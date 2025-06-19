@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "DANIEL CÓRDOVA TORAL",
+    "id": 1005,
+    "votos": 541,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 54.87
+  },
+  {
+    "parroquia": "LUIS CORDERO VEGA",
+    "id": 1760,
+    "votos": 157,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 49.22
+  },
+  {
+    "parroquia": "JADÁN",
+    "id": 1805,
+    "votos": 1287,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 50.18
+  },
+  {
+    "parroquia": "MARIANO MORENO/CALLASAY",
+    "id": 2385,
+    "votos": 578,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 53.22
+  },
+  {
+    "parroquia": "REMIGIO CRESPO TORAL",
+    "id": 3160,
+    "votos": 280,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 54.05
+  },
+  {
+    "parroquia": "SAN JUAN",
+    "id": 3505,
+    "votos": 1501,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 59.14
+  },
+  {
+    "parroquia": "SIMÓN BOLÍVAR",
+    "id": 3780,
+    "votos": 246,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 56.42
+  },
+  {
+    "parroquia": "ZHIDMAD",
+    "id": 4340,
+    "votos": 807,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 54.05
+  },
+  {
+    "parroquia": "GUALACEO",
+    "id": 5420,
+    "votos": 7249,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 48.13
+  }
+]

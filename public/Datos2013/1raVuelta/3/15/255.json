@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "GONZALO DIAZ DE PINEDA",
+        "id": 1020,
+        "votos": 2,
+        "candidato": "Wray Norman",
+        "value": 0.6
+    },
+    {
+        "parroquia": "LINARES",
+        "id": 2180,
+        "votos": 3,
+        "candidato": "Wray Norman",
+        "value": 1.8
+    },
+    {
+        "parroquia": "OYACACHI",
+        "id": 2640,
+        "votos": 2,
+        "candidato": "Wray Norman",
+        "value": 0.5555556
+    },
+    {
+        "parroquia": "SANTA ROSA DE QUIJOS",
+        "id": 3745,
+        "votos": 3,
+        "candidato": "Wray Norman",
+        "value": 0.4103967
+    },
+    {
+        "parroquia": "SARDINAS",
+        "id": 3790,
+        "votos": 2,
+        "candidato": "Wray Norman",
+        "value": 0.69
+    },
+    {
+        "parroquia": "EL CHACO",
+        "id": 5510,
+        "votos": 24,
+        "candidato": "Wray Norman",
+        "value": 0.77
+    }
+]

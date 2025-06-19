@@ -1,0 +1,90 @@
+[
+	{
+		"candidato1": "MORENO GARCES LENIN BOLTAIRE",
+		"candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+		"id": 1045,
+		"votos": 1918,
+		"votos1": 1042,
+		"votos2": 876,
+		"fill": "#1eff00",
+		"porcentaje1": 54.33,
+		"porcentaje2": 45.67
+	},
+	{
+		"candidato1": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+		"candidato2": "MORENO GARCES LENIN BOLTAIRE",
+		"id": 1285,
+		"votos": 3825,
+		"votos1": 2208,
+		"votos2": 1617,
+		"fill": "#062e81",
+		"porcentaje1": 57.73,
+		"porcentaje2": 42.27
+	},
+	{
+		"candidato1": "MORENO GARCES LENIN BOLTAIRE",
+		"candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+		"id": 1290,
+		"votos": 4282,
+		"votos1": 2443,
+		"votos2": 1839,
+		"fill": "#1eff00",
+		"porcentaje1": 57.05,
+		"porcentaje2": 42.95
+	},
+	{
+		"candidato1": "MORENO GARCES LENIN BOLTAIRE",
+		"candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+		"id": 1330,
+		"votos": 2950,
+		"votos1": 1898,
+		"votos2": 1052,
+		"fill": "#1eff00",
+		"porcentaje1": 64.34,
+		"porcentaje2": 35.66
+	},
+	{
+		"candidato1": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+		"candidato2": "MORENO GARCES LENIN BOLTAIRE",
+		"id": 1790,
+		"votos": 2610,
+		"votos1": 1363,
+		"votos2": 1247,
+		"fill": "#062e81",
+		"porcentaje1": 52.22,
+		"porcentaje2": 47.78
+	},
+	{
+		"candidato1": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+		"candidato2": "MORENO GARCES LENIN BOLTAIRE",
+		"id": 1795,
+		"votos": 1479,
+		"votos1": 794,
+		"votos2": 685,
+		"fill": "#062e81",
+		"porcentaje1": 53.68,
+		"porcentaje2": 46.32
+	},
+	{
+		"candidato1": "MORENO GARCES LENIN BOLTAIRE",
+		"candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+		"id": 4625,
+		"votos": 586,
+		"votos1": 372,
+		"votos2": 214,
+		"fill": "#1eff00",
+		"porcentaje1": 63.48,
+		"porcentaje2": 36.52
+	},
+	{
+		"candidato1": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+		"candidato2": "MORENO GARCES LENIN BOLTAIRE",
+		"id": 5710,
+		"votos": 40081,
+		"votos1": 20080,
+		"votos2": 20001,
+		"fill": "#062e81",
+		"porcentaje1": 50.1,
+		"porcentaje2": 49.9
+	}
+]

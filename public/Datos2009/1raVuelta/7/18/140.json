@@ -1,0 +1,72 @@
+[
+  {
+    "parroquia": "PELILEO GRANDE /R. MINO",
+    "id": 5900,
+    "votos": 24,
+    "candidato": "Alvaro Noboa",
+    "value": 4.7
+  },
+  {
+    "parroquia": "PELILEO",
+    "id": 5780,
+    "votos": 823,
+    "candidato": "Alvaro Noboa",
+    "value": 5.68
+  },
+  {
+    "parroquia": "SALASACA",
+    "id": 3905,
+    "votos": 154,
+    "candidato": "Alvaro Noboa",
+    "value": 6.64
+  },
+  {
+    "parroquia": "HUAMBALO",
+    "id": 1630,
+    "votos": 381,
+    "candidato": "Alvaro Noboa",
+    "value": 9.25
+  },
+  {
+    "parroquia": "GARCIA MORENO",
+    "id": 1320,
+    "votos": 101,
+    "candidato": "Alvaro Noboa",
+    "value": 5.74
+  },
+  {
+    "parroquia": "EL ROSARIO /RUMICHACA",
+    "id": 1185,
+    "votos": 47,
+    "candidato": "Alvaro Noboa",
+    "value": 3.79
+  },
+  {
+    "parroquia": "CHIQUICHA",
+    "id": 900,
+    "votos": 76,
+    "candidato": "Alvaro Noboa",
+    "value": 7.58
+  },
+  {
+    "parroquia": "COTALO",
+    "id": 675,
+    "votos": 83,
+    "candidato": "Alvaro Noboa",
+    "value": 7.57
+  },
+  {
+    "parroquia": "BOLIVAR",
+    "id": 365,
+    "votos": 61,
+    "candidato": "Alvaro Noboa",
+    "value": 4.41
+  },
+  {
+    "parroquia": "BENITEZ /PACHANLICA",
+    "id": 335,
+    "votos": 51,
+    "candidato": "Alvaro Noboa",
+    "value": 4.02
+  }
+]

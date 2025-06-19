@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "PALANDA",
+        "id": 6740,
+        "votos": 1444,
+        "candidato": "Rafael Correa Delgado",
+        "value": 71.91
+    },
+    {
+        "parroquia": "SAN FRANCISCO DEL VERGEL",
+        "id": 4505,
+        "votos": 278,
+        "candidato": "Rafael Correa Delgado",
+        "value": 54.4
+    },
+    {
+        "parroquia": "VALLADOLID",
+        "id": 4195,
+        "votos": 575,
+        "candidato": "Rafael Correa Delgado",
+        "value": 74.1
+    },
+    {
+        "parroquia": "EL PORVENIR DEL CARMEN",
+        "id": 1240,
+        "votos": 303,
+        "candidato": "Rafael Correa Delgado",
+        "value": 52.7
+    }
+]

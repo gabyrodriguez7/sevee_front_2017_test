@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "LIMONAL",
+    "id": 260,
+    "votos": 316,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 18.09
+  },
+  {
+    "parroquia": "JUAN BAUTISTA AGUIRRE",
+    "id": 1855,
+    "votos": 346,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 12.96
+  },
+  {
+    "parroquia": "LAS LOJAS",
+    "id": 2105,
+    "votos": 469,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 15.72
+  },
+  {
+    "parroquia": "EL LAUREL",
+    "id": 4500,
+    "votos": 747,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 17.8
+  },
+  {
+    "parroquia": "DAULE",
+    "id": 5275,
+    "votos": 8517,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 15.11
+  },
+  {
+    "parroquia": "LA AURORA",
+    "id": 6850,
+    "votos": 5376,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 41.56
+  },
+  {
+    "parroquia": "MAGRO",
+    "id": 7425,
+    "votos": 37,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 15.35
+  }
+]

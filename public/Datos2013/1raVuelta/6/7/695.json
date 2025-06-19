@@ -1,0 +1,44 @@
+[
+	{
+		"parroquia": "HUAQUILLAS",
+		"id": 5460,
+		"votos": 9901,
+		"candidato": "Lasso Guillermo",
+		"value": 40.0
+	},
+	{
+		"parroquia": "HUALTACO",
+		"id": 6800,
+		"votos": 124,
+		"candidato": "Lasso Guillermo",
+		"value": 25.462
+	},
+	{
+		"parroquia": "MILTON REYES",
+		"id": 6805,
+		"votos": 140,
+		"candidato": "Lasso Guillermo",
+		"value": 31.603
+	},
+	{
+		"parroquia": "EL PARAISO",
+		"id": 6810,
+		"votos": 157,
+		"candidato": "Lasso Guillermo",
+		"value": 37.0
+	},
+	{
+		"parroquia": "ECUADOR",
+		"id": 6815,
+		"votos": 221,
+		"candidato": "Lasso Guillermo",
+		"value": 32.6440177
+	},
+	{
+		"parroquia": "UNION LOJANA",
+		"id": 6820,
+		"votos": 332,
+		"candidato": "Lasso Guillermo",
+		"value": 29.6164139
+	}
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "CANGONAMÁ",
+    "id": 485,
+    "votos": 319,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 48.41
+  },
+  {
+    "parroquia": "SAN ANTONIO",
+    "id": 545,
+    "votos": 201,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 45.68
+  },
+  {
+    "parroquia": "CASANGA",
+    "id": 995,
+    "votos": 353,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 65.74
+  },
+  {
+    "parroquia": "YAMANA",
+    "id": 1000,
+    "votos": 302,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 48.24
+  },
+  {
+    "parroquia": "GUACHANAMA",
+    "id": 1380,
+    "votos": 383,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 50.8
+  },
+  {
+    "parroquia": "LAURO GUERRERO",
+    "id": 2140,
+    "votos": 596,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 54.08
+  },
+  {
+    "parroquia": "ORIANGA",
+    "id": 2630,
+    "votos": 613,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 55.37
+  },
+  {
+    "parroquia": "CATACOCHA",
+    "id": 5180,
+    "votos": 4102,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 44.05
+  },
+  {
+    "parroquia": "LOURDES",
+    "id": 5595,
+    "votos": 379,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 47.43
+  }
+]

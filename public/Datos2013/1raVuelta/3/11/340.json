@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 320,
+        "votos": 7,
+        "candidato": "Wray Norman",
+        "value": 0.7
+    },
+    {
+        "parroquia": "EL INGENIO",
+        "id": 790,
+        "votos": 10,
+        "candidato": "Wray Norman",
+        "value": 1.2
+    },
+    {
+        "parroquia": "EL AIRO",
+        "id": 1645,
+        "votos": 8,
+        "candidato": "Wray Norman",
+        "value": 1.82
+    },
+    {
+        "parroquia": "JIMBURA",
+        "id": 1845,
+        "votos": 11,
+        "candidato": "Wray Norman",
+        "value": 1.1282
+    },
+    {
+        "parroquia": "SANTA TERESITA",
+        "id": 3765,
+        "votos": 5,
+        "candidato": "Wray Norman",
+        "value": 0.68
+    },
+    {
+        "parroquia": "27 DE ABRIL /LA NARANJA",
+        "id": 4460,
+        "votos": 4,
+        "candidato": "Wray Norman",
+        "value": 0.42
+    },
+    {
+        "parroquia": "AMALUZA",
+        "id": 5020,
+        "votos": 31,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    }
+]

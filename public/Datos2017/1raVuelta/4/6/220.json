@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "CAPZOL",
+    "id": 515,
+    "votos": 65,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 19.06
+  },
+  {
+    "parroquia": "COMPUD",
+    "id": 615,
+    "votos": 51,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 14.78
+  },
+  {
+    "parroquia": "GONZOL",
+    "id": 1370,
+    "votos": 37,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.86
+  },
+  {
+    "parroquia": "LLAGOS",
+    "id": 2260,
+    "votos": 73,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.48
+  },
+  {
+    "parroquia": "CHUNCHI",
+    "id": 5255,
+    "votos": 526,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.3
+  }
+]

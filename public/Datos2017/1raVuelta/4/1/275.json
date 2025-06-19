@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "BULÁN / J. VICTOR IZQUIERDO",
+    "id": 395,
+    "votos": 43,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.05
+  },
+  {
+    "parroquia": "CHICAN / GUILLERMO ORTEGA",
+    "id": 870,
+    "votos": 113,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.6
+  },
+  {
+    "parroquia": "DUG-DUG",
+    "id": 890,
+    "votos": 47,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.36
+  },
+  {
+    "parroquia": "GUARAINAC",
+    "id": 1455,
+    "votos": 46,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.26
+  },
+  {
+    "parroquia": "SAN CRISTÓBAL",
+    "id": 3375,
+    "votos": 103,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.21
+  },
+  {
+    "parroquia": "TOMEBAMBA",
+    "id": 4050,
+    "votos": 44,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.18
+  },
+  {
+    "parroquia": "EL CABO",
+    "id": 4565,
+    "votos": 54,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.63
+  },
+  {
+    "parroquia": "PAUTE",
+    "id": 5775,
+    "votos": 649,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.64
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "C. E. EN BRASILIA",
+    "id": 9009,
+    "votos": 1,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": "2,38"
+  },
+  {
+    "parroquia": "C. E. EN SAO PAULO",
+    "id": 9067,
+    "votos": 1,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": "0,69"
+  },
+  {
+    "parroquia": "C. E. EN RÍO DE JANEIRO",
+    "id": 9083,
+    "votos": 1,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": "1,52"
+  }
+]

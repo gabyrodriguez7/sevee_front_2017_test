@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CAHUASQUI",
+        "id": 425,
+        "votos": 5,
+        "candidato": "Zavala Nelson",
+        "value": 0.4
+    },
+    {
+        "parroquia": "LA MERCED DE BUENOS AIRES",
+        "id": 2060,
+        "votos": 5,
+        "candidato": "Zavala Nelson",
+        "value": 0.48309
+    },
+    {
+        "parroquia": "PABLO ARENAS",
+        "id": 2675,
+        "votos": 8,
+        "candidato": "Zavala Nelson",
+        "value": 0.6
+    },
+    {
+        "parroquia": "SAN BLAS",
+        "id": 3365,
+        "votos": 9,
+        "candidato": "Zavala Nelson",
+        "value": 0.45
+    },
+    {
+        "parroquia": "TUMBABIRO",
+        "id": 4080,
+        "votos": 2,
+        "candidato": "Zavala Nelson",
+        "value": 0.212
+    },
+    {
+        "parroquia": "URCUQUI",
+        "id": 6190,
+        "votos": 19,
+        "candidato": "Zavala Nelson",
+        "value": 0.0
+    }
+]

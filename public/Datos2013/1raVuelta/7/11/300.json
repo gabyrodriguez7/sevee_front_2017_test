@@ -1,0 +1,121 @@
+[
+    {
+        "parroquia": "CHUQUIRIBAMBA",
+        "id": 975,
+        "votos": 20,
+        "candidato": "Zavala Nelson",
+        "value": 1.3158
+    },
+    {
+        "parroquia": "EL CISNE",
+        "id": 1135,
+        "votos": 6,
+        "candidato": "Zavala Nelson",
+        "value": 0.7
+    },
+    {
+        "parroquia": "GUALEL",
+        "id": 1405,
+        "votos": 6,
+        "candidato": "Zavala Nelson",
+        "value": 0.56022
+    },
+    {
+        "parroquia": "QUINARA",
+        "id": 1780,
+        "votos": 1,
+        "candidato": "Zavala Nelson",
+        "value": 0.139
+    },
+    {
+        "parroquia": "JIMBILLA",
+        "id": 1840,
+        "votos": 11,
+        "candidato": "Zavala Nelson",
+        "value": 1.6
+    },
+    {
+        "parroquia": "MALACATOS/VALLADOLID",
+        "id": 2325,
+        "votos": 22,
+        "candidato": "Zavala Nelson",
+        "value": 0.518
+    },
+    {
+        "parroquia": "SAN LUCAS",
+        "id": 3555,
+        "votos": 17,
+        "candidato": "Zavala Nelson",
+        "value": 0.694
+    },
+    {
+        "parroquia": "SANTIAGO",
+        "id": 3770,
+        "votos": 11,
+        "candidato": "Zavala Nelson",
+        "value": 1.0
+    },
+    {
+        "parroquia": "TAQUIL /MIGUEL RIOFRIO",
+        "id": 3970,
+        "votos": 7,
+        "candidato": "Zavala Nelson",
+        "value": 0.4
+    },
+    {
+        "parroquia": "VILCABAMBA/VICTORIA",
+        "id": 4235,
+        "votos": 18,
+        "candidato": "Zavala Nelson",
+        "value": 0.6079
+    },
+    {
+        "parroquia": "YANGANA / ARSENIO CASTILLO",
+        "id": 4280,
+        "votos": 7,
+        "candidato": "Zavala Nelson",
+        "value": 0.734
+    },
+    {
+        "parroquia": "CHANTACO",
+        "id": 4475,
+        "votos": 3,
+        "candidato": "Zavala Nelson",
+        "value": 0.4
+    },
+    {
+        "parroquia": "SAN PEDRO DE VILCABAMBA",
+        "id": 4540,
+        "votos": 0,
+        "candidato": "Zavala Nelson",
+        "value": 0.0
+    },
+    {
+        "parroquia": "EL SAGRARIO",
+        "id": 5320,
+        "votos": 88,
+        "candidato": "Zavala Nelson",
+        "value": 0.5194
+    },
+    {
+        "parroquia": "SAN SEBASTIAN",
+        "id": 6015,
+        "votos": 138,
+        "candidato": "Zavala Nelson",
+        "value": 0.6
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 6100,
+        "votos": 256,
+        "candidato": "Zavala Nelson",
+        "value": 1.0
+    },
+    {
+        "parroquia": "VALLE",
+        "id": 6210,
+        "votos": 191,
+        "candidato": "Zavala Nelson",
+        "value": 0.7
+    }
+]

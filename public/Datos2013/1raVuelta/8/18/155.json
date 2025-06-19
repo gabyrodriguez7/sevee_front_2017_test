@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "LOS ANDES",
+    "id": 2210,
+    "votos": 33,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 4.67
+  },
+  {
+    "parroquia": "SUCRE",
+    "id": 3885,
+    "votos": 51,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 4.5
+  },
+  {
+    "parroquia": "EL TRIUNFO",
+    "id": 4110,
+    "votos": 24,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 4.0
+  },
+  {
+    "parroquia": "PATATE",
+    "id": 5830,
+    "votos": 337,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 6.153
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "SAN LUIS DE PAMBIL",
+    "id": 795,
+    "votos": 402,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.95
+  },
+  {
+    "parroquia": "FACUNDO VELA",
+    "id": 1255,
+    "votos": 135,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.59
+  },
+  {
+    "parroquia": "JULIO E MORENO",
+    "id": 1890,
+    "votos": 87,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.33
+  },
+  {
+    "parroquia": "SALINAS",
+    "id": 3285,
+    "votos": 172,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.26
+  },
+  {
+    "parroquia": "SAN LORENZO",
+    "id": 3545,
+    "votos": 191,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 15.45
+  },
+  {
+    "parroquia": "SAN SIMÓN",
+    "id": 3670,
+    "votos": 213,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.59
+  },
+  {
+    "parroquia": "SANTA FE",
+    "id": 3710,
+    "votos": 147,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.41
+  },
+  {
+    "parroquia": "SIMIATUG",
+    "id": 3860,
+    "votos": 241,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5
+  },
+  {
+    "parroquia": "ÁNGEL POLIVIO CHÁVEZ",
+    "id": 5035,
+    "votos": 1356,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 15.78
+  },
+  {
+    "parroquia": "GABRIEL I VEINTIMILLA",
+    "id": 5375,
+    "votos": 1900,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.51
+  },
+  {
+    "parroquia": "GUANUJO",
+    "id": 6630,
+    "votos": 1178,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.31
+  }
+]

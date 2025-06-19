@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "BULÁN / J. VICTOR IZQUIERDO",
+    "id": 395,
+    "votos": 73,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.57
+  },
+  {
+    "parroquia": "CHICAN / GUILLERMO ORTEGA",
+    "id": 870,
+    "votos": 96,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.31
+  },
+  {
+    "parroquia": "DUG-DUG",
+    "id": 890,
+    "votos": 22,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.98
+  },
+  {
+    "parroquia": "GUARAINAC",
+    "id": 1455,
+    "votos": 55,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.68
+  },
+  {
+    "parroquia": "SAN CRISTÓBAL",
+    "id": 3375,
+    "votos": 100,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.97
+  },
+  {
+    "parroquia": "TOMEBAMBA",
+    "id": 4050,
+    "votos": 34,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.78
+  },
+  {
+    "parroquia": "EL CABO",
+    "id": 4565,
+    "votos": 50,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.14
+  },
+  {
+    "parroquia": "PAUTE",
+    "id": 5775,
+    "votos": 528,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.4
+  }
+]

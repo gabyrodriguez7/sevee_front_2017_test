@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "BELLAVISTA",
+    "id": 330,
+    "votos": 20,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.71
+  },
+  {
+    "parroquia": "ARQ.SIXTO DURÁN BALLÉN",
+    "id": 1570,
+    "votos": 11,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.74
+  },
+  {
+    "parroquia": "NOBOA",
+    "id": 2555,
+    "votos": 67,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.77
+  },
+  {
+    "parroquia": "SUCRE",
+    "id": 6105,
+    "votos": 82,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.8
+  }
+]

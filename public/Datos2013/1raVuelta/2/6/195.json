@@ -1,0 +1,114 @@
+[
+    {
+        "parroquia": "CACHA",
+        "id": 420,
+        "votos": 972,
+        "candidato": "Correa Delgado Rafael",
+        "value": 47.12
+    },
+    {
+        "parroquia": "CALPI",
+        "id": 445,
+        "votos": 1364,
+        "candidato": "Correa Delgado Rafael",
+        "value": 32.89
+    },
+    {
+        "parroquia": "CUBIJIES",
+        "id": 705,
+        "votos": 575,
+        "candidato": "Correa Delgado Rafael",
+        "value": 38.38
+    },
+    {
+        "parroquia": "FLORES",
+        "id": 1280,
+        "votos": 1557,
+        "candidato": "Correa Delgado Rafael",
+        "value": 46.76
+    },
+    {
+        "parroquia": "LICTO",
+        "id": 2165,
+        "votos": 2822,
+        "candidato": "Correa Delgado Rafael",
+        "value": 51.33
+    },
+    {
+        "parroquia": "PUNGALA",
+        "id": 3035,
+        "votos": 1608,
+        "candidato": "Correa Delgado Rafael",
+        "value": 47.93
+    },
+    {
+        "parroquia": "PUNIN",
+        "id": 3040,
+        "votos": 1597,
+        "candidato": "Correa Delgado Rafael",
+        "value": 39.65
+    },
+    {
+        "parroquia": "QUIMIAG",
+        "id": 3095,
+        "votos": 1318,
+        "candidato": "Correa Delgado Rafael",
+        "value": 38.47
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3515,
+        "votos": 1646,
+        "candidato": "Correa Delgado Rafael",
+        "value": 33.89
+    },
+    {
+        "parroquia": "SAN LUIS",
+        "id": 3560,
+        "votos": 1709,
+        "candidato": "Correa Delgado Rafael",
+        "value": 42.94
+    },
+    {
+        "parroquia": "LIZARZABURU",
+        "id": 5590,
+        "votos": 13098,
+        "candidato": "Correa Delgado Rafael",
+        "value": 38.89
+    },
+    {
+        "parroquia": "MALDONADO",
+        "id": 5630,
+        "votos": 8643,
+        "candidato": "Correa Delgado Rafael",
+        "value": 37.72
+    },
+    {
+        "parroquia": "VELASCO",
+        "id": 6220,
+        "votos": 9475,
+        "candidato": "Correa Delgado Rafael",
+        "value": 38.86
+    },
+    {
+        "parroquia": "VELOZ",
+        "id": 6230,
+        "votos": 5445,
+        "candidato": "Correa Delgado Rafael",
+        "value": 39.0
+    },
+    {
+        "parroquia": "YARUQUIES",
+        "id": 6290,
+        "votos": 1659,
+        "candidato": "Correa Delgado Rafael",
+        "value": 42.0
+    },
+    {
+        "parroquia": "LICAN",
+        "id": 6960,
+        "votos": 1235,
+        "candidato": "Correa Delgado Rafael",
+        "value": 37.2
+    }
+]

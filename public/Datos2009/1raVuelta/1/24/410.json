@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "SANTA ELENA",
+    "id": 6040,
+    "votos": 1247,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 4.22
+  },
+  {
+    "parroquia": "BALLENITA",
+    "id": 5130,
+    "votos": 40,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 4.9
+  },
+  {
+    "parroquia": "SIMON BOLIVAR",
+    "id": 3915,
+    "votos": 10,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 0.96
+  },
+  {
+    "parroquia": "MANGLARALTO",
+    "id": 2355,
+    "votos": 471,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 3.52
+  },
+  {
+    "parroquia": "SAN JOSE DE ANCON",
+    "id": 1300,
+    "votos": 99,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 4.84
+  },
+  {
+    "parroquia": "CHANDUY",
+    "id": 820,
+    "votos": 189,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.79
+  },
+  {
+    "parroquia": "COLONCHE",
+    "id": 605,
+    "votos": 264,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.93
+  },
+  {
+    "parroquia": "ATAHUALPA",
+    "id": 205,
+    "votos": 71,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 3.92
+  }
+]

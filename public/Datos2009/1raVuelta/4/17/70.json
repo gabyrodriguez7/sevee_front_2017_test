@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "MACHACHI",
+        "id": 5620,
+        "votos": 9401,
+        "candidato": "Rafael Correa Delgado",
+        "value": 53.28
+    },
+    {
+        "parroquia": "UYUMBICHO",
+        "id": 4155,
+        "votos": 1371,
+        "candidato": "Rafael Correa Delgado",
+        "value": 62.21
+    },
+    {
+        "parroquia": "TAMBILLO",
+        "id": 3960,
+        "votos": 2978,
+        "candidato": "Rafael Correa Delgado",
+        "value": 61.75
+    },
+    {
+        "parroquia": "CHAUPI",
+        "id": 850,
+        "votos": 338,
+        "candidato": "Rafael Correa Delgado",
+        "value": 52.98
+    },
+    {
+        "parroquia": "CUTUGLAGUA",
+        "id": 755,
+        "votos": 2838,
+        "candidato": "Rafael Correa Delgado",
+        "value": 64.82
+    },
+    {
+        "parroquia": "CORNEJO ASTORGA /TANDAPI",
+        "id": 650,
+        "votos": 606,
+        "candidato": "Rafael Correa Delgado",
+        "value": 56.37
+    },
+    {
+        "parroquia": "ALOASI",
+        "id": 60,
+        "votos": 1421,
+        "candidato": "Rafael Correa Delgado",
+        "value": 57.0
+    },
+    {
+        "parroquia": "ALOAG",
+        "id": 55,
+        "votos": 2337,
+        "candidato": "Rafael Correa Delgado",
+        "value": 53.28
+    }
+]

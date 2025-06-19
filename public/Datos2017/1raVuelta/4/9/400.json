@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "LIMONAL",
+    "id": 260,
+    "votos": 435,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 24.9
+  },
+  {
+    "parroquia": "JUAN BAUTISTA AGUIRRE",
+    "id": 1855,
+    "votos": 783,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 29.34
+  },
+  {
+    "parroquia": "LAS LOJAS",
+    "id": 2105,
+    "votos": 736,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 24.66
+  },
+  {
+    "parroquia": "EL LAUREL",
+    "id": 4500,
+    "votos": 1281,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 30.53
+  },
+  {
+    "parroquia": "DAULE",
+    "id": 5275,
+    "votos": 17205,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 30.52
+  },
+  {
+    "parroquia": "LA AURORA",
+    "id": 6850,
+    "votos": 3221,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 24.9
+  },
+  {
+    "parroquia": "MAGRO",
+    "id": 7425,
+    "votos": 54,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 22.41
+  }
+]

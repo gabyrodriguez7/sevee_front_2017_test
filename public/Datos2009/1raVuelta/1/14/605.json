@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "MENDEZ",
+    "id": 5645,
+    "votos": 57,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 3.13
+  },
+  {
+    "parroquia": "TAYUZA",
+    "id": 4115,
+    "votos": 12,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.29
+  },
+  {
+    "parroquia": "SAN LUIS DEL ACHO",
+    "id": 3565,
+    "votos": 11,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 3.74
+  },
+  {
+    "parroquia": "PATUCA",
+    "id": 2795,
+    "votos": 10,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.91
+  },
+  {
+    "parroquia": "SAN FCO. DE CHINIMBIMI",
+    "id": 1365,
+    "votos": 13,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 3.2
+  },
+  {
+    "parroquia": "CHUPIANZA",
+    "id": 970,
+    "votos": 4,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.39
+  },
+  {
+    "parroquia": "COPAL",
+    "id": 645,
+    "votos": 3,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.35
+  }
+]

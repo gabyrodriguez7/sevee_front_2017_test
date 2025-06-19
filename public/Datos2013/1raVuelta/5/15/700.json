@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "COTUNDO",
+        "id": 685,
+        "votos": 1586,
+        "candidato": "Gutierrez Lucio",
+        "value": 52.0
+    },
+    {
+        "parroquia": "SAN PABLO DE USHPAYACU",
+        "id": 3605,
+        "votos": 687,
+        "candidato": "Gutierrez Lucio",
+        "value": 50.0
+    },
+    {
+        "parroquia": "HATUN SUMAKU",
+        "id": 4630,
+        "votos": 416,
+        "candidato": "Gutierrez Lucio",
+        "value": 41.0
+    },
+    {
+        "parroquia": "ARCHIDONA",
+        "id": 5070,
+        "votos": 4080,
+        "candidato": "Gutierrez Lucio",
+        "value": 48.0
+    }
+]

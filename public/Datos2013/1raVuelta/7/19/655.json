@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "CUMBARATZA",
+        "id": 720,
+        "votos": 6,
+        "candidato": "Zavala Nelson",
+        "value": 0.29
+    },
+    {
+        "parroquia": "GUADALUPE",
+        "id": 1390,
+        "votos": 5,
+        "candidato": "Zavala Nelson",
+        "value": 0.287
+    },
+    {
+        "parroquia": "SAN CARLOS DE LAS MINAS",
+        "id": 1770,
+        "votos": 8,
+        "candidato": "Zavala Nelson",
+        "value": 0.798
+    },
+    {
+        "parroquia": "LA VICTORIA DE IMBANA",
+        "id": 2155,
+        "votos": 3,
+        "candidato": "Zavala Nelson",
+        "value": 0.53
+    },
+    {
+        "parroquia": "SABANILLA",
+        "id": 3260,
+        "votos": 3,
+        "candidato": "Zavala Nelson",
+        "value": 0.7
+    },
+    {
+        "parroquia": "TIMBARA",
+        "id": 4010,
+        "votos": 2,
+        "candidato": "Zavala Nelson",
+        "value": 0.2656
+    },
+    {
+        "parroquia": "ZAMORA",
+        "id": 6305,
+        "votos": 26,
+        "candidato": "Zavala Nelson",
+        "value": 0.295
+    },
+    {
+        "parroquia": "EL LIMON",
+        "id": 6840,
+        "votos": 2,
+        "candidato": "Zavala Nelson",
+        "value": 0.669
+    }
+]

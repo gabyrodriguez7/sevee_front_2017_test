@@ -1,0 +1,20 @@
+[
+                {
+                    "id": 800,
+                    "candidato": "Melba Jacome",
+                    "votos": 21,
+                    "value": 0.58
+                },
+                {
+                    "id": 805,
+                    "candidato": "Melba Jacome",
+                    "votos": 69,
+                    "value": 1.05
+                },
+                {
+                    "id": 810,
+                    "candidato": "Melba Jacome",
+                    "votos": 8,
+                    "value": 0.67
+                }
+            ]

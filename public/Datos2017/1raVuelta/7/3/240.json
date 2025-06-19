@@ -1,0 +1,86 @@
+[
+  {
+    "parroquia": "CHONTAMARCA",
+    "id": 935,
+    "votos": 20,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.05
+  },
+  {
+    "parroquia": "CHOROCOPTE",
+    "id": 950,
+    "votos": 21,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.61
+  },
+  {
+    "parroquia": "GRAL.MORALES / SOCARTE",
+    "id": 1335,
+    "votos": 26,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.38
+  },
+  {
+    "parroquia": "GUALLETURO",
+    "id": 1410,
+    "votos": 23,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.46
+  },
+  {
+    "parroquia": "HONORATO VÁSQUEZ",
+    "id": 1605,
+    "votos": 36,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.3
+  },
+  {
+    "parroquia": "INGAPIRCA",
+    "id": 1725,
+    "votos": 56,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.42
+  },
+  {
+    "parroquia": "VENTURA",
+    "id": 1775,
+    "votos": 5,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.18
+  },
+  {
+    "parroquia": "DUCUR",
+    "id": 1895,
+    "votos": 24,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.62
+  },
+  {
+    "parroquia": "JUNCAL",
+    "id": 1900,
+    "votos": 22,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.2
+  },
+  {
+    "parroquia": "SAN ANTONIO",
+    "id": 3305,
+    "votos": 25,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.46
+  },
+  {
+    "parroquia": "ZHUD",
+    "id": 4345,
+    "votos": 11,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.13
+  },
+  {
+    "parroquia": "CAÑAR",
+    "id": 5160,
+    "votos": 203,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.39
+  }
+]

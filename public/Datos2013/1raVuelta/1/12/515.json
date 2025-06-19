@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "CARACOL",
+        "id": 520,
+        "votos": 132,
+        "candidato": "Noboa Alvaro",
+        "value": 4.696
+    },
+    {
+        "parroquia": "FEBRES CORDERO",
+        "id": 1265,
+        "votos": 297,
+        "candidato": "Noboa Alvaro",
+        "value": 3.445
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 1525,
+        "votos": 917,
+        "candidato": "Noboa Alvaro",
+        "value": 15.6725
+    },
+    {
+        "parroquia": "PIMOCHA",
+        "id": 2875,
+        "votos": 295,
+        "candidato": "Noboa Alvaro",
+        "value": 3.671
+    },
+    {
+        "parroquia": "CLEMENTE BAQUERIZO",
+        "id": 5215,
+        "votos": 1835,
+        "candidato": "Noboa Alvaro",
+        "value": 4.7466
+    },
+    {
+        "parroquia": "DR. CAMILO PONCE E.",
+        "id": 5285,
+        "votos": 813,
+        "candidato": "Noboa Alvaro",
+        "value": 3.9695
+    },
+    {
+        "parroquia": "BARREIRO /SANTA RITA",
+        "id": 6830,
+        "votos": 409,
+        "candidato": "Noboa Alvaro",
+        "value": 8.31132
+    },
+    {
+        "parroquia": "EL SALTO",
+        "id": 6835,
+        "votos": 44,
+        "candidato": "Noboa Alvaro",
+        "value": 5.46
+    }
+]

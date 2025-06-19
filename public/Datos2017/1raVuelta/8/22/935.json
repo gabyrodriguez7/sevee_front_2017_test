@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "AVILA",
+    "id": 215,
+    "votos": 14,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.69
+  },
+  {
+    "parroquia": "SAN VICENTE DE HUATICOCHA",
+    "id": 400,
+    "votos": 3,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.47
+  },
+  {
+    "parroquia": "PUERTO MURIALDO",
+    "id": 1050,
+    "votos": 8,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.51
+  },
+  {
+    "parroquia": "SAN JOSÉ DE DAHUANO",
+    "id": 1680,
+    "votos": 11,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.51
+  },
+  {
+    "parroquia": "SAN JOSÉ DE PAYAMINO",
+    "id": 3480,
+    "votos": 7,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.51
+  },
+  {
+    "parroquia": "LORETO",
+    "id": 6455,
+    "votos": 74,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.81
+  }
+]

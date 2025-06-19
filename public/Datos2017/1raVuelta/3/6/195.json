@@ -1,0 +1,114 @@
+[
+  {
+    "parroquia": "CACHA",
+    "id": 420,
+    "votos": 682,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 32.4
+  },
+  {
+    "parroquia": "CALPI",
+    "id": 445,
+    "votos": 1014,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 23.7
+  },
+  {
+    "parroquia": "CUBIJÍES",
+    "id": 705,
+    "votos": 375,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 24.69
+  },
+  {
+    "parroquia": "FLORES",
+    "id": 1280,
+    "votos": 1052,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 34.87
+  },
+  {
+    "parroquia": "LICAN",
+    "id": 2160,
+    "votos": 944,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 24.91
+  },
+  {
+    "parroquia": "LICTO",
+    "id": 2165,
+    "votos": 2138,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 39.49
+  },
+  {
+    "parroquia": "PUNGALÁ",
+    "id": 3035,
+    "votos": 1055,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 30.33
+  },
+  {
+    "parroquia": "PUNÍN",
+    "id": 3040,
+    "votos": 1033,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 25.52
+  },
+  {
+    "parroquia": "QUIMIAG",
+    "id": 3095,
+    "votos": 839,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 24.02
+  },
+  {
+    "parroquia": "SAN JUAN",
+    "id": 3515,
+    "votos": 1249,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 23.48
+  },
+  {
+    "parroquia": "SAN LUIS",
+    "id": 3560,
+    "votos": 1059,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 25.24
+  },
+  {
+    "parroquia": "LIZARZABURU",
+    "id": 5590,
+    "votos": 9233,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 25.01
+  },
+  {
+    "parroquia": "MALDONADO",
+    "id": 5630,
+    "votos": 5991,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 24.25
+  },
+  {
+    "parroquia": "VELASCO",
+    "id": 6220,
+    "votos": 6428,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 24.36
+  },
+  {
+    "parroquia": "VELOZ",
+    "id": 6230,
+    "votos": 3927,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 24.29
+  },
+  {
+    "parroquia": "YARUQUÍES",
+    "id": 6290,
+    "votos": 1112,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 26.67
+  }
+]

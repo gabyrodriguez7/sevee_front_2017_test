@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "EL CHACO",
+        "id": 5510,
+        "votos": 601,
+        "candidato": "Rafael Correa Delgado",
+        "value": 24.63
+    },
+    {
+        "parroquia": "SARDINAS",
+        "id": 3790,
+        "votos": 57,
+        "candidato": "Rafael Correa Delgado",
+        "value": 21.76
+    },
+    {
+        "parroquia": "SANTA ROSA DE QUIJOS",
+        "id": 3745,
+        "votos": 109,
+        "candidato": "Rafael Correa Delgado",
+        "value": 19.71
+    },
+    {
+        "parroquia": "OYACACHI",
+        "id": 2640,
+        "votos": 71,
+        "candidato": "Rafael Correa Delgado",
+        "value": 22.4
+    },
+    {
+        "parroquia": "LINARES",
+        "id": 2180,
+        "votos": 31,
+        "candidato": "Rafael Correa Delgado",
+        "value": 22.3
+    },
+    {
+        "parroquia": "GONZALO DIAZ DE PINEDA",
+        "id": 1020,
+        "votos": 105,
+        "candidato": "Rafael Correa Delgado",
+        "value": 38.89
+    }
+]

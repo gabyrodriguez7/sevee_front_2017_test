@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "CUMBARATZA",
+    "id": 720,
+    "votos": 351,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 15.91
+  },
+  {
+    "parroquia": "GUADALUPE",
+    "id": 1390,
+    "votos": 144,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.49
+  },
+  {
+    "parroquia": "SAN CARLOS DE LAS MINAS",
+    "id": 1770,
+    "votos": 150,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.51
+  },
+  {
+    "parroquia": "LA VICTORIA DE IMBANA",
+    "id": 2155,
+    "votos": 49,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.66
+  },
+  {
+    "parroquia": "SABANILLA",
+    "id": 3260,
+    "votos": 73,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 15.6
+  },
+  {
+    "parroquia": "TIMBARA",
+    "id": 4010,
+    "votos": 88,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.23
+  },
+  {
+    "parroquia": "ZAMORA",
+    "id": 6305,
+    "votos": 1733,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 17.8
+  },
+  {
+    "parroquia": "EL LIMÓN",
+    "id": 6840,
+    "votos": 47,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 15.06
+  }
+]

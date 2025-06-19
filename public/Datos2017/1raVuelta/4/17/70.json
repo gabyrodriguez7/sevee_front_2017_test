@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "ALOAG",
+    "id": 55,
+    "votos": 748,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.44
+  },
+  {
+    "parroquia": "ALOASI",
+    "id": 60,
+    "votos": 489,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.26
+  },
+  {
+    "parroquia": "CORNEJO ASTORGA /TANDAPI",
+    "id": 650,
+    "votos": 185,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.9
+  },
+  {
+    "parroquia": "CUTUGLAGUA",
+    "id": 755,
+    "votos": 879,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.04
+  },
+  {
+    "parroquia": "CHAUPI",
+    "id": 850,
+    "votos": 100,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.12
+  },
+  {
+    "parroquia": "TAMBILLO",
+    "id": 3960,
+    "votos": 790,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.96
+  },
+  {
+    "parroquia": "UYUMBICHO",
+    "id": 4155,
+    "votos": 310,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.46
+  },
+  {
+    "parroquia": "MACHACHI",
+    "id": 5620,
+    "votos": 3016,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.89
+  }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "TOSAGUA",
+        "id": 6170,
+        "votos": 8679,
+        "candidato": "Rafael Correa Delgado",
+        "value": 53.97
+    },
+    {
+        "parroquia": "ANGEL PEDRO GILER",
+        "id": 2030,
+        "votos": 1038,
+        "candidato": "Rafael Correa Delgado",
+        "value": 50.17
+    },
+    {
+        "parroquia": "BACHILLERO",
+        "id": 265,
+        "votos": 854,
+        "candidato": "Rafael Correa Delgado",
+        "value": 52.62
+    }
+]

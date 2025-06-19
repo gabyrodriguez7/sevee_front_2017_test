@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "EL PLAYÓN DE SN. FRANCISCO",
+    "id": 1170,
+    "votos": 48,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 4.05
+  },
+  {
+    "parroquia": "LA SOFÍA",
+    "id": 2095,
+    "votos": 3,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 3.16
+  },
+  {
+    "parroquia": "ROSA FLORIDA",
+    "id": 3220,
+    "votos": 2,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.77
+  },
+  {
+    "parroquia": "SANTA BÁRBARA",
+    "id": 3690,
+    "votos": 21,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 4.02
+  },
+  {
+    "parroquia": "LA BONITA",
+    "id": 5525,
+    "votos": 8,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.36
+  }
+]

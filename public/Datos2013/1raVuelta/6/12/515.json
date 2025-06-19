@@ -1,0 +1,59 @@
+[
+                {
+                    "parroquia": "CARACOL",
+                    "id": 520,
+                    "votos": 286,
+                    "candidato": "Lasso Guillermo",
+                    "value": 10.174
+                },
+                {
+                    "parroquia": "FEBRES CORDERO",
+                    "id": 1265,
+                    "votos": 931,
+                    "candidato": "Lasso Guillermo",
+                    "value": 10.798
+                },
+                {
+                    "parroquia": "LA UNION",
+                    "id": 1525,
+                    "votos": 558,
+                    "candidato": "Lasso Guillermo",
+                    "value": 9.5368
+                },
+                {
+                    "parroquia": "PIMOCHA",
+                    "id": 2875,
+                    "votos": 644,
+                    "candidato": "Lasso Guillermo",
+                    "value": 8.0139
+                },
+                {
+                    "parroquia": "CLEMENTE BAQUERIZO",
+                    "id": 5215,
+                    "votos": 10249,
+                    "candidato": "Lasso Guillermo",
+                    "value": 26.5113
+                },
+                {
+                    "parroquia": "DR. CAMILO PONCE E.",
+                    "id": 5285,
+                    "votos": 5855,
+                    "candidato": "Lasso Guillermo",
+                    "value": 28.5875
+                },
+                {
+                    "parroquia": "BARREIRO /SANTA RITA",
+                    "id": 6830,
+                    "votos": 782,
+                    "candidato": "Lasso Guillermo",
+                    "value": 15.89108
+                },
+                {
+                    "parroquia": "EL SALTO",
+                    "id": 6835,
+                    "votos": 136,
+                    "candidato": "Lasso Guillermo",
+                    "value": 16.87
+                }
+            ]
+            

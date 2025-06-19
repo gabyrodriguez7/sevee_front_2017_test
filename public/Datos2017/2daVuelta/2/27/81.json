@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "C. E. EN MONTREAL",
+    "id": 9010,
+    "votos": 83,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": "32,68"
+  },
+  {
+    "parroquia": "C. E. EN TORONTO",
+    "id": 9011,
+    "votos": 1097,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": "50,32"
+  },
+  {
+    "parroquia": "C. E. EN OTTAWA",
+    "id": 9012,
+    "votos": 22,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": "31,43"
+  }
+]

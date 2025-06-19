@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "SIGCHOS",
+        "id": 6450,
+        "votos": 1963,
+        "candidato": "Rafael Correa Delgado",
+        "value": 45.01
+    },
+    {
+        "parroquia": "LAS PAMPAS",
+        "id": 2115,
+        "votos": 525,
+        "candidato": "Rafael Correa Delgado",
+        "value": 60.0
+    },
+    {
+        "parroquia": "ISINLIVI",
+        "id": 1735,
+        "votos": 601,
+        "candidato": "Rafael Correa Delgado",
+        "value": 50.54
+    },
+    {
+        "parroquia": "CHUGCHILAN",
+        "id": 960,
+        "votos": 1362,
+        "candidato": "Rafael Correa Delgado",
+        "value": 60.8
+    },
+    {
+        "parroquia": "PALO QUEMADO",
+        "id": 815,
+        "votos": 226,
+        "candidato": "Rafael Correa Delgado",
+        "value": 61.91
+    }
+]

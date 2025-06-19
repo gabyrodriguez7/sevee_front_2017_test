@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "CANCHAGUA",
+    "id": 465,
+    "votos": 13,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.07
+  },
+  {
+    "parroquia": "CHANTILIN",
+    "id": 830,
+    "votos": 5,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.86
+  },
+  {
+    "parroquia": "COCHAPAMBA",
+    "id": 990,
+    "votos": 11,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.64
+  },
+  {
+    "parroquia": "SAQUISILÍ",
+    "id": 6070,
+    "votos": 89,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.77
+  }
+]

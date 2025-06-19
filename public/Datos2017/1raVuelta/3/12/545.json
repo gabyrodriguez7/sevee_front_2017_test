@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "ZAPOTAL",
+    "id": 4330,
+    "votos": 2245,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 51
+  },
+  {
+    "parroquia": "LOS ÁNGELES",
+    "id": 4585,
+    "votos": 328,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 42.71
+  },
+  {
+    "parroquia": "CHACARITA",
+    "id": 4590,
+    "votos": 273,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 36.16
+  },
+  {
+    "parroquia": "VENTANAS",
+    "id": 6235,
+    "votos": 12772,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 37.89
+  },
+  {
+    "parroquia": "10 DE NOVIEMBRE",
+    "id": 7480,
+    "votos": 605,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 49.11
+  }
+]

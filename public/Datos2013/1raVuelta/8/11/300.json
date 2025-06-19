@@ -1,0 +1,121 @@
+[
+    {
+        "parroquia": "CHUQUIRIBAMBA",
+        "id": 975,
+        "votos": 54,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.5526
+    },
+    {
+        "parroquia": "EL CISNE",
+        "id": 1135,
+        "votos": 32,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.5
+    },
+    {
+        "parroquia": "GUALEL",
+        "id": 1405,
+        "votos": 15,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.40056
+    },
+    {
+        "parroquia": "QUINARA",
+        "id": 1780,
+        "votos": 20,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.786
+    },
+    {
+        "parroquia": "JIMBILLA",
+        "id": 1840,
+        "votos": 20,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.9
+    },
+    {
+        "parroquia": "MALACATOS/VALLADOLID",
+        "id": 2325,
+        "votos": 152,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.579
+    },
+    {
+        "parroquia": "SAN LUCAS",
+        "id": 3555,
+        "votos": 44,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.797
+    },
+    {
+        "parroquia": "SANTIAGO",
+        "id": 3770,
+        "votos": 23,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.0
+    },
+    {
+        "parroquia": "TAQUIL /MIGUEL RIOFRIO",
+        "id": 3970,
+        "votos": 47,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.8
+    },
+    {
+        "parroquia": "VILCABAMBA/VICTORIA",
+        "id": 4235,
+        "votos": 100,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.3772
+    },
+    {
+        "parroquia": "YANGANA / ARSENIO CASTILLO",
+        "id": 4280,
+        "votos": 36,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.774
+    },
+    {
+        "parroquia": "CHANTACO",
+        "id": 4475,
+        "votos": 19,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.7
+    },
+    {
+        "parroquia": "SAN PEDRO DE VILCABAMBA",
+        "id": 4540,
+        "votos": 15,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.0
+    },
+    {
+        "parroquia": "EL SAGRARIO",
+        "id": 5320,
+        "votos": 1018,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 6.0087
+    },
+    {
+        "parroquia": "SAN SEBASTIAN",
+        "id": 6015,
+        "votos": 1536,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 6.67
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 6100,
+        "votos": 2938,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 7.0
+    },
+    {
+        "parroquia": "VALLE",
+        "id": 6210,
+        "votos": 1849,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 6.7
+    }
+]

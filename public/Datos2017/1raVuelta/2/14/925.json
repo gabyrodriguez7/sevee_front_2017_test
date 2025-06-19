@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "SAN JACINTO DE WAKAMBEIS",
+    "id": 710,
+    "votos": 6,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.86
+  },
+  {
+    "parroquia": "SANTIAGO DE PANANZA",
+    "id": 1785,
+    "votos": 14,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.67
+  },
+  {
+    "parroquia": "PAN DE AZÚCAR",
+    "id": 2750,
+    "votos": 13,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.37
+  },
+  {
+    "parroquia": "SAN CARLOS DE LIMÓN",
+    "id": 3920,
+    "votos": 32,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.62
+  },
+  {
+    "parroquia": "SAN JUAN BOSCO",
+    "id": 6445,
+    "votos": 89,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.72
+  }
+]

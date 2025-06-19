@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CHONTADURO",
+        "id": 930,
+        "votos": 8,
+        "candidato": "Wray Norman",
+        "value": 0.7
+    },
+    {
+        "parroquia": "CHUMUNDE",
+        "id": 965,
+        "votos": 12,
+        "candidato": "Wray Norman",
+        "value": 1.344
+    },
+    {
+        "parroquia": "LAGARTO",
+        "id": 2035,
+        "votos": 7,
+        "candidato": "Wray Norman",
+        "value": 0.351
+    },
+    {
+        "parroquia": "MONTALVO / HORQUETA",
+        "id": 2445,
+        "votos": 107,
+        "candidato": "Wray Norman",
+        "value": 5.95
+    },
+    {
+        "parroquia": "ROCAFUERTE",
+        "id": 3215,
+        "votos": 9,
+        "candidato": "Wray Norman",
+        "value": 0.35
+    },
+    {
+        "parroquia": "RIO VERDE",
+        "id": 6720,
+        "votos": 10,
+        "candidato": "Wray Norman",
+        "value": 0.339213
+    }
+]

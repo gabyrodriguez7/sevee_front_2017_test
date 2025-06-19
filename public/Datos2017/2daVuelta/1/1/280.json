@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "CUTCHIL",
+    "id": 750,
+    "votos": 290,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 34.69
+  },
+  {
+    "parroquia": "GIMA",
+    "id": 1355,
+    "votos": 730,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 32.26
+  },
+  {
+    "parroquia": "GUEL",
+    "id": 1490,
+    "votos": 133,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 15.67
+  },
+  {
+    "parroquia": "LUDO",
+    "id": 2215,
+    "votos": 754,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 37.03
+  },
+  {
+    "parroquia": "SAN BARTOLOMÉ",
+    "id": 3360,
+    "votos": 762,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 33.26
+  },
+  {
+    "parroquia": "SAN JOSÉ DE RARANGA",
+    "id": 3495,
+    "votos": 831,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 66.53
+  },
+  {
+    "parroquia": "SIGSIG",
+    "id": 6085,
+    "votos": 2877,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 34
+  }
+]

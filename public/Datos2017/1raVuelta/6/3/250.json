@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "MANUEL J. CALLE",
+    "id": 2365,
+    "votos": 6,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.24
+  },
+  {
+    "parroquia": "PANCHO NEGRO",
+    "id": 2745,
+    "votos": 7,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.24
+  },
+  {
+    "parroquia": "LA TRONCAL",
+    "id": 5610,
+    "votos": 90,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.34
+  }
+]

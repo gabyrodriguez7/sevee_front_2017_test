@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "SAN LUIS DE PAMBIL",
+        "id": 795,
+        "votos": 14,
+        "candidato": "Wray Norman",
+        "value": 0.0
+    },
+    {
+        "parroquia": "FACUNDO VELA",
+        "id": 1255,
+        "votos": 12,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "JULIO E MORENO",
+        "id": 1890,
+        "votos": 19,
+        "candidato": "Wray Norman",
+        "value": 2.0
+    },
+    {
+        "parroquia": "SALINAS",
+        "id": 3285,
+        "votos": 21,
+        "candidato": "Wray Norman",
+        "value": 1.007194
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 3545,
+        "votos": 9,
+        "candidato": "Wray Norman",
+        "value": 0.73
+    },
+    {
+        "parroquia": "SAN SIMON",
+        "id": 3670,
+        "votos": 20,
+        "candidato": "Wray Norman",
+        "value": 1.001001
+    },
+    {
+        "parroquia": "SANTA FE",
+        "id": 3710,
+        "votos": 6,
+        "candidato": "Wray Norman",
+        "value": 0.49
+    },
+    {
+        "parroquia": "SIMIATUG",
+        "id": 3860,
+        "votos": 65,
+        "candidato": "Wray Norman",
+        "value": 2.0
+    },
+    {
+        "parroquia": "ANGEL POLIVIO CHAVEZ",
+        "id": 5035,
+        "votos": 126,
+        "candidato": "Wray Norman",
+        "value": 1.5
+    },
+    {
+        "parroquia": "GABRIEL I VEINTIMILLA",
+        "id": 5375,
+        "votos": 182,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "GUANUJO",
+        "id": 6630,
+        "votos": 96,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "ASUNCIÓN",
+    "id": 175,
+    "votos": 12,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.77
+  },
+  {
+    "parroquia": "SAN GERARDO",
+    "id": 885,
+    "votos": 4,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.26
+  },
+  {
+    "parroquia": "GIRÓN",
+    "id": 5395,
+    "votos": 65,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.06
+  }
+]

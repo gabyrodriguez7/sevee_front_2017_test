@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "ANTONIO J. HOLGUIN",
+        "id": 135,
+        "votos": 818,
+        "candidato": "Correa Delgado Rafael",
+        "value": 48.0
+    },
+    {
+        "parroquia": "CUSUBAMBA",
+        "id": 745,
+        "votos": 2177,
+        "candidato": "Correa Delgado Rafael",
+        "value": 55.0
+    },
+    {
+        "parroquia": "MULALILLO",
+        "id": 2475,
+        "votos": 1744,
+        "candidato": "Correa Delgado Rafael",
+        "value": 44.4
+    },
+    {
+        "parroquia": "MULLIQUINDIL",
+        "id": 2490,
+        "votos": 1961,
+        "candidato": "Correa Delgado Rafael",
+        "value": 45.74
+    },
+    {
+        "parroquia": "PANZALEO",
+        "id": 2760,
+        "votos": 1129,
+        "candidato": "Correa Delgado Rafael",
+        "value": 57.08
+    },
+    {
+        "parroquia": "SAN MIGUEL DE SALCEDO",
+        "id": 6000,
+        "votos": 9404,
+        "candidato": "Correa Delgado Rafael",
+        "value": 45.0
+    }
+]

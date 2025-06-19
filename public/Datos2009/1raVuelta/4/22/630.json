@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "NUEVO ROCAFUERTE",
+        "id": 5700,
+        "votos": 91,
+        "candidato": "Rafael Correa Delgado",
+        "value": 16.67
+    },
+    {
+        "parroquia": "YASUNI",
+        "id": 4295,
+        "votos": 34,
+        "candidato": "Rafael Correa Delgado",
+        "value": 21.38
+    },
+    {
+        "parroquia": "TIPUTINI",
+        "id": 4020,
+        "votos": 108,
+        "candidato": "Rafael Correa Delgado",
+        "value": 15.74
+    },
+    {
+        "parroquia": "STA. MARIA DE HUIRIRIMA",
+        "id": 3720,
+        "votos": 38,
+        "candidato": "Rafael Correa Delgado",
+        "value": 19.1
+    },
+    {
+        "parroquia": "CONONACO",
+        "id": 630,
+        "votos": 63,
+        "candidato": "Rafael Correa Delgado",
+        "value": 36.63
+    },
+    {
+        "parroquia": "CAP. AUGUSTO RIVADENEIRA",
+        "id": 510,
+        "votos": 25,
+        "candidato": "Rafael Correa Delgado",
+        "value": 8.06
+    }
+]

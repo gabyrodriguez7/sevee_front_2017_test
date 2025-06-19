@@ -1,0 +1,79 @@
+[
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 280,
+        "votos": 783,
+        "votos1": 392,
+        "votos2": 391,
+        "fill": "#1eff00",
+        "porcentaje1": 50.06,
+        "porcentaje2": 49.94
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 290,
+        "votos": 720,
+        "votos1": 408,
+        "votos2": 312,
+        "fill": "#1eff00",
+        "porcentaje1": 56.67,
+        "porcentaje2": 43.33
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 550,
+        "votos": 499,
+        "votos1": 333,
+        "votos2": 166,
+        "fill": "#1eff00",
+        "porcentaje1": 66.73,
+        "porcentaje2": 33.27
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 2000,
+        "votos": 541,
+        "votos1": 327,
+        "votos2": 214,
+        "fill": "#1eff00",
+        "porcentaje1": 60.44,
+        "porcentaje2": 39.56
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 2710,
+        "votos": 1667,
+        "votos1": 856,
+        "votos2": 811,
+        "fill": "#1eff00",
+        "porcentaje1": 51.35,
+        "porcentaje2": 48.65
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 4605,
+        "votos": 289,
+        "votos1": 176,
+        "votos2": 113,
+        "fill": "#1eff00",
+        "porcentaje1": 60.9,
+        "porcentaje2": 39.1
+    },
+    {
+        "candidato1": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "candidato2": "MORENO GARCES LENIN BOLTAIRE",
+        "id": 6320,
+        "votos": 3443,
+        "votos1": 1922,
+        "votos2": 1521,
+        "fill": "#062e81",
+        "porcentaje1": 55.82,
+        "porcentaje2": 44.18
+    }
+]

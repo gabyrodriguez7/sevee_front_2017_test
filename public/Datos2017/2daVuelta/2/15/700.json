@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "COTUNDO",
+    "id": 685,
+    "votos": 1112,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 29.25
+  },
+  {
+    "parroquia": "SAN PABLO DE USHPAYACU",
+    "id": 3605,
+    "votos": 538,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 29.38
+  },
+  {
+    "parroquia": "HATUN SUMAKU",
+    "id": 4630,
+    "votos": 681,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 45.55
+  },
+  {
+    "parroquia": "ARCHIDONA",
+    "id": 5070,
+    "votos": 3022,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 30.03
+  }
+]

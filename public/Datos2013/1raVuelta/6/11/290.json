@@ -1,0 +1,45 @@
+[
+                {
+                    "parroquia": "EL TAMBO",
+                    "id": 1200,
+                    "votos": 292,
+                    "candidato": "Lasso Guillermo",
+                    "value": 17.0
+                },
+                {
+                    "parroquia": "GUAYQUICHUMA",
+                    "id": 1480,
+                    "votos": 44,
+                    "candidato": "Lasso Guillermo",
+                    "value": 19.214
+                },
+                {
+                    "parroquia": "SAN PEDRO DE LA BENDITA",
+                    "id": 3610,
+                    "votos": 374,
+                    "candidato": "Lasso Guillermo",
+                    "value": 34.09
+                },
+                {
+                    "parroquia": "ZAMBI",
+                    "id": 4455,
+                    "votos": 100,
+                    "candidato": "Lasso Guillermo",
+                    "value": 30.395
+                },
+                {
+                    "parroquia": "CATAMAYO",
+                    "id": 5270,
+                    "votos": 3790,
+                    "candidato": "Lasso Guillermo",
+                    "value": 27.0
+                },
+                {
+                    "parroquia": "SAN JOSE",
+                    "id": 6825,
+                    "votos": 86,
+                    "candidato": "Lasso Guillermo",
+                    "value": 22.5
+                }
+            ]
+            

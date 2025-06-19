@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "BUENAVISTA",
+        "id": 385,
+        "votos": 21,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.0
+    },
+    {
+        "parroquia": "EL ROSARIO",
+        "id": 1180,
+        "votos": 11,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.2
+    },
+    {
+        "parroquia": "AMARILLOS",
+        "id": 1450,
+        "votos": 4,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.8
+    },
+    {
+        "parroquia": "SANTA RUFINA",
+        "id": 3755,
+        "votos": 18,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.2
+    },
+    {
+        "parroquia": "CHAGUARPAMBA",
+        "id": 6530,
+        "votos": 96,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.65
+    }
+]

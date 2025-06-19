@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "GUARE",
+        "id": 1460,
+        "votos": 387,
+        "candidato": "Gutierrez Lucio",
+        "value": 10.67
+    },
+    {
+        "parroquia": "ISLA DE BEJUCAL",
+        "id": 1740,
+        "votos": 336,
+        "candidato": "Gutierrez Lucio",
+        "value": 7.7437
+    },
+    {
+        "parroquia": "BABA",
+        "id": 5085,
+        "votos": 1103,
+        "candidato": "Gutierrez Lucio",
+        "value": 7.9
+    }
+]

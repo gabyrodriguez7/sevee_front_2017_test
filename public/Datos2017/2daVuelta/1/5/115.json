@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "CANCHAGUA",
+    "id": 465,
+    "votos": 774,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 58.37
+  },
+  {
+    "parroquia": "CHANTILIN",
+    "id": 830,
+    "votos": 341,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 55.81
+  },
+  {
+    "parroquia": "COCHAPAMBA",
+    "id": 990,
+    "votos": 1635,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 80.94
+  },
+  {
+    "parroquia": "SAQUISILÍ",
+    "id": 6070,
+    "votos": 8603,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 68.37
+  }
+]

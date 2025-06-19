@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "LA PAZ",
+        "id": 2070,
+        "votos": 1,
+        "candidato": "Wray Norman",
+        "value": 0.109
+    },
+    {
+        "parroquia": "TUTUPALI",
+        "id": 4105,
+        "votos": 0,
+        "candidato": "Wray Norman",
+        "value": 0.0
+    },
+    {
+        "parroquia": "28 DE MAYO",
+        "id": 6215,
+        "votos": 7,
+        "candidato": "Wray Norman",
+        "value": 0.4
+    }
+]

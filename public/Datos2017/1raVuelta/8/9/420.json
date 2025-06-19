@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "CHOBO",
+    "id": 920,
+    "votos": 14,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.48
+  },
+  {
+    "parroquia": "MARISCAL SUCRE/HUAQUES",
+    "id": 2390,
+    "votos": 63,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.27
+  },
+  {
+    "parroquia": "ROBERTO ASTUDILLO",
+    "id": 3235,
+    "votos": 144,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.51
+  },
+  {
+    "parroquia": "MILAGRO",
+    "id": 5660,
+    "votos": 3012,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.82
+  }
+]

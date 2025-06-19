@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "BUENAVISTA",
+    "id": 390,
+    "votos": 649,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 16.65
+  },
+  {
+    "parroquia": "CAÑAQUEMADA",
+    "id": 775,
+    "votos": 66,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.91
+  },
+  {
+    "parroquia": "PROGRESO",
+    "id": 1225,
+    "votos": 294,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 15.81
+  },
+  {
+    "parroquia": "LA PEAÑA",
+    "id": 2075,
+    "votos": 370,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 16.33
+  },
+  {
+    "parroquia": "UZHCURRUMI",
+    "id": 4160,
+    "votos": 165,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 18.31
+  },
+  {
+    "parroquia": "CASACAY",
+    "id": 4495,
+    "votos": 218,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 18.35
+  },
+  {
+    "parroquia": "OCHOA LEÓN/MATRIZ",
+    "id": 5770,
+    "votos": 7207,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 19.82
+  },
+  {
+    "parroquia": "LOMA DE FRANCO",
+    "id": 6365,
+    "votos": 126,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 15.25
+  },
+  {
+    "parroquia": "BOLIVAR",
+    "id": 6370,
+    "votos": 120,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 20.73
+  },
+  {
+    "parroquia": "TRES CERRITOS",
+    "id": 6375,
+    "votos": 87,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 21.12
+  },
+  {
+    "parroquia": "PASAJE",
+    "id": 6940,
+    "votos": 201,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 21.25
+  }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "URCUQUI",
+        "id": 6190,
+        "votos": 7,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.22
+    },
+    {
+        "parroquia": "TUMBABIRO",
+        "id": 4080,
+        "votos": 2,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.25
+    },
+    {
+        "parroquia": "SAN BLAS",
+        "id": 3365,
+        "votos": 6,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.35
+    },
+    {
+        "parroquia": "PABLO ARENAS",
+        "id": 2675,
+        "votos": 2,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.17
+    },
+    {
+        "parroquia": "LA MERCED DE BUENOS AIRES",
+        "id": 2060,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.37
+    },
+    {
+        "parroquia": "CAHUASQUI",
+        "id": 425,
+        "votos": 4,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.41
+    }
+]

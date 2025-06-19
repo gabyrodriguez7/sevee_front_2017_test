@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "COLAIZACA",
+        "id": 590,
+        "votos": 32,
+        "candidato": "Acosta Alberto",
+        "value": 3.1
+    },
+    {
+        "parroquia": "EL LUCERO",
+        "id": 1230,
+        "votos": 29,
+        "candidato": "Acosta Alberto",
+        "value": 2.3
+    },
+    {
+        "parroquia": "SANGUILLIN",
+        "id": 1550,
+        "votos": 15,
+        "candidato": "Acosta Alberto",
+        "value": 3.99
+    },
+    {
+        "parroquia": "UTUANA",
+        "id": 4150,
+        "votos": 18,
+        "candidato": "Acosta Alberto",
+        "value": 4.0
+    },
+    {
+        "parroquia": "CARIAMANGA",
+        "id": 5175,
+        "votos": 636,
+        "candidato": "Acosta Alberto",
+        "value": 5.9
+    },
+    {
+        "parroquia": "CHILE",
+        "id": 5240,
+        "votos": 112,
+        "candidato": "Acosta Alberto",
+        "value": 7.0
+    },
+    {
+        "parroquia": "SAN VICENTE",
+        "id": 6025,
+        "votos": 31,
+        "candidato": "Acosta Alberto",
+        "value": 7.969152
+    }
+]

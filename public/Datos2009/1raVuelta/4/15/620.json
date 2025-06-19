@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "TENA",
+        "id": 6160,
+        "votos": 3569,
+        "candidato": "Rafael Correa Delgado",
+        "value": 22.94
+    },
+    {
+        "parroquia": "PUERTO NAPO",
+        "id": 3050,
+        "votos": 328,
+        "candidato": "Rafael Correa Delgado",
+        "value": 15.38
+    },
+    {
+        "parroquia": "PUERTO MISAHUALLI",
+        "id": 3000,
+        "votos": 294,
+        "candidato": "Rafael Correa Delgado",
+        "value": 15.34
+    },
+    {
+        "parroquia": "PANO",
+        "id": 2755,
+        "votos": 188,
+        "candidato": "Rafael Correa Delgado",
+        "value": 24.74
+    },
+    {
+        "parroquia": "TALAG",
+        "id": 1930,
+        "votos": 131,
+        "candidato": "Rafael Correa Delgado",
+        "value": 11.56
+    },
+    {
+        "parroquia": "CHONTAPUNTA",
+        "id": 940,
+        "votos": 188,
+        "candidato": "Rafael Correa Delgado",
+        "value": 8.17
+    },
+    {
+        "parroquia": "AHUANO",
+        "id": 25,
+        "votos": 262,
+        "candidato": "Rafael Correa Delgado",
+        "value": 11.59
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CHACRAS",
+        "id": 805,
+        "votos": 3,
+        "candidato": "Zavala Nelson",
+        "value": 0.440529
+    },
+    {
+        "parroquia": "CARCABON",
+        "id": 1695,
+        "votos": 4,
+        "candidato": "Zavala Nelson",
+        "value": 1.2
+    },
+    {
+        "parroquia": "PALMALES",
+        "id": 2715,
+        "votos": 25,
+        "candidato": "Zavala Nelson",
+        "value": 2.0
+    },
+    {
+        "parroquia": "ARENILLAS",
+        "id": 5040,
+        "votos": 144,
+        "candidato": "Zavala Nelson",
+        "value": 1.086792
+    }
+]

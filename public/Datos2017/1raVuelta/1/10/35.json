@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "DR MIGUEL EGAS/PEGUCHE",
+    "id": 1040,
+    "votos": 634,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 16.9
+  },
+  {
+    "parroquia": "EUGENIO ESPEJO",
+    "id": 1215,
+    "votos": 953,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 22.44
+  },
+  {
+    "parroquia": "GONZALEZ SÚAREZ",
+    "id": 1360,
+    "votos": 717,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 18.44
+  },
+  {
+    "parroquia": "PATAQUI",
+    "id": 2785,
+    "votos": 76,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 26.67
+  },
+  {
+    "parroquia": "SAN JOSÉ DE QUICHINCHE",
+    "id": 3490,
+    "votos": 1312,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 27.74
+  },
+  {
+    "parroquia": "SAN JUAN DE ILUMÁN",
+    "id": 3525,
+    "votos": 1224,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 25.74
+  },
+  {
+    "parroquia": "SAN PABLO",
+    "id": 3590,
+    "votos": 1745,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 26.81
+  },
+  {
+    "parroquia": "SAN RAFAEL",
+    "id": 3630,
+    "votos": 730,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 23.92
+  },
+  {
+    "parroquia": "SELVA ALEGRE",
+    "id": 3810,
+    "votos": 288,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 25.69
+  },
+  {
+    "parroquia": "JORDÁN",
+    "id": 5490,
+    "votos": 5503,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 25.6
+  },
+  {
+    "parroquia": "SAN LUIS",
+    "id": 5980,
+    "votos": 3426,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 24.69
+  }
+]

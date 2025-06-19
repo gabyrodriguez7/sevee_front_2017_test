@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "AHUANO",
+    "id": 25,
+    "votos": 132,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 4.09
+  },
+  {
+    "parroquia": "CHONTAPUNTA",
+    "id": 940,
+    "votos": 153,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 4.68
+  },
+  {
+    "parroquia": "TALAG",
+    "id": 1930,
+    "votos": 103,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.89
+  },
+  {
+    "parroquia": "PANO",
+    "id": 2755,
+    "votos": 68,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.12
+  },
+  {
+    "parroquia": "PUERTO MISAHUALLÍ",
+    "id": 3000,
+    "votos": 228,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.21
+  },
+  {
+    "parroquia": "PUERTO NAPO",
+    "id": 3050,
+    "votos": 158,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.09
+  },
+  {
+    "parroquia": "SAN JUAN DE MUYUNA",
+    "id": 4580,
+    "votos": 75,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 3.43
+  },
+  {
+    "parroquia": "TENA",
+    "id": 6160,
+    "votos": 1660,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.2
+  }
+]

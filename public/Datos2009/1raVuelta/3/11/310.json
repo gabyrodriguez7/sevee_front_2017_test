@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "LOURDES",
+    "id": 5595,
+    "votos": 2,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.33
+  },
+  {
+    "parroquia": "CATACOCHA",
+    "id": 5180,
+    "votos": 51,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.7
+  },
+  {
+    "parroquia": "ORIANGA",
+    "id": 2630,
+    "votos": 6,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.82
+  },
+  {
+    "parroquia": "LAURO GUERRERO",
+    "id": 2140,
+    "votos": 5,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.72
+  },
+  {
+    "parroquia": "GUACHANAMA",
+    "id": 1380,
+    "votos": 3,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.96
+  },
+  {
+    "parroquia": "YAMANA",
+    "id": 1000,
+    "votos": 5,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 1.24
+  },
+  {
+    "parroquia": "CASANGA",
+    "id": 995,
+    "votos": 0,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.0
+  },
+  {
+    "parroquia": "SAN ANTONIO",
+    "id": 545,
+    "votos": 2,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.71
+  },
+  {
+    "parroquia": "CANGONAMA",
+    "id": 485,
+    "votos": 3,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.66
+  }
+]

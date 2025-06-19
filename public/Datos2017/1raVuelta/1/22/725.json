@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "SAN CARLOS",
+    "id": 415,
+    "votos": 741,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 36.36
+  },
+  {
+    "parroquia": "ENOKANQUI",
+    "id": 490,
+    "votos": 497,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 32.72
+  },
+  {
+    "parroquia": "RUMIPAMBA",
+    "id": 1950,
+    "votos": 171,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 23.65
+  },
+  {
+    "parroquia": "TRES DE NOVIEMBRE",
+    "id": 1955,
+    "votos": 673,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 36.9
+  },
+  {
+    "parroquia": "LAGO SAN PEDRO",
+    "id": 1960,
+    "votos": 373,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 31.19
+  },
+  {
+    "parroquia": "UNIÓN MILAGREÑA",
+    "id": 1965,
+    "votos": 569,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 32.63
+  },
+  {
+    "parroquia": "POMPEYA",
+    "id": 2930,
+    "votos": 138,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 25.65
+  },
+  {
+    "parroquia": "SAN SEBASTIÁN DE COCA",
+    "id": 3660,
+    "votos": 845,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 37.72
+  },
+  {
+    "parroquia": "LA JOYA DE LOS SACHAS",
+    "id": 6200,
+    "votos": 4585,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 37.27
+  }
+]

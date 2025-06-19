@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "PINGUILI",
+        "id": 4555,
+        "votos": 66,
+        "candidato": "Gutierrez Lucio",
+        "value": 13.1
+    },
+    {
+        "parroquia": "MOCHA",
+        "id": 6560,
+        "votos": 651,
+        "candidato": "Gutierrez Lucio",
+        "value": 14.53
+    }
+]

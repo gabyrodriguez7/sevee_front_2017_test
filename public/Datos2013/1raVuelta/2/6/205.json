@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CANI",
+        "id": 500,
+        "votos": 174,
+        "candidato": "Correa Delgado Rafael",
+        "value": 32.83
+    },
+    {
+        "parroquia": "COLUMBE",
+        "id": 610,
+        "votos": 4147,
+        "candidato": "Correa Delgado Rafael",
+        "value": 39.605
+    },
+    {
+        "parroquia": "JUAN DE VELASCO / PONGOR",
+        "id": 1865,
+        "votos": 789,
+        "candidato": "Correa Delgado Rafael",
+        "value": 51.0
+    },
+    {
+        "parroquia": "SANTIAGO DE QUITO",
+        "id": 4430,
+        "votos": 880,
+        "candidato": "Correa Delgado Rafael",
+        "value": 64.28
+    },
+    {
+        "parroquia": "CAJABAMBA",
+        "id": 5145,
+        "votos": 3372,
+        "candidato": "Correa Delgado Rafael",
+        "value": 45.65
+    },
+    {
+        "parroquia": "SICALPA",
+        "id": 6080,
+        "votos": 2398,
+        "candidato": "Correa Delgado Rafael",
+        "value": 39.02995
+    }
+]

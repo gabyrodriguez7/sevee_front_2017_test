@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "SHUSHUFINDI CENTRAL",
+    "id": 6140,
+    "votos": 5696,
+    "candidato": "Lucio Gutierrez",
+    "value": 47.89
+  },
+  {
+    "parroquia": "SAN ROQUE",
+    "id": 3645,
+    "votos": 334,
+    "candidato": "Lucio Gutierrez",
+    "value": 34.83
+  },
+  {
+    "parroquia": "PANACOCHA",
+    "id": 2765,
+    "votos": 155,
+    "candidato": "Lucio Gutierrez",
+    "value": 82.89
+  },
+  {
+    "parroquia": "LIMONCOCHA",
+    "id": 2175,
+    "votos": 461,
+    "candidato": "Lucio Gutierrez",
+    "value": 68.3
+  },
+  {
+    "parroquia": "SIETE DE JULIO",
+    "id": 780,
+    "votos": 622,
+    "candidato": "Lucio Gutierrez",
+    "value": 51.92
+  },
+  {
+    "parroquia": "SAN PEDRO DE LOS COFANES",
+    "id": 600,
+    "votos": 796,
+    "candidato": "Lucio Gutierrez",
+    "value": 61.47
+  }
+]

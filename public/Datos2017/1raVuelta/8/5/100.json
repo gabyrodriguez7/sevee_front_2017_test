@@ -1,0 +1,107 @@
+[
+  {
+    "parroquia": "ALAQUEZ",
+    "id": 35,
+    "votos": 202,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.38
+  },
+  {
+    "parroquia": "BELISARIO QUEVEDO",
+    "id": 315,
+    "votos": 142,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.11
+  },
+  {
+    "parroquia": "GUAYTACAMA",
+    "id": 1485,
+    "votos": 277,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.58
+  },
+  {
+    "parroquia": "JOSEGUANGO BAJO",
+    "id": 1905,
+    "votos": 51,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.24
+  },
+  {
+    "parroquia": "MULALÓ",
+    "id": 2480,
+    "votos": 227,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.87
+  },
+  {
+    "parroquia": "11 DE NOVIEMBRE",
+    "id": 2620,
+    "votos": 54,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.55
+  },
+  {
+    "parroquia": "POALO",
+    "id": 2920,
+    "votos": 97,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.61
+  },
+  {
+    "parroquia": "SAN JUAN DE PASTOCALLE",
+    "id": 3530,
+    "votos": 282,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.08
+  },
+  {
+    "parroquia": "TANICUCHÍ",
+    "id": 3965,
+    "votos": 288,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.37
+  },
+  {
+    "parroquia": "TOACAZO",
+    "id": 4035,
+    "votos": 171,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.56
+  },
+  {
+    "parroquia": "ELOY ALFÁRO / SAN FELIPE",
+    "id": 5310,
+    "votos": 821,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.84
+  },
+  {
+    "parroquia": "IGNACIO FLORES",
+    "id": 5465,
+    "votos": 435,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.67
+  },
+  {
+    "parroquia": "JUAN MONTALVO",
+    "id": 5500,
+    "votos": 370,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.21
+  },
+  {
+    "parroquia": "LA MATRIZ",
+    "id": 5555,
+    "votos": 443,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.08
+  },
+  {
+    "parroquia": "SAN BUENAVENTURA",
+    "id": 5940,
+    "votos": 185,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.96
+  }
+]

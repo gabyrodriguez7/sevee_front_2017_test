@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "HUAQUILLAS",
+    "id": 5460,
+    "votos": 9492,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 35.68
+  },
+  {
+    "parroquia": "HUALTACO",
+    "id": 6800,
+    "votos": 195,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 26.53
+  },
+  {
+    "parroquia": "MILTON REYES",
+    "id": 6805,
+    "votos": 256,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 35.8
+  },
+  {
+    "parroquia": "EL PARA\u00ef\u00bf\u00bdSO",
+    "id": 6810,
+    "votos": 192,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 35.1
+  },
+  {
+    "parroquia": "ECUADOR",
+    "id": 6815,
+    "votos": 285,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 30.13
+  },
+  {
+    "parroquia": "UNI\u00ef\u00bf\u00bdN LOJANA",
+    "id": 6820,
+    "votos": 478,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 27.86
+  }
+]

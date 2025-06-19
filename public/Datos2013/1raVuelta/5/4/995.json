@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "MARISCAL SUCRE",
+        "id": 1520,
+        "votos": 37,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.5
+    },
+    {
+        "parroquia": "HUACA",
+        "id": 6665,
+        "votos": 335,
+        "candidato": "Gutierrez Lucio",
+        "value": 7.283
+    }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "BAQUERIZO MORENO",
+    "id": 295,
+    "votos": 74,
+    "candidato": "Lasso Guillermo",
+    "value": 30.328
+  },
+  {
+    "parroquia": "EMILIO MARIA TERAN",
+    "id": 1210,
+    "votos": 256,
+    "candidato": "Lasso Guillermo",
+    "value": 30.01
+  },
+  {
+    "parroquia": "MARCOS ESPINEL",
+    "id": 2375,
+    "votos": 439,
+    "candidato": "Lasso Guillermo",
+    "value": 29.5
+  },
+  {
+    "parroquia": "PRESIDENTE URBINA",
+    "id": 2945,
+    "votos": 221,
+    "candidato": "Lasso Guillermo",
+    "value": 22.76
+  },
+  {
+    "parroquia": "SAN ANDRES",
+    "id": 3300,
+    "votos": 1348,
+    "candidato": "Lasso Guillermo",
+    "value": 19.9
+  },
+  {
+    "parroquia": "SAN JOSE DE POALO",
+    "id": 3485,
+    "votos": 222,
+    "candidato": "Lasso Guillermo",
+    "value": 14.9
+  },
+  {
+    "parroquia": "SAN MIGUELITO",
+    "id": 3585,
+    "votos": 948,
+    "candidato": "Lasso Guillermo",
+    "value": 29.2
+  },
+  {
+    "parroquia": "CIUDAD NUEVA",
+    "id": 5225,
+    "votos": 265,
+    "candidato": "Lasso Guillermo",
+    "value": 30.045
+  },
+  {
+    "parroquia": "PILLARO",
+    "id": 5785,
+    "votos": 3147,
+    "candidato": "Lasso Guillermo",
+    "value": 31.0
+  }
+]

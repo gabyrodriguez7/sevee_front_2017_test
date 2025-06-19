@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "CAHUASQUÍ",
+    "id": 425,
+    "votos": 81,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.17
+  },
+  {
+    "parroquia": "LA MERCED DE BUENOS AIRES",
+    "id": 2060,
+    "votos": 57,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.33
+  },
+  {
+    "parroquia": "PABLO ARENAS",
+    "id": 2675,
+    "votos": 113,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.05
+  },
+  {
+    "parroquia": "SAN BLAS",
+    "id": 3365,
+    "votos": 216,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 11.25
+  },
+  {
+    "parroquia": "TUMBABIRO",
+    "id": 4080,
+    "votos": 64,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.07
+  },
+  {
+    "parroquia": "URCUQUÍ",
+    "id": 6190,
+    "votos": 457,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.46
+  }
+]

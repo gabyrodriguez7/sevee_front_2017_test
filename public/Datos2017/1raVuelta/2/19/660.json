@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "CHITO",
+    "id": 915,
+    "votos": 50,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.8
+  },
+  {
+    "parroquia": "EL CHORRO",
+    "id": 1145,
+    "votos": 20,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.13
+  },
+  {
+    "parroquia": "LA CHONTA",
+    "id": 2015,
+    "votos": 12,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.38
+  },
+  {
+    "parroquia": "SAN ANDRÉS",
+    "id": 2110,
+    "votos": 18,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.42
+  },
+  {
+    "parroquia": "PUCAPAMBA",
+    "id": 2955,
+    "votos": 7,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.25
+  },
+  {
+    "parroquia": "ZUMBA",
+    "id": 6315,
+    "votos": 251,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.26
+  }
+]

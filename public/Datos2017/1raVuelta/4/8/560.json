@@ -1,0 +1,93 @@
+[
+  {
+    "parroquia": "CAMARONES",
+    "id": 450,
+    "votos": 98,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.34
+  },
+  {
+    "parroquia": "CRNL.CARLOS CONCHA TORRES",
+    "id": 655,
+    "votos": 270,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 33.71
+  },
+  {
+    "parroquia": "CHINCA",
+    "id": 895,
+    "votos": 212,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.16
+  },
+  {
+    "parroquia": "MAJUA",
+    "id": 2320,
+    "votos": 111,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.5
+  },
+  {
+    "parroquia": "SAN MATEO",
+    "id": 3570,
+    "votos": 505,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 17.52
+  },
+  {
+    "parroquia": "TABIAZO",
+    "id": 3930,
+    "votos": 330,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 23.01
+  },
+  {
+    "parroquia": "TACHINA",
+    "id": 3940,
+    "votos": 313,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.81
+  },
+  {
+    "parroquia": "VUELTA LARGA",
+    "id": 4240,
+    "votos": 2903,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 19.48
+  },
+  {
+    "parroquia": "BARTOLOMÉ RUÍZ",
+    "id": 5205,
+    "votos": 3319,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 19.31
+  },
+  {
+    "parroquia": "5 DE AGOSTO",
+    "id": 5210,
+    "votos": 5582,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 20.5
+  },
+  {
+    "parroquia": "ESMERALDAS",
+    "id": 5335,
+    "votos": 6228,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 20.44
+  },
+  {
+    "parroquia": "LUIS TELLO / LAS PALMAS /",
+    "id": 5600,
+    "votos": 1356,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 20.45
+  },
+  {
+    "parroquia": "SIMÓN PLATA TORRES",
+    "id": 6905,
+    "votos": 1352,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 19.31
+  }
+]

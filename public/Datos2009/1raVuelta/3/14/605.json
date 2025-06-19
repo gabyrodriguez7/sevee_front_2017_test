@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "MENDEZ",
+        "id": 5645,
+        "votos": 6,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.33
+    },
+    {
+        "parroquia": "TAYUZA",
+        "id": 4115,
+        "votos": 0,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.0
+    },
+    {
+        "parroquia": "SAN LUIS DEL ACHO",
+        "id": 3565,
+        "votos": 1,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.34
+    },
+    {
+        "parroquia": "PATUCA",
+        "id": 2795,
+        "votos": 2,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.38
+    },
+    {
+        "parroquia": "SAN FCO. DE CHINIMBIMI",
+        "id": 1365,
+        "votos": 0,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.0
+    },
+    {
+        "parroquia": "CHUPIANZA",
+        "id": 970,
+        "votos": 1,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.35
+    },
+    {
+        "parroquia": "COPAL",
+        "id": 645,
+        "votos": 2,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.9
+    }
+]

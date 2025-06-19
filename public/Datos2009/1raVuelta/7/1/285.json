@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "SANTA ISABEL",
+        "id": 6045,
+        "votos": 403,
+        "candidato": "Alvaro Noboa",
+        "value": 6.15
+    },
+    {
+        "parroquia": "SHAGLLI",
+        "id": 3835,
+        "votos": 29,
+        "candidato": "Alvaro Noboa",
+        "value": 3.48
+    },
+    {
+        "parroquia": "EL CARMEN DE PIJILI",
+        "id": 1130,
+        "votos": 29,
+        "candidato": "Alvaro Noboa",
+        "value": 6.01
+    },
+    {
+        "parroquia": "ABDON CALDERON / LA UNION",
+        "id": 15,
+        "votos": 87,
+        "candidato": "Alvaro Noboa",
+        "value": 6.88
+    }
+]

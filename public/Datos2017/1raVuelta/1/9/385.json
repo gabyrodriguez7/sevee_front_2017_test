@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "GUAYAS / PUERTO NUEVO",
+    "id": 1470,
+    "votos": 475,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 15.79
+  },
+  {
+    "parroquia": "EL ROSARIO",
+    "id": 1640,
+    "votos": 220,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 8.54
+  },
+  {
+    "parroquia": "VELASCO IBARRA",
+    "id": 6225,
+    "votos": 7910,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 18.72
+  }
+]

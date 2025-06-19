@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "C. E. EN PALMA DE MALLORCA",
+    "id": 9021,
+    "votos": 254,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 14.40
+  },
+  {
+    "parroquia": "C. E. EN BARCELONA",
+    "id": 9023,
+    "votos": 1460,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 13.78
+  },
+  {
+    "parroquia": "C. E. EN MADRID",
+    "id": 9024,
+    "votos": 3019,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 16.48
+  },
+  {
+    "parroquia": "C. E. EN VALENCIA",
+    "id": 9025,
+    "votos": 824,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 14.98
+  },
+  {
+    "parroquia": "C. E. EN MURCIA",
+    "id": 9026,
+    "votos": 1300,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 16.87
+  },
+  {
+    "parroquia": "C. E. EN MALAGA",
+    "id": 9066,
+    "votos": 436,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 13.43
+  },
+  {
+    "parroquia": "C. E. EN ALICANTE",
+    "id": 9074,
+    "votos": 267,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 15.38
+  }
+]

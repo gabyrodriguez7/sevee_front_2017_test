@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "MEMBRILLO",
+        "id": 240,
+        "votos": 137,
+        "candidato": "Noboa Alvaro",
+        "value": 6.1712
+    },
+    {
+        "parroquia": "QUIROGA",
+        "id": 3110,
+        "votos": 87,
+        "candidato": "Noboa Alvaro",
+        "value": 3.53
+    },
+    {
+        "parroquia": "CALCETA",
+        "id": 5150,
+        "votos": 977,
+        "candidato": "Noboa Alvaro",
+        "value": 4.36
+    }
+]

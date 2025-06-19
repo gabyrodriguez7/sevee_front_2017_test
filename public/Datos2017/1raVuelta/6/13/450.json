@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "SANTA MARIANITA",
+    "id": 1800,
+    "votos": 6,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.37
+  },
+  {
+    "parroquia": "SAN LORENZO",
+    "id": 3550,
+    "votos": 12,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.62
+  },
+  {
+    "parroquia": "LOS ESTEROS",
+    "id": 5570,
+    "votos": 77,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.39
+  },
+  {
+    "parroquia": "MANTA",
+    "id": 5635,
+    "votos": 246,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.46
+  },
+  {
+    "parroquia": "SAN MATEO",
+    "id": 6135,
+    "votos": 9,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.39
+  },
+  {
+    "parroquia": "TARQUI",
+    "id": 6155,
+    "votos": 230,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.44
+  },
+  {
+    "parroquia": "ELOY ALFARO",
+    "id": 6745,
+    "votos": 82,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.4
+  }
+]

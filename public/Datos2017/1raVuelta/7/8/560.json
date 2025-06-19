@@ -1,0 +1,93 @@
+[
+  {
+    "parroquia": "CAMARONES",
+    "id": 450,
+    "votos": 75,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 5.61
+  },
+  {
+    "parroquia": "CRNL.CARLOS CONCHA TORRES",
+    "id": 655,
+    "votos": 25,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.12
+  },
+  {
+    "parroquia": "CHINCA",
+    "id": 895,
+    "votos": 94,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 5.39
+  },
+  {
+    "parroquia": "MAJUA",
+    "id": 2320,
+    "votos": 61,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 5.77
+  },
+  {
+    "parroquia": "SAN MATEO",
+    "id": 3570,
+    "votos": 142,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 4.93
+  },
+  {
+    "parroquia": "TABIAZO",
+    "id": 3930,
+    "votos": 83,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 5.79
+  },
+  {
+    "parroquia": "TACHINA",
+    "id": 3940,
+    "votos": 116,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 5.12
+  },
+  {
+    "parroquia": "VUELTA LARGA",
+    "id": 4240,
+    "votos": 968,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 6.5
+  },
+  {
+    "parroquia": "BARTOLOMÉ RUÍZ",
+    "id": 5205,
+    "votos": 1316,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 7.66
+  },
+  {
+    "parroquia": "5 DE AGOSTO",
+    "id": 5210,
+    "votos": 1719,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 6.31
+  },
+  {
+    "parroquia": "ESMERALDAS",
+    "id": 5335,
+    "votos": 2110,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 6.92
+  },
+  {
+    "parroquia": "LUIS TELLO / LAS PALMAS /",
+    "id": 5600,
+    "votos": 396,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 5.97
+  },
+  {
+    "parroquia": "SIMÓN PLATA TORRES",
+    "id": 6905,
+    "votos": 386,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 5.51
+  }
+]

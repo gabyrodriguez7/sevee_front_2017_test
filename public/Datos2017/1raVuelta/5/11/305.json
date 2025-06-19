@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "SUMAYPAMBA",
+    "id": 310,
+    "votos": 5,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.84
+  },
+  {
+    "parroquia": "EL PARAÍSO DE CELÉN",
+    "id": 1165,
+    "votos": 45,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 3.53
+  },
+  {
+    "parroquia": "EL TABLÓN",
+    "id": 1190,
+    "votos": 6,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.5
+  },
+  {
+    "parroquia": "LLUZHAPA",
+    "id": 2280,
+    "votos": 22,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 2.49
+  },
+  {
+    "parroquia": "MANÚ",
+    "id": 2360,
+    "votos": 34,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.96
+  },
+  {
+    "parroquia": "SAN ANTONIO DE CUMBE",
+    "id": 3340,
+    "votos": 13,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.83
+  },
+  {
+    "parroquia": "SAN PABLO DE TENTA",
+    "id": 3600,
+    "votos": 53,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 2.92
+  },
+  {
+    "parroquia": "SAN SEBASTIÁN DE YULOG",
+    "id": 3665,
+    "votos": 1,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.2
+  },
+  {
+    "parroquia": "SELVA ALEGRE",
+    "id": 3815,
+    "votos": 19,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.74
+  },
+  {
+    "parroquia": "URDANETA/PAQUISHAPA",
+    "id": 4145,
+    "votos": 35,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.68
+  },
+  {
+    "parroquia": "SARAGURO",
+    "id": 6075,
+    "votos": 70,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.11
+  }
+]

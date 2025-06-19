@@ -1,0 +1,86 @@
+[
+    {
+        "parroquia": "DAYUMA",
+        "id": 1235,
+        "votos": 77,
+        "candidato": "Noboa Alvaro",
+        "value": 2.41
+    },
+    {
+        "parroquia": "TARACOA",
+        "id": 1245,
+        "votos": 21,
+        "candidato": "Noboa Alvaro",
+        "value": 1.5
+    },
+    {
+        "parroquia": "EL DORADO",
+        "id": 1560,
+        "votos": 24,
+        "candidato": "Noboa Alvaro",
+        "value": 2.308
+    },
+    {
+        "parroquia": "INES ARANGO",
+        "id": 1565,
+        "votos": 27,
+        "candidato": "Noboa Alvaro",
+        "value": 2.0
+    },
+    {
+        "parroquia": "ALEJANDRO LABAKA",
+        "id": 1580,
+        "votos": 4,
+        "candidato": "Noboa Alvaro",
+        "value": 0.85
+    },
+    {
+        "parroquia": "EL EDEN",
+        "id": 1590,
+        "votos": 2,
+        "candidato": "Noboa Alvaro",
+        "value": 0.755
+    },
+    {
+        "parroquia": "GARCIA MORENO",
+        "id": 1810,
+        "votos": 22,
+        "candidato": "Noboa Alvaro",
+        "value": 3.0
+    },
+    {
+        "parroquia": "LA BELLEZA",
+        "id": 1820,
+        "votos": 33,
+        "candidato": "Noboa Alvaro",
+        "value": 1.68
+    },
+    {
+        "parroquia": "SAN LUIS DE ARMENIA",
+        "id": 1935,
+        "votos": 5,
+        "candidato": "Noboa Alvaro",
+        "value": 0.5
+    },
+    {
+        "parroquia": "NUEVO PARAISO",
+        "id": 1940,
+        "votos": 36,
+        "candidato": "Noboa Alvaro",
+        "value": 2.9
+    },
+    {
+        "parroquia": "SAN JOSE DE GUAYUSA",
+        "id": 1945,
+        "votos": 12,
+        "candidato": "Noboa Alvaro",
+        "value": 1.5
+    },
+    {
+        "parroquia": "PTO. FCO. DE ORELLANA",
+        "id": 5815,
+        "votos": 722,
+        "candidato": "Noboa Alvaro",
+        "value": 3.03
+    }
+]

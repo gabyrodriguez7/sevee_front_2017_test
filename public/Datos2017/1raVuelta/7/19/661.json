@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "EL PORVENIR DEL CARMEN",
+    "id": 1240,
+    "votos": 8,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.15
+  },
+  {
+    "parroquia": "LA CANELA",
+    "id": 2170,
+    "votos": 1,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.46
+  },
+  {
+    "parroquia": "VALLADOLID",
+    "id": 4195,
+    "votos": 6,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.61
+  },
+  {
+    "parroquia": "SAN FRANCISCO DEL VERGEL",
+    "id": 4505,
+    "votos": 6,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.83
+  },
+  {
+    "parroquia": "PALANDA",
+    "id": 6740,
+    "votos": 15,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.58
+  }
+]

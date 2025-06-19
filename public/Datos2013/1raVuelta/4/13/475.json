@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CHARAPOTO",
+        "id": 840,
+        "votos": 173,
+        "candidato": "Acosta Alberto",
+        "value": 1.334568
+    },
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 3445,
+        "votos": 73,
+        "candidato": "Acosta Alberto",
+        "value": 1.08842
+    },
+    {
+        "parroquia": "BAHIA DE CARAQUEZ",
+        "id": 5095,
+        "votos": 90,
+        "candidato": "Acosta Alberto",
+        "value": 0.69215
+    },
+    {
+        "parroquia": "LEONIDAS PLAZA G.",
+        "id": 5580,
+        "votos": 24,
+        "candidato": "Acosta Alberto",
+        "value": 0.76482
+    }
+]

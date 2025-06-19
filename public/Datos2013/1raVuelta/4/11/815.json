@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "BUENAVISTA",
+        "id": 385,
+        "votos": 17,
+        "candidato": "Acosta Alberto",
+        "value": 2.0
+    },
+    {
+        "parroquia": "EL ROSARIO",
+        "id": 1180,
+        "votos": 15,
+        "candidato": "Acosta Alberto",
+        "value": 5.7
+    },
+    {
+        "parroquia": "AMARILLOS",
+        "id": 1450,
+        "votos": 4,
+        "candidato": "Acosta Alberto",
+        "value": 1.8
+    },
+    {
+        "parroquia": "SANTA RUFINA",
+        "id": 3755,
+        "votos": 19,
+        "candidato": "Acosta Alberto",
+        "value": 3.4
+    },
+    {
+        "parroquia": "CHAGUARPAMBA",
+        "id": 6530,
+        "votos": 126,
+        "candidato": "Acosta Alberto",
+        "value": 4.79
+    }
+]

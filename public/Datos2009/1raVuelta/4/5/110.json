@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "SAN MIGUEL DE SALCEDO",
+        "id": 6000,
+        "votos": 6551,
+        "candidato": "Rafael Correa Delgado",
+        "value": 37.87
+    },
+    {
+        "parroquia": "PANZALEO",
+        "id": 2760,
+        "votos": 763,
+        "candidato": "Rafael Correa Delgado",
+        "value": 44.69
+    },
+    {
+        "parroquia": "MULLIQUINDIL",
+        "id": 2490,
+        "votos": 1302,
+        "candidato": "Rafael Correa Delgado",
+        "value": 35.58
+    },
+    {
+        "parroquia": "MULALILLO",
+        "id": 2475,
+        "votos": 1231,
+        "candidato": "Rafael Correa Delgado",
+        "value": 38.02
+    },
+    {
+        "parroquia": "CUSUBAMBA",
+        "id": 745,
+        "votos": 1769,
+        "candidato": "Rafael Correa Delgado",
+        "value": 57.24
+    },
+    {
+        "parroquia": "ANTONIO J. HOLGUIN",
+        "id": 135,
+        "votos": 566,
+        "candidato": "Rafael Correa Delgado",
+        "value": 38.66
+    }
+]

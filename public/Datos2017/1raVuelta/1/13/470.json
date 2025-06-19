@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "AYACUCHO",
+    "id": 220,
+    "votos": 816,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 18.27
+  },
+  {
+    "parroquia": "SAN PABLO",
+    "id": 1105,
+    "votos": 276,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 13.43
+  },
+  {
+    "parroquia": "HONORATO VÁSQUEZ",
+    "id": 1610,
+    "votos": 381,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 12.28
+  },
+  {
+    "parroquia": "LA UNIÓN",
+    "id": 2135,
+    "votos": 363,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 11.68
+  },
+  {
+    "parroquia": "SANTA ANA",
+    "id": 6030,
+    "votos": 2823,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 17.68
+  },
+  {
+    "parroquia": "LODANA",
+    "id": 6725,
+    "votos": 128,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 14.38
+  }
+]

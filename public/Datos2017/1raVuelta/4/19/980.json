@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "TRIUNFO DORADO",
+    "id": 4385,
+    "votos": 52,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.68
+  },
+  {
+    "parroquia": "PANGUINTZA",
+    "id": 4600,
+    "votos": 85,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.25
+  },
+  {
+    "parroquia": "ZUMBI",
+    "id": 6625,
+    "votos": 611,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 17.52
+  }
+]

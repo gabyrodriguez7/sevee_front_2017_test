@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "APUELA",
+        "id": 145,
+        "votos": 16,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.5
+    },
+    {
+        "parroquia": "GARCIA MORENO / LLURIMAGUA",
+        "id": 1310,
+        "votos": 50,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.5
+    },
+    {
+        "parroquia": "IMANTAG",
+        "id": 1710,
+        "votos": 61,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.0
+    },
+    {
+        "parroquia": "PE�AHERRERA",
+        "id": 2820,
+        "votos": 15,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.0
+    },
+    {
+        "parroquia": "PLAZA GUTIERREZ/CALVARIO",
+        "id": 2915,
+        "votos": 6,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.9
+    },
+    {
+        "parroquia": "QUIROGA",
+        "id": 3115,
+        "votos": 139,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.3
+    },
+    {
+        "parroquia": "6 DE JULIO DE CUELLAJE",
+        "id": 3800,
+        "votos": 14,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.4
+    },
+    {
+        "parroquia": "VACAS GALINDO",
+        "id": 4185,
+        "votos": 1,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 0.3
+    },
+    {
+        "parroquia": "SAGRARIO",
+        "id": 5910,
+        "votos": 178,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.0
+    },
+    {
+        "parroquia": "SAN FRANCISCO",
+        "id": 5955,
+        "votos": 92,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.5
+    }
+]

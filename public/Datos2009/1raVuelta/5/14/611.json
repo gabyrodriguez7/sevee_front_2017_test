@@ -1,0 +1,23 @@
+[
+                {
+                    "parroquia": "LOGROÑO",
+                    "id": 6735,
+                    "votos": 10,
+                    "candidato": "Melba Jacome",
+                    "value": 0.78
+                },
+                {
+                    "parroquia": "YAUPI",
+                    "id": 4300,
+                    "votos": 0,
+                    "candidato": "Melba Jacome",
+                    "value": 0.0
+                },
+                {
+                    "parroquia": "SHIMPIS",
+                    "id": 525,
+                    "votos": 2,
+                    "candidato": "Melba Jacome",
+                    "value": 0.36
+                }
+            ]

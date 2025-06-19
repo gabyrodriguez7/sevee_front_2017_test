@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "CHORDELEG",
+    "id": 6435,
+    "votos": 1141,
+    "candidato": "Lucio Gutierrez",
+    "value": 31.31
+  },
+  {
+    "parroquia": "PRINCIPAL",
+    "id": 2950,
+    "votos": 83,
+    "candidato": "Lucio Gutierrez",
+    "value": 21.55
+  },
+  {
+    "parroquia": "LUIS GALARZA O. (DELEGSOL)",
+    "id": 1585,
+    "votos": 38,
+    "candidato": "Lucio Gutierrez",
+    "value": 15.32
+  },
+  {
+    "parroquia": "SAN MARTIN DE PUZHIO",
+    "id": 1575,
+    "votos": 75,
+    "candidato": "Lucio Gutierrez",
+    "value": 38.26
+  },
+  {
+    "parroquia": "LA UNION",
+    "id": 1535,
+    "votos": 94,
+    "candidato": "Lucio Gutierrez",
+    "value": 35.47
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "EL RETIRO",
+    "id": 255,
+    "votos": 3,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.18
+  },
+  {
+    "parroquia": "LA PROVIDENCIA",
+    "id": 5565,
+    "votos": 208,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.38
+  },
+  {
+    "parroquia": "MACHALA",
+    "id": 5625,
+    "votos": 245,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.33
+  },
+  {
+    "parroquia": "PUERTO BOLÍVAR",
+    "id": 5805,
+    "votos": 75,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.42
+  },
+  {
+    "parroquia": "9 DE MAYO",
+    "id": 6490,
+    "votos": 17,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.41
+  },
+  {
+    "parroquia": "EL CAMBIO",
+    "id": 6795,
+    "votos": 18,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.32
+  },
+  {
+    "parroquia": "JUBONES",
+    "id": 7505,
+    "votos": 7,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.47
+  },
+  {
+    "parroquia": "JAMBELÍ",
+    "id": 7510,
+    "votos": 11,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.3
+  }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "APUELA",
+        "id": 145,
+        "votos": 5,
+        "candidato": "Zavala Nelson",
+        "value": 0.5
+    },
+    {
+        "parroquia": "GARCIA MORENO / LLURIMAGUA",
+        "id": 1310,
+        "votos": 18,
+        "candidato": "Zavala Nelson",
+        "value": 0.6
+    },
+    {
+        "parroquia": "IMANTAG",
+        "id": 1710,
+        "votos": 32,
+        "candidato": "Zavala Nelson",
+        "value": 1.0
+    },
+    {
+        "parroquia": "PE�AHERRERA",
+        "id": 2820,
+        "votos": 4,
+        "candidato": "Zavala Nelson",
+        "value": 0.0
+    },
+    {
+        "parroquia": "PLAZA GUTIERREZ/CALVARIO",
+        "id": 2915,
+        "votos": 0,
+        "candidato": "Zavala Nelson",
+        "value": 0.0
+    },
+    {
+        "parroquia": "QUIROGA",
+        "id": 3115,
+        "votos": 18,
+        "candidato": "Zavala Nelson",
+        "value": 0.4
+    },
+    {
+        "parroquia": "6 DE JULIO DE CUELLAJE",
+        "id": 3800,
+        "votos": 6,
+        "candidato": "Zavala Nelson",
+        "value": 0.6
+    },
+    {
+        "parroquia": "VACAS GALINDO",
+        "id": 4185,
+        "votos": 2,
+        "candidato": "Zavala Nelson",
+        "value": 0.6
+    },
+    {
+        "parroquia": "SAGRARIO",
+        "id": 5910,
+        "votos": 42,
+        "candidato": "Zavala Nelson",
+        "value": 1.0
+    },
+    {
+        "parroquia": "SAN FRANCISCO",
+        "id": 5955,
+        "votos": 40,
+        "candidato": "Zavala Nelson",
+        "value": 1.1
+    }
+]

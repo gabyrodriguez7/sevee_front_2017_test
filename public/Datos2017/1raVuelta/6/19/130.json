@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "ZURMI",
+    "id": 1675,
+    "votos": 1,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.11
+  },
+  {
+    "parroquia": "NUEVO PARAñSO",
+    "id": 4570,
+    "votos": 2,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.59
+  },
+  {
+    "parroquia": "GUAYZIMI",
+    "id": 5520,
+    "votos": 9,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.42
+  }
+]

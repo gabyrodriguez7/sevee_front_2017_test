@@ -1,0 +1,38 @@
+[
+    {
+        "canton": 5,
+        "candidato": "PESANTEZ MUÑOZ WASHINGTON ARTURO",
+        "votos": 391,
+        "value": 53.6351166
+    },
+    {
+        "canton": 10,
+        "candidato": "PESANTEZ MUÑOZ WASHINGTON ARTURO",
+        "votos": 121,
+        "value": 16.5980796
+    },
+    {
+        "canton": 15,
+        "candidato": "PESANTEZ MUÑOZ WASHINGTON ARTURO",
+        "votos": 63,
+        "value": 8.64197531
+    },
+    {
+        "canton": 20,
+        "candidato": "PESANTEZ MUÑOZ WASHINGTON ARTURO",
+        "votos": 52,
+        "value": 7.13305898
+    },
+    {
+        "canton": 25,
+        "candidato": "PESANTEZ MUÑOZ WASHINGTON ARTURO",
+        "votos": 72,
+        "value": 9.87654321
+    },
+    {
+        "canton": 995,
+        "candidato": "PESANTEZ MUÑOZ WASHINGTON ARTURO",
+        "votos": 30,
+        "value": 4.11522634
+    }
+]

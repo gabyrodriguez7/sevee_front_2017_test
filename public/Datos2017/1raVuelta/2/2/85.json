@@ -1,0 +1,100 @@
+[
+  {
+    "parroquia": "ALLURIQUÍN",
+    "id": 75,
+    "votos": 305,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.91
+  },
+  {
+    "parroquia": "VALLE HERMOSO",
+    "id": 305,
+    "votos": 198,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.80
+  },
+  {
+    "parroquia": "LUZ DE AMÉRICA",
+    "id": 1755,
+    "votos": 138,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.96
+  },
+  {
+    "parroquia": "SAN JACINTO DEL BÚA",
+    "id": 1970,
+    "votos": 220,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.01
+  },
+  {
+    "parroquia": "EL ESFUERZO",
+    "id": 1990,
+    "votos": 139,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.05
+  },
+  {
+    "parroquia": "SANTA MARÍA DEL TOACHI",
+    "id": 2045,
+    "votos": 96,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.6
+  },
+  {
+    "parroquia": "PUERTO LIMÓN",
+    "id": 4440,
+    "votos": 205,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.41
+  },
+  {
+    "parroquia": "ABRAHAM CALAZACÓN",
+    "id": 5730,
+    "votos": 994,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.66
+  },
+  {
+    "parroquia": "BOMBOLÍ",
+    "id": 5860,
+    "votos": 1750,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.48
+  },
+  {
+    "parroquia": "RÍO VERDE",
+    "id": 5865,
+    "votos": 2172,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.47
+  },
+  {
+    "parroquia": "RÍO TOACHI",
+    "id": 5870,
+    "votos": 231,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.42
+  },
+  {
+    "parroquia": "SANTO DOMINGO",
+    "id": 6065,
+    "votos": 2424,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.45
+  },
+  {
+    "parroquia": "CHIGUILPE",
+    "id": 6175,
+    "votos": 1862,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.2
+  },
+  {
+    "parroquia": "ZARACAY",
+    "id": 6180,
+    "votos": 274,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.98
+  }
+]

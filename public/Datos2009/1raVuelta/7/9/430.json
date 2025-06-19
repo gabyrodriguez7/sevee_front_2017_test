@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "SAN MATEO",
+        "id": 5990,
+        "votos": 7,
+        "candidato": "Alvaro Noboa",
+        "value": 6.03
+    },
+    {
+        "parroquia": "PARAISO",
+        "id": 5765,
+        "votos": 10,
+        "candidato": "Alvaro Noboa",
+        "value": 8.4
+    },
+    {
+        "parroquia": "SALITRE",
+        "id": 5200,
+        "votos": 1154,
+        "candidato": "Alvaro Noboa",
+        "value": 6.77
+    },
+    {
+        "parroquia": "CANDILEJOS",
+        "id": 5155,
+        "votos": 63,
+        "candidato": "Alvaro Noboa",
+        "value": 10.0
+    },
+    {
+        "parroquia": "BOCANA",
+        "id": 5120,
+        "votos": 10,
+        "candidato": "Alvaro Noboa",
+        "value": 5.2
+    },
+    {
+        "parroquia": "VICTORIA",
+        "id": 4220,
+        "votos": 76,
+        "candidato": "Alvaro Noboa",
+        "value": 4.88
+    },
+    {
+        "parroquia": "JUNQUILLAL",
+        "id": 1595,
+        "votos": 78,
+        "candidato": "Alvaro Noboa",
+        "value": 3.65
+    },
+    {
+        "parroquia": "GRAL. VERNAZA",
+        "id": 1350,
+        "votos": 152,
+        "candidato": "Alvaro Noboa",
+        "value": 4.57
+    }
+]

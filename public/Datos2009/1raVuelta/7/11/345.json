@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "SOZORANGA",
+        "id": 6120,
+        "votos": 80,
+        "candidato": "Alvaro Noboa",
+        "value": 5.45
+    },
+    {
+        "parroquia": "TACAMOROS",
+        "id": 3935,
+        "votos": 36,
+        "candidato": "Alvaro Noboa",
+        "value": 3.34
+    },
+    {
+        "parroquia": "NUEVA FATIMA",
+        "id": 2575,
+        "votos": 28,
+        "candidato": "Alvaro Noboa",
+        "value": 6.84
+    }
+]

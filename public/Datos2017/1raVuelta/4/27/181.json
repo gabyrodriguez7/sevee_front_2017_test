@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "C. E. EN CHICAGO",
+    "id": 9027,
+    "votos": 265,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.5
+  },
+  {
+    "parroquia": "C. E. EN MIAMI",
+    "id": 9028,
+    "votos": 356,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 19.28
+  },
+  {
+    "parroquia": "C. E. EN NUEVA YORK",
+    "id": 9029,
+    "votos": 1697,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 18.35
+  },
+  {
+    "parroquia": "C. E. EN WASHINGTON",
+    "id": 9031,
+    "votos": 136,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 15.47
+  },
+  {
+    "parroquia": "C. E. EN LOS ÁNGELES",
+    "id": 9032,
+    "votos": 165,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 17.28
+  },
+  {
+    "parroquia": "C. E. EN CONNECTICUT",
+    "id": 9033,
+    "votos": 259,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.15
+  },
+  {
+    "parroquia": "C. E. EN HOUSTON",
+    "id": 9034,
+    "votos": 65,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.37
+  },
+  {
+    "parroquia": "C. E. EN NEW JERSEY",
+    "id": 9035,
+    "votos": 1612,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 19.39
+  },
+  {
+    "parroquia": "C. E. EN MINNEAPOLIS",
+    "id": 9069,
+    "votos": 66,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.75
+  },
+  {
+    "parroquia": "C. E. EN ATLANTA",
+    "id": 9071,
+    "votos": 72,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 17.96
+  },
+  {
+    "parroquia": "C. E. EN PHOENIX",
+    "id": 9073,
+    "votos": 11,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 19.30
+  }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "MONTERREY",
+        "id": 4635,
+        "votos": 999,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 37.17
+    },
+    {
+        "parroquia": "LA VILLEGAS",
+        "id": 4640,
+        "votos": 695,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 39.18
+    },
+    {
+        "parroquia": "PLAN PILOTO",
+        "id": 4645,
+        "votos": 131,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 23.19
+    },
+    {
+        "parroquia": "LA CONCORDIA",
+        "id": 7520,
+        "votos": 11231,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 42.49
+    }
+]

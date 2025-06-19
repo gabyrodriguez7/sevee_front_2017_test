@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CAPZOL",
+        "id": 515,
+        "votos": 8,
+        "candidato": "Noboa Alvaro",
+        "value": 3.13
+    },
+    {
+        "parroquia": "COMPUD",
+        "id": 615,
+        "votos": 7,
+        "candidato": "Noboa Alvaro",
+        "value": 2.0
+    },
+    {
+        "parroquia": "GONZOL",
+        "id": 1370,
+        "votos": 11,
+        "candidato": "Noboa Alvaro",
+        "value": 2.0
+    },
+    {
+        "parroquia": "LLAGOS",
+        "id": 2260,
+        "votos": 7,
+        "candidato": "Noboa Alvaro",
+        "value": 1.080246914
+    },
+    {
+        "parroquia": "CHUNCHI",
+        "id": 5255,
+        "votos": 125,
+        "candidato": "Noboa Alvaro",
+        "value": 2.61
+    }
+]

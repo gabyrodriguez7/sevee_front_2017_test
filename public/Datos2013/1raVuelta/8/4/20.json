@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "JIJON Y CAAMAÑO",
+        "id": 1835,
+        "votos": 11,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.12
+    },
+    {
+        "parroquia": "JUAN MONTALVO",
+        "id": 1875,
+        "votos": 14,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.6
+    },
+    {
+        "parroquia": "LA CONCEPCION",
+        "id": 2010,
+        "votos": 14,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.0
+    },
+    {
+        "parroquia": "MIRA",
+        "id": 5685,
+        "votos": 173,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.0
+    }
+]

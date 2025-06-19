@@ -1,0 +1,51 @@
+[
+                {
+                    "parroquia": "NUEVA LOJA",
+                    "id": 5710,
+                    "votos": 131,
+                    "candidato": "Melba Jacome",
+                    "value": 0.5
+                },
+                {
+                    "parroquia": "JAMBELI",
+                    "id": 1795,
+                    "votos": 7,
+                    "candidato": "Melba Jacome",
+                    "value": 0.95
+                },
+                {
+                    "parroquia": "SANTA CECILIA",
+                    "id": 1790,
+                    "votos": 6,
+                    "candidato": "Melba Jacome",
+                    "value": 0.46
+                },
+                {
+                    "parroquia": "GENERAL FARFAN",
+                    "id": 1330,
+                    "votos": 7,
+                    "candidato": "Melba Jacome",
+                    "value": 0.58
+                },
+                {
+                    "parroquia": "PACAYACU",
+                    "id": 1290,
+                    "votos": 10,
+                    "candidato": "Melba Jacome",
+                    "value": 0.42
+                },
+                {
+                    "parroquia": "EL ENO",
+                    "id": 1285,
+                    "votos": 14,
+                    "candidato": "Melba Jacome",
+                    "value": 0.68
+                },
+                {
+                    "parroquia": "DURENO",
+                    "id": 1045,
+                    "votos": 0,
+                    "candidato": "Melba Jacome",
+                    "value": 0.0
+                }
+            ]

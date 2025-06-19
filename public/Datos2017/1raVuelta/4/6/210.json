@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "CEBADAS",
+    "id": 555,
+    "votos": 225,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.24
+  },
+  {
+    "parroquia": "PALMIRA",
+    "id": 2730,
+    "votos": 197,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 3.3
+  },
+  {
+    "parroquia": "GUAMOTE",
+    "id": 5430,
+    "votos": 707,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.07
+  }
+]

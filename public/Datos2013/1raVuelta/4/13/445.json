@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "LA PILA",
+        "id": 1545,
+        "votos": 33,
+        "candidato": "Acosta Alberto",
+        "value": 1.6459
+    },
+    {
+        "parroquia": "MONTECRISTI",
+        "id": 5665,
+        "votos": 858,
+        "candidato": "Acosta Alberto",
+        "value": 2.7038
+    },
+    {
+        "parroquia": "ANIBAL SAN ANDRES",
+        "id": 7460,
+        "votos": 10,
+        "candidato": "Acosta Alberto",
+        "value": 3.80228
+    }
+]

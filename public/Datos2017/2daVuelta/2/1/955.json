@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "AMALUZA",
+    "id": 85,
+    "votos": 500,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 78.74
+  },
+  {
+    "parroquia": "PALMAS",
+    "id": 2725,
+    "votos": 1435,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 79.02
+  },
+  {
+    "parroquia": "SEVILLA DE ORO",
+    "id": 6480,
+    "votos": 1409,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 78.41
+  }
+]

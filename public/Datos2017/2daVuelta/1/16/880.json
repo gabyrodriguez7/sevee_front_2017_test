@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN JOSÉ",
+        "id": 2100,
+        "votos": 358,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 64.5045045
+    },
+    {
+        "parroquia": "SANTA CLARA",
+        "id": 6395,
+        "votos": 1476,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 55.0540843
+    }
+]

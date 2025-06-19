@@ -1,0 +1,142 @@
+[
+    {
+        "parroquia": "FEBRES CORDERO",
+        "id": 5355,
+        "votos": 1779,
+        "candidato": "Wray Norman",
+        "value": 0.714
+    },
+    {
+        "parroquia": "XIMENA",
+        "id": 6265,
+        "votos": 1908,
+        "candidato": "Wray Norman",
+        "value": 0.629
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 6150,
+        "votos": 2983,
+        "candidato": "Wray Norman",
+        "value": 0.76
+    },
+    {
+        "parroquia": "PASCUALES",
+        "id": 6405,
+        "votos": 911,
+        "candidato": "Wray Norman",
+        "value": 0.7
+    },
+    {
+        "parroquia": "JUAN GOMEZ RENDON",
+        "id": 1870,
+        "votos": 25,
+        "candidato": "Wray Norman",
+        "value": 0.5
+    },
+    {
+        "parroquia": "MORRO",
+        "id": 2470,
+        "votos": 12,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "POSORJA",
+        "id": 2940,
+        "votos": 85,
+        "candidato": "Wray Norman",
+        "value": 0.8
+    },
+    {
+        "parroquia": "PUNA",
+        "id": 3030,
+        "votos": 15,
+        "candidato": "Wray Norman",
+        "value": 0.4
+    },
+    {
+        "parroquia": "TENGUEL",
+        "id": 4120,
+        "votos": 32,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "AYACUCHO",
+        "id": 5055,
+        "votos": 82,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "BOLIVAR/SAGRARIO",
+        "id": 5125,
+        "votos": 78,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "CARBO/CONCEPCION",
+        "id": 5170,
+        "votos": 347,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "GARCIA MORENO",
+        "id": 5380,
+        "votos": 341,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "LETAMENDI",
+        "id": 5585,
+        "votos": 460,
+        "candidato": "Wray Norman",
+        "value": 0.6
+    },
+    {
+        "parroquia": "9 DE OCTUBRE",
+        "id": 5695,
+        "votos": 58,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "OLMEDO/SAN ALEJO",
+        "id": 5720,
+        "votos": 79,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "ROCA",
+        "id": 5880,
+        "votos": 69,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "ROCAFUERTE",
+        "id": 5890,
+        "votos": 156,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 6095,
+        "votos": 88,
+        "candidato": "Wray Norman",
+        "value": 0.64
+    },
+    {
+        "parroquia": "URDANETA",
+        "id": 6185,
+        "votos": 156,
+        "candidato": "Wray Norman",
+        "value": 0.66
+    }
+]

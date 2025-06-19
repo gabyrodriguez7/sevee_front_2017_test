@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "PACCHA",
+        "id": 5745,
+        "votos": 24,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.38
+    },
+    {
+        "parroquia": "MILAGRO",
+        "id": 4535,
+        "votos": 1,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.45
+    },
+    {
+        "parroquia": "SAN JOSE",
+        "id": 4530,
+        "votos": 2,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.85
+    },
+    {
+        "parroquia": "CORDONCILLO",
+        "id": 4480,
+        "votos": 2,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.43
+    },
+    {
+        "parroquia": "SAN JUAN DE CERRO AZUL",
+        "id": 375,
+        "votos": 2,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.86
+    },
+    {
+        "parroquia": "AYAPAMBA",
+        "id": 225,
+        "votos": 9,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.0
+    }
+]

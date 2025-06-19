@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "SAN JOSE",
+    "id": 6825,
+    "votos": 0,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.0
+  },
+  {
+    "parroquia": "CATAMAYO",
+    "id": 5270,
+    "votos": 42,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.38
+  },
+  {
+    "parroquia": "ZAMBI",
+    "id": 4455,
+    "votos": 4,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 1.39
+  },
+  {
+    "parroquia": "SAN PEDRO DE LA BENDITA",
+    "id": 3610,
+    "votos": 3,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.35
+  },
+  {
+    "parroquia": "GUAYQUICHUMA",
+    "id": 1480,
+    "votos": 2,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.94
+  },
+  {
+    "parroquia": "EL TAMBO",
+    "id": 1200,
+    "votos": 3,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.22
+  }
+]

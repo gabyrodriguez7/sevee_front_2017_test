@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "ASUNCIÓN",
+    "id": 170,
+    "votos": 36,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 2.28
+  },
+  {
+    "parroquia": "MAGDALENA/CHAPACOTO",
+    "id": 2315,
+    "votos": 25,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.37
+  },
+  {
+    "parroquia": "SAN SEBASTIÁN",
+    "id": 3655,
+    "votos": 11,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 2.12
+  },
+  {
+    "parroquia": "TELIMBELA",
+    "id": 3995,
+    "votos": 12,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.53
+  },
+  {
+    "parroquia": "SAN JOSÉ DE CHIMBO",
+    "id": 5975,
+    "votos": 34,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.74
+  }
+]

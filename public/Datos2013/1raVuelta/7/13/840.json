@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "SAN SEBASTIAN",
+        "id": 1060,
+        "votos": 34,
+        "candidato": "Zavala Nelson",
+        "value": 1.1
+    },
+    {
+        "parroquia": "BARRAGANETE",
+        "id": 1065,
+        "votos": 35,
+        "candidato": "Zavala Nelson",
+        "value": 2.0
+    },
+    {
+        "parroquia": "PICHINCHA /GERMUD",
+        "id": 6550,
+        "votos": 148,
+        "candidato": "Zavala Nelson",
+        "value": 1.0
+    }
+]

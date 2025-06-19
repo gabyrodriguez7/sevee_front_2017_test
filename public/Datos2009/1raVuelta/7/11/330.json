@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "ALAMOR",
+        "id": 5005,
+        "votos": 245,
+        "candidato": "Alvaro Noboa",
+        "value": 5.69
+    },
+    {
+        "parroquia": "VICENTINO",
+        "id": 4210,
+        "votos": 29,
+        "candidato": "Alvaro Noboa",
+        "value": 5.27
+    },
+    {
+        "parroquia": "MERCADILLO",
+        "id": 2405,
+        "votos": 29,
+        "candidato": "Alvaro Noboa",
+        "value": 4.09
+    },
+    {
+        "parroquia": "EL LIMO /MARIANA DE JESUS",
+        "id": 1155,
+        "votos": 19,
+        "candidato": "Alvaro Noboa",
+        "value": 2.16
+    },
+    {
+        "parroquia": "CIANO",
+        "id": 565,
+        "votos": 15,
+        "candidato": "Alvaro Noboa",
+        "value": 2.81
+    },
+    {
+        "parroquia": "EL ARENAL",
+        "id": 270,
+        "votos": 8,
+        "candidato": "Alvaro Noboa",
+        "value": 2.54
+    }
+]

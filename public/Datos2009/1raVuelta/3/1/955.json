@@ -1,0 +1,23 @@
+[
+                {
+                    "parroquia": "SEVILLA DE ORO",
+                    "id": 6480,
+                    "votos": 9,
+                    "candidato": "Carlos Gonzalez Albornoz",
+                    "value": 0.6
+                },
+                {
+                    "parroquia": "PALMAS",
+                    "id": 2725,
+                    "votos": 5,
+                    "candidato": "Carlos Gonzalez Albornoz",
+                    "value": 0.39
+                },
+                {
+                    "parroquia": "AMALUZA",
+                    "id": 85,
+                    "votos": 0,
+                    "candidato": "Carlos Gonzalez Albornoz",
+                    "value": 0.0
+                }
+            ]

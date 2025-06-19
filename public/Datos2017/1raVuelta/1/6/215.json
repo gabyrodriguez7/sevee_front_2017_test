@@ -1,0 +1,72 @@
+[
+  {
+    "parroquia": "ACHUPALLAS",
+    "id": 20,
+    "votos": 1638,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 36.80
+  },
+  {
+    "parroquia": "GUASUNTOS",
+    "id": 1465,
+    "votos": 278,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 28.90
+  },
+  {
+    "parroquia": "HUIGRA",
+    "id": 1660,
+    "votos": 323,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 26.83
+  },
+  {
+    "parroquia": "MULTITUD",
+    "id": 2485,
+    "votos": 213,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 31.00
+  },
+  {
+    "parroquia": "PISTISHI",
+    "id": 2905,
+    "votos": 55,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 37.93
+  },
+  {
+    "parroquia": "PUMALLACTA",
+    "id": 3025,
+    "votos": 67,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 19.59
+  },
+  {
+    "parroquia": "SEVILLA",
+    "id": 3820,
+    "votos": 57,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 15.79
+  },
+  {
+    "parroquia": "SIBAMBE",
+    "id": 3845,
+    "votos": 467,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 31.26
+  },
+  {
+    "parroquia": "TIXÁN",
+    "id": 4030,
+    "votos": 2660,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 51.09
+  },
+  {
+    "parroquia": "ALAUSÍ",
+    "id": 5010,
+    "votos": 2947,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 38.39
+  }
+]

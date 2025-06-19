@@ -1,0 +1,114 @@
+[
+    {
+        "parroquia": "CACHA",
+        "id": 420,
+        "votos": 60,
+        "candidato": "Zavala Nelson",
+        "value": 2.91
+    },
+    {
+        "parroquia": "CALPI",
+        "id": 445,
+        "votos": 41,
+        "candidato": "Zavala Nelson",
+        "value": 0.99
+    },
+    {
+        "parroquia": "CUBIJIES",
+        "id": 705,
+        "votos": 16,
+        "candidato": "Zavala Nelson",
+        "value": 1.07
+    },
+    {
+        "parroquia": "FLORES",
+        "id": 1280,
+        "votos": 86,
+        "candidato": "Zavala Nelson",
+        "value": 2.58
+    },
+    {
+        "parroquia": "LICTO",
+        "id": 2165,
+        "votos": 91,
+        "candidato": "Zavala Nelson",
+        "value": 1.66
+    },
+    {
+        "parroquia": "PUNGALA",
+        "id": 3035,
+        "votos": 37,
+        "candidato": "Zavala Nelson",
+        "value": 1.1
+    },
+    {
+        "parroquia": "PUNIN",
+        "id": 3040,
+        "votos": 69,
+        "candidato": "Zavala Nelson",
+        "value": 1.71
+    },
+    {
+        "parroquia": "QUIMIAG",
+        "id": 3095,
+        "votos": 57,
+        "candidato": "Zavala Nelson",
+        "value": 1.66
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3515,
+        "votos": 79,
+        "candidato": "Zavala Nelson",
+        "value": 1.63
+    },
+    {
+        "parroquia": "SAN LUIS",
+        "id": 3560,
+        "votos": 52,
+        "candidato": "Zavala Nelson",
+        "value": 1.31
+    },
+    {
+        "parroquia": "LIZARZABURU",
+        "id": 5590,
+        "votos": 284,
+        "candidato": "Zavala Nelson",
+        "value": 0.84
+    },
+    {
+        "parroquia": "MALDONADO",
+        "id": 5630,
+        "votos": 176,
+        "candidato": "Zavala Nelson",
+        "value": 0.77
+    },
+    {
+        "parroquia": "VELASCO",
+        "id": 6220,
+        "votos": 150,
+        "candidato": "Zavala Nelson",
+        "value": 0.62
+    },
+    {
+        "parroquia": "VELOZ",
+        "id": 6230,
+        "votos": 112,
+        "candidato": "Zavala Nelson",
+        "value": 1.0
+    },
+    {
+        "parroquia": "YARUQUIES",
+        "id": 6290,
+        "votos": 55,
+        "candidato": "Zavala Nelson",
+        "value": 1.0
+    },
+    {
+        "parroquia": "LICAN",
+        "id": 6960,
+        "votos": 32,
+        "candidato": "Zavala Nelson",
+        "value": 1.0
+    }
+]

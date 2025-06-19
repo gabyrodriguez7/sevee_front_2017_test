@@ -1,0 +1,86 @@
+[
+  {
+    "parroquia": "DAYUMA",
+    "id": 1235,
+    "votos": 760,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 17.08
+  },
+  {
+    "parroquia": "TARACOA",
+    "id": 1245,
+    "votos": 158,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.09
+  },
+  {
+    "parroquia": "EL DORADO",
+    "id": 1560,
+    "votos": 155,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 11.89
+  },
+  {
+    "parroquia": "INÉS ARANGO",
+    "id": 1565,
+    "votos": 157,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.7
+  },
+  {
+    "parroquia": "EL EDÉN",
+    "id": 1590,
+    "votos": 20,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.35
+  },
+  {
+    "parroquia": "GARCÍA MORENO",
+    "id": 1810,
+    "votos": 171,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 19.95
+  },
+  {
+    "parroquia": "LA BELLEZA",
+    "id": 1820,
+    "votos": 319,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 13.67
+  },
+  {
+    "parroquia": "SAN LUIS DE ARMENIA",
+    "id": 1935,
+    "votos": 236,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 20.22
+  },
+  {
+    "parroquia": "NUEVO PARAÍSO",
+    "id": 1940,
+    "votos": 153,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.44
+  },
+  {
+    "parroquia": "SAN JOSÉ DE GUAYUSA",
+    "id": 1945,
+    "votos": 134,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 12.55
+  },
+  {
+    "parroquia": "ALEJANDRO LABAKA",
+    "id": 1995,
+    "votos": 43,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.65
+  },
+  {
+    "parroquia": "PTO. FCO. DE ORELLANA",
+    "id": 5815,
+    "votos": 2486,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.16
+  }
+]

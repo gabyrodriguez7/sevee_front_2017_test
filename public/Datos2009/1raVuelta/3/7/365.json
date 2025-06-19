@@ -1,0 +1,72 @@
+[
+  {
+    "parroquia": "TRES CERRITOS",
+    "id": 6375,
+    "votos": 0,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.0
+  },
+  {
+    "parroquia": "BOLIVAR",
+    "id": 6370,
+    "votos": 2,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 3.27
+  },
+  {
+    "parroquia": "LOMA DE FRANCO",
+    "id": 6365,
+    "votos": 0,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.0
+  },
+  {
+    "parroquia": "OCHOA LEON/MATRIZ",
+    "id": 5770,
+    "votos": 140,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.48
+  },
+  {
+    "parroquia": "CASACAY",
+    "id": 4495,
+    "votos": 6,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.83
+  },
+  {
+    "parroquia": "UZHCURRUMI",
+    "id": 4160,
+    "votos": 6,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.89
+  },
+  {
+    "parroquia": "LA PEAÑA",
+    "id": 2075,
+    "votos": 6,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.34
+  },
+  {
+    "parroquia": "PROGRESO",
+    "id": 1225,
+    "votos": 7,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.61
+  },
+  {
+    "parroquia": "CAÑAQUEMADA",
+    "id": 775,
+    "votos": 2,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.48
+  },
+  {
+    "parroquia": "BUENAVISTA",
+    "id": 390,
+    "votos": 10,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.33
+  }
+]

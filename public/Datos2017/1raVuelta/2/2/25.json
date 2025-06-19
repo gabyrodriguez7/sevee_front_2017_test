@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "SAN RAFAEL",
+    "id": 1055,
+    "votos": 121,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 11.69
+  },
+  {
+    "parroquia": "GARCÍA MORENO",
+    "id": 1315,
+    "votos": 173,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 15.22
+  },
+  {
+    "parroquia": "LOS ANDES",
+    "id": 2205,
+    "votos": 153,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.53
+  },
+  {
+    "parroquia": "MONTEOLIVO",
+    "id": 2455,
+    "votos": 140,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 11.74
+  },
+  {
+    "parroquia": "SAN VICENTE DE PUSIR",
+    "id": 3680,
+    "votos": 78,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.2
+  },
+  {
+    "parroquia": "BOLÍVAR",
+    "id": 6520,
+    "votos": 368,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.21
+  }
+]

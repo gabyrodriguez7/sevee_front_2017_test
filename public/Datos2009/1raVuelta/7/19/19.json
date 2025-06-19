@@ -1,0 +1,56 @@
+[
+    {
+        "id": 130,
+        "candidato": "Alvaro Noboa",
+        "votos": 165,
+        "value": 6.95
+    },
+    {
+        "id": 655,
+        "candidato": "Alvaro Noboa",
+        "votos": 1089,
+        "value": 9.05
+    },
+    {
+        "id": 660,
+        "candidato": "Alvaro Noboa",
+        "votos": 281,
+        "value": 6.5
+    },
+    {
+        "id": 661,
+        "candidato": "Alvaro Noboa",
+        "votos": 40,
+        "value": 1.03
+    },
+    {
+        "id": 665,
+        "candidato": "Alvaro Noboa",
+        "votos": 145,
+        "value": 6.31
+    },
+    {
+        "id": 670,
+        "candidato": "Alvaro Noboa",
+        "votos": 397,
+        "value": 4.95
+    },
+    {
+        "id": 775,
+        "candidato": "Alvaro Noboa",
+        "votos": 139,
+        "value": 3.68
+    },
+    {
+        "id": 980,
+        "candidato": "Alvaro Noboa",
+        "votos": 187,
+        "value": 5.97
+    },
+    {
+        "id": 981,
+        "candidato": "Alvaro Noboa",
+        "votos": 67,
+        "value": 3.87
+    }
+]

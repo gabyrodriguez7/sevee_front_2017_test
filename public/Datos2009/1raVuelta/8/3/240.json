@@ -1,0 +1,86 @@
+[
+  {
+    "parroquia": "CAÑAR",
+    "id": 5160,
+    "votos": 4022,
+    "candidato": "Lucio Gutierrez",
+    "value": 37.89
+  },
+  {
+    "parroquia": "ZHUD",
+    "id": 4345,
+    "votos": 183,
+    "candidato": "Lucio Gutierrez",
+    "value": 38.52
+  },
+  {
+    "parroquia": "SAN ANTONIO",
+    "id": 3305,
+    "votos": 388,
+    "candidato": "Lucio Gutierrez",
+    "value": 58.08
+  },
+  {
+    "parroquia": "JUNCAL",
+    "id": 1900,
+    "votos": 280,
+    "candidato": "Lucio Gutierrez",
+    "value": 45.97
+  },
+  {
+    "parroquia": "DUCUR",
+    "id": 1895,
+    "votos": 375,
+    "candidato": "Lucio Gutierrez",
+    "value": 46.58
+  },
+  {
+    "parroquia": "VENTURA",
+    "id": 1775,
+    "votos": 89,
+    "candidato": "Lucio Gutierrez",
+    "value": 32.48
+  },
+  {
+    "parroquia": "INGAPIRCA",
+    "id": 1725,
+    "votos": 1421,
+    "candidato": "Lucio Gutierrez",
+    "value": 56.79
+  },
+  {
+    "parroquia": "HONORATO VASQUEZ",
+    "id": 1605,
+    "votos": 877,
+    "candidato": "Lucio Gutierrez",
+    "value": 40.19
+  },
+  {
+    "parroquia": "GUALLETURO",
+    "id": 1410,
+    "votos": 519,
+    "candidato": "Lucio Gutierrez",
+    "value": 45.36
+  },
+  {
+    "parroquia": "GRAL.MORALES / SOCARTE",
+    "id": 1335,
+    "votos": 195,
+    "candidato": "Lucio Gutierrez",
+    "value": 31.86
+  },
+  {
+    "parroquia": "CHOROCOPTE",
+    "id": 950,
+    "votos": 332,
+    "candidato": "Lucio Gutierrez",
+    "value": 42.89
+  },
+  {
+    "parroquia": "CHONTAMARCA",
+    "id": 935,
+    "votos": 625,
+    "candidato": "Lucio Gutierrez",
+    "value": 52.12
+  }
+]

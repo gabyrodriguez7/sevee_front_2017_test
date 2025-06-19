@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "HUAQUILLAS",
+    "id": 5460,
+    "votos": 3308,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.43
+  },
+  {
+    "parroquia": "HUALTACO",
+    "id": 6800,
+    "votos": 66,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.98
+  },
+  {
+    "parroquia": "MILTON REYES",
+    "id": 6805,
+    "votos": 111,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 15.52
+  },
+  {
+    "parroquia": "EL PARAÍSO",
+    "id": 6810,
+    "votos": 68,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.43
+  },
+  {
+    "parroquia": "ECUADOR",
+    "id": 6815,
+    "votos": 124,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.11
+  },
+  {
+    "parroquia": "UNIÓN LOJANA",
+    "id": 6820,
+    "votos": 187,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.9
+  }
+]

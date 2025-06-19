@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "PACCHA",
+        "id": 5745,
+        "votos": 47,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.7
+    },
+    {
+        "parroquia": "MILAGRO",
+        "id": 4535,
+        "votos": 7,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.19
+    },
+    {
+        "parroquia": "SAN JOSE",
+        "id": 4530,
+        "votos": 3,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.27
+    },
+    {
+        "parroquia": "CORDONCILLO",
+        "id": 4480,
+        "votos": 6,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.31
+    },
+    {
+        "parroquia": "SAN JUAN DE CERRO AZUL",
+        "id": 375,
+        "votos": 4,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.73
+    },
+    {
+        "parroquia": "AYAPAMBA",
+        "id": 225,
+        "votos": 41,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 4.57
+    }
+]

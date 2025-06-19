@@ -1,0 +1,44 @@
+[
+                {
+                    "parroquia": "AYACUCHO",
+                    "id": 220,
+                    "votos": 276,
+                    "candidato": "Rodas Espinel Mauricio Esteban",
+                    "value": 6.2317
+                },
+                {
+                    "parroquia": "SAN PABLO",
+                    "id": 1105,
+                    "votos": 47,
+                    "candidato": "Rodas Espinel Mauricio Esteban",
+                    "value": 2.0
+                },
+                {
+                    "parroquia": "HONORATO VASQUEZ",
+                    "id": 1610,
+                    "votos": 138,
+                    "candidato": "Rodas Espinel Mauricio Esteban",
+                    "value": 4.7
+                },
+                {
+                    "parroquia": "LA UNION",
+                    "id": 2135,
+                    "votos": 95,
+                    "candidato": "Rodas Espinel Mauricio Esteban",
+                    "value": 3.0
+                },
+                {
+                    "parroquia": "SANTA ANA",
+                    "id": 6030,
+                    "votos": 1481,
+                    "candidato": "Rodas Espinel Mauricio Esteban",
+                    "value": 9.611
+                },
+                {
+                    "parroquia": "LODANA",
+                    "id": 6725,
+                    "votos": 62,
+                    "candidato": "Rodas Espinel Mauricio Esteban",
+                    "value": 8.278
+                }
+            ]

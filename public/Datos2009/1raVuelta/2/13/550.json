@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "TOSAGUA",
+        "id": 6170,
+        "votos": 47,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.29
+    },
+    {
+        "parroquia": "ANGEL PEDRO GILER",
+        "id": 2030,
+        "votos": 8,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.39
+    },
+    {
+        "parroquia": "BACHILLERO",
+        "id": 265,
+        "votos": 6,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.37
+    }
+]

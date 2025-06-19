@@ -1,0 +1,100 @@
+[
+  {
+    "parroquia": "ALLURIQUÍN",
+    "id": 75,
+    "votos": 41,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.79
+  },
+  {
+    "parroquia": "VALLE HERMOSO",
+    "id": 305,
+    "votos": 54,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.31
+  },
+  {
+    "parroquia": "LUZ DE AMÉRICA",
+    "id": 1755,
+    "votos": 24,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.69
+  },
+  {
+    "parroquia": "SAN JACINTO DEL BÍO",
+    "id": 1970,
+    "votos": 30,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.55
+  },
+  {
+    "parroquia": "EL ESFUERZO",
+    "id": 1990,
+    "votos": 22,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.8
+  },
+  {
+    "parroquia": "SANTA MARÍA DEL TOACHI",
+    "id": 2045,
+    "votos": 24,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.15
+  },
+  {
+    "parroquia": "PUERTO LIMÓN",
+    "id": 4440,
+    "votos": 60,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1
+  },
+  {
+    "parroquia": "ABRAHAM CALAZACÓN",
+    "id": 5730,
+    "votos": 160,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.59
+  },
+  {
+    "parroquia": "BOMBOLÍ",
+    "id": 5860,
+    "votos": 289,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.74
+  },
+  {
+    "parroquia": "RÍO VERDE",
+    "id": 5865,
+    "votos": 280,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.58
+  },
+  {
+    "parroquia": "RÍO TOACHI",
+    "id": 5870,
+    "votos": 43,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.82
+  },
+  {
+    "parroquia": "SANTO DOMINGO",
+    "id": 6065,
+    "votos": 354,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.65
+  },
+  {
+    "parroquia": "CHIGUILPE",
+    "id": 6175,
+    "votos": 211,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.59
+  },
+  {
+    "parroquia": "ZARACAY",
+    "id": 6180,
+    "votos": 37,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.67
+  }
+]

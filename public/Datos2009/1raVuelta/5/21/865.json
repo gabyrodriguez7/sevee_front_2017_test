@@ -1,0 +1,30 @@
+[
+                {
+                    "parroquia": "LUMBAQUI",
+                    "id": 6300,
+                    "votos": 6,
+                    "candidato": "Melba Jacome",
+                    "value": 0.33
+                },
+                {
+                    "parroquia": "PUERTO LIBRE",
+                    "id": 3615,
+                    "votos": 2,
+                    "candidato": "Melba Jacome",
+                    "value": 0.52
+                },
+                {
+                    "parroquia": "GONZALO PIZARRO",
+                    "id": 1090,
+                    "votos": 6,
+                    "candidato": "Melba Jacome",
+                    "value": 0.52
+                },
+                {
+                    "parroquia": "EL REVENTADOR",
+                    "id": 230,
+                    "votos": 1,
+                    "candidato": "Melba Jacome",
+                    "value": 0.16
+                }
+            ]

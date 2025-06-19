@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "LOS ANDES",
+    "id": 2210,
+    "votos": 139,
+    "candidato": "Lasso Guillermo",
+    "value": 19.66
+  },
+  {
+    "parroquia": "SUCRE",
+    "id": 3885,
+    "votos": 455,
+    "candidato": "Lasso Guillermo",
+    "value": 39.8
+  },
+  {
+    "parroquia": "EL TRIUNFO",
+    "id": 4110,
+    "votos": 175,
+    "candidato": "Lasso Guillermo",
+    "value": 27.0
+  },
+  {
+    "parroquia": "PATATE",
+    "id": 5830,
+    "votos": 1401,
+    "candidato": "Lasso Guillermo",
+    "value": 25.5797
+  }
+]

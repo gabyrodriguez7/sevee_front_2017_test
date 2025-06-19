@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "SAN RAFAEL",
+    "id": 1055,
+    "votos": 19,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.84
+  },
+  {
+    "parroquia": "GARCÍA MORENO",
+    "id": 1315,
+    "votos": 46,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.05
+  },
+  {
+    "parroquia": "LOS ANDES",
+    "id": 2205,
+    "votos": 36,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.48
+  },
+  {
+    "parroquia": "MONTEOLIVO",
+    "id": 2455,
+    "votos": 55,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.61
+  },
+  {
+    "parroquia": "SAN VICENTE DE PUSIR",
+    "id": 3680,
+    "votos": 27,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.14
+  },
+  {
+    "parroquia": "BOLÍVAR",
+    "id": 6520,
+    "votos": 130,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.61
+  }
+]

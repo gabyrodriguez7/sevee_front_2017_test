@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "BAEZA",
+        "id": 5090,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.09
+    },
+    {
+        "parroquia": "SUMACO",
+        "id": 3890,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.85
+    },
+    {
+        "parroquia": "SAN FRANCISCO DE BORJA",
+        "id": 3395,
+        "votos": 2,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.19
+    },
+    {
+        "parroquia": "PAPALLACTA",
+        "id": 2770,
+        "votos": 2,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.53
+    },
+    {
+        "parroquia": "CUYUJA",
+        "id": 765,
+        "votos": 0,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.0
+    },
+    {
+        "parroquia": "COSANGA",
+        "id": 670,
+        "votos": 2,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.61
+    }
+]

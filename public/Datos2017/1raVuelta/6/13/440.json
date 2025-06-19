@@ -1,0 +1,114 @@
+[
+  {
+    "parroquia": "ABDÓN CALDERÓN",
+    "id": 10,
+    "votos": 47,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.5
+  },
+  {
+    "parroquia": "ALHAJUELA /BAJO GRANDE",
+    "id": 50,
+    "votos": 8,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.24
+  },
+  {
+    "parroquia": "CRUCITA",
+    "id": 770,
+    "votos": 41,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.54
+  },
+  {
+    "parroquia": "CHIRIJOS",
+    "id": 1925,
+    "votos": 6,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.46
+  },
+  {
+    "parroquia": "PUEBLO NUEVO",
+    "id": 2970,
+    "votos": 14,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.58
+  },
+  {
+    "parroquia": "RÍO CHICO",
+    "id": 3185,
+    "votos": 34,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.43
+  },
+  {
+    "parroquia": "SAN PLÁCIDO",
+    "id": 3625,
+    "votos": 31,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.56
+  },
+  {
+    "parroquia": "ANDRÉS DE VERA",
+    "id": 5030,
+    "votos": 245,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.5
+  },
+  {
+    "parroquia": "COLÓN",
+    "id": 5265,
+    "votos": 78,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.61
+  },
+  {
+    "parroquia": "12 DE MARZO",
+    "id": 5280,
+    "votos": 150,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.53
+  },
+  {
+    "parroquia": "PORTOVIEJO",
+    "id": 5795,
+    "votos": 101,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.44
+  },
+  {
+    "parroquia": "PICOAZA",
+    "id": 5845,
+    "votos": 64,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.48
+  },
+  {
+    "parroquia": "SAN PABLO",
+    "id": 6585,
+    "votos": 16,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.31
+  },
+  {
+    "parroquia": "18 DE OCTUBRE",
+    "id": 6770,
+    "votos": 37,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.57
+  },
+  {
+    "parroquia": "FRANCISCO PACHECO",
+    "id": 6775,
+    "votos": 22,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.44
+  },
+  {
+    "parroquia": "SIMÓN BOLÍVAR",
+    "id": 6910,
+    "votos": 9,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.39
+  }
+]

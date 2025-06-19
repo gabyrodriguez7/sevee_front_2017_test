@@ -1,0 +1,86 @@
+[
+  {
+    "parroquia": "BELLAVISTA",
+    "id": 325,
+    "votos": 461,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 28.02
+  },
+  {
+    "parroquia": "BELLAMARÍA",
+    "id": 1665,
+    "votos": 283,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 31.69
+  },
+  {
+    "parroquia": "JAMBELÍ",
+    "id": 1815,
+    "votos": 77,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 18.38
+  },
+  {
+    "parroquia": "LA AVANZADA",
+    "id": 2005,
+    "votos": 457,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 32.9
+  },
+  {
+    "parroquia": "SAN ANTONIO",
+    "id": 3330,
+    "votos": 189,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 26.1
+  },
+  {
+    "parroquia": "VICTORIA",
+    "id": 4215,
+    "votos": 161,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 12.22
+  },
+  {
+    "parroquia": "TORATA",
+    "id": 4525,
+    "votos": 304,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 27.17
+  },
+  {
+    "parroquia": "SANTA ROSA",
+    "id": 6060,
+    "votos": 11675,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 31.66
+  },
+  {
+    "parroquia": "PUERTO JELI",
+    "id": 6670,
+    "votos": 104,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 21.89
+  },
+  {
+    "parroquia": "BALNEARIO JAMBELÍ",
+    "id": 6900,
+    "votos": 18,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 13.24
+  },
+  {
+    "parroquia": "JUMON",
+    "id": 6985,
+    "votos": 103,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 24.12
+  },
+  {
+    "parroquia": "NUEVO SANTA ROSA",
+    "id": 6990,
+    "votos": 121,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 18.64
+  }
+]

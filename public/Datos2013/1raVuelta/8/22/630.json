@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "CAP. AUGUSTO RIVADENEIRA",
+    "id": 510,
+    "votos": 6,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 1.948
+  },
+  {
+    "parroquia": "CONONACO",
+    "id": 630,
+    "votos": 2,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 1.0
+  },
+  {
+    "parroquia": "STA. MARIA DE HUIRIRIMA",
+    "id": 3720,
+    "votos": 2,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 0.6
+  },
+  {
+    "parroquia": "TIPUTINI",
+    "id": 4020,
+    "votos": 5,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 0.67
+  },
+  {
+    "parroquia": "YASUNI",
+    "id": 4295,
+    "votos": 3,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 1.84
+  },
+  {
+    "parroquia": "NUEVO ROCAFUERTE",
+    "id": 5700,
+    "votos": 6,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 1.1
+  }
+]

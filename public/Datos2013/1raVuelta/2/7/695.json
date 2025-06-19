@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "HUAQUILLAS",
+        "id": 5460,
+        "votos": 11240,
+        "candidato": "Correa Delgado Rafael",
+        "value": 46.0
+    },
+    {
+        "parroquia": "HUALTACO",
+        "id": 6800,
+        "votos": 293,
+        "candidato": "Correa Delgado Rafael",
+        "value": 60.164
+    },
+    {
+        "parroquia": "MILTON REYES",
+        "id": 6805,
+        "votos": 246,
+        "candidato": "Correa Delgado Rafael",
+        "value": 55.53
+    },
+    {
+        "parroquia": "EL PARAISO",
+        "id": 6810,
+        "votos": 203,
+        "candidato": "Correa Delgado Rafael",
+        "value": 48.0
+    },
+    {
+        "parroquia": "ECUADOR",
+        "id": 6815,
+        "votos": 351,
+        "candidato": "Correa Delgado Rafael",
+        "value": 51.8463811
+    },
+    {
+        "parroquia": "UNION LOJANA",
+        "id": 6820,
+        "votos": 616,
+        "candidato": "Correa Delgado Rafael",
+        "value": 54.9509367
+    }
+]

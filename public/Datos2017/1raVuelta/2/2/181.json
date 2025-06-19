@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "C. E. EN CHICAGO",
+    "id": 9027,
+    "votos": 206,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.49
+  },
+  {
+    "parroquia": "C. E. EN MIAMI",
+    "id": 9028,
+    "votos": 50,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.71
+  },
+  {
+    "parroquia": "C. E. EN NUEVA YORK",
+    "id": 9029,
+    "votos": 736,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.96
+  },
+  {
+    "parroquia": "C. E. EN WASHINGTON",
+    "id": 9031,
+    "votos": 94,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.69
+  },
+  {
+    "parroquia": "C. E. EN LOS ÁNGELES",
+    "id": 9032,
+    "votos": 40,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.19
+  },
+  {
+    "parroquia": "C. E. EN CONNECTICUT",
+    "id": 9033,
+    "votos": 254,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 12.90
+  },
+  {
+    "parroquia": "C. E. EN HOUSTON",
+    "id": 9034,
+    "votos": 33,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.26
+  },
+  {
+    "parroquia": "C. E. EN NEW JERSEY",
+    "id": 9035,
+    "votos": 723,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.70
+  },
+  {
+    "parroquia": "C. E. EN MINNEAPOLIS",
+    "id": 9069,
+    "votos": 63,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.26
+  },
+  {
+    "parroquia": "C. E. EN ATLANTA",
+    "id": 9071,
+    "votos": 17,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.24
+  },
+  {
+    "parroquia": "C. E. EN PHOENIX",
+    "id": 9073,
+    "votos": 3,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.26
+  }
+]

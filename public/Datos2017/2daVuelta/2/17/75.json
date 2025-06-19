@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "LA ESPERANZA",
+    "id": 2025,
+    "votos": 1195,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 57.0405728
+  },
+  {
+    "parroquia": "MALCHINGUÍ",
+    "id": 2330,
+    "votos": 1998,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 66.3346614
+  },
+  {
+    "parroquia": "TOCACHI",
+    "id": 4045,
+    "votos": 714,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 62.195122
+  },
+  {
+    "parroquia": "TUPIGACHI",
+    "id": 4090,
+    "votos": 1422,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 53.2783814
+  },
+  {
+    "parroquia": "TABACUNDO",
+    "id": 6145,
+    "votos": 6835,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 57.8012685
+  }
+]

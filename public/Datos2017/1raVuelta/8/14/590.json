@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "ALSHI /9 DE OCTUBRE",
+    "id": 65,
+    "votos": 3,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.09
+  },
+  {
+    "parroquia": "CUCHAENTZA",
+    "id": 1250,
+    "votos": 7,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.8
+  },
+  {
+    "parroquia": "GRAL. PROAÑO",
+    "id": 1345,
+    "votos": 13,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.2
+  },
+  {
+    "parroquia": "RÍO BLANCO",
+    "id": 1730,
+    "votos": 11,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.22
+  },
+  {
+    "parroquia": "SAN ISIDRO",
+    "id": 3440,
+    "votos": 9,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.54
+  },
+  {
+    "parroquia": "SEVILLA DON BOSCO",
+    "id": 3830,
+    "votos": 43,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.76
+  },
+  {
+    "parroquia": "ZUNAC",
+    "id": 4360,
+    "votos": 0,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0
+  },
+  {
+    "parroquia": "SINAI",
+    "id": 4485,
+    "votos": 2,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.31
+  },
+  {
+    "parroquia": "MACAS",
+    "id": 5615,
+    "votos": 195,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.43
+  }
+]

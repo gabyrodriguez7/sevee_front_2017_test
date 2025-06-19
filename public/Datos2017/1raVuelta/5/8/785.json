@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "TONSUPA",
+    "id": 1615,
+    "votos": 18,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.36
+  },
+  {
+    "parroquia": "LA UNIÓN",
+    "id": 2130,
+    "votos": 3,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.21
+  },
+  {
+    "parroquia": "SÚA/BOCANA",
+    "id": 3880,
+    "votos": 7,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.35
+  },
+  {
+    "parroquia": "TONCHÍGUE",
+    "id": 4055,
+    "votos": 18,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.42
+  },
+  {
+    "parroquia": "ATACAMES",
+    "id": 6380,
+    "votos": 28,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.27
+  }
+]

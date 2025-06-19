@@ -1,0 +1,72 @@
+[
+  {
+    "parroquia": "ACHUPALLAS",
+    "id": 20,
+    "votos": 58,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.3
+  },
+  {
+    "parroquia": "GUASUNTOS",
+    "id": 1465,
+    "votos": 18,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.87
+  },
+  {
+    "parroquia": "HUIGRA",
+    "id": 1660,
+    "votos": 12,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1
+  },
+  {
+    "parroquia": "MULTITUD",
+    "id": 2485,
+    "votos": 19,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 2.77
+  },
+  {
+    "parroquia": "PISTISHI",
+    "id": 2905,
+    "votos": 1,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.69
+  },
+  {
+    "parroquia": "PUMALLACTA",
+    "id": 3025,
+    "votos": 4,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.17
+  },
+  {
+    "parroquia": "SEVILLA",
+    "id": 3820,
+    "votos": 1,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.28
+  },
+  {
+    "parroquia": "SIBAMBE",
+    "id": 3845,
+    "votos": 38,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 2.54
+  },
+  {
+    "parroquia": "TIXÁN",
+    "id": 4030,
+    "votos": 118,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 2.27
+  },
+  {
+    "parroquia": "ALAUSÍ",
+    "id": 5010,
+    "votos": 99,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.29
+  }
+]

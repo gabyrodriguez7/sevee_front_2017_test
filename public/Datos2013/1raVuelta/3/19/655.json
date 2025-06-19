@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "CUMBARATZA",
+        "id": 720,
+        "votos": 9,
+        "candidato": "Wray Norman",
+        "value": 0.43
+    },
+    {
+        "parroquia": "GUADALUPE",
+        "id": 1390,
+        "votos": 6,
+        "candidato": "Wray Norman",
+        "value": 0.344
+    },
+    {
+        "parroquia": "SAN CARLOS DE LAS MINAS",
+        "id": 1770,
+        "votos": 8,
+        "candidato": "Wray Norman",
+        "value": 0.798
+    },
+    {
+        "parroquia": "LA VICTORIA DE IMBANA",
+        "id": 2155,
+        "votos": 7,
+        "candidato": "Wray Norman",
+        "value": 1.23
+    },
+    {
+        "parroquia": "SABANILLA",
+        "id": 3260,
+        "votos": 2,
+        "candidato": "Wray Norman",
+        "value": 0.5
+    },
+    {
+        "parroquia": "TIMBARA",
+        "id": 4010,
+        "votos": 5,
+        "candidato": "Wray Norman",
+        "value": 0.664
+    },
+    {
+        "parroquia": "ZAMORA",
+        "id": 6305,
+        "votos": 58,
+        "candidato": "Wray Norman",
+        "value": 0.659
+    },
+    {
+        "parroquia": "EL LIMON",
+        "id": 6840,
+        "votos": 0,
+        "candidato": "Wray Norman",
+        "value": 0.0
+    }
+]

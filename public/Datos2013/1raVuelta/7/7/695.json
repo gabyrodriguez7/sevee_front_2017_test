@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "HUAQUILLAS",
+        "id": 5460,
+        "votos": 524,
+        "candidato": "Zavala Nelson",
+        "value": 2.0
+    },
+    {
+        "parroquia": "HUALTACO",
+        "id": 6800,
+        "votos": 14,
+        "candidato": "Zavala Nelson",
+        "value": 2.875
+    },
+    {
+        "parroquia": "MILTON REYES",
+        "id": 6805,
+        "votos": 4,
+        "candidato": "Zavala Nelson",
+        "value": 0.903
+    },
+    {
+        "parroquia": "EL PARAISO",
+        "id": 6810,
+        "votos": 5,
+        "candidato": "Zavala Nelson",
+        "value": 1.0
+    },
+    {
+        "parroquia": "ECUADOR",
+        "id": 6815,
+        "votos": 11,
+        "candidato": "Zavala Nelson",
+        "value": 1.6248154
+    },
+    {
+        "parroquia": "UNION LOJANA",
+        "id": 6820,
+        "votos": 24,
+        "candidato": "Zavala Nelson",
+        "value": 2.1409456
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CHUNCHI",
+        "id": 5255,
+        "votos": 39,
+        "candidato": "Melba Jacome",
+        "value": 1.02
+    },
+    {
+        "parroquia": "LLAGOS",
+        "id": 2260,
+        "votos": 7,
+        "candidato": "Melba Jacome",
+        "value": 1.4
+    },
+    {
+        "parroquia": "GONZOL",
+        "id": 1370,
+        "votos": 14,
+        "candidato": "Melba Jacome",
+        "value": 3.09
+    },
+    {
+        "parroquia": "COMPUD",
+        "id": 615,
+        "votos": 1,
+        "candidato": "Melba Jacome",
+        "value": 0.33
+    },
+    {
+        "parroquia": "CAPZOL",
+        "id": 515,
+        "votos": 3,
+        "candidato": "Melba Jacome",
+        "value": 1.41
+    }
+]

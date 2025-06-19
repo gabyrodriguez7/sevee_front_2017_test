@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "HUAQUILLAS",
+        "id": 5460,
+        "votos": 714,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.0
+    },
+    {
+        "parroquia": "HUALTACO",
+        "id": 6800,
+        "votos": 14,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.875
+    },
+    {
+        "parroquia": "MILTON REYES",
+        "id": 6805,
+        "votos": 10,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.257
+    },
+    {
+        "parroquia": "EL PARAISO",
+        "id": 6810,
+        "votos": 6,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.0
+    },
+    {
+        "parroquia": "ECUADOR",
+        "id": 6815,
+        "votos": 26,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.8404727
+    },
+    {
+        "parroquia": "UNION LOJANA",
+        "id": 6820,
+        "votos": 34,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.0330062
+    }
+]

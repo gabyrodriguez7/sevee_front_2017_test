@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "AMALUZA",
+        "id": 85,
+        "votos": 44,
+        "candidato": "Lasso Guillermo",
+        "value": 8.0
+    },
+    {
+        "parroquia": "PALMAS",
+        "id": 2725,
+        "votos": 108,
+        "candidato": "Lasso Guillermo",
+        "value": 7.0
+    },
+    {
+        "parroquia": "SEVILLA DE ORO",
+        "id": 6480,
+        "votos": 123,
+        "candidato": "Lasso Guillermo",
+        "value": 7.26
+    }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "C. E. EN BRASILIA",
+    "id": 9009,
+    "votos": 4,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 9.52
+  },
+  {
+    "parroquia": "C. E. EN SAO PAULO",
+    "id": 9067,
+    "votos": 0,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.00
+  },
+  {
+    "parroquia": "C. E. EN RÍO DE JANEIRO",
+    "id": 9083,
+    "votos": 0,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.00
+  }
+]

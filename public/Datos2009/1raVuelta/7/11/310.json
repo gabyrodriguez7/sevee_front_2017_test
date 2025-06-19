@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "LOURDES",
+        "id": 5595,
+        "votos": 45,
+        "candidato": "Alvaro Noboa",
+        "value": 7.62
+    },
+    {
+        "parroquia": "CATACOCHA",
+        "id": 5180,
+        "votos": 542,
+        "candidato": "Alvaro Noboa",
+        "value": 7.5
+    },
+    {
+        "parroquia": "ORIANGA",
+        "id": 2630,
+        "votos": 26,
+        "candidato": "Alvaro Noboa",
+        "value": 3.59
+    },
+    {
+        "parroquia": "LAURO GUERRERO",
+        "id": 2140,
+        "votos": 48,
+        "candidato": "Alvaro Noboa",
+        "value": 6.99
+    },
+    {
+        "parroquia": "GUACHANAMA",
+        "id": 1380,
+        "votos": 12,
+        "candidato": "Alvaro Noboa",
+        "value": 3.84
+    },
+    {
+        "parroquia": "YAMANA",
+        "id": 1000,
+        "votos": 30,
+        "candidato": "Alvaro Noboa",
+        "value": 7.48
+    },
+    {
+        "parroquia": "CASANGA",
+        "id": 995,
+        "votos": 10,
+        "candidato": "Alvaro Noboa",
+        "value": 3.37
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 545,
+        "votos": 11,
+        "candidato": "Alvaro Noboa",
+        "value": 3.94
+    },
+    {
+        "parroquia": "CANGONAMA",
+        "id": 485,
+        "votos": 36,
+        "candidato": "Alvaro Noboa",
+        "value": 8.01
+    }
+]

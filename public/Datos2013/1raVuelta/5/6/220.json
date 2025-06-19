@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CAPZOL",
+        "id": 515,
+        "votos": 67,
+        "candidato": "Gutierrez Lucio",
+        "value": 26.17
+    },
+    {
+        "parroquia": "COMPUD",
+        "id": 615,
+        "votos": 127,
+        "candidato": "Gutierrez Lucio",
+        "value": 36.5
+    },
+    {
+        "parroquia": "GONZOL",
+        "id": 1370,
+        "votos": 62,
+        "candidato": "Gutierrez Lucio",
+        "value": 11.5
+    },
+    {
+        "parroquia": "LLAGOS",
+        "id": 2260,
+        "votos": 235,
+        "candidato": "Gutierrez Lucio",
+        "value": 36.2654321
+    },
+    {
+        "parroquia": "CHUNCHI",
+        "id": 5255,
+        "votos": 1033,
+        "candidato": "Gutierrez Lucio",
+        "value": 21.59
+    }
+]

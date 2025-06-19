@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "C. E. EN MONTREAL",
+    "id": 9010,
+    "votos": 41,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 17.15
+  },
+  {
+    "parroquia": "C. E. EN TORONTO",
+    "id": 9011,
+    "votos": 302,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 16.26
+  },
+  {
+    "parroquia": "C. E. EN OTTAWA",
+    "id": 9012,
+    "votos": 6,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.11
+  }
+]

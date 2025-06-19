@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "BUENAVISTA",
+        "id": 390,
+        "votos": 119,
+        "candidato": "Noboa Alvaro",
+        "value": 3.296
+    },
+    {
+        "parroquia": "CA�AQUEMADA",
+        "id": 775,
+        "votos": 12,
+        "candidato": "Noboa Alvaro",
+        "value": 2.679
+    },
+    {
+        "parroquia": "PROGRESO",
+        "id": 1225,
+        "votos": 61,
+        "candidato": "Noboa Alvaro",
+        "value": 4.053
+    },
+    {
+        "parroquia": "LA PEA�A",
+        "id": 2075,
+        "votos": 74,
+        "candidato": "Noboa Alvaro",
+        "value": 3.5
+    },
+    {
+        "parroquia": "UZHCURRUMI",
+        "id": 4160,
+        "votos": 31,
+        "candidato": "Noboa Alvaro",
+        "value": 3.6993
+    },
+    {
+        "parroquia": "CASACAY",
+        "id": 4495,
+        "votos": 42,
+        "candidato": "Noboa Alvaro",
+        "value": 4.1667
+    },
+    {
+        "parroquia": "OCHOA LEON/MATRIZ",
+        "id": 5770,
+        "votos": 1526,
+        "candidato": "Noboa Alvaro",
+        "value": 4.3867
+    },
+    {
+        "parroquia": "LOMA DE FRANCO",
+        "id": 6365,
+        "votos": 13,
+        "candidato": "Noboa Alvaro",
+        "value": 2.18121
+    },
+    {
+        "parroquia": "BOLIVAR",
+        "id": 6370,
+        "votos": 17,
+        "candidato": "Noboa Alvaro",
+        "value": 4.25
+    },
+    {
+        "parroquia": "TRES CERRITOS",
+        "id": 6375,
+        "votos": 12,
+        "candidato": "Noboa Alvaro",
+        "value": 3.761755
+    },
+    {
+        "parroquia": "PASAJE",
+        "id": 6940,
+        "votos": 11,
+        "candidato": "Noboa Alvaro",
+        "value": 4.23
+    }
+]

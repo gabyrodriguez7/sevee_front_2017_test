@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "ALOAG",
+    "id": 55,
+    "votos": 689,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 11.45
+  },
+  {
+    "parroquia": "ALOASI",
+    "id": 60,
+    "votos": 558,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 13.99
+  },
+  {
+    "parroquia": "CORNEJO ASTORGA /TANDAPI",
+    "id": 650,
+    "votos": 134,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.62
+  },
+  {
+    "parroquia": "CUTUGLAGUA",
+    "id": 755,
+    "votos": 977,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 11.16
+  },
+  {
+    "parroquia": "CHAUPI",
+    "id": 850,
+    "votos": 123,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 13.68
+  },
+  {
+    "parroquia": "TAMBILLO",
+    "id": 3960,
+    "votos": 738,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 11.18
+  },
+  {
+    "parroquia": "UYUMBICHO",
+    "id": 4155,
+    "votos": 329,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 12.16
+  },
+  {
+    "parroquia": "MACHACHI",
+    "id": 5620,
+    "votos": 3069,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 13.12
+  }
+]

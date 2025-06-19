@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "CANCHAGUA",
+    "id": 465,
+    "votos": 364,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 29.98
+  },
+  {
+    "parroquia": "CHANTILIN",
+    "id": 830,
+    "votos": 78,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 13.47
+  },
+  {
+    "parroquia": "COCHAPAMBA",
+    "id": 990,
+    "votos": 706,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 41.21
+  },
+  {
+    "parroquia": "SAQUISILÍ",
+    "id": 6070,
+    "votos": 2596,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 22.54
+  }
+]

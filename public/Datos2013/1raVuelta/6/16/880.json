@@ -1,0 +1,16 @@
+[
+  {
+    "parroquia": "SAN JOSE",
+    "id": 2100,
+    "votos": 198,
+    "candidato": "Lasso Guillermo",
+    "value": 40.0
+  },
+  {
+    "parroquia": "SANTA CLARA",
+    "id": 6395,
+    "votos": 797,
+    "candidato": "Lasso Guillermo",
+    "value": 35.6
+  }
+]

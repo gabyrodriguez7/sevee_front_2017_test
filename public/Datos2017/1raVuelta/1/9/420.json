@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "CHOBO",
+    "id": 920,
+    "votos": 82,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 8.64
+  },
+  {
+    "parroquia": "MARISCAL SUCRE/HUAQUES",
+    "id": 2390,
+    "votos": 579,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 20.83
+  },
+  {
+    "parroquia": "ROBERTO ASTUDILLO",
+    "id": 3235,
+    "votos": 851,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 20.76
+  },
+  {
+    "parroquia": "MILAGRO",
+    "id": 5660,
+    "votos": 20948,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 19.61
+  }
+]

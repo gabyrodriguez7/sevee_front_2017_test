@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "JERUSALÉN",
+    "id": 1085,
+    "votos": 4,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.1
+  },
+  {
+    "parroquia": "NAZÓN",
+    "id": 2545,
+    "votos": 34,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.96
+  },
+  {
+    "parroquia": "SAN FCO. DE SAGEO",
+    "id": 3410,
+    "votos": 33,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.66
+  },
+  {
+    "parroquia": "TURUPAMBA",
+    "id": 4100,
+    "votos": 18,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.93
+  },
+  {
+    "parroquia": "BIBLIÁN",
+    "id": 5115,
+    "votos": 236,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.83
+  }
+]

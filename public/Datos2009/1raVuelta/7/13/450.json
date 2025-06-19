@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "ELOY ALFARO",
+        "id": 6745,
+        "votos": 1479,
+        "candidato": "Alvaro Noboa",
+        "value": 17.85
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 6155,
+        "votos": 7902,
+        "candidato": "Alvaro Noboa",
+        "value": 17.52
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 6135,
+        "votos": 268,
+        "candidato": "Alvaro Noboa",
+        "value": 18.31
+    },
+    {
+        "parroquia": "MANTA",
+        "id": 5635,
+        "votos": 9589,
+        "candidato": "Alvaro Noboa",
+        "value": 20.24
+    },
+    {
+        "parroquia": "LOS ESTEROS",
+        "id": 5570,
+        "votos": 1428,
+        "candidato": "Alvaro Noboa",
+        "value": 21.68
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 3550,
+        "votos": 379,
+        "candidato": "Alvaro Noboa",
+        "value": 33.99
+    },
+    {
+        "parroquia": "SANTA MARIANITA",
+        "id": 1800,
+        "votos": 123,
+        "candidato": "Alvaro Noboa",
+        "value": 11.96
+    }
+]

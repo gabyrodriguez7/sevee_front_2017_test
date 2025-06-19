@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "GUASAGANDA",
+    "id": 1500,
+    "votos": 780,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 39.51
+  },
+  {
+    "parroquia": "PUCAYACO",
+    "id": 2965,
+    "votos": 654,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 34.95
+  },
+  {
+    "parroquia": "LA MANÁ",
+    "id": 6535,
+    "votos": 11659,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 53.69
+  },
+  {
+    "parroquia": "EL CARMEN",
+    "id": 6880,
+    "votos": 1364,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 65.64
+  },
+  {
+    "parroquia": "EL TRIUNFO",
+    "id": 6895,
+    "votos": 1512,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 65.88
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "QUERO",
+    "id": 5835,
+    "votos": 81,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.86
+  },
+  {
+    "parroquia": "RUMIPAMBA",
+    "id": 4550,
+    "votos": 4,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.59
+  },
+  {
+    "parroquia": "YANAYACU MOCHAPATA",
+    "id": 4310,
+    "votos": 12,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.68
+  }
+]

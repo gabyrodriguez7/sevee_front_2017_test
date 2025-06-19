@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "EL RETIRO",
+        "id": 255,
+        "votos": 5,
+        "candidato": "Wray Norman",
+        "value": 0.4
+    },
+    {
+        "parroquia": "LA PROVIDENCIA",
+        "id": 5565,
+        "votos": 47,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "MACHALA",
+        "id": 5625,
+        "votos": 1020,
+        "candidato": "Wray Norman",
+        "value": 0.9
+    },
+    {
+        "parroquia": "PUERTO BOLIVAR",
+        "id": 5805,
+        "votos": 90,
+        "candidato": "Wray Norman",
+        "value": 0.55
+    },
+    {
+        "parroquia": "9 DE MAYO",
+        "id": 6490,
+        "votos": 15,
+        "candidato": "Wray Norman",
+        "value": 0.5
+    },
+    {
+        "parroquia": "EL CAMBIO",
+        "id": 6795,
+        "votos": 29,
+        "candidato": "Wray Norman",
+        "value": 0.6
+    }
+]

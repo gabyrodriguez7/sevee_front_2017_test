@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "PEDRO CARBO",
+        "id": 5735,
+        "votos": 1757,
+        "candidato": "Alvaro Noboa",
+        "value": 9.01
+    },
+    {
+        "parroquia": "SABANILLA",
+        "id": 1670,
+        "votos": 72,
+        "candidato": "Alvaro Noboa",
+        "value": 6.98
+    },
+    {
+        "parroquia": "VALLE DE LA VIRGEN",
+        "id": 185,
+        "votos": 44,
+        "candidato": "Alvaro Noboa",
+        "value": 4.06
+    }
+]

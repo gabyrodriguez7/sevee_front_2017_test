@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "BOLIVAR",
+        "id": 6520,
+        "votos": 20,
+        "candidato": "Melba Jacome",
+        "value": 0.65
+    },
+    {
+        "parroquia": "SAN VICENTE DE PUSIR",
+        "id": 3680,
+        "votos": 2,
+        "candidato": "Melba Jacome",
+        "value": 0.21
+    },
+    {
+        "parroquia": "MONTEOLIVO",
+        "id": 2455,
+        "votos": 2,
+        "candidato": "Melba Jacome",
+        "value": 0.2
+    },
+    {
+        "parroquia": "LOS ANDES",
+        "id": 2205,
+        "votos": 3,
+        "candidato": "Melba Jacome",
+        "value": 0.25
+    },
+    {
+        "parroquia": "GARCIA MORENO",
+        "id": 1315,
+        "votos": 6,
+        "candidato": "Melba Jacome",
+        "value": 0.58
+    },
+    {
+        "parroquia": "SAN RAFAEL",
+        "id": 1055,
+        "votos": 2,
+        "candidato": "Melba Jacome",
+        "value": 0.26
+    }
+]

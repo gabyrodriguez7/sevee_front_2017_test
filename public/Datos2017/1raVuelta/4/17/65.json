@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "ASCÁZUBI",
+    "id": 165,
+    "votos": 296,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.11
+  },
+  {
+    "parroquia": "CANGAHUA",
+    "id": 480,
+    "votos": 350,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 4.6
+  },
+  {
+    "parroquia": "OLMEDO/PESILLO",
+    "id": 2600,
+    "votos": 243,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.47
+  },
+  {
+    "parroquia": "OTÓN",
+    "id": 2635,
+    "votos": 124,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.69
+  },
+  {
+    "parroquia": "STA.ROSA DE CUSUBAMBA",
+    "id": 3735,
+    "votos": 195,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.06
+  },
+  {
+    "parroquia": "SAN JOSÉ DE AYORA",
+    "id": 4620,
+    "votos": 339,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.33
+  },
+  {
+    "parroquia": "CAYAMBE",
+    "id": 5190,
+    "votos": 3564,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.72
+  },
+  {
+    "parroquia": "JUAN MONTALVO",
+    "id": 5495,
+    "votos": 225,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.73
+  }
+]

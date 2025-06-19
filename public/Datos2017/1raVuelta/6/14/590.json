@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "ALSHI /9 DE OCTUBRE",
+    "id": 65,
+    "votos": 2,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.73
+  },
+  {
+    "parroquia": "CUCHAENTZA",
+    "id": 1250,
+    "votos": 1,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.11
+  },
+  {
+    "parroquia": "GRAL. PROAÑO",
+    "id": 1345,
+    "votos": 6,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.56
+  },
+  {
+    "parroquia": "RÍO BLANCO",
+    "id": 1730,
+    "votos": 2,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.22
+  },
+  {
+    "parroquia": "SAN ISIDRO",
+    "id": 3440,
+    "votos": 2,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.34
+  },
+  {
+    "parroquia": "SEVILLA DON BOSCO",
+    "id": 3830,
+    "votos": 26,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.46
+  },
+  {
+    "parroquia": "ZUNAC",
+    "id": 4360,
+    "votos": 4,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 2.86
+  },
+  {
+    "parroquia": "SINAI",
+    "id": 4485,
+    "votos": 0,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0
+  },
+  {
+    "parroquia": "MACAS",
+    "id": 5615,
+    "votos": 45,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.33
+  }
+]

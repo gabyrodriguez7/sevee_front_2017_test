@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "ASCAZUBI",
+    "id": 165,
+    "votos": 405,
+    "candidato": "Lasso Guillermo",
+    "value": 14.88423
+  },
+  {
+    "parroquia": "CANGAHUA",
+    "id": 480,
+    "votos": 523,
+    "candidato": "Lasso Guillermo",
+    "value": 8.02024
+  },
+  {
+    "parroquia": "OLMEDO/PESILLO",
+    "id": 2600,
+    "votos": 396,
+    "candidato": "Lasso Guillermo",
+    "value": 9.55
+  },
+  {
+    "parroquia": "OTON",
+    "id": 2635,
+    "votos": 209,
+    "candidato": "Lasso Guillermo",
+    "value": 13.6
+  },
+  {
+    "parroquia": "STA.ROSA DE CUSUBAMBA",
+    "id": 3735,
+    "votos": 316,
+    "candidato": "Lasso Guillermo",
+    "value": 16.6
+  },
+  {
+    "parroquia": "SAN JOSE DE AYORA",
+    "id": 4620,
+    "votos": 543,
+    "candidato": "Lasso Guillermo",
+    "value": 13.582
+  },
+  {
+    "parroquia": "CAYAMBE",
+    "id": 5190,
+    "votos": 5741,
+    "candidato": "Lasso Guillermo",
+    "value": 21.37
+  },
+  {
+    "parroquia": "JUAN MONTALVO",
+    "id": 5495,
+    "votos": 256,
+    "candidato": "Lasso Guillermo",
+    "value": 13.438
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "MADRE TIERRA",
+    "id": 2310,
+    "votos": 18,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 2.0
+  },
+  {
+    "parroquia": "SHELL",
+    "id": 3840,
+    "votos": 133,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 3.54
+  },
+  {
+    "parroquia": "MERA",
+    "id": 5650,
+    "votos": 32,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 3.29
+  }
+]

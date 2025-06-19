@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "TRIUNFO DORADO",
+        "id": 4385,
+        "votos": 7,
+        "candidato": "Noboa Alvaro",
+        "value": 1.82
+    },
+    {
+        "parroquia": "PANGUINTZA",
+        "id": 4600,
+        "votos": 12,
+        "candidato": "Noboa Alvaro",
+        "value": 1.98
+    },
+    {
+        "parroquia": "ZUMBI",
+        "id": 6625,
+        "votos": 103,
+        "candidato": "Noboa Alvaro",
+        "value": 3.35
+    }
+]

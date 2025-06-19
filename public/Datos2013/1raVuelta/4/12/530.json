@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "PUERTO PECHICHE",
+        "id": 3015,
+        "votos": 19,
+        "candidato": "Acosta Alberto",
+        "value": 0.7832
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3510,
+        "votos": 71,
+        "candidato": "Acosta Alberto",
+        "value": 0.77325
+    },
+    {
+        "parroquia": "PUEBLO VIEJO",
+        "id": 5800,
+        "votos": 49,
+        "candidato": "Acosta Alberto",
+        "value": 0.587
+    }
+]

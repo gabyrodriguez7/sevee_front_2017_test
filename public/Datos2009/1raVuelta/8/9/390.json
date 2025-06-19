@@ -1,0 +1,149 @@
+[
+  {
+    "parroquia": "PASCUALES",
+    "id": 6405,
+    "votos": 4564,
+    "candidato": "Lucio Gutierrez",
+    "value": 22.14
+  },
+  {
+    "parroquia": "CHONGON",
+    "id": 6400,
+    "votos": 967,
+    "candidato": "Lucio Gutierrez",
+    "value": 18.75
+  },
+  {
+    "parroquia": "XIMENA",
+    "id": 6265,
+    "votos": 66103,
+    "candidato": "Lucio Gutierrez",
+    "value": 26.6
+  },
+  {
+    "parroquia": "URDANETA",
+    "id": 6185,
+    "votos": 7572,
+    "candidato": "Lucio Gutierrez",
+    "value": 31.95
+  },
+  {
+    "parroquia": "TARQUI",
+    "id": 6150,
+    "votos": 102468,
+    "candidato": "Lucio Gutierrez",
+    "value": 31.53
+  },
+  {
+    "parroquia": "SUCRE",
+    "id": 6095,
+    "votos": 4858,
+    "candidato": "Lucio Gutierrez",
+    "value": 32.66
+  },
+  {
+    "parroquia": "ROCAFUERTE",
+    "id": 5890,
+    "votos": 4775,
+    "candidato": "Lucio Gutierrez",
+    "value": 39.18
+  },
+  {
+    "parroquia": "ROCA",
+    "id": 5880,
+    "votos": 4212,
+    "candidato": "Lucio Gutierrez",
+    "value": 35.86
+  },
+  {
+    "parroquia": "OLMEDO/SAN ALEJO",
+    "id": 5720,
+    "votos": 4550,
+    "candidato": "Lucio Gutierrez",
+    "value": 34.63
+  },
+  {
+    "parroquia": "9 DE OCTUBRE",
+    "id": 5695,
+    "votos": 3789,
+    "candidato": "Lucio Gutierrez",
+    "value": 36.88
+  },
+  {
+    "parroquia": "LETAMENDI",
+    "id": 5585,
+    "votos": 18861,
+    "candidato": "Lucio Gutierrez",
+    "value": 27.07
+  },
+  {
+    "parroquia": "GARCIA MORENO",
+    "id": 5380,
+    "votos": 15099,
+    "candidato": "Lucio Gutierrez",
+    "value": 31.31
+  },
+  {
+    "parroquia": "FEBRES CORDERO",
+    "id": 5355,
+    "votos": 53639,
+    "candidato": "Lucio Gutierrez",
+    "value": 23.43
+  },
+  {
+    "parroquia": "CARBO/CONCEPCION",
+    "id": 5170,
+    "votos": 8658,
+    "candidato": "Lucio Gutierrez",
+    "value": 33.46
+  },
+  {
+    "parroquia": "BOLIVAR/SAGRARIO",
+    "id": 5125,
+    "votos": 3944,
+    "candidato": "Lucio Gutierrez",
+    "value": 32.55
+  },
+  {
+    "parroquia": "AYACUCHO",
+    "id": 5055,
+    "votos": 5123,
+    "candidato": "Lucio Gutierrez",
+    "value": 36.13
+  },
+  {
+    "parroquia": "TENGUEL",
+    "id": 4120,
+    "votos": 561,
+    "candidato": "Lucio Gutierrez",
+    "value": 12.45
+  },
+  {
+    "parroquia": "PUNA",
+    "id": 3030,
+    "votos": 554,
+    "candidato": "Lucio Gutierrez",
+    "value": 23.26
+  },
+  {
+    "parroquia": "POSORJA",
+    "id": 2940,
+    "votos": 742,
+    "candidato": "Lucio Gutierrez",
+    "value": 8.99
+  },
+  {
+    "parroquia": "MORRO",
+    "id": 2470,
+    "votos": 273,
+    "candidato": "Lucio Gutierrez",
+    "value": 17.56
+  },
+  {
+    "parroquia": "JUAN GOMEZ RENDON",
+    "id": 1870,
+    "votos": 713,
+    "candidato": "Lucio Gutierrez",
+    "value": 17.92
+  }
+]

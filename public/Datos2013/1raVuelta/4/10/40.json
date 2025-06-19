@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "APUELA",
+        "id": 145,
+        "votos": 63,
+        "candidato": "Acosta Alberto",
+        "value": 5.9
+    },
+    {
+        "parroquia": "GARCIA MORENO / LLURIMAGUA",
+        "id": 1310,
+        "votos": 247,
+        "candidato": "Acosta Alberto",
+        "value": 7.6
+    },
+    {
+        "parroquia": "IMANTAG",
+        "id": 1710,
+        "votos": 95,
+        "candidato": "Acosta Alberto",
+        "value": 3.0
+    },
+    {
+        "parroquia": "PEÑAHERRERA",
+        "id": 2820,
+        "votos": 100,
+        "candidato": "Acosta Alberto",
+        "value": 10.0
+    },
+    {
+        "parroquia": "PLAZA GUTIERREZ/CALVARIO",
+        "id": 2915,
+        "votos": 31,
+        "candidato": "Acosta Alberto",
+        "value": 10.0
+    },
+    {
+        "parroquia": "QUIROGA",
+        "id": 3115,
+        "votos": 101,
+        "candidato": "Acosta Alberto",
+        "value": 2.4
+    },
+    {
+        "parroquia": "6 DE JULIO DE CUELLAJE",
+        "id": 3800,
+        "votos": 76,
+        "candidato": "Acosta Alberto",
+        "value": 7.5
+    },
+    {
+        "parroquia": "VACAS GALINDO",
+        "id": 4185,
+        "votos": 11,
+        "candidato": "Acosta Alberto",
+        "value": 3.2
+    },
+    {
+        "parroquia": "SAGRARIO",
+        "id": 5910,
+        "votos": 288,
+        "candidato": "Acosta Alberto",
+        "value": 4.0
+    },
+    {
+        "parroquia": "SAN FRANCISCO",
+        "id": 5955,
+        "votos": 207,
+        "candidato": "Acosta Alberto",
+        "value": 5.7
+    }
+]

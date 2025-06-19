@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "LA JOYA DE LOS SACHAS",
+    "id": 6200,
+    "votos": 225,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.32
+  },
+  {
+    "parroquia": "SAN SEBASTIAN DE COCA",
+    "id": 3660,
+    "votos": 15,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.11
+  },
+  {
+    "parroquia": "POMPEYA",
+    "id": 2930,
+    "votos": 1,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 0.23
+  },
+  {
+    "parroquia": "UNION MILAGRE�A",
+    "id": 1965,
+    "votos": 7,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 0.86
+  },
+  {
+    "parroquia": "LAGO SAN PEDRO",
+    "id": 1960,
+    "votos": 3,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 0.53
+  },
+  {
+    "parroquia": "TRES DE NOVIEMBRE",
+    "id": 1955,
+    "votos": 11,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.01
+  },
+  {
+    "parroquia": "RUMIPAMBA",
+    "id": 1950,
+    "votos": 3,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 0.73
+  },
+  {
+    "parroquia": "ENOKANQUI",
+    "id": 490,
+    "votos": 21,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.55
+  },
+  {
+    "parroquia": "SAN CARLOS",
+    "id": 415,
+    "votos": 12,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.22
+  }
+]

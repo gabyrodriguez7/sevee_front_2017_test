@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "LA BONITA",
+    "id": 5525,
+    "votos": 24,
+    "candidato": "Alvaro Noboa",
+    "value": 5.22
+  },
+  {
+    "parroquia": "SANTA BARBARA",
+    "id": 3690,
+    "votos": 47,
+    "candidato": "Alvaro Noboa",
+    "value": 9.71
+  },
+  {
+    "parroquia": "ROSA FLORIDA",
+    "id": 3220,
+    "votos": 7,
+    "candidato": "Alvaro Noboa",
+    "value": 2.79
+  },
+  {
+    "parroquia": "LA SOFIA",
+    "id": 2095,
+    "votos": 0,
+    "candidato": "Alvaro Noboa",
+    "value": 0.0
+  },
+  {
+    "parroquia": "EL PLAYON DE SN. FRANCISCO",
+    "id": 1170,
+    "votos": 36,
+    "candidato": "Alvaro Noboa",
+    "value": 3.96
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "24 DE MAYO",
+    "id": 6690,
+    "votos": 4,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.35
+  },
+  {
+    "parroquia": "VIVA ALFARO",
+    "id": 6660,
+    "votos": 5,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.33
+  },
+  {
+    "parroquia": "SIETE DE OCTUBRE",
+    "id": 6655,
+    "votos": 6,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.24
+  },
+  {
+    "parroquia": "GUAYACAN",
+    "id": 6650,
+    "votos": 5,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.27
+  },
+  {
+    "parroquia": "NICOLAS INFANTE DIAZ",
+    "id": 6645,
+    "votos": 6,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.43
+  },
+  {
+    "parroquia": "VENUS DEL RIO QUEVEDO",
+    "id": 6640,
+    "votos": 5,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.15
+  },
+  {
+    "parroquia": "SAN CRISTOBAL",
+    "id": 6635,
+    "votos": 0,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.0
+  },
+  {
+    "parroquia": "SAN CAMILO",
+    "id": 6115,
+    "votos": 43,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.31
+  },
+  {
+    "parroquia": "QUEVEDO",
+    "id": 5855,
+    "votos": 200,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.35
+  },
+  {
+    "parroquia": "SAN CARLOS",
+    "id": 4425,
+    "votos": 23,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.52
+  },
+  {
+    "parroquia": "LA ESPERANZA",
+    "id": 4420,
+    "votos": 1,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.08
+  }
+]

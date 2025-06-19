@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "GRAL.PEDRO MONTERO",
+    "id": 1340,
+    "votos": 1132,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 22.08
+  },
+  {
+    "parroquia": "VIRGEN DE FÁTIMA",
+    "id": 1915,
+    "votos": 1741,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 24.01
+  },
+  {
+    "parroquia": "YAGUACHI VIEJO/CONE",
+    "id": 4275,
+    "votos": 759,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 17.36
+  },
+  {
+    "parroquia": "YAGUACHI NUEVO",
+    "id": 6285,
+    "votos": 6683,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 35.34
+  }
+]

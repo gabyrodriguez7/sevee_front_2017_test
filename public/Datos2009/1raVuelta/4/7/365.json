@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "TRES CERRITOS",
+        "id": 6375,
+        "votos": 81,
+        "candidato": "Rafael Correa Delgado",
+        "value": 53.28
+    },
+    {
+        "parroquia": "BOLIVAR",
+        "id": 6370,
+        "votos": 45,
+        "candidato": "Rafael Correa Delgado",
+        "value": 73.77
+    },
+    {
+        "parroquia": "LOMA DE FRANCO",
+        "id": 6365,
+        "votos": 330,
+        "candidato": "Rafael Correa Delgado",
+        "value": 76.56
+    },
+    {
+        "parroquia": "OCHOA LEON/MATRIZ",
+        "id": 5770,
+        "votos": 18830,
+        "candidato": "Rafael Correa Delgado",
+        "value": 64.81
+    },
+    {
+        "parroquia": "CASACAY",
+        "id": 4495,
+        "votos": 517,
+        "candidato": "Rafael Correa Delgado",
+        "value": 72.0
+    },
+    {
+        "parroquia": "UZHCURRUMI",
+        "id": 4160,
+        "votos": 373,
+        "candidato": "Rafael Correa Delgado",
+        "value": 55.75
+    },
+    {
+        "parroquia": "LA PEA�A",
+        "id": 2075,
+        "votos": 1315,
+        "candidato": "Rafael Correa Delgado",
+        "value": 75.87
+    },
+    {
+        "parroquia": "PROGRESO",
+        "id": 1225,
+        "votos": 786,
+        "candidato": "Rafael Correa Delgado",
+        "value": 68.82
+    },
+    {
+        "parroquia": "CA�AQUEMADA",
+        "id": 775,
+        "votos": 366,
+        "candidato": "Rafael Correa Delgado",
+        "value": 87.98
+    },
+    {
+        "parroquia": "BUENAVISTA",
+        "id": 390,
+        "votos": 2348,
+        "candidato": "Rafael Correa Delgado",
+        "value": 77.82
+    }
+]

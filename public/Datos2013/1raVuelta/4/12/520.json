@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "GUARE",
+        "id": 1460,
+        "votos": 66,
+        "candidato": "Acosta Alberto",
+        "value": 1.8197
+    },
+    {
+        "parroquia": "ISLA DE BEJUCAL",
+        "id": 1740,
+        "votos": 28,
+        "candidato": "Acosta Alberto",
+        "value": 0.6453
+    },
+    {
+        "parroquia": "BABA",
+        "id": 5085,
+        "votos": 88,
+        "candidato": "Acosta Alberto",
+        "value": 0.6303
+    }
+]

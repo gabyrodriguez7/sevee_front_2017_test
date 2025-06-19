@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "UNION LOJANA",
+        "id": 6820,
+        "votos": 84,
+        "candidato": "Alvaro Noboa",
+        "value": 8.32
+    },
+    {
+        "parroquia": "ECUADOR",
+        "id": 6815,
+        "votos": 49,
+        "candidato": "Alvaro Noboa",
+        "value": 8.9
+    },
+    {
+        "parroquia": "EL PARAISO",
+        "id": 6810,
+        "votos": 34,
+        "candidato": "Alvaro Noboa",
+        "value": 9.94
+    },
+    {
+        "parroquia": "MILTON REYES",
+        "id": 6805,
+        "votos": 42,
+        "candidato": "Alvaro Noboa",
+        "value": 12.88
+    },
+    {
+        "parroquia": "HUALTACO",
+        "id": 6800,
+        "votos": 29,
+        "candidato": "Alvaro Noboa",
+        "value": 7.14
+    },
+    {
+        "parroquia": "HUAQUILLAS",
+        "id": 5460,
+        "votos": 2687,
+        "candidato": "Alvaro Noboa",
+        "value": 12.97
+    }
+]

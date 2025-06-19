@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "SUCRE",
+        "id": 6105,
+        "votos": 38,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.44
+    },
+    {
+        "parroquia": "NOBOA",
+        "id": 2555,
+        "votos": 17,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.56
+    },
+    {
+        "parroquia": "ARQ.SIXTO DURAN BALLEN",
+        "id": 1570,
+        "votos": 9,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 1.58
+    },
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 330,
+        "votos": 11,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.51
+    }
+]

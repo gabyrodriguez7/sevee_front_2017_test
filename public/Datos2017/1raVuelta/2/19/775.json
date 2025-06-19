@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "EL GUISMI",
+    "id": 665,
+    "votos": 90,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 12.36
+  },
+  {
+    "parroquia": "TUNDAYME",
+    "id": 945,
+    "votos": 45,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.77
+  },
+  {
+    "parroquia": "PACHICUTZA",
+    "id": 1015,
+    "votos": 45,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.73
+  },
+  {
+    "parroquia": "EL PANGUI",
+    "id": 6355,
+    "votos": 292,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.64
+  }
+]

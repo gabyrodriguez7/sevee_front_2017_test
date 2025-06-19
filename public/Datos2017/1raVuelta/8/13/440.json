@@ -1,0 +1,114 @@
+[
+  {
+    "parroquia": "ABDÓN CALDERÓN",
+    "id": 10,
+    "votos": 565,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 6.05
+  },
+  {
+    "parroquia": "ALHAJUELA /BAJO GRANDE",
+    "id": 50,
+    "votos": 138,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.12
+  },
+  {
+    "parroquia": "CRUCITA",
+    "id": 770,
+    "votos": 598,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 7.93
+  },
+  {
+    "parroquia": "CHIRIJOS",
+    "id": 1925,
+    "votos": 36,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.74
+  },
+  {
+    "parroquia": "PUEBLO NUEVO",
+    "id": 2970,
+    "votos": 99,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.11
+  },
+  {
+    "parroquia": "RÍO CHICO",
+    "id": 3185,
+    "votos": 409,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 5.2
+  },
+  {
+    "parroquia": "SAN PLÁCIDO",
+    "id": 3625,
+    "votos": 250,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.48
+  },
+  {
+    "parroquia": "ANDRÉS DE VERA",
+    "id": 5030,
+    "votos": 2757,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 5.61
+  },
+  {
+    "parroquia": "COLÓN",
+    "id": 5265,
+    "votos": 717,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 5.65
+  },
+  {
+    "parroquia": "12 DE MARZO",
+    "id": 5280,
+    "votos": 1236,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.38
+  },
+  {
+    "parroquia": "PORTOVIEJO",
+    "id": 5795,
+    "votos": 1212,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 5.29
+  },
+  {
+    "parroquia": "PICOAZA",
+    "id": 5845,
+    "votos": 1163,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 8.76
+  },
+  {
+    "parroquia": "SAN PABLO",
+    "id": 6585,
+    "votos": 275,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 5.4
+  },
+  {
+    "parroquia": "18 DE OCTUBRE",
+    "id": 6770,
+    "votos": 277,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.3
+  },
+  {
+    "parroquia": "FRANCISCO PACHECO",
+    "id": 6775,
+    "votos": 314,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 6.25
+  },
+  {
+    "parroquia": "SIMÓN BOLÍVAR",
+    "id": 6910,
+    "votos": 117,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 5.03
+  }
+]

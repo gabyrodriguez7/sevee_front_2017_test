@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "COTOGCHOA",
+    "id": 680,
+    "votos": 859,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 47.25
+  },
+  {
+    "parroquia": "RUMIPAMBA",
+    "id": 3230,
+    "votos": 164,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 44.69
+  },
+  {
+    "parroquia": "SANGOLQUÍ",
+    "id": 5965,
+    "votos": 26207,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 52.36
+  },
+  {
+    "parroquia": "SAN RAFAEL",
+    "id": 6600,
+    "votos": 9481,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 68.92
+  },
+  {
+    "parroquia": "SAN PEDRO DE TABOADA",
+    "id": 6605,
+    "votos": 3005,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 49.69
+  }
+]

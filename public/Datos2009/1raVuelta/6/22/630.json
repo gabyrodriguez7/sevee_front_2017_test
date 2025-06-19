@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "NUEVO ROCAFUERTE",
+    "id": 5700,
+    "votos": 6,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.1
+  },
+  {
+    "parroquia": "YASUNI",
+    "id": 4295,
+    "votos": 1,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.63
+  },
+  {
+    "parroquia": "TIPUTINI",
+    "id": 4020,
+    "votos": 8,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.17
+  },
+  {
+    "parroquia": "STA. MARIA DE HUIRIRIMA",
+    "id": 3720,
+    "votos": 2,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.01
+  },
+  {
+    "parroquia": "CONONACO",
+    "id": 630,
+    "votos": 1,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.58
+  },
+  {
+    "parroquia": "CAP. AUGUSTO RIVADENEIRA",
+    "id": 510,
+    "votos": 1,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.32
+  }
+]

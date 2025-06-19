@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "SUMAYPAMBA",
+        "id": 310,
+        "votos": 319,
+        "candidato": "Correa Delgado Rafael",
+        "value": 59.3
+    },
+    {
+        "parroquia": "EL PARAISO DE CELEN",
+        "id": 1165,
+        "votos": 430,
+        "candidato": "Correa Delgado Rafael",
+        "value": 35.6846
+    },
+    {
+        "parroquia": "EL TABLON",
+        "id": 1190,
+        "votos": 180,
+        "candidato": "Correa Delgado Rafael",
+        "value": 51.0
+    },
+    {
+        "parroquia": "LLUZHAPA",
+        "id": 2280,
+        "votos": 361,
+        "candidato": "Correa Delgado Rafael",
+        "value": 44.79
+    },
+    {
+        "parroquia": "MANU",
+        "id": 2360,
+        "votos": 733,
+        "candidato": "Correa Delgado Rafael",
+        "value": 46.0
+    },
+    {
+        "parroquia": "SAN ANTONIO DE CUMBE",
+        "id": 3340,
+        "votos": 270,
+        "candidato": "Correa Delgado Rafael",
+        "value": 43.97
+    },
+    {
+        "parroquia": "SAN PABLO DE TENTA",
+        "id": 3600,
+        "votos": 377,
+        "candidato": "Correa Delgado Rafael",
+        "value": 23.5
+    },
+    {
+        "parroquia": "SAN SEBASTIAN DE YULOG",
+        "id": 3665,
+        "votos": 316,
+        "candidato": "Correa Delgado Rafael",
+        "value": 62.0
+    },
+    {
+        "parroquia": "SELVA ALEGRE",
+        "id": 3815,
+        "votos": 345,
+        "candidato": "Correa Delgado Rafael",
+        "value": 33.9
+    },
+    {
+        "parroquia": "URDANETA/PAQUISHAPA",
+        "id": 4145,
+        "votos": 931,
+        "candidato": "Correa Delgado Rafael",
+        "value": 48.1
+    },
+    {
+        "parroquia": "SARAGURO",
+        "id": 6075,
+        "votos": 1500,
+        "candidato": "Correa Delgado Rafael",
+        "value": 26.6
+    }
+]

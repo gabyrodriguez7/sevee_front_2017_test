@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "GRAL. VERNAZA",
+        "id": 1350,
+        "votos": 25,
+        "candidato": "Acosta Alberto",
+        "value": 0.6
+    },
+    {
+        "parroquia": "JUNQUILLAL",
+        "id": 1595,
+        "votos": 29,
+        "candidato": "Acosta Alberto",
+        "value": 0.63
+    },
+    {
+        "parroquia": "VICTORIA",
+        "id": 4220,
+        "votos": 14,
+        "candidato": "Acosta Alberto",
+        "value": 0.6
+    },
+    {
+        "parroquia": "BOCANA",
+        "id": 5120,
+        "votos": 1,
+        "candidato": "Acosta Alberto",
+        "value": 0.38
+    },
+    {
+        "parroquia": "CANDILEJOS",
+        "id": 5155,
+        "votos": 9,
+        "candidato": "Acosta Alberto",
+        "value": 1.2587
+    },
+    {
+        "parroquia": "SALITRE",
+        "id": 5200,
+        "votos": 195,
+        "candidato": "Acosta Alberto",
+        "value": 0.922
+    },
+    {
+        "parroquia": "PARAISO",
+        "id": 5765,
+        "votos": 1,
+        "candidato": "Acosta Alberto",
+        "value": 0.8
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 5990,
+        "votos": 1,
+        "candidato": "Acosta Alberto",
+        "value": 0.8197
+    }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "ZURMI",
+    "id": 1675,
+    "votos": 299,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 34.13
+  },
+  {
+    "parroquia": "NUEVO PARAÍSO",
+    "id": 4570,
+    "votos": 115,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 33.72
+  },
+  {
+    "parroquia": "GUAYZIMI",
+    "id": 5520,
+    "votos": 931,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 43.81
+  }
+]

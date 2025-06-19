@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "QUERO",
+    "id": 5835,
+    "votos": 5914,
+    "candidato": "Lucio Gutierrez",
+    "value": 62.71
+  },
+  {
+    "parroquia": "RUMIPAMBA",
+    "id": 4550,
+    "votos": 380,
+    "candidato": "Lucio Gutierrez",
+    "value": 55.72
+  },
+  {
+    "parroquia": "YANAYACU MOCHAPATA",
+    "id": 4310,
+    "votos": 380,
+    "candidato": "Lucio Gutierrez",
+    "value": 53.15
+  }
+]

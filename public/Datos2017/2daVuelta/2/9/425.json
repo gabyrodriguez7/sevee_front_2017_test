@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "TARIFA",
+    "id": 3975,
+    "votos": 3518,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 65.84
+  },
+  {
+    "parroquia": "SAMBORONDÓN",
+    "id": 5925,
+    "votos": 14404,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 59.9
+  },
+  {
+    "parroquia": "LA PUNTILLA(SATELITE)",
+    "id": 7445,
+    "votos": 1728,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 9.93
+  }
+]

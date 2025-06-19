@@ -1,0 +1,145 @@
+[
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 450,
+        "votos": 1518,
+        "votos1": 873,
+        "votos2": 645,
+        "fill": "#1eff00",
+        "porcentaje1": 57.51,
+        "porcentaje2": 42.49
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 655,
+        "votos": 1022,
+        "votos1": 524,
+        "votos2": 498,
+        "fill": "#1eff00",
+        "porcentaje1": 51.27,
+        "porcentaje2": 48.73
+    },
+    {
+        "candidato1": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "candidato2": "MORENO GARCES LENIN BOLTAIRE",
+        "id": 895,
+        "votos": 2119,
+        "votos1": 1079,
+        "votos2": 1040,
+        "fill": "#062e81",
+        "porcentaje1": 50.92,
+        "porcentaje2": 49.08
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 2320,
+        "votos": 1355,
+        "votos1": 733,
+        "votos2": 622,
+        "fill": "#1eff00",
+        "porcentaje1": 54.1,
+        "porcentaje2": 45.9
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 3570,
+        "votos": 3246,
+        "votos1": 1830,
+        "votos2": 1416,
+        "fill": "#1eff00",
+        "porcentaje1": 56.38,
+        "porcentaje2": 43.62
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 3930,
+        "votos": 1777,
+        "votos1": 1030,
+        "votos2": 747,
+        "fill": "#1eff00",
+        "porcentaje1": 57.96,
+        "porcentaje2": 42.04
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 3940,
+        "votos": 2530,
+        "votos1": 1466,
+        "votos2": 1064,
+        "fill": "#1eff00",
+        "porcentaje1": 57.94,
+        "porcentaje2": 42.06
+    },
+    {
+        "candidato1": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "candidato2": "MORENO GARCES LENIN BOLTAIRE",
+        "id": 4240,
+        "votos": 15991,
+        "votos1": 8181,
+        "votos2": 7810,
+        "fill": "#062e81",
+        "porcentaje1": 51.16,
+        "porcentaje2": 48.84
+    },
+    {
+        "candidato1": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "candidato2": "MORENO GARCES LENIN BOLTAIRE",
+        "id": 5205,
+        "votos": 18260,
+        "votos1": 9879,
+        "votos2": 8381,
+        "fill": "#062e81",
+        "porcentaje1": 54.1,
+        "porcentaje2": 45.9
+    },
+    {
+        "candidato1": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "candidato2": "MORENO GARCES LENIN BOLTAIRE",
+        "id": 5210,
+        "votos": 28643,
+        "votos1": 16593,
+        "votos2": 12050,
+        "fill": "#062e81",
+        "porcentaje1": 57.93,
+        "porcentaje2": 42.07
+    },
+    {
+        "candidato1": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "candidato2": "MORENO GARCES LENIN BOLTAIRE",
+        "id": 5335,
+        "votos": 32369,
+        "votos1": 18227,
+        "votos2": 14142,
+        "fill": "#062e81",
+        "porcentaje1": 56.31,
+        "porcentaje2": 43.69
+    },
+    {
+        "candidato1": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "candidato2": "MORENO GARCES LENIN BOLTAIRE",
+        "id": 5600,
+        "votos": 6972,
+        "votos1": 3693,
+        "votos2": 3279,
+        "fill": "#062e81",
+        "porcentaje1": 52.97,
+        "porcentaje2": 47.03
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 6905,
+        "votos": 7495,
+        "votos1": 3786,
+        "votos2": 3709,
+        "fill": "#1eff00",
+        "porcentaje1": 50.51,
+        "porcentaje2": 49.49
+    }
+]

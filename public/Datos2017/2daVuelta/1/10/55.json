@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "CAHUASQUÍ",
+    "id": 425,
+    "votos": 456,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 33.68
+  },
+  {
+    "parroquia": "LA MERCED DE BUENOS AIRES",
+    "id": 2060,
+    "votos": 642,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 52.88
+  },
+  {
+    "parroquia": "PABLO ARENAS",
+    "id": 2675,
+    "votos": 411,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 27.38
+  },
+  {
+    "parroquia": "SAN BLAS",
+    "id": 3365,
+    "votos": 697,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 33.33
+  },
+  {
+    "parroquia": "TUMBABIRO",
+    "id": 4080,
+    "votos": 307,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 28.27
+  },
+  {
+    "parroquia": "URCUQUÍ",
+    "id": 6190,
+    "votos": 1642,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 35.37
+  }
+]

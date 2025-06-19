@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CHACRAS",
+        "id": 805,
+        "votos": 10,
+        "candidato": "Noboa Alvaro",
+        "value": 1.468429
+    },
+    {
+        "parroquia": "CARCABON",
+        "id": 1695,
+        "votos": 14,
+        "candidato": "Noboa Alvaro",
+        "value": 4.3
+    },
+    {
+        "parroquia": "PALMALES",
+        "id": 2715,
+        "votos": 76,
+        "candidato": "Noboa Alvaro",
+        "value": 5.0
+    },
+    {
+        "parroquia": "ARENILLAS",
+        "id": 5040,
+        "votos": 600,
+        "candidato": "Noboa Alvaro",
+        "value": 4.528302
+    }
+]

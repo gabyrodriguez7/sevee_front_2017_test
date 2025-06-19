@@ -1,0 +1,94 @@
+[
+                {
+                    "parroquia": "ALTO TAMBO/GUADAL",
+                    "id": 70,
+                    "votos": 68,
+                    "candidato": "Lasso Guillermo",
+                    "value": 14.08
+                },
+                {
+                    "parroquia": "ANCON/PALMA REAL",
+                    "id": 110,
+                    "votos": 26,
+                    "candidato": "Lasso Guillermo",
+                    "value": 4.4
+                },
+                {
+                    "parroquia": "CALDERON",
+                    "id": 435,
+                    "votos": 43,
+                    "candidato": "Lasso Guillermo",
+                    "value": 12.15
+                },
+                {
+                    "parroquia": "CARONDELET",
+                    "id": 535,
+                    "votos": 75,
+                    "candidato": "Lasso Guillermo",
+                    "value": 17.0
+                },
+                {
+                    "parroquia": "5 DE JUNIO/HUIMBI",
+                    "id": 570,
+                    "votos": 9,
+                    "candidato": "Lasso Guillermo",
+                    "value": 6.0
+                },
+                {
+                    "parroquia": "CONCEPCION",
+                    "id": 620,
+                    "votos": 82,
+                    "candidato": "Lasso Guillermo",
+                    "value": 16.21
+                },
+                {
+                    "parroquia": "MATAJE",
+                    "id": 2395,
+                    "votos": 15,
+                    "candidato": "Lasso Guillermo",
+                    "value": 6.024
+                },
+                {
+                    "parroquia": "SAN JAVIER DE CACHABI",
+                    "id": 3455,
+                    "votos": 35,
+                    "candidato": "Lasso Guillermo",
+                    "value": 10.9
+                },
+                {
+                    "parroquia": "SANTA RITA",
+                    "id": 3725,
+                    "votos": 40,
+                    "candidato": "Lasso Guillermo",
+                    "value": 7.6
+                },
+                {
+                    "parroquia": "TAMBILLO",
+                    "id": 3955,
+                    "votos": 40,
+                    "candidato": "Lasso Guillermo",
+                    "value": 7.3
+                },
+                {
+                    "parroquia": "TULULBI /RICAURTE",
+                    "id": 4075,
+                    "votos": 71,
+                    "candidato": "Lasso Guillermo",
+                    "value": 11.639
+                },
+                {
+                    "parroquia": "URBINA",
+                    "id": 4125,
+                    "votos": 34,
+                    "candidato": "Lasso Guillermo",
+                    "value": 8.651
+                },
+                {
+                    "parroquia": "SAN LORENZO",
+                    "id": 6130,
+                    "votos": 1648,
+                    "candidato": "Lasso Guillermo",
+                    "value": 17.22
+                }
+            ]
+            

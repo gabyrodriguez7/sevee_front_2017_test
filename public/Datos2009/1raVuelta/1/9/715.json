@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "PEDRO CARBO",
+        "id": 5735,
+        "votos": 409,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.09
+    },
+    {
+        "parroquia": "SABANILLA",
+        "id": 1670,
+        "votos": 26,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.52
+    },
+    {
+        "parroquia": "VALLE DE LA VIRGEN",
+        "id": 185,
+        "votos": 15,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.38
+    }
+]

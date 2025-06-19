@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "TRIUNFO DORADO",
+        "id": 4385,
+        "votos": 50,
+        "candidato": "Gutierrez Lucio",
+        "value": 13.02
+    },
+    {
+        "parroquia": "PANGUINTZA",
+        "id": 4600,
+        "votos": 97,
+        "candidato": "Gutierrez Lucio",
+        "value": 16.03
+    },
+    {
+        "parroquia": "ZUMBI",
+        "id": 6625,
+        "votos": 380,
+        "candidato": "Gutierrez Lucio",
+        "value": 12.37
+    }
+]

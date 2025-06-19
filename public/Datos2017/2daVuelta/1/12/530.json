@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "PUERTO PECHICHE",
+    "id": 3015,
+    "votos": 1321,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 42.89
+  },
+  {
+    "parroquia": "SAN JUAN",
+    "id": 3510,
+    "votos": 4642,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 40.87
+  },
+  {
+    "parroquia": "PUEBLO VIEJO",
+    "id": 5800,
+    "votos": 4394,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 45.16
+  }
+]

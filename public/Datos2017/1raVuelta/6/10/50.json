@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "CHUGÁ",
+    "id": 955,
+    "votos": 6,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.77
+  },
+  {
+    "parroquia": "MARIANO ACOSTA",
+    "id": 2380,
+    "votos": 13,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.08
+  },
+  {
+    "parroquia": "SAN FRANCISCO DE SIGSIPAMBA",
+    "id": 3415,
+    "votos": 1,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.13
+  },
+  {
+    "parroquia": "PIMAMPIRO",
+    "id": 5750,
+    "votos": 60,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.82
+  }
+]

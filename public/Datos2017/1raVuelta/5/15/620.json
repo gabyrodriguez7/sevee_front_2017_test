@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "AHUANO",
+    "id": 25,
+    "votos": 270,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 8.37
+  },
+  {
+    "parroquia": "CHONTAPUNTA",
+    "id": 940,
+    "votos": 305,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 9.34
+  },
+  {
+    "parroquia": "TALAG",
+    "id": 1930,
+    "votos": 116,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 6.63
+  },
+  {
+    "parroquia": "PANO",
+    "id": 2755,
+    "votos": 45,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 4.05
+  },
+  {
+    "parroquia": "PUERTO MISAHUALLÍ",
+    "id": 3000,
+    "votos": 186,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 6.7
+  },
+  {
+    "parroquia": "PUERTO NAPO",
+    "id": 3050,
+    "votos": 170,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 5.48
+  },
+  {
+    "parroquia": "SAN JUAN DE MUYUNA",
+    "id": 4580,
+    "votos": 88,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 4.02
+  },
+  {
+    "parroquia": "TENA",
+    "id": 6160,
+    "votos": 618,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 3.05
+  }
+]

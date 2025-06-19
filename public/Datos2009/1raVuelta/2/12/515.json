@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "EL SALTO",
+        "id": 6835,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.27
+    },
+    {
+        "parroquia": "BARREIRO /SANTA RITA",
+        "id": 6830,
+        "votos": 7,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.16
+    },
+    {
+        "parroquia": "DR. CAMILO PONCE E.",
+        "id": 5285,
+        "votos": 42,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.22
+    },
+    {
+        "parroquia": "CLEMENTE BAQUERIZO",
+        "id": 5215,
+        "votos": 51,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.16
+    },
+    {
+        "parroquia": "PIMOCHA",
+        "id": 2875,
+        "votos": 9,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.14
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 1525,
+        "votos": 7,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.17
+    },
+    {
+        "parroquia": "FEBRES CORDERO",
+        "id": 1265,
+        "votos": 13,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.19
+    },
+    {
+        "parroquia": "CARACOL",
+        "id": 520,
+        "votos": 13,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.64
+    }
+]

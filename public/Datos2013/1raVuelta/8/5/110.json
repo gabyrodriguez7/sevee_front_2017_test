@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "ANTONIO J. HOLGUIN",
+        "id": 135,
+        "votos": 88,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 5.0
+    },
+    {
+        "parroquia": "CUSUBAMBA",
+        "id": 745,
+        "votos": 126,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.0
+    },
+    {
+        "parroquia": "MULALILLO",
+        "id": 2475,
+        "votos": 127,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.2
+    },
+    {
+        "parroquia": "MULLIQUINDIL",
+        "id": 2490,
+        "votos": 257,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 5.99
+    },
+    {
+        "parroquia": "PANZALEO",
+        "id": 2760,
+        "votos": 90,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.55
+    },
+    {
+        "parroquia": "SAN MIGUEL DE SALCEDO",
+        "id": 6000,
+        "votos": 1017,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 5.0
+    }
+]

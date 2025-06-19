@@ -1,0 +1,457 @@
+[
+    {
+        "parroquia": "COTOCOLLAO",
+        "id": 5220,
+        "votos": 1448,
+        "candidato": "Wray Norman",
+        "value": 2.79
+    },
+    {
+        "parroquia": "BELISARIO QUEVEDO",
+        "id": 7130,
+        "votos": 828,
+        "candidato": "Wray Norman",
+        "value": 3.0
+    },
+    {
+        "parroquia": "CARCELEN",
+        "id": 7135,
+        "votos": 597,
+        "candidato": "Wray Norman",
+        "value": 2.27793
+    },
+    {
+        "parroquia": "COCHAPAMBA",
+        "id": 7145,
+        "votos": 633,
+        "candidato": "Wray Norman",
+        "value": 2.55
+    },
+    {
+        "parroquia": "COMITE DEL PUEBLO",
+        "id": 7150,
+        "votos": 416,
+        "candidato": "Wray Norman",
+        "value": 2.229
+    },
+    {
+        "parroquia": "EL CONDADO",
+        "id": 7160,
+        "votos": 747,
+        "candidato": "Wray Norman",
+        "value": 2.30812013
+    },
+    {
+        "parroquia": "IÑAQUITO",
+        "id": 7170,
+        "votos": 1525,
+        "candidato": "Wray Norman",
+        "value": 2.802
+    },
+    {
+        "parroquia": "ITCHIMBIA",
+        "id": 7175,
+        "votos": 1024,
+        "candidato": "Wray Norman",
+        "value": 3.004
+    },
+    {
+        "parroquia": "JIPIJAPA",
+        "id": 7180,
+        "votos": 1162,
+        "candidato": "Wray Norman",
+        "value": 3.0228
+    },
+    {
+        "parroquia": "KENNEDY",
+        "id": 7185,
+        "votos": 1169,
+        "candidato": "Wray Norman",
+        "value": 2.674506
+    },
+    {
+        "parroquia": "LA CONCEPCION",
+        "id": 7195,
+        "votos": 686,
+        "candidato": "Wray Norman",
+        "value": 3.00324
+    },
+    {
+        "parroquia": "MARISCAL SUCRE",
+        "id": 7215,
+        "votos": 703,
+        "candidato": "Wray Norman",
+        "value": 3.05453
+    },
+    {
+        "parroquia": "PONCEANO",
+        "id": 7220,
+        "votos": 602,
+        "candidato": "Wray Norman",
+        "value": 2.44785101
+    },
+    {
+        "parroquia": "RUMIPAMBA",
+        "id": 7235,
+        "votos": 936,
+        "candidato": "Wray Norman",
+        "value": 2.7
+    },
+    {
+        "parroquia": "SAN ISIDRO DEL INCA",
+        "id": 7245,
+        "votos": 400,
+        "candidato": "Wray Norman",
+        "value": 2.3
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 7250,
+        "votos": 1045,
+        "candidato": "Wray Norman",
+        "value": 2.8
+    },
+    {
+        "parroquia": "CHIMBACALLE",
+        "id": 5015,
+        "votos": 1570,
+        "candidato": "Wray Norman",
+        "value": 2.7
+    },
+    {
+        "parroquia": "CHILLOGALLO",
+        "id": 5260,
+        "votos": 1645,
+        "candidato": "Wray Norman",
+        "value": 2.824
+    },
+    {
+        "parroquia": "LA LIBERTAD",
+        "id": 5535,
+        "votos": 360,
+        "candidato": "Wray Norman",
+        "value": 2.2203
+    },
+    {
+        "parroquia": "LA MAGDALENA",
+        "id": 5540,
+        "votos": 2109,
+        "candidato": "Wray Norman",
+        "value": 2.9266
+    },
+    {
+        "parroquia": "CENTRO HISTORICO",
+        "id": 7140,
+        "votos": 1496,
+        "candidato": "Wray Norman",
+        "value": 2.4273
+    },
+    {
+        "parroquia": "CHILIBULO",
+        "id": 7155,
+        "votos": 445,
+        "candidato": "Wray Norman",
+        "value": 2.6471
+    },
+    {
+        "parroquia": "GUAMANI",
+        "id": 7165,
+        "votos": 639,
+        "candidato": "Wray Norman",
+        "value": 2.47
+    },
+    {
+        "parroquia": "LA ARGELIA",
+        "id": 7190,
+        "votos": 368,
+        "candidato": "Wray Norman",
+        "value": 2.1
+    },
+    {
+        "parroquia": "LA ECUATORIANA",
+        "id": 7200,
+        "votos": 569,
+        "candidato": "Wray Norman",
+        "value": 2.53
+    },
+    {
+        "parroquia": "LA FERROVIARIA",
+        "id": 7205,
+        "votos": 772,
+        "candidato": "Wray Norman",
+        "value": 2.5376
+    },
+    {
+        "parroquia": "LA MENA",
+        "id": 7210,
+        "votos": 603,
+        "candidato": "Wray Norman",
+        "value": 3.1372
+    },
+    {
+        "parroquia": "PUENGASI",
+        "id": 7225,
+        "votos": 506,
+        "candidato": "Wray Norman",
+        "value": 2.9686
+    },
+    {
+        "parroquia": "QUITUMBE",
+        "id": 7230,
+        "votos": 601,
+        "candidato": "Wray Norman",
+        "value": 2.464
+    },
+    {
+        "parroquia": "SAN BARTOLO",
+        "id": 7240,
+        "votos": 1170,
+        "candidato": "Wray Norman",
+        "value": 2.8
+    },
+    {
+        "parroquia": "SOLANDA",
+        "id": 7255,
+        "votos": 938,
+        "candidato": "Wray Norman",
+        "value": 2.8
+    },
+    {
+        "parroquia": "TURUBAMBA",
+        "id": 7260,
+        "votos": 435,
+        "candidato": "Wray Norman",
+        "value": 2.2
+    },
+    {
+        "parroquia": "ALANGASI",
+        "id": 30,
+        "votos": 322,
+        "candidato": "Wray Norman",
+        "value": 2.9
+    },
+    {
+        "parroquia": "AMAGUAÑA",
+        "id": 80,
+        "votos": 459,
+        "candidato": "Wray Norman",
+        "value": 2.7
+    },
+    {
+        "parroquia": "ATAHUALPA /HABASPAMBA",
+        "id": 195,
+        "votos": 25,
+        "candidato": "Wray Norman",
+        "value": 2.018
+    },
+    {
+        "parroquia": "CALACALI",
+        "id": 430,
+        "votos": 62,
+        "candidato": "Wray Norman",
+        "value": 2.147
+    },
+    {
+        "parroquia": "CALDERON",
+        "id": 440,
+        "votos": 1725,
+        "candidato": "Wray Norman",
+        "value": 2.2172
+    },
+    {
+        "parroquia": "CONOCOTO",
+        "id": 625,
+        "votos": 1472,
+        "candidato": "Wray Norman",
+        "value": 3.2
+    },
+    {
+        "parroquia": "CUMBAYA",
+        "id": 725,
+        "votos": 593,
+        "candidato": "Wray Norman",
+        "value": 2.77051
+    },
+    {
+        "parroquia": "CHAVEZPAMBA",
+        "id": 855,
+        "votos": 9,
+        "candidato": "Wray Norman",
+        "value": 1.717557
+    },
+    {
+        "parroquia": "CHECA",
+        "id": 865,
+        "votos": 71,
+        "candidato": "Wray Norman",
+        "value": 1.762661
+    },
+    {
+        "parroquia": "GUALEA",
+        "id": 1400,
+        "votos": 15,
+        "candidato": "Wray Norman",
+        "value": 1.34288
+    },
+    {
+        "parroquia": "GUANGOPOLO",
+        "id": 1440,
+        "votos": 54,
+        "candidato": "Wray Norman",
+        "value": 2.73973
+    },
+    {
+        "parroquia": "GUAYLLABAMBA",
+        "id": 1475,
+        "votos": 173,
+        "candidato": "Wray Norman",
+        "value": 1.97398
+    },
+    {
+        "parroquia": "LA MERCED",
+        "id": 2055,
+        "votos": 123,
+        "candidato": "Wray Norman",
+        "value": 3.068097
+    },
+    {
+        "parroquia": "LLANO CHICO",
+        "id": 2265,
+        "votos": 143,
+        "candidato": "Wray Norman",
+        "value": 2.662446
+    },
+    {
+        "parroquia": "LLOA",
+        "id": 2275,
+        "votos": 46,
+        "candidato": "Wray Norman",
+        "value": 3.362573
+    },
+    {
+        "parroquia": "NANEGAL",
+        "id": 2525,
+        "votos": 16,
+        "candidato": "Wray Norman",
+        "value": 1.084011
+    },
+    {
+        "parroquia": "NANEGALITO",
+        "id": 2530,
+        "votos": 30,
+        "candidato": "Wray Norman",
+        "value": 1.6
+    },
+    {
+        "parroquia": "NAYON",
+        "id": 2540,
+        "votos": 207,
+        "candidato": "Wray Norman",
+        "value": 3.24
+    },
+    {
+        "parroquia": "NONO",
+        "id": 2560,
+        "votos": 12,
+        "candidato": "Wray Norman",
+        "value": 1.22075
+    },
+    {
+        "parroquia": "PACTO",
+        "id": 2690,
+        "votos": 16,
+        "candidato": "Wray Norman",
+        "value": 0.648
+    },
+    {
+        "parroquia": "PERUCHO",
+        "id": 2825,
+        "votos": 8,
+        "candidato": "Wray Norman",
+        "value": 1.533
+    },
+    {
+        "parroquia": "PIFO",
+        "id": 2855,
+        "votos": 330,
+        "candidato": "Wray Norman",
+        "value": 3.492
+    },
+    {
+        "parroquia": "PINTAG",
+        "id": 2895,
+        "votos": 170,
+        "candidato": "Wray Norman",
+        "value": 1.5203
+    },
+    {
+        "parroquia": "POMASQUI",
+        "id": 2925,
+        "votos": 615,
+        "candidato": "Wray Norman",
+        "value": 3.1299
+    },
+    {
+        "parroquia": "PUELLARO",
+        "id": 2980,
+        "votos": 56,
+        "candidato": "Wray Norman",
+        "value": 1.37
+    },
+    {
+        "parroquia": "PUEMBO",
+        "id": 2985,
+        "votos": 172,
+        "candidato": "Wray Norman",
+        "value": 2.23
+    },
+    {
+        "parroquia": "QUINCHE",
+        "id": 3100,
+        "votos": 148,
+        "candidato": "Wray Norman",
+        "value": 1.444
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3325,
+        "votos": 392,
+        "candidato": "Wray Norman",
+        "value": 2.119
+    },
+    {
+        "parroquia": "SAN JOSE DE MINAS",
+        "id": 3475,
+        "votos": 59,
+        "candidato": "Wray Norman",
+        "value": 1.437
+    },
+    {
+        "parroquia": "TABABELA",
+        "id": 3925,
+        "votos": 40,
+        "candidato": "Wray Norman",
+        "value": 2.943
+    },
+    {
+        "parroquia": "TUMBACO",
+        "id": 4085,
+        "votos": 771,
+        "candidato": "Wray Norman",
+        "value": 2.43379
+    },
+    {
+        "parroquia": "YARUQUI",
+        "id": 4290,
+        "votos": 199,
+        "candidato": "Wray Norman",
+        "value": 1.85409
+    },
+    {
+        "parroquia": "ZAMBIZA",
+        "id": 4325,
+        "votos": 96,
+        "candidato": "Wray Norman",
+        "value": 2.87167
+    }
+]

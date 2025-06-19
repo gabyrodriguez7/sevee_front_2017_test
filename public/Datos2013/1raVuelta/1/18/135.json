@@ -1,0 +1,191 @@
+[
+    {
+        "parroquia": "AMBATILLO",
+        "id": 95,
+        "votos": 74,
+        "candidato": "Noboa Alvaro",
+        "value": 3.0
+    },
+    {
+        "parroquia": "ATAHUALPA /CHIPZALATA",
+        "id": 190,
+        "votos": 171,
+        "candidato": "Noboa Alvaro",
+        "value": 3.0
+    },
+    {
+        "parroquia": "AUGUSTO N MARTINEZ",
+        "id": 210,
+        "votos": 154,
+        "candidato": "Noboa Alvaro",
+        "value": 3.0
+    },
+    {
+        "parroquia": "CONSTANTINO FERNANDEZ",
+        "id": 635,
+        "votos": 43,
+        "candidato": "Noboa Alvaro",
+        "value": 2.7
+    },
+    {
+        "parroquia": "CUNCHIBAMBA",
+        "id": 800,
+        "votos": 63,
+        "candidato": "Noboa Alvaro",
+        "value": 3.0
+    },
+    {
+        "parroquia": "UNAMUNCHO",
+        "id": 810,
+        "votos": 43,
+        "candidato": "Noboa Alvaro",
+        "value": 3.0
+    },
+    {
+        "parroquia": "HUACHI GRANDE",
+        "id": 1625,
+        "votos": 210,
+        "candidato": "Noboa Alvaro",
+        "value": 4.0
+    },
+    {
+        "parroquia": "IZAMBA",
+        "id": 1745,
+        "votos": 410,
+        "candidato": "Noboa Alvaro",
+        "value": 4.0
+    },
+    {
+        "parroquia": "JUAN BENIGNO VELA",
+        "id": 1860,
+        "votos": 217,
+        "candidato": "Noboa Alvaro",
+        "value": 4.75
+    },
+    {
+        "parroquia": "MONTALVO",
+        "id": 2435,
+        "votos": 61,
+        "candidato": "Noboa Alvaro",
+        "value": 3.0
+    },
+    {
+        "parroquia": "PASA",
+        "id": 2775,
+        "votos": 160,
+        "candidato": "Noboa Alvaro",
+        "value": 3.8
+    },
+    {
+        "parroquia": "PICAYHUA",
+        "id": 2830,
+        "votos": 307,
+        "candidato": "Noboa Alvaro",
+        "value": 3.3
+    },
+    {
+        "parroquia": "PILAHUIN",
+        "id": 2860,
+        "votos": 243,
+        "candidato": "Noboa Alvaro",
+        "value": 4.17
+    },
+    {
+        "parroquia": "QUISAPINCHA",
+        "id": 3120,
+        "votos": 171,
+        "candidato": "Noboa Alvaro",
+        "value": 2.77
+    },
+    {
+        "parroquia": "SAN BARTOLOME",
+        "id": 3355,
+        "votos": 156,
+        "candidato": "Noboa Alvaro",
+        "value": 3.08
+    },
+    {
+        "parroquia": "SAN FERNANDO",
+        "id": 3380,
+        "votos": 79,
+        "candidato": "Noboa Alvaro",
+        "value": 5.42
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 3730,
+        "votos": 362,
+        "candidato": "Noboa Alvaro",
+        "value": 3.7
+    },
+    {
+        "parroquia": "TOTORAS",
+        "id": 4065,
+        "votos": 109,
+        "candidato": "Noboa Alvaro",
+        "value": 2.741
+    },
+    {
+        "parroquia": "ATOCHA FICOA",
+        "id": 5045,
+        "votos": 196,
+        "candidato": "Noboa Alvaro",
+        "value": 2.2
+    },
+    {
+        "parroquia": "CELIANO MONGE",
+        "id": 5230,
+        "votos": 51,
+        "candidato": "Noboa Alvaro",
+        "value": 2.675761
+    },
+    {
+        "parroquia": "HUACHI LORETO",
+        "id": 5445,
+        "votos": 1300,
+        "candidato": "Noboa Alvaro",
+        "value": 3.0
+    },
+    {
+        "parroquia": "HUACHI CHICO",
+        "id": 5455,
+        "votos": 535,
+        "candidato": "Noboa Alvaro",
+        "value": 3.0
+    },
+    {
+        "parroquia": "LA MATRIZ",
+        "id": 5545,
+        "votos": 564,
+        "candidato": "Noboa Alvaro",
+        "value": 2.7
+    },
+    {
+        "parroquia": "LA MERCED",
+        "id": 5560,
+        "votos": 434,
+        "candidato": "Noboa Alvaro",
+        "value": 2.72
+    },
+    {
+        "parroquia": "LA PENINSULA",
+        "id": 5605,
+        "votos": 42,
+        "candidato": "Noboa Alvaro",
+        "value": 3.4
+    },
+    {
+        "parroquia": "PISHILATA",
+        "id": 5840,
+        "votos": 45,
+        "candidato": "Noboa Alvaro",
+        "value": 3.0
+    },
+    {
+        "parroquia": "SAN FRANCISCO",
+        "id": 5945,
+        "votos": 141,
+        "candidato": "Noboa Alvaro",
+        "value": 2.0
+    }
+]

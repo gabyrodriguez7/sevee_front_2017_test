@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "CHICANA",
+        "id": 985,
+        "votos": 13,
+        "candidato": "Noboa Alvaro",
+        "value": 1.1
+    },
+    {
+        "parroquia": "LOS ENCUENTROS",
+        "id": 2240,
+        "votos": 32,
+        "candidato": "Noboa Alvaro",
+        "value": 2.03692
+    },
+    {
+        "parroquia": "YANZATZA",
+        "id": 6295,
+        "votos": 225,
+        "candidato": "Noboa Alvaro",
+        "value": 3.006
+    }
+]

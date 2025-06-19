@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN FERNANDO",
+        "id": 6565,
+        "votos": 1261,
+        "candidato": "Rafael Correa Delgado",
+        "value": 64.07
+    },
+    {
+        "parroquia": "CHUMBLIN",
+        "id": 4560,
+        "votos": 129,
+        "candidato": "Rafael Correa Delgado",
+        "value": 55.6
+    }
+]

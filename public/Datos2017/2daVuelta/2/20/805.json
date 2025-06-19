@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "BELLA VISTA",
+    "id": 235,
+    "votos": 374,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 47.58
+  },
+  {
+    "parroquia": "SANTA ROSA",
+    "id": 1985,
+    "votos": 143,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 52.57
+  },
+  {
+    "parroquia": "PUERTO AYORA",
+    "id": 6505,
+    "votos": 2970,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 41.33
+  }
+]

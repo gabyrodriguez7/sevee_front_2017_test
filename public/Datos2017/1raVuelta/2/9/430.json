@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "GRAL. VERNAZA",
+    "id": 1350,
+    "votos": 86,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.98
+  },
+  {
+    "parroquia": "JUNQUILLAL",
+    "id": 1595,
+    "votos": 174,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.61
+  },
+  {
+    "parroquia": "VICTORIA",
+    "id": 4220,
+    "votos": 30,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.2
+  },
+  {
+    "parroquia": "BOCANA",
+    "id": 5120,
+    "votos": 9,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.27
+  },
+  {
+    "parroquia": "CANDILEJOS",
+    "id": 5155,
+    "votos": 19,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.28
+  },
+  {
+    "parroquia": "SALITRE",
+    "id": 5200,
+    "votos": 674,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.98
+  },
+  {
+    "parroquia": "PARAÍSO",
+    "id": 5765,
+    "votos": 5,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.1
+  },
+  {
+    "parroquia": "SAN MATEO",
+    "id": 5990,
+    "votos": 2,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.75
+  }
+]

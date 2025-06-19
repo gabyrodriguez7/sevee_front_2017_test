@@ -1,0 +1,191 @@
+[
+    {
+        "parroquia": "SAN FRANCISCO",
+        "id": 5945,
+        "votos": 2328,
+        "candidato": "Rafael Correa Delgado",
+        "value": 44.18
+    },
+    {
+        "parroquia": "PISHILATA",
+        "id": 5840,
+        "votos": 544,
+        "candidato": "Rafael Correa Delgado",
+        "value": 38.5
+    },
+    {
+        "parroquia": "LA PENINSULA",
+        "id": 5605,
+        "votos": 402,
+        "candidato": "Rafael Correa Delgado",
+        "value": 42.49
+    },
+    {
+        "parroquia": "LA MERCED",
+        "id": 5560,
+        "votos": 6254,
+        "candidato": "Rafael Correa Delgado",
+        "value": 44.36
+    },
+    {
+        "parroquia": "LA MATRIZ",
+        "id": 5545,
+        "votos": 7897,
+        "candidato": "Rafael Correa Delgado",
+        "value": 42.61
+    },
+    {
+        "parroquia": "HUACHI CHICO",
+        "id": 5455,
+        "votos": 6082,
+        "candidato": "Rafael Correa Delgado",
+        "value": 42.15
+    },
+    {
+        "parroquia": "HUACHI LORETO",
+        "id": 5445,
+        "votos": 15620,
+        "candidato": "Rafael Correa Delgado",
+        "value": 44.34
+    },
+    {
+        "parroquia": "CELIANO MONGE",
+        "id": 5230,
+        "votos": 713,
+        "candidato": "Rafael Correa Delgado",
+        "value": 44.53
+    },
+    {
+        "parroquia": "ATOCHA FICOA",
+        "id": 5045,
+        "votos": 3283,
+        "candidato": "Rafael Correa Delgado",
+        "value": 41.9
+    },
+    {
+        "parroquia": "TOTORAS",
+        "id": 4065,
+        "votos": 1180,
+        "candidato": "Rafael Correa Delgado",
+        "value": 36.04
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 3730,
+        "votos": 3179,
+        "candidato": "Rafael Correa Delgado",
+        "value": 41.15
+    },
+    {
+        "parroquia": "SAN FERNANDO",
+        "id": 3380,
+        "votos": 309,
+        "candidato": "Rafael Correa Delgado",
+        "value": 26.5
+    },
+    {
+        "parroquia": "SAN BARTOLOME",
+        "id": 3355,
+        "votos": 1936,
+        "candidato": "Rafael Correa Delgado",
+        "value": 45.86
+    },
+    {
+        "parroquia": "QUISAPINCHA",
+        "id": 3120,
+        "votos": 1635,
+        "candidato": "Rafael Correa Delgado",
+        "value": 31.35
+    },
+    {
+        "parroquia": "PILAHUIN",
+        "id": 2860,
+        "votos": 1323,
+        "candidato": "Rafael Correa Delgado",
+        "value": 26.6
+    },
+    {
+        "parroquia": "PICAYHUA",
+        "id": 2830,
+        "votos": 2724,
+        "candidato": "Rafael Correa Delgado",
+        "value": 35.75
+    },
+    {
+        "parroquia": "PASA",
+        "id": 2775,
+        "votos": 890,
+        "candidato": "Rafael Correa Delgado",
+        "value": 28.33
+    },
+    {
+        "parroquia": "MONTALVO",
+        "id": 2435,
+        "votos": 734,
+        "candidato": "Rafael Correa Delgado",
+        "value": 42.77
+    },
+    {
+        "parroquia": "JUAN BENIGNO VELA",
+        "id": 1860,
+        "votos": 1135,
+        "candidato": "Rafael Correa Delgado",
+        "value": 30.66
+    },
+    {
+        "parroquia": "IZAMBA",
+        "id": 1745,
+        "votos": 3530,
+        "candidato": "Rafael Correa Delgado",
+        "value": 37.26
+    },
+    {
+        "parroquia": "HUACHI GRANDE",
+        "id": 1625,
+        "votos": 1425,
+        "candidato": "Rafael Correa Delgado",
+        "value": 35.71
+    },
+    {
+        "parroquia": "UNAMUNCHO",
+        "id": 810,
+        "votos": 229,
+        "candidato": "Rafael Correa Delgado",
+        "value": 25.16
+    },
+    {
+        "parroquia": "CUNCHIBAMBA",
+        "id": 800,
+        "votos": 498,
+        "candidato": "Rafael Correa Delgado",
+        "value": 30.68
+    },
+    {
+        "parroquia": "CONSTANTINO FERNANDEZ",
+        "id": 635,
+        "votos": 500,
+        "candidato": "Rafael Correa Delgado",
+        "value": 37.06
+    },
+    {
+        "parroquia": "AUGUSTO N MARTINEZ",
+        "id": 210,
+        "votos": 2009,
+        "candidato": "Rafael Correa Delgado",
+        "value": 41.03
+    },
+    {
+        "parroquia": "ATAHUALPA /CHIPZALATA",
+        "id": 190,
+        "votos": 2006,
+        "candidato": "Rafael Correa Delgado",
+        "value": 46.09
+    },
+    {
+        "parroquia": "AMBATILLO",
+        "id": 95,
+        "votos": 962,
+        "candidato": "Rafael Correa Delgado",
+        "value": 40.08
+    }
+]

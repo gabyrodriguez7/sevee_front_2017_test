@@ -1,0 +1,72 @@
+[
+  {
+    "parroquia": "BENÍTEZ /PACHANLICA",
+    "id": 335,
+    "votos": 974,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 58.36
+  },
+  {
+    "parroquia": "BOLÍVAR",
+    "id": 365,
+    "votos": 1097,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 62.61
+  },
+  {
+    "parroquia": "COTALO",
+    "id": 675,
+    "votos": 637,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 44.64
+  },
+  {
+    "parroquia": "CHIQUICHA",
+    "id": 900,
+    "votos": 879,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 57.38
+  },
+  {
+    "parroquia": "EL ROSARIO /RUMICHACA",
+    "id": 1185,
+    "votos": 1004,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 55.35
+  },
+  {
+    "parroquia": "GARCÍA MORENO",
+    "id": 1320,
+    "votos": 1431,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 60.03
+  },
+  {
+    "parroquia": "HUAMBALO",
+    "id": 1630,
+    "votos": 2813,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 53.27
+  },
+  {
+    "parroquia": "SALASACA",
+    "id": 3905,
+    "votos": 2613,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 72.18
+  },
+  {
+    "parroquia": "PELILEO",
+    "id": 5780,
+    "votos": 12065,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 64.27
+  },
+  {
+    "parroquia": "PELILÉO GRANDE /R. MINO",
+    "id": 5900,
+    "votos": 530,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 64.48
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "C. E. EN MILAN",
+    "id": 9043,
+    "votos": 5456,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 45.49
+  },
+  {
+    "parroquia": "C. E. EN GENOVA",
+    "id": 9044,
+    "votos": 2847,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 42.96
+  },
+  {
+    "parroquia": "C. E. EN ROMA",
+    "id": 9045,
+    "votos": 1364,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 43.96
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "CANI",
+    "id": 500,
+    "votos": 148,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 26.01
+  },
+  {
+    "parroquia": "COLUMBE",
+    "id": 610,
+    "votos": 2839,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 27.8
+  },
+  {
+    "parroquia": "JUAN DE VELASCO / PONGOR",
+    "id": 1865,
+    "votos": 600,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 35.34
+  },
+  {
+    "parroquia": "SANTIAGO DE QUITO",
+    "id": 4430,
+    "votos": 573,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 45.91
+  },
+  {
+    "parroquia": "CAJABAMBA",
+    "id": 5145,
+    "votos": 2244,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 31.02
+  },
+  {
+    "parroquia": "SICALPA",
+    "id": 6080,
+    "votos": 1527,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 25.27
+  }
+]

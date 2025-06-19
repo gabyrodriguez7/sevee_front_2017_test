@@ -1,0 +1,86 @@
+[
+    {
+        "parroquia": "NUEVO SANTA ROSA",
+        "id": 6990,
+        "votos": 27,
+        "candidato": "Alvaro Noboa",
+        "value": 6.71
+    },
+    {
+        "parroquia": "JUMON",
+        "id": 6985,
+        "votos": 31,
+        "candidato": "Alvaro Noboa",
+        "value": 10.19
+    },
+    {
+        "parroquia": "BALNEARIO JAMBELI",
+        "id": 6900,
+        "votos": 5,
+        "candidato": "Alvaro Noboa",
+        "value": 6.25
+    },
+    {
+        "parroquia": "PUERTO JELI",
+        "id": 6670,
+        "votos": 30,
+        "candidato": "Alvaro Noboa",
+        "value": 11.11
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 6060,
+        "votos": 4006,
+        "candidato": "Alvaro Noboa",
+        "value": 14.34
+    },
+    {
+        "parroquia": "TORATA",
+        "id": 4525,
+        "votos": 50,
+        "candidato": "Alvaro Noboa",
+        "value": 6.38
+    },
+    {
+        "parroquia": "VICTORIA",
+        "id": 4215,
+        "votos": 52,
+        "candidato": "Alvaro Noboa",
+        "value": 7.09
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3330,
+        "votos": 45,
+        "candidato": "Alvaro Noboa",
+        "value": 12.19
+    },
+    {
+        "parroquia": "LA AVANZADA",
+        "id": 2005,
+        "votos": 152,
+        "candidato": "Alvaro Noboa",
+        "value": 13.28
+    },
+    {
+        "parroquia": "JAMBELI",
+        "id": 1815,
+        "votos": 2,
+        "candidato": "Alvaro Noboa",
+        "value": 1.14
+    },
+    {
+        "parroquia": "BELLAMARIA",
+        "id": 1665,
+        "votos": 40,
+        "candidato": "Alvaro Noboa",
+        "value": 8.24
+    },
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 325,
+        "votos": 173,
+        "candidato": "Alvaro Noboa",
+        "value": 13.21
+    }
+]

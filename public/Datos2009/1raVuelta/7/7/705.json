@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "PACCHA",
+        "id": 5745,
+        "votos": 103,
+        "candidato": "Alvaro Noboa",
+        "value": 5.92
+    },
+    {
+        "parroquia": "MILAGRO",
+        "id": 4535,
+        "votos": 6,
+        "candidato": "Alvaro Noboa",
+        "value": 2.73
+    },
+    {
+        "parroquia": "SAN JOSE",
+        "id": 4530,
+        "votos": 17,
+        "candidato": "Alvaro Noboa",
+        "value": 7.23
+    },
+    {
+        "parroquia": "CORDONCILLO",
+        "id": 4480,
+        "votos": 30,
+        "candidato": "Alvaro Noboa",
+        "value": 6.55
+    },
+    {
+        "parroquia": "SAN JUAN DE CERRO AZUL",
+        "id": 375,
+        "votos": 8,
+        "candidato": "Alvaro Noboa",
+        "value": 3.46
+    },
+    {
+        "parroquia": "AYAPAMBA",
+        "id": 225,
+        "votos": 57,
+        "candidato": "Alvaro Noboa",
+        "value": 6.36
+    }
+]

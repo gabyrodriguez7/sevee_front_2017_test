@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "CUYABENO",
+    "id": 760,
+    "votos": 1,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.32
+  },
+  {
+    "parroquia": "AGUAS NEGRAS",
+    "id": 1555,
+    "votos": 5,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.66
+  },
+  {
+    "parroquia": "TARAPOA",
+    "id": 6765,
+    "votos": 52,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.47
+  }
+]

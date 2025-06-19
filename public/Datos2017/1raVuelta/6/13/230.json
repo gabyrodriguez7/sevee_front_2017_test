@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "NOVILLO",
+    "id": 1600,
+    "votos": 10,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.91
+  },
+  {
+    "parroquia": "ZAPALLO",
+    "id": 1620,
+    "votos": 8,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.45
+  },
+  {
+    "parroquia": "FLAVIO ALFARO",
+    "id": 5480,
+    "votos": 100,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.72
+  }
+]

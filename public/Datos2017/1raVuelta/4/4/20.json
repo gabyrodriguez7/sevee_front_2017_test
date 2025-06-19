@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "JIJÓN Y CAAMAÑO",
+    "id": 1835,
+    "votos": 90,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.4
+  },
+  {
+    "parroquia": "JUAN MONTALVO",
+    "id": 1875,
+    "votos": 53,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.16
+  },
+  {
+    "parroquia": "LA CONCEPCIÓN",
+    "id": 2010,
+    "votos": 80,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 4.16
+  },
+  {
+    "parroquia": "MIRA",
+    "id": 5685,
+    "votos": 611,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.98
+  }
+]

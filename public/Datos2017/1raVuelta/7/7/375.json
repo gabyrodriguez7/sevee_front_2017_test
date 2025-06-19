@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "CHACRAS",
+    "id": 805,
+    "votos": 45,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 5.33
+  },
+  {
+    "parroquia": "CARCABÓN",
+    "id": 1695,
+    "votos": 23,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 5.58
+  },
+  {
+    "parroquia": "PALMALES",
+    "id": 2715,
+    "votos": 61,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.74
+  },
+  {
+    "parroquia": "ARENILLAS",
+    "id": 5040,
+    "votos": 793,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 5.34
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "parroquia": "SAN BUENAVENTURA",
+    "id": 5940,
+    "votos": 1206,
+    "candidato": "Lucio Gutierrez",
+    "value": 44.11
+  },
+  {
+    "parroquia": "LA MATRIZ",
+    "id": 5555,
+    "votos": 6316,
+    "candidato": "Lucio Gutierrez",
+    "value": 35.03
+  },
+  {
+    "parroquia": "JUAN MONTALVO",
+    "id": 5500,
+    "votos": 4222,
+    "candidato": "Lucio Gutierrez",
+    "value": 47.66
+  },
+  {
+    "parroquia": "IGNACIO FLORES",
+    "id": 5465,
+    "votos": 3656,
+    "candidato": "Lucio Gutierrez",
+    "value": 45.95
+  },
+  {
+    "parroquia": "ELOY ALFARO / SAN FELIPE",
+    "id": 5310,
+    "votos": 7114,
+    "candidato": "Lucio Gutierrez",
+    "value": 45.92
+  },
+  {
+    "parroquia": "TOACAZO",
+    "id": 4035,
+    "votos": 2201,
+    "candidato": "Lucio Gutierrez",
+    "value": 47.47
+  },
+  {
+    "parroquia": "TANICUCHI",
+    "id": 3965,
+    "votos": 2619,
+    "candidato": "Lucio Gutierrez",
+    "value": 38.8
+  },
+  {
+    "parroquia": "SAN JUAN DE PASTOCALLE",
+    "id": 3530,
+    "votos": 2714,
+    "candidato": "Lucio Gutierrez",
+    "value": 51.99
+  },
+  {
+    "parroquia": "POALO",
+    "id": 2920,
+    "votos": 1372,
+    "candidato": "Lucio Gutierrez",
+    "value": 49.28
+  },
+  {
+    "parroquia": "11 DE NOVIEMBRE",
+    "id": 2620,
+    "votos": 499,
+    "candidato": "Lucio Gutierrez",
+    "value": 40.56
+  },
+  {
+    "parroquia": "MULALO",
+    "id": 2480,
+    "votos": 2043,
+    "candidato": "Lucio Gutierrez",
+    "value": 43.43
+  },
+  {
+    "parroquia": "JOSEGUANGO BAJO",
+    "id": 1905,
+    "votos": 397,
+    "candidato": "Lucio Gutierrez",
+    "value": 43.15
+  },
+  {
+    "parroquia": "GUAYTACAMA",
+    "id": 1485,
+    "votos": 1960,
+    "candidato": "Lucio Gutierrez",
+    "value": 41.99
+  },
+  {
+    "parroquia": "BELISARIO QUEVEDO",
+    "id": 315,
+    "votos": 1310,
+    "candidato": "Lucio Gutierrez",
+    "value": 50.79
+  },
+  {
+    "parroquia": "ALAQUEZ",
+    "id": 35,
+    "votos": 1703,
+    "candidato": "Lucio Gutierrez",
+    "value": 45.68
+  }
+]

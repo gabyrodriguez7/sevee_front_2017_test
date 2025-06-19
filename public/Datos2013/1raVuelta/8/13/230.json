@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "NOVILLO",
+        "id": 1600,
+        "votos": 13,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.3699
+    },
+    {
+        "parroquia": "ZAPALLO",
+        "id": 1620,
+        "votos": 31,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.439
+    },
+    {
+        "parroquia": "FLAVIO ALFARO",
+        "id": 5480,
+        "votos": 332,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.454
+    }
+]

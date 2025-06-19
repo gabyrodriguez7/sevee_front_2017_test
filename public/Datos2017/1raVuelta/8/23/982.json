@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "MONTERREY",
+    "id": 4635,
+    "votos": 85,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.55
+  },
+  {
+    "parroquia": "LA VILLEGAS",
+    "id": 4640,
+    "votos": 34,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.22
+  },
+  {
+    "parroquia": "PLAN PILOTO",
+    "id": 4645,
+    "votos": 34,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 6.54
+  },
+  {
+    "parroquia": "LA CONCORDIA",
+    "id": 7520,
+    "votos": 638,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.61
+  }
+]

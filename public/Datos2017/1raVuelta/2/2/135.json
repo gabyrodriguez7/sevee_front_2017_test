@@ -1,0 +1,191 @@
+[
+  {
+    "parroquia": "AMBATILLO",
+    "id": 95,
+    "votos": 688,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 23.13
+  },
+  {
+    "parroquia": "ATAHUALPA /CHIPZALATA",
+    "id": 190,
+    "votos": 720,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 11.78
+  },
+  {
+    "parroquia": "AUGUSTO N. MARTÍNEZ",
+    "id": 210,
+    "votos": 891,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 14.27
+  },
+  {
+    "parroquia": "CONSTANTINO FERNÁNDEZ",
+    "id": 635,
+    "votos": 252,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 14.76
+  },
+  {
+    "parroquia": "CUNCHIBAMBA",
+    "id": 800,
+    "votos": 345,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 14.22
+  },
+  {
+    "parroquia": "UNAMUNCHO",
+    "id": 810,
+    "votos": 280,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 17.94
+  },
+  {
+    "parroquia": "HUACHI GRANDE",
+    "id": 1625,
+    "votos": 601,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.53
+  },
+  {
+    "parroquia": "IZAMBA",
+    "id": 1745,
+    "votos": 1655,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 12.71
+  },
+  {
+    "parroquia": "JUAN BENIGNO VELA",
+    "id": 1860,
+    "votos": 892,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 18.57
+  },
+  {
+    "parroquia": "MONTALVO",
+    "id": 2435,
+    "votos": 323,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 14.15
+  },
+  {
+    "parroquia": "PASA",
+    "id": 2775,
+    "votos": 670,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 16.8
+  },
+  {
+    "parroquia": "PICAYHUA",
+    "id": 2830,
+    "votos": 1136,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 11.39
+  },
+  {
+    "parroquia": "PILAHUÍN",
+    "id": 2860,
+    "votos": 1352,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 20.21
+  },
+  {
+    "parroquia": "QUISAPINCHA",
+    "id": 3120,
+    "votos": 1110,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 16.37
+  },
+  {
+    "parroquia": "SAN BARTOLOMÉ",
+    "id": 3355,
+    "votos": 771,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 13.75
+  },
+  {
+    "parroquia": "SAN FERNANDO",
+    "id": 3380,
+    "votos": 338,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 22.38
+  },
+  {
+    "parroquia": "SANTA ROSA",
+    "id": 3730,
+    "votos": 1427,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 13.23
+  },
+  {
+    "parroquia": "TOTORAS",
+    "id": 4065,
+    "votos": 524,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 12.16
+  },
+  {
+    "parroquia": "ATOCHA FICOA",
+    "id": 5045,
+    "votos": 723,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.32
+  },
+  {
+    "parroquia": "CELIANO MONGE",
+    "id": 5230,
+    "votos": 160,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.76
+  },
+  {
+    "parroquia": "HUACHI LORETO",
+    "id": 5445,
+    "votos": 3508,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.16
+  },
+  {
+    "parroquia": "HUACHI CHICO",
+    "id": 5455,
+    "votos": 1931,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.14
+  },
+  {
+    "parroquia": "LA MATRIZ",
+    "id": 5545,
+    "votos": 1755,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.65
+  },
+  {
+    "parroquia": "LA MERCED",
+    "id": 5560,
+    "votos": 1381,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8
+  },
+  {
+    "parroquia": "LA PENINSULA",
+    "id": 5605,
+    "votos": 132,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.05
+  },
+  {
+    "parroquia": "PISHILATA",
+    "id": 5840,
+    "votos": 243,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 11.24
+  },
+  {
+    "parroquia": "SAN FRANCISCO",
+    "id": 5945,
+    "votos": 420,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.25
+  }
+]

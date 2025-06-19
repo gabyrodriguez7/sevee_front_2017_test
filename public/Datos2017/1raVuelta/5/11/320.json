@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "COLAIZACA",
+    "id": 590,
+    "votos": 30,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 2.97
+  },
+  {
+    "parroquia": "EL LUCERO",
+    "id": 1230,
+    "votos": 17,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.26
+  },
+  {
+    "parroquia": "SANGUILLIN",
+    "id": 1550,
+    "votos": 5,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.16
+  },
+  {
+    "parroquia": "UTUANA",
+    "id": 4150,
+    "votos": 21,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 4.78
+  },
+  {
+    "parroquia": "CARIAMANGA",
+    "id": 5175,
+    "votos": 99,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.91
+  },
+  {
+    "parroquia": "CHILE",
+    "id": 5240,
+    "votos": 24,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.34
+  },
+  {
+    "parroquia": "SAN VICENTE",
+    "id": 6025,
+    "votos": 4,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.94
+  }
+]

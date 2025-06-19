@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "RIO VERDE",
+        "id": 6720,
+        "votos": 358,
+        "candidato": "Alvaro Noboa",
+        "value": 16.33
+    },
+    {
+        "parroquia": "ROCAFUERTE",
+        "id": 3215,
+        "votos": 216,
+        "candidato": "Alvaro Noboa",
+        "value": 10.9
+    },
+    {
+        "parroquia": "MONTALVO / HORQUETA",
+        "id": 2445,
+        "votos": 119,
+        "candidato": "Alvaro Noboa",
+        "value": 9.0
+    },
+    {
+        "parroquia": "LAGARTO",
+        "id": 2035,
+        "votos": 130,
+        "candidato": "Alvaro Noboa",
+        "value": 8.92
+    },
+    {
+        "parroquia": "CHUMUNDE",
+        "id": 965,
+        "votos": 81,
+        "candidato": "Alvaro Noboa",
+        "value": 20.45
+    },
+    {
+        "parroquia": "CHONTADURO",
+        "id": 930,
+        "votos": 102,
+        "candidato": "Alvaro Noboa",
+        "value": 14.1
+    }
+]

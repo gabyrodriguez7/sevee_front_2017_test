@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "LIMONES",
+        "id": 280,
+        "votos": 17,
+        "candidato": "Gutierrez Lucio",
+        "value": 2.72
+    },
+    {
+        "parroquia": "GARZAREAL",
+        "id": 290,
+        "votos": 8,
+        "candidato": "Gutierrez Lucio",
+        "value": 1.0
+    },
+    {
+        "parroquia": "MANGAHURCO",
+        "id": 550,
+        "votos": 3,
+        "candidato": "Gutierrez Lucio",
+        "value": 0.67
+    },
+    {
+        "parroquia": "BOLASPAMBA",
+        "id": 2000,
+        "votos": 3,
+        "candidato": "Gutierrez Lucio",
+        "value": 0.74
+    },
+    {
+        "parroquia": "PALETILLAS",
+        "id": 2710,
+        "votos": 36,
+        "candidato": "Gutierrez Lucio",
+        "value": 2.65
+    },
+    {
+        "parroquia": "CAZADEROS",
+        "id": 4605,
+        "votos": 7,
+        "candidato": "Gutierrez Lucio",
+        "value": 2.3
+    },
+    {
+        "parroquia": "ZAPOTILLO",
+        "id": 6320,
+        "votos": 120,
+        "candidato": "Gutierrez Lucio",
+        "value": 3.87097
+    }
+]

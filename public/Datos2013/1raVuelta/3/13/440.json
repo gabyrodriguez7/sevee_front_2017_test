@@ -1,0 +1,114 @@
+[
+    {
+        "parroquia": "ABDON CALDERON",
+        "id": 10,
+        "votos": 111,
+        "candidato": "Wray Norman",
+        "value": 1.2333
+    },
+    {
+        "parroquia": "ALHAJUELA /BAJO GRANDE",
+        "id": 50,
+        "votos": 18,
+        "candidato": "Wray Norman",
+        "value": 0.5307
+    },
+    {
+        "parroquia": "CRUCITA",
+        "id": 770,
+        "votos": 52,
+        "candidato": "Wray Norman",
+        "value": 0.8
+    },
+    {
+        "parroquia": "CHIRIJOS",
+        "id": 1925,
+        "votos": 9,
+        "candidato": "Wray Norman",
+        "value": 0.9091
+    },
+    {
+        "parroquia": "PUEBLO NUEVO",
+        "id": 2970,
+        "votos": 14,
+        "candidato": "Wray Norman",
+        "value": 0.638104
+    },
+    {
+        "parroquia": "RIO CHICO",
+        "id": 3185,
+        "votos": 36,
+        "candidato": "Wray Norman",
+        "value": 0.476
+    },
+    {
+        "parroquia": "SAN PLACIDO",
+        "id": 3625,
+        "votos": 53,
+        "candidato": "Wray Norman",
+        "value": 0.949
+    },
+    {
+        "parroquia": "ANDRES DE VERA",
+        "id": 5030,
+        "votos": 418,
+        "candidato": "Wray Norman",
+        "value": 0.95547
+    },
+    {
+        "parroquia": "COLON",
+        "id": 5265,
+        "votos": 105,
+        "candidato": "Wray Norman",
+        "value": 0.9
+    },
+    {
+        "parroquia": "12 DE MARZO",
+        "id": 5280,
+        "votos": 322,
+        "candidato": "Wray Norman",
+        "value": 1.1539
+    },
+    {
+        "parroquia": "PORTOVIEJO",
+        "id": 5795,
+        "votos": 211,
+        "candidato": "Wray Norman",
+        "value": 0.9466
+    },
+    {
+        "parroquia": "PICOAZA",
+        "id": 5845,
+        "votos": 67,
+        "candidato": "Wray Norman",
+        "value": 0.5455
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 6585,
+        "votos": 36,
+        "candidato": "Wray Norman",
+        "value": 0.8039
+    },
+    {
+        "parroquia": "18 DE OCTUBRE",
+        "id": 6770,
+        "votos": 63,
+        "candidato": "Wray Norman",
+        "value": 1.2575
+    },
+    {
+        "parroquia": "FRANCISCO PACHECO",
+        "id": 6775,
+        "votos": 37,
+        "candidato": "Wray Norman",
+        "value": 0.9
+    },
+    {
+        "parroquia": "SIMON BOLIVAR",
+        "id": 6910,
+        "votos": 32,
+        "candidato": "Wray Norman",
+        "value": 2.126
+    }
+]

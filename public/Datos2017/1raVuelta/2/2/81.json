@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "C. E. EN MONTREAL",
+    "id": 9010,
+    "votos": 25,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.46
+  },
+  {
+    "parroquia": "C. E. EN TORONTO",
+    "id": 9011,
+    "votos": 94,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.06
+  },
+  {
+    "parroquia": "C. E. EN OTTAWA",
+    "id": 9012,
+    "votos": 2,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.70
+  }
+]

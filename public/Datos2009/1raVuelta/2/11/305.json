@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "SARAGURO",
+        "id": 6075,
+        "votos": 32,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.76
+    },
+    {
+        "parroquia": "URDANETA/PAQUISHAPA",
+        "id": 4145,
+        "votos": 9,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.62
+    },
+    {
+        "parroquia": "SELVA ALEGRE",
+        "id": 3815,
+        "votos": 16,
+        "candidato": "Diego Delgado Jara",
+        "value": 2.17
+    },
+    {
+        "parroquia": "SAN SEBASTIAN DE YULOG",
+        "id": 3665,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.27
+    },
+    {
+        "parroquia": "SAN PABLO DE TENTA",
+        "id": 3600,
+        "votos": 33,
+        "candidato": "Diego Delgado Jara",
+        "value": 3.11
+    },
+    {
+        "parroquia": "SAN ANTONIO DE CUMBE",
+        "id": 3340,
+        "votos": 2,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.44
+    },
+    {
+        "parroquia": "MANU",
+        "id": 2360,
+        "votos": 4,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.32
+    },
+    {
+        "parroquia": "LLUZHAPA",
+        "id": 2280,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.5
+    },
+    {
+        "parroquia": "EL TABLON",
+        "id": 1190,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.01
+    },
+    {
+        "parroquia": "EL PARAISO DE CELEN",
+        "id": 1165,
+        "votos": 18,
+        "candidato": "Diego Delgado Jara",
+        "value": 2.08
+    },
+    {
+        "parroquia": "SUMAYPAMBA",
+        "id": 310,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.67
+    }
+]

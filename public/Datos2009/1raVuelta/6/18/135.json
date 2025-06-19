@@ -1,0 +1,191 @@
+[
+  {
+    "parroquia": "SAN FRANCISCO",
+    "id": 5945,
+    "votos": 160,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 3.04
+  },
+  {
+    "parroquia": "PISHILATA",
+    "id": 5840,
+    "votos": 40,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 2.83
+  },
+  {
+    "parroquia": "LA PENINSULA",
+    "id": 5605,
+    "votos": 38,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 4.02
+  },
+  {
+    "parroquia": "LA MERCED",
+    "id": 5560,
+    "votos": 448,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 3.18
+  },
+  {
+    "parroquia": "LA MATRIZ",
+    "id": 5545,
+    "votos": 606,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 3.27
+  },
+  {
+    "parroquia": "HUACHI CHICO",
+    "id": 5455,
+    "votos": 489,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 3.39
+  },
+  {
+    "parroquia": "HUACHI LORETO",
+    "id": 5445,
+    "votos": 1141,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 3.24
+  },
+  {
+    "parroquia": "CELIANO MONGE",
+    "id": 5230,
+    "votos": 52,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 3.25
+  },
+  {
+    "parroquia": "ATOCHA FICOA",
+    "id": 5045,
+    "votos": 203,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 2.59
+  },
+  {
+    "parroquia": "TOTORAS",
+    "id": 4065,
+    "votos": 62,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.89
+  },
+  {
+    "parroquia": "SANTA ROSA",
+    "id": 3730,
+    "votos": 114,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.48
+  },
+  {
+    "parroquia": "SAN FERNANDO",
+    "id": 3380,
+    "votos": 5,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.43
+  },
+  {
+    "parroquia": "SAN BARTOLOME",
+    "id": 3355,
+    "votos": 106,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 2.51
+  },
+  {
+    "parroquia": "QUISAPINCHA",
+    "id": 3120,
+    "votos": 65,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.25
+  },
+  {
+    "parroquia": "PILAHUIN",
+    "id": 2860,
+    "votos": 25,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.5
+  },
+  {
+    "parroquia": "PICAYHUA",
+    "id": 2830,
+    "votos": 186,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 2.44
+  },
+  {
+    "parroquia": "PASA",
+    "id": 2775,
+    "votos": 25,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.8
+  },
+  {
+    "parroquia": "MONTALVO",
+    "id": 2435,
+    "votos": 24,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.4
+  },
+  {
+    "parroquia": "JUAN BENIGNO VELA",
+    "id": 1860,
+    "votos": 52,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.4
+  },
+  {
+    "parroquia": "IZAMBA",
+    "id": 1745,
+    "votos": 188,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.98
+  },
+  {
+    "parroquia": "HUACHI GRANDE",
+    "id": 1625,
+    "votos": 78,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.95
+  },
+  {
+    "parroquia": "UNAMUNCHO",
+    "id": 810,
+    "votos": 11,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.21
+  },
+  {
+    "parroquia": "CUNCHIBAMBA",
+    "id": 800,
+    "votos": 22,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.36
+  },
+  {
+    "parroquia": "CONSTANTINO FERNANDEZ",
+    "id": 635,
+    "votos": 18,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.33
+  },
+  {
+    "parroquia": "AUGUSTO N MARTINEZ",
+    "id": 210,
+    "votos": 97,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.98
+  },
+  {
+    "parroquia": "ATAHUALPA /CHIPZALATA",
+    "id": 190,
+    "votos": 88,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 2.02
+  },
+  {
+    "parroquia": "AMBATILLO",
+    "id": 95,
+    "votos": 36,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.5
+  }
+]

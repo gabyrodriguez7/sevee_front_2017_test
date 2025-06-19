@@ -1,0 +1,121 @@
+[
+  {
+    "parroquia": "CHUQUIRIBAMBA",
+    "id": 975,
+    "votos": 187,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 12.13
+  },
+  {
+    "parroquia": "EL CISNE",
+    "id": 1135,
+    "votos": 71,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.26
+  },
+  {
+    "parroquia": "GUALEL",
+    "id": 1405,
+    "votos": 143,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 12.91
+  },
+  {
+    "parroquia": "QUINARA",
+    "id": 1780,
+    "votos": 46,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.73
+  },
+  {
+    "parroquia": "JIMBILLA",
+    "id": 1840,
+    "votos": 37,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.53
+  },
+  {
+    "parroquia": "MALACATOS/VALLADOLID",
+    "id": 2325,
+    "votos": 522,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 11.05
+  },
+  {
+    "parroquia": "SAN LUCAS",
+    "id": 3555,
+    "votos": 837,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 30.68
+  },
+  {
+    "parroquia": "SANTIAGO",
+    "id": 3770,
+    "votos": 63,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.98
+  },
+  {
+    "parroquia": "TAQUIL /MIGUEL RIOFRÍO",
+    "id": 3970,
+    "votos": 145,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.29
+  },
+  {
+    "parroquia": "VILCABAMBA/VICTORIA",
+    "id": 4235,
+    "votos": 285,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.75
+  },
+  {
+    "parroquia": "YANGANA / ARSENIO CASTILLO",
+    "id": 4280,
+    "votos": 134,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 13.37
+  },
+  {
+    "parroquia": "CHANTACO",
+    "id": 4475,
+    "votos": 82,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.88
+  },
+  {
+    "parroquia": "SAN PEDRO DE VILCABAMBA",
+    "id": 4540,
+    "votos": 139,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 19.97
+  },
+  {
+    "parroquia": "EL SAGRARIO",
+    "id": 5320,
+    "votos": 1367,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.87
+  },
+  {
+    "parroquia": "SAN SEBASTIÁN",
+    "id": 6015,
+    "votos": 1998,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.97
+  },
+  {
+    "parroquia": "SUCRE",
+    "id": 6100,
+    "votos": 3761,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.58
+  },
+  {
+    "parroquia": "VALLE",
+    "id": 6210,
+    "votos": 2228,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.1
+  }
+]

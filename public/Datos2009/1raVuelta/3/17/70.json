@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "MACHACHI",
+        "id": 5620,
+        "votos": 91,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.52
+    },
+    {
+        "parroquia": "UYUMBICHO",
+        "id": 4155,
+        "votos": 15,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.68
+    },
+    {
+        "parroquia": "TAMBILLO",
+        "id": 3960,
+        "votos": 21,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.44
+    },
+    {
+        "parroquia": "CHAUPI",
+        "id": 850,
+        "votos": 5,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.78
+    },
+    {
+        "parroquia": "CUTUGLAGUA",
+        "id": 755,
+        "votos": 14,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.32
+    },
+    {
+        "parroquia": "CORNEJO ASTORGA /TANDAPI",
+        "id": 650,
+        "votos": 6,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.56
+    },
+    {
+        "parroquia": "ALOASI",
+        "id": 60,
+        "votos": 11,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.44
+    },
+    {
+        "parroquia": "ALOAG",
+        "id": 55,
+        "votos": 22,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.5
+    }
+]

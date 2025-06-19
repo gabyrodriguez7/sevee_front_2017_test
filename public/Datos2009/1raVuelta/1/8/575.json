@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "ROSA ZARATE",
+        "id": 5895,
+        "votos": 790,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.62
+    },
+    {
+        "parroquia": "VICHE",
+        "id": 4230,
+        "votos": 39,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.51
+    },
+    {
+        "parroquia": "MALIMPIA / GUAYLLABAMBA",
+        "id": 2345,
+        "votos": 63,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.5
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 1530,
+        "votos": 137,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.06
+    },
+    {
+        "parroquia": "CHURA",
+        "id": 980,
+        "votos": 7,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.5
+    },
+    {
+        "parroquia": "CUBE / CHANCAMA",
+        "id": 700,
+        "votos": 30,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 4.04
+    }
+]

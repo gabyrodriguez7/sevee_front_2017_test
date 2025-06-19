@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "JERUSALÉN",
+    "id": 1085,
+    "votos": 209,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 53.18
+  },
+  {
+    "parroquia": "NAZÓN",
+    "id": 2545,
+    "votos": 615,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 33.28
+  },
+  {
+    "parroquia": "SAN FCO. DE SAGEO",
+    "id": 3410,
+    "votos": 318,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 43.03
+  },
+  {
+    "parroquia": "TURUPAMBA",
+    "id": 4100,
+    "votos": 255,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 62.65
+  },
+  {
+    "parroquia": "BIBLIÁN",
+    "id": 5115,
+    "votos": 3865,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 44.75
+  }
+]

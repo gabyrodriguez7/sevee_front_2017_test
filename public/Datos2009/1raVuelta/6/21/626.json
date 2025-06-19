@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "TARAPOA",
+    "id": 6765,
+    "votos": 18,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.69
+  },
+  {
+    "parroquia": "AGUAS NEGRAS",
+    "id": 1555,
+    "votos": 5,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.92
+  },
+  {
+    "parroquia": "CUYABENO",
+    "id": 760,
+    "votos": 1,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.56
+  }
+]

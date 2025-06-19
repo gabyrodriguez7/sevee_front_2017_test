@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "LEONIDAS PLAZA G.",
+        "id": 5580,
+        "votos": 8,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.34
+    },
+    {
+        "parroquia": "BAHIA DE CARAQUEZ",
+        "id": 5095,
+        "votos": 63,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.57
+    },
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 3445,
+        "votos": 27,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.47
+    },
+    {
+        "parroquia": "CHARAPOTO",
+        "id": 840,
+        "votos": 57,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.55
+    }
+]

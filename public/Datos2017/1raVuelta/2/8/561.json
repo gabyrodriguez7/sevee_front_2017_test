@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "CHONTADURO",
+    "id": 930,
+    "votos": 48,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.71
+  },
+  {
+    "parroquia": "CHUMUNDÉ",
+    "id": 965,
+    "votos": 60,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.64
+  },
+  {
+    "parroquia": "LAGARTO",
+    "id": 2035,
+    "votos": 110,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.09
+  },
+  {
+    "parroquia": "MONTALVO / HORQUETA",
+    "id": 2445,
+    "votos": 155,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.22
+  },
+  {
+    "parroquia": "ROCAFUERTE",
+    "id": 3215,
+    "votos": 195,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.91
+  },
+  {
+    "parroquia": "RÍO VERDE",
+    "id": 6720,
+    "votos": 196,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.69
+  }
+]

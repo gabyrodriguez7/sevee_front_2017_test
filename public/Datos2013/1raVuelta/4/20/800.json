@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "EL PROGRESO",
+        "id": 1220,
+        "votos": 4,
+        "candidato": "Acosta Alberto",
+        "value": 1.3
+    },
+    {
+        "parroquia": "ISLA SANTA MARIA",
+        "id": 4415,
+        "votos": 1,
+        "candidato": "Acosta Alberto",
+        "value": 1.1
+    },
+    {
+        "parroquia": "PTO. BAQUERIZO MORENO",
+        "id": 6510,
+        "votos": 75,
+        "candidato": "Acosta Alberto",
+        "value": 2.01
+    }
+]

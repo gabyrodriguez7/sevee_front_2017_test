@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "SEVILLA DE ORO",
+        "id": 6480,
+        "votos": 3,
+        "candidato": "Melba Jacome",
+        "value": 0.2
+    },
+    {
+        "parroquia": "PALMAS",
+        "id": 2725,
+        "votos": 3,
+        "candidato": "Melba Jacome",
+        "value": 0.23
+    },
+    {
+        "parroquia": "AMALUZA",
+        "id": 85,
+        "votos": 3,
+        "candidato": "Melba Jacome",
+        "value": 0.7
+    }
+]

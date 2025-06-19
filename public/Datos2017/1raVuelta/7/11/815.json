@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "BUENAVISTA",
+    "id": 385,
+    "votos": 14,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.73
+  },
+  {
+    "parroquia": "EL ROSARIO",
+    "id": 1180,
+    "votos": 6,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.03
+  },
+  {
+    "parroquia": "AMARILLOS",
+    "id": 1450,
+    "votos": 2,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.7
+  },
+  {
+    "parroquia": "SANTA RUFINA",
+    "id": 3755,
+    "votos": 12,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.85
+  },
+  {
+    "parroquia": "CHAGUARPAMBA",
+    "id": 6530,
+    "votos": 36,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.27
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "WILFRIDO LOOR MOREIRA",
+    "id": 1070,
+    "votos": 528,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 44.52
+  },
+  {
+    "parroquia": "SAN PEDRO DE SUMA",
+    "id": 1980,
+    "votos": 810,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 46.55
+  },
+  {
+    "parroquia": "EL CARMEN",
+    "id": 5300,
+    "votos": 25585,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 47.62
+  },
+  {
+    "parroquia": "4 DE DICIEMBRE",
+    "id": 6195,
+    "votos": 911,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 45.76
+  }
+]

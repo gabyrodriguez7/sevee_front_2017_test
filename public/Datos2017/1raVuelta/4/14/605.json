@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "COPAL",
+    "id": 645,
+    "votos": 3,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 1.21
+  },
+  {
+    "parroquia": "CHUPIANZA",
+    "id": 970,
+    "votos": 13,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 3.87
+  },
+  {
+    "parroquia": "SAN FCO. DE CHINIMBIMI",
+    "id": 1365,
+    "votos": 14,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 2.18
+  },
+  {
+    "parroquia": "PATUCA",
+    "id": 2795,
+    "votos": 40,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.17
+  },
+  {
+    "parroquia": "SAN LUIS DEL ACHO",
+    "id": 3565,
+    "votos": 6,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 1.69
+  },
+  {
+    "parroquia": "TAYUZA",
+    "id": 4115,
+    "votos": 29,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 3.63
+  },
+  {
+    "parroquia": "MÉNDEZ",
+    "id": 5645,
+    "votos": 110,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 4.56
+  }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "BUENAVISTA",
+        "id": 390,
+        "votos": 39,
+        "candidato": "Zavala Nelson",
+        "value": 1.08
+    },
+    {
+        "parroquia": "CA�AQUEMADA",
+        "id": 775,
+        "votos": 11,
+        "candidato": "Zavala Nelson",
+        "value": 2.455
+    },
+    {
+        "parroquia": "PROGRESO",
+        "id": 1225,
+        "votos": 18,
+        "candidato": "Zavala Nelson",
+        "value": 1.196
+    },
+    {
+        "parroquia": "LA PEA�A",
+        "id": 2075,
+        "votos": 41,
+        "candidato": "Zavala Nelson",
+        "value": 2.0
+    },
+    {
+        "parroquia": "UZHCURRUMI",
+        "id": 4160,
+        "votos": 8,
+        "candidato": "Zavala Nelson",
+        "value": 0.9547
+    },
+    {
+        "parroquia": "CASACAY",
+        "id": 4495,
+        "votos": 4,
+        "candidato": "Zavala Nelson",
+        "value": 0.3968
+    },
+    {
+        "parroquia": "OCHOA LEON/MATRIZ",
+        "id": 5770,
+        "votos": 502,
+        "candidato": "Zavala Nelson",
+        "value": 1.44307
+    },
+    {
+        "parroquia": "LOMA DE FRANCO",
+        "id": 6365,
+        "votos": 12,
+        "candidato": "Zavala Nelson",
+        "value": 2.01342
+    },
+    {
+        "parroquia": "BOLIVAR",
+        "id": 6370,
+        "votos": 2,
+        "candidato": "Zavala Nelson",
+        "value": 0.5
+    },
+    {
+        "parroquia": "TRES CERRITOS",
+        "id": 6375,
+        "votos": 4,
+        "candidato": "Zavala Nelson",
+        "value": 1.253918
+    },
+    {
+        "parroquia": "PASAJE",
+        "id": 6940,
+        "votos": 2,
+        "candidato": "Zavala Nelson",
+        "value": 0.77
+    }
+]

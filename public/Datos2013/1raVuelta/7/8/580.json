@@ -1,0 +1,93 @@
+[
+    {
+        "parroquia": "ALTO TAMBO/GUADAL",
+        "id": 70,
+        "votos": 39,
+        "candidato": "Zavala Nelson",
+        "value": 8.07
+    },
+    {
+        "parroquia": "ANCON/PALMA REAL",
+        "id": 110,
+        "votos": 11,
+        "candidato": "Zavala Nelson",
+        "value": 1.9
+    },
+    {
+        "parroquia": "CALDERON",
+        "id": 435,
+        "votos": 16,
+        "candidato": "Zavala Nelson",
+        "value": 4.52
+    },
+    {
+        "parroquia": "CARONDELET",
+        "id": 535,
+        "votos": 35,
+        "candidato": "Zavala Nelson",
+        "value": 8.0
+    },
+    {
+        "parroquia": "5 DE JUNIO/HUIMBI",
+        "id": 570,
+        "votos": 13,
+        "candidato": "Zavala Nelson",
+        "value": 9.0
+    },
+    {
+        "parroquia": "CONCEPCION",
+        "id": 620,
+        "votos": 20,
+        "candidato": "Zavala Nelson",
+        "value": 3.95
+    },
+    {
+        "parroquia": "MATAJE",
+        "id": 2395,
+        "votos": 6,
+        "candidato": "Zavala Nelson",
+        "value": 2.41
+    },
+    {
+        "parroquia": "SAN JAVIER DE CACHABI",
+        "id": 3455,
+        "votos": 48,
+        "candidato": "Zavala Nelson",
+        "value": 15.0
+    },
+    {
+        "parroquia": "SANTA RITA",
+        "id": 3725,
+        "votos": 6,
+        "candidato": "Zavala Nelson",
+        "value": 1.1
+    },
+    {
+        "parroquia": "TAMBILLO",
+        "id": 3955,
+        "votos": 29,
+        "candidato": "Zavala Nelson",
+        "value": 5.3
+    },
+    {
+        "parroquia": "TULULBI /RICAURTE",
+        "id": 4075,
+        "votos": 62,
+        "candidato": "Zavala Nelson",
+        "value": 10.164
+    },
+    {
+        "parroquia": "URBINA",
+        "id": 4125,
+        "votos": 31,
+        "candidato": "Zavala Nelson",
+        "value": 7.888
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 6130,
+        "votos": 368,
+        "candidato": "Zavala Nelson",
+        "value": 3.85
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "LODANA",
+        "id": 6725,
+        "votos": 6,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.17
+    },
+    {
+        "parroquia": "SANTA ANA",
+        "id": 6030,
+        "votos": 94,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.71
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 2135,
+        "votos": 10,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.47
+    },
+    {
+        "parroquia": "HONORATO VASQUEZ",
+        "id": 1610,
+        "votos": 10,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.43
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 1105,
+        "votos": 6,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.48
+    },
+    {
+        "parroquia": "AYACUCHO",
+        "id": 220,
+        "votos": 22,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.63
+    }
+]

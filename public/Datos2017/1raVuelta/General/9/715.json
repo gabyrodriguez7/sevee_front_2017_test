@@ -1,0 +1,35 @@
+[
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "VITERI JIMENEZ CYNTHIA FERNANDA",
+        "id": 185,
+        "votos": 1664,
+        "votos1": 966,
+        "votos2": 308,
+        "fill": "#1eff00",
+        "porcentaje1": 58.05,
+        "porcentaje2": 18.51
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 1670,
+        "votos": 2400,
+        "votos1": 1278,
+        "votos2": 395,
+        "fill": "#1eff00",
+        "porcentaje1": 53.25,
+        "porcentaje2": 16.46
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "VITERI JIMENEZ CYNTHIA FERNANDA",
+        "id": 5735,
+        "votos": 24043,
+        "votos1": 10921,
+        "votos2": 4909,
+        "fill": "#1eff00",
+        "porcentaje1": 45.42,
+        "porcentaje2": 20.42
+    }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "parroquia": "AMBATILLO",
+    "id": 95,
+    "votos": 32,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.08
+  },
+  {
+    "parroquia": "ATAHUALPA /CHIPZALATA",
+    "id": 190,
+    "votos": 68,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.11
+  },
+  {
+    "parroquia": "AUGUSTO N. MARTÍNEZ",
+    "id": 210,
+    "votos": 66,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.06
+  },
+  {
+    "parroquia": "CONSTANTINO FERNÁNDEZ",
+    "id": 635,
+    "votos": 26,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.52
+  },
+  {
+    "parroquia": "CUNCHIBAMBA",
+    "id": 800,
+    "votos": 23,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.95
+  },
+  {
+    "parroquia": "UNAMUNCHO",
+    "id": 810,
+    "votos": 45,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 2.88
+  },
+  {
+    "parroquia": "HUACHI GRANDE",
+    "id": 1625,
+    "votos": 46,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.81
+  },
+  {
+    "parroquia": "IZAMBA",
+    "id": 1745,
+    "votos": 216,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.66
+  },
+  {
+    "parroquia": "JUAN BENIGNO VELA",
+    "id": 1860,
+    "votos": 52,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.08
+  },
+  {
+    "parroquia": "MONTALVO",
+    "id": 2435,
+    "votos": 23,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.01
+  },
+  {
+    "parroquia": "PASA",
+    "id": 2775,
+    "votos": 51,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.28
+  },
+  {
+    "parroquia": "PICAYHUA",
+    "id": 2830,
+    "votos": 128,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.28
+  },
+  {
+    "parroquia": "PILAHUÍN",
+    "id": 2860,
+    "votos": 112,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.67
+  },
+  {
+    "parroquia": "QUISAPINCHA",
+    "id": 3120,
+    "votos": 141,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 2.08
+  },
+  {
+    "parroquia": "SAN BARTOLOMÉ",
+    "id": 3355,
+    "votos": 73,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.3
+  },
+  {
+    "parroquia": "SAN FERNANDO",
+    "id": 3380,
+    "votos": 13,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.86
+  },
+  {
+    "parroquia": "SANTA ROSA",
+    "id": 3730,
+    "votos": 150,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.39
+  },
+  {
+    "parroquia": "TOTORAS",
+    "id": 4065,
+    "votos": 47,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.09
+  },
+  {
+    "parroquia": "ATOCHA FICOA",
+    "id": 5045,
+    "votos": 90,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.91
+  },
+  {
+    "parroquia": "CELIANO MONGE",
+    "id": 5230,
+    "votos": 23,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.12
+  },
+  {
+    "parroquia": "HUACHI LORETO",
+    "id": 5445,
+    "votos": 451,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.05
+  },
+  {
+    "parroquia": "HUACHI CHICO",
+    "id": 5455,
+    "votos": 217,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.03
+  },
+  {
+    "parroquia": "LA MATRIZ",
+    "id": 5545,
+    "votos": 203,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.89
+  },
+  {
+    "parroquia": "LA MERCED",
+    "id": 5560,
+    "votos": 144,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.83
+  },
+  {
+    "parroquia": "LA PENINSULA",
+    "id": 5605,
+    "votos": 14,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.96
+  },
+  {
+    "parroquia": "PISHILATA",
+    "id": 5840,
+    "votos": 40,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.85
+  },
+  {
+    "parroquia": "SAN FRANCISCO",
+    "id": 5945,
+    "votos": 66,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.14
+  }
+]

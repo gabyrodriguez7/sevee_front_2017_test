@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "HUAQUILLAS",
+    "id": 5460,
+    "votos": 82,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.31
+  },
+  {
+    "parroquia": "HUALTACO",
+    "id": 6800,
+    "votos": 3,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.41
+  },
+  {
+    "parroquia": "MILTON REYES",
+    "id": 6805,
+    "votos": 0,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0
+  },
+  {
+    "parroquia": "EL PARAÍSO",
+    "id": 6810,
+    "votos": 1,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.18
+  },
+  {
+    "parroquia": "ECUADOR",
+    "id": 6815,
+    "votos": 1,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.11
+  },
+  {
+    "parroquia": "UNIÓN LOJANA",
+    "id": 6820,
+    "votos": 9,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.52
+  }
+]

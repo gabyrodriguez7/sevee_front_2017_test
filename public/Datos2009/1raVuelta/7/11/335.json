@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "GONZANAMA",
+        "id": 5400,
+        "votos": 236,
+        "candidato": "Alvaro Noboa",
+        "value": 10.66
+    },
+    {
+        "parroquia": "SACAPALCA",
+        "id": 3270,
+        "votos": 27,
+        "candidato": "Alvaro Noboa",
+        "value": 3.6
+    },
+    {
+        "parroquia": "PURUNUMA /EGUIGUREN",
+        "id": 3045,
+        "votos": 39,
+        "candidato": "Alvaro Noboa",
+        "value": 6.96
+    },
+    {
+        "parroquia": "NAMBACOLA",
+        "id": 2520,
+        "votos": 70,
+        "candidato": "Alvaro Noboa",
+        "value": 4.12
+    },
+    {
+        "parroquia": "CHANGAIMINA /LA LIBERTAD",
+        "id": 825,
+        "votos": 61,
+        "candidato": "Alvaro Noboa",
+        "value": 5.04
+    }
+]

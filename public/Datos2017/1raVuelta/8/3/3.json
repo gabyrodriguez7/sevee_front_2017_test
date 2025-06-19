@@ -1,0 +1,44 @@
+[
+    {
+        "canton": 235,
+        "candidato": "ESPINEL MOLINA JOSE IVAN",
+        "votos": 1303,
+        "value": 34.39
+    },
+    {
+        "canton": 240,
+        "candidato": "ESPINEL MOLINA JOSE IVAN",
+        "votos": 778,
+        "value": 20.53
+    },
+    {
+        "canton": 241,
+        "candidato": "ESPINEL MOLINA JOSE IVAN",
+        "votos": 47,
+        "value": 1.24
+    },
+    {
+        "canton": 245,
+        "candidato": "ESPINEL MOLINA JOSE IVAN",
+        "votos": 325,
+        "value": 8.58
+    },
+    {
+        "canton": 250,
+        "candidato": "ESPINEL MOLINA JOSE IVAN",
+        "votos": 1114,
+        "value": 29.4
+    },
+    {
+        "canton": 765,
+        "candidato": "ESPINEL MOLINA JOSE IVAN",
+        "votos": 151,
+        "value": 3.99
+    },
+    {
+        "canton": 905,
+        "candidato": "ESPINEL MOLINA JOSE IVAN",
+        "votos": 71,
+        "value": 1.87
+    }
+]

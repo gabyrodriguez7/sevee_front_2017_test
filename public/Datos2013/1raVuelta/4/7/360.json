@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "ABANIN",
+        "id": 5,
+        "votos": 20,
+        "candidato": "Acosta Alberto",
+        "value": 2.401
+    },
+    {
+        "parroquia": "GUANAZAN",
+        "id": 1420,
+        "votos": 37,
+        "candidato": "Acosta Alberto",
+        "value": 2.26
+    },
+    {
+        "parroquia": "GUIZHAGUIÑA",
+        "id": 1425,
+        "votos": 25,
+        "candidato": "Acosta Alberto",
+        "value": 3.42
+    },
+    {
+        "parroquia": "HUERTAS",
+        "id": 1655,
+        "votos": 36,
+        "candidato": "Acosta Alberto",
+        "value": 2.771
+    },
+    {
+        "parroquia": "SINSAO",
+        "id": 1700,
+        "votos": 24,
+        "candidato": "Acosta Alberto",
+        "value": 4.4199
+    },
+    {
+        "parroquia": "SALVIAS",
+        "id": 1750,
+        "votos": 14,
+        "candidato": "Acosta Alberto",
+        "value": 3.753
+    },
+    {
+        "parroquia": "MALVAS",
+        "id": 2350,
+        "votos": 25,
+        "candidato": "Acosta Alberto",
+        "value": 4.3029
+    },
+    {
+        "parroquia": "ARCAPAMBA",
+        "id": 4445,
+        "votos": 25,
+        "candidato": "Acosta Alberto",
+        "value": 3.698224852
+    },
+    {
+        "parroquia": "MULUNCAY GRANDE",
+        "id": 4450,
+        "votos": 20,
+        "candidato": "Acosta Alberto",
+        "value": 4.1237
+    },
+    {
+        "parroquia": "ZARUMA",
+        "id": 6310,
+        "votos": 595,
+        "candidato": "Acosta Alberto",
+        "value": 7.36
+    }
+]

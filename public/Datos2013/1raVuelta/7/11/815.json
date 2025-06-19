@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "BUENAVISTA",
+        "id": 385,
+        "votos": 5,
+        "candidato": "Zavala Nelson",
+        "value": 1.0
+    },
+    {
+        "parroquia": "EL ROSARIO",
+        "id": 1180,
+        "votos": 5,
+        "candidato": "Zavala Nelson",
+        "value": 1.9
+    },
+    {
+        "parroquia": "AMARILLOS",
+        "id": 1450,
+        "votos": 1,
+        "candidato": "Zavala Nelson",
+        "value": 0.5
+    },
+    {
+        "parroquia": "SANTA RUFINA",
+        "id": 3755,
+        "votos": 8,
+        "candidato": "Zavala Nelson",
+        "value": 1.4
+    },
+    {
+        "parroquia": "CHAGUARPAMBA",
+        "id": 6530,
+        "votos": 6,
+        "candidato": "Zavala Nelson",
+        "value": 0.23
+    }
+]

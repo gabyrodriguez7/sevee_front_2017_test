@@ -1,0 +1,86 @@
+[
+  {
+    "parroquia": "CHONTAMARCA",
+    "id": 935,
+    "votos": 536,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 28.11
+  },
+  {
+    "parroquia": "CHOROCOPTE",
+    "id": 950,
+    "votos": 467,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 35.79
+  },
+  {
+    "parroquia": "GRAL.MORALES / SOCARTE",
+    "id": 1335,
+    "votos": 410,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 37.58
+  },
+  {
+    "parroquia": "GUALLETURO",
+    "id": 1410,
+    "votos": 621,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 39.35
+  },
+  {
+    "parroquia": "HONORATO VÁSQUEZ",
+    "id": 1605,
+    "votos": 1137,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 41.15
+  },
+  {
+    "parroquia": "INGAPIRCA",
+    "id": 1725,
+    "votos": 1370,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 34.76
+  },
+  {
+    "parroquia": "VENTURA",
+    "id": 1775,
+    "votos": 160,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 37.65
+  },
+  {
+    "parroquia": "DUCUR",
+    "id": 1895,
+    "votos": 549,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 37.07
+  },
+  {
+    "parroquia": "JUNCAL",
+    "id": 1900,
+    "votos": 308,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 30.86
+  },
+  {
+    "parroquia": "SAN ANTONIO",
+    "id": 3305,
+    "votos": 443,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 43.65
+  },
+  {
+    "parroquia": "ZHUD",
+    "id": 4345,
+    "votos": 382,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 39.22
+  },
+  {
+    "parroquia": "CAÑAR",
+    "id": 5160,
+    "votos": 4705,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 32.23
+  }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CURTINCAPAC",
+        "id": 740,
+        "votos": 209,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 52.12
+    },
+    {
+        "parroquia": "SALATI",
+        "id": 3275,
+        "votos": 368,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 56.97
+    },
+    {
+        "parroquia": "MORALES",
+        "id": 4520,
+        "votos": 353,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 67.75
+    },
+    {
+        "parroquia": "PORTOVELO",
+        "id": 5850,
+        "votos": 4485,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 62.03
+    }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "ANTONIO J. HOLGUIN",
+    "id": 135,
+    "votos": 16,
+    "candidato": "Zavala Nelson",
+    "value": 1.0
+  },
+  {
+    "parroquia": "CUSUBAMBA",
+    "id": 745,
+    "votos": 31,
+    "candidato": "Zavala Nelson",
+    "value": 1.0
+  },
+  {
+    "parroquia": "MULALILLO",
+    "id": 2475,
+    "votos": 27,
+    "candidato": "Zavala Nelson",
+    "value": 0.7
+  },
+  {
+    "parroquia": "MULLIQUINDIL",
+    "id": 2490,
+    "votos": 18,
+    "candidato": "Zavala Nelson",
+    "value": 0.42
+  },
+  {
+    "parroquia": "PANZALEO",
+    "id": 2760,
+    "votos": 7,
+    "candidato": "Zavala Nelson",
+    "value": 0.35
+  },
+  {
+    "parroquia": "SAN MIGUEL DE SALCEDO",
+    "id": 6000,
+    "votos": 137,
+    "candidato": "Zavala Nelson",
+    "value": 1.0
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "PUERTO PECHICHE",
+    "id": 3015,
+    "votos": 356,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.32
+  },
+  {
+    "parroquia": "SAN JUAN",
+    "id": 3510,
+    "votos": 1467,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 14.19
+  },
+  {
+    "parroquia": "PUEBLO VIEJO",
+    "id": 5800,
+    "votos": 1648,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 18.61
+  }
+]

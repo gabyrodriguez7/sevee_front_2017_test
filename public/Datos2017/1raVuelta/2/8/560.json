@@ -1,0 +1,93 @@
+[
+  {
+    "parroquia": "CAMARONES",
+    "id": 450,
+    "votos": 247,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 18.49
+  },
+  {
+    "parroquia": "CRNL.CARLOS CONCHA TORRES",
+    "id": 655,
+    "votos": 87,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.86
+  },
+  {
+    "parroquia": "CHINCA",
+    "id": 895,
+    "votos": 270,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 15.48
+  },
+  {
+    "parroquia": "MAJUA",
+    "id": 2320,
+    "votos": 171,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 16.18
+  },
+  {
+    "parroquia": "SAN MATEO",
+    "id": 3570,
+    "votos": 221,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.67
+  },
+  {
+    "parroquia": "TABIAZO",
+    "id": 3930,
+    "votos": 85,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.93
+  },
+  {
+    "parroquia": "TACHINA",
+    "id": 3940,
+    "votos": 133,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.87
+  },
+  {
+    "parroquia": "VUELTA LARGA",
+    "id": 4240,
+    "votos": 927,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.22
+  },
+  {
+    "parroquia": "BARTOLOMÉ RUÍZ",
+    "id": 5205,
+    "votos": 1325,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.71
+  },
+  {
+    "parroquia": "5 DE AGOSTO",
+    "id": 5210,
+    "votos": 2549,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.36
+  },
+  {
+    "parroquia": "ESMERALDAS",
+    "id": 5335,
+    "votos": 2283,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.49
+  },
+  {
+    "parroquia": "LUIS TELLO / LAS PALMAS /",
+    "id": 5600,
+    "votos": 407,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.14
+  },
+  {
+    "parroquia": "SIMÓN PLATA TORRES",
+    "id": 6905,
+    "votos": 450,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.43
+  }
+]

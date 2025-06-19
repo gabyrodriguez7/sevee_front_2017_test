@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "BELLA VISTA",
+    "id": 235,
+    "votos": 160,
+    "candidato": "Lasso Guillermo",
+    "value": 24.06
+  },
+  {
+    "parroquia": "SANTA ROSA",
+    "id": 1985,
+    "votos": 50,
+    "candidato": "Lasso Guillermo",
+    "value": 22.0
+  },
+  {
+    "parroquia": "PUERTO AYORA",
+    "id": 6505,
+    "votos": 1547,
+    "candidato": "Lasso Guillermo",
+    "value": 23.3
+  }
+]

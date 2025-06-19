@@ -1,0 +1,86 @@
+[
+  {
+    "parroquia": "DAYUMA",
+    "id": 1235,
+    "votos": 328,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.37
+  },
+  {
+    "parroquia": "TARACOA",
+    "id": 1245,
+    "votos": 84,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.36
+  },
+  {
+    "parroquia": "EL DORADO",
+    "id": 1560,
+    "votos": 135,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.35
+  },
+  {
+    "parroquia": "INÉS ARANGO",
+    "id": 1565,
+    "votos": 97,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.37
+  },
+  {
+    "parroquia": "EL EDÉN",
+    "id": 1590,
+    "votos": 13,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 3.48
+  },
+  {
+    "parroquia": "GARCÍA MORENO",
+    "id": 1810,
+    "votos": 48,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.6
+  },
+  {
+    "parroquia": "LA BELLEZA",
+    "id": 1820,
+    "votos": 109,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 4.67
+  },
+  {
+    "parroquia": "SAN LUIS DE ARMENIA",
+    "id": 1935,
+    "votos": 69,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.91
+  },
+  {
+    "parroquia": "NUEVO PARAÍSO",
+    "id": 1940,
+    "votos": 93,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.34
+  },
+  {
+    "parroquia": "SAN JOSÉ DE GUAYUSA",
+    "id": 1945,
+    "votos": 66,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.18
+  },
+  {
+    "parroquia": "ALEJANDRO LABAKA",
+    "id": 1995,
+    "votos": 21,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 3.74
+  },
+  {
+    "parroquia": "PTO. FCO. DE ORELLANA",
+    "id": 5815,
+    "votos": 3202,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.8
+  }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "LA ESPERANZA",
+        "id": 4420,
+        "votos": 88,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 5.4863
+    },
+    {
+        "parroquia": "SAN CARLOS",
+        "id": 4425,
+        "votos": 204,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.3713
+    },
+    {
+        "parroquia": "QUEVEDO",
+        "id": 5855,
+        "votos": 2777,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.3046
+    },
+    {
+        "parroquia": "SAN CAMILO",
+        "id": 6115,
+        "votos": 838,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.87039
+    },
+    {
+        "parroquia": "SAN CRISTOBAL",
+        "id": 6635,
+        "votos": 45,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 5.6675
+    },
+    {
+        "parroquia": "VENUS DEL RIO QUEVEDO",
+        "id": 6640,
+        "votos": 267,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 5.51084
+    },
+    {
+        "parroquia": "NICOLAS INFANTE DIAZ",
+        "id": 6645,
+        "votos": 104,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.9808
+    },
+    {
+        "parroquia": "GUAYACAN",
+        "id": 6650,
+        "votos": 182,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 6.5704
+    },
+    {
+        "parroquia": "SIETE DE OCTUBRE",
+        "id": 6655,
+        "votos": 204,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 5.859
+    },
+    {
+        "parroquia": "VIVA ALFARO",
+        "id": 6660,
+        "votos": 119,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 5.66937
+    },
+    {
+        "parroquia": "24 DE MAYO",
+        "id": 6690,
+        "votos": 94,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 5.34699
+    }
+]

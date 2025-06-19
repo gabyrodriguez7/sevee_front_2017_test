@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "BAEZA",
+    "id": 5090,
+    "votos": 22,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.89
+  },
+  {
+    "parroquia": "SUMACO",
+    "id": 3890,
+    "votos": 0,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 0.0
+  },
+  {
+    "parroquia": "SAN FRANCISCO DE BORJA",
+    "id": 3395,
+    "votos": 12,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.16
+  },
+  {
+    "parroquia": "PAPALLACTA",
+    "id": 2770,
+    "votos": 10,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.67
+  },
+  {
+    "parroquia": "CUYUJA",
+    "id": 765,
+    "votos": 1,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 0.38
+  },
+  {
+    "parroquia": "COSANGA",
+    "id": 670,
+    "votos": 7,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.14
+  }
+]

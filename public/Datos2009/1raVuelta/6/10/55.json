@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "URCUQUI",
+        "id": 6190,
+        "votos": 38,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.21
+    },
+    {
+        "parroquia": "TUMBABIRO",
+        "id": 4080,
+        "votos": 10,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.29
+    },
+    {
+        "parroquia": "SAN BLAS",
+        "id": 3365,
+        "votos": 15,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.88
+    },
+    {
+        "parroquia": "PABLO ARENAS",
+        "id": 2675,
+        "votos": 14,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.25
+    },
+    {
+        "parroquia": "LA MERCED DE BUENOS AIRES",
+        "id": 2060,
+        "votos": 5,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.61
+    },
+    {
+        "parroquia": "CAHUASQUI",
+        "id": 425,
+        "votos": 11,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.14
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "CUMBARATZA",
+        "id": 720,
+        "votos": 184,
+        "candidato": "Gutierrez Lucio",
+        "value": 8.76
+    },
+    {
+        "parroquia": "GUADALUPE",
+        "id": 1390,
+        "votos": 104,
+        "candidato": "Gutierrez Lucio",
+        "value": 5.963
+    },
+    {
+        "parroquia": "SAN CARLOS DE LAS MINAS",
+        "id": 1770,
+        "votos": 74,
+        "candidato": "Gutierrez Lucio",
+        "value": 7.378
+    },
+    {
+        "parroquia": "LA VICTORIA DE IMBANA",
+        "id": 2155,
+        "votos": 56,
+        "candidato": "Gutierrez Lucio",
+        "value": 9.82
+    },
+    {
+        "parroquia": "SABANILLA",
+        "id": 3260,
+        "votos": 50,
+        "candidato": "Gutierrez Lucio",
+        "value": 11.7
+    },
+    {
+        "parroquia": "TIMBARA",
+        "id": 4010,
+        "votos": 86,
+        "candidato": "Gutierrez Lucio",
+        "value": 11.421
+    },
+    {
+        "parroquia": "ZAMORA",
+        "id": 6305,
+        "votos": 564,
+        "candidato": "Gutierrez Lucio",
+        "value": 6.408
+    },
+    {
+        "parroquia": "EL LIMON",
+        "id": 6840,
+        "votos": 16,
+        "candidato": "Gutierrez Lucio",
+        "value": 5.351
+    }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "EL PLAYÓN DE SN. FRANCISCO",
+    "id": 1170,
+    "votos": 184,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 15.51
+  },
+  {
+    "parroquia": "LA SOFÍA",
+    "id": 2095,
+    "votos": 2,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 2.11
+  },
+  {
+    "parroquia": "ROSA FLORIDA",
+    "id": 3220,
+    "votos": 16,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.13
+  },
+  {
+    "parroquia": "SANTA BÁRBARA",
+    "id": 3690,
+    "votos": 35,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.7
+  },
+  {
+    "parroquia": "LA BONITA",
+    "id": 5525,
+    "votos": 49,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.33
+  }
+]

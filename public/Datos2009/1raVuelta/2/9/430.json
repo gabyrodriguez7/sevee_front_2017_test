@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "SAN MATEO",
+        "id": 5990,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.86
+    },
+    {
+        "parroquia": "PARAISO",
+        "id": 5765,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.84
+    },
+    {
+        "parroquia": "SALITRE",
+        "id": 5200,
+        "votos": 36,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.21
+    },
+    {
+        "parroquia": "CANDILEJOS",
+        "id": 5155,
+        "votos": 6,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.95
+    },
+    {
+        "parroquia": "BOCANA",
+        "id": 5120,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.52
+    },
+    {
+        "parroquia": "VICTORIA",
+        "id": 4220,
+        "votos": 5,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.32
+    },
+    {
+        "parroquia": "JUNQUILLAL",
+        "id": 1595,
+        "votos": 8,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.37
+    },
+    {
+        "parroquia": "GRAL. VERNAZA",
+        "id": 1350,
+        "votos": 10,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.3
+    }
+]

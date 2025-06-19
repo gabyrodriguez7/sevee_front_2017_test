@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "SANTA MARIANITA",
+    "id": 1800,
+    "votos": 45,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 2.78
+  },
+  {
+    "parroquia": "SAN LORENZO",
+    "id": 3550,
+    "votos": 55,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 2.86
+  },
+  {
+    "parroquia": "LOS ESTEROS",
+    "id": 5570,
+    "votos": 1080,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.45
+  },
+  {
+    "parroquia": "MANTA",
+    "id": 5635,
+    "votos": 3613,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.71
+  },
+  {
+    "parroquia": "SAN MATEO",
+    "id": 6135,
+    "votos": 88,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 3.79
+  },
+  {
+    "parroquia": "TARQUI",
+    "id": 6155,
+    "votos": 2777,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.27
+  },
+  {
+    "parroquia": "ELOY ALFARO",
+    "id": 6745,
+    "votos": 929,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 4.52
+  }
+]

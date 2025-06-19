@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "SAN FRANCISCO",
+        "id": 5955,
+        "votos": 53,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.82
+    },
+    {
+        "parroquia": "SAGRARIO",
+        "id": 5910,
+        "votos": 72,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.37
+    },
+    {
+        "parroquia": "VACAS GALINDO",
+        "id": 4185,
+        "votos": 1,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.35
+    },
+    {
+        "parroquia": "6 DE JULIO DE CUELLAJE",
+        "id": 3800,
+        "votos": 3,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.37
+    },
+    {
+        "parroquia": "QUIROGA",
+        "id": 3115,
+        "votos": 42,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.23
+    },
+    {
+        "parroquia": "PLAZA GUTIERREZ/CALVARIO",
+        "id": 2915,
+        "votos": 2,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.84
+    },
+    {
+        "parroquia": "PEÑAHERRERA",
+        "id": 2820,
+        "votos": 1,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.12
+    },
+    {
+        "parroquia": "IMANTAG",
+        "id": 1710,
+        "votos": 18,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.84
+    },
+    {
+        "parroquia": "GARCIA MORENO / LLURIMAGUA",
+        "id": 1310,
+        "votos": 21,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.74
+    },
+    {
+        "parroquia": "APUELA",
+        "id": 145,
+        "votos": 8,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.95
+    }
+]

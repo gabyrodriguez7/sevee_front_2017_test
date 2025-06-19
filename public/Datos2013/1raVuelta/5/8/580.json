@@ -1,0 +1,93 @@
+[
+    {
+        "parroquia": "ALTO TAMBO/GUADAL",
+        "id": 70,
+        "votos": 29,
+        "candidato": "Gutierrez Lucio",
+        "value": 6.0
+    },
+    {
+        "parroquia": "ANCON/PALMA REAL",
+        "id": 110,
+        "votos": 2,
+        "candidato": "Gutierrez Lucio",
+        "value": 0.3
+    },
+    {
+        "parroquia": "CALDERON",
+        "id": 435,
+        "votos": 4,
+        "candidato": "Gutierrez Lucio",
+        "value": 1.13
+    },
+    {
+        "parroquia": "CARONDELET",
+        "id": 535,
+        "votos": 18,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.0
+    },
+    {
+        "parroquia": "5 DE JUNIO/HUIMBI",
+        "id": 570,
+        "votos": 4,
+        "candidato": "Gutierrez Lucio",
+        "value": 3.0
+    },
+    {
+        "parroquia": "CONCEPCION",
+        "id": 620,
+        "votos": 20,
+        "candidato": "Gutierrez Lucio",
+        "value": 3.95
+    },
+    {
+        "parroquia": "MATAJE",
+        "id": 2395,
+        "votos": 9,
+        "candidato": "Gutierrez Lucio",
+        "value": 3.614
+    },
+    {
+        "parroquia": "SAN JAVIER DE CACHABI",
+        "id": 3455,
+        "votos": 4,
+        "candidato": "Gutierrez Lucio",
+        "value": 1.3
+    },
+    {
+        "parroquia": "SANTA RITA",
+        "id": 3725,
+        "votos": 13,
+        "candidato": "Gutierrez Lucio",
+        "value": 2.5
+    },
+    {
+        "parroquia": "TAMBILLO",
+        "id": 3955,
+        "votos": 9,
+        "candidato": "Gutierrez Lucio",
+        "value": 1.6
+    },
+    {
+        "parroquia": "TULULBI /RICAURTE",
+        "id": 4075,
+        "votos": 30,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.918
+    },
+    {
+        "parroquia": "URBINA",
+        "id": 4125,
+        "votos": 13,
+        "candidato": "Gutierrez Lucio",
+        "value": 3.308
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 6130,
+        "votos": 142,
+        "candidato": "Gutierrez Lucio",
+        "value": 1.48
+    }
+]

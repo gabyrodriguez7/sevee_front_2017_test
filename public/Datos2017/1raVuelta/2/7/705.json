@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "AYAPAMBA",
+    "id": 225,
+    "votos": 43,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.92
+  },
+  {
+    "parroquia": "SAN JUAN DE CERRO AZUL",
+    "id": 375,
+    "votos": 7,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.44
+  },
+  {
+    "parroquia": "CORDONCILLO",
+    "id": 4480,
+    "votos": 12,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.99
+  },
+  {
+    "parroquia": "SAN JOSÉ",
+    "id": 4530,
+    "votos": 14,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.93
+  },
+  {
+    "parroquia": "MILAGRO",
+    "id": 4535,
+    "votos": 3,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.26
+  },
+  {
+    "parroquia": "PACCHA",
+    "id": 5745,
+    "votos": 46,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.26
+  }
+]

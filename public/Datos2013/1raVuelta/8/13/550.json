@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "BACHILLERO",
+        "id": 265,
+        "votos": 80,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.1
+    },
+    {
+        "parroquia": "ANGEL PEDRO GILER",
+        "id": 2030,
+        "votos": 108,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.1
+    },
+    {
+        "parroquia": "TOSAGUA",
+        "id": 6170,
+        "votos": 612,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.18
+    }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "AMALUZA",
+    "id": 85,
+    "votos": 5,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.83
+  },
+  {
+    "parroquia": "PALMAS",
+    "id": 2725,
+    "votos": 6,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.35
+  },
+  {
+    "parroquia": "SEVILLA DE ORO",
+    "id": 6480,
+    "votos": 7,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.4
+  }
+]

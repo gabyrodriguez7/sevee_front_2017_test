@@ -1,0 +1,254 @@
+[
+  {
+    "parroquia": "HERMANO MIGUEL",
+    "id": 6865,
+    "votos": 601,
+    "candidato": "Lucio Gutierrez",
+    "value": 15.81
+  },
+  {
+    "parroquia": "SUCRE",
+    "id": 6090,
+    "votos": 2797,
+    "candidato": "Lucio Gutierrez",
+    "value": 19.24
+  },
+  {
+    "parroquia": "SAN SEBASTIAN",
+    "id": 6010,
+    "votos": 3969,
+    "candidato": "Lucio Gutierrez",
+    "value": 19.81
+  },
+  {
+    "parroquia": "SAN BLAS",
+    "id": 5930,
+    "votos": 3011,
+    "candidato": "Lucio Gutierrez",
+    "value": 18.55
+  },
+  {
+    "parroquia": "SAGRARIO",
+    "id": 5905,
+    "votos": 3017,
+    "candidato": "Lucio Gutierrez",
+    "value": 18.22
+  },
+  {
+    "parroquia": "RAMIREZ DAVALOS",
+    "id": 5875,
+    "votos": 1577,
+    "candidato": "Lucio Gutierrez",
+    "value": 18.25
+  },
+  {
+    "parroquia": "HUAYNACAPAC",
+    "id": 5450,
+    "votos": 2230,
+    "candidato": "Lucio Gutierrez",
+    "value": 21.21
+  },
+  {
+    "parroquia": "YANUNCAY",
+    "id": 5370,
+    "votos": 1635,
+    "candidato": "Lucio Gutierrez",
+    "value": 16.09
+  },
+  {
+    "parroquia": "TOTORACOCHA",
+    "id": 5360,
+    "votos": 2017,
+    "candidato": "Lucio Gutierrez",
+    "value": 16.87
+  },
+  {
+    "parroquia": "EL VECINO",
+    "id": 5330,
+    "votos": 4591,
+    "candidato": "Lucio Gutierrez",
+    "value": 17.99
+  },
+  {
+    "parroquia": "MONAY",
+    "id": 5290,
+    "votos": 947,
+    "candidato": "Lucio Gutierrez",
+    "value": 15.2
+  },
+  {
+    "parroquia": "MACHANGARA",
+    "id": 5140,
+    "votos": 792,
+    "candidato": "Lucio Gutierrez",
+    "value": 20.14
+  },
+  {
+    "parroquia": "EL BATAN",
+    "id": 5135,
+    "votos": 1258,
+    "candidato": "Lucio Gutierrez",
+    "value": 20.21
+  },
+  {
+    "parroquia": "CAÑARIBAMBA",
+    "id": 5080,
+    "votos": 874,
+    "candidato": "Lucio Gutierrez",
+    "value": 15.08
+  },
+  {
+    "parroquia": "BELLAVISTA",
+    "id": 5075,
+    "votos": 1338,
+    "candidato": "Lucio Gutierrez",
+    "value": 15.21
+  },
+  {
+    "parroquia": "VICTORIA DEL PORTETE",
+    "id": 4225,
+    "votos": 631,
+    "candidato": "Lucio Gutierrez",
+    "value": 31.67
+  },
+  {
+    "parroquia": "VALLE",
+    "id": 4200,
+    "votos": 1845,
+    "candidato": "Lucio Gutierrez",
+    "value": 24.24
+  },
+  {
+    "parroquia": "TURI",
+    "id": 4095,
+    "votos": 642,
+    "candidato": "Lucio Gutierrez",
+    "value": 23.19
+  },
+  {
+    "parroquia": "TARQUI",
+    "id": 3980,
+    "votos": 1089,
+    "candidato": "Lucio Gutierrez",
+    "value": 25.49
+  },
+  {
+    "parroquia": "SININCAY",
+    "id": 3870,
+    "votos": 1137,
+    "candidato": "Lucio Gutierrez",
+    "value": 23.54
+  },
+  {
+    "parroquia": "SIDCAY",
+    "id": 3850,
+    "votos": 334,
+    "candidato": "Lucio Gutierrez",
+    "value": 17.56
+  },
+  {
+    "parroquia": "SAYAUSI",
+    "id": 3795,
+    "votos": 1048,
+    "candidato": "Lucio Gutierrez",
+    "value": 20.37
+  },
+  {
+    "parroquia": "SANTA ANA",
+    "id": 3685,
+    "votos": 532,
+    "candidato": "Lucio Gutierrez",
+    "value": 18.75
+  },
+  {
+    "parroquia": "SAN JOAQUIN",
+    "id": 3460,
+    "votos": 788,
+    "candidato": "Lucio Gutierrez",
+    "value": 20.41
+  },
+  {
+    "parroquia": "RICAURTE",
+    "id": 3165,
+    "votos": 1727,
+    "candidato": "Lucio Gutierrez",
+    "value": 21.18
+  },
+  {
+    "parroquia": "QUINGEO",
+    "id": 3105,
+    "votos": 706,
+    "candidato": "Lucio Gutierrez",
+    "value": 28.37
+  },
+  {
+    "parroquia": "PACCHA",
+    "id": 2680,
+    "votos": 521,
+    "candidato": "Lucio Gutierrez",
+    "value": 23.17
+  },
+  {
+    "parroquia": "OCTAVIO CORDERO PALACIOS",
+    "id": 2595,
+    "votos": 169,
+    "candidato": "Lucio Gutierrez",
+    "value": 16.9
+  },
+  {
+    "parroquia": "MULTI /  NULTI",
+    "id": 2570,
+    "votos": 549,
+    "candidato": "Lucio Gutierrez",
+    "value": 24.65
+  },
+  {
+    "parroquia": "MOLLETURO",
+    "id": 2430,
+    "votos": 1205,
+    "candidato": "Lucio Gutierrez",
+    "value": 42.62
+  },
+  {
+    "parroquia": "LLACAO",
+    "id": 2255,
+    "votos": 501,
+    "candidato": "Lucio Gutierrez",
+    "value": 25.82
+  },
+  {
+    "parroquia": "CHIQUINTAD",
+    "id": 905,
+    "votos": 565,
+    "candidato": "Lucio Gutierrez",
+    "value": 27.03
+  },
+  {
+    "parroquia": "CHECA JIDCAY",
+    "id": 860,
+    "votos": 361,
+    "candidato": "Lucio Gutierrez",
+    "value": 28.2
+  },
+  {
+    "parroquia": "CHAUCHA / ANGAS",
+    "id": 845,
+    "votos": 122,
+    "candidato": "Lucio Gutierrez",
+    "value": 21.9
+  },
+  {
+    "parroquia": "CUMBE",
+    "id": 730,
+    "votos": 1031,
+    "candidato": "Lucio Gutierrez",
+    "value": 36.31
+  },
+  {
+    "parroquia": "BAÑOS",
+    "id": 285,
+    "votos": 2218,
+    "candidato": "Lucio Gutierrez",
+    "value": 21.8
+  }
+]

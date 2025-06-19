@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "C. E. EN MONTREAL",
+    "id": 9010,
+    "votos": 93,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 38.91
+  },
+  {
+    "parroquia": "C. E. EN TORONTO",
+    "id": 9011,
+    "votos": 486,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 26.17
+  },
+  {
+    "parroquia": "C. E. EN OTTAWA",
+    "id": 9012,
+    "votos": 30,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 55.56
+  }
+]

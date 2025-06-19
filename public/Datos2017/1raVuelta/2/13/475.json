@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "CHARAPOTO",
+    "id": 840,
+    "votos": 440,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.29
+  },
+  {
+    "parroquia": "SAN ISIDRO",
+    "id": 3445,
+    "votos": 133,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.98
+  },
+  {
+    "parroquia": "BAHÍA DE CARÁQUEZ",
+    "id": 5095,
+    "votos": 243,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.87
+  },
+  {
+    "parroquia": "LEONIDAS PLAZA G.",
+    "id": 5580,
+    "votos": 73,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.99
+  }
+]

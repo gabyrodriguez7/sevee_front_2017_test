@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "BOLIVAR",
+        "id": 355,
+        "votos": 22,
+        "candidato": "Acosta Alberto",
+        "value": 4.44
+    },
+    {
+        "parroquia": "DAULE",
+        "id": 1010,
+        "votos": 5,
+        "candidato": "Acosta Alberto",
+        "value": 0.76
+    },
+    {
+        "parroquia": "GALERA",
+        "id": 1305,
+        "votos": 40,
+        "candidato": "Acosta Alberto",
+        "value": 5.53
+    },
+    {
+        "parroquia": "QUINGUE",
+        "id": 3125,
+        "votos": 13,
+        "candidato": "Acosta Alberto",
+        "value": 3.0
+    },
+    {
+        "parroquia": "SALIMA",
+        "id": 3280,
+        "votos": 3,
+        "candidato": "Acosta Alberto",
+        "value": 0.5
+    },
+    {
+        "parroquia": "SAN FRANCISCO",
+        "id": 3390,
+        "votos": 65,
+        "candidato": "Acosta Alberto",
+        "value": 5.23
+    },
+    {
+        "parroquia": "SAN GREGORIO",
+        "id": 3430,
+        "votos": 186,
+        "candidato": "Acosta Alberto",
+        "value": 10.09
+    },
+    {
+        "parroquia": "SAN JOSE DE CHAMANGA",
+        "id": 3470,
+        "votos": 77,
+        "candidato": "Acosta Alberto",
+        "value": 4.1
+    },
+    {
+        "parroquia": "MUISNE",
+        "id": 5670,
+        "votos": 498,
+        "candidato": "Acosta Alberto",
+        "value": 8.387
+    }
+]

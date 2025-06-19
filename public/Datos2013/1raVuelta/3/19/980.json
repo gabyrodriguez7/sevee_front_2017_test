@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "TRIUNFO DORADO",
+        "id": 4385,
+        "votos": 2,
+        "candidato": "Wray Norman",
+        "value": 0.52
+    },
+    {
+        "parroquia": "PANGUINTZA",
+        "id": 4600,
+        "votos": 3,
+        "candidato": "Wray Norman",
+        "value": 0.5
+    },
+    {
+        "parroquia": "ZUMBI",
+        "id": 6625,
+        "votos": 20,
+        "candidato": "Wray Norman",
+        "value": 0.65
+    }
+]

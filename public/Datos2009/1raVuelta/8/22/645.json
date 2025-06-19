@@ -1,0 +1,86 @@
+[
+  {
+    "parroquia": "PTO. FCO. DE ORELLANA",
+    "id": 5815,
+    "votos": 11156,
+    "candidato": "Lucio Gutierrez",
+    "value": 58.46
+  },
+  {
+    "parroquia": "SAN JOSE DE GUAYUSA",
+    "id": 1945,
+    "votos": 377,
+    "candidato": "Lucio Gutierrez",
+    "value": 78.87
+  },
+  {
+    "parroquia": "NUEVO PARAISO",
+    "id": 1940,
+    "votos": 460,
+    "candidato": "Lucio Gutierrez",
+    "value": 59.9
+  },
+  {
+    "parroquia": "SAN LUIS DE ARMENIA",
+    "id": 1935,
+    "votos": 438,
+    "candidato": "Lucio Gutierrez",
+    "value": 71.22
+  },
+  {
+    "parroquia": "LA BELLEZA",
+    "id": 1820,
+    "votos": 908,
+    "candidato": "Lucio Gutierrez",
+    "value": 76.05
+  },
+  {
+    "parroquia": "GARCIA MORENO",
+    "id": 1810,
+    "votos": 297,
+    "candidato": "Lucio Gutierrez",
+    "value": 60.74
+  },
+  {
+    "parroquia": "EL EDEN",
+    "id": 1590,
+    "votos": 226,
+    "candidato": "Lucio Gutierrez",
+    "value": 88.98
+  },
+  {
+    "parroquia": "ALEJANDRO",
+    "id": 1580,
+    "votos": 269,
+    "candidato": "Lucio Gutierrez",
+    "value": 74.52
+  },
+  {
+    "parroquia": "INES ARANGO",
+    "id": 1565,
+    "votos": 531,
+    "candidato": "Lucio Gutierrez",
+    "value": 55.72
+  },
+  {
+    "parroquia": "EL DORADO",
+    "id": 1560,
+    "votos": 482,
+    "candidato": "Lucio Gutierrez",
+    "value": 68.56
+  },
+  {
+    "parroquia": "TARACOA",
+    "id": 1245,
+    "votos": 691,
+    "candidato": "Lucio Gutierrez",
+    "value": 68.55
+  },
+  {
+    "parroquia": "DAYUMA",
+    "id": 1235,
+    "votos": 1436,
+    "candidato": "Lucio Gutierrez",
+    "value": 65.15
+  }
+]

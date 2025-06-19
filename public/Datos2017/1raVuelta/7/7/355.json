@@ -1,0 +1,86 @@
+[
+  {
+    "parroquia": "BELLAVISTA",
+    "id": 325,
+    "votos": 96,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 5.84
+  },
+  {
+    "parroquia": "BELLAMARÍA",
+    "id": 1665,
+    "votos": 56,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 6.27
+  },
+  {
+    "parroquia": "JAMBELÍ",
+    "id": 1815,
+    "votos": 8,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.91
+  },
+  {
+    "parroquia": "LA AVANZADA",
+    "id": 2005,
+    "votos": 61,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 4.39
+  },
+  {
+    "parroquia": "SAN ANTONIO",
+    "id": 3330,
+    "votos": 65,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 8.98
+  },
+  {
+    "parroquia": "VICTORIA",
+    "id": 4215,
+    "votos": 43,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.26
+  },
+  {
+    "parroquia": "TORATA",
+    "id": 4525,
+    "votos": 51,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 4.56
+  },
+  {
+    "parroquia": "SANTA ROSA",
+    "id": 6060,
+    "votos": 2653,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 7.19
+  },
+  {
+    "parroquia": "PUERTO JELI",
+    "id": 6670,
+    "votos": 46,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 9.68
+  },
+  {
+    "parroquia": "BALNEARIO JAMBELÍ",
+    "id": 6900,
+    "votos": 1,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.74
+  },
+  {
+    "parroquia": "JUMON",
+    "id": 6985,
+    "votos": 11,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.58
+  },
+  {
+    "parroquia": "NUEVO SANTA ROSA",
+    "id": 6990,
+    "votos": 45,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 6.93
+  }
+]

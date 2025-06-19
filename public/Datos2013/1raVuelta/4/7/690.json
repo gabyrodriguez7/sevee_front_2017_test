@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CURTINCAPAC",
+        "id": 740,
+        "votos": 17,
+        "candidato": "Acosta Alberto",
+        "value": 5.0
+    },
+    {
+        "parroquia": "SALATI",
+        "id": 3275,
+        "votos": 44,
+        "candidato": "Acosta Alberto",
+        "value": 8.18
+    },
+    {
+        "parroquia": "MORALES",
+        "id": 4520,
+        "votos": 21,
+        "candidato": "Acosta Alberto",
+        "value": 4.918
+    },
+    {
+        "parroquia": "PORTOVELO",
+        "id": 5850,
+        "votos": 377,
+        "candidato": "Acosta Alberto",
+        "value": 6.0
+    }
+]

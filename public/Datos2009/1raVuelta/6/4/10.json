@@ -1,0 +1,51 @@
+[
+                {
+                    "parroquia": "SAN JOSE",
+                    "id": 5970,
+                    "votos": 74,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 1.18
+                },
+                {
+                    "parroquia": "GONZALEZ SUAREZ",
+                    "id": 5405,
+                    "votos": 80,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 1.29
+                },
+                {
+                    "parroquia": "LA PAZ",
+                    "id": 2065,
+                    "votos": 22,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 1.22
+                },
+                {
+                    "parroquia": "FERNANDEZ SALVADOR",
+                    "id": 1270,
+                    "votos": 7,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 1.25
+                },
+                {
+                    "parroquia": "CHITAN DE NAVARRETES",
+                    "id": 910,
+                    "votos": 6,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 1.61
+                },
+                {
+                    "parroquia": "CRISTOBAL COLON",
+                    "id": 690,
+                    "votos": 21,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 1.14
+                },
+                {
+                    "parroquia": "PIARTAL",
+                    "id": 250,
+                    "votos": 7,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 1.22
+                }
+            ]

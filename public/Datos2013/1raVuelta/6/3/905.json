@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SOLANO",
+        "id": 3875,
+        "votos": 85,
+        "candidato": "Lasso Guillermo",
+        "value": 12.0
+    },
+    {
+        "parroquia": "DELEG",
+        "id": 6425,
+        "votos": 431,
+        "candidato": "Lasso Guillermo",
+        "value": 19.64
+    }
+]

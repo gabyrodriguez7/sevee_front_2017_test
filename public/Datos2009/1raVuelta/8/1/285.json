@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "SANTA ISABEL",
+    "id": 6045,
+    "votos": 1365,
+    "candidato": "Lucio Gutierrez",
+    "value": 20.85
+  },
+  {
+    "parroquia": "SHAGLLI",
+    "id": 3835,
+    "votos": 93,
+    "candidato": "Lucio Gutierrez",
+    "value": 11.17
+  },
+  {
+    "parroquia": "EL CARMEN DE PIJILI",
+    "id": 1130,
+    "votos": 50,
+    "candidato": "Lucio Gutierrez",
+    "value": 10.37
+  },
+  {
+    "parroquia": "ABDON CALDERON / LA UNION",
+    "id": 15,
+    "votos": 181,
+    "candidato": "Lucio Gutierrez",
+    "value": 14.31
+  }
+]

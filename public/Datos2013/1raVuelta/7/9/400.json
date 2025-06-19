@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "LIMONAL",
+        "id": 260,
+        "votos": 41,
+        "candidato": "Zavala Nelson",
+        "value": 2.704
+    },
+    {
+        "parroquia": "JUAN BAUTISTA AGUIRRE",
+        "id": 1855,
+        "votos": 46,
+        "candidato": "Zavala Nelson",
+        "value": 1.84
+    },
+    {
+        "parroquia": "LAS LOJAS",
+        "id": 2105,
+        "votos": 96,
+        "candidato": "Zavala Nelson",
+        "value": 3.44
+    },
+    {
+        "parroquia": "EL LAUREL",
+        "id": 4500,
+        "votos": 74,
+        "candidato": "Zavala Nelson",
+        "value": 1.92508
+    },
+    {
+        "parroquia": "DAULE",
+        "id": 5275,
+        "votos": 1086,
+        "candidato": "Zavala Nelson",
+        "value": 2.0
+    },
+    {
+        "parroquia": "LA AURORA",
+        "id": 6850,
+        "votos": 98,
+        "candidato": "Zavala Nelson",
+        "value": 1.5
+    },
+    {
+        "parroquia": "MAGRO",
+        "id": 7425,
+        "votos": 1,
+        "candidato": "Zavala Nelson",
+        "value": 0.5
+    }
+]

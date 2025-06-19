@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "PUERTO PECHICHE",
+        "id": 3015,
+        "votos": 47,
+        "candidato": "Zavala Nelson",
+        "value": 1.9373
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3510,
+        "votos": 216,
+        "candidato": "Zavala Nelson",
+        "value": 2.35243
+    },
+    {
+        "parroquia": "PUEBLO VIEJO",
+        "id": 5800,
+        "votos": 217,
+        "candidato": "Zavala Nelson",
+        "value": 2.6
+    }
+]

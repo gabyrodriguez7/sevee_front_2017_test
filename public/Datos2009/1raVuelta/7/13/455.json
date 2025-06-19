@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "JIPIJAPA",
+        "id": 5485,
+        "votos": 1807,
+        "candidato": "Alvaro Noboa",
+        "value": 6.69
+    },
+    {
+        "parroquia": "MEMBRILLAL",
+        "id": 4490,
+        "votos": 54,
+        "candidato": "Alvaro Noboa",
+        "value": 10.71
+    },
+    {
+        "parroquia": "PUERTO CAYO",
+        "id": 2990,
+        "votos": 304,
+        "candidato": "Alvaro Noboa",
+        "value": 21.13
+    },
+    {
+        "parroquia": "PEDRO PABLO GOMEZ",
+        "id": 2810,
+        "votos": 239,
+        "candidato": "Alvaro Noboa",
+        "value": 9.84
+    },
+    {
+        "parroquia": "JULCUY",
+        "id": 1880,
+        "votos": 83,
+        "candidato": "Alvaro Noboa",
+        "value": 8.88
+    },
+    {
+        "parroquia": "EL ANEGADO",
+        "id": 1115,
+        "votos": 255,
+        "candidato": "Alvaro Noboa",
+        "value": 9.0
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 560,
+        "votos": 31,
+        "candidato": "Alvaro Noboa",
+        "value": 5.62
+    },
+    {
+        "parroquia": "AMERICA /LA CERA",
+        "id": 105,
+        "votos": 194,
+        "candidato": "Alvaro Noboa",
+        "value": 9.7
+    }
+]

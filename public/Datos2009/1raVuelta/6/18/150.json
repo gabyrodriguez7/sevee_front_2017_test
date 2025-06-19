@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "BA\u00d1OS",
+    "id": 5105,
+    "votos": 112,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.28
+  },
+  {
+    "parroquia": "ULBA",
+    "id": 4135,
+    "votos": 6,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.64
+  },
+  {
+    "parroquia": "RIO VERDE",
+    "id": 3200,
+    "votos": 1,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.16
+  },
+  {
+    "parroquia": "RIO NEGRO",
+    "id": 3190,
+    "votos": 4,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.66
+  },
+  {
+    "parroquia": "LLIGUA",
+    "id": 2270,
+    "votos": 0,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.0
+  }
+]

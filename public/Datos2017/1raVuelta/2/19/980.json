@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "TRIUNFO DORADO",
+    "id": 4385,
+    "votos": 37,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.02
+  },
+  {
+    "parroquia": "PANGUINTZA",
+    "id": 4600,
+    "votos": 77,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 11.1
+  },
+  {
+    "parroquia": "ZUMBI",
+    "id": 6625,
+    "votos": 178,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.1
+  }
+]

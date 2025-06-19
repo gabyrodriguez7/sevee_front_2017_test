@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "MACAS",
+    "id": 5615,
+    "votos": 324,
+    "candidato": "Alvaro Noboa",
+    "value": 3.41
+  },
+  {
+    "parroquia": "SINAI",
+    "id": 4485,
+    "votos": 10,
+    "candidato": "Alvaro Noboa",
+    "value": 2.46
+  },
+  {
+    "parroquia": "ZUNAC",
+    "id": 4360,
+    "votos": 0,
+    "candidato": "Alvaro Noboa",
+    "value": 0.0
+  },
+  {
+    "parroquia": "SEVILLA DON BOSCO",
+    "id": 3830,
+    "votos": 54,
+    "candidato": "Alvaro Noboa",
+    "value": 1.68
+  },
+  {
+    "parroquia": "SAN ISIDRO",
+    "id": 3440,
+    "votos": 15,
+    "candidato": "Alvaro Noboa",
+    "value": 4.21
+  },
+  {
+    "parroquia": "RIO BLANCO",
+    "id": 1730,
+    "votos": 10,
+    "candidato": "Alvaro Noboa",
+    "value": 2.34
+  },
+  {
+    "parroquia": "GRAL. PROAÑO",
+    "id": 1345,
+    "votos": 17,
+    "candidato": "Alvaro Noboa",
+    "value": 2.99
+  },
+  {
+    "parroquia": "CUCHAENTZA",
+    "id": 1250,
+    "votos": 3,
+    "candidato": "Alvaro Noboa",
+    "value": 0.6
+  },
+  {
+    "parroquia": "ALSHI /9 DE OCTUBRE",
+    "id": 65,
+    "votos": 3,
+    "candidato": "Alvaro Noboa",
+    "value": 1.57
+  }
+]

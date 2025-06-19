@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "BACHILLERO",
+    "id": 265,
+    "votos": 75,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.54
+  },
+  {
+    "parroquia": "ANGEL PEDRO GILER",
+    "id": 2030,
+    "votos": 113,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.96
+  },
+  {
+    "parroquia": "TOSAGUA",
+    "id": 6170,
+    "votos": 729,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.62
+  }
+]

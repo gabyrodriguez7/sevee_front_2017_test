@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "CANI",
+    "id": 500,
+    "votos": 6,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.05
+  },
+  {
+    "parroquia": "COLUMBE",
+    "id": 610,
+    "votos": 160,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.57
+  },
+  {
+    "parroquia": "JUAN DE VELASCO / PONGOR",
+    "id": 1865,
+    "votos": 31,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.83
+  },
+  {
+    "parroquia": "SANTIAGO DE QUITO",
+    "id": 4430,
+    "votos": 23,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.84
+  },
+  {
+    "parroquia": "CAJABAMBA",
+    "id": 5145,
+    "votos": 147,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 2.03
+  },
+  {
+    "parroquia": "SICALPA",
+    "id": 6080,
+    "votos": 136,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 2.25
+  }
+]

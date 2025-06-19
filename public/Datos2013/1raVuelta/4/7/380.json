@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "LA IBERIA",
+        "id": 245,
+        "votos": 17,
+        "candidato": "Acosta Alberto",
+        "value": 1.088348
+    },
+    {
+        "parroquia": "BARBONES",
+        "id": 300,
+        "votos": 37,
+        "candidato": "Acosta Alberto",
+        "value": 1.135318
+    },
+    {
+        "parroquia": "RIO BONITO",
+        "id": 2050,
+        "votos": 33,
+        "candidato": "Acosta Alberto",
+        "value": 2.0
+    },
+    {
+        "parroquia": "TENDALES",
+        "id": 4000,
+        "votos": 14,
+        "candidato": "Acosta Alberto",
+        "value": 0.8
+    },
+    {
+        "parroquia": "EL GUABO",
+        "id": 5340,
+        "votos": 320,
+        "candidato": "Acosta Alberto",
+        "value": 1.590062
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "ALVARO NOBOA",
+        "id": 1920,
+        "votos": 932,
+        "votos1": 512,
+        "votos2": 248,
+        "fill": "#02C01C",
+        "porcentaje1": 54.94,
+        "porcentaje2": 26.61
+    },
+    {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "ALVARO NOBOA",
+        "id": 2305,
+        "votos": 2157,
+        "votos1": 954,
+        "votos2": 609,
+        "fill": "#02C01C",
+        "porcentaje1": 44.23,
+        "porcentaje2": 28.23
+    },
+    {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "LUCIO GUTIERREZ",
+        "id": 6575,
+        "votos": 6924,
+        "votos1": 3590,
+        "votos2": 1691,
+        "fill": "#02C01C",
+        "porcentaje1": 51.85,
+        "porcentaje2": 24.42
+    }
+]

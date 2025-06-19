@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN VICENTE",
+        "id": 6785,
+        "votos": 782,
+        "candidato": "Alvaro Noboa",
+        "value": 9.67
+    },
+    {
+        "parroquia": "CANOA",
+        "id": 470,
+        "votos": 362,
+        "candidato": "Alvaro Noboa",
+        "value": 21.9
+    }
+]

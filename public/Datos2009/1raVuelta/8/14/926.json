@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "TAISHA",
+    "id": 6700,
+    "votos": 971,
+    "candidato": "Lucio Gutierrez",
+    "value": 76.58
+  },
+  {
+    "parroquia": "MACUMA",
+    "id": 2285,
+    "votos": 397,
+    "candidato": "Lucio Gutierrez",
+    "value": 51.49
+  },
+  {
+    "parroquia": "TUTINENTZA",
+    "id": 1205,
+    "votos": 463,
+    "candidato": "Lucio Gutierrez",
+    "value": 59.28
+  },
+  {
+    "parroquia": "HUASAGA /WAMPUIK",
+    "id": 595,
+    "votos": 83,
+    "candidato": "Lucio Gutierrez",
+    "value": 15.04
+  }
+]

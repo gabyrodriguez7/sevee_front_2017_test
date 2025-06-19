@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "JUAN MONTALVO",
+    "id": 5495,
+    "votos": 100,
+    "candidato": "Alvaro Noboa",
+    "value": 7.82
+  },
+  {
+    "parroquia": "CAYAMBE",
+    "id": 5190,
+    "votos": 2178,
+    "candidato": "Alvaro Noboa",
+    "value": 9.71
+  },
+  {
+    "parroquia": "AYORA",
+    "id": 5060,
+    "votos": 194,
+    "candidato": "Alvaro Noboa",
+    "value": 8.21
+  },
+  {
+    "parroquia": "STA.ROSA DE CUSUBAMBA",
+    "id": 3735,
+    "votos": 70,
+    "candidato": "Alvaro Noboa",
+    "value": 4.46
+  },
+  {
+    "parroquia": "OTON",
+    "id": 2635,
+    "votos": 65,
+    "candidato": "Alvaro Noboa",
+    "value": 5.09
+  },
+  {
+    "parroquia": "OLMEDO/PESILLO",
+    "id": 2600,
+    "votos": 114,
+    "candidato": "Alvaro Noboa",
+    "value": 3.19
+  },
+  {
+    "parroquia": "CANGAHUA",
+    "id": 480,
+    "votos": 209,
+    "candidato": "Alvaro Noboa",
+    "value": 4.52
+  },
+  {
+    "parroquia": "ASCAZUBI",
+    "id": 165,
+    "votos": 115,
+    "candidato": "Alvaro Noboa",
+    "value": 5.74
+  }
+]

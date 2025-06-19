@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "EL CAMBIO",
+        "id": 6795,
+        "votos": 43,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.15
+    },
+    {
+        "parroquia": "9 DE MAYO",
+        "id": 6490,
+        "votos": 20,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.92
+    },
+    {
+        "parroquia": "PUERTO BOLIVAR",
+        "id": 5805,
+        "votos": 101,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.75
+    },
+    {
+        "parroquia": "MACHALA",
+        "id": 5625,
+        "votos": 1376,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.37
+    },
+    {
+        "parroquia": "LA PROVIDENCIA",
+        "id": 5565,
+        "votos": 16,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.0
+    },
+    {
+        "parroquia": "EL RETIRO",
+        "id": 255,
+        "votos": 5,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.47
+    }
+]

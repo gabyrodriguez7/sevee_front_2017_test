@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "BACHILLERO",
+        "id": 265,
+        "votos": 20,
+        "candidato": "Acosta Alberto",
+        "value": 1.0
+    },
+    {
+        "parroquia": "ANGEL PEDRO GILER",
+        "id": 2030,
+        "votos": 23,
+        "candidato": "Acosta Alberto",
+        "value": 0.9
+    },
+    {
+        "parroquia": "TOSAGUA",
+        "id": 6170,
+        "votos": 241,
+        "candidato": "Acosta Alberto",
+        "value": 1.25
+    }
+]

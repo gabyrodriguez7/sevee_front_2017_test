@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "MERA",
+        "id": 5650,
+        "votos": 2,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.23
+    },
+    {
+        "parroquia": "SHELL",
+        "id": 3840,
+        "votos": 4,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.12
+    },
+    {
+        "parroquia": "MADRE TIERRA",
+        "id": 2310,
+        "votos": 0,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.0
+    }
+]

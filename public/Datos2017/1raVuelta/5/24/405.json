@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "ANCONCITO",
+    "id": 115,
+    "votos": 35,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.52238806
+  },
+  {
+    "parroquia": "JOSÉ LUIS TAMAYO / MUEY",
+    "id": 1850,
+    "votos": 66,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.53970071
+  },
+  {
+    "parroquia": "SALINAS",
+    "id": 5920,
+    "votos": 46,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.33408381
+  },
+  {
+    "parroquia": "GRAL. A. E. GALLO",
+    "id": 6270,
+    "votos": 11,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.67650677
+  },
+  {
+    "parroquia": "VICENTE ROCAFUERTE",
+    "id": 6275,
+    "votos": 14,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.66793893
+  },
+  {
+    "parroquia": "CARLOS ESPINOZA LARREA",
+    "id": 6280,
+    "votos": 9,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.25062657
+  },
+  {
+    "parroquia": "SANTA ROSA",
+    "id": 6925,
+    "votos": 14,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.35778175
+  }
+]

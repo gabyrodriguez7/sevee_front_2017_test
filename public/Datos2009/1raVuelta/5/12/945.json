@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "11 DE OCTUBRE",
+        "id": 6860,
+        "votos": 0,
+        "candidato": "Melba Jacome",
+        "value": 0.0
+    },
+    {
+        "parroquia": "7 DE AGOSTO",
+        "id": 6855,
+        "votos": 0,
+        "candidato": "Melba Jacome",
+        "value": 0.0
+    },
+    {
+        "parroquia": "SN JACINTO DE BUENA FE",
+        "id": 6465,
+        "votos": 239,
+        "candidato": "Melba Jacome",
+        "value": 1.0
+    },
+    {
+        "parroquia": "PATRICIA PILAR",
+        "id": 150,
+        "votos": 14,
+        "candidato": "Melba Jacome",
+        "value": 0.31
+    }
+]

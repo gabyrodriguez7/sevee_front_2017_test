@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "ARCHIDONA",
+    "id": 5070,
+    "votos": 4739,
+    "candidato": "Lucio Gutierrez",
+    "value": 66.21
+  },
+  {
+    "parroquia": "SAN PABLO DE USHPAYACU",
+    "id": 3605,
+    "votos": 551,
+    "candidato": "Lucio Gutierrez",
+    "value": 63.19
+  },
+  {
+    "parroquia": "COTUNDO",
+    "id": 685,
+    "votos": 2346,
+    "candidato": "Lucio Gutierrez",
+    "value": 73.15
+  }
+]

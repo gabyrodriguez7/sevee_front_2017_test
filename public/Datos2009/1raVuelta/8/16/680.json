@@ -1,0 +1,100 @@
+[
+  {
+    "parroquia": "PUYO",
+    "id": 5825,
+    "votos": 10199,
+    "candidato": "Lucio Gutierrez",
+    "value": 52.33
+  },
+  {
+    "parroquia": "SIMON BOLIVAR",
+    "id": 4510,
+    "votos": 1095,
+    "candidato": "Lucio Gutierrez",
+    "value": 73.34
+  },
+  {
+    "parroquia": "VERACRUZ",
+    "id": 4205,
+    "votos": 604,
+    "candidato": "Lucio Gutierrez",
+    "value": 61.82
+  },
+  {
+    "parroquia": "TNTE. HUGO ORTIZ",
+    "id": 4005,
+    "votos": 225,
+    "candidato": "Lucio Gutierrez",
+    "value": 61.14
+  },
+  {
+    "parroquia": "TARQUI",
+    "id": 3985,
+    "votos": 412,
+    "candidato": "Lucio Gutierrez",
+    "value": 64.88
+  },
+  {
+    "parroquia": "ZARAYACU",
+    "id": 3785,
+    "votos": 129,
+    "candidato": "Lucio Gutierrez",
+    "value": 17.48
+  },
+  {
+    "parroquia": "RIO TIGRE",
+    "id": 3195,
+    "votos": 39,
+    "candidato": "Lucio Gutierrez",
+    "value": 50.65
+  },
+  {
+    "parroquia": "RIO CORRIENTES",
+    "id": 3180,
+    "votos": 86,
+    "candidato": "Lucio Gutierrez",
+    "value": 35.83
+  },
+  {
+    "parroquia": "POMONA",
+    "id": 3055,
+    "votos": 142,
+    "candidato": "Lucio Gutierrez",
+    "value": 71.72
+  },
+  {
+    "parroquia": "MONTALVO/ANDOAS",
+    "id": 2450,
+    "votos": 263,
+    "candidato": "Lucio Gutierrez",
+    "value": 52.6
+  },
+  {
+    "parroquia": "EL TRIUNFO",
+    "id": 1275,
+    "votos": 447,
+    "candidato": "Lucio Gutierrez",
+    "value": 61.83
+  },
+  {
+    "parroquia": "FATIMA",
+    "id": 1260,
+    "votos": 290,
+    "candidato": "Lucio Gutierrez",
+    "value": 57.77
+  },
+  {
+    "parroquia": "10 DE AGOSTO",
+    "id": 1025,
+    "votos": 465,
+    "candidato": "Lucio Gutierrez",
+    "value": 70.24
+  },
+  {
+    "parroquia": "CANELOS",
+    "id": 475,
+    "votos": 455,
+    "candidato": "Lucio Gutierrez",
+    "value": 74.59
+  }
+]

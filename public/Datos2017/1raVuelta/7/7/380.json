@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "LA IBERIA",
+    "id": 245,
+    "votos": 125,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 6.85
+  },
+  {
+    "parroquia": "BARBONES",
+    "id": 300,
+    "votos": 191,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 5.09
+  },
+  {
+    "parroquia": "RÍO BONITO",
+    "id": 2050,
+    "votos": 65,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.2
+  },
+  {
+    "parroquia": "TENDALES",
+    "id": 4000,
+    "votos": 113,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 5.89
+  },
+  {
+    "parroquia": "EL GUABO",
+    "id": 5340,
+    "votos": 1550,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 6.87
+  }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 1075,
+        "votos": 3,
+        "candidato": "Zavala Nelson",
+        "value": 0.8823529
+    },
+    {
+        "parroquia": "EL PARAISO",
+        "id": 1080,
+        "votos": 3,
+        "candidato": "Zavala Nelson",
+        "value": 0.7
+    },
+    {
+        "parroquia": "LA LIBERTAD",
+        "id": 1100,
+        "votos": 2,
+        "candidato": "Zavala Nelson",
+        "value": 0.38241
+    },
+    {
+        "parroquia": "LA VICTORIA/LAS LAJAS",
+        "id": 6335,
+        "votos": 26,
+        "candidato": "Zavala Nelson",
+        "value": 1.3
+    },
+    {
+        "parroquia": "PLATANILLOS",
+        "id": 6950,
+        "votos": 2,
+        "candidato": "Zavala Nelson",
+        "value": 0.57
+    }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "parroquia": "SAN BUENAVENTURA",
+    "id": 5940,
+    "votos": 5,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.18
+  },
+  {
+    "parroquia": "LA MATRIZ",
+    "id": 5555,
+    "votos": 102,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.56
+  },
+  {
+    "parroquia": "JUAN MONTALVO",
+    "id": 5500,
+    "votos": 30,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.33
+  },
+  {
+    "parroquia": "IGNACIO FLORES",
+    "id": 5465,
+    "votos": 39,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.49
+  },
+  {
+    "parroquia": "ELOY ALFARO / SAN FELIPE",
+    "id": 5310,
+    "votos": 61,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.39
+  },
+  {
+    "parroquia": "TOACAZO",
+    "id": 4035,
+    "votos": 16,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.34
+  },
+  {
+    "parroquia": "TANICUCHI",
+    "id": 3965,
+    "votos": 32,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.47
+  },
+  {
+    "parroquia": "SAN JUAN DE PASTOCALLE",
+    "id": 3530,
+    "votos": 12,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.22
+  },
+  {
+    "parroquia": "POALO",
+    "id": 2920,
+    "votos": 15,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.53
+  },
+  {
+    "parroquia": "11 DE NOVIEMBRE",
+    "id": 2620,
+    "votos": 6,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.48
+  },
+  {
+    "parroquia": "MULALO",
+    "id": 2480,
+    "votos": 23,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.48
+  },
+  {
+    "parroquia": "JOSEGUANGO BAJO",
+    "id": 1905,
+    "votos": 3,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.32
+  },
+  {
+    "parroquia": "GUAYTACAMA",
+    "id": 1485,
+    "votos": 16,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.34
+  },
+  {
+    "parroquia": "BELISARIO QUEVEDO",
+    "id": 315,
+    "votos": 6,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.23
+  },
+  {
+    "parroquia": "ALAQUEZ",
+    "id": 35,
+    "votos": 12,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.32
+  }
+]

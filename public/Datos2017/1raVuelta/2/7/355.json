@@ -1,0 +1,86 @@
+[
+  {
+    "parroquia": "BELLAVISTA",
+    "id": 325,
+    "votos": 34,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.07
+  },
+  {
+    "parroquia": "BELLAMARÍA",
+    "id": 1665,
+    "votos": 17,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.9
+  },
+  {
+    "parroquia": "JAMBELÍ",
+    "id": 1815,
+    "votos": 4,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 0.95
+  },
+  {
+    "parroquia": "LA AVANZADA",
+    "id": 2005,
+    "votos": 47,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.38
+  },
+  {
+    "parroquia": "SAN ANTONIO",
+    "id": 3330,
+    "votos": 10,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.38
+  },
+  {
+    "parroquia": "VICTORIA",
+    "id": 4215,
+    "votos": 20,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.52
+  },
+  {
+    "parroquia": "TORATA",
+    "id": 4525,
+    "votos": 25,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.23
+  },
+  {
+    "parroquia": "SANTA ROSA",
+    "id": 6060,
+    "votos": 715,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.94
+  },
+  {
+    "parroquia": "PUERTO JELI",
+    "id": 6670,
+    "votos": 7,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.47
+  },
+  {
+    "parroquia": "BALNEARIO JAMBELÍ",
+    "id": 6900,
+    "votos": 1,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 0.74
+  },
+  {
+    "parroquia": "JUMON",
+    "id": 6985,
+    "votos": 9,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.11
+  },
+  {
+    "parroquia": "NUEVO SANTA ROSA",
+    "id": 6990,
+    "votos": 15,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.31
+  }
+]

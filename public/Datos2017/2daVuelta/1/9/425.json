@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "TARIFA",
+    "id": 3975,
+    "votos": 1825,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 34.16
+  },
+  {
+    "parroquia": "SAMBORONDÓN",
+    "id": 5925,
+    "votos": 9644,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 40.1
+  },
+  {
+    "parroquia": "LA PUNTILLA(SATELITE)",
+    "id": 7445,
+    "votos": 15671,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 90.07
+  }
+]

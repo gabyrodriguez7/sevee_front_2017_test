@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "CÚBE / CHANCAMA",
+    "id": 700,
+    "votos": 888,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 44.96
+  },
+  {
+    "parroquia": "CHURA",
+    "id": 980,
+    "votos": 488,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 38.73
+  },
+  {
+    "parroquia": "LA UNIÓN",
+    "id": 1530,
+    "votos": 5781,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 48.19
+  },
+  {
+    "parroquia": "MALIMPIA / GUAYLLABAMBA",
+    "id": 2345,
+    "votos": 2934,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 39.61
+  },
+  {
+    "parroquia": "VICHE",
+    "id": 4230,
+    "votos": 2090,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 45.41
+  },
+  {
+    "parroquia": "ROSA ZÁRATE",
+    "id": 5895,
+    "votos": 22154,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 51.06
+  }
+]

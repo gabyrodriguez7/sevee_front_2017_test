@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "BALZAPAMBA",
+    "id": 275,
+    "votos": 782,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 34.63
+  },
+  {
+    "parroquia": "BILOVAN",
+    "id": 345,
+    "votos": 500,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 34.70
+  },
+  {
+    "parroquia": "SAN PABLO DE ATENAS",
+    "id": 3595,
+    "votos": 1388,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 40.36
+  },
+  {
+    "parroquia": "SANTIAGO",
+    "id": 3775,
+    "votos": 468,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 43.17
+  },
+  {
+    "parroquia": "SAN VICENTE",
+    "id": 3900,
+    "votos": 231,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 38.76
+  },
+  {
+    "parroquia": "RÉGULO DE MORA",
+    "id": 4515,
+    "votos": 345,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 55.20
+  },
+  {
+    "parroquia": "SAN MIGUEL",
+    "id": 5995,
+    "votos": 4321,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 46.05
+  }
+]

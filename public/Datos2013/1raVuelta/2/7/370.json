@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "CAPIRO",
+        "id": 505,
+        "votos": 613,
+        "candidato": "Correa Delgado Rafael",
+        "value": 68.645017
+    },
+    {
+        "parroquia": "SARACAY",
+        "id": 1385,
+        "votos": 564,
+        "candidato": "Correa Delgado Rafael",
+        "value": 62.59711432
+    },
+    {
+        "parroquia": "LA BOCANA",
+        "id": 2230,
+        "votos": 500,
+        "candidato": "Correa Delgado Rafael",
+        "value": 66.1
+    },
+    {
+        "parroquia": "MOROMORO",
+        "id": 2465,
+        "votos": 510,
+        "candidato": "Correa Delgado Rafael",
+        "value": 60.0
+    },
+    {
+        "parroquia": "PIEDRAS",
+        "id": 2850,
+        "votos": 275,
+        "candidato": "Correa Delgado Rafael",
+        "value": 62.358277
+    },
+    {
+        "parroquia": "SAN ROQUE",
+        "id": 3650,
+        "votos": 292,
+        "candidato": "Correa Delgado Rafael",
+        "value": 67.2811
+    },
+    {
+        "parroquia": "PIÑAS",
+        "id": 5790,
+        "votos": 6221,
+        "candidato": "Correa Delgado Rafael",
+        "value": 53.166396
+    },
+    {
+        "parroquia": "PIÑAS GRANDE",
+        "id": 6675,
+        "votos": 27,
+        "candidato": "Correa Delgado Rafael",
+        "value": 73.0
+    },
+    {
+        "parroquia": "LA SUSAYA",
+        "id": 6680,
+        "votos": 43,
+        "candidato": "Correa Delgado Rafael",
+        "value": 46.236559
+    }
+]

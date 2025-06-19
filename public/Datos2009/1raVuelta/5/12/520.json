@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "BABA",
+        "id": 5085,
+        "votos": 295,
+        "candidato": "Melba Jacome",
+        "value": 2.62
+    },
+    {
+        "parroquia": "ISLA DE BEJUCAL",
+        "id": 1740,
+        "votos": 55,
+        "candidato": "Melba Jacome",
+        "value": 1.67
+    },
+    {
+        "parroquia": "GUARE",
+        "id": 1460,
+        "votos": 42,
+        "candidato": "Melba Jacome",
+        "value": 1.51
+    }
+]

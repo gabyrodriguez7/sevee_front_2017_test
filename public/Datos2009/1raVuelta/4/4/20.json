@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "MIRA",
+        "id": 5685,
+        "votos": 2844,
+        "candidato": "Rafael Correa Delgado",
+        "value": 74.52
+    },
+    {
+        "parroquia": "LA CONCEPCION",
+        "id": 2010,
+        "votos": 1204,
+        "candidato": "Rafael Correa Delgado",
+        "value": 81.02
+    },
+    {
+        "parroquia": "JUAN MONTALVO",
+        "id": 1875,
+        "votos": 579,
+        "candidato": "Rafael Correa Delgado",
+        "value": 84.27
+    },
+    {
+        "parroquia": "JIJON Y CAAMA�O",
+        "id": 1835,
+        "votos": 654,
+        "candidato": "Rafael Correa Delgado",
+        "value": 80.24
+    }
+]

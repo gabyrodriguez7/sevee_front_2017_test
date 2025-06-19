@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "COJIMÍES",
+    "id": 580,
+    "votos": 2716,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 63.89
+  },
+  {
+    "parroquia": "ATAHUALPA",
+    "id": 785,
+    "votos": 824,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 63.53
+  },
+  {
+    "parroquia": "10 DE AGOSTO",
+    "id": 1030,
+    "votos": 1413,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 63.16
+  },
+  {
+    "parroquia": "PEDERNALES",
+    "id": 6430,
+    "votos": 13408,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 59.08
+  }
+]

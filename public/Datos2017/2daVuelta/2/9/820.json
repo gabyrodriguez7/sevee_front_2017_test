@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "ELOY ALFARO /DURÁN",
+    "id": 6525,
+    "votos": 58332,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 55.55
+  },
+  {
+    "parroquia": "EL RECREO",
+    "id": 7455,
+    "votos": 15934,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 64.66
+  },
+  {
+    "parroquia": "DIVINO NIÑO",
+    "id": 7515,
+    "votos": 10223,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 62.91
+  }
+]

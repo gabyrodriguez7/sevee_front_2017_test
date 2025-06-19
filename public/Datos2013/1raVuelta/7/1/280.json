@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "CUTCHIL",
+    "id": 750,
+    "votos": 5,
+    "candidato": "Zavala Nelson",
+    "value": 1.0
+  },
+  {
+    "parroquia": "GIMA",
+    "id": 1355,
+    "votos": 15,
+    "candidato": "Zavala Nelson",
+    "value": 0.786
+  },
+  {
+    "parroquia": "GUEL",
+    "id": 1490,
+    "votos": 4,
+    "candidato": "Zavala Nelson",
+    "value": 1.0
+  },
+  {
+    "parroquia": "LUDO",
+    "id": 2215,
+    "votos": 12,
+    "candidato": "Zavala Nelson",
+    "value": 0.73
+  },
+  {
+    "parroquia": "SAN BARTOLOME",
+    "id": 3360,
+    "votos": 14,
+    "candidato": "Zavala Nelson",
+    "value": 0.72
+  },
+  {
+    "parroquia": "SAN JOSE DE RARANGA",
+    "id": 3495,
+    "votos": 9,
+    "candidato": "Zavala Nelson",
+    "value": 1.0
+  },
+  {
+    "parroquia": "SIGSIG",
+    "id": 6085,
+    "votos": 45,
+    "candidato": "Zavala Nelson",
+    "value": 1.0
+  }
+]

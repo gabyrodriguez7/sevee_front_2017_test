@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "GUASAGANDA",
+    "id": 1500,
+    "votos": 523,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 29.23
+  },
+  {
+    "parroquia": "PUCAYACO",
+    "id": 2965,
+    "votos": 371,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 22.32
+  },
+  {
+    "parroquia": "LA MANÁ",
+    "id": 6535,
+    "votos": 2295,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 11.24
+  },
+  {
+    "parroquia": "EL CARMEN",
+    "id": 6880,
+    "votos": 190,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.79
+  },
+  {
+    "parroquia": "EL TRIUNFO",
+    "id": 6895,
+    "votos": 179,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.52
+  }
+]

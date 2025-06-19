@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN JACINTO",
+        "id": 1435,
+        "votos": 19,
+        "candidato": "Zavala Nelson",
+        "value": 1.21
+    },
+    {
+        "parroquia": "COLIMES",
+        "id": 5365,
+        "votos": 100,
+        "candidato": "Zavala Nelson",
+        "value": 0.9
+    }
+]

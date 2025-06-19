@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "SAN CARLOS",
+    "id": 415,
+    "votos": 237,
+    "candidato": "Lasso Guillermo",
+    "value": 14.09
+  },
+  {
+    "parroquia": "ENOKANQUI",
+    "id": 490,
+    "votos": 176,
+    "candidato": "Lasso Guillermo",
+    "value": 13.435
+  },
+  {
+    "parroquia": "RUMIPAMBA",
+    "id": 1950,
+    "votos": 78,
+    "candidato": "Lasso Guillermo",
+    "value": 11.836
+  },
+  {
+    "parroquia": "TRES DE NOVIEMBRE",
+    "id": 1955,
+    "votos": 213,
+    "candidato": "Lasso Guillermo",
+    "value": 14.372
+  },
+  {
+    "parroquia": "LAGO SAN PEDRO",
+    "id": 1960,
+    "votos": 114,
+    "candidato": "Lasso Guillermo",
+    "value": 12.245
+  },
+  {
+    "parroquia": "UNION MILAGREÑA",
+    "id": 1965,
+    "votos": 164,
+    "candidato": "Lasso Guillermo",
+    "value": 11.81556196
+  },
+  {
+    "parroquia": "POMPEYA",
+    "id": 2930,
+    "votos": 19,
+    "candidato": "Lasso Guillermo",
+    "value": 3.89
+  },
+  {
+    "parroquia": "SAN SEBASTIAN DE COCA",
+    "id": 3660,
+    "votos": 236,
+    "candidato": "Lasso Guillermo",
+    "value": 13.0
+  },
+  {
+    "parroquia": "LA JOYA DE LOS SACHAS",
+    "id": 6200,
+    "votos": 2187,
+    "candidato": "Lasso Guillermo",
+    "value": 20.5
+  }
+]

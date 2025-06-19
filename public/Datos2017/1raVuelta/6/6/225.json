@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "LA CANDELARIA",
+    "id": 925,
+    "votos": 2,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.76
+  },
+  {
+    "parroquia": "EL ALTAR",
+    "id": 1110,
+    "votos": 14,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.57
+  },
+  {
+    "parroquia": "BILBAO",
+    "id": 1325,
+    "votos": 1,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.51
+  },
+  {
+    "parroquia": "MATUS",
+    "id": 2400,
+    "votos": 9,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.27
+  },
+  {
+    "parroquia": "PUELA",
+    "id": 2975,
+    "votos": 5,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.9
+  },
+  {
+    "parroquia": "SAN ANTONIO DE BAYUSHIG",
+    "id": 3335,
+    "votos": 15,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.32
+  },
+  {
+    "parroquia": "PENIPE",
+    "id": 5740,
+    "votos": 17,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.85
+  }
+]

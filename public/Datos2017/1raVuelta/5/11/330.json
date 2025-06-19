@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "EL ARENAL",
+    "id": 270,
+    "votos": 3,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.7
+  },
+  {
+    "parroquia": "CIANO",
+    "id": 565,
+    "votos": 3,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.42
+  },
+  {
+    "parroquia": "EL LIMO /MARIANA DE JESÚS",
+    "id": 1155,
+    "votos": 15,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.12
+  },
+  {
+    "parroquia": "MERCADILLO",
+    "id": 2405,
+    "votos": 10,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.21
+  },
+  {
+    "parroquia": "VICENTINO",
+    "id": 4210,
+    "votos": 5,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.68
+  },
+  {
+    "parroquia": "ALAMOR",
+    "id": 5005,
+    "votos": 33,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.55
+  }
+]

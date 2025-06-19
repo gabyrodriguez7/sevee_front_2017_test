@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "ZURMI",
+    "id": 1675,
+    "votos": 8,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.91
+  },
+  {
+    "parroquia": "NUEVO PARAÍSO",
+    "id": 4570,
+    "votos": 2,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.59
+  },
+  {
+    "parroquia": "GUAYZIMI",
+    "id": 5520,
+    "votos": 23,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.08
+  }
+]

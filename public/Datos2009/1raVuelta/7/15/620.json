@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "TENA",
+    "id": 6160,
+    "votos": 711,
+    "candidato": "Alvaro Noboa",
+    "value": 4.57
+  },
+  {
+    "parroquia": "PUERTO NAPO",
+    "id": 3050,
+    "votos": 35,
+    "candidato": "Alvaro Noboa",
+    "value": 1.64
+  },
+  {
+    "parroquia": "PUERTO MISAHUALLI",
+    "id": 3000,
+    "votos": 23,
+    "candidato": "Alvaro Noboa",
+    "value": 1.2
+  },
+  {
+    "parroquia": "PANO",
+    "id": 2755,
+    "votos": 16,
+    "candidato": "Alvaro Noboa",
+    "value": 2.11
+  },
+  {
+    "parroquia": "TALAG",
+    "id": 1930,
+    "votos": 24,
+    "candidato": "Alvaro Noboa",
+    "value": 2.12
+  },
+  {
+    "parroquia": "CHONTAPUNTA",
+    "id": 940,
+    "votos": 53,
+    "candidato": "Alvaro Noboa",
+    "value": 2.3
+  },
+  {
+    "parroquia": "AHUANO",
+    "id": 25,
+    "votos": 39,
+    "candidato": "Alvaro Noboa",
+    "value": 1.73
+  }
+]

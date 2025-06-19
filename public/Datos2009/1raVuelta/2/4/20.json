@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "MIRA",
+        "id": 5685,
+        "votos": 23,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.6
+    },
+    {
+        "parroquia": "LA CONCEPCION",
+        "id": 2010,
+        "votos": 5,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.33
+    },
+    {
+        "parroquia": "JUAN MONTALVO",
+        "id": 1875,
+        "votos": 2,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.29
+    },
+    {
+        "parroquia": "JIJON Y CAAMA�O",
+        "id": 1835,
+        "votos": 5,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.61
+    }
+]

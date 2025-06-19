@@ -1,0 +1,20 @@
+[
+    {
+        "id": 800,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "votos": 39,
+        "value": 1.08
+    },
+    {
+        "id": 805,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "votos": 60,
+        "value": 0.91
+    },
+    {
+        "id": 810,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "votos": 5,
+        "value": 0.42
+    }
+]

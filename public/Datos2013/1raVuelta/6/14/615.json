@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "ARAPICOS",
+    "id": 155,
+    "votos": 40,
+    "candidato": "Lasso Guillermo",
+    "value": 17.2
+  },
+  {
+    "parroquia": "CUMANDA",
+    "id": 715,
+    "votos": 64,
+    "candidato": "Lasso Guillermo",
+    "value": 17.2
+  },
+  {
+    "parroquia": "16 DE AGOSTO",
+    "id": 1685,
+    "votos": 116,
+    "candidato": "Lasso Guillermo",
+    "value": 26.304
+  },
+  {
+    "parroquia": "SANGAY",
+    "id": 3420,
+    "votos": 134,
+    "candidato": "Lasso Guillermo",
+    "value": 23.18
+  },
+  {
+    "parroquia": "PALORA",
+    "id": 5760,
+    "votos": 945,
+    "candidato": "Lasso Guillermo",
+    "value": 38.52
+  }
+]

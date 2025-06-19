@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "LEONIDAS PLAZA G.",
+        "id": 5580,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.04
+    },
+    {
+        "parroquia": "BAHIA DE CARAQUEZ",
+        "id": 5095,
+        "votos": 23,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.21
+    },
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 3445,
+        "votos": 30,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.53
+    },
+    {
+        "parroquia": "CHARAPOTO",
+        "id": 840,
+        "votos": 32,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.31
+    }
+]

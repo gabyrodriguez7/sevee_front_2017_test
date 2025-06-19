@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "NABON",
+    "id": 6595,
+    "votos": 706,
+    "candidato": "Lucio Gutierrez",
+    "value": 17.23
+  },
+  {
+    "parroquia": "NIEVES",
+    "id": 2550,
+    "votos": 80,
+    "candidato": "Lucio Gutierrez",
+    "value": 13.6
+  },
+  {
+    "parroquia": "EL PROGRESO",
+    "id": 1175,
+    "votos": 174,
+    "candidato": "Lucio Gutierrez",
+    "value": 26.28
+  },
+  {
+    "parroquia": "COCHAPATA",
+    "id": 575,
+    "votos": 278,
+    "candidato": "Lucio Gutierrez",
+    "value": 24.95
+  }
+]

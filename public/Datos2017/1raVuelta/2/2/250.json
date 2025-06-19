@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "MANUEL J. CALLE",
+    "id": 2365,
+    "votos": 95,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.84
+  },
+  {
+    "parroquia": "PANCHO NEGRO",
+    "id": 2745,
+    "votos": 95,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.22
+  },
+  {
+    "parroquia": "LA TRONCAL",
+    "id": 5610,
+    "votos": 1930,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.36
+  }
+]

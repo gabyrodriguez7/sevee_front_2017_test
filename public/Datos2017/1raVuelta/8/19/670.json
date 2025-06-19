@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "CHICANA",
+    "id": 985,
+    "votos": 13,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1
+  },
+  {
+    "parroquia": "LOS ENCUENTROS",
+    "id": 2240,
+    "votos": 23,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.16
+  },
+  {
+    "parroquia": "YANZATZA",
+    "id": 6295,
+    "votos": 131,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.52
+  }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "parroquia": "ANCHAYACU",
+        "id": 120,
+        "votos": 17,
+        "candidato": "Noboa Alvaro",
+        "value": 3.18352
+    },
+    {
+        "parroquia": "ATAHUALPA/CAMARONES",
+        "id": 200,
+        "votos": 36,
+        "candidato": "Noboa Alvaro",
+        "value": 5.318
+    },
+    {
+        "parroquia": "BORBON",
+        "id": 370,
+        "votos": 211,
+        "candidato": "Noboa Alvaro",
+        "value": 5.2
+    },
+    {
+        "parroquia": "SAN JOSE DE CAYAPAS",
+        "id": 1505,
+        "votos": 36,
+        "candidato": "Noboa Alvaro",
+        "value": 7.2
+    },
+    {
+        "parroquia": "COLON ELOY DE MARIA",
+        "id": 1510,
+        "votos": 24,
+        "candidato": "Noboa Alvaro",
+        "value": 4.938
+    },
+    {
+        "parroquia": "TIMBIRE",
+        "id": 1515,
+        "votos": 4,
+        "candidato": "Noboa Alvaro",
+        "value": 1.105
+    },
+    {
+        "parroquia": "LA TOLA",
+        "id": 2125,
+        "votos": 17,
+        "candidato": "Noboa Alvaro",
+        "value": 1.526
+    },
+    {
+        "parroquia": "LUIS VARGAS TORRES",
+        "id": 2225,
+        "votos": 6,
+        "candidato": "Noboa Alvaro",
+        "value": 3.3
+    },
+    {
+        "parroquia": "MALDONADO",
+        "id": 2335,
+        "votos": 26,
+        "candidato": "Noboa Alvaro",
+        "value": 3.23
+    },
+    {
+        "parroquia": "PAMPANAL DE BOLIVAR",
+        "id": 2670,
+        "votos": 9,
+        "candidato": "Noboa Alvaro",
+        "value": 2.96053
+    },
+    {
+        "parroquia": "SAN FRANCISCO DE ONZOLE",
+        "id": 3405,
+        "votos": 28,
+        "candidato": "Noboa Alvaro",
+        "value": 6.0
+    },
+    {
+        "parroquia": "SELVA ALEGRE",
+        "id": 3805,
+        "votos": 24,
+        "candidato": "Noboa Alvaro",
+        "value": 5.1
+    },
+    {
+        "parroquia": "TELEMBI",
+        "id": 4170,
+        "votos": 30,
+        "candidato": "Noboa Alvaro",
+        "value": 2.4
+    },
+    {
+        "parroquia": "SANTO DOMINGO DE ONZOLE",
+        "id": 4465,
+        "votos": 38,
+        "candidato": "Noboa Alvaro",
+        "value": 6.95
+    },
+    {
+        "parroquia": "SANTA LUCIA DE LAS PE�AS",
+        "id": 4595,
+        "votos": 14,
+        "candidato": "Noboa Alvaro",
+        "value": 2.9
+    },
+    {
+        "parroquia": "VALDEZ/LIMONES/",
+        "id": 6205,
+        "votos": 55,
+        "candidato": "Noboa Alvaro",
+        "value": 1.6
+    }
+]

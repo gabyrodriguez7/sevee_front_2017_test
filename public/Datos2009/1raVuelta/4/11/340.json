@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "AMALUZA",
+        "id": 5020,
+        "votos": 1753,
+        "candidato": "Rafael Correa Delgado",
+        "value": 65.6
+    },
+    {
+        "parroquia": "27 DE ABRIL /LA NARANJA",
+        "id": 4460,
+        "votos": 387,
+        "candidato": "Rafael Correa Delgado",
+        "value": 53.97
+    },
+    {
+        "parroquia": "SANTA TERESITA",
+        "id": 3765,
+        "votos": 360,
+        "candidato": "Rafael Correa Delgado",
+        "value": 68.44
+    },
+    {
+        "parroquia": "JIMBURA",
+        "id": 1845,
+        "votos": 394,
+        "candidato": "Rafael Correa Delgado",
+        "value": 60.8
+    },
+    {
+        "parroquia": "EL AIRO",
+        "id": 1645,
+        "votos": 268,
+        "candidato": "Rafael Correa Delgado",
+        "value": 79.52
+    },
+    {
+        "parroquia": "EL INGENIO",
+        "id": 790,
+        "votos": 443,
+        "candidato": "Rafael Correa Delgado",
+        "value": 77.31
+    },
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 320,
+        "votos": 654,
+        "candidato": "Rafael Correa Delgado",
+        "value": 86.62
+    }
+]

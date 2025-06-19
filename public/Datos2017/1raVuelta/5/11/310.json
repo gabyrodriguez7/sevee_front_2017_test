@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "CANGONAMÁ",
+    "id": 485,
+    "votos": 9,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.49
+  },
+  {
+    "parroquia": "SAN ANTONIO",
+    "id": 545,
+    "votos": 4,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.01
+  },
+  {
+    "parroquia": "CASANGA",
+    "id": 995,
+    "votos": 9,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.85
+  },
+  {
+    "parroquia": "YAMANA",
+    "id": 1000,
+    "votos": 4,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.71
+  },
+  {
+    "parroquia": "GUACHANAMA",
+    "id": 1380,
+    "votos": 6,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.88
+  },
+  {
+    "parroquia": "LAURO GUERRERO",
+    "id": 2140,
+    "votos": 11,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.11
+  },
+  {
+    "parroquia": "ORIANGA",
+    "id": 2630,
+    "votos": 9,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.89
+  },
+  {
+    "parroquia": "CATACOCHA",
+    "id": 5180,
+    "votos": 88,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1
+  },
+  {
+    "parroquia": "LOURDES",
+    "id": 5595,
+    "votos": 13,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.76
+  }
+]

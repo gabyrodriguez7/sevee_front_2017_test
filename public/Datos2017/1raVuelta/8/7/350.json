@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "EL RETIRO",
+    "id": 255,
+    "votos": 41,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.52
+  },
+  {
+    "parroquia": "LA PROVIDENCIA",
+    "id": 5565,
+    "votos": 1582,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.87
+  },
+  {
+    "parroquia": "MACHALA",
+    "id": 5625,
+    "votos": 2141,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.88
+  },
+  {
+    "parroquia": "PUERTO BOLÍVAR",
+    "id": 5805,
+    "votos": 422,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.39
+  },
+  {
+    "parroquia": "9 DE MAYO",
+    "id": 6490,
+    "votos": 106,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.57
+  },
+  {
+    "parroquia": "EL CAMBIO",
+    "id": 6795,
+    "votos": 174,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.08
+  },
+  {
+    "parroquia": "JUBONES",
+    "id": 7505,
+    "votos": 50,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.37
+  },
+  {
+    "parroquia": "JAMBELÍ",
+    "id": 7510,
+    "votos": 94,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.58
+  }
+]

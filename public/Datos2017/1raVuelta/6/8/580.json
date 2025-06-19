@@ -1,0 +1,93 @@
+[
+  {
+    "parroquia": "ALTO TAMBO/GUADAL",
+    "id": 70,
+    "votos": 7,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.17
+  },
+  {
+    "parroquia": "ANCÓN/PALMA REAL",
+    "id": 110,
+    "votos": 3,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.39
+  },
+  {
+    "parroquia": "CALDERÓN",
+    "id": 435,
+    "votos": 1,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.28
+  },
+  {
+    "parroquia": "CARONDELET",
+    "id": 535,
+    "votos": 2,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.36
+  },
+  {
+    "parroquia": "5 DE JUNIO/HUIMBI",
+    "id": 570,
+    "votos": 1,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.62
+  },
+  {
+    "parroquia": "CONCEPCIÓN",
+    "id": 620,
+    "votos": 2,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.29
+  },
+  {
+    "parroquia": "MATAJE",
+    "id": 2395,
+    "votos": 3,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.66
+  },
+  {
+    "parroquia": "SAN JAVIER DE CACHABI",
+    "id": 3455,
+    "votos": 2,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.49
+  },
+  {
+    "parroquia": "SANTA RITA",
+    "id": 3725,
+    "votos": 1,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.18
+  },
+  {
+    "parroquia": "TAMBILLO",
+    "id": 3955,
+    "votos": 5,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.81
+  },
+  {
+    "parroquia": "TULULBÍ /RICAURTE",
+    "id": 4075,
+    "votos": 3,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.36
+  },
+  {
+    "parroquia": "URBINA",
+    "id": 4125,
+    "votos": 4,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.8
+  },
+  {
+    "parroquia": "SAN LORENZO",
+    "id": 6130,
+    "votos": 33,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.29
+  }
+]

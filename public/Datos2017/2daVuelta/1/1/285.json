@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "ABDÓN CALDERÓN / LA UNIÓN",
+    "id": 15,
+    "votos": 865,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 47.06
+  },
+  {
+    "parroquia": "SHAGLLI",
+    "id": 3835,
+    "votos": 585,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 47.95
+  },
+  {
+    "parroquia": "SAN SALVADOR DE CAÑARIBAMBA",
+    "id": 4610,
+    "votos": 258,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 76.11
+  },
+  {
+    "parroquia": "SANTA ISABEL",
+    "id": 6045,
+    "votos": 5868,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 57.56
+  }
+]

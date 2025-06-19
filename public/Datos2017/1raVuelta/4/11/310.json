@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "CANGONAMÁ",
+    "id": 485,
+    "votos": 44,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.27
+  },
+  {
+    "parroquia": "SAN ANTONIO",
+    "id": 545,
+    "votos": 52,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.1
+  },
+  {
+    "parroquia": "CASANGA",
+    "id": 995,
+    "votos": 38,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.8
+  },
+  {
+    "parroquia": "YAMANA",
+    "id": 1000,
+    "votos": 82,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 14.49
+  },
+  {
+    "parroquia": "GUACHANAMA",
+    "id": 1380,
+    "votos": 33,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 4.82
+  },
+  {
+    "parroquia": "LAURO GUERRERO",
+    "id": 2140,
+    "votos": 64,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.48
+  },
+  {
+    "parroquia": "ORIANGA",
+    "id": 2630,
+    "votos": 50,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 4.96
+  },
+  {
+    "parroquia": "CATACOCHA",
+    "id": 5180,
+    "votos": 1033,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.79
+  },
+  {
+    "parroquia": "LOURDES",
+    "id": 5595,
+    "votos": 56,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.57
+  }
+]

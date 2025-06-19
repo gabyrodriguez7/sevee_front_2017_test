@@ -1,0 +1,65 @@
+[
+                {
+                    "parroquia": "GUALACEO",
+                    "id": 5420,
+                    "votos": 88,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 0.82
+                },
+                {
+                    "parroquia": "ZHIDMAD",
+                    "id": 4340,
+                    "votos": 7,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 0.72
+                },
+                {
+                    "parroquia": "SIMON BOLIVAR",
+                    "id": 3780,
+                    "votos": 0,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 0.0
+                },
+                {
+                    "parroquia": "SAN JUAN",
+                    "id": 3505,
+                    "votos": 15,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 0.93
+                },
+                {
+                    "parroquia": "REMIGIO CRESPO TORAL",
+                    "id": 3160,
+                    "votos": 2,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 0.53
+                },
+                {
+                    "parroquia": "MARIANO MORENO/CALLASAY",
+                    "id": 2385,
+                    "votos": 1,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 0.12
+                },
+                {
+                    "parroquia": "JADAN",
+                    "id": 1805,
+                    "votos": 10,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 0.58
+                },
+                {
+                    "parroquia": "LUIS CORDERO VEGA",
+                    "id": 1760,
+                    "votos": 0,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 0.0
+                },
+                {
+                    "parroquia": "DANIEL CORDOVA TORAL",
+                    "id": 1005,
+                    "votos": 5,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 0.57
+                }
+            ]

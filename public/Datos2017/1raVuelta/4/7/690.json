@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "CURTINCAPAC",
+    "id": 740,
+    "votos": 63,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 16.41
+  },
+  {
+    "parroquia": "SALATI",
+    "id": 3275,
+    "votos": 119,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 19.44
+  },
+  {
+    "parroquia": "MORALES",
+    "id": 4520,
+    "votos": 122,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 26.01
+  },
+  {
+    "parroquia": "PORTOVELO",
+    "id": 5850,
+    "votos": 2006,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 28.83
+  }
+]

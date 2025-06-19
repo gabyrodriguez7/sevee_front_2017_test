@@ -1,0 +1,52 @@
+[
+                {
+                    "parroquia": "LIMONAL",
+                    "id": 260,
+                    "votos": 161,
+                    "candidato": "Lasso Guillermo",
+                    "value": 10.62
+                },
+                {
+                    "parroquia": "JUAN BAUTISTA AGUIRRE",
+                    "id": 1855,
+                    "votos": 191,
+                    "candidato": "Lasso Guillermo",
+                    "value": 7.62
+                },
+                {
+                    "parroquia": "LAS LOJAS",
+                    "id": 2105,
+                    "votos": 218,
+                    "candidato": "Lasso Guillermo",
+                    "value": 7.81
+                },
+                {
+                    "parroquia": "EL LAUREL",
+                    "id": 4500,
+                    "votos": 466,
+                    "candidato": "Lasso Guillermo",
+                    "value": 12.12279
+                },
+                {
+                    "parroquia": "DAULE",
+                    "id": 5275,
+                    "votos": 6690,
+                    "candidato": "Lasso Guillermo",
+                    "value": 12.3
+                },
+                {
+                    "parroquia": "LA AURORA",
+                    "id": 6850,
+                    "votos": 2336,
+                    "candidato": "Lasso Guillermo",
+                    "value": 35.8
+                },
+                {
+                    "parroquia": "MAGRO",
+                    "id": 7425,
+                    "votos": 18,
+                    "candidato": "Lasso Guillermo",
+                    "value": 8.7
+                }
+            ]
+            

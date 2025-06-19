@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CUBE / CHANCAMA",
+        "id": 700,
+        "votos": 12,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "CHURA",
+        "id": 980,
+        "votos": 1,
+        "candidato": "Wray Norman",
+        "value": 0.2
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 1530,
+        "votos": 62,
+        "candidato": "Wray Norman",
+        "value": 0.67997
+    },
+    {
+        "parroquia": "MALIMPIA / GUAYLLABAMBA",
+        "id": 2345,
+        "votos": 27,
+        "candidato": "Wray Norman",
+        "value": 0.5
+    },
+    {
+        "parroquia": "VICHE",
+        "id": 4230,
+        "votos": 8,
+        "candidato": "Wray Norman",
+        "value": 0.2294236
+    },
+    {
+        "parroquia": "ROSA ZARATE",
+        "id": 5895,
+        "votos": 205,
+        "candidato": "Wray Norman",
+        "value": 0.5
+    }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "TONSUPA",
+    "id": 1615,
+    "votos": 24,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.47
+  },
+  {
+    "parroquia": "LA UNIÓN",
+    "id": 2130,
+    "votos": 7,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.48
+  },
+  {
+    "parroquia": "SÚA/BOCANA",
+    "id": 3880,
+    "votos": 3,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.15
+  },
+  {
+    "parroquia": "TONCHÍGUE",
+    "id": 4055,
+    "votos": 23,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.54
+  },
+  {
+    "parroquia": "ATACAMES",
+    "id": 6380,
+    "votos": 35,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.34
+  }
+]

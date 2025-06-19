@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "FUNDOCHAMBA",
+        "id": 360,
+        "votos": 117,
+        "candidato": "Correa Delgado Rafael",
+        "value": 41.489
+    },
+    {
+        "parroquia": "SAN ANTONIO DE LAS ARADAS",
+        "id": 3345,
+        "votos": 309,
+        "candidato": "Correa Delgado Rafael",
+        "value": 53.8328
+    },
+    {
+        "parroquia": "QUILANGA /LA PAZ",
+        "id": 6260,
+        "votos": 841,
+        "candidato": "Correa Delgado Rafael",
+        "value": 43.64
+    }
+]

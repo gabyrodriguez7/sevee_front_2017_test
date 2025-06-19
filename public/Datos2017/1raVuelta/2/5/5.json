@@ -1,0 +1,44 @@
+[
+    {
+        "canton": 100,
+        "candidato": "MONCAYO GALLEGOS PACO ROSENDO",
+        "votos": 22884,
+        "value": 43.65
+    },
+    {
+        "canton": 105,
+        "candidato": "MONCAYO GALLEGOS PACO ROSENDO",
+        "votos": 8318,
+        "value": 15.87
+    },
+    {
+        "canton": 110,
+        "candidato": "MONCAYO GALLEGOS PACO ROSENDO",
+        "votos": 9653,
+        "value": 18.41
+    },
+    {
+        "canton": 115,
+        "candidato": "MONCAYO GALLEGOS PACO ROSENDO",
+        "votos": 3744,
+        "value": 7.14
+    },
+    {
+        "canton": 120,
+        "candidato": "MONCAYO GALLEGOS PACO ROSENDO",
+        "votos": 2012,
+        "value": 3.84
+    },
+    {
+        "canton": 825,
+        "candidato": "MONCAYO GALLEGOS PACO ROSENDO",
+        "votos": 3558,
+        "value": 6.79
+    },
+    {
+        "canton": 930,
+        "candidato": "MONCAYO GALLEGOS PACO ROSENDO",
+        "votos": 2252,
+        "value": 4.3
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "EL TAMBO",
+        "id": 1200,
+        "votos": 78,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.0
+    },
+    {
+        "parroquia": "GUAYQUICHUMA",
+        "id": 1480,
+        "votos": 10,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.367
+    },
+    {
+        "parroquia": "SAN PEDRO DE LA BENDITA",
+        "id": 3610,
+        "votos": 45,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.1
+    },
+    {
+        "parroquia": "ZAMBI",
+        "id": 4455,
+        "votos": 29,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 8.815
+    },
+    {
+        "parroquia": "CATAMAYO",
+        "id": 5270,
+        "votos": 558,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.0
+    },
+    {
+        "parroquia": "SAN JOSE",
+        "id": 6825,
+        "votos": 14,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.7
+    }
+]

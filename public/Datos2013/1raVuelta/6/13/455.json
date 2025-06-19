@@ -1,0 +1,80 @@
+[
+                {
+                    "parroquia": "AMERICA /LA CERA",
+                    "id": 105,
+                    "votos": 499,
+                    "candidato": "Lasso Guillermo",
+                    "value": 23.25
+                },
+                {
+                    "parroquia": "LA UNION",
+                    "id": 560,
+                    "votos": 71,
+                    "candidato": "Lasso Guillermo",
+                    "value": 9.02
+                },
+                {
+                    "parroquia": "EL ANEGADO",
+                    "id": 1115,
+                    "votos": 469,
+                    "candidato": "Lasso Guillermo",
+                    "value": 13.839
+                },
+                {
+                    "parroquia": "JULCUY",
+                    "id": 1880,
+                    "votos": 166,
+                    "candidato": "Lasso Guillermo",
+                    "value": 13.663
+                },
+                {
+                    "parroquia": "PEDRO PABLO GOMEZ",
+                    "id": 2810,
+                    "votos": 531,
+                    "candidato": "Lasso Guillermo",
+                    "value": 19.8208
+                },
+                {
+                    "parroquia": "PUERTO CAYO",
+                    "id": 2990,
+                    "votos": 198,
+                    "candidato": "Lasso Guillermo",
+                    "value": 10.3882
+                },
+                {
+                    "parroquia": "MEMBRILLAL",
+                    "id": 4490,
+                    "votos": 112,
+                    "candidato": "Lasso Guillermo",
+                    "value": 17.4727
+                },
+                {
+                    "parroquia": "JIPIJAPA",
+                    "id": 5485,
+                    "votos": 6421,
+                    "candidato": "Lasso Guillermo",
+                    "value": 26.1697
+                },
+                {
+                    "parroquia": "DR. MIGUEL MORAN LUCIO",
+                    "id": 7465,
+                    "votos": 1037,
+                    "candidato": "Lasso Guillermo",
+                    "value": 30.1453
+                },
+                {
+                    "parroquia": "MANUEL INOCENCIO PARRALES",
+                    "id": 7470,
+                    "votos": 436,
+                    "candidato": "Lasso Guillermo",
+                    "value": 26.536823
+                },
+                {
+                    "parroquia": "SAN LORENZO DE JIPIJAPA",
+                    "id": 7475,
+                    "votos": 1916,
+                    "candidato": "Lasso Guillermo",
+                    "value": 32.86449
+                }
+            ]
+            

@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "SAN LUIS DE PAMBIL",
+        "id": 795,
+        "votos": 497,
+        "candidato": "Lasso Guillermo",
+        "value": 16.0
+    },
+    {
+        "parroquia": "FACUNDO VELA",
+        "id": 1255,
+        "votos": 238,
+        "candidato": "Lasso Guillermo",
+        "value": 24.0
+    },
+    {
+        "parroquia": "JULIO E MORENO",
+        "id": 1890,
+        "votos": 123,
+        "candidato": "Lasso Guillermo",
+        "value": 13.1
+    },
+    {
+        "parroquia": "SALINAS",
+        "id": 3285,
+        "votos": 518,
+        "candidato": "Lasso Guillermo",
+        "value": 24.844125
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 3545,
+        "votos": 304,
+        "candidato": "Lasso Guillermo",
+        "value": 24.66
+    },
+    {
+        "parroquia": "SAN SIMON",
+        "id": 3670,
+        "votos": 540,
+        "candidato": "Lasso Guillermo",
+        "value": 27.02702703
+    },
+    {
+        "parroquia": "SANTA FE",
+        "id": 3710,
+        "votos": 370,
+        "candidato": "Lasso Guillermo",
+        "value": 30.15
+    },
+    {
+        "parroquia": "SIMIATUG",
+        "id": 3860,
+        "votos": 612,
+        "candidato": "Lasso Guillermo",
+        "value": 15.0
+    },
+    {
+        "parroquia": "ANGEL POLIVIO CHAVEZ",
+        "id": 5035,
+        "votos": 3417,
+        "candidato": "Lasso Guillermo",
+        "value": 41.2
+    },
+    {
+        "parroquia": "GABRIEL I VEINTIMILLA",
+        "id": 5375,
+        "votos": 4774,
+        "candidato": "Lasso Guillermo",
+        "value": 38.0
+    },
+    {
+        "parroquia": "GUANUJO",
+        "id": 6630,
+        "votos": 3509,
+        "candidato": "Lasso Guillermo",
+        "value": 27.0
+    }
+]

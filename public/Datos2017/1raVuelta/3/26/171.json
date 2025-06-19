@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "C. E. EN PALMA DE MALLORCA",
+    "id": 9021,
+    "votos": 719,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 40.76
+  },
+  {
+    "parroquia": "C. E. EN BARCELONA",
+    "id": 9023,
+    "votos": 4454,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 42.03
+  },
+  {
+    "parroquia": "C. E. EN MADRID",
+    "id": 9024,
+    "votos": 8136,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 44.41
+  },
+  {
+    "parroquia": "C. E. EN VALENCIA",
+    "id": 9025,
+    "votos": 2890,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 52.56
+  },
+  {
+    "parroquia": "C. E. EN MURCIA",
+    "id": 9026,
+    "votos": 3749,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 48.66
+  },
+  {
+    "parroquia": "C. E. EN MALAGA",
+    "id": 9066,
+    "votos": 1380,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 42.51
+  },
+  {
+    "parroquia": "C. E. EN ALICANTE",
+    "id": 9074,
+    "votos": 874,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 50.35
+  }
+]

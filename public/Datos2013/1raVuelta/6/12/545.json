@@ -1,0 +1,38 @@
+[
+                {
+                    "parroquia": "ZAPOTAL",
+                    "id": 4330,
+                    "votos": 376,
+                    "candidato": "Lasso Guillermo",
+                    "value": 9.485368
+                },
+                {
+                    "parroquia": "LOS ANGELES",
+                    "id": 4585,
+                    "votos": 43,
+                    "candidato": "Lasso Guillermo",
+                    "value": 8.398
+                },
+                {
+                    "parroquia": "CHACARITA",
+                    "id": 4590,
+                    "votos": 49,
+                    "candidato": "Lasso Guillermo",
+                    "value": 8.4775
+                },
+                {
+                    "parroquia": "VENTANAS",
+                    "id": 6235,
+                    "votos": 4545,
+                    "candidato": "Lasso Guillermo",
+                    "value": 14.29515
+                },
+                {
+                    "parroquia": "10 DE NOVIEMBRE",
+                    "id": 7480,
+                    "votos": 62,
+                    "candidato": "Lasso Guillermo",
+                    "value": 8.85714
+                }
+            ]
+            

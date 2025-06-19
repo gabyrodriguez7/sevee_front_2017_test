@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "TULCAN",
+        "id": 6165,
+        "votos": 7598,
+        "candidato": "Rafael Correa Delgado",
+        "value": 39.33
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 5415,
+        "votos": 6147,
+        "candidato": "Rafael Correa Delgado",
+        "value": 39.28
+    },
+    {
+        "parroquia": "URBINA",
+        "id": 4130,
+        "votos": 357,
+        "candidato": "Rafael Correa Delgado",
+        "value": 48.9
+    },
+    {
+        "parroquia": "TUFIÑO",
+        "id": 4070,
+        "votos": 709,
+        "candidato": "Rafael Correa Delgado",
+        "value": 52.98
+    },
+    {
+        "parroquia": "TOBAR DONOSO",
+        "id": 4040,
+        "votos": 61,
+        "candidato": "Rafael Correa Delgado",
+        "value": 76.25
+    },
+    {
+        "parroquia": "PIOTER",
+        "id": 2900,
+        "votos": 242,
+        "candidato": "Rafael Correa Delgado",
+        "value": 55.12
+    },
+    {
+        "parroquia": "MALDONADO",
+        "id": 2340,
+        "votos": 391,
+        "candidato": "Rafael Correa Delgado",
+        "value": 63.26
+    },
+    {
+        "parroquia": "JULIO ANDRADE",
+        "id": 1885,
+        "votos": 2306,
+        "candidato": "Rafael Correa Delgado",
+        "value": 45.75
+    },
+    {
+        "parroquia": "SANTA MARTHA DE CUBA",
+        "id": 1765,
+        "votos": 710,
+        "candidato": "Rafael Correa Delgado",
+        "value": 67.68
+    },
+    {
+        "parroquia": "EL CHICAL",
+        "id": 1195,
+        "votos": 464,
+        "candidato": "Rafael Correa Delgado",
+        "value": 58.88
+    },
+    {
+        "parroquia": "EL CARMELO/EL PUN/",
+        "id": 1125,
+        "votos": 690,
+        "candidato": "Rafael Correa Delgado",
+        "value": 53.78
+    }
+]

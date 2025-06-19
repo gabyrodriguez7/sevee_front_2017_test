@@ -1,0 +1,100 @@
+[
+  {
+    "parroquia": "ZARACAY",
+    "id": 6180,
+    "votos": 58,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 2.23
+  },
+  {
+    "parroquia": "CHIGUILPE",
+    "id": 6175,
+    "votos": 110,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.51
+  },
+  {
+    "parroquia": "SANTO DOMINGO",
+    "id": 6065,
+    "votos": 1226,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.19
+  },
+  {
+    "parroquia": "RIO TOACHI",
+    "id": 5870,
+    "votos": 17,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.83
+  },
+  {
+    "parroquia": "RIO VERDE",
+    "id": 5865,
+    "votos": 192,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.24
+  },
+  {
+    "parroquia": "BOMBOLI",
+    "id": 5860,
+    "votos": 191,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.38
+  },
+  {
+    "parroquia": "ABRAHAM CALAZACON",
+    "id": 5730,
+    "votos": 126,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.09
+  },
+  {
+    "parroquia": "PUERTO LIMON",
+    "id": 4440,
+    "votos": 28,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.69
+  },
+  {
+    "parroquia": "SANTA MARIA DEL TOACHI",
+    "id": 2045,
+    "votos": 2,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.16
+  },
+  {
+    "parroquia": "EL ESFUERZO",
+    "id": 1990,
+    "votos": 9,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.52
+  },
+  {
+    "parroquia": "SAN JACINTO DEL BUA",
+    "id": 1970,
+    "votos": 14,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.42
+  },
+  {
+    "parroquia": "LUZ DE AMERICA",
+    "id": 1755,
+    "votos": 16,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.87
+  },
+  {
+    "parroquia": "VALLE HERMOSO",
+    "id": 305,
+    "votos": 23,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.92
+  },
+  {
+    "parroquia": "ALLURIQUIN",
+    "id": 75,
+    "votos": 41,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.07
+  }
+]

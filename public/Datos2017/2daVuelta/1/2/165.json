@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "SAN LUIS DE PAMBIL",
+    "id": 795,
+    "votos": 2237,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 58.71
+  },
+  {
+    "parroquia": "FACUNDO VELA",
+    "id": 1255,
+    "votos": 895,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 57.41
+  },
+  {
+    "parroquia": "JULIO E MORENO",
+    "id": 1890,
+    "votos": 1000,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 74.18
+  },
+  {
+    "parroquia": "SALINAS",
+    "id": 3285,
+    "votos": 1545,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 56.33
+  },
+  {
+    "parroquia": "SAN LORENZO",
+    "id": 3545,
+    "votos": 901,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 63.95
+  },
+  {
+    "parroquia": "SAN SIMÓN",
+    "id": 3670,
+    "votos": 1634,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 65.99
+  },
+  {
+    "parroquia": "SANTA FE",
+    "id": 3710,
+    "votos": 909,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 64.88
+  },
+  {
+    "parroquia": "SIMIATUG",
+    "id": 3860,
+    "votos": 3506,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 58.09
+  },
+  {
+    "parroquia": "ÁNGEL POLIVIO CHÁVEZ",
+    "id": 5035,
+    "votos": 6133,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 69.1
+  },
+  {
+    "parroquia": "GABRIEL I VEINTIMILLA",
+    "id": 5375,
+    "votos": 10623,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 70.82
+  },
+  {
+    "parroquia": "GUANUJO",
+    "id": 6630,
+    "votos": 12167,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 72.13
+  }
+]

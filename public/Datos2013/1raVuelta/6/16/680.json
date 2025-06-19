@@ -1,0 +1,100 @@
+[
+  {
+    "parroquia": "CANELOS",
+    "id": 475,
+    "votos": 149,
+    "candidato": "Lasso Guillermo",
+    "value": 18.0
+  },
+  {
+    "parroquia": "10 DE AGOSTO",
+    "id": 1025,
+    "votos": 232,
+    "candidato": "Lasso Guillermo",
+    "value": 27.0
+  },
+  {
+    "parroquia": "FATIMA",
+    "id": 1260,
+    "votos": 220,
+    "candidato": "Lasso Guillermo",
+    "value": 27.7
+  },
+  {
+    "parroquia": "EL TRIUNFO",
+    "id": 1275,
+    "votos": 261,
+    "candidato": "Lasso Guillermo",
+    "value": 30.6
+  },
+  {
+    "parroquia": "MONTALVO/ANDOAS",
+    "id": 2450,
+    "votos": 47,
+    "candidato": "Lasso Guillermo",
+    "value": 6.1
+  },
+  {
+    "parroquia": "POMONA",
+    "id": 3055,
+    "votos": 68,
+    "candidato": "Lasso Guillermo",
+    "value": 36.0
+  },
+  {
+    "parroquia": "RIO CORRIENTES",
+    "id": 3180,
+    "votos": 14,
+    "candidato": "Lasso Guillermo",
+    "value": 4.0
+  },
+  {
+    "parroquia": "RIO TIGRE",
+    "id": 3195,
+    "votos": 18,
+    "candidato": "Lasso Guillermo",
+    "value": 9.0
+  },
+  {
+    "parroquia": "ZARAYACU",
+    "id": 3785,
+    "votos": 66,
+    "candidato": "Lasso Guillermo",
+    "value": 6.18
+  },
+  {
+    "parroquia": "TARQUI",
+    "id": 3985,
+    "votos": 303,
+    "candidato": "Lasso Guillermo",
+    "value": 32.7
+  },
+  {
+    "parroquia": "TNTE. HUGO ORTIZ",
+    "id": 4005,
+    "votos": 142,
+    "candidato": "Lasso Guillermo",
+    "value": 30.0
+  },
+  {
+    "parroquia": "VERACRUZ",
+    "id": 4205,
+    "votos": 367,
+    "candidato": "Lasso Guillermo",
+    "value": 30.58
+  },
+  {
+    "parroquia": "SIMON BOLIVAR",
+    "id": 4510,
+    "votos": 260,
+    "candidato": "Lasso Guillermo",
+    "value": 11.6
+  },
+  {
+    "parroquia": "PUYO",
+    "id": 5825,
+    "votos": 8275,
+    "candidato": "Lasso Guillermo",
+    "value": 36.0
+  }
+]

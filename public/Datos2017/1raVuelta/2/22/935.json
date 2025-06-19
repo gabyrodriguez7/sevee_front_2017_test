@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "AVILA",
+    "id": 215,
+    "votos": 256,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 12.56
+  },
+  {
+    "parroquia": "SAN VICENTE DE HUATICOCHA",
+    "id": 400,
+    "votos": 87,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 13.68
+  },
+  {
+    "parroquia": "PUERTO MURIALDO",
+    "id": 1050,
+    "votos": 262,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 16.66
+  },
+  {
+    "parroquia": "SAN JOSÉ DE DAHUANO",
+    "id": 1680,
+    "votos": 305,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 14.06
+  },
+  {
+    "parroquia": "SAN JOSÉ DE PAYAMINO",
+    "id": 3480,
+    "votos": 271,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 19.58
+  },
+  {
+    "parroquia": "LORETO",
+    "id": 6455,
+    "votos": 438,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.73
+  }
+]

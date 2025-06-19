@@ -1,0 +1,149 @@
+[
+    {
+        "parroquia": "PASCUALES",
+        "id": 6405,
+        "votos": 204,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.98
+    },
+    {
+        "parroquia": "CHONGON",
+        "id": 6400,
+        "votos": 56,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.08
+    },
+    {
+        "parroquia": "XIMENA",
+        "id": 6265,
+        "votos": 4184,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.68
+    },
+    {
+        "parroquia": "URDANETA",
+        "id": 6185,
+        "votos": 414,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.74
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 6150,
+        "votos": 6204,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.9
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 6095,
+        "votos": 250,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.68
+    },
+    {
+        "parroquia": "ROCAFUERTE",
+        "id": 5890,
+        "votos": 173,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.41
+    },
+    {
+        "parroquia": "ROCA",
+        "id": 5880,
+        "votos": 272,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 2.31
+    },
+    {
+        "parroquia": "OLMEDO/SAN ALEJO",
+        "id": 5720,
+        "votos": 205,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.56
+    },
+    {
+        "parroquia": "9 DE OCTUBRE",
+        "id": 5695,
+        "votos": 155,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.5
+    },
+    {
+        "parroquia": "LETAMENDI",
+        "id": 5585,
+        "votos": 1128,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.61
+    },
+    {
+        "parroquia": "GARCIA MORENO",
+        "id": 5380,
+        "votos": 817,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.69
+    },
+    {
+        "parroquia": "FEBRES CORDERO",
+        "id": 5355,
+        "votos": 3293,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.43
+    },
+    {
+        "parroquia": "CARBO/CONCEPCION",
+        "id": 5170,
+        "votos": 440,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.7
+    },
+    {
+        "parroquia": "BOLIVAR/SAGRARIO",
+        "id": 5125,
+        "votos": 187,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.54
+    },
+    {
+        "parroquia": "AYACUCHO",
+        "id": 5055,
+        "votos": 269,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.89
+    },
+    {
+        "parroquia": "TENGUEL",
+        "id": 4120,
+        "votos": 26,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.57
+    },
+    {
+        "parroquia": "PUNA",
+        "id": 3030,
+        "votos": 13,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.54
+    },
+    {
+        "parroquia": "POSORJA",
+        "id": 2940,
+        "votos": 23,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.27
+    },
+    {
+        "parroquia": "MORRO",
+        "id": 2470,
+        "votos": 7,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.45
+    },
+    {
+        "parroquia": "JUAN GOMEZ RENDON",
+        "id": 1870,
+        "votos": 31,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.77
+    }
+]

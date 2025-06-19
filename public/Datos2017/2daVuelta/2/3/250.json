@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "MANUEL J. CALLE",
+    "id": 2365,
+    "votos": 1816,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 68.04
+  },
+  {
+    "parroquia": "PANCHO NEGRO",
+    "id": 2745,
+    "votos": 2348,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 73.24
+  },
+  {
+    "parroquia": "LA TRONCAL",
+    "id": 5610,
+    "votos": 14315,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 52.57
+  }
+]

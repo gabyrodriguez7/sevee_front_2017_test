@@ -1,0 +1,72 @@
+[
+  {
+    "parroquia": "AMAZONAS",
+    "id": 90,
+    "votos": 2,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.22
+  },
+  {
+    "parroquia": "BERMEJOS",
+    "id": 340,
+    "votos": 1,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.52
+  },
+  {
+    "parroquia": "BOMBOIZA",
+    "id": 350,
+    "votos": 24,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.16
+  },
+  {
+    "parroquia": "CHIGUINDA",
+    "id": 880,
+    "votos": 3,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.84
+  },
+  {
+    "parroquia": "EL IDEAL",
+    "id": 1910,
+    "votos": 7,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.53
+  },
+  {
+    "parroquia": "NUEVA TARQUI",
+    "id": 2565,
+    "votos": 7,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.57
+  },
+  {
+    "parroquia": "ROSARIO",
+    "id": 3225,
+    "votos": 7,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.91
+  },
+  {
+    "parroquia": "SAN MIGUEL DE CUYES",
+    "id": 3580,
+    "votos": 0,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0
+  },
+  {
+    "parroquia": "GUALAQUIZA",
+    "id": 5425,
+    "votos": 53,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.91
+  },
+  {
+    "parroquia": "MERCEDES MOLINA",
+    "id": 5655,
+    "votos": 3,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.38
+  }
+]

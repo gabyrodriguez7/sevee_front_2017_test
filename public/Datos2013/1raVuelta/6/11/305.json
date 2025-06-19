@@ -1,0 +1,80 @@
+[
+                {
+                    "parroquia": "SUMAYPAMBA",
+                    "id": 310,
+                    "votos": 42,
+                    "candidato": "Lasso Guillermo",
+                    "value": 7.8
+                },
+                {
+                    "parroquia": "EL PARAISO DE CELEN",
+                    "id": 1165,
+                    "votos": 257,
+                    "candidato": "Lasso Guillermo",
+                    "value": 21.3278
+                },
+                {
+                    "parroquia": "EL TABLON",
+                    "id": 1190,
+                    "votos": 42,
+                    "candidato": "Lasso Guillermo",
+                    "value": 11.9
+                },
+                {
+                    "parroquia": "LLUZHAPA",
+                    "id": 2280,
+                    "votos": 241,
+                    "candidato": "Lasso Guillermo",
+                    "value": 29.9
+                },
+                {
+                    "parroquia": "MANU",
+                    "id": 2360,
+                    "votos": 356,
+                    "candidato": "Lasso Guillermo",
+                    "value": 22.0
+                },
+                {
+                    "parroquia": "SAN ANTONIO DE CUMBE",
+                    "id": 3340,
+                    "votos": 121,
+                    "candidato": "Lasso Guillermo",
+                    "value": 19.71
+                },
+                {
+                    "parroquia": "SAN PABLO DE TENTA",
+                    "id": 3600,
+                    "votos": 214,
+                    "candidato": "Lasso Guillermo",
+                    "value": 13.34
+                },
+                {
+                    "parroquia": "SAN SEBASTIAN DE YULOG",
+                    "id": 3665,
+                    "votos": 72,
+                    "candidato": "Lasso Guillermo",
+                    "value": 14.0
+                },
+                {
+                    "parroquia": "SELVA ALEGRE",
+                    "id": 3815,
+                    "votos": 180,
+                    "candidato": "Lasso Guillermo",
+                    "value": 17.7
+                },
+                {
+                    "parroquia": "URDANETA/PAQUISHAPA",
+                    "id": 4145,
+                    "votos": 347,
+                    "candidato": "Lasso Guillermo",
+                    "value": 17.9
+                },
+                {
+                    "parroquia": "SARAGURO",
+                    "id": 6075,
+                    "votos": 1391,
+                    "candidato": "Lasso Guillermo",
+                    "value": 24.7
+                }
+            ]
+            

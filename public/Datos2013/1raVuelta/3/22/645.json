@@ -1,0 +1,86 @@
+[
+    {
+        "parroquia": "DAYUMA",
+        "id": 1235,
+        "votos": 28,
+        "candidato": "Wray Norman",
+        "value": 0.88
+    },
+    {
+        "parroquia": "TARACOA",
+        "id": 1245,
+        "votos": 7,
+        "candidato": "Wray Norman",
+        "value": 0.5
+    },
+    {
+        "parroquia": "EL DORADO",
+        "id": 1560,
+        "votos": 9,
+        "candidato": "Wray Norman",
+        "value": 0.865
+    },
+    {
+        "parroquia": "INES ARANGO",
+        "id": 1565,
+        "votos": 3,
+        "candidato": "Wray Norman",
+        "value": 0.0
+    },
+    {
+        "parroquia": "ALEJANDRO LABAKA",
+        "id": 1580,
+        "votos": 0,
+        "candidato": "Wray Norman",
+        "value": 0.0
+    },
+    {
+        "parroquia": "EL EDEN",
+        "id": 1590,
+        "votos": 0,
+        "candidato": "Wray Norman",
+        "value": 0.0
+    },
+    {
+        "parroquia": "GARCIA MORENO",
+        "id": 1810,
+        "votos": 7,
+        "candidato": "Wray Norman",
+        "value": 0.9
+    },
+    {
+        "parroquia": "LA BELLEZA",
+        "id": 1820,
+        "votos": 13,
+        "candidato": "Wray Norman",
+        "value": 0.66
+    },
+    {
+        "parroquia": "SAN LUIS DE ARMENIA",
+        "id": 1935,
+        "votos": 3,
+        "candidato": "Wray Norman",
+        "value": 0.3
+    },
+    {
+        "parroquia": "NUEVO PARAISO",
+        "id": 1940,
+        "votos": 6,
+        "candidato": "Wray Norman",
+        "value": 0.5
+    },
+    {
+        "parroquia": "SAN JOSE DE GUAYUSA",
+        "id": 1945,
+        "votos": 3,
+        "candidato": "Wray Norman",
+        "value": 0.4
+    },
+    {
+        "parroquia": "PTO. FCO. DE ORELLANA",
+        "id": 5815,
+        "votos": 184,
+        "candidato": "Wray Norman",
+        "value": 0.77
+    }
+]

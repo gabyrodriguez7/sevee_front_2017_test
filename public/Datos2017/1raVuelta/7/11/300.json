@@ -1,0 +1,121 @@
+[
+  {
+    "parroquia": "CHUQUIRIBAMBA",
+    "id": 975,
+    "votos": 20,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.3
+  },
+  {
+    "parroquia": "EL CISNE",
+    "id": 1135,
+    "votos": 8,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.82
+  },
+  {
+    "parroquia": "GUALEL",
+    "id": 1405,
+    "votos": 14,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.26
+  },
+  {
+    "parroquia": "QUINARA",
+    "id": 1780,
+    "votos": 12,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.49
+  },
+  {
+    "parroquia": "JIMBILLA",
+    "id": 1840,
+    "votos": 12,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.47
+  },
+  {
+    "parroquia": "MALACATOS/VALLADOLID",
+    "id": 2325,
+    "votos": 89,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.88
+  },
+  {
+    "parroquia": "SAN LUCAS",
+    "id": 3555,
+    "votos": 38,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.39
+  },
+  {
+    "parroquia": "SANTIAGO",
+    "id": 3770,
+    "votos": 12,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.33
+  },
+  {
+    "parroquia": "TAQUIL /MIGUEL RIOFÍO",
+    "id": 3970,
+    "votos": 33,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.89
+  },
+  {
+    "parroquia": "VILCABAMBA/VICTORIA",
+    "id": 4235,
+    "votos": 67,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.06
+  },
+  {
+    "parroquia": "YANGANA / ARSENIO CASTILLO",
+    "id": 4280,
+    "votos": 10,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1
+  },
+  {
+    "parroquia": "CHANTACO",
+    "id": 4475,
+    "votos": 13,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.72
+  },
+  {
+    "parroquia": "SAN PEDRO DE VILCABAMBA",
+    "id": 4540,
+    "votos": 10,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.44
+  },
+  {
+    "parroquia": "EL SAGRARIO",
+    "id": 5320,
+    "votos": 238,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.37
+  },
+  {
+    "parroquia": "SAN SEBASTIÁN",
+    "id": 6015,
+    "votos": 416,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.66
+  },
+  {
+    "parroquia": "SUCRE",
+    "id": 6100,
+    "votos": 1119,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.26
+  },
+  {
+    "parroquia": "VALLE",
+    "id": 6210,
+    "votos": 668,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.13
+  }
+]

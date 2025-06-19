@@ -1,0 +1,30 @@
+[
+                {
+                    "parroquia": "PEDERNALES",
+                    "id": 6430,
+                    "votos": 133,
+                    "candidato": "Melba Jacome",
+                    "value": 0.92
+                },
+                {
+                    "parroquia": "10 DE AGOSTO",
+                    "id": 1030,
+                    "votos": 9,
+                    "candidato": "Melba Jacome",
+                    "value": 0.67
+                },
+                {
+                    "parroquia": "ATAHUALPA",
+                    "id": 785,
+                    "votos": 6,
+                    "candidato": "Melba Jacome",
+                    "value": 0.75
+                },
+                {
+                    "parroquia": "COJIMIES",
+                    "id": 580,
+                    "votos": 14,
+                    "candidato": "Melba Jacome",
+                    "value": 0.7
+                }
+            ]

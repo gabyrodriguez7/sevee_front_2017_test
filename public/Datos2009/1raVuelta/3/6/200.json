@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "LA MATRIZ",
+    "id": 5550,
+    "votos": 33,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.45
+  },
+  {
+    "parroquia": "EL ROSARIO",
+    "id": 5315,
+    "votos": 10,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 1.0
+  },
+  {
+    "parroquia": "SAN ISIDRO DE PATULU",
+    "id": 3450,
+    "votos": 19,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 1.0
+  },
+  {
+    "parroquia": "SAN GERARDO / PAQUICAHUAN",
+    "id": 3425,
+    "votos": 4,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.38
+  },
+  {
+    "parroquia": "SAN ANDRES",
+    "id": 3295,
+    "votos": 49,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.78
+  },
+  {
+    "parroquia": "LA PROVIDENCIA",
+    "id": 2080,
+    "votos": 10,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 2.98
+  },
+  {
+    "parroquia": "ILAPO",
+    "id": 1705,
+    "votos": 14,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 1.12
+  },
+  {
+    "parroquia": "GUANANDO",
+    "id": 1415,
+    "votos": 1,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.28
+  },
+  {
+    "parroquia": "VALPARAISO",
+    "id": 410,
+    "votos": 1,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.42
+  },
+  {
+    "parroquia": "SAN JOSE DEL CHAZO",
+    "id": 45,
+    "votos": 2,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.35
+  },
+  {
+    "parroquia": "SANTA FE DE GALAN",
+    "id": 40,
+    "votos": 2,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.38
+  }
+]

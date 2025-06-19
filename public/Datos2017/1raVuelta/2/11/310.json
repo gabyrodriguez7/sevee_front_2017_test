@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "CANGONAMÁ",
+    "id": 485,
+    "votos": 35,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.79
+  },
+  {
+    "parroquia": "SAN ANTONIO",
+    "id": 545,
+    "votos": 20,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.04
+  },
+  {
+    "parroquia": "CASANGA",
+    "id": 995,
+    "votos": 11,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.26
+  },
+  {
+    "parroquia": "YAMANA",
+    "id": 1000,
+    "votos": 20,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.53
+  },
+  {
+    "parroquia": "GUACHANAMA",
+    "id": 1380,
+    "votos": 36,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.26
+  },
+  {
+    "parroquia": "LAURO GUERRERO",
+    "id": 2140,
+    "votos": 56,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.67
+  },
+  {
+    "parroquia": "ORIANGA",
+    "id": 2630,
+    "votos": 31,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.08
+  },
+  {
+    "parroquia": "CATACOCHA",
+    "id": 5180,
+    "votos": 544,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.21
+  },
+  {
+    "parroquia": "LOURDES",
+    "id": 5595,
+    "votos": 67,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.05
+  }
+]

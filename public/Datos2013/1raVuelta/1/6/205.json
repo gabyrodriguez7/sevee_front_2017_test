@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CANI",
+        "id": 500,
+        "votos": 7,
+        "candidato": "Noboa Alvaro",
+        "value": 1.321
+    },
+    {
+        "parroquia": "COLUMBE",
+        "id": 610,
+        "votos": 326,
+        "candidato": "Noboa Alvaro",
+        "value": 3.113
+    },
+    {
+        "parroquia": "JUAN DE VELASCO / PONGOR",
+        "id": 1865,
+        "votos": 31,
+        "candidato": "Noboa Alvaro",
+        "value": 2.0
+    },
+    {
+        "parroquia": "SANTIAGO DE QUITO",
+        "id": 4430,
+        "votos": 34,
+        "candidato": "Noboa Alvaro",
+        "value": 2.48
+    },
+    {
+        "parroquia": "CAJABAMBA",
+        "id": 5145,
+        "votos": 238,
+        "candidato": "Noboa Alvaro",
+        "value": 3.22
+    },
+    {
+        "parroquia": "SICALPA",
+        "id": 6080,
+        "votos": 242,
+        "candidato": "Noboa Alvaro",
+        "value": 3.9388
+    }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "ANCONCITO",
+    "id": 115,
+    "votos": 4226,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 63.0746269
+  },
+  {
+    "parroquia": "JOSE LUIS TAMAYO / MUEY",
+    "id": 1850,
+    "votos": 5960,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 48.7366097
+  },
+  {
+    "parroquia": "SALINAS",
+    "id": 5920,
+    "votos": 5554,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 40.3369889
+  },
+  {
+    "parroquia": "GRAL. A. E. GALLO",
+    "id": 6270,
+    "votos": 621,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 38.1918819
+  },
+  {
+    "parroquia": "VICENTE ROCAFUERTE",
+    "id": 6275,
+    "votos": 1012,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 48.2824427
+  },
+  {
+    "parroquia": "CARLOS ESPINOZA LARREA",
+    "id": 6280,
+    "votos": 1357,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 37.7889167
+  },
+  {
+    "parroquia": "SANTA ROSA",
+    "id": 6925,
+    "votos": 2101,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 53.6928188
+  }
+]

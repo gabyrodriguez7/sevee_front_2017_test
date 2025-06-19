@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "DANIEL CORDOVA TORAL",
+        "id": 1005,
+        "votos": 90,
+        "candidato": "Gutierrez Lucio",
+        "value": 8.0
+    },
+    {
+        "parroquia": "LUIS CORDERO VEGA",
+        "id": 1760,
+        "votos": 24,
+        "candidato": "Gutierrez Lucio",
+        "value": 8.633094
+    },
+    {
+        "parroquia": "JADAN",
+        "id": 1805,
+        "votos": 202,
+        "candidato": "Gutierrez Lucio",
+        "value": 9.0
+    },
+    {
+        "parroquia": "MARIANO MORENO/CALLASAY",
+        "id": 2385,
+        "votos": 83,
+        "candidato": "Gutierrez Lucio",
+        "value": 8.0
+    },
+    {
+        "parroquia": "REMIGIO CRESPO TORAL",
+        "id": 3160,
+        "votos": 38,
+        "candidato": "Gutierrez Lucio",
+        "value": 7.63
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3505,
+        "votos": 303,
+        "candidato": "Gutierrez Lucio",
+        "value": 12.8
+    },
+    {
+        "parroquia": "SIMON BOLIVAR",
+        "id": 3780,
+        "votos": 60,
+        "candidato": "Gutierrez Lucio",
+        "value": 16.66666667
+    },
+    {
+        "parroquia": "ZHIDMAD",
+        "id": 4340,
+        "votos": 102,
+        "candidato": "Gutierrez Lucio",
+        "value": 7.0
+    },
+    {
+        "parroquia": "GUALACEO",
+        "id": 5420,
+        "votos": 892,
+        "candidato": "Gutierrez Lucio",
+        "value": 6.0
+    }
+]

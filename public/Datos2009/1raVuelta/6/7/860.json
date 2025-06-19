@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "MARCABELI",
+        "id": 6570,
+        "votos": 20,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.74
+    },
+    {
+        "parroquia": "EL INGENIO",
+        "id": 160,
+        "votos": 0,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.0
+    }
+]

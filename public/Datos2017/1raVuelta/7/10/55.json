@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "CAHUASQUÍ",
+    "id": 425,
+    "votos": 25,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.91
+  },
+  {
+    "parroquia": "LA MERCED DE BUENOS AIRES",
+    "id": 2060,
+    "votos": 9,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.84
+  },
+  {
+    "parroquia": "PABLO ARENAS",
+    "id": 2675,
+    "votos": 24,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.71
+  },
+  {
+    "parroquia": "SAN BLAS",
+    "id": 3365,
+    "votos": 20,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.04
+  },
+  {
+    "parroquia": "TUMBABIRO",
+    "id": 4080,
+    "votos": 18,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.71
+  },
+  {
+    "parroquia": "URCUQUÍ",
+    "id": 6190,
+    "votos": 76,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.74
+  }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "PIARTAL",
+        "id": 250,
+        "votos": 14,
+        "candidato": "Wray Norman",
+        "value": 1.9718
+    },
+    {
+        "parroquia": "CRISTOBAL COLON",
+        "id": 690,
+        "votos": 18,
+        "candidato": "Wray Norman",
+        "value": 0.9
+    },
+    {
+        "parroquia": "CHITAN DE NAVARRETES",
+        "id": 910,
+        "votos": 4,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "FERNANDEZ SALVADOR",
+        "id": 1270,
+        "votos": 9,
+        "candidato": "Wray Norman",
+        "value": 1.4
+    },
+    {
+        "parroquia": "LA PAZ",
+        "id": 2065,
+        "votos": 26,
+        "candidato": "Wray Norman",
+        "value": 1.3
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 5405,
+        "votos": 118,
+        "candidato": "Wray Norman",
+        "value": 1.68
+    },
+    {
+        "parroquia": "SAN JOSE",
+        "id": 5970,
+        "votos": 111,
+        "candidato": "Wray Norman",
+        "value": 1.62
+    }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "CHUGÁ",
+    "id": 955,
+    "votos": 65,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.37
+  },
+  {
+    "parroquia": "MARIANO ACOSTA",
+    "id": 2380,
+    "votos": 192,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 16
+  },
+  {
+    "parroquia": "SAN FRANCISCO DE SIGSIPAMBA",
+    "id": 3415,
+    "votos": 59,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.96
+  },
+  {
+    "parroquia": "PIMAMPIRO",
+    "id": 5750,
+    "votos": 740,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.07
+  }
+]

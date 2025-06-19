@@ -1,0 +1,170 @@
+[
+    {
+        "candidato_tabla": "RAFAEL CORREA DELGADO",
+        "id_tabla": 1,
+        "porcentaje": 63.6,
+        "partido_pol": "MOVIMIENTO PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "AZUAY"
+    },
+    {
+        "candidato_tabla": "LUCIO GUTIERREZ",
+        "id_tabla": 2,
+        "porcentaje": 53.01,
+        "partido_pol": "PARTIDO SOCIEDAD PATRIOTICA 21 DE ENERO",
+        "prov_tabla": "BOLÍVAR"
+    },
+    {
+        "candidato_tabla": "RAFAEL CORREA DELGADO",
+        "id_tabla": 3,
+        "porcentaje": 46.93,
+        "partido_pol": "MOVIMIENTO PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "CAÑAR"
+    },
+    {
+        "candidato_tabla": "RAFAEL CORREA DELGADO",
+        "id_tabla": 4,
+        "porcentaje": 53.89,
+        "partido_pol": "MOVIMIENTO PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "CARCHI"
+    },
+    {
+        "candidato_tabla": "LUCIO GUTIERREZ",
+        "id_tabla": 6,
+        "porcentaje": 42.95,
+        "partido_pol": "PARTIDO SOCIEDAD PATRIOTICA 21 DE ENERO",
+        "prov_tabla": "CHIMBORAZO"
+    },
+    {
+        "candidato_tabla": "RAFAEL CORREA DELGADO",
+        "id_tabla": 5,
+        "porcentaje": 45.44,
+        "partido_pol": "MOVIMIENTO PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "COTOPAXI"
+    },
+    {
+        "candidato_tabla": "RAFAEL CORREA DELGADO",
+        "id_tabla": 7,
+        "porcentaje": 65.24,
+        "partido_pol": "MOVIMIENTO PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "EL ORO"
+    },
+    {
+        "candidato_tabla": "RAFAEL CORREA DELGADO",
+        "id_tabla": 8,
+        "porcentaje": 55.93,
+        "partido_pol": "MOVIMIENTO PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "ESMERALDAS"
+    },
+    {
+        "candidato_tabla": "RAFAEL CORREA DELGADO",
+        "id_tabla": 9,
+        "porcentaje": 44.62,
+        "partido_pol": "MOVIMIENTO PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "GUAYAS"
+    },
+    {
+        "candidato_tabla": "RAFAEL CORREA DELGADO",
+        "id_tabla": 10,
+        "porcentaje": 66.77,
+        "partido_pol": "MOVIMIENTO PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "IMBABURA"
+    },
+    {
+        "candidato_tabla": "RAFAEL CORREA DELGADO",
+        "id_tabla": 11,
+        "porcentaje": 60.78,
+        "partido_pol": "MOVIMIENTO PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "LOJA"
+    },
+    {
+        "candidato_tabla": "RAFAEL CORREA DELGADO",
+        "id_tabla": 12,
+        "porcentaje": 52.33,
+        "partido_pol": "MOVIMIENTO PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "LOS RÍOS"
+    },
+    {
+        "candidato_tabla": "RAFAEL CORREA DELGADO",
+        "id_tabla": 13,
+        "porcentaje": 53.0,
+        "partido_pol": "MOVIMIENTO PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "MANABÍ"
+    },
+    {
+        "candidato_tabla": "LUCIO GUTIERREZ",
+        "id_tabla": 14,
+        "porcentaje": 56.47,
+        "partido_pol": "PARTIDO SOCIEDAD PATRIOTICA 21 DE ENERO",
+        "prov_tabla": "MORONA SANTIAGO"
+    },
+    {
+        "candidato_tabla": "LUCIO GUTIERREZ",
+        "id_tabla": 15,
+        "porcentaje": 71.01,
+        "partido_pol": "PARTIDO SOCIEDAD PATRIOTICA 21 DE ENERO",
+        "prov_tabla": "NAPO"
+    },
+    {
+        "candidato_tabla": "LUCIO GUTIERREZ",
+        "id_tabla": 16,
+        "porcentaje": 56.22,
+        "partido_pol": "PARTIDO SOCIEDAD PATRIOTICA 21 DE ENERO",
+        "prov_tabla": "PASTAZA"
+    },
+    {
+        "candidato_tabla": "RAFAEL CORREA DELGADO",
+        "id_tabla": 17,
+        "porcentaje": 58.22,
+        "partido_pol": "MOVIMIENTO PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "PICHINCHA"
+    },
+    {
+        "candidato_tabla": "LUCIO GUTIERREZ",
+        "id_tabla": 18,
+        "porcentaje": 45.51,
+        "partido_pol": "PARTIDO SOCIEDAD PATRIOTICA 21 DE ENERO",
+        "prov_tabla": "TUNGURAHUA"
+    },
+    {
+        "candidato_tabla": "RAFAEL CORREA DELGADO",
+        "id_tabla": 19,
+        "porcentaje": 46.55,
+        "partido_pol": "MOVIMIENTO PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "ZAMORA CHINCHIPE"
+    },
+    {
+        "candidato_tabla": "RAFAEL CORREA DELGADO",
+        "id_tabla": 20,
+        "porcentaje": 51.02,
+        "partido_pol": "MOVIMIENTO PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "GALÁPAGOS"
+    },
+    {
+        "candidato_tabla": "RAFAEL CORREA DELGADO",
+        "id_tabla": 21,
+        "porcentaje": 47.46,
+        "partido_pol": "MOVIMIENTO PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "SUCUMBÍOS"
+    },
+    {
+        "candidato_tabla": "LUCIO GUTIERREZ",
+        "id_tabla": 22,
+        "porcentaje": 64.37,
+        "partido_pol": "PARTIDO SOCIEDAD PATRIOTICA 21 DE ENERO",
+        "prov_tabla": "ORELLANA"
+    },
+    {
+        "candidato_tabla": "RAFAEL CORREA DELGADO",
+        "id_tabla": 23,
+        "porcentaje": 58.35,
+        "partido_pol": "MOVIMIENTO PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "STO. DGO. DE LOS TSÁCHILAS"
+    },
+    {
+        "candidato_tabla": "RAFAEL CORREA DELGADO",
+        "id_tabla": 24,
+        "porcentaje": 65.37,
+        "partido_pol": "MOVIMIENTO PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "SANTA ELENA"
+    }
+]

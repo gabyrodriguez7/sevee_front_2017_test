@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "INDANZA",
+        "id": 1720,
+        "votos": 25,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.817
+    },
+    {
+        "parroquia": "SAN MIGUEL DE CONCHAY",
+        "id": 3250,
+        "votos": 11,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.5
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3320,
+        "votos": 4,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.3
+    },
+    {
+        "parroquia": "SANTA SUSANA DE CHIVIAZA",
+        "id": 3760,
+        "votos": 1,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 0.0
+    },
+    {
+        "parroquia": "YUNGANZA /EL ROSARIO",
+        "id": 4305,
+        "votos": 12,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.8037383
+    },
+    {
+        "parroquia": "GRAL. LEONIDAS PLAZA",
+        "id": 5390,
+        "votos": 92,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.9299363
+    }
+]

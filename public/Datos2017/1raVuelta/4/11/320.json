@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "COLAIZACA",
+    "id": 590,
+    "votos": 73,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.22
+  },
+  {
+    "parroquia": "EL LUCERO",
+    "id": 1230,
+    "votos": 110,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.15
+  },
+  {
+    "parroquia": "SANGUILLIN",
+    "id": 1550,
+    "votos": 14,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 3.26
+  },
+  {
+    "parroquia": "UTUANA",
+    "id": 4150,
+    "votos": 40,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.11
+  },
+  {
+    "parroquia": "CARIAMANGA",
+    "id": 5175,
+    "votos": 1435,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.24
+  },
+  {
+    "parroquia": "CHILE",
+    "id": 5240,
+    "votos": 192,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.75
+  },
+  {
+    "parroquia": "SAN VICENTE",
+    "id": 6025,
+    "votos": 52,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.21
+  }
+]

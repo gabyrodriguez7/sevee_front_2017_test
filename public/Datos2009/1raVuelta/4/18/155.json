@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "PATATE",
+        "id": 5830,
+        "votos": 1750,
+        "candidato": "Rafael Correa Delgado",
+        "value": 38.04
+    },
+    {
+        "parroquia": "EL TRIUNFO",
+        "id": 4110,
+        "votos": 81,
+        "candidato": "Rafael Correa Delgado",
+        "value": 15.61
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 3885,
+        "votos": 231,
+        "candidato": "Rafael Correa Delgado",
+        "value": 23.69
+    },
+    {
+        "parroquia": "LOS ANDES",
+        "id": 2210,
+        "votos": 274,
+        "candidato": "Rafael Correa Delgado",
+        "value": 45.67
+    }
+]

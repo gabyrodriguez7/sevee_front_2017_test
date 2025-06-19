@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "PUEBLO VIEJO",
+        "id": 5800,
+        "votos": 23,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.32
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3510,
+        "votos": 9,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.13
+    },
+    {
+        "parroquia": "PUERTO PECHICHE",
+        "id": 3015,
+        "votos": 10,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.53
+    }
+]

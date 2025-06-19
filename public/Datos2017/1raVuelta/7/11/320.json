@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "COLAIZACA",
+    "id": 590,
+    "votos": 25,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.47
+  },
+  {
+    "parroquia": "EL LUCERO",
+    "id": 1230,
+    "votos": 27,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2
+  },
+  {
+    "parroquia": "SANGUILLIN",
+    "id": 1550,
+    "votos": 6,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.4
+  },
+  {
+    "parroquia": "UTUANA",
+    "id": 4150,
+    "votos": 7,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.59
+  },
+  {
+    "parroquia": "CARIAMANGA",
+    "id": 5175,
+    "votos": 208,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.92
+  },
+  {
+    "parroquia": "CHILE",
+    "id": 5240,
+    "votos": 27,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.51
+  },
+  {
+    "parroquia": "SAN VICENTE",
+    "id": 6025,
+    "votos": 6,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.41
+  }
+]

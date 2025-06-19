@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "ASUNCION",
+        "id": 180,
+        "votos": 5,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 0.7
+    },
+    {
+        "parroquia": "SANTA MARIANITA DE JESUS",
+        "id": 1140,
+        "votos": 5,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.6129032
+    },
+    {
+        "parroquia": "HUAMBI",
+        "id": 1635,
+        "votos": 34,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.3
+    },
+    {
+        "parroquia": "SUCUA",
+        "id": 6110,
+        "votos": 134,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.844
+    }
+]

@@ -1,0 +1,457 @@
+[
+  {
+    "parroquia": "COTOCOLLAO",
+    "id": 5220,
+    "votos": 2287,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.47
+  },
+  {
+    "parroquia": "BELISARIO QUEVEDO",
+    "id": 7130,
+    "votos": 790,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.59
+  },
+  {
+    "parroquia": "CARCELÉN",
+    "id": 7135,
+    "votos": 787,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.65
+  },
+  {
+    "parroquia": "COCHAPAMBA",
+    "id": 7145,
+    "votos": 860,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.36
+  },
+  {
+    "parroquia": "COMITÉ DEL PUEBLO",
+    "id": 7150,
+    "votos": 894,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.24
+  },
+  {
+    "parroquia": "EL CONDADO",
+    "id": 7160,
+    "votos": 1607,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.58
+  },
+  {
+    "parroquia": "IÑAQUITO",
+    "id": 7170,
+    "votos": 880,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.61
+  },
+  {
+    "parroquia": "ITCHIMBIA",
+    "id": 7175,
+    "votos": 1024,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.88
+  },
+  {
+    "parroquia": "JIPIJAPA",
+    "id": 7180,
+    "votos": 781,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.08
+  },
+  {
+    "parroquia": "KENNEDY",
+    "id": 7185,
+    "votos": 1211,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.32
+  },
+  {
+    "parroquia": "LA CONCEPCIÓN",
+    "id": 7195,
+    "votos": 404,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.77
+  },
+  {
+    "parroquia": "MARISCAL SUCRE",
+    "id": 7215,
+    "votos": 597,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.82
+  },
+  {
+    "parroquia": "PONCEANO",
+    "id": 7220,
+    "votos": 694,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.86
+  },
+  {
+    "parroquia": "RUMIPAMBA",
+    "id": 7235,
+    "votos": 437,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.29
+  },
+  {
+    "parroquia": "SAN ISIDRO DEL INCA",
+    "id": 7245,
+    "votos": 620,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.18
+  },
+  {
+    "parroquia": "SAN JUAN",
+    "id": 7250,
+    "votos": 1280,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.34
+  },
+  {
+    "parroquia": "CHIMBACALLE",
+    "id": 5015,
+    "votos": 2564,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.03
+  },
+  {
+    "parroquia": "CHILLOGALLO",
+    "id": 5260,
+    "votos": 4033,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 5.10
+  },
+  {
+    "parroquia": "LA LIBERTAD",
+    "id": 5535,
+    "votos": 659,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.04
+  },
+  {
+    "parroquia": "LA MAGDALENA",
+    "id": 5540,
+    "votos": 2618,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.61
+  },
+  {
+    "parroquia": "CENTRO HISTÓRICO",
+    "id": 7140,
+    "votos": 2288,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.73
+  },
+  {
+    "parroquia": "CHILIBULO",
+    "id": 7155,
+    "votos": 745,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.44
+  },
+  {
+    "parroquia": "GUAMANÍ",
+    "id": 7165,
+    "votos": 1819,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 5.80
+  },
+  {
+    "parroquia": "LA ARGELIA",
+    "id": 7190,
+    "votos": 1079,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 5.35
+  },
+  {
+    "parroquia": "LA ECUATORIANA",
+    "id": 7200,
+    "votos": 1404,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 5.40
+  },
+  {
+    "parroquia": "LA FERROVIARIA",
+    "id": 7205,
+    "votos": 1402,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.50
+  },
+  {
+    "parroquia": "LA MENA",
+    "id": 7210,
+    "votos": 898,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.40
+  },
+  {
+    "parroquia": "PUENGASÍ",
+    "id": 7225,
+    "votos": 833,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.19
+  },
+  {
+    "parroquia": "QUITUMBE",
+    "id": 7230,
+    "votos": 1515,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 5.23
+  },
+  {
+    "parroquia": "SAN BARTOLO",
+    "id": 7240,
+    "votos": 1884,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.31
+  },
+  {
+    "parroquia": "SOLANDA",
+    "id": 7255,
+    "votos": 1444,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.93
+  },
+  {
+    "parroquia": "TURUBAMBA",
+    "id": 7260,
+    "votos": 1244,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 5.50
+  },
+  {
+    "parroquia": "ALANGASÍ",
+    "id": 30,
+    "votos": 489,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.91
+  },
+  {
+    "parroquia": "AMAGUAÑA",
+    "id": 80,
+    "votos": 1347,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 7.12
+  },
+  {
+    "parroquia": "ATAHUALPA /HABASPAMBA",
+    "id": 195,
+    "votos": 79,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 6.00
+  },
+  {
+    "parroquia": "CALACALÍ",
+    "id": 430,
+    "votos": 89,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.76
+  },
+  {
+    "parroquia": "CALDERÓN",
+    "id": 440,
+    "votos": 3781,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.16
+  },
+  {
+    "parroquia": "CONOCOTO",
+    "id": 625,
+    "votos": 1641,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.01
+  },
+  {
+    "parroquia": "CUMBAYÁ",
+    "id": 725,
+    "votos": 505,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.06
+  },
+  {
+    "parroquia": "CHAVEZPAMBA",
+    "id": 855,
+    "votos": 20,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.62
+  },
+  {
+    "parroquia": "CHECA",
+    "id": 865,
+    "votos": 174,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.72
+  },
+  {
+    "parroquia": "GUALEA",
+    "id": 1400,
+    "votos": 53,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.48
+  },
+  {
+    "parroquia": "GUANGOPOLO",
+    "id": 1440,
+    "votos": 91,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.14
+  },
+  {
+    "parroquia": "GUAYLLABAMBA",
+    "id": 1475,
+    "votos": 349,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.48
+  },
+  {
+    "parroquia": "LA MERCED",
+    "id": 2055,
+    "votos": 185,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.06
+  },
+  {
+    "parroquia": "LLANO CHICO",
+    "id": 2265,
+    "votos": 320,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 5.08
+  },
+  {
+    "parroquia": "LLOA",
+    "id": 2275,
+    "votos": 47,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.14
+  },
+  {
+    "parroquia": "NANEGAL",
+    "id": 2525,
+    "votos": 52,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.27
+  },
+  {
+    "parroquia": "NANEGALITO",
+    "id": 2530,
+    "votos": 68,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.27
+  },
+  {
+    "parroquia": "NAYÓN",
+    "id": 2540,
+    "votos": 285,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.98
+  },
+  {
+    "parroquia": "NONO",
+    "id": 2560,
+    "votos": 34,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.33
+  },
+  {
+    "parroquia": "PACTO",
+    "id": 2690,
+    "votos": 75,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.73
+  },
+  {
+    "parroquia": "PERUCHO",
+    "id": 2825,
+    "votos": 22,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.81
+  },
+  {
+    "parroquia": "PIFO",
+    "id": 2855,
+    "votos": 476,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.45
+  },
+  {
+    "parroquia": "PINTAG",
+    "id": 2895,
+    "votos": 686,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 5.54
+  },
+  {
+    "parroquia": "POMASQUI",
+    "id": 2925,
+    "votos": 666,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.04
+  },
+  {
+    "parroquia": "PUELLARO",
+    "id": 2980,
+    "votos": 200,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.75
+  },
+  {
+    "parroquia": "PUEMBO",
+    "id": 2985,
+    "votos": 354,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.05
+  },
+  {
+    "parroquia": "QUINCHE",
+    "id": 3100,
+    "votos": 525,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.65
+  },
+  {
+    "parroquia": "SAN ANTONIO",
+    "id": 3325,
+    "votos": 741,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.47
+  },
+  {
+    "parroquia": "SAN JOSÉ DE MINAS",
+    "id": 3475,
+    "votos": 183,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.26
+  },
+  {
+    "parroquia": "TABABELA",
+    "id": 3925,
+    "votos": 67,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.18
+  },
+  {
+    "parroquia": "TUMBACO",
+    "id": 4085,
+    "votos": 1354,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.75
+  },
+  {
+    "parroquia": "YARUQUÍ",
+    "id": 4290,
+    "votos": 607,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.91
+  },
+  {
+    "parroquia": "ZAMBIZA",
+    "id": 4325,
+    "votos": 173,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.67
+  }
+]

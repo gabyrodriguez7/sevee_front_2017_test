@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "CHICANA",
+    "id": 985,
+    "votos": 11,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.84
+  },
+  {
+    "parroquia": "LOS ENCUENTROS",
+    "id": 2240,
+    "votos": 12,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.61
+  },
+  {
+    "parroquia": "YANZATZA",
+    "id": 6295,
+    "votos": 108,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.25
+  }
+]

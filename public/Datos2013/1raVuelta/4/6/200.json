@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "SANTA FE DE GALAN",
+        "id": 40,
+        "votos": 10,
+        "candidato": "Acosta Alberto",
+        "value": 1.595
+    },
+    {
+        "parroquia": "SAN JOSE DEL CHAZO",
+        "id": 45,
+        "votos": 16,
+        "candidato": "Acosta Alberto",
+        "value": 2.312
+    },
+    {
+        "parroquia": "VALPARAISO",
+        "id": 410,
+        "votos": 11,
+        "candidato": "Acosta Alberto",
+        "value": 4.701
+    },
+    {
+        "parroquia": "GUANANDO",
+        "id": 1415,
+        "votos": 9,
+        "candidato": "Acosta Alberto",
+        "value": 2.261
+    },
+    {
+        "parroquia": "ILAPO",
+        "id": 1705,
+        "votos": 23,
+        "candidato": "Acosta Alberto",
+        "value": 1.585
+    },
+    {
+        "parroquia": "LA PROVIDENCIA",
+        "id": 2080,
+        "votos": 11,
+        "candidato": "Acosta Alberto",
+        "value": 2.785
+    },
+    {
+        "parroquia": "SAN ANDRES",
+        "id": 3295,
+        "votos": 244,
+        "candidato": "Acosta Alberto",
+        "value": 3.0
+    },
+    {
+        "parroquia": "SAN GERARDO / PAQUICAHUAN",
+        "id": 3425,
+        "votos": 20,
+        "candidato": "Acosta Alberto",
+        "value": 1.608
+    },
+    {
+        "parroquia": "SAN ISIDRO DE PATULU",
+        "id": 3450,
+        "votos": 84,
+        "candidato": "Acosta Alberto",
+        "value": 3.657
+    },
+    {
+        "parroquia": "EL ROSARIO",
+        "id": 5315,
+        "votos": 34,
+        "candidato": "Acosta Alberto",
+        "value": 2.872
+    },
+    {
+        "parroquia": "LA MATRIZ",
+        "id": 5550,
+        "votos": 227,
+        "candidato": "Acosta Alberto",
+        "value": 2.557
+    }
+]

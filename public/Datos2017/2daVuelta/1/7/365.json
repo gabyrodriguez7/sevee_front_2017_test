@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "BUENAVISTA",
+    "id": 390,
+    "votos": 1157,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 28.39
+  },
+  {
+    "parroquia": "CAÑAQUEMADA",
+    "id": 775,
+    "votos": 135,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 23.04
+  },
+  {
+    "parroquia": "PROGRESO",
+    "id": 1225,
+    "votos": 718,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 36.01
+  },
+  {
+    "parroquia": "LA PEAÑA",
+    "id": 2075,
+    "votos": 724,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 30.14
+  },
+  {
+    "parroquia": "UZHCURRUMI",
+    "id": 4160,
+    "votos": 386,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 39.59
+  },
+  {
+    "parroquia": "CASACAY",
+    "id": 4495,
+    "votos": 464,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 37.12
+  },
+  {
+    "parroquia": "OCHOA LEÓN/MATRIZ",
+    "id": 5770,
+    "votos": 17124,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 45.75
+  },
+  {
+    "parroquia": "LOMA DE FRANCO",
+    "id": 6365,
+    "votos": 253,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 29.01
+  },
+  {
+    "parroquia": "BOLIVAR",
+    "id": 6370,
+    "votos": 244,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 41.5
+  },
+  {
+    "parroquia": "TRES CERRITOS",
+    "id": 6375,
+    "votos": 170,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 39.26
+  },
+  {
+    "parroquia": "PASAJE",
+    "id": 6940,
+    "votos": 409,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 40.45
+  }
+]

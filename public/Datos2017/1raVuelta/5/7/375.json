@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "CHACRAS",
+    "id": 805,
+    "votos": 3,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.36
+  },
+  {
+    "parroquia": "CARCABÓN",
+    "id": 1695,
+    "votos": 2,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.49
+  },
+  {
+    "parroquia": "PALMALES",
+    "id": 2715,
+    "votos": 7,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.43
+  },
+  {
+    "parroquia": "ARENILLAS",
+    "id": 5040,
+    "votos": 59,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.4
+  }
+]

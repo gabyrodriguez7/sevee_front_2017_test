@@ -1,0 +1,457 @@
+[
+  {
+    "parroquia": "COTOCOLLAO",
+    "id": 5220,
+    "votos": 13881,
+    "candidato": "Lasso Guillermo",
+    "value": 26.72
+  },
+  {
+    "parroquia": "BELISARIO QUEVEDO",
+    "id": 7130,
+    "votos": 8271,
+    "candidato": "Lasso Guillermo",
+    "value": 30.0
+  },
+  {
+    "parroquia": "CARCELEN",
+    "id": 7135,
+    "votos": 7126,
+    "candidato": "Lasso Guillermo",
+    "value": 27.190171
+  },
+  {
+    "parroquia": "COCHAPAMBA",
+    "id": 7145,
+    "votos": 6263,
+    "candidato": "Lasso Guillermo",
+    "value": 25.24
+  },
+  {
+    "parroquia": "COMITE DEL PUEBLO",
+    "id": 7150,
+    "votos": 3139,
+    "candidato": "Lasso Guillermo",
+    "value": 16.816
+  },
+  {
+    "parroquia": "EL CONDADO",
+    "id": 7160,
+    "votos": 6519,
+    "candidato": "Lasso Guillermo",
+    "value": 20.14275121
+  },
+  {
+    "parroquia": "IÑAQUITO",
+    "id": 7170,
+    "votos": 22404,
+    "candidato": "Lasso Guillermo",
+    "value": 41.166
+  },
+  {
+    "parroquia": "ITCHIMBIA",
+    "id": 7175,
+    "votos": 8763,
+    "candidato": "Lasso Guillermo",
+    "value": 25.704
+  },
+  {
+    "parroquia": "JIPIJAPA",
+    "id": 7180,
+    "votos": 14300,
+    "candidato": "Lasso Guillermo",
+    "value": 37.1999
+  },
+  {
+    "parroquia": "KENNEDY",
+    "id": 7185,
+    "votos": 14393,
+    "candidato": "Lasso Guillermo",
+    "value": 32.929145
+  },
+  {
+    "parroquia": "LA CONCEPCION",
+    "id": 7195,
+    "votos": 8430,
+    "candidato": "Lasso Guillermo",
+    "value": 36.9057
+  },
+  {
+    "parroquia": "MARISCAL SUCRE",
+    "id": 7215,
+    "votos": 6934,
+    "candidato": "Lasso Guillermo",
+    "value": 30.128177
+  },
+  {
+    "parroquia": "PONCEANO",
+    "id": 7220,
+    "votos": 7508,
+    "candidato": "Lasso Guillermo",
+    "value": 30.52901232
+  },
+  {
+    "parroquia": "RUMIPAMBA",
+    "id": 7235,
+    "votos": 16434,
+    "candidato": "Lasso Guillermo",
+    "value": 46.6
+  },
+  {
+    "parroquia": "SAN ISIDRO DEL INCA",
+    "id": 7245,
+    "votos": 4778,
+    "candidato": "Lasso Guillermo",
+    "value": 27.5
+  },
+  {
+    "parroquia": "SAN JUAN",
+    "id": 7250,
+    "votos": 9678,
+    "candidato": "Lasso Guillermo",
+    "value": 25.5
+  },
+  {
+    "parroquia": "CHIMBACALLE",
+    "id": 5015,
+    "votos": 12266,
+    "candidato": "Lasso Guillermo",
+    "value": 20.7
+  },
+  {
+    "parroquia": "CHILLOGALLO",
+    "id": 5260,
+    "votos": 10938,
+    "candidato": "Lasso Guillermo",
+    "value": 18.779
+  },
+  {
+    "parroquia": "LA LIBERTAD",
+    "id": 5535,
+    "votos": 3134,
+    "candidato": "Lasso Guillermo",
+    "value": 19.329
+  },
+  {
+    "parroquia": "LA MAGDALENA",
+    "id": 5540,
+    "votos": 16836,
+    "candidato": "Lasso Guillermo",
+    "value": 23.3632
+  },
+  {
+    "parroquia": "CENTRO HISTORICO",
+    "id": 7140,
+    "votos": 13793,
+    "candidato": "Lasso Guillermo",
+    "value": 22.3792
+  },
+  {
+    "parroquia": "CHILIBULO",
+    "id": 7155,
+    "votos": 3373,
+    "candidato": "Lasso Guillermo",
+    "value": 20.0642
+  },
+  {
+    "parroquia": "GUAMANI",
+    "id": 7165,
+    "votos": 4269,
+    "candidato": "Lasso Guillermo",
+    "value": 16.51
+  },
+  {
+    "parroquia": "LA ARGELIA",
+    "id": 7190,
+    "votos": 2698,
+    "candidato": "Lasso Guillermo",
+    "value": 15.7
+  },
+  {
+    "parroquia": "LA ECUATORIANA",
+    "id": 7200,
+    "votos": 3670,
+    "candidato": "Lasso Guillermo",
+    "value": 16.32
+  },
+  {
+    "parroquia": "LA FERROVIARIA",
+    "id": 7205,
+    "votos": 5664,
+    "candidato": "Lasso Guillermo",
+    "value": 18.6181
+  },
+  {
+    "parroquia": "LA MENA",
+    "id": 7210,
+    "votos": 3566,
+    "candidato": "Lasso Guillermo",
+    "value": 18.5526
+  },
+  {
+    "parroquia": "PUENGASI",
+    "id": 7225,
+    "votos": 3629,
+    "candidato": "Lasso Guillermo",
+    "value": 21.2907
+  },
+  {
+    "parroquia": "QUITUMBE",
+    "id": 7230,
+    "votos": 4417,
+    "candidato": "Lasso Guillermo",
+    "value": 18.105
+  },
+  {
+    "parroquia": "SAN BARTOLO",
+    "id": 7240,
+    "votos": 8249,
+    "candidato": "Lasso Guillermo",
+    "value": 19.76
+  },
+  {
+    "parroquia": "SOLANDA",
+    "id": 7255,
+    "votos": 6469,
+    "candidato": "Lasso Guillermo",
+    "value": 19.4
+  },
+  {
+    "parroquia": "TURUBAMBA",
+    "id": 7260,
+    "votos": 3140,
+    "candidato": "Lasso Guillermo",
+    "value": 16.0
+  },
+  {
+    "parroquia": "ALANGASI",
+    "id": 30,
+    "votos": 2451,
+    "candidato": "Lasso Guillermo",
+    "value": 22.1
+  },
+  {
+    "parroquia": "AMAGUAÑA",
+    "id": 80,
+    "votos": 2642,
+    "candidato": "Lasso Guillermo",
+    "value": 15.6
+  },
+  {
+    "parroquia": "ATAHUALPA /HABASPAMBA",
+    "id": 195,
+    "votos": 165,
+    "candidato": "Lasso Guillermo",
+    "value": 13.317
+  },
+  {
+    "parroquia": "CALACALI",
+    "id": 430,
+    "votos": 498,
+    "candidato": "Lasso Guillermo",
+    "value": 17.244
+  },
+  {
+    "parroquia": "CALDERON",
+    "id": 440,
+    "votos": 14959,
+    "candidato": "Lasso Guillermo",
+    "value": 19.2275
+  },
+  {
+    "parroquia": "CONOCOTO",
+    "id": 625,
+    "votos": 11814,
+    "candidato": "Lasso Guillermo",
+    "value": 25.4
+  },
+  {
+    "parroquia": "CUMBAYA",
+    "id": 725,
+    "votos": 8818,
+    "candidato": "Lasso Guillermo",
+    "value": 41.197907
+  },
+  {
+    "parroquia": "CHAVEZPAMBA",
+    "id": 855,
+    "votos": 76,
+    "candidato": "Lasso Guillermo",
+    "value": 14.503817
+  },
+  {
+    "parroquia": "CHECA",
+    "id": 865,
+    "votos": 573,
+    "candidato": "Lasso Guillermo",
+    "value": 14.225422
+  },
+  {
+    "parroquia": "GUALEA",
+    "id": 1400,
+    "votos": 234,
+    "candidato": "Lasso Guillermo",
+    "value": 20.94897
+  },
+  {
+    "parroquia": "GUANGOPOLO",
+    "id": 1440,
+    "votos": 433,
+    "candidato": "Lasso Guillermo",
+    "value": 21.96854
+  },
+  {
+    "parroquia": "GUAYLLABAMBA",
+    "id": 1475,
+    "votos": 1513,
+    "candidato": "Lasso Guillermo",
+    "value": 17.26381
+  },
+  {
+    "parroquia": "LA MERCED",
+    "id": 2055,
+    "votos": 692,
+    "candidato": "Lasso Guillermo",
+    "value": 17.261162
+  },
+  {
+    "parroquia": "LLANO CHICO",
+    "id": 2265,
+    "votos": 1097,
+    "candidato": "Lasso Guillermo",
+    "value": 20.424502
+  },
+  {
+    "parroquia": "LLOA",
+    "id": 2275,
+    "votos": 198,
+    "candidato": "Lasso Guillermo",
+    "value": 14.473684
+  },
+  {
+    "parroquia": "NANEGAL",
+    "id": 2525,
+    "votos": 332,
+    "candidato": "Lasso Guillermo",
+    "value": 22.493225
+  },
+  {
+    "parroquia": "NANEGALITO",
+    "id": 2530,
+    "votos": 528,
+    "candidato": "Lasso Guillermo",
+    "value": 28.1
+  },
+  {
+    "parroquia": "NAYON",
+    "id": 2540,
+    "votos": 1936,
+    "candidato": "Lasso Guillermo",
+    "value": 30.3
+  },
+  {
+    "parroquia": "NONO",
+    "id": 2560,
+    "votos": 179,
+    "candidato": "Lasso Guillermo",
+    "value": 18.20956
+  },
+  {
+    "parroquia": "PACTO",
+    "id": 2690,
+    "votos": 510,
+    "candidato": "Lasso Guillermo",
+    "value": 20.639
+  },
+  {
+    "parroquia": "PERUCHO",
+    "id": 2825,
+    "votos": 61,
+    "candidato": "Lasso Guillermo",
+    "value": 11.686
+  },
+  {
+    "parroquia": "PIFO",
+    "id": 2855,
+    "votos": 1473,
+    "candidato": "Lasso Guillermo",
+    "value": 15.587
+  },
+  {
+    "parroquia": "PINTAG",
+    "id": 2895,
+    "votos": 1819,
+    "candidato": "Lasso Guillermo",
+    "value": 16.2672
+  },
+  {
+    "parroquia": "POMASQUI",
+    "id": 2925,
+    "votos": 5208,
+    "candidato": "Lasso Guillermo",
+    "value": 26.5052
+  },
+  {
+    "parroquia": "PUELLARO",
+    "id": 2980,
+    "votos": 564,
+    "candidato": "Lasso Guillermo",
+    "value": 13.84
+  },
+  {
+    "parroquia": "PUEMBO",
+    "id": 2985,
+    "votos": 1333,
+    "candidato": "Lasso Guillermo",
+    "value": 17.26
+  },
+  {
+    "parroquia": "QUINCHE",
+    "id": 3100,
+    "votos": 1572,
+    "candidato": "Lasso Guillermo",
+    "value": 15.34
+  },
+  {
+    "parroquia": "SAN ANTONIO",
+    "id": 3325,
+    "votos": 3905,
+    "candidato": "Lasso Guillermo",
+    "value": 21.105
+  },
+  {
+    "parroquia": "SAN JOSE DE MINAS",
+    "id": 3475,
+    "votos": 720,
+    "candidato": "Lasso Guillermo",
+    "value": 17.54
+  },
+  {
+    "parroquia": "TABABELA",
+    "id": 3925,
+    "votos": 232,
+    "candidato": "Lasso Guillermo",
+    "value": 17.071
+  },
+  {
+    "parroquia": "TUMBACO",
+    "id": 4085,
+    "votos": 7149,
+    "candidato": "Lasso Guillermo",
+    "value": 22.567
+  },
+  {
+    "parroquia": "YARUQUI",
+    "id": 4290,
+    "votos": 1585,
+    "candidato": "Lasso Guillermo",
+    "value": 14.76754
+  },
+  {
+    "parroquia": "ZAMBIZA",
+    "id": 4325,
+    "votos": 734,
+    "candidato": "Lasso Guillermo",
+    "value": 21.95633
+  }
+]

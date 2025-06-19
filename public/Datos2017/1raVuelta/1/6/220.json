@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "CAPZOL",
+    "id": 515,
+    "votos": 124,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 36.36
+  },
+  {
+    "parroquia": "COMPUD",
+    "id": 615,
+    "votos": 127,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 36.81
+  },
+  {
+    "parroquia": "GONZOL",
+    "id": 1370,
+    "votos": 124,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 23.01
+  },
+  {
+    "parroquia": "LLAGOS",
+    "id": 2260,
+    "votos": 266,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 41.82
+  },
+  {
+    "parroquia": "CHUNCHI",
+    "id": 5255,
+    "votos": 2323,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 45.5
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "ASUNCIÓN",
+    "id": 180,
+    "votos": 10,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 1.22
+  },
+  {
+    "parroquia": "SANTA MARIANITA DE JESÚS",
+    "id": 1140,
+    "votos": 13,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 3.1
+  },
+  {
+    "parroquia": "HUAMBI",
+    "id": 1635,
+    "votos": 55,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 3.29
+  },
+  {
+    "parroquia": "SUCÚA",
+    "id": 6110,
+    "votos": 445,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.65
+  }
+]

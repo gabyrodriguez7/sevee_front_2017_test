@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "QUERO",
+        "id": 5835,
+        "votos": 2561,
+        "candidato": "Rafael Correa Delgado",
+        "value": 27.16
+    },
+    {
+        "parroquia": "RUMIPAMBA",
+        "id": 4550,
+        "votos": 231,
+        "candidato": "Rafael Correa Delgado",
+        "value": 33.87
+    },
+    {
+        "parroquia": "YANAYACU MOCHAPATA",
+        "id": 4310,
+        "votos": 237,
+        "candidato": "Rafael Correa Delgado",
+        "value": 33.15
+    }
+]

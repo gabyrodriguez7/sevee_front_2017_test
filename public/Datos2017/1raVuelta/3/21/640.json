@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "EL PLAYÓN DE SN. FRANCISCO",
+    "id": 1170,
+    "votos": 537,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 45.28
+  },
+  {
+    "parroquia": "LA SOFÍA",
+    "id": 2095,
+    "votos": 32,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 33.68
+  },
+  {
+    "parroquia": "ROSA FLORIDA",
+    "id": 3220,
+    "votos": 138,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 52.87
+  },
+  {
+    "parroquia": "SANTA BÁRBARA",
+    "id": 3690,
+    "votos": 226,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 43.3
+  },
+  {
+    "parroquia": "LA BONITA",
+    "id": 5525,
+    "votos": 287,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 48.81
+  }
+]

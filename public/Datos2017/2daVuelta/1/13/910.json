@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "COJIMÍES",
+        "id": 580,
+        "votos": 1215,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 24.86
+    },
+    {
+        "parroquia": "ATAHUALPA",
+        "id": 785,
+        "votos": 487,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 32.04
+    },
+    {
+        "parroquia": "10 DE AGOSTO",
+        "id": 1030,
+        "votos": 780,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 28.45
+    },
+    {
+        "parroquia": "PEDERNALES",
+        "id": 6430,
+        "votos": 7317,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 28.51
+    }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "AYAPAMBA",
+    "id": 225,
+    "votos": 11,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1
+  },
+  {
+    "parroquia": "SAN JUAN DE CERRO AZUL",
+    "id": 375,
+    "votos": 0,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0
+  },
+  {
+    "parroquia": "CORDONCILLO",
+    "id": 4480,
+    "votos": 2,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.33
+  },
+  {
+    "parroquia": "SAN JOSÉ",
+    "id": 4530,
+    "votos": 0,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0
+  },
+  {
+    "parroquia": "MILAGRO",
+    "id": 4535,
+    "votos": 1,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.42
+  },
+  {
+    "parroquia": "PACCHA",
+    "id": 5745,
+    "votos": 11,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.54
+  }
+]

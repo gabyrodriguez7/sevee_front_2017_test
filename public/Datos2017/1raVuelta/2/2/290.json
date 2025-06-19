@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "EL TAMBO",
+    "id": 1200,
+    "votos": 411,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 21.92
+  },
+  {
+    "parroquia": "GUAYQUICHUMA",
+    "id": 1480,
+    "votos": 19,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.54
+  },
+  {
+    "parroquia": "SAN PEDRO DE LA BENDITA",
+    "id": 3610,
+    "votos": 85,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.28
+  },
+  {
+    "parroquia": "ZAMBI",
+    "id": 4455,
+    "votos": 29,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.27
+  },
+  {
+    "parroquia": "CATAMAYO",
+    "id": 5270,
+    "votos": 1600,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.31
+  },
+  {
+    "parroquia": "SAN JOSÉ",
+    "id": 6825,
+    "votos": 78,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 12.19
+  }
+]

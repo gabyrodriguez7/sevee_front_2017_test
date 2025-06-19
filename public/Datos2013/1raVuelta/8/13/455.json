@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "AMERICA /LA CERA",
+        "id": 105,
+        "votos": 60,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.8
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 560,
+        "votos": 11,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.4
+    },
+    {
+        "parroquia": "EL ANEGADO",
+        "id": 1115,
+        "votos": 111,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.275
+    },
+    {
+        "parroquia": "JULCUY",
+        "id": 1880,
+        "votos": 17,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.399
+    },
+    {
+        "parroquia": "PEDRO PABLO GOMEZ",
+        "id": 2810,
+        "votos": 59,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.2023
+    },
+    {
+        "parroquia": "PUERTO CAYO",
+        "id": 2990,
+        "votos": 41,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.1511
+    },
+    {
+        "parroquia": "MEMBRILLAL",
+        "id": 4490,
+        "votos": 10,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.5601
+    },
+    {
+        "parroquia": "JIPIJAPA",
+        "id": 5485,
+        "votos": 1235,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 5.0334
+    },
+    {
+        "parroquia": "DR. MIGUEL MORAN LUCIO",
+        "id": 7465,
+        "votos": 162,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.7093
+    },
+    {
+        "parroquia": "MANUEL INOCENCIO PARRALES",
+        "id": 7470,
+        "votos": 111,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 6.755934
+    },
+    {
+        "parroquia": "SAN LORENZO DE JIPIJAPA",
+        "id": 7475,
+        "votos": 337,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 5.78045
+    }
+]

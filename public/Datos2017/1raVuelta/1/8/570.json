@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "BOLÍVAR",
+    "id": 355,
+    "votos": 89,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 19.87
+  },
+  {
+    "parroquia": "DAULE",
+    "id": 1010,
+    "votos": 191,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 21.93
+  },
+  {
+    "parroquia": "GALERA",
+    "id": 1305,
+    "votos": 131,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 15.94
+  },
+  {
+    "parroquia": "QUINGUE",
+    "id": 3125,
+    "votos": 78,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 17.14
+  },
+  {
+    "parroquia": "SALIMA",
+    "id": 3280,
+    "votos": 79,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 14.5
+  },
+  {
+    "parroquia": "SAN FRANCISCO",
+    "id": 3390,
+    "votos": 297,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 21.66
+  },
+  {
+    "parroquia": "SAN GREGORIO",
+    "id": 3430,
+    "votos": 384,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 15.25
+  },
+  {
+    "parroquia": "SAN JOSÉ DE CHAMANGA",
+    "id": 3470,
+    "votos": 454,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 21.17
+  },
+  {
+    "parroquia": "MUISNE",
+    "id": 5670,
+    "votos": 1585,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 25.83
+  }
+]

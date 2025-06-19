@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "LUMBAQUI",
+    "id": 6300,
+    "votos": 40,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.17
+  },
+  {
+    "parroquia": "PUERTO LIBRE",
+    "id": 3615,
+    "votos": 9,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.33
+  },
+  {
+    "parroquia": "GONZALO PIZARRO",
+    "id": 1090,
+    "votos": 21,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.81
+  },
+  {
+    "parroquia": "EL REVENTADOR",
+    "id": 230,
+    "votos": 7,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.13
+  }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SOLANO",
+        "id": 3875,
+        "votos": 12,
+        "candidato": "Noboa Alvaro",
+        "value": 1.7
+    },
+    {
+        "parroquia": "DELEG",
+        "id": 6425,
+        "votos": 52,
+        "candidato": "Noboa Alvaro",
+        "value": 2.37
+    }
+]

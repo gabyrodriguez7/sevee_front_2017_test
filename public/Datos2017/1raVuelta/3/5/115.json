@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "CANCHAGUA",
+    "id": 465,
+    "votos": 377,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 31.05
+  },
+  {
+    "parroquia": "CHANTILIN",
+    "id": 830,
+    "votos": 204,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 35.23
+  },
+  {
+    "parroquia": "COCHAPAMBA",
+    "id": 990,
+    "votos": 240,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 14.01
+  },
+  {
+    "parroquia": "SAQUISILÍ",
+    "id": 6070,
+    "votos": 2756,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 23.93
+  }
+]

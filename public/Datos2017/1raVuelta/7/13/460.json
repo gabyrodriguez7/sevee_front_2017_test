@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "BELLAVISTA",
+    "id": 330,
+    "votos": 108,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.85
+  },
+  {
+    "parroquia": "ARQ.SIXTO DURÁN BALLÉN",
+    "id": 1570,
+    "votos": 51,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.42
+  },
+  {
+    "parroquia": "NOBOA",
+    "id": 2555,
+    "votos": 226,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 5.97
+  },
+  {
+    "parroquia": "SUCRE",
+    "id": 6105,
+    "votos": 1009,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 9.9
+  }
+]

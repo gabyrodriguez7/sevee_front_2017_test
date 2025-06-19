@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "C. E. EN PALMA DE MALLORCA",
+    "id": 9021,
+    "votos": 32,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.81
+  },
+  {
+    "parroquia": "C. E. EN BARCELONA",
+    "id": 9023,
+    "votos": 224,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.11
+  },
+  {
+    "parroquia": "C. E. EN MADRID",
+    "id": 9024,
+    "votos": 442,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.41
+  },
+  {
+    "parroquia": "C. E. EN VALENCIA",
+    "id": 9025,
+    "votos": 114,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.07
+  },
+  {
+    "parroquia": "C. E. EN MURCIA",
+    "id": 9026,
+    "votos": 174,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.26
+  },
+  {
+    "parroquia": "C. E. EN MALAGA",
+    "id": 9066,
+    "votos": 72,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.22
+  },
+  {
+    "parroquia": "C. E. EN ALICANTE",
+    "id": 9074,
+    "votos": 33,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.90
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "SAN PEDRO DE LOS COFANES",
+    "id": 600,
+    "votos": 271,
+    "candidato": "Lasso Guillermo",
+    "value": 16.64
+  },
+  {
+    "parroquia": "SIETE DE JULIO",
+    "id": 780,
+    "votos": 208,
+    "candidato": "Lasso Guillermo",
+    "value": 12.44
+  },
+  {
+    "parroquia": "LIMONCOCHA",
+    "id": 2175,
+    "votos": 192,
+    "candidato": "Lasso Guillermo",
+    "value": 14.045
+  },
+  {
+    "parroquia": "PANACOCHA",
+    "id": 2765,
+    "votos": 29,
+    "candidato": "Lasso Guillermo",
+    "value": 13.9
+  },
+  {
+    "parroquia": "SAN ROQUE",
+    "id": 3645,
+    "votos": 89,
+    "candidato": "Lasso Guillermo",
+    "value": 6.7
+  },
+  {
+    "parroquia": "SHUSHUFINDI CENTRAL",
+    "id": 6140,
+    "votos": 2275,
+    "candidato": "Lasso Guillermo",
+    "value": 14.6
+  }
+]

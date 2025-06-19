@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "DR MIGUEL EGAS/PEGUCHE",
+    "id": 1040,
+    "votos": 26,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.69
+  },
+  {
+    "parroquia": "EUGENIO ESPEJO",
+    "id": 1215,
+    "votos": 31,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.73
+  },
+  {
+    "parroquia": "GONZALEZ SUÁREZ",
+    "id": 1360,
+    "votos": 22,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.57
+  },
+  {
+    "parroquia": "PATAQUI",
+    "id": 2785,
+    "votos": 3,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.05
+  },
+  {
+    "parroquia": "SAN JOSÉ DE QUICHINCHE",
+    "id": 3490,
+    "votos": 36,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.76
+  },
+  {
+    "parroquia": "SAN JUAN DE ILUMÁN",
+    "id": 3525,
+    "votos": 50,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.05
+  },
+  {
+    "parroquia": "SAN PABLO",
+    "id": 3590,
+    "votos": 52,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.8
+  },
+  {
+    "parroquia": "SAN RAFAEL",
+    "id": 3630,
+    "votos": 27,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.88
+  },
+  {
+    "parroquia": "SELVA ALEGRE",
+    "id": 3810,
+    "votos": 7,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.62
+  },
+  {
+    "parroquia": "JORDÁN",
+    "id": 5490,
+    "votos": 137,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.64
+  },
+  {
+    "parroquia": "SAN LUIS",
+    "id": 5980,
+    "votos": 88,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.63
+  }
+]

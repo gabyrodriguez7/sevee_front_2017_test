@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "CHILLANES",
+        "id": 5245,
+        "votos": 34,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.58
+    },
+    {
+        "parroquia": "SAN JOSE DE TAMBO",
+        "id": 3500,
+        "votos": 8,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.3
+    }
+]

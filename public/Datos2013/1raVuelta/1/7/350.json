@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "EL RETIRO",
+        "id": 255,
+        "votos": 19,
+        "candidato": "Noboa Alvaro",
+        "value": 1.5
+    },
+    {
+        "parroquia": "LA PROVIDENCIA",
+        "id": 5565,
+        "votos": 131,
+        "candidato": "Noboa Alvaro",
+        "value": 2.8
+    },
+    {
+        "parroquia": "MACHALA",
+        "id": 5625,
+        "votos": 4322,
+        "candidato": "Noboa Alvaro",
+        "value": 3.7
+    },
+    {
+        "parroquia": "PUERTO BOLIVAR",
+        "id": 5805,
+        "votos": 783,
+        "candidato": "Noboa Alvaro",
+        "value": 4.8
+    },
+    {
+        "parroquia": "9 DE MAYO",
+        "id": 6490,
+        "votos": 94,
+        "candidato": "Noboa Alvaro",
+        "value": 3.1
+    },
+    {
+        "parroquia": "EL CAMBIO",
+        "id": 6795,
+        "votos": 139,
+        "candidato": "Noboa Alvaro",
+        "value": 3.0
+    }
+]

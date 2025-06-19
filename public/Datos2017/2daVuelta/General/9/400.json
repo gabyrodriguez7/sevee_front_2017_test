@@ -1,0 +1,79 @@
+[
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 260,
+        "votos": 1920,
+        "votos1": 1156,
+        "votos2": 764,
+        "fill": "#1eff00",
+        "porcentaje1": 60.21,
+        "porcentaje2": 39.79
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 1855,
+        "votos": 2944,
+        "votos1": 1881,
+        "votos2": 1063,
+        "fill": "#1eff00",
+        "porcentaje1": 63.89,
+        "porcentaje2": 36.11
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 2105,
+        "votos": 3293,
+        "votos1": 2195,
+        "votos2": 1098,
+        "fill": "#1eff00",
+        "porcentaje1": 66.66,
+        "porcentaje2": 33.34
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 4500,
+        "votos": 4695,
+        "votos1": 2508,
+        "votos2": 2187,
+        "fill": "#1eff00",
+        "porcentaje1": 53.42,
+        "porcentaje2": 46.58
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 5275,
+        "votos": 60634,
+        "votos1": 35240,
+        "votos2": 25394,
+        "fill": "#1eff00",
+        "porcentaje1": 58.12,
+        "porcentaje2": 41.88
+    },
+    {
+        "candidato1": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "candidato2": "MORENO GARCES LENIN BOLTAIRE",
+        "id": 6850,
+        "votos": 12778,
+        "votos1": 8889,
+        "votos2": 3889,
+        "fill": "#062e81",
+        "porcentaje1": 69.56,
+        "porcentaje2": 30.44
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 7425,
+        "votos": 263,
+        "votos1": 182,
+        "votos2": 81,
+        "fill": "#1eff00",
+        "porcentaje1": 69.2,
+        "porcentaje2": 30.8
+    }
+]

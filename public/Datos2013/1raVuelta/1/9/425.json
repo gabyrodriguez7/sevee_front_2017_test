@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "TARIFA",
+        "id": 3975,
+        "votos": 137,
+        "candidato": "Noboa Alvaro",
+        "value": 3.0752
+    },
+    {
+        "parroquia": "SAMBORONDON",
+        "id": 5925,
+        "votos": 909,
+        "candidato": "Noboa Alvaro",
+        "value": 4.3292
+    },
+    {
+        "parroquia": "LA PUNTILLA(SATELITE)",
+        "id": 7445,
+        "votos": 256,
+        "candidato": "Noboa Alvaro",
+        "value": 1.814
+    }
+]

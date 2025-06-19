@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "PUERTO AYORA",
+        "id": 6505,
+        "votos": 20,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.34
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 1985,
+        "votos": 0,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.0
+    },
+    {
+        "parroquia": "BELLA VISTA",
+        "id": 235,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.18
+    }
+]

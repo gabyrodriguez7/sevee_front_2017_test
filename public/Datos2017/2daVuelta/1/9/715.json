@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "VALLE DE LA VIRGEN",
+        "id": 185,
+        "votos": 456,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 24.05
+    },
+    {
+        "parroquia": "SABANILLA",
+        "id": 1670,
+        "votos": 892,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 33.93
+    },
+    {
+        "parroquia": "PEDRO CARBO",
+        "id": 5735,
+        "votos": 9731,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 36.96
+    }
+]

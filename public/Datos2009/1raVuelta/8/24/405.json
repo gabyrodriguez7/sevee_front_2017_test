@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "SANTA ROSA",
+    "id": 6995,
+    "votos": 95,
+    "candidato": "Lucio Gutierrez",
+    "value": 3.48
+  },
+  {
+    "parroquia": "CARLOS ESPINOZA LARREA",
+    "id": 6280,
+    "votos": 15,
+    "candidato": "Lucio Gutierrez",
+    "value": 12.39
+  },
+  {
+    "parroquia": "VICENTE ROCAFUERTE",
+    "id": 6275,
+    "votos": 7,
+    "candidato": "Lucio Gutierrez",
+    "value": 8.97
+  },
+  {
+    "parroquia": "GRAL. A. E. GALLO",
+    "id": 6270,
+    "votos": 4,
+    "candidato": "Lucio Gutierrez",
+    "value": 8.33
+  },
+  {
+    "parroquia": "SALINAS",
+    "id": 5920,
+    "votos": 1510,
+    "candidato": "Lucio Gutierrez",
+    "value": 8.76
+  },
+  {
+    "parroquia": "JOSE LUIS TAMAYO / MUEY",
+    "id": 1850,
+    "votos": 352,
+    "candidato": "Lucio Gutierrez",
+    "value": 4.77
+  },
+  {
+    "parroquia": "ANCONCITO",
+    "id": 115,
+    "votos": 163,
+    "candidato": "Lucio Gutierrez",
+    "value": 3.45
+  }
+]

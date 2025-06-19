@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "TARIFA",
+        "id": 3975,
+        "votos": 29,
+        "candidato": "Wray Norman",
+        "value": 0.651
+    },
+    {
+        "parroquia": "SAMBORONDON",
+        "id": 5925,
+        "votos": 95,
+        "candidato": "Wray Norman",
+        "value": 0.4524
+    },
+    {
+        "parroquia": "LA PUNTILLA(SATELITE)",
+        "id": 7445,
+        "votos": 82,
+        "candidato": "Wray Norman",
+        "value": 0.581
+    }
+]

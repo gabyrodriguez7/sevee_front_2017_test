@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "CHITO",
+    "id": 915,
+    "votos": 308,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 41.9
+  },
+  {
+    "parroquia": "EL CHORRO",
+    "id": 1145,
+    "votos": 117,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 47.56
+  },
+  {
+    "parroquia": "LA CHONTA",
+    "id": 2015,
+    "votos": 85,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 45.21
+  },
+  {
+    "parroquia": "SAN ANDRÉS",
+    "id": 2110,
+    "votos": 117,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 35.24
+  },
+  {
+    "parroquia": "PUCAPAMBA",
+    "id": 2955,
+    "votos": 40,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 35.71
+  },
+  {
+    "parroquia": "ZUMBA",
+    "id": 6315,
+    "votos": 1589,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 39.65
+  }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "ACHUPALLAS",
+        "id": 20,
+        "votos": 68,
+        "candidato": "Wray Norman",
+        "value": 1.6
+    },
+    {
+        "parroquia": "GUASUNTOS",
+        "id": 1465,
+        "votos": 22,
+        "candidato": "Wray Norman",
+        "value": 2.3
+    },
+    {
+        "parroquia": "HUIGRA",
+        "id": 1660,
+        "votos": 9,
+        "candidato": "Wray Norman",
+        "value": 0.753
+    },
+    {
+        "parroquia": "MULTITUD",
+        "id": 2485,
+        "votos": 5,
+        "candidato": "Wray Norman",
+        "value": 0.7
+    },
+    {
+        "parroquia": "PISTISHI",
+        "id": 2905,
+        "votos": 0,
+        "candidato": "Wray Norman",
+        "value": 0.0
+    },
+    {
+        "parroquia": "PUMALLACTA",
+        "id": 3025,
+        "votos": 2,
+        "candidato": "Wray Norman",
+        "value": 0.5
+    },
+    {
+        "parroquia": "SEVILLA",
+        "id": 3820,
+        "votos": 7,
+        "candidato": "Wray Norman",
+        "value": 1.67
+    },
+    {
+        "parroquia": "SIBAMBE",
+        "id": 3845,
+        "votos": 15,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "TIXAN",
+        "id": 4030,
+        "votos": 49,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "ALAUSI",
+        "id": 5010,
+        "votos": 109,
+        "candidato": "Wray Norman",
+        "value": 1.6
+    }
+]

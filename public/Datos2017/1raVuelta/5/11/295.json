@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "LIMONES",
+    "id": 280,
+    "votos": 4,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.56
+  },
+  {
+    "parroquia": "GARZAREAL",
+    "id": 290,
+    "votos": 2,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.31
+  },
+  {
+    "parroquia": "MANGAHURCO",
+    "id": 550,
+    "votos": 2,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.42
+  },
+  {
+    "parroquia": "BOLASPAMBA",
+    "id": 2000,
+    "votos": 6,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.24
+  },
+  {
+    "parroquia": "PALETILLAS",
+    "id": 2710,
+    "votos": 10,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.68
+  },
+  {
+    "parroquia": "CAZADEROS",
+    "id": 4605,
+    "votos": 1,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.39
+  },
+  {
+    "parroquia": "ZAPOTILLO",
+    "id": 6320,
+    "votos": 15,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.46
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "ANCONCITO",
+    "id": 115,
+    "votos": 959,
+    "candidato": "Lasso Guillermo",
+    "value": 16.0
+  },
+  {
+    "parroquia": "JOSE LUIS TAMAYO / MUEY",
+    "id": 1850,
+    "votos": 1801,
+    "candidato": "Lasso Guillermo",
+    "value": 19.4808
+  },
+  {
+    "parroquia": "SALINAS",
+    "id": 5920,
+    "votos": 3160,
+    "candidato": "Lasso Guillermo",
+    "value": 23.0
+  },
+  {
+    "parroquia": "GRAL. A. E. GALLO",
+    "id": 6270,
+    "votos": 320,
+    "candidato": "Lasso Guillermo",
+    "value": 24.0
+  },
+  {
+    "parroquia": "VICENTE ROCAFUERTE",
+    "id": 6275,
+    "votos": 343,
+    "candidato": "Lasso Guillermo",
+    "value": 17.6
+  },
+  {
+    "parroquia": "CARLOS ESPINOZA LARREA",
+    "id": 6280,
+    "votos": 704,
+    "candidato": "Lasso Guillermo",
+    "value": 23.72
+  },
+  {
+    "parroquia": "SANTA ROSA",
+    "id": 6925,
+    "votos": 369,
+    "candidato": "Lasso Guillermo",
+    "value": 12.8
+  }
+]

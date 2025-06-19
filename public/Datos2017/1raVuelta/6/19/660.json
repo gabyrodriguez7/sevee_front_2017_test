@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "CHITO",
+    "id": 915,
+    "votos": 1,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.14
+  },
+  {
+    "parroquia": "EL CHORRO",
+    "id": 1145,
+    "votos": 1,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.41
+  },
+  {
+    "parroquia": "LA CHONTA",
+    "id": 2015,
+    "votos": 1,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.53
+  },
+  {
+    "parroquia": "SAN ANDRÉS",
+    "id": 2110,
+    "votos": 3,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.9
+  },
+  {
+    "parroquia": "PUCAPAMBA",
+    "id": 2955,
+    "votos": 2,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.79
+  },
+  {
+    "parroquia": "ZUMBA",
+    "id": 6315,
+    "votos": 17,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.42
+  }
+]

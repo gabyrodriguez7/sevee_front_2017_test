@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "SAN LUIS",
+    "id": 5980,
+    "votos": 1423,
+    "candidato": "Lucio Gutierrez",
+    "value": 13.41
+  },
+  {
+    "parroquia": "JORDAN",
+    "id": 5490,
+    "votos": 2199,
+    "candidato": "Lucio Gutierrez",
+    "value": 14.33
+  },
+  {
+    "parroquia": "SELVA ALEGRE",
+    "id": 3810,
+    "votos": 168,
+    "candidato": "Lucio Gutierrez",
+    "value": 23.07
+  },
+  {
+    "parroquia": "SAN RAFAEL",
+    "id": 3630,
+    "votos": 280,
+    "candidato": "Lucio Gutierrez",
+    "value": 12.31
+  },
+  {
+    "parroquia": "SAN PABLO",
+    "id": 3590,
+    "votos": 922,
+    "candidato": "Lucio Gutierrez",
+    "value": 19.42
+  },
+  {
+    "parroquia": "SAN JUAN DE ILUMAN",
+    "id": 3525,
+    "votos": 298,
+    "candidato": "Lucio Gutierrez",
+    "value": 8.62
+  },
+  {
+    "parroquia": "SAN JOSE DE QUICHINCHE",
+    "id": 3490,
+    "votos": 408,
+    "candidato": "Lucio Gutierrez",
+    "value": 12.8
+  },
+  {
+    "parroquia": "PATAQUI",
+    "id": 2785,
+    "votos": 51,
+    "candidato": "Lucio Gutierrez",
+    "value": 20.4
+  },
+  {
+    "parroquia": "GONZALEZ SUAREZ",
+    "id": 1360,
+    "votos": 331,
+    "candidato": "Lucio Gutierrez",
+    "value": 11.63
+  },
+  {
+    "parroquia": "EUGENIO ESPEJO",
+    "id": 1215,
+    "votos": 342,
+    "candidato": "Lucio Gutierrez",
+    "value": 12.38
+  },
+  {
+    "parroquia": "DR MIGUEL EGAS/PEGUCHE",
+    "id": 1040,
+    "votos": 142,
+    "candidato": "Lucio Gutierrez",
+    "value": 5.81
+  }
+]

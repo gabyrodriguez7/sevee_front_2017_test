@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CHARAPOTO",
+        "id": 840,
+        "votos": 121,
+        "candidato": "Zavala Nelson",
+        "value": 0.933426
+    },
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 3445,
+        "votos": 39,
+        "candidato": "Zavala Nelson",
+        "value": 0.58148
+    },
+    {
+        "parroquia": "BAHIA DE CARAQUEZ",
+        "id": 5095,
+        "votos": 124,
+        "candidato": "Zavala Nelson",
+        "value": 0.95363
+    },
+    {
+        "parroquia": "LEONIDAS PLAZA G.",
+        "id": 5580,
+        "votos": 37,
+        "candidato": "Zavala Nelson",
+        "value": 1.17909
+    }
+]

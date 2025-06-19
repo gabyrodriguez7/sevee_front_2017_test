@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "LA MATRIZ",
+        "id": 5550,
+        "votos": 131,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.79
+    },
+    {
+        "parroquia": "EL ROSARIO",
+        "id": 5315,
+        "votos": 15,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.5
+    },
+    {
+        "parroquia": "SAN ISIDRO DE PATULU",
+        "id": 3450,
+        "votos": 21,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.11
+    },
+    {
+        "parroquia": "SAN GERARDO / PAQUICAHUAN",
+        "id": 3425,
+        "votos": 14,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.33
+    },
+    {
+        "parroquia": "SAN ANDRES",
+        "id": 3295,
+        "votos": 78,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.24
+    },
+    {
+        "parroquia": "LA PROVIDENCIA",
+        "id": 2080,
+        "votos": 7,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 2.08
+    },
+    {
+        "parroquia": "ILAPO",
+        "id": 1705,
+        "votos": 9,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.72
+    },
+    {
+        "parroquia": "GUANANDO",
+        "id": 1415,
+        "votos": 3,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.86
+    },
+    {
+        "parroquia": "VALPARAISO",
+        "id": 410,
+        "votos": 1,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.42
+    },
+    {
+        "parroquia": "SAN JOSE DEL CHAZO",
+        "id": 45,
+        "votos": 2,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.35
+    },
+    {
+        "parroquia": "SANTA FE DE GALAN",
+        "id": 40,
+        "votos": 7,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.34
+    }
+]

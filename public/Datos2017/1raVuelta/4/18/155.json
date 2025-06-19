@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "LOS ANDES",
+    "id": 2210,
+    "votos": 62,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.2
+  },
+  {
+    "parroquia": "SUCRE",
+    "id": 3885,
+    "votos": 74,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.56
+  },
+  {
+    "parroquia": "EL TRIUNFO",
+    "id": 4110,
+    "votos": 52,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.46
+  },
+  {
+    "parroquia": "PATATE",
+    "id": 5830,
+    "votos": 618,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.31
+  }
+]

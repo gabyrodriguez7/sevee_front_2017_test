@@ -1,0 +1,72 @@
+[
+  {
+    "parroquia": "MERCEDES MOLINA",
+    "id": 5655,
+    "votos": 12,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 6.45
+  },
+  {
+    "parroquia": "GUALAQUIZA",
+    "id": 5425,
+    "votos": 182,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 4.39
+  },
+  {
+    "parroquia": "SAN MIGUEL DE CUYES",
+    "id": 3580,
+    "votos": 0,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 0.0
+  },
+  {
+    "parroquia": "ROSARIO",
+    "id": 3225,
+    "votos": 2,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 0.83
+  },
+  {
+    "parroquia": "NUEVA TARQUI",
+    "id": 2565,
+    "votos": 9,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.56
+  },
+  {
+    "parroquia": "EL IDEAL",
+    "id": 1910,
+    "votos": 1,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 0.47
+  },
+  {
+    "parroquia": "CHIGUINDA",
+    "id": 880,
+    "votos": 13,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 5.42
+  },
+  {
+    "parroquia": "BOMBOIZA",
+    "id": 350,
+    "votos": 90,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 8.86
+  },
+  {
+    "parroquia": "BERMEJOS",
+    "id": 340,
+    "votos": 12,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 9.23
+  },
+  {
+    "parroquia": "AMAZONAS",
+    "id": 90,
+    "votos": 6,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 8.7
+  }
+]

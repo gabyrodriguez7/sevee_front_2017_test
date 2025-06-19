@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "NUEVA FATIMA",
+    "id": 2575,
+    "votos": 8,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 1.41
+  },
+  {
+    "parroquia": "TACAMOROS",
+    "id": 3935,
+    "votos": 8,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.58
+  },
+  {
+    "parroquia": "SOZORANGA",
+    "id": 6120,
+    "votos": 7,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.4
+  }
+]

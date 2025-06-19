@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "GIRON",
+        "id": 5395,
+        "votos": 2518,
+        "candidato": "Rafael Correa Delgado",
+        "value": 55.36
+    },
+    {
+        "parroquia": "SAN GERARDO",
+        "id": 885,
+        "votos": 127,
+        "candidato": "Rafael Correa Delgado",
+        "value": 77.43
+    },
+    {
+        "parroquia": "ASUNCION",
+        "id": 175,
+        "votos": 759,
+        "candidato": "Rafael Correa Delgado",
+        "value": 62.83
+    }
+]

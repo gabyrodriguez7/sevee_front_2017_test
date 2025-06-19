@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 330,
+        "votos": 25,
+        "candidato": "Zavala Nelson",
+        "value": 0.933
+    },
+    {
+        "parroquia": "ARQ.SIXTO DURAN BALLEN",
+        "id": 1570,
+        "votos": 13,
+        "candidato": "Zavala Nelson",
+        "value": 1.170117
+    },
+    {
+        "parroquia": "NOBOA",
+        "id": 2555,
+        "votos": 69,
+        "candidato": "Zavala Nelson",
+        "value": 1.84
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 6105,
+        "votos": 120,
+        "candidato": "Zavala Nelson",
+        "value": 1.18
+    }
+]

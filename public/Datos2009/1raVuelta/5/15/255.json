@@ -1,0 +1,44 @@
+[
+                {
+                    "parroquia": "EL CHACO",
+                    "id": 5510,
+                    "votos": 3,
+                    "candidato": "Melba Jacome",
+                    "value": 0.12
+                },
+                {
+                    "parroquia": "SARDINAS",
+                    "id": 3790,
+                    "votos": 1,
+                    "candidato": "Melba Jacome",
+                    "value": 0.38
+                },
+                {
+                    "parroquia": "SANTA ROSA DE QUIJOS",
+                    "id": 3745,
+                    "votos": 1,
+                    "candidato": "Melba Jacome",
+                    "value": 0.18
+                },
+                {
+                    "parroquia": "OYACACHI",
+                    "id": 2640,
+                    "votos": 0,
+                    "candidato": "Melba Jacome",
+                    "value": 0.0
+                },
+                {
+                    "parroquia": "LINARES",
+                    "id": 2180,
+                    "votos": 0,
+                    "candidato": "Melba Jacome",
+                    "value": 0.0
+                },
+                {
+                    "parroquia": "GONZALO DIAZ DE PINEDA",
+                    "id": 1020,
+                    "votos": 0,
+                    "candidato": "Melba Jacome",
+                    "value": 0.0
+                }
+            ]

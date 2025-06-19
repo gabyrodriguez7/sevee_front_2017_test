@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "LA ESPERANZA",
+    "id": 4420,
+    "votos": 1743,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 66.32
+  },
+  {
+    "parroquia": "SAN CARLOS",
+    "id": 4425,
+    "votos": 5477,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 71.07
+  },
+  {
+    "parroquia": "QUEVEDO",
+    "id": 5855,
+    "votos": 31628,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 56.27
+  },
+  {
+    "parroquia": "SAN CAMILO",
+    "id": 6115,
+    "votos": 11628,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 54.83
+  },
+  {
+    "parroquia": "SAN CRISTÓBAL",
+    "id": 6635,
+    "votos": 2278,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 59.98
+  },
+  {
+    "parroquia": "VENUS DEL RÍO QUEVEDO",
+    "id": 6640,
+    "votos": 6020,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 65.16
+  },
+  {
+    "parroquia": "NICOLÁS INFANTE DÍAZ",
+    "id": 6645,
+    "votos": 2032,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 61.13
+  },
+  {
+    "parroquia": "GUAYACÁN",
+    "id": 6650,
+    "votos": 3031,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 52.87
+  },
+  {
+    "parroquia": "SIETE DE OCTUBRE",
+    "id": 6655,
+    "votos": 3474,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 58.67
+  },
+  {
+    "parroquia": "VIVA ALFARO",
+    "id": 6660,
+    "votos": 2412,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 61.02
+  },
+  {
+    "parroquia": "24 DE MAYO",
+    "id": 6690,
+    "votos": 2506,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 58.04
+  }
+]

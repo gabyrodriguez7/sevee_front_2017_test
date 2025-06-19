@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "RIO VERDE",
+        "id": 6720,
+        "votos": 22,
+        "candidato": "Melba Jacome",
+        "value": 1.0
+    },
+    {
+        "parroquia": "ROCAFUERTE",
+        "id": 3215,
+        "votos": 14,
+        "candidato": "Melba Jacome",
+        "value": 0.7
+    },
+    {
+        "parroquia": "MONTALVO / HORQUETA",
+        "id": 2445,
+        "votos": 20,
+        "candidato": "Melba Jacome",
+        "value": 1.51
+    },
+    {
+        "parroquia": "LAGARTO",
+        "id": 2035,
+        "votos": 14,
+        "candidato": "Melba Jacome",
+        "value": 0.96
+    },
+    {
+        "parroquia": "CHUMUNDE",
+        "id": 965,
+        "votos": 6,
+        "candidato": "Melba Jacome",
+        "value": 1.51
+    },
+    {
+        "parroquia": "CHONTADURO",
+        "id": 930,
+        "votos": 8,
+        "candidato": "Melba Jacome",
+        "value": 1.1
+    }
+]

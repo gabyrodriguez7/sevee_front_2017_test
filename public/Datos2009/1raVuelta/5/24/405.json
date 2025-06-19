@@ -1,0 +1,51 @@
+[
+                {
+                    "parroquia": "SANTA ROSA",
+                    "id": 6995,
+                    "votos": 50,
+                    "candidato": "Melba Jacome",
+                    "value": 1.83
+                },
+                {
+                    "parroquia": "CARLOS ESPINOZA LARREA",
+                    "id": 6280,
+                    "votos": 2,
+                    "candidato": "Melba Jacome",
+                    "value": 1.65
+                },
+                {
+                    "parroquia": "VICENTE ROCAFUERTE",
+                    "id": 6275,
+                    "votos": 3,
+                    "candidato": "Melba Jacome",
+                    "value": 3.84
+                },
+                {
+                    "parroquia": "GRAL. A. E. GALLO",
+                    "id": 6270,
+                    "votos": 0,
+                    "candidato": "Melba Jacome",
+                    "value": 0.0
+                },
+                {
+                    "parroquia": "SALINAS",
+                    "id": 5920,
+                    "votos": 276,
+                    "candidato": "Melba Jacome",
+                    "value": 1.6
+                },
+                {
+                    "parroquia": "JOSE LUIS TAMAYO / MUEY",
+                    "id": 1850,
+                    "votos": 136,
+                    "candidato": "Melba Jacome",
+                    "value": 1.84
+                },
+                {
+                    "parroquia": "ANCONCITO",
+                    "id": 115,
+                    "votos": 26,
+                    "candidato": "Melba Jacome",
+                    "value": 0.55
+                }
+            ]

@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "EL PORVENIR DEL CARMEN",
+    "id": 1240,
+    "votos": 108,
+    "candidato": "Lasso Guillermo",
+    "value": 20.2
+  },
+  {
+    "parroquia": "LA CANELA",
+    "id": 2170,
+    "votos": 62,
+    "candidato": "Lasso Guillermo",
+    "value": 29.108
+  },
+  {
+    "parroquia": "VALLADOLID",
+    "id": 4195,
+    "votos": 264,
+    "candidato": "Lasso Guillermo",
+    "value": 27.557
+  },
+  {
+    "parroquia": "SAN FRANCISCO DEL VERGEL",
+    "id": 4505,
+    "votos": 138,
+    "candidato": "Lasso Guillermo",
+    "value": 22.3
+  },
+  {
+    "parroquia": "PALANDA",
+    "id": 6740,
+    "votos": 828,
+    "candidato": "Lasso Guillermo",
+    "value": 34.1162
+  }
+]

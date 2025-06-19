@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "CAPIRO",
+    "id": 505,
+    "votos": 19,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.15
+  },
+  {
+    "parroquia": "SARACAY",
+    "id": 1385,
+    "votos": 32,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.09
+  },
+  {
+    "parroquia": "LA BOCANA",
+    "id": 2230,
+    "votos": 18,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.16
+  },
+  {
+    "parroquia": "MOROMORO",
+    "id": 2465,
+    "votos": 20,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.01
+  },
+  {
+    "parroquia": "PIEDRAS",
+    "id": 2850,
+    "votos": 14,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.96
+  },
+  {
+    "parroquia": "SAN ROQUE",
+    "id": 3650,
+    "votos": 16,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.4
+  },
+  {
+    "parroquia": "PIÑAS",
+    "id": 5790,
+    "votos": 276,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.11
+  },
+  {
+    "parroquia": "PIÑAS GRANDE",
+    "id": 6675,
+    "votos": 1,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.45
+  },
+  {
+    "parroquia": "LA SUSAYA",
+    "id": 6680,
+    "votos": 3,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.99
+  }
+]

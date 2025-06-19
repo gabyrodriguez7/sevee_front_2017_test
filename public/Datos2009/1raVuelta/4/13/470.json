@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "LODANA",
+        "id": 6725,
+        "votos": 246,
+        "candidato": "Rafael Correa Delgado",
+        "value": 47.77
+    },
+    {
+        "parroquia": "SANTA ANA",
+        "id": 6030,
+        "votos": 6641,
+        "candidato": "Rafael Correa Delgado",
+        "value": 50.11
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 2135,
+        "votos": 1293,
+        "candidato": "Rafael Correa Delgado",
+        "value": 61.08
+    },
+    {
+        "parroquia": "HONORATO VASQUEZ",
+        "id": 1610,
+        "votos": 1601,
+        "candidato": "Rafael Correa Delgado",
+        "value": 68.27
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 1105,
+        "votos": 860,
+        "candidato": "Rafael Correa Delgado",
+        "value": 69.08
+    },
+    {
+        "parroquia": "AYACUCHO",
+        "id": 220,
+        "votos": 2166,
+        "candidato": "Rafael Correa Delgado",
+        "value": 61.57
+    }
+]

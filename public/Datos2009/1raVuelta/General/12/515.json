@@ -1,0 +1,90 @@
+[
+    {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "LUCIO GUTIERREZ",
+        "id": 520,
+        "votos": 2019,
+        "votos1": 1235,
+        "votos2": 593,
+        "fill": "#02C01C",
+        "porcentaje1": 61.17,
+        "porcentaje2": 29.37
+    },
+    {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "LUCIO GUTIERREZ",
+        "id": 1265,
+        "votos": 6591,
+        "votos1": 3394,
+        "votos2": 2538,
+        "fill": "#02C01C",
+        "porcentaje1": 51.49,
+        "porcentaje2": 38.51
+    },
+    {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "LUCIO GUTIERREZ",
+        "id": 1525,
+        "votos": 4116,
+        "votos1": 2247,
+        "votos2": 932,
+        "fill": "#02C01C",
+        "porcentaje1": 54.59,
+        "porcentaje2": 22.64
+    },
+    {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "LUCIO GUTIERREZ",
+        "id": 2875,
+        "votos": 6285,
+        "votos1": 4010,
+        "votos2": 1701,
+        "fill": "#02C01C",
+        "porcentaje1": 63.8,
+        "porcentaje2": 27.06
+    },
+    {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "LUCIO GUTIERREZ",
+        "id": 5215,
+        "votos": 31693,
+        "votos1": 13696,
+        "votos2": 12978,
+        "fill": "#02C01C",
+        "porcentaje1": 43.21,
+        "porcentaje2": 40.95
+    },
+    {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "LUCIO GUTIERREZ",
+        "id": 5285,
+        "votos": 18539,
+        "votos1": 8046,
+        "votos2": 7292,
+        "fill": "#02C01C",
+        "porcentaje1": 43.4,
+        "porcentaje2": 39.33
+    },
+    {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "LUCIO GUTIERREZ",
+        "id": 6830,
+        "votos": 4128,
+        "votos1": 2005,
+        "votos2": 1335,
+        "fill": "#02C01C",
+        "porcentaje1": 48.57,
+        "porcentaje2": 32.34
+    },
+    {
+        "candidato1": "LUCIO GUTIERREZ",
+        "candidato2": "MELBA JACOME",
+        "id": 6835,
+        "votos": 359,
+        "votos1": 125,
+        "votos2": 112,
+        "fill": "#455709",
+        "porcentaje1": 34.82,
+        "porcentaje2": 31.2
+    }
+]

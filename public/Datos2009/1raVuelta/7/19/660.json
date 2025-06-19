@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "ZUMBA",
+    "id": 6315,
+    "votos": 201,
+    "candidato": "Alvaro Noboa",
+    "value": 6.41
+  },
+  {
+    "parroquia": "PUCAPAMBA",
+    "id": 2955,
+    "votos": 9,
+    "candidato": "Alvaro Noboa",
+    "value": 10.23
+  },
+  {
+    "parroquia": "SAN ANDRES",
+    "id": 2110,
+    "votos": 12,
+    "candidato": "Alvaro Noboa",
+    "value": 4.62
+  },
+  {
+    "parroquia": "LA CHONTA",
+    "id": 2015,
+    "votos": 7,
+    "candidato": "Alvaro Noboa",
+    "value": 3.8
+  },
+  {
+    "parroquia": "EL CHORRO",
+    "id": 1145,
+    "votos": 37,
+    "candidato": "Alvaro Noboa",
+    "value": 14.86
+  },
+  {
+    "parroquia": "CHITO",
+    "id": 915,
+    "votos": 15,
+    "candidato": "Alvaro Noboa",
+    "value": 3.73
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "CAHUASQUÍ",
+    "id": 425,
+    "votos": 10,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.76
+  },
+  {
+    "parroquia": "LA MERCED DE BUENOS AIRES",
+    "id": 2060,
+    "votos": 3,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.28
+  },
+  {
+    "parroquia": "PABLO ARENAS",
+    "id": 2675,
+    "votos": 12,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.86
+  },
+  {
+    "parroquia": "SAN BLAS",
+    "id": 3365,
+    "votos": 17,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.89
+  },
+  {
+    "parroquia": "TUMBABIRO",
+    "id": 4080,
+    "votos": 4,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.38
+  },
+  {
+    "parroquia": "URCUQUÍ",
+    "id": 6190,
+    "votos": 27,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.62
+  }
+]

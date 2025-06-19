@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN VICENTE",
+        "id": 1650,
+        "votos": 5,
+        "candidato": "Wray Norman",
+        "value": 0.6
+    },
+    {
+        "parroquia": "EL PAN",
+        "id": 6485,
+        "votos": 11,
+        "candidato": "Wray Norman",
+        "value": 0.92
+    }
+]

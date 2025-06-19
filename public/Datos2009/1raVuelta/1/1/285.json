@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "SANTA ISABEL",
+        "id": 6045,
+        "votos": 258,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.94
+    },
+    {
+        "parroquia": "SHAGLLI",
+        "id": 3835,
+        "votos": 25,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.0
+    },
+    {
+        "parroquia": "EL CARMEN DE PIJILI",
+        "id": 1130,
+        "votos": 9,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.86
+    },
+    {
+        "parroquia": "ABDON CALDERON / LA UNION",
+        "id": 15,
+        "votos": 38,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.0
+    }
+]

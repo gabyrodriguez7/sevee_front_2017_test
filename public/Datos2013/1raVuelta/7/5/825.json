@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "GUASAGANDA",
+    "id": 1500,
+    "votos": 7,
+    "candidato": "Zavala Nelson",
+    "value": 0.56
+  },
+  {
+    "parroquia": "PUCAYACO",
+    "id": 2965,
+    "votos": 3,
+    "candidato": "Zavala Nelson",
+    "value": 0.18
+  },
+  {
+    "parroquia": "LA MANA",
+    "id": 6535,
+    "votos": 131,
+    "candidato": "Zavala Nelson",
+    "value": 0.7
+  },
+  {
+    "parroquia": "EL CARMEN",
+    "id": 6880,
+    "votos": 7,
+    "candidato": "Zavala Nelson",
+    "value": 0.5
+  },
+  {
+    "parroquia": "EL TRIUNFO",
+    "id": 6895,
+    "votos": 4,
+    "candidato": "Zavala Nelson",
+    "value": 0.4
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "LA ESPERANZA",
+    "id": 4420,
+    "votos": 459,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 20.06
+  },
+  {
+    "parroquia": "SAN CARLOS",
+    "id": 4425,
+    "votos": 1215,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 17.03
+  },
+  {
+    "parroquia": "QUEVEDO",
+    "id": 5855,
+    "votos": 11761,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 22.16
+  },
+  {
+    "parroquia": "SAN CAMILO",
+    "id": 6115,
+    "votos": 4808,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 23.54
+  },
+  {
+    "parroquia": "SAN CRISTÓBAL",
+    "id": 6635,
+    "votos": 830,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 22.99
+  },
+  {
+    "parroquia": "VENUS DEL RÍO QUEVEDO",
+    "id": 6640,
+    "votos": 1671,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 18.91
+  },
+  {
+    "parroquia": "NICOLÁS INFANTE DÍAZ",
+    "id": 6645,
+    "votos": 618,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 20.01
+  },
+  {
+    "parroquia": "GUAYACÁN",
+    "id": 6650,
+    "votos": 1315,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 23.42
+  },
+  {
+    "parroquia": "SIETE DE OCTUBRE",
+    "id": 6655,
+    "votos": 1334,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 23.19
+  },
+  {
+    "parroquia": "VIVA ALFARO",
+    "id": 6660,
+    "votos": 806,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 21.46
+  },
+  {
+    "parroquia": "24 DE MAYO",
+    "id": 6690,
+    "votos": 926,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 23.22
+  }
+]

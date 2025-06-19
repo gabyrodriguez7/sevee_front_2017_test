@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "CAPIRO",
+        "id": 505,
+        "votos": 7,
+        "candidato": "Zavala Nelson",
+        "value": 0.783875
+    },
+    {
+        "parroquia": "SARACAY",
+        "id": 1385,
+        "votos": 4,
+        "candidato": "Zavala Nelson",
+        "value": 0.44395117
+    },
+    {
+        "parroquia": "LA BOCANA",
+        "id": 2230,
+        "votos": 4,
+        "candidato": "Zavala Nelson",
+        "value": 0.5
+    },
+    {
+        "parroquia": "MOROMORO",
+        "id": 2465,
+        "votos": 0,
+        "candidato": "Zavala Nelson",
+        "value": 0.0
+    },
+    {
+        "parroquia": "PIEDRAS",
+        "id": 2850,
+        "votos": 3,
+        "candidato": "Zavala Nelson",
+        "value": 0.680272
+    },
+    {
+        "parroquia": "SAN ROQUE",
+        "id": 3650,
+        "votos": 6,
+        "candidato": "Zavala Nelson",
+        "value": 1.3825
+    },
+    {
+        "parroquia": "PIÑAS",
+        "id": 5790,
+        "votos": 51,
+        "candidato": "Zavala Nelson",
+        "value": 0.43586
+    },
+    {
+        "parroquia": "PIÑAS GRANDE",
+        "id": 6675,
+        "votos": 0,
+        "candidato": "Zavala Nelson",
+        "value": 0.0
+    },
+    {
+        "parroquia": "LA SUSAYA",
+        "id": 6680,
+        "votos": 0,
+        "candidato": "Zavala Nelson",
+        "value": 0.0
+    }
+]

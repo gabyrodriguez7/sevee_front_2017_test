@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "COLAIZACA",
+    "id": 590,
+    "votos": 538,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 44.83
+  },
+  {
+    "parroquia": "EL LUCERO",
+    "id": 1230,
+    "votos": 515,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 34.68
+  },
+  {
+    "parroquia": "SANGUILLIN",
+    "id": 1550,
+    "votos": 150,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 30.99
+  },
+  {
+    "parroquia": "UTUANA",
+    "id": 4150,
+    "votos": 337,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 58.51
+  },
+  {
+    "parroquia": "CARIAMANGA",
+    "id": 5175,
+    "votos": 6719,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 59.32
+  },
+  {
+    "parroquia": "CHILE",
+    "id": 5240,
+    "votos": 1062,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 56.58
+  },
+  {
+    "parroquia": "SAN VICENTE",
+    "id": 6025,
+    "votos": 261,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 59.18
+  }
+]

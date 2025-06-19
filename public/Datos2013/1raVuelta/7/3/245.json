@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "JERUSALEN",
+    "id": 1085,
+    "votos": 2,
+    "candidato": "Zavala Nelson",
+    "value": 0.6
+  },
+  {
+    "parroquia": "NAZON",
+    "id": 2545,
+    "votos": 15,
+    "candidato": "Zavala Nelson",
+    "value": 0.9
+  },
+  {
+    "parroquia": "SAN FCO. DE SAGEO",
+    "id": 3410,
+    "votos": 1,
+    "candidato": "Zavala Nelson",
+    "value": 0.149
+  },
+  {
+    "parroquia": "TURUPAMBA",
+    "id": 4100,
+    "votos": 0,
+    "candidato": "Zavala Nelson",
+    "value": 0.0
+  },
+  {
+    "parroquia": "BIBLIAN",
+    "id": 5115,
+    "votos": 38,
+    "candidato": "Zavala Nelson",
+    "value": 0.5
+  }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "SIGSIG",
+        "id": 6085,
+        "votos": 153,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.66
+    },
+    {
+        "parroquia": "SAN JOSE DE RARANGA",
+        "id": 3495,
+        "votos": 13,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.0
+    },
+    {
+        "parroquia": "SAN BARTOLOME",
+        "id": 3360,
+        "votos": 16,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.12
+    },
+    {
+        "parroquia": "LUDO",
+        "id": 2215,
+        "votos": 26,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.39
+    },
+    {
+        "parroquia": "GUEL",
+        "id": 1490,
+        "votos": 125,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 23.27
+    },
+    {
+        "parroquia": "GIMA",
+        "id": 1355,
+        "votos": 65,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 4.39
+    },
+    {
+        "parroquia": "CUTCHIL",
+        "id": 750,
+        "votos": 25,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 4.34
+    }
+]

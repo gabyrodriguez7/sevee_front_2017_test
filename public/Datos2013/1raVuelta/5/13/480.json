@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "BOYACA",
+        "id": 380,
+        "votos": 181,
+        "candidato": "Gutierrez Lucio",
+        "value": 7.61
+    },
+    {
+        "parroquia": "CHIBUNGA",
+        "id": 405,
+        "votos": 197,
+        "candidato": "Gutierrez Lucio",
+        "value": 8.81038
+    },
+    {
+        "parroquia": "CANUTO",
+        "id": 495,
+        "votos": 346,
+        "candidato": "Gutierrez Lucio",
+        "value": 5.38
+    },
+    {
+        "parroquia": "CONVENTO",
+        "id": 640,
+        "votos": 197,
+        "candidato": "Gutierrez Lucio",
+        "value": 5.9
+    },
+    {
+        "parroquia": "ELOY ALFARO",
+        "id": 1160,
+        "votos": 293,
+        "candidato": "Gutierrez Lucio",
+        "value": 10.8
+    },
+    {
+        "parroquia": "RICAURTE",
+        "id": 3170,
+        "votos": 212,
+        "candidato": "Gutierrez Lucio",
+        "value": 6.6
+    },
+    {
+        "parroquia": "SAN ANTONIO / DEL PELUDO",
+        "id": 3350,
+        "votos": 215,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.6
+    },
+    {
+        "parroquia": "CHONE",
+        "id": 5250,
+        "votos": 1518,
+        "candidato": "Gutierrez Lucio",
+        "value": 3.759
+    },
+    {
+        "parroquia": "SANTA RITA",
+        "id": 6055,
+        "votos": 765,
+        "candidato": "Gutierrez Lucio",
+        "value": 8.493
+    }
+]

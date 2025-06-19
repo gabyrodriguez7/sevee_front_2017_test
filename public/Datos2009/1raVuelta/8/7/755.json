@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "LA VICTORIA/LAS LAJAS",
+    "id": 6335,
+    "votos": 608,
+    "candidato": "Lucio Gutierrez",
+    "value": 29.62
+  },
+  {
+    "parroquia": "LA LIBERTAD",
+    "id": 1100,
+    "votos": 98,
+    "candidato": "Lucio Gutierrez",
+    "value": 23.67
+  },
+  {
+    "parroquia": "EL PARAISO",
+    "id": 1080,
+    "votos": 83,
+    "candidato": "Lucio Gutierrez",
+    "value": 30.29
+  },
+  {
+    "parroquia": "SAN ISIDRO",
+    "id": 1075,
+    "votos": 92,
+    "candidato": "Lucio Gutierrez",
+    "value": 33.94
+  }
+]

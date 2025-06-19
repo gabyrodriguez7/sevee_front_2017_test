@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "CHANGAIMINA /LA LIBERTAD",
+    "id": 825,
+    "votos": 88,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.26
+  },
+  {
+    "parroquia": "NAMBACOLA",
+    "id": 2520,
+    "votos": 200,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.31
+  },
+  {
+    "parroquia": "PURUNUMA /EGUIGUREN",
+    "id": 3045,
+    "votos": 62,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.16
+  },
+  {
+    "parroquia": "SACAPALCA",
+    "id": 3270,
+    "votos": 65,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.15
+  },
+  {
+    "parroquia": "GONZANAMÁ",
+    "id": 5400,
+    "votos": 174,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.86
+  }
+]

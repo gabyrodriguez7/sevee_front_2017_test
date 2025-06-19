@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "COTOGCHOA",
+    "id": 680,
+    "votos": 172,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.69
+  },
+  {
+    "parroquia": "RUMIPAMBA",
+    "id": 3230,
+    "votos": 21,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.83
+  },
+  {
+    "parroquia": "SANGOLQUÍ",
+    "id": 5965,
+    "votos": 5760,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.55
+  },
+  {
+    "parroquia": "SAN RAFAEL",
+    "id": 6600,
+    "votos": 1796,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.0
+  },
+  {
+    "parroquia": "SAN PEDRO DE TABOADA",
+    "id": 6605,
+    "votos": 660,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.08
+  }
+]

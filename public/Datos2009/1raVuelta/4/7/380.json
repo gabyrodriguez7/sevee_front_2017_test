@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "EL GUABO",
+        "id": 5340,
+        "votos": 12053,
+        "candidato": "Rafael Correa Delgado",
+        "value": 72.86
+    },
+    {
+        "parroquia": "TENDALES",
+        "id": 4000,
+        "votos": 1013,
+        "candidato": "Rafael Correa Delgado",
+        "value": 73.29
+    },
+    {
+        "parroquia": "RIO BONITO",
+        "id": 2050,
+        "votos": 805,
+        "candidato": "Rafael Correa Delgado",
+        "value": 73.92
+    },
+    {
+        "parroquia": "BARBONES",
+        "id": 300,
+        "votos": 2175,
+        "candidato": "Rafael Correa Delgado",
+        "value": 80.7
+    },
+    {
+        "parroquia": "LA IBERIA",
+        "id": 245,
+        "votos": 810,
+        "candidato": "Rafael Correa Delgado",
+        "value": 69.58
+    }
+]

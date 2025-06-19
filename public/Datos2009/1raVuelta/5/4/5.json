@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "TULCAN",
+        "id": 6165,
+        "votos": 99,
+        "candidato": "Melba Jacome",
+        "value": 0.51
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 5415,
+        "votos": 60,
+        "candidato": "Melba Jacome",
+        "value": 0.38
+    },
+    {
+        "parroquia": "URBINA",
+        "id": 4130,
+        "votos": 5,
+        "candidato": "Melba Jacome",
+        "value": 0.68
+    },
+    {
+        "parroquia": "TUFIÑO",
+        "id": 4070,
+        "votos": 1,
+        "candidato": "Melba Jacome",
+        "value": 0.07
+    },
+    {
+        "parroquia": "TOBAR DONOSO",
+        "id": 4040,
+        "votos": 6,
+        "candidato": "Melba Jacome",
+        "value": 7.5
+    },
+    {
+        "parroquia": "PIOTER",
+        "id": 2900,
+        "votos": 0,
+        "candidato": "Melba Jacome",
+        "value": 0.0
+    },
+    {
+        "parroquia": "MALDONADO",
+        "id": 2340,
+        "votos": 5,
+        "candidato": "Melba Jacome",
+        "value": 0.8
+    },
+    {
+        "parroquia": "JULIO ANDRADE",
+        "id": 1885,
+        "votos": 21,
+        "candidato": "Melba Jacome",
+        "value": 0.41
+    },
+    {
+        "parroquia": "SANTA MARTHA DE CUBA",
+        "id": 1765,
+        "votos": 2,
+        "candidato": "Melba Jacome",
+        "value": 0.19
+    },
+    {
+        "parroquia": "EL CHICAL",
+        "id": 1195,
+        "votos": 13,
+        "candidato": "Melba Jacome",
+        "value": 1.64
+    },
+    {
+        "parroquia": "EL CARMELO/EL PUN/",
+        "id": 1125,
+        "votos": 3,
+        "candidato": "Melba Jacome",
+        "value": 0.23
+    }
+]

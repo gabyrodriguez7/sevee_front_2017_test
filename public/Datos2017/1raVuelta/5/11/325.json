@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "LA RAMA",
+    "id": 2085,
+    "votos": 5,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.97
+  },
+  {
+    "parroquia": "LA VICTORIA",
+    "id": 2145,
+    "votos": 16,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 2.43
+  },
+  {
+    "parroquia": "SABIANGO",
+    "id": 3265,
+    "votos": 7,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.58
+  },
+  {
+    "parroquia": "GRAL.ELOY ALFARO",
+    "id": 5385,
+    "votos": 9,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.98
+  },
+  {
+    "parroquia": "MACARÁ",
+    "id": 5680,
+    "votos": 61,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.7
+  }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CAHUASQUI",
+        "id": 425,
+        "votos": 14,
+        "candidato": "Acosta Alberto",
+        "value": 1.1
+    },
+    {
+        "parroquia": "LA MERCED DE BUENOS AIRES",
+        "id": 2060,
+        "votos": 51,
+        "candidato": "Acosta Alberto",
+        "value": 4.92754
+    },
+    {
+        "parroquia": "PABLO ARENAS",
+        "id": 2675,
+        "votos": 12,
+        "candidato": "Acosta Alberto",
+        "value": 0.9
+    },
+    {
+        "parroquia": "SAN BLAS",
+        "id": 3365,
+        "votos": 34,
+        "candidato": "Acosta Alberto",
+        "value": 1.7
+    },
+    {
+        "parroquia": "TUMBABIRO",
+        "id": 4080,
+        "votos": 10,
+        "candidato": "Acosta Alberto",
+        "value": 1.062
+    },
+    {
+        "parroquia": "URCUQUI",
+        "id": 6190,
+        "votos": 96,
+        "candidato": "Acosta Alberto",
+        "value": 2.0
+    }
+]

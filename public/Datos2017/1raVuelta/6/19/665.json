@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "LA PAZ",
+    "id": 2070,
+    "votos": 1,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.09
+  },
+  {
+    "parroquia": "TUTUPALI",
+    "id": 4105,
+    "votos": 1,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.21
+  },
+  {
+    "parroquia": "28 DE MAYO",
+    "id": 6215,
+    "votos": 9,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.42
+  }
+]

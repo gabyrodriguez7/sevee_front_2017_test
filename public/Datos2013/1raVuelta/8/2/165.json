@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "SAN LUIS DE PAMBIL",
+        "id": 795,
+        "votos": 173,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 6.0
+    },
+    {
+        "parroquia": "FACUNDO VELA",
+        "id": 1255,
+        "votos": 32,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.0
+    },
+    {
+        "parroquia": "JULIO E MORENO",
+        "id": 1890,
+        "votos": 17,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.8
+    },
+    {
+        "parroquia": "SALINAS",
+        "id": 3285,
+        "votos": 92,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.41247
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 3545,
+        "votos": 28,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.27
+    },
+    {
+        "parroquia": "SAN SIMON",
+        "id": 3670,
+        "votos": 107,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 5.35535536
+    },
+    {
+        "parroquia": "SANTA FE",
+        "id": 3710,
+        "votos": 35,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.85
+    },
+    {
+        "parroquia": "SIMIATUG",
+        "id": 3860,
+        "votos": 183,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.0
+    },
+    {
+        "parroquia": "ANGEL POLIVIO CHAVEZ",
+        "id": 5035,
+        "votos": 481,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 5.8
+    },
+    {
+        "parroquia": "GABRIEL I VEINTIMILLA",
+        "id": 5375,
+        "votos": 667,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 5.0
+    },
+    {
+        "parroquia": "GUANUJO",
+        "id": 6630,
+        "votos": 521,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.0
+    }
+]

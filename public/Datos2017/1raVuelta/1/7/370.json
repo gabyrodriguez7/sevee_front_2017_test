@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "CAPIRO",
+    "id": 505,
+    "votos": 133,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 15.06
+  },
+  {
+    "parroquia": "SARACAY",
+    "id": 1385,
+    "votos": 244,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 23.57
+  },
+  {
+    "parroquia": "LA BOCANA",
+    "id": 2230,
+    "votos": 227,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 27.22
+  },
+  {
+    "parroquia": "MOROMORO",
+    "id": 2465,
+    "votos": 225,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 22.59
+  },
+  {
+    "parroquia": "PIEDRAS",
+    "id": 2850,
+    "votos": 129,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 27.27
+  },
+  {
+    "parroquia": "SAN ROQUE",
+    "id": 3650,
+    "votos": 48,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 10.19
+  },
+  {
+    "parroquia": "PIÑAS",
+    "id": 5790,
+    "votos": 3105,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 23.76
+  },
+  {
+    "parroquia": "PIÑAS GRANDE",
+    "id": 6675,
+    "votos": 13,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 18.84
+  },
+  {
+    "parroquia": "LA SUSAYA",
+    "id": 6680,
+    "votos": 31,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 20.53
+  }
+]

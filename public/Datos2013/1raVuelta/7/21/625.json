@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "DURENO",
+        "id": 1045,
+        "votos": 7,
+        "candidato": "Zavala Nelson",
+        "value": 0.47
+    },
+    {
+        "parroquia": "EL ENO",
+        "id": 1285,
+        "votos": 31,
+        "candidato": "Zavala Nelson",
+        "value": 1.076
+    },
+    {
+        "parroquia": "PACAYACU",
+        "id": 1290,
+        "votos": 27,
+        "candidato": "Zavala Nelson",
+        "value": 0.9
+    },
+    {
+        "parroquia": "GENERAL FARFAN",
+        "id": 1330,
+        "votos": 17,
+        "candidato": "Zavala Nelson",
+        "value": 0.8
+    },
+    {
+        "parroquia": "SANTA CECILIA",
+        "id": 1790,
+        "votos": 17,
+        "candidato": "Zavala Nelson",
+        "value": 0.853
+    },
+    {
+        "parroquia": "JAMBELI",
+        "id": 1795,
+        "votos": 13,
+        "candidato": "Zavala Nelson",
+        "value": 1.107
+    },
+    {
+        "parroquia": "10 DE AGOSTO",
+        "id": 4625,
+        "votos": 5,
+        "candidato": "Zavala Nelson",
+        "value": 1.49
+    },
+    {
+        "parroquia": "NUEVA LOJA",
+        "id": 5710,
+        "votos": 547,
+        "candidato": "Zavala Nelson",
+        "value": 1.634
+    }
+]

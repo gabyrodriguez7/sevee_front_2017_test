@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "EL DORADO DE CASCALES",
+        "id": 6325,
+        "votos": 914,
+        "candidato": "Rafael Correa Delgado",
+        "value": 31.58
+    },
+    {
+        "parroquia": "SANTA ROSA DE SUCUMBIOS",
+        "id": 3750,
+        "votos": 125,
+        "candidato": "Rafael Correa Delgado",
+        "value": 36.87
+    },
+    {
+        "parroquia": "SEVILLA",
+        "id": 1095,
+        "votos": 436,
+        "candidato": "Rafael Correa Delgado",
+        "value": 39.42
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "ARENILLAS",
+        "id": 5040,
+        "votos": 64,
+        "candidato": "Melba Jacome",
+        "value": 0.58
+    },
+    {
+        "parroquia": "PALMALES",
+        "id": 2715,
+        "votos": 9,
+        "candidato": "Melba Jacome",
+        "value": 0.73
+    },
+    {
+        "parroquia": "CARCABON",
+        "id": 1695,
+        "votos": 0,
+        "candidato": "Melba Jacome",
+        "value": 0.0
+    },
+    {
+        "parroquia": "CHACRAS",
+        "id": 805,
+        "votos": 1,
+        "candidato": "Melba Jacome",
+        "value": 0.18
+    }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "PUERTO AYORA",
+    "id": 6505,
+    "votos": 798,
+    "candidato": "Alvaro Noboa",
+    "value": 13.74
+  },
+  {
+    "parroquia": "SANTA ROSA",
+    "id": 1985,
+    "votos": 19,
+    "candidato": "Alvaro Noboa",
+    "value": 10.61
+  },
+  {
+    "parroquia": "BELLA VISTA",
+    "id": 235,
+    "votos": 58,
+    "candidato": "Alvaro Noboa",
+    "value": 10.34
+  }
+]

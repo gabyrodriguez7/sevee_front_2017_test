@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "IMBAYA",
+    "id": 1715,
+    "votos": 399,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 41.22
+  },
+  {
+    "parroquia": "SAN FCO.DE NATABUELA",
+    "id": 3400,
+    "votos": 1772,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 47.46
+  },
+  {
+    "parroquia": "SAN JOSÉ DE CHALTURA",
+    "id": 3465,
+    "votos": 925,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 41.78
+  },
+  {
+    "parroquia": "SAN ROQUE",
+    "id": 3640,
+    "votos": 2425,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 36.46
+  },
+  {
+    "parroquia": "ANDRADE MARÍN/LOURDES",
+    "id": 5025,
+    "votos": 1339,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 40.96
+  },
+  {
+    "parroquia": "ATUNTAQUI",
+    "id": 5050,
+    "votos": 6749,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 49.48
+  }
+]

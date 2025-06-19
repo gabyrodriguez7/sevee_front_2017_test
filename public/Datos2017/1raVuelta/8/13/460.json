@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "BELLAVISTA",
+    "id": 330,
+    "votos": 87,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.1
+  },
+  {
+    "parroquia": "ARQ.SIXTO DURÁN BALLÉN",
+    "id": 1570,
+    "votos": 85,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 5.7
+  },
+  {
+    "parroquia": "NOBOA",
+    "id": 2555,
+    "votos": 209,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 5.52
+  },
+  {
+    "parroquia": "SUCRE",
+    "id": 6105,
+    "votos": 508,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.99
+  }
+]

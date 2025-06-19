@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "CUTCHIL",
+    "id": 750,
+    "votos": 3,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.39
+  },
+  {
+    "parroquia": "GIMA",
+    "id": 1355,
+    "votos": 12,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.56
+  },
+  {
+    "parroquia": "GUEL",
+    "id": 1490,
+    "votos": 10,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.25
+  },
+  {
+    "parroquia": "LUDO",
+    "id": 2215,
+    "votos": 8,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.43
+  },
+  {
+    "parroquia": "SAN BARTOLOMÉ",
+    "id": 3360,
+    "votos": 14,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.67
+  },
+  {
+    "parroquia": "SAN JOSÉ DE RARANGA",
+    "id": 3495,
+    "votos": 18,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.69
+  },
+  {
+    "parroquia": "SIGSIG",
+    "id": 6085,
+    "votos": 54,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.67
+  }
+]

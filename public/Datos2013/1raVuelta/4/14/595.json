@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "AMAZONAS",
+        "id": 90,
+        "votos": 74,
+        "candidato": "Acosta Alberto",
+        "value": 52.9
+    },
+    {
+        "parroquia": "BERMEJOS",
+        "id": 340,
+        "votos": 9,
+        "candidato": "Acosta Alberto",
+        "value": 5.0
+    },
+    {
+        "parroquia": "BOMBOIZA",
+        "id": 350,
+        "votos": 882,
+        "candidato": "Acosta Alberto",
+        "value": 57.0
+    },
+    {
+        "parroquia": "CHIGUINDA",
+        "id": 880,
+        "votos": 50,
+        "candidato": "Acosta Alberto",
+        "value": 16.0
+    },
+    {
+        "parroquia": "EL IDEAL",
+        "id": 1910,
+        "votos": 56,
+        "candidato": "Acosta Alberto",
+        "value": 17.7
+    },
+    {
+        "parroquia": "NUEVA TARQUI",
+        "id": 2565,
+        "votos": 169,
+        "candidato": "Acosta Alberto",
+        "value": 35.9
+    },
+    {
+        "parroquia": "ROSARIO",
+        "id": 3225,
+        "votos": 42,
+        "candidato": "Acosta Alberto",
+        "value": 12.46
+    },
+    {
+        "parroquia": "SAN MIGUEL DE CUYES",
+        "id": 3580,
+        "votos": 26,
+        "candidato": "Acosta Alberto",
+        "value": 24.1
+    },
+    {
+        "parroquia": "GUALAQUIZA",
+        "id": 5425,
+        "votos": 1241,
+        "candidato": "Acosta Alberto",
+        "value": 23.3
+    },
+    {
+        "parroquia": "MERCEDES MOLINA",
+        "id": 5655,
+        "votos": 72,
+        "candidato": "Acosta Alberto",
+        "value": 28.0
+    }
+]

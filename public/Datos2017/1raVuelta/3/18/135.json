@@ -1,0 +1,191 @@
+[
+  {
+    "parroquia": "AMBATILLO",
+    "id": 95,
+    "votos": 909,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 30.55
+  },
+  {
+    "parroquia": "ATAHUALPA /CHIPZALATA",
+    "id": 190,
+    "votos": 1950,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 31.91
+  },
+  {
+    "parroquia": "AUGUSTO N. MARTÍNEZ",
+    "id": 210,
+    "votos": 1792,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 28.7
+  },
+  {
+    "parroquia": "CONSTANTINO FERNÁNDEZ",
+    "id": 635,
+    "votos": 460,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 26.95
+  },
+  {
+    "parroquia": "CUNCHIBAMBA",
+    "id": 800,
+    "votos": 863,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 35.56
+  },
+  {
+    "parroquia": "UNAMUNCHO",
+    "id": 810,
+    "votos": 391,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 25.05
+  },
+  {
+    "parroquia": "HUACHI GRANDE",
+    "id": 1625,
+    "votos": 1720,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 30.13
+  },
+  {
+    "parroquia": "IZAMBA",
+    "id": 1745,
+    "votos": 3570,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 27.43
+  },
+  {
+    "parroquia": "JUAN BENIGNO VELA",
+    "id": 1860,
+    "votos": 1149,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 23.92
+  },
+  {
+    "parroquia": "MONTALVO",
+    "id": 2435,
+    "votos": 846,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 37.06
+  },
+  {
+    "parroquia": "PASA",
+    "id": 2775,
+    "votos": 1094,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 27.44
+  },
+  {
+    "parroquia": "PICAYHUA",
+    "id": 2830,
+    "votos": 2716,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 27.24
+  },
+  {
+    "parroquia": "PILAHUÍN",
+    "id": 2860,
+    "votos": 1112,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 16.62
+  },
+  {
+    "parroquia": "QUISAPINCHA",
+    "id": 3120,
+    "votos": 1711,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 25.24
+  },
+  {
+    "parroquia": "SAN BARTOLOMÉ",
+    "id": 3355,
+    "votos": 1585,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 28.27
+  },
+  {
+    "parroquia": "SAN FERNANDO",
+    "id": 3380,
+    "votos": 348,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 23.05
+  },
+  {
+    "parroquia": "SANTA ROSA",
+    "id": 3730,
+    "votos": 3013,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 27.94
+  },
+  {
+    "parroquia": "TOTORAS",
+    "id": 4065,
+    "votos": 1337,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 31.03
+  },
+  {
+    "parroquia": "ATOCHA FICOA",
+    "id": 5045,
+    "votos": 2315,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 23.44
+  },
+  {
+    "parroquia": "CELIANO MONGE",
+    "id": 5230,
+    "votos": 694,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 33.67
+  },
+  {
+    "parroquia": "HUACHI LORETO",
+    "id": 5445,
+    "votos": 13395,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 31.16
+  },
+  {
+    "parroquia": "HUACHI CHICO",
+    "id": 5455,
+    "votos": 5992,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 28.36
+  },
+  {
+    "parroquia": "LA MATRIZ",
+    "id": 5545,
+    "votos": 6301,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 27.48
+  },
+  {
+    "parroquia": "LA MERCED",
+    "id": 5560,
+    "votos": 4893,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 28.35
+  },
+  {
+    "parroquia": "LA PENINSULA",
+    "id": 5605,
+    "votos": 425,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 29.13
+  },
+  {
+    "parroquia": "PISHILATA",
+    "id": 5840,
+    "votos": 673,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 31.14
+  },
+  {
+    "parroquia": "SAN FRANCISCO",
+    "id": 5945,
+    "votos": 1590,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 27.46
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "MANUEL J. CALLE",
+    "id": 2365,
+    "votos": 442,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 17.87
+  },
+  {
+    "parroquia": "PANCHO NEGRO",
+    "id": 2745,
+    "votos": 462,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 15.66
+  },
+  {
+    "parroquia": "LA TRONCAL",
+    "id": 5610,
+    "votos": 5939,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 22.66
+  }
+]

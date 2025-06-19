@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "EL REVENTADOR",
+    "id": 230,
+    "votos": 222,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 27.14
+  },
+  {
+    "parroquia": "GONZALO PIZARRO",
+    "id": 1090,
+    "votos": 657,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 34.47
+  },
+  {
+    "parroquia": "PUERTO LIBRE",
+    "id": 3615,
+    "votos": 88,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 13.25
+  },
+  {
+    "parroquia": "LUMBAQUÍ",
+    "id": 6300,
+    "votos": 730,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 28.63
+  }
+]

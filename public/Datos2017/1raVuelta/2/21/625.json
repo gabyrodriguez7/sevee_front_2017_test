@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "DURENO",
+    "id": 1045,
+    "votos": 119,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.07
+  },
+  {
+    "parroquia": "EL ENO",
+    "id": 1285,
+    "votos": 479,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 13.76
+  },
+  {
+    "parroquia": "PACAYÁCU",
+    "id": 1290,
+    "votos": 351,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.99
+  },
+  {
+    "parroquia": "GENERAL FARFÁN",
+    "id": 1330,
+    "votos": 208,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.83
+  },
+  {
+    "parroquia": "SANTA CECILIA",
+    "id": 1790,
+    "votos": 255,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.89
+  },
+  {
+    "parroquia": "JAMBELÍ",
+    "id": 1795,
+    "votos": 162,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 11.79
+  },
+  {
+    "parroquia": "10 DE AGOSTO",
+    "id": 4625,
+    "votos": 39,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.44
+  },
+  {
+    "parroquia": "NUEVA LOJA",
+    "id": 5710,
+    "votos": 2873,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.69
+  }
+]

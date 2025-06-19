@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "EL TAMBO",
+    "id": 1200,
+    "votos": 1082,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 51.06
+  },
+  {
+    "parroquia": "GUAYQUICHUMA",
+    "id": 1480,
+    "votos": 128,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 45.71
+  },
+  {
+    "parroquia": "SAN PEDRO DE LA BENDITA",
+    "id": 3610,
+    "votos": 645,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 53.26
+  },
+  {
+    "parroquia": "ZAMBI",
+    "id": 4455,
+    "votos": 183,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 50.97
+  },
+  {
+    "parroquia": "CATAMAYO",
+    "id": 5270,
+    "votos": 8897,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 54.4
+  },
+  {
+    "parroquia": "SAN JOSÉ",
+    "id": 6825,
+    "votos": 365,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 53.28
+  }
+]

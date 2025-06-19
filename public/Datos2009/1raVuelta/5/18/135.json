@@ -1,0 +1,191 @@
+[
+                {
+                    "parroquia": "SAN FRANCISCO",
+                    "id": 5945,
+                    "votos": 74,
+                    "candidato": "Melba Jacome",
+                    "value": 1.4
+                },
+                {
+                    "parroquia": "PISHILATA",
+                    "id": 5840,
+                    "votos": 20,
+                    "candidato": "Melba Jacome",
+                    "value": 1.42
+                },
+                {
+                    "parroquia": "LA PENINSULA",
+                    "id": 5605,
+                    "votos": 9,
+                    "candidato": "Melba Jacome",
+                    "value": 0.95
+                },
+                {
+                    "parroquia": "LA MERCED",
+                    "id": 5560,
+                    "votos": 228,
+                    "candidato": "Melba Jacome",
+                    "value": 1.62
+                },
+                {
+                    "parroquia": "LA MATRIZ",
+                    "id": 5545,
+                    "votos": 253,
+                    "candidato": "Melba Jacome",
+                    "value": 1.37
+                },
+                {
+                    "parroquia": "HUACHI CHICO",
+                    "id": 5455,
+                    "votos": 218,
+                    "candidato": "Melba Jacome",
+                    "value": 1.51
+                },
+                {
+                    "parroquia": "HUACHI LORETO",
+                    "id": 5445,
+                    "votos": 628,
+                    "candidato": "Melba Jacome",
+                    "value": 1.78
+                },
+                {
+                    "parroquia": "CELIANO MONGE",
+                    "id": 5230,
+                    "votos": 25,
+                    "candidato": "Melba Jacome",
+                    "value": 1.56
+                },
+                {
+                    "parroquia": "ATOCHA FICOA",
+                    "id": 5045,
+                    "votos": 97,
+                    "candidato": "Melba Jacome",
+                    "value": 1.24
+                },
+                {
+                    "parroquia": "TOTORAS",
+                    "id": 4065,
+                    "votos": 41,
+                    "candidato": "Melba Jacome",
+                    "value": 1.25
+                },
+                {
+                    "parroquia": "SANTA ROSA",
+                    "id": 3730,
+                    "votos": 109,
+                    "candidato": "Melba Jacome",
+                    "value": 1.41
+                },
+                {
+                    "parroquia": "SAN FERNANDO",
+                    "id": 3380,
+                    "votos": 10,
+                    "candidato": "Melba Jacome",
+                    "value": 0.86
+                },
+                {
+                    "parroquia": "SAN BARTOLOME",
+                    "id": 3355,
+                    "votos": 52,
+                    "candidato": "Melba Jacome",
+                    "value": 1.23
+                },
+                {
+                    "parroquia": "QUISAPINCHA",
+                    "id": 3120,
+                    "votos": 85,
+                    "candidato": "Melba Jacome",
+                    "value": 1.63
+                },
+                {
+                    "parroquia": "PILAHUIN",
+                    "id": 2860,
+                    "votos": 82,
+                    "candidato": "Melba Jacome",
+                    "value": 1.65
+                },
+                {
+                    "parroquia": "PICAYHUA",
+                    "id": 2830,
+                    "votos": 102,
+                    "candidato": "Melba Jacome",
+                    "value": 1.34
+                },
+                {
+                    "parroquia": "PASA",
+                    "id": 2775,
+                    "votos": 27,
+                    "candidato": "Melba Jacome",
+                    "value": 0.86
+                },
+                {
+                    "parroquia": "MONTALVO",
+                    "id": 2435,
+                    "votos": 21,
+                    "candidato": "Melba Jacome",
+                    "value": 1.22
+                },
+                {
+                    "parroquia": "JUAN BENIGNO VELA",
+                    "id": 1860,
+                    "votos": 59,
+                    "candidato": "Melba Jacome",
+                    "value": 1.59
+                },
+                {
+                    "parroquia": "IZAMBA",
+                    "id": 1745,
+                    "votos": 126,
+                    "candidato": "Melba Jacome",
+                    "value": 1.33
+                },
+                {
+                    "parroquia": "HUACHI GRANDE",
+                    "id": 1625,
+                    "votos": 63,
+                    "candidato": "Melba Jacome",
+                    "value": 1.58
+                },
+                {
+                    "parroquia": "UNAMUNCHO",
+                    "id": 810,
+                    "votos": 6,
+                    "candidato": "Melba Jacome",
+                    "value": 0.66
+                },
+                {
+                    "parroquia": "CUNCHIBAMBA",
+                    "id": 800,
+                    "votos": 34,
+                    "candidato": "Melba Jacome",
+                    "value": 2.09
+                },
+                {
+                    "parroquia": "CONSTANTINO FERNANDEZ",
+                    "id": 635,
+                    "votos": 20,
+                    "candidato": "Melba Jacome",
+                    "value": 1.48
+                },
+                {
+                    "parroquia": "AUGUSTO N MARTINEZ",
+                    "id": 210,
+                    "votos": 94,
+                    "candidato": "Melba Jacome",
+                    "value": 1.92
+                },
+                {
+                    "parroquia": "ATAHUALPA /CHIPZALATA",
+                    "id": 190,
+                    "votos": 73,
+                    "candidato": "Melba Jacome",
+                    "value": 1.68
+                },
+                {
+                    "parroquia": "AMBATILLO",
+                    "id": 95,
+                    "votos": 130,
+                    "candidato": "Melba Jacome",
+                    "value": 5.42
+                }
+            ]

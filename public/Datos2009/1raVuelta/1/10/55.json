@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "URCUQUI",
+        "id": 6190,
+        "votos": 74,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.37
+    },
+    {
+        "parroquia": "TUMBABIRO",
+        "id": 4080,
+        "votos": 19,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.45
+    },
+    {
+        "parroquia": "SAN BLAS",
+        "id": 3365,
+        "votos": 23,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.35
+    },
+    {
+        "parroquia": "PABLO ARENAS",
+        "id": 2675,
+        "votos": 17,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.52
+    },
+    {
+        "parroquia": "LA MERCED DE BUENOS AIRES",
+        "id": 2060,
+        "votos": 7,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 0.86
+    },
+    {
+        "parroquia": "CAHUASQUI",
+        "id": 425,
+        "votos": 23,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.4
+    }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "BAÑOS",
+    "id": 5105,
+    "votos": 599,
+    "candidato": "Alvaro Noboa",
+    "value": 6.84
+  },
+  {
+    "parroquia": "ULBA",
+    "id": 4135,
+    "votos": 61,
+    "candidato": "Alvaro Noboa",
+    "value": 6.49
+  },
+  {
+    "parroquia": "RIO VERDE",
+    "id": 3200,
+    "votos": 31,
+    "candidato": "Alvaro Noboa",
+    "value": 4.97
+  },
+  {
+    "parroquia": "RIO NEGRO",
+    "id": 3190,
+    "votos": 14,
+    "candidato": "Alvaro Noboa",
+    "value": 2.32
+  },
+  {
+    "parroquia": "LLIGUA",
+    "id": 2270,
+    "votos": 11,
+    "candidato": "Alvaro Noboa",
+    "value": 4.72
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "BACHILLERO",
+    "id": 265,
+    "votos": 1202,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 56.72
+  },
+  {
+    "parroquia": "ANGEL PEDRO GILER",
+    "id": 2030,
+    "votos": 1573,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 55.06
+  },
+  {
+    "parroquia": "TOSAGUA",
+    "id": 6170,
+    "votos": 11973,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 59.43
+  }
+]

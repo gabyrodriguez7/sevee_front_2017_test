@@ -1,0 +1,86 @@
+[
+    {
+        "parroquia": "CHONTAMARCA",
+        "id": 935,
+        "votos": 46,
+        "candidato": "Noboa Alvaro",
+        "value": 2.8
+    },
+    {
+        "parroquia": "CHOROCOPTE",
+        "id": 950,
+        "votos": 29,
+        "candidato": "Noboa Alvaro",
+        "value": 3.0
+    },
+    {
+        "parroquia": "GRAL.MORALES / SOCARTE",
+        "id": 1335,
+        "votos": 26,
+        "candidato": "Noboa Alvaro",
+        "value": 2.0
+    },
+    {
+        "parroquia": "GUALLETURO",
+        "id": 1410,
+        "votos": 17,
+        "candidato": "Noboa Alvaro",
+        "value": 1.0
+    },
+    {
+        "parroquia": "HONORATO VASQUEZ",
+        "id": 1605,
+        "votos": 17,
+        "candidato": "Noboa Alvaro",
+        "value": 0.6
+    },
+    {
+        "parroquia": "INGAPIRCA",
+        "id": 1725,
+        "votos": 116,
+        "candidato": "Noboa Alvaro",
+        "value": 3.3209
+    },
+    {
+        "parroquia": "VENTURA",
+        "id": 1775,
+        "votos": 5,
+        "candidato": "Noboa Alvaro",
+        "value": 1.0
+    },
+    {
+        "parroquia": "DUCUR",
+        "id": 1895,
+        "votos": 20,
+        "candidato": "Noboa Alvaro",
+        "value": 2.0
+    },
+    {
+        "parroquia": "JUNCAL",
+        "id": 1900,
+        "votos": 29,
+        "candidato": "Noboa Alvaro",
+        "value": 3.0
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3305,
+        "votos": 17,
+        "candidato": "Noboa Alvaro",
+        "value": 2.0
+    },
+    {
+        "parroquia": "ZHUD",
+        "id": 4345,
+        "votos": 22,
+        "candidato": "Noboa Alvaro",
+        "value": 3.0
+    },
+    {
+        "parroquia": "CA�AR",
+        "id": 5160,
+        "votos": 194,
+        "candidato": "Noboa Alvaro",
+        "value": 1.43
+    }
+]

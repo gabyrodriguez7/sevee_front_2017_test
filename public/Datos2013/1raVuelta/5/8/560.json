@@ -1,0 +1,93 @@
+[
+    {
+        "parroquia": "CAMARONES",
+        "id": 450,
+        "votos": 26,
+        "candidato": "Gutierrez Lucio",
+        "value": 2.36
+    },
+    {
+        "parroquia": "CRNL.CARLOS CONCHA TORRES",
+        "id": 655,
+        "votos": 61,
+        "candidato": "Gutierrez Lucio",
+        "value": 8.3
+    },
+    {
+        "parroquia": "CHINCA",
+        "id": 895,
+        "votos": 59,
+        "candidato": "Gutierrez Lucio",
+        "value": 3.8
+    },
+    {
+        "parroquia": "MAJUA",
+        "id": 2320,
+        "votos": 40,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.4
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 3570,
+        "votos": 87,
+        "candidato": "Gutierrez Lucio",
+        "value": 3.79
+    },
+    {
+        "parroquia": "TABIAZO",
+        "id": 3930,
+        "votos": 36,
+        "candidato": "Gutierrez Lucio",
+        "value": 2.7
+    },
+    {
+        "parroquia": "TACHINA",
+        "id": 3940,
+        "votos": 24,
+        "candidato": "Gutierrez Lucio",
+        "value": 1.1982
+    },
+    {
+        "parroquia": "VUELTA LARGA",
+        "id": 4240,
+        "votos": 204,
+        "candidato": "Gutierrez Lucio",
+        "value": 1.541
+    },
+    {
+        "parroquia": "BARTOLOME RUIZ",
+        "id": 5205,
+        "votos": 187,
+        "candidato": "Gutierrez Lucio",
+        "value": 1.137
+    },
+    {
+        "parroquia": "5 DE AGOSTO",
+        "id": 5210,
+        "votos": 388,
+        "candidato": "Gutierrez Lucio",
+        "value": 1.59
+    },
+    {
+        "parroquia": "ESMERALDAS",
+        "id": 5335,
+        "votos": 467,
+        "candidato": "Gutierrez Lucio",
+        "value": 1.66
+    },
+    {
+        "parroquia": "LUIS TELLO / LAS PALMAS /",
+        "id": 5600,
+        "votos": 74,
+        "candidato": "Gutierrez Lucio",
+        "value": 1.179
+    },
+    {
+        "parroquia": "SIMON PLATA TORRES",
+        "id": 6905,
+        "votos": 72,
+        "candidato": "Gutierrez Lucio",
+        "value": 1.866
+    }
+]

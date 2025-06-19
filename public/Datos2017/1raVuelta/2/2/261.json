@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "C. E. EN MILAN",
+    "id": 9043,
+    "votos": 634,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.64
+  },
+  {
+    "parroquia": "C. E. EN GENOVA",
+    "id": 9044,
+    "votos": 278,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.70
+  },
+  {
+    "parroquia": "C. E. EN ROMA",
+    "id": 9045,
+    "votos": 247,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.33
+  }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "SAN VICENTE",
+        "id": 6025,
+        "votos": 4,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.24
+    },
+    {
+        "parroquia": "CHILE",
+        "id": 5240,
+        "votos": 9,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.7
+    },
+    {
+        "parroquia": "CARIAMANGA",
+        "id": 5175,
+        "votos": 107,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.24
+    },
+    {
+        "parroquia": "UTUANA",
+        "id": 4150,
+        "votos": 2,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.52
+    },
+    {
+        "parroquia": "SANGUILLIN",
+        "id": 1550,
+        "votos": 4,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.57
+    },
+    {
+        "parroquia": "EL LUCERO",
+        "id": 1230,
+        "votos": 5,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.56
+    },
+    {
+        "parroquia": "COLAIZACA",
+        "id": 590,
+        "votos": 4,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.44
+    }
+]

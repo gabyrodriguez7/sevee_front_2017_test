@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "YANAYACU MOCHAPATA",
+    "id": 4310,
+    "votos": 401,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 44.11
+  },
+  {
+    "parroquia": "RUMIPAMBA",
+    "id": 4550,
+    "votos": 329,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 36.64
+  },
+  {
+    "parroquia": "QUERO",
+    "id": 5835,
+    "votos": 4797,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 41.08
+  }
+]

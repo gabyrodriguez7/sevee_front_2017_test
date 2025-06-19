@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "ELOY ALFARO",
+        "id": 6745,
+        "votos": 34,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.41
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 6155,
+        "votos": 131,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.29
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 6135,
+        "votos": 7,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.48
+    },
+    {
+        "parroquia": "MANTA",
+        "id": 5635,
+        "votos": 156,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.33
+    },
+    {
+        "parroquia": "LOS ESTEROS",
+        "id": 5570,
+        "votos": 19,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.29
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 3550,
+        "votos": 7,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.63
+    },
+    {
+        "parroquia": "SANTA MARIANITA",
+        "id": 1800,
+        "votos": 5,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.49
+    }
+]

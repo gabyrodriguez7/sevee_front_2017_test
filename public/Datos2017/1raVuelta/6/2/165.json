@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "SAN LUIS DE PAMBIL",
+    "id": 795,
+    "votos": 43,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.28
+  },
+  {
+    "parroquia": "FACUNDO VELA",
+    "id": 1255,
+    "votos": 27,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 2.12
+  },
+  {
+    "parroquia": "JULIO E MORENO",
+    "id": 1890,
+    "votos": 8,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.77
+  },
+  {
+    "parroquia": "SALINAS",
+    "id": 3285,
+    "votos": 23,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.97
+  },
+  {
+    "parroquia": "SAN LORENZO",
+    "id": 3545,
+    "votos": 10,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.81
+  },
+  {
+    "parroquia": "SAN SIMÓN",
+    "id": 3670,
+    "votos": 27,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.22
+  },
+  {
+    "parroquia": "SANTA FE",
+    "id": 3710,
+    "votos": 9,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.7
+  },
+  {
+    "parroquia": "SIMIATUG",
+    "id": 3860,
+    "votos": 81,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.68
+  },
+  {
+    "parroquia": "ÁNGEL POLIVIO CHÁVEZ",
+    "id": 5035,
+    "votos": 75,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.87
+  },
+  {
+    "parroquia": "GABRIEL I VEINTIMILLA",
+    "id": 5375,
+    "votos": 157,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.12
+  },
+  {
+    "parroquia": "GUANUJO",
+    "id": 6630,
+    "votos": 246,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.74
+  }
+]

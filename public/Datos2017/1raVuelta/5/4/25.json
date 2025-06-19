@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "SAN RAFAEL",
+    "id": 1055,
+    "votos": 3,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.29
+  },
+  {
+    "parroquia": "GARCÍA MORENO",
+    "id": 1315,
+    "votos": 13,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.14
+  },
+  {
+    "parroquia": "LOS ANDES",
+    "id": 2205,
+    "votos": 1,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.07
+  },
+  {
+    "parroquia": "MONTEOLIVO",
+    "id": 2455,
+    "votos": 14,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.17
+  },
+  {
+    "parroquia": "SAN VICENTE DE PUSIR",
+    "id": 3680,
+    "votos": 2,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.16
+  },
+  {
+    "parroquia": "BOLÍVAR",
+    "id": 6520,
+    "votos": 19,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.53
+  }
+]

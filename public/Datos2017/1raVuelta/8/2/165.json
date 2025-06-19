@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "SAN LUIS DE PAMBIL",
+    "id": 795,
+    "votos": 89,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.64
+  },
+  {
+    "parroquia": "FACUNDO VELA",
+    "id": 1255,
+    "votos": 32,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.51
+  },
+  {
+    "parroquia": "JULIO E MORENO",
+    "id": 1890,
+    "votos": 20,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.91
+  },
+  {
+    "parroquia": "SALINAS",
+    "id": 3285,
+    "votos": 53,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.24
+  },
+  {
+    "parroquia": "SAN LORENZO",
+    "id": 3545,
+    "votos": 19,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.54
+  },
+  {
+    "parroquia": "SAN SIMÓN",
+    "id": 3670,
+    "votos": 39,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.76
+  },
+  {
+    "parroquia": "SANTA FE",
+    "id": 3710,
+    "votos": 28,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.17
+  },
+  {
+    "parroquia": "SIMIATUG",
+    "id": 3860,
+    "votos": 90,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.87
+  },
+  {
+    "parroquia": "ÁNGEL POLIVIO CHÁVEZ",
+    "id": 5035,
+    "votos": 160,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.86
+  },
+  {
+    "parroquia": "GABRIEL I VEINTIMILLA",
+    "id": 5375,
+    "votos": 290,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.06
+  },
+  {
+    "parroquia": "GUANUJO",
+    "id": 6630,
+    "votos": 313,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.21
+  }
+]

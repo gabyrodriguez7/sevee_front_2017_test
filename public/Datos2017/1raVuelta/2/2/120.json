@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "MORASPUNGO",
+    "id": 2460,
+    "votos": 738,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 11.14
+  },
+  {
+    "parroquia": "PINLLOPATA",
+    "id": 2890,
+    "votos": 153,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 30
+  },
+  {
+    "parroquia": "RAMÓN CAMPAÑA",
+    "id": 3155,
+    "votos": 285,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 35.63
+  },
+  {
+    "parroquia": "EL CORAZÓN",
+    "id": 5305,
+    "votos": 836,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 19.53
+  }
+]

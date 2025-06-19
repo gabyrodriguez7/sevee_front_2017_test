@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "PILLARO",
+    "id": 5785,
+    "votos": 168,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.86
+  },
+  {
+    "parroquia": "CIUDAD NUEVA",
+    "id": 5225,
+    "votos": 21,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 2.68
+  },
+  {
+    "parroquia": "SAN MIGUELITO",
+    "id": 3585,
+    "votos": 50,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.69
+  },
+  {
+    "parroquia": "SAN JOSE DE POALO",
+    "id": 3485,
+    "votos": 15,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.19
+  },
+  {
+    "parroquia": "SAN ANDRES",
+    "id": 3300,
+    "votos": 36,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.65
+  },
+  {
+    "parroquia": "PRESIDENTE URBINA",
+    "id": 2945,
+    "votos": 8,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.94
+  },
+  {
+    "parroquia": "MARCOS ESPINEL",
+    "id": 2375,
+    "votos": 14,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.05
+  },
+  {
+    "parroquia": "EMILIO MARIA TERAN",
+    "id": 1210,
+    "votos": 7,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.96
+  },
+  {
+    "parroquia": "BAQUERIZO MORENO",
+    "id": 295,
+    "votos": 1,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.49
+  }
+]

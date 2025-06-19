@@ -1,0 +1,80 @@
+[
+	{
+		"parroquia": "SANTA FE DE GALAN",
+		"id": 40,
+		"votos": 130,
+		"candidato": "Lasso Guillermo",
+		"value": 20.734
+	},
+	{
+		"parroquia": "SAN JOSE DEL CHAZO",
+		"id": 45,
+		"votos": 185,
+		"candidato": "Lasso Guillermo",
+		"value": 26.734
+	},
+	{
+		"parroquia": "VALPARAISO",
+		"id": 410,
+		"votos": 21,
+		"candidato": "Lasso Guillermo",
+		"value": 8.974
+	},
+	{
+		"parroquia": "GUANANDO",
+		"id": 1415,
+		"votos": 81,
+		"candidato": "Lasso Guillermo",
+		"value": 20.352
+	},
+	{
+		"parroquia": "ILAPO",
+		"id": 1705,
+		"votos": 308,
+		"candidato": "Lasso Guillermo",
+		"value": 21.227
+	},
+	{
+		"parroquia": "LA PROVIDENCIA",
+	"id": 2080,
+	"votos": 95,
+	"candidato": "Lasso Guillermo",
+	"value": 24.051
+	},
+	{
+	"parroquia": "SAN ANDRES",
+	"id": 3295,
+	"votos": 2226,
+	"candidato": "Lasso Guillermo",
+	"value": 29.0
+	},
+	{
+	"parroquia": "SAN GERARDO / PAQUICAHUAN",
+	"id": 3425,
+	"votos": 381,
+	"candidato": "Lasso Guillermo",
+	"value": 30.627
+	},
+	{
+	"parroquia": "SAN ISIDRO DE PATULU",
+	"id": 3450,
+	"votos": 578,
+	"candidato": "Lasso Guillermo",
+	"value": 25.163
+	},
+	{
+	"parroquia": "EL ROSARIO",
+	"id": 5315,
+	"votos": 269,
+	"candidato": "Lasso Guillermo",
+	"value": 22.72
+	},
+	{
+	"parroquia": "LA MATRIZ",
+	"id": 5550,
+	"votos": 2659,
+	"candidato": "Lasso Guillermo",
+	"value": 29.95
+	}
+	]
+		

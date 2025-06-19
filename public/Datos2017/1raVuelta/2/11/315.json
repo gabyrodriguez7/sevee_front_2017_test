@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "CRUZPAMBA/BUSTAMANTE",
+    "id": 695,
+    "votos": 24,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.42
+  },
+  {
+    "parroquia": "TNTE M.RODRÍGUEZ LOAYZA",
+    "id": 1495,
+    "votos": 9,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.9
+  },
+  {
+    "parroquia": "SABANILLA",
+    "id": 3255,
+    "votos": 56,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.55
+  },
+  {
+    "parroquia": "SAN JUAN DE POZUL",
+    "id": 3535,
+    "votos": 40,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.48
+  },
+  {
+    "parroquia": "CELICA",
+    "id": 5195,
+    "votos": 140,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.37
+  }
+]

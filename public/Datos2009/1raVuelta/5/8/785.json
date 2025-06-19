@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "ATACAMES",
+        "id": 6380,
+        "votos": 150,
+        "candidato": "Melba Jacome",
+        "value": 2.05
+    },
+    {
+        "parroquia": "TONCHIGUE",
+        "id": 4055,
+        "votos": 19,
+        "candidato": "Melba Jacome",
+        "value": 0.66
+    },
+    {
+        "parroquia": "SUA/BOCANA",
+        "id": 3880,
+        "votos": 12,
+        "candidato": "Melba Jacome",
+        "value": 0.97
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 2130,
+        "votos": 11,
+        "candidato": "Melba Jacome",
+        "value": 1.33
+    },
+    {
+        "parroquia": "TONSUPA",
+        "id": 1615,
+        "votos": 25,
+        "candidato": "Melba Jacome",
+        "value": 1.23
+    }
+]

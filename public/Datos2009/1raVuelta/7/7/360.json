@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "ZARUMA",
+        "id": 6310,
+        "votos": 578,
+        "candidato": "Alvaro Noboa",
+        "value": 8.43
+    },
+    {
+        "parroquia": "MULUNCAY GRANDE",
+        "id": 4450,
+        "votos": 25,
+        "candidato": "Alvaro Noboa",
+        "value": 6.47
+    },
+    {
+        "parroquia": "ARCAPAMBA",
+        "id": 4445,
+        "votos": 23,
+        "candidato": "Alvaro Noboa",
+        "value": 4.02
+    },
+    {
+        "parroquia": "MALVAS",
+        "id": 2350,
+        "votos": 21,
+        "candidato": "Alvaro Noboa",
+        "value": 4.04
+    },
+    {
+        "parroquia": "SALVIAS",
+        "id": 1750,
+        "votos": 34,
+        "candidato": "Alvaro Noboa",
+        "value": 10.59
+    },
+    {
+        "parroquia": "SINSAO",
+        "id": 1700,
+        "votos": 26,
+        "candidato": "Alvaro Noboa",
+        "value": 6.32
+    },
+    {
+        "parroquia": "HUERTAS",
+        "id": 1655,
+        "votos": 43,
+        "candidato": "Alvaro Noboa",
+        "value": 3.78
+    },
+    {
+        "parroquia": "GUIZHAGUIÑA",
+        "id": 1425,
+        "votos": 18,
+        "candidato": "Alvaro Noboa",
+        "value": 3.09
+    },
+    {
+        "parroquia": "GUANAZAN",
+        "id": 1420,
+        "votos": 51,
+        "candidato": "Alvaro Noboa",
+        "value": 4.56
+    },
+    {
+        "parroquia": "ABANIN",
+        "id": 5,
+        "votos": 28,
+        "candidato": "Alvaro Noboa",
+        "value": 5.62
+    }
+]

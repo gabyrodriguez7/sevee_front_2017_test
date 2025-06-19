@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "SANTA FE DE GALÁN",
+    "id": 40,
+    "votos": 63,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.96
+  },
+  {
+    "parroquia": "SAN JOSÉ DEL CHAZO",
+    "id": 45,
+    "votos": 57,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.69
+  },
+  {
+    "parroquia": "VALPARAISO",
+    "id": 410,
+    "votos": 27,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.54
+  },
+  {
+    "parroquia": "GUANANDO",
+    "id": 1415,
+    "votos": 36,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.3
+  },
+  {
+    "parroquia": "ILAPO",
+    "id": 1705,
+    "votos": 157,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.88
+  },
+  {
+    "parroquia": "LA PROVIDENCIA",
+    "id": 2080,
+    "votos": 43,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.46
+  },
+  {
+    "parroquia": "SAN ANDRÉS",
+    "id": 3295,
+    "votos": 935,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.46
+  },
+  {
+    "parroquia": "SAN GERARDO / PAQUICAHUAN",
+    "id": 3425,
+    "votos": 172,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 14.17
+  },
+  {
+    "parroquia": "SAN ISIDRO DE PATULÚ",
+    "id": 3450,
+    "votos": 236,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.32
+  },
+  {
+    "parroquia": "EL ROSARIO",
+    "id": 5315,
+    "votos": 213,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.62
+  },
+  {
+    "parroquia": "LA MATRIZ",
+    "id": 5550,
+    "votos": 1425,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 14.49
+  }
+]

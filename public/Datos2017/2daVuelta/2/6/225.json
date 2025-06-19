@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "LA CANDELARIA",
+    "id": 925,
+    "votos": 124,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 41.2
+  },
+  {
+    "parroquia": "EL ALTAR",
+    "id": 1110,
+    "votos": 526,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 56.14
+  },
+  {
+    "parroquia": "BILBAO",
+    "id": 1325,
+    "votos": 140,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 66.99
+  },
+  {
+    "parroquia": "MATUS",
+    "id": 2400,
+    "votos": 271,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 37.9
+  },
+  {
+    "parroquia": "PUELA",
+    "id": 2975,
+    "votos": 308,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 51.42
+  },
+  {
+    "parroquia": "SAN ANTONIO DE BAYUSHIG",
+    "id": 3335,
+    "votos": 420,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 35.09
+  },
+  {
+    "parroquia": "PENIPE",
+    "id": 5740,
+    "votos": 995,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 47.84
+  }
+]

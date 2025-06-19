@@ -1,0 +1,47 @@
+{
+   
+    "MORENO GARCES LENIN BOLTAIRE": [
+        {
+            "canton": 100.0,
+            "candidato": "MORENO GARCES LENIN BOLTAIRE",
+            "votos": 33609,
+            "value": 40.91
+        },
+        {
+            "canton": 105.0,
+            "candidato": "MORENO GARCES LENIN BOLTAIRE",
+            "votos": 12217,
+            "value": 14.87
+        },
+        {
+            "canton": 110.0,
+            "candidato": "MORENO GARCES LENIN BOLTAIRE",
+            "votos": 11598,
+            "value": 14.12
+        },
+        {
+            "canton": 115.0,
+            "candidato": "MORENO GARCES LENIN BOLTAIRE",
+            "votos": 3577,
+            "value": 4.35
+        },
+        {
+            "canton": 120.0,
+            "candidato": "MORENO GARCES LENIN BOLTAIRE",
+            "votos": 3891,
+            "value": 4.74
+        },
+        {
+            "canton": 825.0,
+            "candidato": "MORENO GARCES LENIN BOLTAIRE",
+            "votos": 11644,
+            "value": 14.17
+        },
+        {
+            "canton": 930.0,
+            "candidato": "MORENO GARCES LENIN BOLTAIRE",
+            "votos": 5616,
+            "value": 6.84
+        }
+    ]
+}

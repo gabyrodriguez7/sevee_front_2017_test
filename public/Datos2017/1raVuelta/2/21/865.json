@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "EL REVENTADOR",
+    "id": 230,
+    "votos": 44,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.38
+  },
+  {
+    "parroquia": "GONZALO PIZARRO",
+    "id": 1090,
+    "votos": 109,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.72
+  },
+  {
+    "parroquia": "PUERTO LIBRE",
+    "id": 3615,
+    "votos": 21,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.16
+  },
+  {
+    "parroquia": "LUMBAQUÍ",
+    "id": 6300,
+    "votos": 146,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.73
+  }
+]

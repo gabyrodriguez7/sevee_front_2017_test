@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "CHARAPOTO",
+    "id": 840,
+    "votos": 8611,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 64.42
+  },
+  {
+    "parroquia": "SAN ISIDRO",
+    "id": 3445,
+    "votos": 4093,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 60.95
+  },
+  {
+    "parroquia": "BAHÍA DE CARÁQUEZ",
+    "id": 5095,
+    "votos": 6936,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 53.3
+  },
+  {
+    "parroquia": "LEONIDAS PLAZA G.",
+    "id": 5580,
+    "votos": 2109,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 57.45
+  }
+]

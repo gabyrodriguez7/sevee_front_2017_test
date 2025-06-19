@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "CUTCHIL",
+        "id": 750,
+        "votos": 19,
+        "candidato": "Noboa Alvaro",
+        "value": 3.0
+    },
+    {
+        "parroquia": "GIMA",
+        "id": 1355,
+        "votos": 30,
+        "candidato": "Noboa Alvaro",
+        "value": 1.572
+    },
+    {
+        "parroquia": "GUEL",
+        "id": 1490,
+        "votos": 11,
+        "candidato": "Noboa Alvaro",
+        "value": 1.0
+    },
+    {
+        "parroquia": "LUDO",
+        "id": 2215,
+        "votos": 48,
+        "candidato": "Noboa Alvaro",
+        "value": 2.92
+    },
+    {
+        "parroquia": "SAN BARTOLOME",
+        "id": 3360,
+        "votos": 28,
+        "candidato": "Noboa Alvaro",
+        "value": 1.44
+    },
+    {
+        "parroquia": "SAN JOSE DE RARANGA",
+        "id": 3495,
+        "votos": 26,
+        "candidato": "Noboa Alvaro",
+        "value": 3.0
+    },
+    {
+        "parroquia": "SIGSIG",
+        "id": 6085,
+        "votos": 155,
+        "candidato": "Noboa Alvaro",
+        "value": 2.0
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "CANGONAMA",
+        "id": 485,
+        "votos": 8,
+        "candidato": "Wray Norman",
+        "value": 1.4
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 545,
+        "votos": 2,
+        "candidato": "Wray Norman",
+        "value": 0.6
+    },
+    {
+        "parroquia": "CASANGA",
+        "id": 995,
+        "votos": 1,
+        "candidato": "Wray Norman",
+        "value": 0.2
+    },
+    {
+        "parroquia": "YAMANA",
+        "id": 1000,
+        "votos": 6,
+        "candidato": "Wray Norman",
+        "value": 1.1928429
+    },
+    {
+        "parroquia": "GUACHANAMA",
+        "id": 1380,
+        "votos": 4,
+        "candidato": "Wray Norman",
+        "value": 0.6
+    },
+    {
+        "parroquia": "LAURO GUERRERO",
+        "id": 2140,
+        "votos": 7,
+        "candidato": "Wray Norman",
+        "value": 0.7
+    },
+    {
+        "parroquia": "ORIANGA",
+        "id": 2630,
+        "votos": 7,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "CATACOCHA",
+        "id": 5180,
+        "votos": 81,
+        "candidato": "Wray Norman",
+        "value": 0.951486
+    },
+    {
+        "parroquia": "LOURDES",
+        "id": 5595,
+        "votos": 8,
+        "candidato": "Wray Norman",
+        "value": 1.2
+    }
+]

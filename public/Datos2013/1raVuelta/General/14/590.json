@@ -1,0 +1,101 @@
+[
+  {
+    "candidato1": "LASSO  GUILLERMO",
+    "candidato2": "CORREA DELGADO RAFAEL",
+    "id": 65,
+    "votos": 228,
+    "votos1": 76,
+    "votos2": 64,
+    "fill": "#002CFF",
+    "porcentaje1": 33.33,
+    "porcentaje2": 28.07
+  },
+  {
+    "candidato1": "ACOSTA  ALBERTO",
+    "candidato2": "GUTIERREZ  LUCIO",
+    "id": 1250,
+    "votos": 703,
+    "votos1": 322,
+    "votos2": 222,
+    "fill": "#AA5A00",
+    "porcentaje1": 46.0,
+    "porcentaje2": 32.0
+  },
+  {
+    "candidato1": "CORREA DELGADO RAFAEL",
+    "candidato2": "GUTIERREZ  LUCIO",
+    "id": 1345,
+    "votos": 835,
+    "votos1": 326,
+    "votos2": 202,
+    "fill": "#02C01C",
+    "porcentaje1": 39.0,
+    "porcentaje2": 24.2
+  },
+  {
+    "candidato1": "CORREA DELGADO RAFAEL",
+    "candidato2": "ACOSTA  ALBERTO",
+    "id": 1730,
+    "votos": 665,
+    "votos1": 288,
+    "votos2": 135,
+    "fill": "#02C01C",
+    "porcentaje1": 43.3,
+    "porcentaje2": 20.3
+  },
+  {
+    "candidato1": "CORREA DELGADO RAFAEL",
+    "candidato2": "GUTIERREZ  LUCIO",
+    "id": 3440,
+    "votos": 488,
+    "votos1": 176,
+    "votos2": 120,
+    "fill": "#02C01C",
+    "porcentaje1": 36.06,
+    "porcentaje2": 24.59
+  },
+  {
+    "candidato1": "ACOSTA  ALBERTO",
+    "candidato2": "GUTIERREZ  LUCIO",
+    "id": 3830,
+    "votos": 4526,
+    "votos1": 1811,
+    "votos2": 1262,
+    "fill": "#AA5A00",
+    "porcentaje1": 40.0,
+    "porcentaje2": 27.9
+  },
+  {
+    "candidato1": "GUTIERREZ  LUCIO",
+    "candidato2": "CORREA DELGADO RAFAEL",
+    "id": 4360,
+    "votos": 125,
+    "votos1": 67,
+    "votos2": 34,
+    "fill": "#455709",
+    "porcentaje1": 53.6,
+    "porcentaje2": 27.2
+  },
+  {
+    "candidato1": "CORREA DELGADO RAFAEL",
+    "candidato2": "GUTIERREZ  LUCIO",
+    "id": 4485,
+    "votos": 501,
+    "votos1": 244,
+    "votos2": 89,
+    "fill": "#02C01C",
+    "porcentaje1": 49.0,
+    "porcentaje2": 18.0
+  },
+  {
+    "candidato1": "CORREA DELGADO RAFAEL",
+    "candidato2": "LASSO  GUILLERMO",
+    "id": 5615,
+    "votos": 12159,
+    "votos1": 5125,
+    "votos2": 3098,
+    "fill": "#02C01C",
+    "porcentaje1": 42.1,
+    "porcentaje2": 25.5
+  }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "PORTOVELO",
+        "id": 5850,
+        "votos": 55,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.04
+    },
+    {
+        "parroquia": "MORALES",
+        "id": 4520,
+        "votos": 0,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.0
+    },
+    {
+        "parroquia": "SALATI",
+        "id": 3275,
+        "votos": 4,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.0
+    },
+    {
+        "parroquia": "CURTINCAPAC",
+        "id": 740,
+        "votos": 2,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.68
+    }
+]

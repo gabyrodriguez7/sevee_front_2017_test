@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "PEDERNALES",
+        "id": 6430,
+        "votos": 1983,
+        "candidato": "Alvaro Noboa",
+        "value": 13.77
+    },
+    {
+        "parroquia": "10 DE AGOSTO",
+        "id": 1030,
+        "votos": 117,
+        "candidato": "Alvaro Noboa",
+        "value": 8.73
+    },
+    {
+        "parroquia": "ATAHUALPA",
+        "id": 785,
+        "votos": 76,
+        "candidato": "Alvaro Noboa",
+        "value": 9.49
+    },
+    {
+        "parroquia": "COJIMIES",
+        "id": 580,
+        "votos": 278,
+        "candidato": "Alvaro Noboa",
+        "value": 13.81
+    }
+]

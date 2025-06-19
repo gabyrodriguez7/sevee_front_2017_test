@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "GUAYAS / PUERTO NUEVO",
+    "id": 1470,
+    "votos": 72,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.39
+  },
+  {
+    "parroquia": "EL ROSARIO",
+    "id": 1640,
+    "votos": 95,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.69
+  },
+  {
+    "parroquia": "VELASCO IBARRA",
+    "id": 6225,
+    "votos": 1024,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.42
+  }
+]

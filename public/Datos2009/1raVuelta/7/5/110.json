@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "SAN MIGUEL DE SALCEDO",
+        "id": 6000,
+        "votos": 846,
+        "candidato": "Alvaro Noboa",
+        "value": 4.89
+    },
+    {
+        "parroquia": "PANZALEO",
+        "id": 2760,
+        "votos": 42,
+        "candidato": "Alvaro Noboa",
+        "value": 2.46
+    },
+    {
+        "parroquia": "MULLIQUINDIL",
+        "id": 2490,
+        "votos": 122,
+        "candidato": "Alvaro Noboa",
+        "value": 3.33
+    },
+    {
+        "parroquia": "MULALILLO",
+        "id": 2475,
+        "votos": 103,
+        "candidato": "Alvaro Noboa",
+        "value": 3.18
+    },
+    {
+        "parroquia": "CUSUBAMBA",
+        "id": 745,
+        "votos": 61,
+        "candidato": "Alvaro Noboa",
+        "value": 1.97
+    },
+    {
+        "parroquia": "ANTONIO J. HOLGUIN",
+        "id": 135,
+        "votos": 75,
+        "candidato": "Alvaro Noboa",
+        "value": 5.12
+    }
+]

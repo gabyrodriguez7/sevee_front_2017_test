@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "TABACUNDO",
+    "id": 6145,
+    "votos": 1835,
+    "candidato": "Lucio Gutierrez",
+    "value": 23.74
+  },
+  {
+    "parroquia": "TUPIGACHI",
+    "id": 4090,
+    "votos": 339,
+    "candidato": "Lucio Gutierrez",
+    "value": 21.29
+  },
+  {
+    "parroquia": "TOCACHI",
+    "id": 4045,
+    "votos": 141,
+    "candidato": "Lucio Gutierrez",
+    "value": 18.03
+  },
+  {
+    "parroquia": "MALCHINGUI",
+    "id": 2330,
+    "votos": 661,
+    "candidato": "Lucio Gutierrez",
+    "value": 33.64
+  },
+  {
+    "parroquia": "LA ESPERANZA",
+    "id": 2025,
+    "votos": 287,
+    "candidato": "Lucio Gutierrez",
+    "value": 20.46
+  }
+]

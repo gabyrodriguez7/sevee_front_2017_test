@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN VICENTE",
+        "id": 1650,
+        "votos": 38,
+        "candidato": "Acosta Alberto",
+        "value": 4.2
+    },
+    {
+        "parroquia": "EL PAN",
+        "id": 6485,
+        "votos": 37,
+        "candidato": "Acosta Alberto",
+        "value": 3.08
+    }
+]

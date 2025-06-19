@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "YAGUACHI NUEVO",
+        "id": 6285,
+        "votos": 92,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.69
+    },
+    {
+        "parroquia": "YAGUACHI VIEJO/CONE",
+        "id": 4275,
+        "votos": 17,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.63
+    },
+    {
+        "parroquia": "VIRGEN DE FATIMA",
+        "id": 1915,
+        "votos": 24,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.79
+    },
+    {
+        "parroquia": "GRAL.PEDRO MONTERO",
+        "id": 1340,
+        "votos": 32,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.86
+    }
+]

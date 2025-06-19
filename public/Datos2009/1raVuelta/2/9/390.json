@@ -1,0 +1,149 @@
+[
+    {
+        "parroquia": "PASCUALES",
+        "id": 6405,
+        "votos": 50,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.24
+    },
+    {
+        "parroquia": "CHONGON",
+        "id": 6400,
+        "votos": 11,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.21
+    },
+    {
+        "parroquia": "XIMENA",
+        "id": 6265,
+        "votos": 509,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.2
+    },
+    {
+        "parroquia": "URDANETA",
+        "id": 6185,
+        "votos": 51,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.21
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 6150,
+        "votos": 656,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.2
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 6095,
+        "votos": 51,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.34
+    },
+    {
+        "parroquia": "ROCAFUERTE",
+        "id": 5890,
+        "votos": 22,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.18
+    },
+    {
+        "parroquia": "ROCA",
+        "id": 5880,
+        "votos": 34,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.28
+    },
+    {
+        "parroquia": "OLMEDO/SAN ALEJO",
+        "id": 5720,
+        "votos": 37,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.28
+    },
+    {
+        "parroquia": "9 DE OCTUBRE",
+        "id": 5695,
+        "votos": 22,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.21
+    },
+    {
+        "parroquia": "LETAMENDI",
+        "id": 5585,
+        "votos": 215,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.3
+    },
+    {
+        "parroquia": "GARCIA MORENO",
+        "id": 5380,
+        "votos": 127,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.26
+    },
+    {
+        "parroquia": "FEBRES CORDERO",
+        "id": 5355,
+        "votos": 568,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.24
+    },
+    {
+        "parroquia": "CARBO/CONCEPCION",
+        "id": 5170,
+        "votos": 48,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.18
+    },
+    {
+        "parroquia": "BOLIVAR/SAGRARIO",
+        "id": 5125,
+        "votos": 33,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.27
+    },
+    {
+        "parroquia": "AYACUCHO",
+        "id": 5055,
+        "votos": 29,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.2
+    },
+    {
+        "parroquia": "TENGUEL",
+        "id": 4120,
+        "votos": 12,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.26
+    },
+    {
+        "parroquia": "PUNA",
+        "id": 3030,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.12
+    },
+    {
+        "parroquia": "POSORJA",
+        "id": 2940,
+        "votos": 13,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.15
+    },
+    {
+        "parroquia": "MORRO",
+        "id": 2470,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.19
+    },
+    {
+        "parroquia": "JUAN GOMEZ RENDON",
+        "id": 1870,
+        "votos": 17,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.42
+    }
+]

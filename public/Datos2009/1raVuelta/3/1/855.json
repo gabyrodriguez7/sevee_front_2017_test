@@ -1,0 +1,16 @@
+[
+                {
+                    "parroquia": "SAN FERNANDO",
+                    "id": 6565,
+                    "votos": 21,
+                    "candidato": "Carlos Gonzalez Albornoz",
+                    "value": 1.06
+                },
+                {
+                    "parroquia": "CHUMBLIN",
+                    "id": 4560,
+                    "votos": 4,
+                    "candidato": "Carlos Gonzalez Albornoz",
+                    "value": 1.72
+                }
+            ]

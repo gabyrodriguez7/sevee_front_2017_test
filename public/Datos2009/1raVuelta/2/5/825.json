@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "EL TRIUNFO",
+        "id": 6895,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.15
+    },
+    {
+        "parroquia": "EL CARMEN",
+        "id": 6880,
+        "votos": 2,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.24
+    },
+    {
+        "parroquia": "LA MANA",
+        "id": 6535,
+        "votos": 69,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.43
+    },
+    {
+        "parroquia": "PUCAYACO",
+        "id": 2965,
+        "votos": 8,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.65
+    },
+    {
+        "parroquia": "GUASAGANDA",
+        "id": 1500,
+        "votos": 6,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.59
+    }
+]

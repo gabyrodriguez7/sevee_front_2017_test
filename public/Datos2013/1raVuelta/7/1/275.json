@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "BULAN / J. VICTOR IZQUIERDO",
+    "id": 395,
+    "votos": 7,
+    "candidato": "Zavala Nelson",
+    "value": 1.0
+  },
+  {
+    "parroquia": "CHICAN / GUILLERMO ORTEGA",
+    "id": 870,
+    "votos": 6,
+    "candidato": "Zavala Nelson",
+    "value": 0.0
+  },
+  {
+    "parroquia": "DUG-DUG",
+    "id": 890,
+    "votos": 2,
+    "candidato": "Zavala Nelson",
+    "value": 0.3
+  },
+  {
+    "parroquia": "GUARAINAC",
+    "id": 1455,
+    "votos": 2,
+    "candidato": "Zavala Nelson",
+    "value": 0.0
+  },
+  {
+    "parroquia": "SAN CRISTOBAL",
+    "id": 3375,
+    "votos": 6,
+    "candidato": "Zavala Nelson",
+    "value": 0.5
+  },
+  {
+    "parroquia": "TOMEBAMBA",
+    "id": 4050,
+    "votos": 3,
+    "candidato": "Zavala Nelson",
+    "value": 0.0
+  },
+  {
+    "parroquia": "EL CABO",
+    "id": 4565,
+    "votos": 12,
+    "candidato": "Zavala Nelson",
+    "value": 1.53453
+  },
+  {
+    "parroquia": "PAUTE",
+    "id": 5775,
+    "votos": 76,
+    "candidato": "Zavala Nelson",
+    "value": 0.86
+  }
+]

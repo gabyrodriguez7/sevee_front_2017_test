@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "CHARAPOTO",
+    "id": 840,
+    "votos": 898,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.72
+  },
+  {
+    "parroquia": "SAN ISIDRO",
+    "id": 3445,
+    "votos": 625,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.31
+  },
+  {
+    "parroquia": "BAHÍA DE CARÁQUEZ",
+    "id": 5095,
+    "votos": 1992,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 15.31
+  },
+  {
+    "parroquia": "LEONIDAS PLAZA G.",
+    "id": 5580,
+    "votos": 488,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.29
+  }
+]

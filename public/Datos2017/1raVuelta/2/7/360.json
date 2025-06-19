@@ -1,0 +1,72 @@
+[
+  {
+    "parroquia": "ABANIN",
+    "id": 5,
+    "votos": 28,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.11
+  },
+  {
+    "parroquia": "GUANAZAN",
+    "id": 1420,
+    "votos": 63,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.54
+  },
+  {
+    "parroquia": "GUIZHAGUIÑA",
+    "id": 1425,
+    "votos": 69,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.92
+  },
+  {
+    "parroquia": "HUERTAS",
+    "id": 1655,
+    "votos": 65,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.8
+  },
+  {
+    "parroquia": "SINSAO",
+    "id": 1700,
+    "votos": 19,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.81
+  },
+  {
+    "parroquia": "SALVIAS",
+    "id": 1750,
+    "votos": 25,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.36
+  },
+  {
+    "parroquia": "MALVAS",
+    "id": 2350,
+    "votos": 44,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.33
+  },
+  {
+    "parroquia": "ARCAPAMBA",
+    "id": 4445,
+    "votos": 61,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.63
+  },
+  {
+    "parroquia": "MULUNCAY GRANDE",
+    "id": 4450,
+    "votos": 42,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.68
+  },
+  {
+    "parroquia": "ZARUMA",
+    "id": 6310,
+    "votos": 520,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.99
+  }
+]

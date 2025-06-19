@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "AMALUZA",
+    "id": 85,
+    "votos": 18,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3
+  },
+  {
+    "parroquia": "PALMAS",
+    "id": 2725,
+    "votos": 60,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.48
+  },
+  {
+    "parroquia": "SEVILLA DE ORO",
+    "id": 6480,
+    "votos": 72,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.16
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "NUEVA LOJA",
+    "id": 5710,
+    "votos": 1043,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 3.99
+  },
+  {
+    "parroquia": "JAMBELI",
+    "id": 1795,
+    "votos": 20,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.71
+  },
+  {
+    "parroquia": "SANTA CECILIA",
+    "id": 1790,
+    "votos": 42,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 3.25
+  },
+  {
+    "parroquia": "GENERAL FARFAN",
+    "id": 1330,
+    "votos": 16,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.32
+  },
+  {
+    "parroquia": "PACAYACU",
+    "id": 1290,
+    "votos": 49,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.04
+  },
+  {
+    "parroquia": "EL ENO",
+    "id": 1285,
+    "votos": 38,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.84
+  },
+  {
+    "parroquia": "DURENO",
+    "id": 1045,
+    "votos": 19,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.52
+  }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CHACRAS",
+        "id": 805,
+        "votos": 8,
+        "candidato": "Acosta Alberto",
+        "value": 1.174743
+    },
+    {
+        "parroquia": "CARCABON",
+        "id": 1695,
+        "votos": 4,
+        "candidato": "Acosta Alberto",
+        "value": 1.2
+    },
+    {
+        "parroquia": "PALMALES",
+        "id": 2715,
+        "votos": 28,
+        "candidato": "Acosta Alberto",
+        "value": 2.0
+    },
+    {
+        "parroquia": "ARENILLAS",
+        "id": 5040,
+        "votos": 365,
+        "candidato": "Acosta Alberto",
+        "value": 2.754717
+    }
+]

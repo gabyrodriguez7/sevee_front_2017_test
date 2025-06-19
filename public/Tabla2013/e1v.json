@@ -1,0 +1,331 @@
+[
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 11,
+        "porcentaje": 67.0,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "ALEMANIA"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 31,
+        "porcentaje": 72.22,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "AUSTRALIA"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 41,
+        "porcentaje": 61.48,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "AUSTRIA"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 51,
+        "porcentaje": 83.0,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "BÉLGICA"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 101,
+        "porcentaje": 46.0,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "REPÚBLICA DE COREA (SUR)"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 141,
+        "porcentaje": 64.0,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "CHINA"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 171,
+        "porcentaje": 85.0,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "ESPAÑA"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 191,
+        "porcentaje": 77.0,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "FRANCIA"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 201,
+        "porcentaje": 80.6,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "REINO UNIDO DE GRAN BRETAÑA E IRLANDA DEL NORTE"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 231,
+        "porcentaje": 56.0,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "HUNGRÍA"
+    },
+    {
+        "candidato_tabla": "LASSO  GUILLERMO",
+        "id_tabla": 242,
+        "porcentaje": 50.0,
+        "partido_pol": "MOVIMIENTO CREO CREANDO OPORTUNIDADES",
+        "prov_tabla": "INDIA"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 251,
+        "porcentaje": 61.43,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "ISRAEL"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 261,
+        "porcentaje": 77.0,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "ITALIA"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 271,
+        "porcentaje": 66.67,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "JAPÓN"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 301,
+        "porcentaje": 63.0,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "PAÍSES BAJOS (HOLANDA)"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 361,
+        "porcentaje": 85.3,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "SUECIA"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 371,
+        "porcentaje": 76.0,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "SUIZA"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 381,
+        "porcentaje": 76.29,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "FEDERACIÓN DE RUSIA"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 411,
+        "porcentaje": 42.86,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "INDONESIA"
+    },
+    {
+        "candidato_tabla": "RODAS ESPINEL MAURICIO ESTEBAN",
+        "id_tabla": 421,
+        "porcentaje": 37.5,
+        "partido_pol": "MOVIMIENTO SUMA SOCIEDAD UNIDA MÁS ACCIÓN",
+        "prov_tabla": "MALASIA"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 431,
+        "porcentaje": 58.33,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "POLONIA"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 432,
+        "porcentaje": 85.0,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "PORTUGAL"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 451,
+        "porcentaje": 100.0,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "TURQUÍA"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 471,
+        "porcentaje": 73.0,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "QATAR"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 481,
+        "porcentaje": 100.0,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "SINGAPUR"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 81,
+        "porcentaje": 69.1,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "CANADÁ"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 181,
+        "porcentaje": 65.72,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "ESTADOS UNIDOS DE AMÉRICA"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 21,
+        "porcentaje": 57.97,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "ARGENTINA"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 61,
+        "porcentaje": 53.2,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "BOLIVIA"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 71,
+        "porcentaje": 64.8,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "BRASIL"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 91,
+        "porcentaje": 71.0,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "COLOMBIA"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 111,
+        "porcentaje": 48.91,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "COSTA RICA"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 121,
+        "porcentaje": 88.0,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "CUBA"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 131,
+        "porcentaje": 59.9,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "CHILE"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 161,
+        "porcentaje": 67.6,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "EL SALVADOR"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 211,
+        "porcentaje": 43.48,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "GUATEMALA"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 221,
+        "porcentaje": 53.22,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "HONDURAS"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 281,
+        "porcentaje": 50.8,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "MÉXICO"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 291,
+        "porcentaje": 73.33,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "NICARAGUA"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 312,
+        "porcentaje": 51.8,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "PANAMÁ"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 321,
+        "porcentaje": 61.0,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "PARAGUAY"
+    },
+    {
+        "candidato_tabla": "LASSO  GUILLERMO",
+        "id_tabla": 331,
+        "porcentaje": 44.83,
+        "partido_pol": "MOVIMIENTO CREO CREANDO OPORTUNIDADES",
+        "prov_tabla": "PERÚ"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 341,
+        "porcentaje": 50.0,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "EGIPTO"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 351,
+        "porcentaje": 70.75,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "REPÚBLICA DOMINICANA"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 391,
+        "porcentaje": 61.36,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "URUGUAY"
+    },
+    {
+        "candidato_tabla": "CORREA DELGADO RAFAEL",
+        "id_tabla": 401,
+        "porcentaje": 76.85,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "VENEZUELA"
+    },
+    {
+        "candidato_tabla": "LASSO  GUILLERMO",
+        "id_tabla": 441,
+        "porcentaje": 60.0,
+        "partido_pol": "MOVIMIENTO CREO CREANDO OPORTUNIDADES",
+        "prov_tabla": "SUDÁFRICA"
+    }
+]

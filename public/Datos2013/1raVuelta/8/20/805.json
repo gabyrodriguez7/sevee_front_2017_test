@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "BELLA VISTA",
+    "id": 235,
+    "votos": 11,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 1.65
+  },
+  {
+    "parroquia": "SANTA ROSA",
+    "id": 1985,
+    "votos": 6,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 2.6
+  },
+  {
+    "parroquia": "PUERTO AYORA",
+    "id": 6505,
+    "votos": 195,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 2.9
+  }
+]

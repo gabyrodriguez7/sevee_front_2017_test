@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "CARACOL",
+    "id": 520,
+    "votos": 39,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.3
+  },
+  {
+    "parroquia": "FEBRES CORDERO",
+    "id": 1265,
+    "votos": 207,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.21
+  },
+  {
+    "parroquia": "LA UNIÓN",
+    "id": 1525,
+    "votos": 85,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.24
+  },
+  {
+    "parroquia": "PIMOCHA",
+    "id": 2875,
+    "votos": 94,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.11
+  },
+  {
+    "parroquia": "CLEMENTE BAQUERIZO",
+    "id": 5215,
+    "votos": 748,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.76
+  },
+  {
+    "parroquia": "DR. CAMILO PONCE E.",
+    "id": 5285,
+    "votos": 373,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.81
+  },
+  {
+    "parroquia": "BARREIRO /SANTA RITA",
+    "id": 6830,
+    "votos": 85,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.63
+  },
+  {
+    "parroquia": "EL SALTO",
+    "id": 6835,
+    "votos": 19,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.16
+  }
+]

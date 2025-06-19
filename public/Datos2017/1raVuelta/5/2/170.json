@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "ASUNCIÓN",
+    "id": 170,
+    "votos": 36,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 2.28
+  },
+  {
+    "parroquia": "MAGDALENA/CHAPACOTO",
+    "id": 2315,
+    "votos": 22,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.21
+  },
+  {
+    "parroquia": "SAN SEBASTIÁN",
+    "id": 3655,
+    "votos": 5,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.96
+  },
+  {
+    "parroquia": "TELIMBELA",
+    "id": 3995,
+    "votos": 25,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 3.2
+  },
+  {
+    "parroquia": "SAN JOSÉ DE CHIMBO",
+    "id": 5975,
+    "votos": 38,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.83
+  }
+]

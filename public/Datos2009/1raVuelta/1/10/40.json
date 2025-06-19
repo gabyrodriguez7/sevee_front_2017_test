@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "SAN FRANCISCO",
+        "id": 5955,
+        "votos": 174,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 6.0
+    },
+    {
+        "parroquia": "SAGRARIO",
+        "id": 5910,
+        "votos": 256,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 4.88
+    },
+    {
+        "parroquia": "VACAS GALINDO",
+        "id": 4185,
+        "votos": 5,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.79
+    },
+    {
+        "parroquia": "6 DE JULIO DE CUELLAJE",
+        "id": 3800,
+        "votos": 20,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.5
+    },
+    {
+        "parroquia": "QUIROGA",
+        "id": 3115,
+        "votos": 101,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.97
+    },
+    {
+        "parroquia": "PLAZA GUTIERREZ/CALVARIO",
+        "id": 2915,
+        "votos": 16,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 6.72
+    },
+    {
+        "parroquia": "PEÑAHERRERA",
+        "id": 2820,
+        "votos": 52,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 6.63
+    },
+    {
+        "parroquia": "IMANTAG",
+        "id": 1710,
+        "votos": 41,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.91
+    },
+    {
+        "parroquia": "GARCIA MORENO / LLURIMAGUA",
+        "id": 1310,
+        "votos": 106,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.78
+    },
+    {
+        "parroquia": "APUELA",
+        "id": 145,
+        "votos": 35,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 4.17
+    }
+]

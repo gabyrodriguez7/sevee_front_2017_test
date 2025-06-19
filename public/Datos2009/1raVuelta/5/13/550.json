@@ -1,0 +1,23 @@
+[
+                {
+                    "parroquia": "TOSAGUA",
+                    "id": 6170,
+                    "votos": 95,
+                    "candidato": "Melba Jacome",
+                    "value": 0.59
+                },
+                {
+                    "parroquia": "ANGEL PEDRO GILER",
+                    "id": 2030,
+                    "votos": 15,
+                    "candidato": "Melba Jacome",
+                    "value": 0.72
+                },
+                {
+                    "parroquia": "BACHILLERO",
+                    "id": 265,
+                    "votos": 7,
+                    "candidato": "Melba Jacome",
+                    "value": 0.43
+                }
+            ]

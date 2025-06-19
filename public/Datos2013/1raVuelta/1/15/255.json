@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "GONZALO DIAZ DE PINEDA",
+        "id": 1020,
+        "votos": 3,
+        "candidato": "Noboa Alvaro",
+        "value": 1.0
+    },
+    {
+        "parroquia": "LINARES",
+        "id": 2180,
+        "votos": 1,
+        "candidato": "Noboa Alvaro",
+        "value": 0.6
+    },
+    {
+        "parroquia": "OYACACHI",
+        "id": 2640,
+        "votos": 2,
+        "candidato": "Noboa Alvaro",
+        "value": 0.5555556
+    },
+    {
+        "parroquia": "SANTA ROSA DE QUIJOS",
+        "id": 3745,
+        "votos": 3,
+        "candidato": "Noboa Alvaro",
+        "value": 0.4103967
+    },
+    {
+        "parroquia": "SARDINAS",
+        "id": 3790,
+        "votos": 1,
+        "candidato": "Noboa Alvaro",
+        "value": 0.35
+    },
+    {
+        "parroquia": "EL CHACO",
+        "id": 5510,
+        "votos": 56,
+        "candidato": "Noboa Alvaro",
+        "value": 1.79
+    }
+]

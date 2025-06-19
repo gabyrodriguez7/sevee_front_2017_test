@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "BUENAVISTA",
+    "id": 390,
+    "votos": 2918,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 71.61
+  },
+  {
+    "parroquia": "CAÑAQUEMADA",
+    "id": 775,
+    "votos": 451,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 76.96
+  },
+  {
+    "parroquia": "PROGRESO",
+    "id": 1225,
+    "votos": 1276,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 63.99
+  },
+  {
+    "parroquia": "LA PEAÑA",
+    "id": 2075,
+    "votos": 1678,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 69.86
+  },
+  {
+    "parroquia": "UZHCURRUMI",
+    "id": 4160,
+    "votos": 589,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 60.41
+  },
+  {
+    "parroquia": "CASACAY",
+    "id": 4495,
+    "votos": 786,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 62.88
+  },
+  {
+    "parroquia": "OCHOA LEÓN/MATRIZ",
+    "id": 5770,
+    "votos": 20307,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 54.25
+  },
+  {
+    "parroquia": "LOMA DE FRANCO",
+    "id": 6365,
+    "votos": 619,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 70.99
+  },
+  {
+    "parroquia": "BOLIVAR",
+    "id": 6370,
+    "votos": 344,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 58.5
+  },
+  {
+    "parroquia": "TRES CERRITOS",
+    "id": 6375,
+    "votos": 263,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 60.74
+  },
+  {
+    "parroquia": "PASAJE",
+    "id": 6940,
+    "votos": 602,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 59.55
+  }
+]

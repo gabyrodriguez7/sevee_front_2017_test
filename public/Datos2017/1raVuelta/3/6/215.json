@@ -1,0 +1,72 @@
+[
+  {
+    "parroquia": "ACHUPALLAS",
+    "id": 20,
+    "votos": 1112,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 24.98
+  },
+  {
+    "parroquia": "GUASUNTOS",
+    "id": 1465,
+    "votos": 343,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 35.65
+  },
+  {
+    "parroquia": "HUIGRA",
+    "id": 1660,
+    "votos": 593,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 49.25
+  },
+  {
+    "parroquia": "MULTITUD",
+    "id": 2485,
+    "votos": 277,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 40.32
+  },
+  {
+    "parroquia": "PISTISHI",
+    "id": 2905,
+    "votos": 43,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 29.66
+  },
+  {
+    "parroquia": "PUMALLACTA",
+    "id": 3025,
+    "votos": 147,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 42.98
+  },
+  {
+    "parroquia": "SEVILLA",
+    "id": 3820,
+    "votos": 137,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 37.95
+  },
+  {
+    "parroquia": "SIBAMBE",
+    "id": 3845,
+    "votos": 437,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 29.25
+  },
+  {
+    "parroquia": "TIXÁN",
+    "id": 4030,
+    "votos": 1475,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 28.33
+  },
+  {
+    "parroquia": "ALAUSÍ",
+    "id": 5010,
+    "votos": 2126,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 27.7
+  }
+]

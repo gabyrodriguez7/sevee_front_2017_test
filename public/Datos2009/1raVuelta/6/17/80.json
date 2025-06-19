@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "SAN PEDRO DE TABOADA",
+    "id": 6605,
+    "votos": 108,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 3.2
+  },
+  {
+    "parroquia": "SAN RAFAEL",
+    "id": 6600,
+    "votos": 318,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 3.51
+  },
+  {
+    "parroquia": "SANGOLQUI",
+    "id": 5965,
+    "votos": 1101,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 3.15
+  },
+  {
+    "parroquia": "RUMIPAMBA",
+    "id": 3230,
+    "votos": 9,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 4.89
+  },
+  {
+    "parroquia": "COTOGCHOA",
+    "id": 680,
+    "votos": 38,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 3.17
+  }
+]

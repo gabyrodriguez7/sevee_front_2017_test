@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "SAN LUIS DE PAMBIL",
+    "id": 795,
+    "votos": 15,
+    "candidato": "Zavala Nelson",
+    "value": 0.0
+  },
+  {
+    "parroquia": "FACUNDO VELA",
+    "id": 1255,
+    "votos": 17,
+    "candidato": "Zavala Nelson",
+    "value": 2.0
+  },
+  {
+    "parroquia": "JULIO E MORENO",
+    "id": 1890,
+    "votos": 13,
+    "candidato": "Zavala Nelson",
+    "value": 1.4
+  },
+  {
+    "parroquia": "SALINAS",
+    "id": 3285,
+    "votos": 19,
+    "candidato": "Zavala Nelson",
+    "value": 0.911271
+  },
+  {
+    "parroquia": "SAN LORENZO",
+    "id": 3545,
+    "votos": 7,
+    "candidato": "Zavala Nelson",
+    "value": 0.57
+  },
+  {
+    "parroquia": "SAN SIMON",
+    "id": 3670,
+    "votos": 39,
+    "candidato": "Zavala Nelson",
+    "value": 1.95195195
+  },
+  {
+    "parroquia": "SANTA FE",
+    "id": 3710,
+    "votos": 5,
+    "candidato": "Zavala Nelson",
+    "value": 0.41
+  },
+  {
+    "parroquia": "SIMIATUG",
+    "id": 3860,
+    "votos": 88,
+    "candidato": "Zavala Nelson",
+    "value": 2.0
+  },
+  {
+    "parroquia": "ANGEL POLIVIO CHAVEZ",
+    "id": 5035,
+    "votos": 46,
+    "candidato": "Zavala Nelson",
+    "value": 0.6
+  },
+  {
+    "parroquia": "GABRIEL I VEINTIMILLA",
+    "id": 5375,
+    "votos": 78,
+    "candidato": "Zavala Nelson",
+    "value": 1.0
+  },
+  {
+    "parroquia": "GUANUJO",
+    "id": 6630,
+    "votos": 133,
+    "candidato": "Zavala Nelson",
+    "value": 1.0
+  }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "BOLIVAR",
+        "id": 355,
+        "votos": 369,
+        "candidato": "Correa Delgado Rafael",
+        "value": 74.55
+    },
+    {
+        "parroquia": "DAULE",
+        "id": 1010,
+        "votos": 530,
+        "candidato": "Correa Delgado Rafael",
+        "value": 81.04
+    },
+    {
+        "parroquia": "GALERA",
+        "id": 1305,
+        "votos": 471,
+        "candidato": "Correa Delgado Rafael",
+        "value": 65.15
+    },
+    {
+        "parroquia": "QUINGUE",
+        "id": 3125,
+        "votos": 297,
+        "candidato": "Correa Delgado Rafael",
+        "value": 68.0
+    },
+    {
+        "parroquia": "SALIMA",
+        "id": 3280,
+        "votos": 444,
+        "candidato": "Correa Delgado Rafael",
+        "value": 80.3
+    },
+    {
+        "parroquia": "SAN FRANCISCO",
+        "id": 3390,
+        "votos": 676,
+        "candidato": "Correa Delgado Rafael",
+        "value": 54.43
+    },
+    {
+        "parroquia": "SAN GREGORIO",
+        "id": 3430,
+        "votos": 1257,
+        "candidato": "Correa Delgado Rafael",
+        "value": 68.17
+    },
+    {
+        "parroquia": "SAN JOSE DE CHAMANGA",
+        "id": 3470,
+        "votos": 1249,
+        "candidato": "Correa Delgado Rafael",
+        "value": 66.0
+    },
+    {
+        "parroquia": "MUISNE",
+        "id": 5670,
+        "votos": 3853,
+        "candidato": "Correa Delgado Rafael",
+        "value": 64.887
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "27 DE SEPTIEMBRE",
+        "id": 6250,
+        "votos": 3,
+        "candidato": "Melba Jacome",
+        "value": 0.41
+    },
+    {
+        "parroquia": "EL ANGEL",
+        "id": 5295,
+        "votos": 15,
+        "candidato": "Melba Jacome",
+        "value": 0.49
+    },
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 3435,
+        "votos": 5,
+        "candidato": "Melba Jacome",
+        "value": 0.25
+    },
+    {
+        "parroquia": "LA LIBERTAD",
+        "id": 2040,
+        "votos": 11,
+        "candidato": "Melba Jacome",
+        "value": 0.48
+    },
+    {
+        "parroquia": "EL GOALTAL / LAS JUNTAS",
+        "id": 1150,
+        "votos": 1,
+        "candidato": "Melba Jacome",
+        "value": 0.21
+    }
+]

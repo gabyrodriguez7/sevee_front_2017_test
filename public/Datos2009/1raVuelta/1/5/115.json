@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "SAQUISILI",
+        "id": 6070,
+        "votos": 182,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.22
+    },
+    {
+        "parroquia": "COCHAPAMBA",
+        "id": 990,
+        "votos": 16,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.92
+    },
+    {
+        "parroquia": "CHANTILIN",
+        "id": 830,
+        "votos": 8,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.92
+    },
+    {
+        "parroquia": "CANCHAGUA",
+        "id": 465,
+        "votos": 15,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.87
+    }
+]

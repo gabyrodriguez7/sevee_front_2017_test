@@ -1,0 +1,18 @@
+[
+    {
+        "partido": "",
+        "nombrePartido": "Resultados Generales",
+        "json": "1"
+    },{
+        "partido": 1,
+        "nombre": "Nombre 1",
+        "nombrePartido": "PARTIDO 1",
+        "json": "1"
+    },
+    {
+        "partido": 2,
+        "nombre": "Nombre 2",
+       "nombrePartido": "PARTIDO 2",
+        "json": "2"
+    }
+]

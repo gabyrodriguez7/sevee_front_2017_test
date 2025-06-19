@@ -1,0 +1,52 @@
+[
+                {
+                    "parroquia": "LIMONES",
+                    "id": 280,
+                    "votos": 227,
+                    "candidato": "Lasso Guillermo",
+                    "value": 36.32
+                },
+                {
+                    "parroquia": "GARZAREAL",
+                    "id": 290,
+                    "votos": 132,
+                    "candidato": "Lasso Guillermo",
+                    "value": 22.0
+                },
+                {
+                    "parroquia": "MANGAHURCO",
+                    "id": 550,
+                    "votos": 92,
+                    "candidato": "Lasso Guillermo",
+                    "value": 20.4
+                },
+                {
+                    "parroquia": "BOLASPAMBA",
+                    "id": 2000,
+                    "votos": 127,
+                    "candidato": "Lasso Guillermo",
+                    "value": 31.51
+                },
+                {
+                    "parroquia": "PALETILLAS",
+                    "id": 2710,
+                    "votos": 413,
+                    "candidato": "Lasso Guillermo",
+                    "value": 30.39
+                },
+                {
+                    "parroquia": "CAZADEROS",
+                    "id": 4605,
+                    "votos": 84,
+                    "candidato": "Lasso Guillermo",
+                    "value": 27.6
+                },
+                {
+                    "parroquia": "ZAPOTILLO",
+                    "id": 6320,
+                    "votos": 1238,
+                    "candidato": "Lasso Guillermo",
+                    "value": 39.93548
+                }
+            ]
+            

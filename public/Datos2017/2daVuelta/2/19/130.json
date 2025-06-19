@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "ZURMI",
+    "id": 1675,
+    "votos": 414,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 44.33
+  },
+  {
+    "parroquia": "NUEVO PARAÍSO",
+    "id": 4570,
+    "votos": 98,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 25.86
+  },
+  {
+    "parroquia": "GUAYZIMI",
+    "id": 5520,
+    "votos": 907,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 39.59
+  }
+]

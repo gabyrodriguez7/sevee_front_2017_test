@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CAMPOZANO",
+        "id": 460,
+        "votos": 72,
+        "candidato": "Acosta Alberto",
+        "value": 2.29592
+    },
+    {
+        "parroquia": "CASCOL",
+        "id": 540,
+        "votos": 70,
+        "candidato": "Acosta Alberto",
+        "value": 1.5271
+    },
+    {
+        "parroquia": "GUALE/STO.DOMINGO",
+        "id": 1395,
+        "votos": 28,
+        "candidato": "Acosta Alberto",
+        "value": 1.0
+    },
+    {
+        "parroquia": "LASCANO",
+        "id": 2090,
+        "votos": 26,
+        "candidato": "Acosta Alberto",
+        "value": 1.28
+    },
+    {
+        "parroquia": "PAJAN",
+        "id": 5755,
+        "votos": 377,
+        "candidato": "Acosta Alberto",
+        "value": 2.875
+    }
+]

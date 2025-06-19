@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "LA ESPERANZA",
+    "id": 4420,
+    "votos": 20,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.87
+  },
+  {
+    "parroquia": "SAN CARLOS",
+    "id": 4425,
+    "votos": 82,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.15
+  },
+  {
+    "parroquia": "QUEVEDO",
+    "id": 5855,
+    "votos": 327,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.62
+  },
+  {
+    "parroquia": "SAN CAMILO",
+    "id": 6115,
+    "votos": 115,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.56
+  },
+  {
+    "parroquia": "SAN CRISTÓBAL",
+    "id": 6635,
+    "votos": 26,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.72
+  },
+  {
+    "parroquia": "VENUS DEL RÍO QUEVEDO",
+    "id": 6640,
+    "votos": 41,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.46
+  },
+  {
+    "parroquia": "NICOLÁS INFANTE DÍAZ",
+    "id": 6645,
+    "votos": 19,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.62
+  },
+  {
+    "parroquia": "GUAYACÁN",
+    "id": 6650,
+    "votos": 29,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.52
+  },
+  {
+    "parroquia": "SIETE DE OCTUBRE",
+    "id": 6655,
+    "votos": 24,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.42
+  },
+  {
+    "parroquia": "VIVA ALFARO",
+    "id": 6660,
+    "votos": 22,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.59
+  },
+  {
+    "parroquia": "24 DE MAYO",
+    "id": 6690,
+    "votos": 28,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.7
+  }
+]

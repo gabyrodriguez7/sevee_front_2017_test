@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "DANIEL CÓRDOVA TORAL",
+    "id": 1005,
+    "votos": 14,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.42
+  },
+  {
+    "parroquia": "LUIS CORDERO VEGA",
+    "id": 1760,
+    "votos": 5,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.57
+  },
+  {
+    "parroquia": "JADÁN",
+    "id": 1805,
+    "votos": 52,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.03
+  },
+  {
+    "parroquia": "MARIANO MORENO/CALLASAY",
+    "id": 2385,
+    "votos": 13,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.2
+  },
+  {
+    "parroquia": "REMIGIO CRESPO TORAL",
+    "id": 3160,
+    "votos": 6,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.16
+  },
+  {
+    "parroquia": "SAN JUAN",
+    "id": 3505,
+    "votos": 51,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.01
+  },
+  {
+    "parroquia": "SIMÓN BOLÍVAR",
+    "id": 3780,
+    "votos": 9,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.06
+  },
+  {
+    "parroquia": "ZHIDMAD",
+    "id": 4340,
+    "votos": 16,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.07
+  },
+  {
+    "parroquia": "GUALACEO",
+    "id": 5420,
+    "votos": 302,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.01
+  }
+]

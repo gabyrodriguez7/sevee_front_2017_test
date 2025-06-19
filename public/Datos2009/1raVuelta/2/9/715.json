@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "PEDRO CARBO",
+        "id": 5735,
+        "votos": 63,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.32
+    },
+    {
+        "parroquia": "SABANILLA",
+        "id": 1670,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.09
+    },
+    {
+        "parroquia": "VALLE DE LA VIRGEN",
+        "id": 185,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.09
+    }
+]

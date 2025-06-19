@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "SARAGURO",
+    "id": 6075,
+    "votos": 15,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.35
+  },
+  {
+    "parroquia": "URDANETA/PAQUISHAPA",
+    "id": 4145,
+    "votos": 3,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.2
+  },
+  {
+    "parroquia": "SELVA ALEGRE",
+    "id": 3815,
+    "votos": 5,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.68
+  },
+  {
+    "parroquia": "SAN SEBASTIAN DE YULOG",
+    "id": 3665,
+    "votos": 1,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.27
+  },
+  {
+    "parroquia": "SAN PABLO DE TENTA",
+    "id": 3600,
+    "votos": 5,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.47
+  },
+  {
+    "parroquia": "SAN ANTONIO DE CUMBE",
+    "id": 3340,
+    "votos": 0,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.0
+  },
+  {
+    "parroquia": "MANU",
+    "id": 2360,
+    "votos": 3,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.24
+  },
+  {
+    "parroquia": "LLUZHAPA",
+    "id": 2280,
+    "votos": 3,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.5
+  },
+  {
+    "parroquia": "EL TABLON",
+    "id": 1190,
+    "votos": 0,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.0
+  },
+  {
+    "parroquia": "EL PARAISO DE CELEN",
+    "id": 1165,
+    "votos": 9,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 1.04
+  },
+  {
+    "parroquia": "SUMAYPAMBA",
+    "id": 310,
+    "votos": 0,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.0
+  }
+]

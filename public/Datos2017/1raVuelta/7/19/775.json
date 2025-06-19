@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "EL GUISMI",
+    "id": 665,
+    "votos": 3,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.41
+  },
+  {
+    "parroquia": "TUNDAYME",
+    "id": 945,
+    "votos": 4,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.96
+  },
+  {
+    "parroquia": "PACHICUTZA",
+    "id": 1015,
+    "votos": 10,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.49
+  },
+  {
+    "parroquia": "EL PANGUI",
+    "id": 6355,
+    "votos": 47,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.23
+  }
+]

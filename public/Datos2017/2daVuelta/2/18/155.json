@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "LOS ANDES",
+    "id": 2210,
+    "votos": 356,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 43.95
+  },
+  {
+    "parroquia": "SUCRE",
+    "id": 3885,
+    "votos": 459,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 31.14
+  },
+  {
+    "parroquia": "EL TRIUNFO",
+    "id": 4110,
+    "votos": 291,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 33.3
+  },
+  {
+    "parroquia": "PATATE",
+    "id": 5830,
+    "votos": 2771,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 45.15
+  }
+]

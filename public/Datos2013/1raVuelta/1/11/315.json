@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CRUZPAMBA/BUSTAMANTE",
+        "id": 695,
+        "votos": 13,
+        "candidato": "Noboa Alvaro",
+        "value": 2.0
+    },
+    {
+        "parroquia": "TNTE M.RODRIGUEZ LOAYZA",
+        "id": 1495,
+        "votos": 13,
+        "candidato": "Noboa Alvaro",
+        "value": 5.0
+    },
+    {
+        "parroquia": "SABANILLA",
+        "id": 3255,
+        "votos": 31,
+        "candidato": "Noboa Alvaro",
+        "value": 2.7
+    },
+    {
+        "parroquia": "SAN JUAN DE POZUL",
+        "id": 3535,
+        "votos": 17,
+        "candidato": "Noboa Alvaro",
+        "value": 1.09
+    },
+    {
+        "parroquia": "CELICA",
+        "id": 5195,
+        "votos": 111,
+        "candidato": "Noboa Alvaro",
+        "value": 2.7925
+    }
+]

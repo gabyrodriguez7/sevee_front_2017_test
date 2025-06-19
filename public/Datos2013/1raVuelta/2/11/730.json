@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CHAQUINAL",
+        "id": 835,
+        "votos": 297,
+        "candidato": "Correa Delgado Rafael",
+        "value": 46.19
+    },
+    {
+        "parroquia": "12 DE DICIEMBRE",
+        "id": 1035,
+        "votos": 464,
+        "candidato": "Correa Delgado Rafael",
+        "value": 55.4
+    },
+    {
+        "parroquia": "MILAGROS",
+        "id": 4545,
+        "votos": 659,
+        "candidato": "Correa Delgado Rafael",
+        "value": 61.0
+    },
+    {
+        "parroquia": "PINDAL /FEDERICO PAEZ",
+        "id": 5810,
+        "votos": 1361,
+        "candidato": "Correa Delgado Rafael",
+        "value": 52.67
+    }
+]

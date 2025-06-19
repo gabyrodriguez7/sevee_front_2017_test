@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "SHIMPIS",
+        "id": 525,
+        "votos": 4,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 0.83
+    },
+    {
+        "parroquia": "YAUPI",
+        "id": 4300,
+        "votos": 0,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 0.0
+    },
+    {
+        "parroquia": "LOGRO�O",
+        "id": 6735,
+        "votos": 19,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.19
+    }
+]

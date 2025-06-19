@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "BELLAVISTA",
+    "id": 455,
+    "votos": 69,
+    "candidato": "Lasso Guillermo",
+    "value": 31.8
+  },
+  {
+    "parroquia": "NUEVO QUITO",
+    "id": 1120,
+    "votos": 328,
+    "candidato": "Lasso Guillermo",
+    "value": 48.88
+  },
+  {
+    "parroquia": "PAQUISHA",
+    "id": 6885,
+    "votos": 561,
+    "candidato": "Lasso Guillermo",
+    "value": 45.61
+  }
+]

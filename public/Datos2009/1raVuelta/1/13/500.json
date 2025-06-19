@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "4 DE DICIEMBRE",
+    "id": 6195,
+    "votos": 17,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.71
+  },
+  {
+    "parroquia": "EL CARMEN",
+    "id": 5300,
+    "votos": 942,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.49
+  },
+  {
+    "parroquia": "SAN PEDRO DE SUMA",
+    "id": 1980,
+    "votos": 5,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 0.67
+  },
+  {
+    "parroquia": "WILFRIDO LOOR MOREIRA",
+    "id": 1070,
+    "votos": 12,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.2
+  }
+]

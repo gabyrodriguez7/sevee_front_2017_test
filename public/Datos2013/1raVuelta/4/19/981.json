@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 455,
+        "votos": 44,
+        "candidato": "Acosta Alberto",
+        "value": 20.28
+    },
+    {
+        "parroquia": "NUEVO QUITO",
+        "id": 1120,
+        "votos": 128,
+        "candidato": "Acosta Alberto",
+        "value": 19.08
+    },
+    {
+        "parroquia": "PAQUISHA",
+        "id": 6885,
+        "votos": 168,
+        "candidato": "Acosta Alberto",
+        "value": 13.66
+    }
+]

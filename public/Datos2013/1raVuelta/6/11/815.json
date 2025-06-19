@@ -1,0 +1,38 @@
+[
+                {
+                    "parroquia": "BUENAVISTA",
+                    "id": 385,
+                    "votos": 201,
+                    "candidato": "Lasso Guillermo",
+                    "value": 26.0
+                },
+                {
+                    "parroquia": "EL ROSARIO",
+                    "id": 1180,
+                    "votos": 64,
+                    "candidato": "Lasso Guillermo",
+                    "value": 24.4
+                },
+                {
+                    "parroquia": "AMARILLOS",
+                    "id": 1450,
+                    "votos": 97,
+                    "candidato": "Lasso Guillermo",
+                    "value": 44.7
+                },
+                {
+                    "parroquia": "SANTA RUFINA",
+                    "id": 3755,
+                    "votos": 153,
+                    "candidato": "Lasso Guillermo",
+                    "value": 27.3
+                },
+                {
+                    "parroquia": "CHAGUARPAMBA",
+                    "id": 6530,
+                    "votos": 717,
+                    "candidato": "Lasso Guillermo",
+                    "value": 27.26
+                }
+            ]
+            

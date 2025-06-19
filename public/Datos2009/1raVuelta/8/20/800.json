@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "PTO. BAQUERIZO MORENO",
+    "id": 6510,
+    "votos": 1115,
+    "candidato": "Lucio Gutierrez",
+    "value": 34.23
+  },
+  {
+    "parroquia": "ISLA SANTA MARIA",
+    "id": 4415,
+    "votos": 11,
+    "candidato": "Lucio Gutierrez",
+    "value": 16.67
+  },
+  {
+    "parroquia": "EL PROGRESO",
+    "id": 1220,
+    "votos": 94,
+    "candidato": "Lucio Gutierrez",
+    "value": 33.22
+  }
+]

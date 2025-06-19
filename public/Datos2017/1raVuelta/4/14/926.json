@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "HUASAGA /WAMPUIK",
+    "id": 595,
+    "votos": 3,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 0.4
+  },
+  {
+    "parroquia": "TUTINENTZA",
+    "id": 1205,
+    "votos": 14,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 0.73
+  },
+  {
+    "parroquia": "MACUMA",
+    "id": 2285,
+    "votos": 23,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 1.21
+  },
+  {
+    "parroquia": "PUMPUENTSA",
+    "id": 4575,
+    "votos": 11,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 1.24
+  },
+  {
+    "parroquia": "TAISHA",
+    "id": 6700,
+    "votos": 77,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 2.95
+  }
+]

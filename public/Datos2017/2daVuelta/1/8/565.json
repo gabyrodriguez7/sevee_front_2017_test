@@ -1,0 +1,114 @@
+[
+  {
+    "parroquia": "ANCHAYACU",
+    "id": 120,
+    "votos": 164,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 21.64
+  },
+  {
+    "parroquia": "ATAHUALPA/CAMARONES",
+    "id": 200,
+    "votos": 330,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 35.99
+  },
+  {
+    "parroquia": "BORBÓN",
+    "id": 370,
+    "votos": 1813,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 34.47
+  },
+  {
+    "parroquia": "SAN JOSÉ DE CAYAPAS",
+    "id": 1505,
+    "votos": 387,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 47.37
+  },
+  {
+    "parroquia": "COLÓN ELOY DE MARÍA",
+    "id": 1510,
+    "votos": 117,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 17.65
+  },
+  {
+    "parroquia": "TIMBIRÉ",
+    "id": 1515,
+    "votos": 120,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 22.64
+  },
+  {
+    "parroquia": "LA TOLA",
+    "id": 2125,
+    "votos": 466,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 27.54
+  },
+  {
+    "parroquia": "LUIS VARGAS TORRES",
+    "id": 2225,
+    "votos": 45,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 16.25
+  },
+  {
+    "parroquia": "MALDONADO",
+    "id": 2335,
+    "votos": 305,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 28.75
+  },
+  {
+    "parroquia": "PAMPANAL DE BOLIVAR",
+    "id": 2670,
+    "votos": 99,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 23.91
+  },
+  {
+    "parroquia": "SAN FRANCISCO DE ONZOLE",
+    "id": 3405,
+    "votos": 472,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 53.82
+  },
+  {
+    "parroquia": "SELVA ALEGRE",
+    "id": 3805,
+    "votos": 135,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 19.88
+  },
+  {
+    "parroquia": "TELEMBÍ",
+    "id": 4170,
+    "votos": 964,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 45.3
+  },
+  {
+    "parroquia": "SANTO DOMINGO DE ONZOLE",
+    "id": 4465,
+    "votos": 509,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 43.32
+  },
+  {
+    "parroquia": "SANTA LUCIA DE LAS PEÑAS",
+    "id": 4595,
+    "votos": 152,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 24.48
+  },
+  {
+    "parroquia": "VALDÉZ/LIMONES/",
+    "id": 6205,
+    "votos": 1022,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 24.4
+  }
+]

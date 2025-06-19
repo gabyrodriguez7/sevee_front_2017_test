@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "PATRICIA PILAR",
+        "id": 150,
+        "votos": 79,
+        "candidato": "Acosta Alberto",
+        "value": 1.1948
+    },
+    {
+        "parroquia": "SN JACINTO DE BUENA FE",
+        "id": 6465,
+        "votos": 275,
+        "candidato": "Acosta Alberto",
+        "value": 0.9369
+    }
+]

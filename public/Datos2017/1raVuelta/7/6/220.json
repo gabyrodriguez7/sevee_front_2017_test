@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "CAPZOL",
+    "id": 515,
+    "votos": 6,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.76
+  },
+  {
+    "parroquia": "COMPUD",
+    "id": 615,
+    "votos": 1,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.29
+  },
+  {
+    "parroquia": "GONZOL",
+    "id": 1370,
+    "votos": 13,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.41
+  },
+  {
+    "parroquia": "LLAGOS",
+    "id": 2260,
+    "votos": 4,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.63
+  },
+  {
+    "parroquia": "CHUNCHI",
+    "id": 5255,
+    "votos": 58,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.14
+  }
+]

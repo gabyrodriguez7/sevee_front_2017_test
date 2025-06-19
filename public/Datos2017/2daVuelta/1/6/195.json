@@ -1,0 +1,114 @@
+[
+  {
+    "parroquia": "CACHA",
+    "id": 420,
+    "votos": 1459,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 57.58
+  },
+  {
+    "parroquia": "CALPI",
+    "id": 445,
+    "votos": 2953,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 62.92
+  },
+  {
+    "parroquia": "CUBIJÍES",
+    "id": 705,
+    "votos": 973,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 61.35
+  },
+  {
+    "parroquia": "FLORES",
+    "id": 1280,
+    "votos": 1899,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 50.47
+  },
+  {
+    "parroquia": "LICAN",
+    "id": 2160,
+    "votos": 2460,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 61.47
+  },
+  {
+    "parroquia": "LICTO",
+    "id": 2165,
+    "votos": 2859,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 45.27
+  },
+  {
+    "parroquia": "PUNGALÁ",
+    "id": 3035,
+    "votos": 2307,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 55.15
+  },
+  {
+    "parroquia": "PUNÍN",
+    "id": 3040,
+    "votos": 3038,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 63.27
+  },
+  {
+    "parroquia": "QUIMIAG",
+    "id": 3095,
+    "votos": 2435,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 63.15
+  },
+  {
+    "parroquia": "SAN JUAN",
+    "id": 3515,
+    "votos": 3780,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 65.77
+  },
+  {
+    "parroquia": "SAN LUIS",
+    "id": 3560,
+    "votos": 3003,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 62.86
+  },
+  {
+    "parroquia": "LIZARZABURU",
+    "id": 5590,
+    "votos": 24909,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 65.93
+  },
+  {
+    "parroquia": "MALDONADO",
+    "id": 5630,
+    "votos": 16774,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 66.3
+  },
+  {
+    "parroquia": "VELASCO",
+    "id": 6220,
+    "votos": 17658,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 66.01
+  },
+  {
+    "parroquia": "VELOZ",
+    "id": 6230,
+    "votos": 10991,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 66.59
+  },
+  {
+    "parroquia": "YARUQUÍES",
+    "id": 6290,
+    "votos": 2745,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 60.56
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "parroquia": "ALTO TAMBO/GUADAL",
+    "id": 70,
+    "votos": 78,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.07
+  },
+  {
+    "parroquia": "ANCÓN/PALMA REAL",
+    "id": 110,
+    "votos": 59,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.59
+  },
+  {
+    "parroquia": "CALDERÓN",
+    "id": 435,
+    "votos": 73,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 20.39
+  },
+  {
+    "parroquia": "CARONDELET",
+    "id": 535,
+    "votos": 153,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 27.72
+  },
+  {
+    "parroquia": "5 DE JUNIO/HUIMBI",
+    "id": 570,
+    "votos": 48,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 29.63
+  },
+  {
+    "parroquia": "CONCEPCIÓN",
+    "id": 620,
+    "votos": 112,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 16.47
+  },
+  {
+    "parroquia": "MATAJE",
+    "id": 2395,
+    "votos": 70,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 15.32
+  },
+  {
+    "parroquia": "SAN JAVIER DE CACHABI",
+    "id": 3455,
+    "votos": 127,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 30.9
+  },
+  {
+    "parroquia": "SANTA RITA",
+    "id": 3725,
+    "votos": 140,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 25.64
+  },
+  {
+    "parroquia": "TAMBILLO",
+    "id": 3955,
+    "votos": 100,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 16.29
+  },
+  {
+    "parroquia": "TULULBÍ /RICAURTE",
+    "id": 4075,
+    "votos": 329,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 39.21
+  },
+  {
+    "parroquia": "URBINA",
+    "id": 4125,
+    "votos": 173,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 34.74
+  },
+  {
+    "parroquia": "SAN LORENZO",
+    "id": 6130,
+    "votos": 2839,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 24.95
+  }
+]

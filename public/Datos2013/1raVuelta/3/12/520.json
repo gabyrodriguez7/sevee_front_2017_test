@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "GUARE",
+        "id": 1460,
+        "votos": 23,
+        "candidato": "Wray Norman",
+        "value": 0.6341
+    },
+    {
+        "parroquia": "ISLA DE BEJUCAL",
+        "id": 1740,
+        "votos": 15,
+        "candidato": "Wray Norman",
+        "value": 0.3457
+    },
+    {
+        "parroquia": "BABA",
+        "id": 5085,
+        "votos": 71,
+        "candidato": "Wray Norman",
+        "value": 0.5085
+    }
+]

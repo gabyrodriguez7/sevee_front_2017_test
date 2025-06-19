@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "JESÚS MARÍA",
+    "id": 1830,
+    "votos": 15,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.85
+  },
+  {
+    "parroquia": "SAN CARLOS",
+    "id": 3370,
+    "votos": 8,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.45
+  },
+  {
+    "parroquia": "SANTA ROSA DE FLANDES",
+    "id": 3740,
+    "votos": 10,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.83
+  },
+  {
+    "parroquia": "TAURA",
+    "id": 3990,
+    "votos": 16,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.41
+  },
+  {
+    "parroquia": "NARANJAL",
+    "id": 5675,
+    "votos": 184,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.57
+  }
+]

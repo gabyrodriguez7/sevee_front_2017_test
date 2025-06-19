@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "ASUNCIÓN",
+    "id": 175,
+    "votos": 43,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.78
+  },
+  {
+    "parroquia": "SAN GERARDO",
+    "id": 885,
+    "votos": 15,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.72
+  },
+  {
+    "parroquia": "GIRÓN",
+    "id": 5395,
+    "votos": 144,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.35
+  }
+]

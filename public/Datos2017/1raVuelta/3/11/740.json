@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "FUNDOCHAMBA",
+    "id": 360,
+    "votos": 108,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 36.86
+  },
+  {
+    "parroquia": "SAN ANTONIO DE LAS ARADAS",
+    "id": 3345,
+    "votos": 281,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 41.63
+  },
+  {
+    "parroquia": "QUILANGA /LA PAZ",
+    "id": 6260,
+    "votos": 679,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 34.41
+  }
+]

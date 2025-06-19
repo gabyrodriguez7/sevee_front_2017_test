@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "ZAPOTILLO",
+        "id": 6320,
+        "votos": 1845,
+        "candidato": "Rafael Correa Delgado",
+        "value": 71.01
+    },
+    {
+        "parroquia": "PALETILLAS",
+        "id": 2710,
+        "votos": 821,
+        "candidato": "Rafael Correa Delgado",
+        "value": 77.81
+    },
+    {
+        "parroquia": "BOLASPAMBA",
+        "id": 2000,
+        "votos": 237,
+        "candidato": "Rafael Correa Delgado",
+        "value": 80.33
+    },
+    {
+        "parroquia": "CAZADEROS",
+        "id": 550,
+        "votos": 481,
+        "candidato": "Rafael Correa Delgado",
+        "value": 84.38
+    },
+    {
+        "parroquia": "GARZAREAL",
+        "id": 290,
+        "votos": 360,
+        "candidato": "Rafael Correa Delgado",
+        "value": 83.91
+    },
+    {
+        "parroquia": "LIMONES",
+        "id": 280,
+        "votos": 219,
+        "candidato": "Rafael Correa Delgado",
+        "value": 58.55
+    }
+]

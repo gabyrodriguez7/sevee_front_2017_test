@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "CUYABENO",
+    "id": 760,
+    "votos": 14,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.43
+  },
+  {
+    "parroquia": "AGUAS NEGRAS",
+    "id": 1555,
+    "votos": 48,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.38
+  },
+  {
+    "parroquia": "TARAPOA",
+    "id": 6765,
+    "votos": 151,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.27
+  }
+]

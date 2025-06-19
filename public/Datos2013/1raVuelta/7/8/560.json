@@ -1,0 +1,93 @@
+[
+    {
+        "parroquia": "CAMARONES",
+        "id": 450,
+        "votos": 25,
+        "candidato": "Zavala Nelson",
+        "value": 2.27
+    },
+    {
+        "parroquia": "CRNL.CARLOS CONCHA TORRES",
+        "id": 655,
+        "votos": 17,
+        "candidato": "Zavala Nelson",
+        "value": 2.3
+    },
+    {
+        "parroquia": "CHINCA",
+        "id": 895,
+        "votos": 46,
+        "candidato": "Zavala Nelson",
+        "value": 3.0
+    },
+    {
+        "parroquia": "MAJUA",
+        "id": 2320,
+        "votos": 15,
+        "candidato": "Zavala Nelson",
+        "value": 1.6
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 3570,
+        "votos": 41,
+        "candidato": "Zavala Nelson",
+        "value": 1.79
+    },
+    {
+        "parroquia": "TABIAZO",
+        "id": 3930,
+        "votos": 32,
+        "candidato": "Zavala Nelson",
+        "value": 2.4
+    },
+    {
+        "parroquia": "TACHINA",
+        "id": 3940,
+        "votos": 17,
+        "candidato": "Zavala Nelson",
+        "value": 0.8487
+    },
+    {
+        "parroquia": "VUELTA LARGA",
+        "id": 4240,
+        "votos": 277,
+        "candidato": "Zavala Nelson",
+        "value": 2.093
+    },
+    {
+        "parroquia": "BARTOLOME RUIZ",
+        "id": 5205,
+        "votos": 631,
+        "candidato": "Zavala Nelson",
+        "value": 3.837
+    },
+    {
+        "parroquia": "5 DE AGOSTO",
+        "id": 5210,
+        "votos": 794,
+        "candidato": "Zavala Nelson",
+        "value": 3.26
+    },
+    {
+        "parroquia": "ESMERALDAS",
+        "id": 5335,
+        "votos": 804,
+        "candidato": "Zavala Nelson",
+        "value": 2.86
+    },
+    {
+        "parroquia": "LUIS TELLO / LAS PALMAS /",
+        "id": 5600,
+        "votos": 168,
+        "candidato": "Zavala Nelson",
+        "value": 2.678
+    },
+    {
+        "parroquia": "SIMON PLATA TORRES",
+        "id": 6905,
+        "votos": 93,
+        "candidato": "Zavala Nelson",
+        "value": 2.411
+    }
+]

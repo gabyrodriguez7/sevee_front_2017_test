@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN JOSE DE TAMBO",
+        "id": 3500,
+        "votos": 72,
+        "candidato": "Noboa Alvaro",
+        "value": 2.3
+    },
+    {
+        "parroquia": "CHILLANES",
+        "id": 5245,
+        "votos": 117,
+        "candidato": "Noboa Alvaro",
+        "value": 1.6
+    }
+]

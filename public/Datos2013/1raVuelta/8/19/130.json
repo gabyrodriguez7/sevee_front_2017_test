@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "ZURMI",
+    "id": 1675,
+    "votos": 21,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 2.74
+  },
+  {
+    "parroquia": "NUEVO PARAISO",
+    "id": 4570,
+    "votos": 2,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 0.68
+  },
+  {
+    "parroquia": "GUAYZIMI",
+    "id": 5520,
+    "votos": 52,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 2.97
+  }
+]

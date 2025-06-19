@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN JACINTO",
+        "id": 1435,
+        "votos": 193,
+        "candidato": "Wray Norman",
+        "value": 12.3
+    },
+    {
+        "parroquia": "COLIMES",
+        "id": 5365,
+        "votos": 50,
+        "candidato": "Wray Norman",
+        "value": 0.5
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "canton": 165,
+        "candidato": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "votos": 25294,
+        "value": 48.41
+    },
+    {
+        "canton": 170,
+        "candidato": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "votos": 3736,
+        "value": 7.15
+    },
+    {
+        "canton": 175,
+        "candidato": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "votos": 8035,
+        "value": 15.38
+    },
+    {
+        "canton": 180,
+        "candidato": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "votos": 3966,
+        "value": 7.59
+    },
+    {
+        "canton": 185,
+        "candidato": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "votos": 4931,
+        "value": 9.44
+    },
+    {
+        "canton": 760,
+        "candidato": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "votos": 4679,
+        "value": 8.96
+    },
+    {
+        "canton": 950,
+        "candidato": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "votos": 1608,
+        "value": 3.08
+    }
+]

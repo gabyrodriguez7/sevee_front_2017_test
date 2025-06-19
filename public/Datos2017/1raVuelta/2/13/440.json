@@ -1,0 +1,114 @@
+[
+  {
+    "parroquia": "ABDÓN CALDERÓN",
+    "id": 10,
+    "votos": 818,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.75
+  },
+  {
+    "parroquia": "ALHAJUELA /BAJO GRANDE",
+    "id": 50,
+    "votos": 193,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.76
+  },
+  {
+    "parroquia": "CRUCITA",
+    "id": 770,
+    "votos": 357,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.73
+  },
+  {
+    "parroquia": "CHIRIJOS",
+    "id": 1925,
+    "votos": 45,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.43
+  },
+  {
+    "parroquia": "PUEBLO NUEVO",
+    "id": 2970,
+    "votos": 62,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.57
+  },
+  {
+    "parroquia": "RÍO CHICO",
+    "id": 3185,
+    "votos": 336,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.27
+  },
+  {
+    "parroquia": "SAN PLÁCIDO",
+    "id": 3625,
+    "votos": 396,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.1
+  },
+  {
+    "parroquia": "ANDRÉS DE VERA",
+    "id": 5030,
+    "votos": 3143,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.4
+  },
+  {
+    "parroquia": "COLÓN",
+    "id": 5265,
+    "votos": 605,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.77
+  },
+  {
+    "parroquia": "12 DE MARZO",
+    "id": 5280,
+    "votos": 2056,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.29
+  },
+  {
+    "parroquia": "PORTOVIEJO",
+    "id": 5795,
+    "votos": 1614,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.04
+  },
+  {
+    "parroquia": "PICOAZA",
+    "id": 5845,
+    "votos": 423,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.19
+  },
+  {
+    "parroquia": "SAN PABLO",
+    "id": 6585,
+    "votos": 264,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.19
+  },
+  {
+    "parroquia": "18 DE OCTUBRE",
+    "id": 6770,
+    "votos": 507,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.87
+  },
+  {
+    "parroquia": "FRANCISCO PACHECO",
+    "id": 6775,
+    "votos": 338,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.73
+  },
+  {
+    "parroquia": "SIMÓN BOLÍVAR",
+    "id": 6910,
+    "votos": 190,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.16
+  }
+]

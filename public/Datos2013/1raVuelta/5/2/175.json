@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "BALZAPAMBA",
+        "id": 275,
+        "votos": 629,
+        "candidato": "Gutierrez Lucio",
+        "value": 28.0
+    },
+    {
+        "parroquia": "BILOVAN",
+        "id": 345,
+        "votos": 535,
+        "candidato": "Gutierrez Lucio",
+        "value": 39.0
+    },
+    {
+        "parroquia": "SAN PABLO DE ATENAS",
+        "id": 3595,
+        "votos": 989,
+        "candidato": "Gutierrez Lucio",
+        "value": 29.3
+    },
+    {
+        "parroquia": "SANTIAGO",
+        "id": 3775,
+        "votos": 187,
+        "candidato": "Gutierrez Lucio",
+        "value": 17.73
+    },
+    {
+        "parroquia": "SAN VICENTE",
+        "id": 3900,
+        "votos": 198,
+        "candidato": "Gutierrez Lucio",
+        "value": 33.0
+    },
+    {
+        "parroquia": "REGULO DE MORA",
+        "id": 4515,
+        "votos": 251,
+        "candidato": "Gutierrez Lucio",
+        "value": 49.7
+    },
+    {
+        "parroquia": "SAN MIGUEL",
+        "id": 5995,
+        "votos": 1611,
+        "candidato": "Gutierrez Lucio",
+        "value": 18.0
+    }
+]

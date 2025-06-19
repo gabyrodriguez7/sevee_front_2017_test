@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "SAN PEDRO DE LOS COFANES",
+    "id": 600,
+    "votos": 40,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.36
+  },
+  {
+    "parroquia": "SIETE DE JULIO",
+    "id": 780,
+    "votos": 60,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.1
+  },
+  {
+    "parroquia": "LIMONCOCHA",
+    "id": 2175,
+    "votos": 24,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.28
+  },
+  {
+    "parroquia": "PANACOCHA",
+    "id": 2765,
+    "votos": 2,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.58
+  },
+  {
+    "parroquia": "SAN ROQUE",
+    "id": 3645,
+    "votos": 32,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.94
+  },
+  {
+    "parroquia": "SHUSHUFINDI CENTRAL",
+    "id": 6140,
+    "votos": 556,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.29
+  }
+]

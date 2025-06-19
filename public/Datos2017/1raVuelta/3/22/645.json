@@ -1,0 +1,86 @@
+[
+  {
+    "parroquia": "DAYUMA",
+    "id": 1235,
+    "votos": 1554,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 34.92
+  },
+  {
+    "parroquia": "TARACOA",
+    "id": 1245,
+    "votos": 634,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 40.49
+  },
+  {
+    "parroquia": "EL DORADO",
+    "id": 1560,
+    "votos": 503,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 38.57
+  },
+  {
+    "parroquia": "INÉS ARANGO",
+    "id": 1565,
+    "votos": 662,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 36.68
+  },
+  {
+    "parroquia": "EL EDÉN",
+    "id": 1590,
+    "votos": 117,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 31.28
+  },
+  {
+    "parroquia": "GARCÍA MORENO",
+    "id": 1810,
+    "votos": 224,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 26.14
+  },
+  {
+    "parroquia": "LA BELLEZA",
+    "id": 1820,
+    "votos": 767,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 32.86
+  },
+  {
+    "parroquia": "SAN LUIS DE ARMENIA",
+    "id": 1935,
+    "votos": 289,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 24.76
+  },
+  {
+    "parroquia": "NUEVO PARAÍSO",
+    "id": 1940,
+    "votos": 756,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 51.57
+  },
+  {
+    "parroquia": "SAN JOSÉ DE GUAYUSA",
+    "id": 1945,
+    "votos": 484,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 45.32
+  },
+  {
+    "parroquia": "ALEJANDRO LABAKA",
+    "id": 1995,
+    "votos": 252,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 44.84
+  },
+  {
+    "parroquia": "PTO. FCO. DE ORELLANA",
+    "id": 5815,
+    "votos": 9472,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 34.92
+  }
+]

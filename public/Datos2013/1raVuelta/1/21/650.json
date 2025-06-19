@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "PALMA ROJA",
+        "id": 2720,
+        "votos": 45,
+        "candidato": "Noboa Alvaro",
+        "value": 2.78121
+    },
+    {
+        "parroquia": "PUERTO BOLIVAR",
+        "id": 3005,
+        "votos": 1,
+        "candidato": "Noboa Alvaro",
+        "value": 1.818
+    },
+    {
+        "parroquia": "PUERTO RODRIGUEZ",
+        "id": 3020,
+        "votos": 0,
+        "candidato": "Noboa Alvaro",
+        "value": 0.0
+    },
+    {
+        "parroquia": "SANTA ELENA",
+        "id": 3705,
+        "votos": 3,
+        "candidato": "Noboa Alvaro",
+        "value": 0.7
+    },
+    {
+        "parroquia": "EL CARMEN DE PUTUMAYO",
+        "id": 6500,
+        "votos": 27,
+        "candidato": "Noboa Alvaro",
+        "value": 1.6
+    }
+]

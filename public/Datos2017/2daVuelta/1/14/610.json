@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "ASUNCIÓN",
+    "id": 180,
+    "votos": 710,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 75.77
+  },
+  {
+    "parroquia": "SANTA MARIANITA DE JESÚS",
+    "id": 1140,
+    "votos": 179,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 40.32
+  },
+  {
+    "parroquia": "HUAMBI",
+    "id": 1635,
+    "votos": 1013,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 55.84
+  },
+  {
+    "parroquia": "SUCÚA",
+    "id": 6110,
+    "votos": 4783,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 56.93
+  }
+]

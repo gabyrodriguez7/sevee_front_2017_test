@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "ALSHI /9 DE OCTUBRE",
+        "id": 65,
+        "votos": 3,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.316
+    },
+    {
+        "parroquia": "CUCHAENTZA",
+        "id": 1250,
+        "votos": 2,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 0.0
+    },
+    {
+        "parroquia": "GRAL. PROA�O",
+        "id": 1345,
+        "votos": 15,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.8
+    },
+    {
+        "parroquia": "RIO BLANCO",
+        "id": 1730,
+        "votos": 3,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 0.451
+    },
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 3440,
+        "votos": 0,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 0.0
+    },
+    {
+        "parroquia": "SEVILLA DON BOSCO",
+        "id": 3830,
+        "votos": 35,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 0.8
+    },
+    {
+        "parroquia": "ZUNAC",
+        "id": 4360,
+        "votos": 0,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 0.0
+    },
+    {
+        "parroquia": "SINAI",
+        "id": 4485,
+        "votos": 11,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.0
+    },
+    {
+        "parroquia": "MACAS",
+        "id": 5615,
+        "votos": 283,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.3
+    }
+]

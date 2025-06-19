@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN JOSE DE TAMBO",
+        "id": 3500,
+        "votos": 52,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.7
+    },
+    {
+        "parroquia": "CHILLANES",
+        "id": 5245,
+        "votos": 228,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.2
+    }
+]

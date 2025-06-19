@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "TAISHA",
+        "id": 6700,
+        "votos": 148,
+        "candidato": "Rafael Correa Delgado",
+        "value": 11.67
+    },
+    {
+        "parroquia": "MACUMA",
+        "id": 2285,
+        "votos": 198,
+        "candidato": "Rafael Correa Delgado",
+        "value": 25.68
+    },
+    {
+        "parroquia": "TUTINENTZA",
+        "id": 1205,
+        "votos": 67,
+        "candidato": "Rafael Correa Delgado",
+        "value": 8.58
+    },
+    {
+        "parroquia": "HUASAGA /WAMPUIK",
+        "id": 595,
+        "votos": 68,
+        "candidato": "Rafael Correa Delgado",
+        "value": 12.32
+    }
+]

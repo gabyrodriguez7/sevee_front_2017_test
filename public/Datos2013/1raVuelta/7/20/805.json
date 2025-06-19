@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "BELLA VISTA",
+        "id": 235,
+        "votos": 3,
+        "candidato": "Zavala Nelson",
+        "value": 0.45
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 1985,
+        "votos": 2,
+        "candidato": "Zavala Nelson",
+        "value": 0.9
+    },
+    {
+        "parroquia": "PUERTO AYORA",
+        "id": 6505,
+        "votos": 69,
+        "candidato": "Zavala Nelson",
+        "value": 1.0
+    }
+]

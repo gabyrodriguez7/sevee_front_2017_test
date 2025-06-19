@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "PELILEO GRANDE /R. MINO",
+        "id": 5900,
+        "votos": 3,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.59
+    },
+    {
+        "parroquia": "PELILEO",
+        "id": 5780,
+        "votos": 54,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.37
+    },
+    {
+        "parroquia": "SALASACA",
+        "id": 3905,
+        "votos": 9,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.39
+    },
+    {
+        "parroquia": "HUAMBALO",
+        "id": 1630,
+        "votos": 17,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.41
+    },
+    {
+        "parroquia": "GARCIA MORENO",
+        "id": 1320,
+        "votos": 12,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.68
+    },
+    {
+        "parroquia": "EL ROSARIO /RUMICHACA",
+        "id": 1185,
+        "votos": 3,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.24
+    },
+    {
+        "parroquia": "CHIQUICHA",
+        "id": 900,
+        "votos": 3,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.3
+    },
+    {
+        "parroquia": "COTALO",
+        "id": 675,
+        "votos": 7,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.64
+    },
+    {
+        "parroquia": "BOLIVAR",
+        "id": 365,
+        "votos": 9,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.65
+    },
+    {
+        "parroquia": "BENITEZ /PACHANLICA",
+        "id": 335,
+        "votos": 7,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.55
+    }
+]

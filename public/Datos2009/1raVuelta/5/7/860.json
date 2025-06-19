@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "MARCABELI",
+        "id": 6570,
+        "votos": 11,
+        "candidato": "Melba Jacome",
+        "value": 0.41
+    },
+    {
+        "parroquia": "EL INGENIO",
+        "id": 160,
+        "votos": 1,
+        "candidato": "Melba Jacome",
+        "value": 0.5
+    }
+]

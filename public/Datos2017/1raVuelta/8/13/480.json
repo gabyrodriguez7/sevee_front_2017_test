@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "BOYACÁ",
+    "id": 380,
+    "votos": 97,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.81
+  },
+  {
+    "parroquia": "CHIBUNGA",
+    "id": 405,
+    "votos": 69,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.55
+  },
+  {
+    "parroquia": "CANUTO",
+    "id": 495,
+    "votos": 270,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.18
+  },
+  {
+    "parroquia": "CONVENTO",
+    "id": 640,
+    "votos": 86,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.57
+  },
+  {
+    "parroquia": "ELOY ALFARO",
+    "id": 1160,
+    "votos": 51,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.09
+  },
+  {
+    "parroquia": "RICAURTE",
+    "id": 3170,
+    "votos": 102,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.98
+  },
+  {
+    "parroquia": "SAN ANTONIO / DEL PELUDO",
+    "id": 3350,
+    "votos": 150,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.1
+  },
+  {
+    "parroquia": "CHONE",
+    "id": 5250,
+    "votos": 1530,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.76
+  },
+  {
+    "parroquia": "SANTA RITA",
+    "id": 6055,
+    "votos": 371,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.01
+  }
+]

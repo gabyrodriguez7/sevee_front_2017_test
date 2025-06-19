@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "LA CANDELARIA",
+    "id": 925,
+    "votos": 25,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.51
+  },
+  {
+    "parroquia": "EL ALTAR",
+    "id": 1110,
+    "votos": 98,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.97
+  },
+  {
+    "parroquia": "BILBAO",
+    "id": 1325,
+    "votos": 13,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.63
+  },
+  {
+    "parroquia": "MATUS",
+    "id": 2400,
+    "votos": 72,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.16
+  },
+  {
+    "parroquia": "PUELA",
+    "id": 2975,
+    "votos": 35,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.29
+  },
+  {
+    "parroquia": "SAN ANTONIO DE BAYUSHIG",
+    "id": 3335,
+    "votos": 84,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.37
+  },
+  {
+    "parroquia": "PENIPE",
+    "id": 5740,
+    "votos": 141,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.05
+  }
+]

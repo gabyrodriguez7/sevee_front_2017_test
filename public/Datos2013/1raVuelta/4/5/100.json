@@ -1,0 +1,107 @@
+[
+    {
+        "parroquia": "ALAQUEZ",
+        "id": 35,
+        "votos": 338,
+        "candidato": "Acosta Alberto",
+        "value": 7.9
+    },
+    {
+        "parroquia": "BELISARIO QUEVEDO",
+        "id": 315,
+        "votos": 372,
+        "candidato": "Acosta Alberto",
+        "value": 12.0
+    },
+    {
+        "parroquia": "GUAYTACAMA",
+        "id": 1485,
+        "votos": 296,
+        "candidato": "Acosta Alberto",
+        "value": 5.430196
+    },
+    {
+        "parroquia": "JOSEGUANGO BAJO",
+        "id": 1905,
+        "votos": 42,
+        "candidato": "Acosta Alberto",
+        "value": 4.1
+    },
+    {
+        "parroquia": "MULALO",
+        "id": 2480,
+        "votos": 267,
+        "candidato": "Acosta Alberto",
+        "value": 5.0
+    },
+    {
+        "parroquia": "11 DE NOVIEMBRE",
+        "id": 2620,
+        "votos": 79,
+        "candidato": "Acosta Alberto",
+        "value": 5.59
+    },
+    {
+        "parroquia": "POALO",
+        "id": 2920,
+        "votos": 732,
+        "candidato": "Acosta Alberto",
+        "value": 21.0
+    },
+    {
+        "parroquia": "SAN JUAN DE PASTOCALLE",
+        "id": 3530,
+        "votos": 324,
+        "candidato": "Acosta Alberto",
+        "value": 5.0
+    },
+    {
+        "parroquia": "TANICUCHI",
+        "id": 3965,
+        "votos": 426,
+        "candidato": "Acosta Alberto",
+        "value": 5.49
+    },
+    {
+        "parroquia": "TOACAZO",
+        "id": 4035,
+        "votos": 867,
+        "candidato": "Acosta Alberto",
+        "value": 15.28
+    },
+    {
+        "parroquia": "ELOY ALFARO / SAN FELIPE",
+        "id": 5310,
+        "votos": 1388,
+        "candidato": "Acosta Alberto",
+        "value": 7.37
+    },
+    {
+        "parroquia": "IGNACIO FLORES",
+        "id": 5465,
+        "votos": 801,
+        "candidato": "Acosta Alberto",
+        "value": 8.15
+    },
+    {
+        "parroquia": "JUAN MONTALVO",
+        "id": 5500,
+        "votos": 749,
+        "candidato": "Acosta Alberto",
+        "value": 7.39
+    },
+    {
+        "parroquia": "LA MATRIZ",
+        "id": 5555,
+        "votos": 1571,
+        "candidato": "Acosta Alberto",
+        "value": 8.0
+    },
+    {
+        "parroquia": "SAN BUENAVENTURA",
+        "id": 5940,
+        "votos": 294,
+        "candidato": "Acosta Alberto",
+        "value": 9.3
+    }
+]

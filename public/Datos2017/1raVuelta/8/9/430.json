@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "GRAL. VERNAZA",
+    "id": 1350,
+    "votos": 141,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.25
+  },
+  {
+    "parroquia": "JUNQUILLAL",
+    "id": 1595,
+    "votos": 86,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.78
+  },
+  {
+    "parroquia": "VICTORIA",
+    "id": 4220,
+    "votos": 44,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.76
+  },
+  {
+    "parroquia": "BOCANA",
+    "id": 5120,
+    "votos": 6,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.18
+  },
+  {
+    "parroquia": "CANDILEJOS",
+    "id": 5155,
+    "votos": 8,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.38
+  },
+  {
+    "parroquia": "SALITRE",
+    "id": 5200,
+    "votos": 580,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.57
+  },
+  {
+    "parroquia": "PARAÍSO",
+    "id": 5765,
+    "votos": 2,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.64
+  },
+  {
+    "parroquia": "SAN MATEO",
+    "id": 5990,
+    "votos": 2,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.75
+  }
+]

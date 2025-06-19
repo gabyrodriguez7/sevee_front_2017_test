@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "CÚBE / CHANCAMA",
+    "id": 700,
+    "votos": 100,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.73
+  },
+  {
+    "parroquia": "CHURA",
+    "id": 980,
+    "votos": 89,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.54
+  },
+  {
+    "parroquia": "LA UNIÓN",
+    "id": 1530,
+    "votos": 376,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.51
+  },
+  {
+    "parroquia": "MALIMPIA / GUAYLLABAMBA",
+    "id": 2345,
+    "votos": 822,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 13.21
+  },
+  {
+    "parroquia": "VICHE",
+    "id": 4230,
+    "votos": 148,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.86
+  },
+  {
+    "parroquia": "ROSA ZÁRATE",
+    "id": 5895,
+    "votos": 1613,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.19
+  }
+]

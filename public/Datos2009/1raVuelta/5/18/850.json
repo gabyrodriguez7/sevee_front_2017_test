@@ -1,0 +1,16 @@
+[
+                {
+                    "parroquia": "MOCHA",
+                    "id": 6560,
+                    "votos": 32,
+                    "candidato": "Melba Jacome",
+                    "value": 0.79
+                },
+                {
+                    "parroquia": "PINGUILI",
+                    "id": 4555,
+                    "votos": 14,
+                    "candidato": "Melba Jacome",
+                    "value": 3.64
+                }
+            ]

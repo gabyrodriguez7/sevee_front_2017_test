@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "CARACOL",
+        "id": 520,
+        "votos": 68,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.419
+    },
+    {
+        "parroquia": "FEBRES CORDERO",
+        "id": 1265,
+        "votos": 185,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.146
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 1525,
+        "votos": 83,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.4186
+    },
+    {
+        "parroquia": "PIMOCHA",
+        "id": 2875,
+        "votos": 132,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.6426
+    },
+    {
+        "parroquia": "CLEMENTE BAQUERIZO",
+        "id": 5215,
+        "votos": 1300,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.3627
+    },
+    {
+        "parroquia": "DR. CAMILO PONCE E.",
+        "id": 5285,
+        "votos": 680,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.3202
+    },
+    {
+        "parroquia": "BARREIRO /SANTA RITA",
+        "id": 6830,
+        "votos": 125,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.54013
+    },
+    {
+        "parroquia": "EL SALTO",
+        "id": 6835,
+        "votos": 18,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.23
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 325,
+        "votos": 47,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.13
+    },
+    {
+        "parroquia": "BELLAMARIA",
+        "id": 1665,
+        "votos": 13,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.72
+    },
+    {
+        "parroquia": "JAMBELI",
+        "id": 1815,
+        "votos": 3,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 0.94637224
+    },
+    {
+        "parroquia": "LA AVANZADA",
+        "id": 2005,
+        "votos": 46,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.495
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3330,
+        "votos": 12,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.26
+    },
+    {
+        "parroquia": "VICTORIA",
+        "id": 4215,
+        "votos": 13,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.199
+    },
+    {
+        "parroquia": "TORATA",
+        "id": 4525,
+        "votos": 47,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.7
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 6060,
+        "votos": 1193,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.52
+    },
+    {
+        "parroquia": "PUERTO JELI",
+        "id": 6670,
+        "votos": 10,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.89017341
+    },
+    {
+        "parroquia": "BALNEARIO JAMBELI",
+        "id": 6900,
+        "votos": 0,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 0.0
+    },
+    {
+        "parroquia": "JUMON",
+        "id": 6985,
+        "votos": 8,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.17
+    },
+    {
+        "parroquia": "NUEVO SANTA ROSA",
+        "id": 6990,
+        "votos": 15,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.74
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "MACARA",
+        "id": 5680,
+        "votos": 138,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.1
+    },
+    {
+        "parroquia": "GRAL.ELOY ALFARO",
+        "id": 5385,
+        "votos": 12,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.48
+    },
+    {
+        "parroquia": "SABIANGO",
+        "id": 3265,
+        "votos": 7,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.83
+    },
+    {
+        "parroquia": "LA VICTORIA",
+        "id": 2145,
+        "votos": 7,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.46
+    },
+    {
+        "parroquia": "LA RAMA",
+        "id": 2085,
+        "votos": 8,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.98
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "ABANIN",
+        "id": 5,
+        "votos": 457,
+        "candidato": "Correa Delgado Rafael",
+        "value": 54.8619
+    },
+    {
+        "parroquia": "GUANAZAN",
+        "id": 1420,
+        "votos": 982,
+        "candidato": "Correa Delgado Rafael",
+        "value": 59.988
+    },
+    {
+        "parroquia": "GUIZHAGUIÑA",
+        "id": 1425,
+        "votos": 363,
+        "candidato": "Correa Delgado Rafael",
+        "value": 49.658
+    },
+    {
+        "parroquia": "HUERTAS",
+        "id": 1655,
+        "votos": 737,
+        "candidato": "Correa Delgado Rafael",
+        "value": 56.736
+    },
+    {
+        "parroquia": "SINSAO",
+        "id": 1700,
+        "votos": 220,
+        "candidato": "Correa Delgado Rafael",
+        "value": 40.5157
+    },
+    {
+        "parroquia": "SALVIAS",
+        "id": 1750,
+        "votos": 120,
+        "candidato": "Correa Delgado Rafael",
+        "value": 32.172
+    },
+    {
+        "parroquia": "MALVAS",
+        "id": 2350,
+        "votos": 332,
+        "candidato": "Correa Delgado Rafael",
+        "value": 57.1429
+    },
+    {
+        "parroquia": "ARCAPAMBA",
+        "id": 4445,
+        "votos": 304,
+        "candidato": "Correa Delgado Rafael",
+        "value": 44.9704142
+    },
+    {
+        "parroquia": "MULUNCAY GRANDE",
+        "id": 4450,
+        "votos": 263,
+        "candidato": "Correa Delgado Rafael",
+        "value": 54.2268
+    },
+    {
+        "parroquia": "ZARUMA",
+        "id": 6310,
+        "votos": 3553,
+        "candidato": "Correa Delgado Rafael",
+        "value": 43.98
+    }
+]

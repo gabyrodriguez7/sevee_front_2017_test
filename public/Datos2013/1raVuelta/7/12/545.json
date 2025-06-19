@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "ZAPOTAL",
+        "id": 4330,
+        "votos": 62,
+        "candidato": "Zavala Nelson",
+        "value": 1.564077
+    },
+    {
+        "parroquia": "LOS ANGELES",
+        "id": 4585,
+        "votos": 4,
+        "candidato": "Zavala Nelson",
+        "value": 0.781
+    },
+    {
+        "parroquia": "CHACARITA",
+        "id": 4590,
+        "votos": 2,
+        "candidato": "Zavala Nelson",
+        "value": 0.346
+    },
+    {
+        "parroquia": "VENTANAS",
+        "id": 6235,
+        "votos": 698,
+        "candidato": "Zavala Nelson",
+        "value": 2.19538
+    },
+    {
+        "parroquia": "10 DE NOVIEMBRE",
+        "id": 7480,
+        "votos": 18,
+        "candidato": "Zavala Nelson",
+        "value": 2.57143
+    }
+]

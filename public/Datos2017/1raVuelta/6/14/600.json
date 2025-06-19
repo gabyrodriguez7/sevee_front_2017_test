@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "INDANZA",
+    "id": 1720,
+    "votos": 4,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.56
+  },
+  {
+    "parroquia": "SAN MIGUEL DE CONCHAY",
+    "id": 3250,
+    "votos": 2,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.78
+  },
+  {
+    "parroquia": "SAN ANTONIO",
+    "id": 3320,
+    "votos": 3,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.44
+  },
+  {
+    "parroquia": "SANTA SUSANA DE CHIVIAZA",
+    "id": 3760,
+    "votos": 0,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0
+  },
+  {
+    "parroquia": "YUNGANZA /EL ROSARIO",
+    "id": 4305,
+    "votos": 3,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.56
+  },
+  {
+    "parroquia": "GRAL. LEONIDAS PLAZA",
+    "id": 5390,
+    "votos": 14,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.45
+  }
+]

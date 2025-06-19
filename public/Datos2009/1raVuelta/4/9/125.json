@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "COLIMES",
+        "id": 5365,
+        "votos": 4520,
+        "candidato": "Rafael Correa Delgado",
+        "value": 51.17
+    },
+    {
+        "parroquia": "SAN JACINTO",
+        "id": 1435,
+        "votos": 453,
+        "candidato": "Rafael Correa Delgado",
+        "value": 60.56
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "EL CORAZON",
+        "id": 5305,
+        "votos": 87,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.66
+    },
+    {
+        "parroquia": "RAMON CAMPAÑA",
+        "id": 3155,
+        "votos": 7,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.4
+    },
+    {
+        "parroquia": "PINLLOPATA",
+        "id": 2890,
+        "votos": 4,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.08
+    },
+    {
+        "parroquia": "MORASPUNGO",
+        "id": 2460,
+        "votos": 99,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.26
+    }
+]

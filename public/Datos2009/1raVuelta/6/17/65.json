@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "JUAN MONTALVO",
+    "id": 5495,
+    "votos": 21,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.64
+  },
+  {
+    "parroquia": "CAYAMBE",
+    "id": 5190,
+    "votos": 557,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 2.48
+  },
+  {
+    "parroquia": "AYORA",
+    "id": 5060,
+    "votos": 38,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.61
+  },
+  {
+    "parroquia": "STA.ROSA DE CUSUBAMBA",
+    "id": 3735,
+    "votos": 16,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.02
+  },
+  {
+    "parroquia": "OTON",
+    "id": 2635,
+    "votos": 20,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.57
+  },
+  {
+    "parroquia": "OLMEDO/PESILLO",
+    "id": 2600,
+    "votos": 45,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.26
+  },
+  {
+    "parroquia": "CANGAHUA",
+    "id": 480,
+    "votos": 52,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.13
+  },
+  {
+    "parroquia": "ASCAZUBI",
+    "id": 165,
+    "votos": 39,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.95
+  }
+]

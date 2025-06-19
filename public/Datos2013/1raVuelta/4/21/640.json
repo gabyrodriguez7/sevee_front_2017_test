@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "EL PLAYON DE SN. FRANCISCO",
+        "id": 1170,
+        "votos": 56,
+        "candidato": "Acosta Alberto",
+        "value": 4.674457
+    },
+    {
+        "parroquia": "LA SOFIA",
+        "id": 2095,
+        "votos": 1,
+        "candidato": "Acosta Alberto",
+        "value": 1.28
+    },
+    {
+        "parroquia": "ROSA FLORIDA",
+        "id": 3220,
+        "votos": 9,
+        "candidato": "Acosta Alberto",
+        "value": 3.103448
+    },
+    {
+        "parroquia": "SANTA BARBARA",
+        "id": 3690,
+        "votos": 15,
+        "candidato": "Acosta Alberto",
+        "value": 2.66
+    },
+    {
+        "parroquia": "LA BONITA",
+        "id": 5525,
+        "votos": 27,
+        "candidato": "Acosta Alberto",
+        "value": 4.78
+    }
+]

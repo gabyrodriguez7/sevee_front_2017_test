@@ -1,0 +1,30 @@
+[
+	{
+		"parroquia": "CURTINCAPAC",
+		"id": 740,
+		"votos": 65,
+		"candidato": "Lasso Guillermo",
+		"value": 19.0
+	},
+	{
+		"parroquia": "SALATI",
+		"id": 3275,
+		"votos": 152,
+		"candidato": "Lasso Guillermo",
+		"value": 28.25
+	},
+	{
+		"parroquia": "MORALES",
+		"id": 4520,
+		"votos": 198,
+		"candidato": "Lasso Guillermo",
+		"value": 46.37
+	},
+	{
+		"parroquia": "PORTOVELO",
+		"id": 5850,
+		"votos": 2182,
+		"candidato": "Lasso Guillermo",
+		"value": 35.0
+	}
+]

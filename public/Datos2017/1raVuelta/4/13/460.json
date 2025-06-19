@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "BELLAVISTA",
+    "id": 330,
+    "votos": 246,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.78
+  },
+  {
+    "parroquia": "ARQ.SIXTO DURÁN BALLÉN",
+    "id": 1570,
+    "votos": 116,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.78
+  },
+  {
+    "parroquia": "NOBOA",
+    "id": 2555,
+    "votos": 403,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.64
+  },
+  {
+    "parroquia": "SUCRE",
+    "id": 6105,
+    "votos": 708,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.95
+  }
+]

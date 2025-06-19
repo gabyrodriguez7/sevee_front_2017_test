@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "SIGSIG",
+        "id": 6085,
+        "votos": 164,
+        "candidato": "Alvaro Noboa",
+        "value": 2.85
+    },
+    {
+        "parroquia": "SAN JOSE DE RARANGA",
+        "id": 3495,
+        "votos": 14,
+        "candidato": "Alvaro Noboa",
+        "value": 2.15
+    },
+    {
+        "parroquia": "SAN BARTOLOME",
+        "id": 3360,
+        "votos": 25,
+        "candidato": "Alvaro Noboa",
+        "value": 1.75
+    },
+    {
+        "parroquia": "LUDO",
+        "id": 2215,
+        "votos": 40,
+        "candidato": "Alvaro Noboa",
+        "value": 3.68
+    },
+    {
+        "parroquia": "GUEL",
+        "id": 1490,
+        "votos": 6,
+        "candidato": "Alvaro Noboa",
+        "value": 1.11
+    },
+    {
+        "parroquia": "GIMA",
+        "id": 1355,
+        "votos": 67,
+        "candidato": "Alvaro Noboa",
+        "value": 4.52
+    },
+    {
+        "parroquia": "CUTCHIL",
+        "id": 750,
+        "votos": 13,
+        "candidato": "Alvaro Noboa",
+        "value": 2.26
+    }
+]

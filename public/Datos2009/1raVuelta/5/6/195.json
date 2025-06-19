@@ -1,0 +1,114 @@
+[
+    {
+        "parroquia": "YARUQUIES",
+        "id": 6290,
+        "votos": 49,
+        "candidato": "Melba Jacome",
+        "value": 1.46
+    },
+    {
+        "parroquia": "VELOZ",
+        "id": 6230,
+        "votos": 259,
+        "candidato": "Melba Jacome",
+        "value": 2.19
+    },
+    {
+        "parroquia": "VELASCO",
+        "id": 6220,
+        "votos": 368,
+        "candidato": "Melba Jacome",
+        "value": 1.78
+    },
+    {
+        "parroquia": "MALDONADO",
+        "id": 5630,
+        "votos": 367,
+        "candidato": "Melba Jacome",
+        "value": 1.91
+    },
+    {
+        "parroquia": "LIZARZABURU",
+        "id": 5590,
+        "votos": 666,
+        "candidato": "Melba Jacome",
+        "value": 2.36
+    },
+    {
+        "parroquia": "SAN LUIS",
+        "id": 3560,
+        "votos": 47,
+        "candidato": "Melba Jacome",
+        "value": 1.45
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3515,
+        "votos": 79,
+        "candidato": "Melba Jacome",
+        "value": 1.88
+    },
+    {
+        "parroquia": "QUIMIAG",
+        "id": 3095,
+        "votos": 40,
+        "candidato": "Melba Jacome",
+        "value": 1.36
+    },
+    {
+        "parroquia": "PUNIN",
+        "id": 3040,
+        "votos": 80,
+        "candidato": "Melba Jacome",
+        "value": 2.47
+    },
+    {
+        "parroquia": "PUNGALA",
+        "id": 3035,
+        "votos": 73,
+        "candidato": "Melba Jacome",
+        "value": 2.71
+    },
+    {
+        "parroquia": "LICTO",
+        "id": 2165,
+        "votos": 124,
+        "candidato": "Melba Jacome",
+        "value": 2.9
+    },
+    {
+        "parroquia": "LICAN",
+        "id": 2160,
+        "votos": 40,
+        "candidato": "Melba Jacome",
+        "value": 1.57
+    },
+    {
+        "parroquia": "FLORES",
+        "id": 1280,
+        "votos": 72,
+        "candidato": "Melba Jacome",
+        "value": 2.71
+    },
+    {
+        "parroquia": "CUBIJIES",
+        "id": 705,
+        "votos": 16,
+        "candidato": "Melba Jacome",
+        "value": 1.3
+    },
+    {
+        "parroquia": "CALPI",
+        "id": 445,
+        "votos": 55,
+        "candidato": "Melba Jacome",
+        "value": 1.55
+    },
+    {
+        "parroquia": "CACHA",
+        "id": 420,
+        "votos": 50,
+        "candidato": "Melba Jacome",
+        "value": 3.1
+    }
+]

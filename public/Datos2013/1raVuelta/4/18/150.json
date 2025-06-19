@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "LLIGUA",
+        "id": 2270,
+        "votos": 3,
+        "candidato": "Acosta Alberto",
+        "value": 1.12
+    },
+    {
+        "parroquia": "RIO NEGRO",
+        "id": 3190,
+        "votos": 21,
+        "candidato": "Acosta Alberto",
+        "value": 2.83
+    },
+    {
+        "parroquia": "RIO VERDE",
+        "id": 3200,
+        "votos": 8,
+        "candidato": "Acosta Alberto",
+        "value": 1.0
+    },
+    {
+        "parroquia": "ULBA",
+        "id": 4135,
+        "votos": 32,
+        "candidato": "Acosta Alberto",
+        "value": 3.0
+    },
+    {
+        "parroquia": "BA�OS",
+        "id": 5105,
+        "votos": 323,
+        "candidato": "Acosta Alberto",
+        "value": 3.068
+    }
+]

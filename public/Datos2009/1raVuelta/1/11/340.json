@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "AMALUZA",
+    "id": 5020,
+    "votos": 37,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.38
+  },
+  {
+    "parroquia": "27 DE ABRIL /LA NARANJA",
+    "id": 4460,
+    "votos": 8,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.11
+  },
+  {
+    "parroquia": "SANTA TERESITA",
+    "id": 3765,
+    "votos": 5,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 0.95
+  },
+  {
+    "parroquia": "JIMBURA",
+    "id": 1845,
+    "votos": 12,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.85
+  },
+  {
+    "parroquia": "EL AIRO",
+    "id": 1645,
+    "votos": 3,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 0.89
+  },
+  {
+    "parroquia": "EL INGENIO",
+    "id": 790,
+    "votos": 4,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 0.69
+  },
+  {
+    "parroquia": "BELLAVISTA",
+    "id": 320,
+    "votos": 2,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 0.26
+  }
+]

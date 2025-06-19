@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "JIJON Y CAAMAÑO",
+        "id": 1835,
+        "votos": 689,
+        "candidato": "Correa Delgado Rafael",
+        "value": 70.38
+    },
+    {
+        "parroquia": "JUAN MONTALVO",
+        "id": 1875,
+        "votos": 760,
+        "candidato": "Correa Delgado Rafael",
+        "value": 86.7
+    },
+    {
+        "parroquia": "LA CONCEPCION",
+        "id": 2010,
+        "votos": 1735,
+        "candidato": "Correa Delgado Rafael",
+        "value": 88.0
+    },
+    {
+        "parroquia": "MIRA",
+        "id": 5685,
+        "votos": 2962,
+        "candidato": "Correa Delgado Rafael",
+        "value": 67.0
+    }
+]

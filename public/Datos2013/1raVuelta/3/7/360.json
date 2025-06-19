@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "ABANIN",
+        "id": 5,
+        "votos": 12,
+        "candidato": "Wray Norman",
+        "value": 1.4406
+    },
+    {
+        "parroquia": "GUANAZAN",
+        "id": 1420,
+        "votos": 13,
+        "candidato": "Wray Norman",
+        "value": 0.794
+    },
+    {
+        "parroquia": "GUIZHAGUIÑA",
+        "id": 1425,
+        "votos": 8,
+        "candidato": "Wray Norman",
+        "value": 1.094
+    },
+    {
+        "parroquia": "HUERTAS",
+        "id": 1655,
+        "votos": 20,
+        "candidato": "Wray Norman",
+        "value": 1.54
+    },
+    {
+        "parroquia": "SINSAO",
+        "id": 1700,
+        "votos": 4,
+        "candidato": "Wray Norman",
+        "value": 0.7366
+    },
+    {
+        "parroquia": "SALVIAS",
+        "id": 1750,
+        "votos": 2,
+        "candidato": "Wray Norman",
+        "value": 0.536
+    },
+    {
+        "parroquia": "MALVAS",
+        "id": 2350,
+        "votos": 9,
+        "candidato": "Wray Norman",
+        "value": 1.5491
+    },
+    {
+        "parroquia": "ARCAPAMBA",
+        "id": 4445,
+        "votos": 8,
+        "candidato": "Wray Norman",
+        "value": 1.183431953
+    },
+    {
+        "parroquia": "MULUNCAY GRANDE",
+        "id": 4450,
+        "votos": 2,
+        "candidato": "Wray Norman",
+        "value": 0.4124
+    },
+    {
+        "parroquia": "ZARUMA",
+        "id": 6310,
+        "votos": 96,
+        "candidato": "Wray Norman",
+        "value": 1.19
+    }
+]

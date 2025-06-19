@@ -1,0 +1,66 @@
+[
+	{
+		"parroquia": "CAPIRO",
+		"id": 505,
+		"votos": 155,
+		"candidato": "Lasso Guillermo",
+		"value": 17.357223
+	},
+	{
+		"parroquia": "SARACAY",
+		"id": 1385,
+		"votos": 214,
+		"candidato": "Lasso Guillermo",
+		"value": 23.75138735
+	},
+	{
+		"parroquia": "LA BOCANA",
+		"id": 2230,
+		"votos": 194,
+		"candidato": "Lasso Guillermo",
+		"value": 25.6
+	},
+	{
+		"parroquia": "MOROMORO",
+		"id": 2465,
+		"votos": 249,
+		"candidato": "Lasso Guillermo",
+		"value": 29.3
+	},
+	{
+		"parroquia": "PIEDRAS",
+		"id": 2850,
+		"votos": 116,
+		"candidato": "Lasso Guillermo",
+		"value": 26.303855
+	},
+	{
+		"parroquia": "SAN ROQUE",
+	"id": 3650,
+	"votos": 73,
+	"candidato": "Lasso Guillermo",
+	"value": 16.8203
+	},
+	{
+	"parroquia": "PIÑAS",
+	"id": 5790,
+	"votos": 3687,
+	"candidato": "Lasso Guillermo",
+	"value": 31.510127
+	},
+	{
+	"parroquia": "PIÑAS GRANDE",
+	"id": 6675,
+	"votos": 6,
+	"candidato": "Lasso Guillermo",
+	"value": 16.2
+	},
+	{
+	"parroquia": "LA SUSAYA",
+	"id": 6680,
+	"votos": 35,
+	"candidato": "Lasso Guillermo",
+	"value": 37.634409
+	}
+	]
+		

@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "LOURDES",
+        "id": 5595,
+        "votos": 272,
+        "candidato": "Rafael Correa Delgado",
+        "value": 46.1
+    },
+    {
+        "parroquia": "CATACOCHA",
+        "id": 5180,
+        "votos": 4141,
+        "candidato": "Rafael Correa Delgado",
+        "value": 57.31
+    },
+    {
+        "parroquia": "ORIANGA",
+        "id": 2630,
+        "votos": 485,
+        "candidato": "Rafael Correa Delgado",
+        "value": 66.98
+    },
+    {
+        "parroquia": "LAURO GUERRERO",
+        "id": 2140,
+        "votos": 404,
+        "candidato": "Rafael Correa Delgado",
+        "value": 58.89
+    },
+    {
+        "parroquia": "GUACHANAMA",
+        "id": 1380,
+        "votos": 182,
+        "candidato": "Rafael Correa Delgado",
+        "value": 58.33
+    },
+    {
+        "parroquia": "YAMANA",
+        "id": 1000,
+        "votos": 258,
+        "candidato": "Rafael Correa Delgado",
+        "value": 64.33
+    },
+    {
+        "parroquia": "CASANGA",
+        "id": 995,
+        "votos": 204,
+        "candidato": "Rafael Correa Delgado",
+        "value": 68.91
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 545,
+        "votos": 193,
+        "candidato": "Rafael Correa Delgado",
+        "value": 69.17
+    },
+    {
+        "parroquia": "CANGONAMA",
+        "id": 485,
+        "votos": 288,
+        "candidato": "Rafael Correa Delgado",
+        "value": 64.14
+    }
+]

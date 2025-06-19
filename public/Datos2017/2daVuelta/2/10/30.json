@@ -1,0 +1,86 @@
+[
+  {
+    "parroquia": "AMBUQUÍ/CHOTA",
+    "id": 100,
+    "votos": 2902,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 76.79
+  },
+  {
+    "parroquia": "ANGOCHAGUA",
+    "id": 130,
+    "votos": 1603,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 57.6
+  },
+  {
+    "parroquia": "CAROLINA /GUALLUPI",
+    "id": 530,
+    "votos": 1305,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 69.38
+  },
+  {
+    "parroquia": "LA ESPERANZA",
+    "id": 2020,
+    "votos": 3164,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 57.6
+  },
+  {
+    "parroquia": "LITA",
+    "id": 2185,
+    "votos": 1305,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 59.62
+  },
+  {
+    "parroquia": "SALINAS",
+    "id": 3290,
+    "votos": 1057,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 78.24
+  },
+  {
+    "parroquia": "SAN ANTONIO",
+    "id": 3315,
+    "votos": 6672,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 56.3
+  },
+  {
+    "parroquia": "CARANQUI",
+    "id": 5165,
+    "votos": 5060,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 47.6
+  },
+  {
+    "parroquia": "GUAYAQUIL DE ALPACHACA",
+    "id": 5440,
+    "votos": 4101,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 59.82
+  },
+  {
+    "parroquia": "SAGRARIO",
+    "id": 5915,
+    "votos": 20130,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 49.24
+  },
+  {
+    "parroquia": "SAN FRANCISCO",
+    "id": 5960,
+    "votos": 18246,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 45.67
+  },
+  {
+    "parroquia": "LA DOLOROSA DEL PRIORATO",
+    "id": 6780,
+    "votos": 1145,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 58.15
+  }
+]

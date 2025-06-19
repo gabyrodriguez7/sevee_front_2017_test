@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "GUAYAS / PUERTO NUEVO",
+    "id": 1470,
+    "votos": 137,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 4.55
+  },
+  {
+    "parroquia": "EL ROSARIO",
+    "id": 1640,
+    "votos": 105,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 4.08
+  },
+  {
+    "parroquia": "VELASCO IBARRA",
+    "id": 6225,
+    "votos": 2596,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 6.14
+  }
+]

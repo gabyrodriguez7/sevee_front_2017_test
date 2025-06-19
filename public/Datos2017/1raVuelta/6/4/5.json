@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "EL CARMELO/EL PUN/",
+    "id": 1125,
+    "votos": 9,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.55
+  },
+  {
+    "parroquia": "EL CHICAL",
+    "id": 1195,
+    "votos": 14,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.09
+  },
+  {
+    "parroquia": "SANTA MARTHA DE CUBA",
+    "id": 1765,
+    "votos": 3,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.2
+  },
+  {
+    "parroquia": "JULIO ANDRADE",
+    "id": 1885,
+    "votos": 58,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.93
+  },
+  {
+    "parroquia": "MALDONADO",
+    "id": 2340,
+    "votos": 6,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.65
+  },
+  {
+    "parroquia": "PIOTER",
+    "id": 2900,
+    "votos": 3,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.57
+  },
+  {
+    "parroquia": "TOBAR DONOSO",
+    "id": 4040,
+    "votos": 5,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.23
+  },
+  {
+    "parroquia": "TUFIÑO",
+    "id": 4070,
+    "votos": 9,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.5
+  },
+  {
+    "parroquia": "URBINA",
+    "id": 4130,
+    "votos": 5,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.58
+  },
+  {
+    "parroquia": "GONZALEZ SUÁREZ",
+    "id": 5415,
+    "votos": 118,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.61
+  },
+  {
+    "parroquia": "TULCÁN",
+    "id": 6165,
+    "votos": 161,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.68
+  }
+]

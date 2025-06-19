@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "VALLE DE LA VIRGEN",
+        "id": 185,
+        "votos": 36,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.3453
+    },
+    {
+        "parroquia": "SABANILLA",
+        "id": 1670,
+        "votos": 43,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.21
+    },
+    {
+        "parroquia": "PEDRO CARBO",
+        "id": 5735,
+        "votos": 442,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.9626
+    }
+]

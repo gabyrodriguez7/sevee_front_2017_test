@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "GUASAGANDA",
+    "id": 1500,
+    "votos": 41,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.29
+  },
+  {
+    "parroquia": "PUCAYACO",
+    "id": 2965,
+    "votos": 26,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.56
+  },
+  {
+    "parroquia": "LA MANÁ",
+    "id": 6535,
+    "votos": 589,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.89
+  },
+  {
+    "parroquia": "EL CARMEN",
+    "id": 6880,
+    "votos": 51,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.63
+  },
+  {
+    "parroquia": "EL TRIUNFO",
+    "id": 6895,
+    "votos": 67,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.19
+  }
+]

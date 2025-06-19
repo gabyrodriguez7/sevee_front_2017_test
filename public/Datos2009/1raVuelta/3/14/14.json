@@ -1,0 +1,74 @@
+[
+    {
+        "id": 590,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "votos": 30,
+        "value": 0.19
+    },
+    {
+        "id": 595,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "votos": 22,
+        "value": 0.33
+    },
+    {
+        "id": 600,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "votos": 21,
+        "value": 0.5
+    },
+    {
+        "id": 605,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "votos": 12,
+        "value": 0.29
+    },
+    {
+        "id": 610,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "votos": 8,
+        "value": 0.1
+    },
+    {
+        "id": 611,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "votos": 5,
+        "value": 0.21
+    },
+    {
+        "id": 615,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "votos": 6,
+        "value": 0.18
+    },
+    {
+        "id": 795,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "votos": 8,
+        "value": 0.31
+    },
+    {
+        "id": 796,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "votos": 1,
+        "value": 0.1
+    },
+    {
+        "id": 797,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "votos": 2,
+        "value": 0.1
+    },
+    {
+        "id": 925,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "votos": 4,
+        "value": 0.23
+    },
+    {
+        "id": 926,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "votos": 10,
+        "value": 0.29
+    }
+]

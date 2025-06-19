@@ -1,0 +1,114 @@
+[
+    {
+        "parroquia": "SIMON BOLIVAR",
+        "id": 6910,
+        "votos": 52,
+        "candidato": "Alvaro Noboa",
+        "value": 8.41
+    },
+    {
+        "parroquia": "FRANCISCO PACHECO",
+        "id": 6775,
+        "votos": 49,
+        "candidato": "Alvaro Noboa",
+        "value": 7.16
+    },
+    {
+        "parroquia": "18 DE OCTUBRE",
+        "id": 6770,
+        "votos": 17,
+        "candidato": "Alvaro Noboa",
+        "value": 5.57
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 6585,
+        "votos": 352,
+        "candidato": "Alvaro Noboa",
+        "value": 10.39
+    },
+    {
+        "parroquia": "PICOAZA",
+        "id": 5845,
+        "votos": 2035,
+        "candidato": "Alvaro Noboa",
+        "value": 20.79
+    },
+    {
+        "parroquia": "PORTOVIEJO",
+        "id": 5795,
+        "votos": 2193,
+        "candidato": "Alvaro Noboa",
+        "value": 9.3
+    },
+    {
+        "parroquia": "12 DE MARZO",
+        "id": 5280,
+        "votos": 2405,
+        "candidato": "Alvaro Noboa",
+        "value": 8.47
+    },
+    {
+        "parroquia": "COLON",
+        "id": 5265,
+        "votos": 795,
+        "candidato": "Alvaro Noboa",
+        "value": 8.53
+    },
+    {
+        "parroquia": "ANDRES DE VERA",
+        "id": 5030,
+        "votos": 3036,
+        "candidato": "Alvaro Noboa",
+        "value": 8.62
+    },
+    {
+        "parroquia": "SAN PLACIDO",
+        "id": 3625,
+        "votos": 363,
+        "candidato": "Alvaro Noboa",
+        "value": 8.02
+    },
+    {
+        "parroquia": "RIO CHICO",
+        "id": 3185,
+        "votos": 440,
+        "candidato": "Alvaro Noboa",
+        "value": 7.54
+    },
+    {
+        "parroquia": "PUEBLO NUEVO",
+        "id": 2970,
+        "votos": 81,
+        "candidato": "Alvaro Noboa",
+        "value": 4.9
+    },
+    {
+        "parroquia": "CHIRIJOS",
+        "id": 1925,
+        "votos": 46,
+        "candidato": "Alvaro Noboa",
+        "value": 7.4
+    },
+    {
+        "parroquia": "CRUCITA",
+        "id": 770,
+        "votos": 789,
+        "candidato": "Alvaro Noboa",
+        "value": 15.22
+    },
+    {
+        "parroquia": "ALHAJUELA /BAJO GRANDE",
+        "id": 50,
+        "votos": 289,
+        "candidato": "Alvaro Noboa",
+        "value": 9.88
+    },
+    {
+        "parroquia": "ABDON CALDERON",
+        "id": 10,
+        "votos": 551,
+        "candidato": "Alvaro Noboa",
+        "value": 7.48
+    }
+]

@@ -1,0 +1,23 @@
+[
+                {
+                    "parroquia": "PICHINCHA /GERMUD",
+                    "id": 6550,
+                    "votos": 73,
+                    "candidato": "Melba Jacome",
+                    "value": 0.58
+                },
+                {
+                    "parroquia": "BARRAGANETE",
+                    "id": 1065,
+                    "votos": 7,
+                    "candidato": "Melba Jacome",
+                    "value": 0.95
+                },
+                {
+                    "parroquia": "SAN SEBASTIAN",
+                    "id": 1060,
+                    "votos": 14,
+                    "candidato": "Melba Jacome",
+                    "value": 0.66
+                }
+            ]

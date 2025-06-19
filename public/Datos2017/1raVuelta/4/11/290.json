@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "EL TAMBO",
+    "id": 1200,
+    "votos": 130,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.93
+  },
+  {
+    "parroquia": "GUAYQUICHUMA",
+    "id": 1480,
+    "votos": 26,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.32
+  },
+  {
+    "parroquia": "SAN PEDRO DE LA BENDITA",
+    "id": 3610,
+    "votos": 127,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.88
+  },
+  {
+    "parroquia": "ZAMBI",
+    "id": 4455,
+    "votos": 43,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.74
+  },
+  {
+    "parroquia": "CATAMAYO",
+    "id": 5270,
+    "votos": 1508,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.72
+  },
+  {
+    "parroquia": "SAN JOSÉ",
+    "id": 6825,
+    "votos": 70,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.94
+  }
+]

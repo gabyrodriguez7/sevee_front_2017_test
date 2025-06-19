@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "EL TAMBO",
+        "id": 1200,
+        "votos": 21,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "GUAYQUICHUMA",
+        "id": 1480,
+        "votos": 0,
+        "candidato": "Wray Norman",
+        "value": 0.0
+    },
+    {
+        "parroquia": "SAN PEDRO DE LA BENDITA",
+        "id": 3610,
+        "votos": 16,
+        "candidato": "Wray Norman",
+        "value": 1.46
+    },
+    {
+        "parroquia": "ZAMBI",
+        "id": 4455,
+        "votos": 7,
+        "candidato": "Wray Norman",
+        "value": 2.128
+    },
+    {
+        "parroquia": "CATAMAYO",
+        "id": 5270,
+        "votos": 103,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "SAN JOSE",
+        "id": 6825,
+        "votos": 0,
+        "candidato": "Wray Norman",
+        "value": 0.0
+    }
+]

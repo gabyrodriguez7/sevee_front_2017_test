@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "COSANGA",
+        "id": 670,
+        "votos": 67,
+        "candidato": "Gutierrez Lucio",
+        "value": 19.5
+    },
+    {
+        "parroquia": "CUYUJA",
+        "id": 765,
+        "votos": 97,
+        "candidato": "Gutierrez Lucio",
+        "value": 29.0
+    },
+    {
+        "parroquia": "PAPALLACTA",
+        "id": 2770,
+        "votos": 67,
+        "candidato": "Gutierrez Lucio",
+        "value": 15.5452436
+    },
+    {
+        "parroquia": "SAN FRANCISCO DE BORJA",
+        "id": 3395,
+        "votos": 283,
+        "candidato": "Gutierrez Lucio",
+        "value": 22.0
+    },
+    {
+        "parroquia": "SUMACO",
+        "id": 3890,
+        "votos": 31,
+        "candidato": "Gutierrez Lucio",
+        "value": 23.0
+    },
+    {
+        "parroquia": "BAEZA",
+        "id": 5090,
+        "votos": 229,
+        "candidato": "Gutierrez Lucio",
+        "value": 17.0
+    }
+]

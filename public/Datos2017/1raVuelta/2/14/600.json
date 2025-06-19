@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "INDANZA",
+    "id": 1720,
+    "votos": 36,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.06
+  },
+  {
+    "parroquia": "SAN MIGUEL DE CONCHAY",
+    "id": 3250,
+    "votos": 14,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.49
+  },
+  {
+    "parroquia": "SAN ANTONIO",
+    "id": 3320,
+    "votos": 78,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 11.42
+  },
+  {
+    "parroquia": "SANTA SUSANA DE CHIVIAZA",
+    "id": 3760,
+    "votos": 21,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.47
+  },
+  {
+    "parroquia": "YUNGANZA /EL ROSARIO",
+    "id": 4305,
+    "votos": 24,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.49
+  },
+  {
+    "parroquia": "GRAL. LEONIDAS PLAZA",
+    "id": 5390,
+    "votos": 214,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.8
+  }
+]

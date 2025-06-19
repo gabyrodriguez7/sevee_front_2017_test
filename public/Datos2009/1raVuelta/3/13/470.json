@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "LODANA",
+        "id": 6725,
+        "votos": 3,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.58
+    },
+    {
+        "parroquia": "SANTA ANA",
+        "id": 6030,
+        "votos": 95,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.72
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 2135,
+        "votos": 24,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 1.13
+    },
+    {
+        "parroquia": "HONORATO VASQUEZ",
+        "id": 1610,
+        "votos": 11,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.47
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 1105,
+        "votos": 11,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.88
+    },
+    {
+        "parroquia": "AYACUCHO",
+        "id": 220,
+        "votos": 15,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.43
+    }
+]

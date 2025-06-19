@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "PUERTO PECHICHE",
+    "id": 3015,
+    "votos": 55,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.06
+  },
+  {
+    "parroquia": "SAN JUAN",
+    "id": 3510,
+    "votos": 205,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.98
+  },
+  {
+    "parroquia": "PUEBLO VIEJO",
+    "id": 5800,
+    "votos": 150,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.69
+  }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "EL RETIRO",
+        "id": 255,
+        "votos": 44,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.6
+    },
+    {
+        "parroquia": "LA PROVIDENCIA",
+        "id": 5565,
+        "votos": 183,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.9
+    },
+    {
+        "parroquia": "MACHALA",
+        "id": 5625,
+        "votos": 4945,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.2
+    },
+    {
+        "parroquia": "PUERTO BOLIVAR",
+        "id": 5805,
+        "votos": 393,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.41
+    },
+    {
+        "parroquia": "9 DE MAYO",
+        "id": 6490,
+        "votos": 94,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.1
+    },
+    {
+        "parroquia": "EL CAMBIO",
+        "id": 6795,
+        "votos": 177,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.9
+    }
+]

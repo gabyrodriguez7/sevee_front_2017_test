@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 320,
+        "votos": 73,
+        "candidato": "Gutierrez Lucio",
+        "value": 7.3
+    },
+    {
+        "parroquia": "EL INGENIO",
+        "id": 790,
+        "votos": 39,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.5
+    },
+    {
+        "parroquia": "EL AIRO",
+        "id": 1645,
+        "votos": 46,
+        "candidato": "Gutierrez Lucio",
+        "value": 10.46
+    },
+    {
+        "parroquia": "JIMBURA",
+        "id": 1845,
+        "votos": 145,
+        "candidato": "Gutierrez Lucio",
+        "value": 14.8718
+    },
+    {
+        "parroquia": "SANTA TERESITA",
+        "id": 3765,
+        "votos": 53,
+        "candidato": "Gutierrez Lucio",
+        "value": 7.16
+    },
+    {
+        "parroquia": "27 DE ABRIL /LA NARANJA",
+        "id": 4460,
+        "votos": 110,
+        "candidato": "Gutierrez Lucio",
+        "value": 11.42
+    },
+    {
+        "parroquia": "AMALUZA",
+        "id": 5020,
+        "votos": 252,
+        "candidato": "Gutierrez Lucio",
+        "value": 8.0
+    }
+]

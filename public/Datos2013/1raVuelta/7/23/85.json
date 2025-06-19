@@ -1,0 +1,100 @@
+[
+    {
+        "parroquia": "ALLURIQUIN",
+        "id": 75,
+        "votos": 32,
+        "candidato": "Zavala Nelson",
+        "value": 0.646
+    },
+    {
+        "parroquia": "VALLE HERMOSO",
+        "id": 305,
+        "votos": 24,
+        "candidato": "Zavala Nelson",
+        "value": 0.655
+    },
+    {
+        "parroquia": "LUZ DE AMERICA",
+        "id": 1755,
+        "votos": 13,
+        "candidato": "Zavala Nelson",
+        "value": 0.45
+    },
+    {
+        "parroquia": "SAN JACINTO DEL BUA",
+        "id": 1970,
+        "votos": 23,
+        "candidato": "Zavala Nelson",
+        "value": 0.478
+    },
+    {
+        "parroquia": "EL ESFUERZO",
+        "id": 1990,
+        "votos": 17,
+        "candidato": "Zavala Nelson",
+        "value": 0.7
+    },
+    {
+        "parroquia": "SANTA MARIA DEL TOACHI",
+        "id": 2045,
+        "votos": 19,
+        "candidato": "Zavala Nelson",
+        "value": 1.0
+    },
+    {
+        "parroquia": "PUERTO LIMON",
+        "id": 4440,
+        "votos": 30,
+        "candidato": "Zavala Nelson",
+        "value": 1.0
+    },
+    {
+        "parroquia": "ABRAHAM CALAZACON",
+        "id": 5730,
+        "votos": 93,
+        "candidato": "Zavala Nelson",
+        "value": 1.0
+    },
+    {
+        "parroquia": "BOMBOLI",
+        "id": 5860,
+        "votos": 125,
+        "candidato": "Zavala Nelson",
+        "value": 0.65503
+    },
+    {
+        "parroquia": "RIO VERDE",
+        "id": 5865,
+        "votos": 142,
+        "candidato": "Zavala Nelson",
+        "value": 1.0
+    },
+    {
+        "parroquia": "RIO TOACHI",
+        "id": 5870,
+        "votos": 25,
+        "candidato": "Zavala Nelson",
+        "value": 1.0
+    },
+    {
+        "parroquia": "SANTO DOMINGO",
+        "id": 6065,
+        "votos": 782,
+        "candidato": "Zavala Nelson",
+        "value": 0.6
+    },
+    {
+        "parroquia": "CHIGUILPE",
+        "id": 6175,
+        "votos": 42,
+        "candidato": "Zavala Nelson",
+        "value": 0.4
+    },
+    {
+        "parroquia": "ZARACAY",
+        "id": 6180,
+        "votos": 36,
+        "candidato": "Zavala Nelson",
+        "value": 0.9
+    }
+]

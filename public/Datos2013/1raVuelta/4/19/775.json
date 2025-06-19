@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "EL GUISMI",
+        "id": 665,
+        "votos": 247,
+        "candidato": "Acosta Alberto",
+        "value": 38.594
+    },
+    {
+        "parroquia": "TUNDAYME",
+        "id": 945,
+        "votos": 59,
+        "candidato": "Acosta Alberto",
+        "value": 19.281
+    },
+    {
+        "parroquia": "PACHICUTZA",
+        "id": 1015,
+        "votos": 165,
+        "candidato": "Acosta Alberto",
+        "value": 29.15
+    },
+    {
+        "parroquia": "EL PANGUI",
+        "id": 6355,
+        "votos": 1084,
+        "candidato": "Acosta Alberto",
+        "value": 32.1
+    }
+]

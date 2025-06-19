@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "ANGAMARCA",
+        "id": 125,
+        "votos": 956,
+        "candidato": "Correa Delgado Rafael",
+        "value": 47.7
+    },
+    {
+        "parroquia": "GUANGAJE",
+        "id": 1430,
+        "votos": 1892,
+        "candidato": "Correa Delgado Rafael",
+        "value": 46.7
+    },
+    {
+        "parroquia": "LA VICTORIA",
+        "id": 2150,
+        "votos": 836,
+        "candidato": "Correa Delgado Rafael",
+        "value": 50.21
+    },
+    {
+        "parroquia": "PILALO",
+        "id": 2865,
+        "votos": 613,
+        "candidato": "Correa Delgado Rafael",
+        "value": 65.84
+    },
+    {
+        "parroquia": "TINGO",
+        "id": 4015,
+        "votos": 983,
+        "candidato": "Correa Delgado Rafael",
+        "value": 54.7
+    },
+    {
+        "parroquia": "ZUMBAHUA",
+        "id": 4365,
+        "votos": 3755,
+        "candidato": "Correa Delgado Rafael",
+        "value": 58.4
+    },
+    {
+        "parroquia": "PUJILI",
+        "id": 5820,
+        "votos": 9647,
+        "candidato": "Correa Delgado Rafael",
+        "value": 46.633151
+    }
+]

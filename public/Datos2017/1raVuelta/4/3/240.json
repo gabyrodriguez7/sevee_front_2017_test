@@ -1,0 +1,86 @@
+[
+  {
+    "parroquia": "CHONTAMARCA",
+    "id": 935,
+    "votos": 217,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.38
+  },
+  {
+    "parroquia": "CHOROCOPTE",
+    "id": 950,
+    "votos": 150,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.49
+  },
+  {
+    "parroquia": "GRAL.MORALES / SOCARTE",
+    "id": 1335,
+    "votos": 51,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 4.67
+  },
+  {
+    "parroquia": "GUALLETURO",
+    "id": 1410,
+    "votos": 295,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 18.69
+  },
+  {
+    "parroquia": "HONORATO VÁSQUEZ",
+    "id": 1605,
+    "votos": 228,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.25
+  },
+  {
+    "parroquia": "INGAPIRCA",
+    "id": 1725,
+    "votos": 450,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.42
+  },
+  {
+    "parroquia": "VENTURA",
+    "id": 1775,
+    "votos": 52,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.24
+  },
+  {
+    "parroquia": "DUCUR",
+    "id": 1895,
+    "votos": 282,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 19.04
+  },
+  {
+    "parroquia": "JUNCAL",
+    "id": 1900,
+    "votos": 69,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.91
+  },
+  {
+    "parroquia": "SAN ANTONIO",
+    "id": 3305,
+    "votos": 134,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.2
+  },
+  {
+    "parroquia": "ZHUD",
+    "id": 4345,
+    "votos": 75,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.7
+  },
+  {
+    "parroquia": "CAÑAR",
+    "id": 5160,
+    "votos": 1542,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.56
+  }
+]

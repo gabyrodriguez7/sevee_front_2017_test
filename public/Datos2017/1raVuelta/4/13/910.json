@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "COJIMÍES",
+    "id": 580,
+    "votos": 250,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.88
+  },
+  {
+    "parroquia": "ATAHUALPA",
+    "id": 785,
+    "votos": 78,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.01
+  },
+  {
+    "parroquia": "10 DE AGOSTO",
+    "id": 1030,
+    "votos": 113,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.05
+  },
+  {
+    "parroquia": "PEDERNALES",
+    "id": 6430,
+    "votos": 1758,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.75
+  }
+]

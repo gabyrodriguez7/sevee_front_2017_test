@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "CÚBE / CHANCAMA",
+    "id": 700,
+    "votos": 14,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.94
+  },
+  {
+    "parroquia": "CHURA",
+    "id": 980,
+    "votos": 9,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.86
+  },
+  {
+    "parroquia": "LA UNIÓN",
+    "id": 1530,
+    "votos": 85,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.79
+  },
+  {
+    "parroquia": "MALIMPIA / GUAYLLABAMBA",
+    "id": 2345,
+    "votos": 55,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.88
+  },
+  {
+    "parroquia": "VICHE",
+    "id": 4230,
+    "votos": 15,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.39
+  },
+  {
+    "parroquia": "ROSA ZÁRATE",
+    "id": 5895,
+    "votos": 267,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.69
+  }
+]

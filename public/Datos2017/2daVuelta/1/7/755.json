@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 1075,
+        "votos": 290,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 65.02
+    },
+    {
+        "parroquia": "EL PARAÍSO",
+        "id": 1080,
+        "votos": 273,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 51.9
+    },
+    {
+        "parroquia": "LA LIBERTAD",
+        "id": 1100,
+        "votos": 307,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 50.16
+    },
+    {
+        "parroquia": "LA VICTORIA/LAS LAJAS",
+        "id": 6335,
+        "votos": 1192,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 55.13
+    },
+    {
+        "parroquia": "PLATANILLOS",
+        "id": 6950,
+        "votos": 204,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 52.44
+    }
+]

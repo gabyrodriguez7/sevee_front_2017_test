@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "LA PILA",
+        "id": 1545,
+        "votos": 113,
+        "candidato": "Noboa Alvaro",
+        "value": 5.6359
+    },
+    {
+        "parroquia": "MONTECRISTI",
+        "id": 5665,
+        "votos": 2692,
+        "candidato": "Noboa Alvaro",
+        "value": 8.4833
+    },
+    {
+        "parroquia": "ANIBAL SAN ANDRES",
+        "id": 7460,
+        "votos": 23,
+        "candidato": "Noboa Alvaro",
+        "value": 8.74525
+    }
+]

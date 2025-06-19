@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "MENDEZ",
+    "id": 5645,
+    "votos": 50,
+    "candidato": "Alvaro Noboa",
+    "value": 2.75
+  },
+  {
+    "parroquia": "TAYUZA",
+    "id": 4115,
+    "votos": 3,
+    "candidato": "Alvaro Noboa",
+    "value": 0.57
+  },
+  {
+    "parroquia": "SAN LUIS DEL ACHO",
+    "id": 3565,
+    "votos": 3,
+    "candidato": "Alvaro Noboa",
+    "value": 1.02
+  },
+  {
+    "parroquia": "PATUCA",
+    "id": 2795,
+    "votos": 12,
+    "candidato": "Alvaro Noboa",
+    "value": 2.29
+  },
+  {
+    "parroquia": "SAN FCO. DE CHINIMBIMI",
+    "id": 1365,
+    "votos": 9,
+    "candidato": "Alvaro Noboa",
+    "value": 2.22
+  },
+  {
+    "parroquia": "CHUPIANZA",
+    "id": 970,
+    "votos": 4,
+    "candidato": "Alvaro Noboa",
+    "value": 1.39
+  },
+  {
+    "parroquia": "COPAL",
+    "id": 645,
+    "votos": 5,
+    "candidato": "Alvaro Noboa",
+    "value": 2.25
+  }
+]

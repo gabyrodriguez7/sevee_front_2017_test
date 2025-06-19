@@ -1,0 +1,72 @@
+[
+  {
+    "parroquia": "AMAZONAS",
+    "id": 90,
+    "votos": 93,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 54.71
+  },
+  {
+    "parroquia": "BERMEJOS",
+    "id": 340,
+    "votos": 100,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 51.02
+  },
+  {
+    "parroquia": "BOMBOIZA",
+    "id": 350,
+    "votos": 1766,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 74.39
+  },
+  {
+    "parroquia": "CHIGUINDA",
+    "id": 880,
+    "votos": 256,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 67.02
+  },
+  {
+    "parroquia": "EL IDEAL",
+    "id": 1910,
+    "votos": 247,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 49.2
+  },
+  {
+    "parroquia": "NUEVA TARQUI",
+    "id": 2565,
+    "votos": 269,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 53.16
+  },
+  {
+    "parroquia": "ROSARIO",
+    "id": 3225,
+    "votos": 201,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 50.5
+  },
+  {
+    "parroquia": "SAN MIGUEL DE CUYES",
+    "id": 3580,
+    "votos": 66,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 48.89
+  },
+  {
+    "parroquia": "GUALAQUIZA",
+    "id": 5425,
+    "votos": 3745,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 60.8
+  },
+  {
+    "parroquia": "MERCEDES MOLINA",
+    "id": 5655,
+    "votos": 128,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 55.17
+  }
+]

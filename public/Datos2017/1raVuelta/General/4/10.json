@@ -1,0 +1,79 @@
+[
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 250,
+        "votos": 714,
+        "votos1": 7154,
+        "votos2": 6972,
+        "fill": "#1eff00",
+        "porcentaje1": 30.16,
+        "porcentaje2": 29.39
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 690,
+        "votos": 2043,
+        "votos1": 312,
+        "votos2": 174,
+        "fill": "#1eff00",
+        "porcentaje1": 43.7,
+        "porcentaje2": 24.37
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 910,
+        "votos": 416,
+        "votos1": 760,
+        "votos2": 565,
+        "fill": "#1eff00",
+        "porcentaje1": 37.2,
+        "porcentaje2": 27.66
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 1270,
+        "votos": 659,
+        "votos1": 173,
+        "votos2": 151,
+        "fill": "#1eff00",
+        "porcentaje1": 41.59,
+        "porcentaje2": 36.3
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 2065,
+        "votos": 2168,
+        "votos1": 296,
+        "votos2": 164,
+        "fill": "#1eff00",
+        "porcentaje1": 44.92,
+        "porcentaje2": 24.89
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 5405,
+        "votos": 7234,
+        "votos1": 1018,
+        "votos2": 425,
+        "fill": "#1eff00",
+        "porcentaje1": 46.96,
+        "porcentaje2": 19.6
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 5970,
+        "votos": 7392,
+        "votos1": 2435,
+        "votos2": 2106,
+        "fill": "#1eff00",
+        "porcentaje1": 33.66,
+        "porcentaje2": 29.11
+    }
+]

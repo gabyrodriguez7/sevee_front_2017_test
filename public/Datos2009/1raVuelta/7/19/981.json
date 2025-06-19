@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "PAQUISHA",
+    "id": 6885,
+    "votos": 54,
+    "candidato": "Alvaro Noboa",
+    "value": 5.21
+  },
+  {
+    "parroquia": "NUEVO QUITO",
+    "id": 1120,
+    "votos": 9,
+    "candidato": "Alvaro Noboa",
+    "value": 1.83
+  },
+  {
+    "parroquia": "BELLAVISTA",
+    "id": 455,
+    "votos": 4,
+    "candidato": "Alvaro Noboa",
+    "value": 2.01
+  }
+]

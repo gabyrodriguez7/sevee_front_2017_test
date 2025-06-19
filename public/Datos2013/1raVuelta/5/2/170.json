@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "ASUNCION",
+        "id": 170,
+        "votos": 428,
+        "candidato": "Gutierrez Lucio",
+        "value": 27.5
+    },
+    {
+        "parroquia": "MAGDALENA/CHAPACOTO",
+        "id": 2315,
+        "votos": 397,
+        "candidato": "Gutierrez Lucio",
+        "value": 21.849202
+    },
+    {
+        "parroquia": "SAN SEBASTIAN",
+        "id": 3655,
+        "votos": 103,
+        "candidato": "Gutierrez Lucio",
+        "value": 22.2462
+    },
+    {
+        "parroquia": "TELIMBELA",
+        "id": 3995,
+        "votos": 300,
+        "candidato": "Gutierrez Lucio",
+        "value": 40.486
+    },
+    {
+        "parroquia": "SAN JOSE DE CHIMBO",
+        "id": 5975,
+        "votos": 580,
+        "candidato": "Gutierrez Lucio",
+        "value": 13.32
+    }
+]

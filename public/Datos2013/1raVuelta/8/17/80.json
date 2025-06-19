@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "COTOGCHOA",
+    "id": 680,
+    "votos": 53,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 3.51
+  },
+  {
+    "parroquia": "RUMIPAMBA",
+    "id": 3230,
+    "votos": 8,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 2.57
+  },
+  {
+    "parroquia": "SANGOLQUI",
+    "id": 5965,
+    "votos": 2217,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 5.01
+  },
+  {
+    "parroquia": "SAN RAFAEL",
+    "id": 6600,
+    "votos": 938,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 7.2
+  },
+  {
+    "parroquia": "SAN PEDRO DE TABOADA",
+    "id": 6605,
+    "votos": 234,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 4.7
+  }
+]

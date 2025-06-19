@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "AHUANO",
+    "id": 25,
+    "votos": 1969,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 61.04
+  },
+  {
+    "parroquia": "CHONTAPUNTA",
+    "id": 940,
+    "votos": 1949,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 59.66
+  },
+  {
+    "parroquia": "TALAG",
+    "id": 1930,
+    "votos": 1112,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 63.54
+  },
+  {
+    "parroquia": "PANO",
+    "id": 2755,
+    "votos": 710,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 63.91
+  },
+  {
+    "parroquia": "PUERTO MISAHUALLÍ",
+    "id": 3000,
+    "votos": 1539,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 55.44
+  },
+  {
+    "parroquia": "PUERTO NAPO",
+    "id": 3050,
+    "votos": 1837,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 59.2
+  },
+  {
+    "parroquia": "SAN JUAN DE MUYUNA",
+    "id": 4580,
+    "votos": 1484,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 67.82
+  },
+  {
+    "parroquia": "TENA",
+    "id": 6160,
+    "votos": 11410,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 56.35
+  }
+]

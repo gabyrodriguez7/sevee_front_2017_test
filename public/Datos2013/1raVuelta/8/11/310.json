@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "CANGONAMA",
+        "id": 485,
+        "votos": 11,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.92
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 545,
+        "votos": 6,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.7
+    },
+    {
+        "parroquia": "CASANGA",
+        "id": 995,
+        "votos": 10,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.3
+    },
+    {
+        "parroquia": "YAMANA",
+        "id": 1000,
+        "votos": 21,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.1749503
+    },
+    {
+        "parroquia": "GUACHANAMA",
+        "id": 1380,
+        "votos": 16,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.5
+    },
+    {
+        "parroquia": "LAURO GUERRERO",
+        "id": 2140,
+        "votos": 20,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.1
+    },
+    {
+        "parroquia": "ORIANGA",
+        "id": 2630,
+        "votos": 14,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.0
+    },
+    {
+        "parroquia": "CATACOCHA",
+        "id": 5180,
+        "votos": 280,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.289087
+    },
+    {
+        "parroquia": "LOURDES",
+        "id": 5595,
+        "votos": 19,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.9
+    }
+]

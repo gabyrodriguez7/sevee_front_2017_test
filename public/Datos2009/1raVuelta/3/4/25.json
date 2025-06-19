@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "BOLIVAR",
+    "id": 6520,
+    "votos": 12,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.39
+  },
+  {
+    "parroquia": "SAN VICENTE DE PUSIR",
+    "id": 3680,
+    "votos": 3,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.31
+  },
+  {
+    "parroquia": "MONTEOLIVO",
+    "id": 2455,
+    "votos": 4,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.4
+  },
+  {
+    "parroquia": "LOS ANDES",
+    "id": 2205,
+    "votos": 8,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.68
+  },
+  {
+    "parroquia": "GARCIA MORENO",
+    "id": 1315,
+    "votos": 5,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.48
+  },
+  {
+    "parroquia": "SAN RAFAEL",
+    "id": 1055,
+    "votos": 1,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.13
+  }
+]

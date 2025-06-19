@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "INDANZA",
+    "id": 1720,
+    "votos": 307,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 43.12
+  },
+  {
+    "parroquia": "SAN MIGUEL DE CONCHAY",
+    "id": 3250,
+    "votos": 110,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 43.14
+  },
+  {
+    "parroquia": "SAN ANTONIO",
+    "id": 3320,
+    "votos": 358,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 52.42
+  },
+  {
+    "parroquia": "SANTA SUSANA DE CHIVIAZA",
+    "id": 3760,
+    "votos": 238,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 50.64
+  },
+  {
+    "parroquia": "YUNGANZA /EL ROSARIO",
+    "id": 4305,
+    "votos": 258,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 48.22
+  },
+  {
+    "parroquia": "GRAL. LEONIDAS PLAZA",
+    "id": 5390,
+    "votos": 1469,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 46.71
+  }
+]

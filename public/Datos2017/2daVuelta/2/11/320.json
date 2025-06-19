@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "COLAIZACA",
+    "id": 590,
+    "votos": 662,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 55.17
+  },
+  {
+    "parroquia": "EL LUCERO",
+    "id": 1230,
+    "votos": 970,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 65.32
+  },
+  {
+    "parroquia": "SANGUILLIN",
+    "id": 1550,
+    "votos": 334,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 69.01
+  },
+  {
+    "parroquia": "UTUANA",
+    "id": 4150,
+    "votos": 239,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 41.49
+  },
+  {
+    "parroquia": "CARIAMANGA",
+    "id": 5175,
+    "votos": 4607,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 40.68
+  },
+  {
+    "parroquia": "CHILE",
+    "id": 5240,
+    "votos": 815,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 43.42
+  },
+  {
+    "parroquia": "SAN VICENTE",
+    "id": 6025,
+    "votos": 180,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 40.82
+  }
+]

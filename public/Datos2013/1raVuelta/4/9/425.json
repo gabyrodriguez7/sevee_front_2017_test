@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "TARIFA",
+        "id": 3975,
+        "votos": 32,
+        "candidato": "Acosta Alberto",
+        "value": 0.7183
+    },
+    {
+        "parroquia": "SAMBORONDON",
+        "id": 5925,
+        "votos": 175,
+        "candidato": "Acosta Alberto",
+        "value": 0.8335
+    },
+    {
+        "parroquia": "LA PUNTILLA(SATELITE)",
+        "id": 7445,
+        "votos": 126,
+        "candidato": "Acosta Alberto",
+        "value": 0.893
+    }
+]

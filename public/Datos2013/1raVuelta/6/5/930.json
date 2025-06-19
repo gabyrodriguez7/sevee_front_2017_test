@@ -1,0 +1,37 @@
+[
+	{
+		"parroquia": "PALO QUEMADO",
+		"id": 815,
+		"votos": 103,
+		"candidato": "Lasso Guillermo",
+		"value": 25.37
+	},
+	{
+		"parroquia": "CHUGCHILAN",
+		"id": 960,
+		"votos": 468,
+		"candidato": "Lasso Guillermo",
+		"value": 15.31
+	},
+	{
+		"parroquia": "ISINLIVI",
+		"id": 1735,
+		"votos": 182,
+		"candidato": "Lasso Guillermo",
+		"value": 13.0
+	},
+	{
+		"parroquia": "LAS PAMPAS",
+		"id": 2115,
+		"votos": 179,
+		"candidato": "Lasso Guillermo",
+		"value": 16.56
+	},
+	{
+		"parroquia": "SIGCHOS",
+		"id": 6450,
+		"votos": 1342,
+		"candidato": "Lasso Guillermo",
+		"value": 26.53
+	}
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "SAN SEBASTIAN",
+        "id": 1060,
+        "votos": 274,
+        "candidato": "Gutierrez Lucio",
+        "value": 8.89
+    },
+    {
+        "parroquia": "BARRAGANETE",
+        "id": 1065,
+        "votos": 244,
+        "candidato": "Gutierrez Lucio",
+        "value": 13.6
+    },
+    {
+        "parroquia": "PICHINCHA /GERMUD",
+        "id": 6550,
+        "votos": 1346,
+        "candidato": "Gutierrez Lucio",
+        "value": 9.0
+    }
+]

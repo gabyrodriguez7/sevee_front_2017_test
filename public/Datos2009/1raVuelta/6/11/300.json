@@ -1,0 +1,121 @@
+[
+    {
+        "parroquia": "VALLE",
+        "id": 6210,
+        "votos": 394,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.84
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 6100,
+        "votos": 586,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.71
+    },
+    {
+        "parroquia": "SAN SEBASTIAN",
+        "id": 6015,
+        "votos": 380,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.94
+    },
+    {
+        "parroquia": "EL SAGRARIO",
+        "id": 5320,
+        "votos": 346,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 2.22
+    },
+    {
+        "parroquia": "SAN PEDRO DE VILCABAMBA",
+        "id": 4540,
+        "votos": 11,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 2.12
+    },
+    {
+        "parroquia": "CHANTACO",
+        "id": 4475,
+        "votos": 6,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.05
+    },
+    {
+        "parroquia": "YANGANA / ARSENIO CASTILLO",
+        "id": 4280,
+        "votos": 6,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.79
+    },
+    {
+        "parroquia": "VILCABAMBA/VICTORIA",
+        "id": 4235,
+        "votos": 20,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.9
+    },
+    {
+        "parroquia": "TAQUIL /MIGUEL RIOFRIO",
+        "id": 3970,
+        "votos": 8,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.57
+    },
+    {
+        "parroquia": "SANTIAGO",
+        "id": 3770,
+        "votos": 4,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.57
+    },
+    {
+        "parroquia": "SAN LUCAS",
+        "id": 3555,
+        "votos": 11,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.65
+    },
+    {
+        "parroquia": "MALACATOS/VALLADOLID",
+        "id": 2325,
+        "votos": 25,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.77
+    },
+    {
+        "parroquia": "JIMBILLA",
+        "id": 1840,
+        "votos": 1,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.16
+    },
+    {
+        "parroquia": "QUINARA",
+        "id": 1780,
+        "votos": 3,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.55
+    },
+    {
+        "parroquia": "GUALEL",
+        "id": 1405,
+        "votos": 4,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.49
+    },
+    {
+        "parroquia": "EL CISNE",
+        "id": 1135,
+        "votos": 5,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.69
+    },
+    {
+        "parroquia": "CHUQUIRIBAMBA",
+        "id": 975,
+        "votos": 7,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.53
+    }
+]

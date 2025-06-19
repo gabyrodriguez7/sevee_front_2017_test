@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "HUASAGA /WAMPUIK",
+    "id": 595,
+    "votos": 1,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.13
+  },
+  {
+    "parroquia": "TUTINENTZA",
+    "id": 1205,
+    "votos": 8,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.42
+  },
+  {
+    "parroquia": "MACUMA",
+    "id": 2285,
+    "votos": 10,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.53
+  },
+  {
+    "parroquia": "PUMPUENTSA",
+    "id": 4575,
+    "votos": 2,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.23
+  },
+  {
+    "parroquia": "TAISHA",
+    "id": 6700,
+    "votos": 23,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.88
+  }
+]

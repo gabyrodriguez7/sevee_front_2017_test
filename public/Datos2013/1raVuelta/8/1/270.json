@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "ASUNCION",
+        "id": 175,
+        "votos": 71,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 5.0
+    },
+    {
+        "parroquia": "SAN GERARDO",
+        "id": 885,
+        "votos": 7,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.0
+    },
+    {
+        "parroquia": "GIRON",
+        "id": 5395,
+        "votos": 168,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.9
+    }
+]

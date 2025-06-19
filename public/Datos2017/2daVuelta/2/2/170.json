@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "ASUNCIÓN",
+    "id": 170,
+    "votos": 709,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 39.61
+  },
+  {
+    "parroquia": "MAGDALENA/CHAPACOTO",
+    "id": 2315,
+    "votos": 1056,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 52.23
+  },
+  {
+    "parroquia": "SAN SEBASTIÁN",
+    "id": 3655,
+    "votos": 185,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 33.58
+  },
+  {
+    "parroquia": "TELIMBELA",
+    "id": 3995,
+    "votos": 357,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 38.02
+  },
+  {
+    "parroquia": "SAN JOSÉ DE CHIMBO",
+    "id": 5975,
+    "votos": 1401,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 29.28
+  }
+]

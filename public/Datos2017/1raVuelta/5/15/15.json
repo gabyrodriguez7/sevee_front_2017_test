@@ -1,0 +1,32 @@
+[
+        {
+            "id": 255.0,
+            "candidato": "ZUQUILANDA DUQUE JOSE PATRICIO",
+            "votos": 159,
+            "value": 5.87
+        },
+        {
+            "id": 620.0,
+            "candidato": "ZUQUILANDA DUQUE JOSE PATRICIO",
+            "votos": 1798,
+            "value": 66.4
+        },
+        {
+            "id": 621.0,
+            "candidato": "ZUQUILANDA DUQUE JOSE PATRICIO",
+            "votos": 99,
+            "value": 3.66
+        },
+        {
+            "id": 635.0,
+            "candidato": "ZUQUILANDA DUQUE JOSE PATRICIO",
+            "votos": 104,
+            "value": 3.84
+        },
+        {
+            "id": 700.0,
+            "candidato": "ZUQUILANDA DUQUE JOSE PATRICIO",
+            "votos": 548,
+            "value": 20.24
+        }
+    ]

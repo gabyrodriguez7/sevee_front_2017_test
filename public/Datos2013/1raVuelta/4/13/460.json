@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 330,
+        "votos": 37,
+        "candidato": "Acosta Alberto",
+        "value": 1.381
+    },
+    {
+        "parroquia": "ARQ.SIXTO DURAN BALLEN",
+        "id": 1570,
+        "votos": 46,
+        "candidato": "Acosta Alberto",
+        "value": 4.140414
+    },
+    {
+        "parroquia": "NOBOA",
+        "id": 2555,
+        "votos": 57,
+        "candidato": "Acosta Alberto",
+        "value": 1.52
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 6105,
+        "votos": 155,
+        "candidato": "Acosta Alberto",
+        "value": 1.53
+    }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "DURENO",
+    "id": 1045,
+    "votos": 24,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.43
+  },
+  {
+    "parroquia": "EL ENO",
+    "id": 1285,
+    "votos": 57,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.64
+  },
+  {
+    "parroquia": "PACAYÁCU",
+    "id": 1290,
+    "votos": 77,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.97
+  },
+  {
+    "parroquia": "GENERAL FARFÁN",
+    "id": 1330,
+    "votos": 46,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.73
+  },
+  {
+    "parroquia": "SANTA CECILIA",
+    "id": 1790,
+    "votos": 30,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.28
+  },
+  {
+    "parroquia": "JAMBELÍ",
+    "id": 1795,
+    "votos": 21,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.53
+  },
+  {
+    "parroquia": "10 DE AGOSTO",
+    "id": 4625,
+    "votos": 7,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.34
+  },
+  {
+    "parroquia": "NUEVA LOJA",
+    "id": 5710,
+    "votos": 847,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.27
+  }
+]

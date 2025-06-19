@@ -1,0 +1,86 @@
+[
+    {
+        "parroquia": "AMBUQUI/CHOTA",
+        "id": 100,
+        "votos": 72,
+        "candidato": "Acosta Alberto",
+        "value": 2.1693
+    },
+    {
+        "parroquia": "ANGOCHAGUA",
+        "id": 130,
+        "votos": 77,
+        "candidato": "Acosta Alberto",
+        "value": 3.058
+    },
+    {
+        "parroquia": "CAROLINA /GUALLUPI",
+        "id": 530,
+        "votos": 39,
+        "candidato": "Acosta Alberto",
+        "value": 2.4134
+    },
+    {
+        "parroquia": "LA ESPERANZA",
+        "id": 2020,
+        "votos": 209,
+        "candidato": "Acosta Alberto",
+        "value": 4.5573
+    },
+    {
+        "parroquia": "LITA",
+        "id": 2185,
+        "votos": 52,
+        "candidato": "Acosta Alberto",
+        "value": 3.1063
+    },
+    {
+        "parroquia": "SALINAS",
+        "id": 3290,
+        "votos": 21,
+        "candidato": "Acosta Alberto",
+        "value": 1.7515
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3315,
+        "votos": 322,
+        "candidato": "Acosta Alberto",
+        "value": 3.1093
+    },
+    {
+        "parroquia": "CARANQUI",
+        "id": 5165,
+        "votos": 357,
+        "candidato": "Acosta Alberto",
+        "value": 3.8762
+    },
+    {
+        "parroquia": "GUAYAQUIL DE ALPACHACA",
+        "id": 5440,
+        "votos": 208,
+        "candidato": "Acosta Alberto",
+        "value": 3.4864
+    },
+    {
+        "parroquia": "SAGRARIO",
+        "id": 5915,
+        "votos": 1512,
+        "candidato": "Acosta Alberto",
+        "value": 4.1848
+    },
+    {
+        "parroquia": "SAN FRANCISCO",
+        "id": 5960,
+        "votos": 1452,
+        "candidato": "Acosta Alberto",
+        "value": 4.0
+    },
+    {
+        "parroquia": "LA DOLOROSA DEL PRIORATO",
+        "id": 6780,
+        "votos": 37,
+        "candidato": "Acosta Alberto",
+        "value": 2.4568
+    }
+]

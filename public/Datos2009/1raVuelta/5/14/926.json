@@ -1,0 +1,30 @@
+[
+                {
+                    "parroquia": "TAISHA",
+                    "id": 6700,
+                    "votos": 11,
+                    "candidato": "Melba Jacome",
+                    "value": 0.87
+                },
+                {
+                    "parroquia": "MACUMA",
+                    "id": 2285,
+                    "votos": 13,
+                    "candidato": "Melba Jacome",
+                    "value": 1.69
+                },
+                {
+                    "parroquia": "TUTINENTZA",
+                    "id": 1205,
+                    "votos": 13,
+                    "candidato": "Melba Jacome",
+                    "value": 1.66
+                },
+                {
+                    "parroquia": "HUASAGA /WAMPUIK",
+                    "id": 595,
+                    "votos": 10,
+                    "candidato": "Melba Jacome",
+                    "value": 1.81
+                }
+            ]

@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "GUANUJO",
+        "id": 6630,
+        "votos": 216,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.03
+    },
+    {
+        "parroquia": "GABRIEL I VEINTIMILLA",
+        "id": 5375,
+        "votos": 640,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 6.25
+    },
+    {
+        "parroquia": "ANGEL POLIVIO CHAVEZ",
+        "id": 5035,
+        "votos": 585,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 7.82
+    },
+    {
+        "parroquia": "SIMIATUG",
+        "id": 3860,
+        "votos": 64,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.94
+    },
+    {
+        "parroquia": "SANTA FE",
+        "id": 3710,
+        "votos": 32,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.02
+    },
+    {
+        "parroquia": "SAN SIMON",
+        "id": 3670,
+        "votos": 76,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 4.98
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 3545,
+        "votos": 22,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.07
+    },
+    {
+        "parroquia": "SALINAS",
+        "id": 3285,
+        "votos": 42,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.64
+    },
+    {
+        "parroquia": "JULIO E MORENO",
+        "id": 1890,
+        "votos": 9,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.26
+    },
+    {
+        "parroquia": "FACUNDO VELA",
+        "id": 1255,
+        "votos": 14,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.86
+    },
+    {
+        "parroquia": "SAN LUIS DE PAMBIL",
+        "id": 795,
+        "votos": 23,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.06
+    }
+]

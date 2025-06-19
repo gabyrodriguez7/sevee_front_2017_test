@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "MANUEL J. CALLE",
+        "id": 2365,
+        "votos": 50,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.1
+    },
+    {
+        "parroquia": "PANCHO NEGRO",
+        "id": 2745,
+        "votos": 30,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.11
+    },
+    {
+        "parroquia": "LA TRONCAL",
+        "id": 5610,
+        "votos": 604,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.52
+    }
+]

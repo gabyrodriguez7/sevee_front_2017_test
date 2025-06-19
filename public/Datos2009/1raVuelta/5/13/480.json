@@ -1,0 +1,65 @@
+[
+                {
+                    "parroquia": "SANTA RITA",
+                    "id": 6055,
+                    "votos": 47,
+                    "candidato": "Melba Jacome",
+                    "value": 0.7
+                },
+                {
+                    "parroquia": "CHONE",
+                    "id": 5250,
+                    "votos": 234,
+                    "candidato": "Melba Jacome",
+                    "value": 0.67
+                },
+                {
+                    "parroquia": "SAN ANTONIO / DEL PELUDO",
+                    "id": 3350,
+                    "votos": 13,
+                    "candidato": "Melba Jacome",
+                    "value": 0.37
+                },
+                {
+                    "parroquia": "RICAURTE",
+                    "id": 3170,
+                    "votos": 14,
+                    "candidato": "Melba Jacome",
+                    "value": 0.67
+                },
+                {
+                    "parroquia": "ELOY ALFARO",
+                    "id": 1160,
+                    "votos": 19,
+                    "candidato": "Melba Jacome",
+                    "value": 1.11
+                },
+                {
+                    "parroquia": "CONVENTO",
+                    "id": 640,
+                    "votos": 13,
+                    "candidato": "Melba Jacome",
+                    "value": 0.53
+                },
+                {
+                    "parroquia": "CANUTO",
+                    "id": 495,
+                    "votos": 33,
+                    "candidato": "Melba Jacome",
+                    "value": 0.65
+                },
+                {
+                    "parroquia": "CHIBUNGA",
+                    "id": 405,
+                    "votos": 10,
+                    "candidato": "Melba Jacome",
+                    "value": 0.84
+                },
+                {
+                    "parroquia": "BOYACA",
+                    "id": 380,
+                    "votos": 15,
+                    "candidato": "Melba Jacome",
+                    "value": 0.84
+                }
+            ]

@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "AMAZONAS",
+        "id": 90,
+        "votos": 1,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 0.7
+    },
+    {
+        "parroquia": "BERMEJOS",
+        "id": 340,
+        "votos": 0,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 0.0
+    },
+    {
+        "parroquia": "BOMBOIZA",
+        "id": 350,
+        "votos": 16,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.0
+    },
+    {
+        "parroquia": "CHIGUINDA",
+        "id": 880,
+        "votos": 7,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.0
+    },
+    {
+        "parroquia": "EL IDEAL",
+        "id": 1910,
+        "votos": 4,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.3
+    },
+    {
+        "parroquia": "NUEVA TARQUI",
+        "id": 2565,
+        "votos": 7,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.5
+    },
+    {
+        "parroquia": "ROSARIO",
+        "id": 3225,
+        "votos": 7,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.08
+    },
+    {
+        "parroquia": "SAN MIGUEL DE CUYES",
+        "id": 3580,
+        "votos": 5,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.6
+    },
+    {
+        "parroquia": "GUALAQUIZA",
+        "id": 5425,
+        "votos": 145,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.7
+    },
+    {
+        "parroquia": "MERCEDES MOLINA",
+        "id": 5655,
+        "votos": 0,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 0.0
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "GIRON",
+        "id": 5395,
+        "votos": 167,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.67
+    },
+    {
+        "parroquia": "SAN GERARDO",
+        "id": 885,
+        "votos": 6,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.65
+    },
+    {
+        "parroquia": "ASUNCION",
+        "id": 175,
+        "votos": 42,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.47
+    }
+]

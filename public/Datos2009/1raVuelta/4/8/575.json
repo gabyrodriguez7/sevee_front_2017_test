@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "ROSA ZARATE",
+        "id": 5895,
+        "votos": 17425,
+        "candidato": "Rafael Correa Delgado",
+        "value": 57.99
+    },
+    {
+        "parroquia": "VICHE",
+        "id": 4230,
+        "votos": 1376,
+        "candidato": "Rafael Correa Delgado",
+        "value": 53.54
+    },
+    {
+        "parroquia": "MALIMPIA / GUAYLLABAMBA",
+        "id": 2345,
+        "votos": 1754,
+        "candidato": "Rafael Correa Delgado",
+        "value": 69.71
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 1530,
+        "votos": 3960,
+        "candidato": "Rafael Correa Delgado",
+        "value": 59.78
+    },
+    {
+        "parroquia": "CHURA",
+        "id": 980,
+        "votos": 200,
+        "candidato": "Rafael Correa Delgado",
+        "value": 71.42
+    },
+    {
+        "parroquia": "CUBE / CHANCAMA",
+        "id": 700,
+        "votos": 378,
+        "candidato": "Rafael Correa Delgado",
+        "value": 50.94
+    }
+]

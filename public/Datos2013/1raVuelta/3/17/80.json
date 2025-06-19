@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "COTOGCHOA",
+        "id": 680,
+        "votos": 35,
+        "candidato": "Wray Norman",
+        "value": 2.32
+    },
+    {
+        "parroquia": "RUMIPAMBA",
+        "id": 3230,
+        "votos": 6,
+        "candidato": "Wray Norman",
+        "value": 1.93
+    },
+    {
+        "parroquia": "SANGOLQUI",
+        "id": 5965,
+        "votos": 1177,
+        "candidato": "Wray Norman",
+        "value": 2.66
+    },
+    {
+        "parroquia": "SAN RAFAEL",
+        "id": 6600,
+        "votos": 331,
+        "candidato": "Wray Norman",
+        "value": 2.6
+    },
+    {
+        "parroquia": "SAN PEDRO DE TABOADA",
+        "id": 6605,
+        "votos": 172,
+        "candidato": "Wray Norman",
+        "value": 3.4
+    }
+]

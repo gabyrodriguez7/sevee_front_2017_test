@@ -1,0 +1,121 @@
+[
+    {
+        "parroquia": "VALLE",
+        "id": 6210,
+        "votos": 11736,
+        "candidato": "Rafael Correa Delgado",
+        "value": 54.96
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 6100,
+        "votos": 20368,
+        "candidato": "Rafael Correa Delgado",
+        "value": 59.49
+    },
+    {
+        "parroquia": "SAN SEBASTIAN",
+        "id": 6015,
+        "votos": 11583,
+        "candidato": "Rafael Correa Delgado",
+        "value": 59.3
+    },
+    {
+        "parroquia": "EL SAGRARIO",
+        "id": 5320,
+        "votos": 8041,
+        "candidato": "Rafael Correa Delgado",
+        "value": 51.79
+    },
+    {
+        "parroquia": "SAN PEDRO DE VILCABAMBA",
+        "id": 4540,
+        "votos": 374,
+        "candidato": "Rafael Correa Delgado",
+        "value": 72.34
+    },
+    {
+        "parroquia": "CHANTACO",
+        "id": 4475,
+        "votos": 379,
+        "candidato": "Rafael Correa Delgado",
+        "value": 66.37
+    },
+    {
+        "parroquia": "YANGANA / ARSENIO CASTILLO",
+        "id": 4280,
+        "votos": 434,
+        "candidato": "Rafael Correa Delgado",
+        "value": 57.4
+    },
+    {
+        "parroquia": "VILCABAMBA/VICTORIA",
+        "id": 4235,
+        "votos": 1636,
+        "candidato": "Rafael Correa Delgado",
+        "value": 74.43
+    },
+    {
+        "parroquia": "TAQUIL /MIGUEL RIOFRIO",
+        "id": 3970,
+        "votos": 848,
+        "candidato": "Rafael Correa Delgado",
+        "value": 61.36
+    },
+    {
+        "parroquia": "SANTIAGO",
+        "id": 3770,
+        "votos": 462,
+        "candidato": "Rafael Correa Delgado",
+        "value": 66.95
+    },
+    {
+        "parroquia": "SAN LUCAS",
+        "id": 3555,
+        "votos": 810,
+        "candidato": "Rafael Correa Delgado",
+        "value": 47.98
+    },
+    {
+        "parroquia": "MALACATOS/VALLADOLID",
+        "id": 2325,
+        "votos": 2377,
+        "candidato": "Rafael Correa Delgado",
+        "value": 73.36
+    },
+    {
+        "parroquia": "JIMBILLA",
+        "id": 1840,
+        "votos": 269,
+        "candidato": "Rafael Correa Delgado",
+        "value": 45.13
+    },
+    {
+        "parroquia": "QUINARA",
+        "id": 1780,
+        "votos": 362,
+        "candidato": "Rafael Correa Delgado",
+        "value": 67.28
+    },
+    {
+        "parroquia": "GUALEL",
+        "id": 1405,
+        "votos": 491,
+        "candidato": "Rafael Correa Delgado",
+        "value": 60.61
+    },
+    {
+        "parroquia": "EL CISNE",
+        "id": 1135,
+        "votos": 473,
+        "candidato": "Rafael Correa Delgado",
+        "value": 65.51
+    },
+    {
+        "parroquia": "CHUQUIRIBAMBA",
+        "id": 975,
+        "votos": 916,
+        "candidato": "Rafael Correa Delgado",
+        "value": 70.35
+    }
+]

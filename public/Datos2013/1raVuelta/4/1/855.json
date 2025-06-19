@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "CHUMBLIN",
+        "id": 4560,
+        "votos": 53,
+        "candidato": "Acosta Alberto",
+        "value": 18.7
+    },
+    {
+        "parroquia": "SAN FERNANDO",
+        "id": 6565,
+        "votos": 302,
+        "candidato": "Acosta Alberto",
+        "value": 12.5363
+    }
+]

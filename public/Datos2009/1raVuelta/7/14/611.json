@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "LOGROÑO",
+    "id": 6735,
+    "votos": 31,
+    "candidato": "Alvaro Noboa",
+    "value": 2.43
+  },
+  {
+    "parroquia": "YAUPI",
+    "id": 4300,
+    "votos": 4,
+    "candidato": "Alvaro Noboa",
+    "value": 0.88
+  },
+  {
+    "parroquia": "SHIMPIS",
+    "id": 525,
+    "votos": 2,
+    "candidato": "Alvaro Noboa",
+    "value": 0.36
+  }
+]

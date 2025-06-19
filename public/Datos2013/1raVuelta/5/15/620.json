@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "AHUANO",
+        "id": 25,
+        "votos": 1992,
+        "candidato": "Gutierrez Lucio",
+        "value": 67.4
+    },
+    {
+        "parroquia": "CHONTAPUNTA",
+        "id": 940,
+        "votos": 1773,
+        "candidato": "Gutierrez Lucio",
+        "value": 65.959821
+    },
+    {
+        "parroquia": "TALAG",
+        "id": 1930,
+        "votos": 1065,
+        "candidato": "Gutierrez Lucio",
+        "value": 73.65
+    },
+    {
+        "parroquia": "PANO",
+        "id": 2755,
+        "votos": 571,
+        "candidato": "Gutierrez Lucio",
+        "value": 62.3
+    },
+    {
+        "parroquia": "PUERTO MISAHUALLI",
+        "id": 3000,
+        "votos": 1632,
+        "candidato": "Gutierrez Lucio",
+        "value": 66.1
+    },
+    {
+        "parroquia": "PUERTO NAPO",
+        "id": 3050,
+        "votos": 1532,
+        "candidato": "Gutierrez Lucio",
+        "value": 61.9
+    },
+    {
+        "parroquia": "SAN JUAN DE MUYUNA",
+        "id": 4580,
+        "votos": 1112,
+        "candidato": "Gutierrez Lucio",
+        "value": 65.7599054
+    },
+    {
+        "parroquia": "TENA",
+        "id": 6160,
+        "votos": 7469,
+        "candidato": "Gutierrez Lucio",
+        "value": 42.7
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CHOBO",
+        "id": 920,
+        "votos": 15,
+        "candidato": "Zavala Nelson",
+        "value": 1.89394
+    },
+    {
+        "parroquia": "MARISCAL SUCRE/HUAQUES",
+        "id": 2390,
+        "votos": 103,
+        "candidato": "Zavala Nelson",
+        "value": 4.1
+    },
+    {
+        "parroquia": "ROBERTO ASTUDILLO",
+        "id": 3235,
+        "votos": 62,
+        "candidato": "Zavala Nelson",
+        "value": 1.7
+    },
+    {
+        "parroquia": "MILAGRO",
+        "id": 5660,
+        "votos": 2246,
+        "candidato": "Zavala Nelson",
+        "value": 2.3
+    }
+]

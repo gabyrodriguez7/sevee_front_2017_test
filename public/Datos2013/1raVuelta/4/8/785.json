@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "TONSUPA",
+        "id": 1615,
+        "votos": 115,
+        "candidato": "Acosta Alberto",
+        "value": 3.1777
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 2130,
+        "votos": 35,
+        "candidato": "Acosta Alberto",
+        "value": 3.1
+    },
+    {
+        "parroquia": "SUA/BOCANA",
+        "id": 3880,
+        "votos": 43,
+        "candidato": "Acosta Alberto",
+        "value": 2.6
+    },
+    {
+        "parroquia": "TONCHIGUE",
+        "id": 4055,
+        "votos": 137,
+        "candidato": "Acosta Alberto",
+        "value": 3.6
+    },
+    {
+        "parroquia": "ATACAMES",
+        "id": 6380,
+        "votos": 274,
+        "candidato": "Acosta Alberto",
+        "value": 3.2
+    }
+]

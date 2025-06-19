@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "GONZALO DÍAZ DE PINEDA",
+    "id": 1020,
+    "votos": 25,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.07
+  },
+  {
+    "parroquia": "LINARES",
+    "id": 2180,
+    "votos": 8,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 4.35
+  },
+  {
+    "parroquia": "OYACACHI",
+    "id": 2640,
+    "votos": 4,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 0.95
+  },
+  {
+    "parroquia": "SANTA ROSA DE QUIJOS",
+    "id": 3745,
+    "votos": 48,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.21
+  },
+  {
+    "parroquia": "SARDINAS",
+    "id": 3790,
+    "votos": 14,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 4.18
+  },
+  {
+    "parroquia": "EL CHACO",
+    "id": 5510,
+    "votos": 366,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.39
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "SAN JACINTO DE WAKAMBEIS",
+    "id": 710,
+    "votos": 10,
+    "candidato": "Lasso Guillermo",
+    "value": 7.9
+  },
+  {
+    "parroquia": "SANTIAGO DE PANANZA",
+    "id": 1785,
+    "votos": 19,
+    "candidato": "Lasso Guillermo",
+    "value": 9.744
+  },
+  {
+    "parroquia": "PAN DE AZUCAR",
+    "id": 2750,
+    "votos": 10,
+    "candidato": "Lasso Guillermo",
+    "value": 5.524862
+  },
+  {
+    "parroquia": "SAN CARLOS DE LIMON",
+    "id": 3920,
+    "votos": 19,
+    "candidato": "Lasso Guillermo",
+    "value": 6.19
+  },
+  {
+    "parroquia": "SAN JUAN BOSCO",
+    "id": 6445,
+    "votos": 246,
+    "candidato": "Lasso Guillermo",
+    "value": 18.1952663
+  }
+]

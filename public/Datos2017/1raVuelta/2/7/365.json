@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "BUENAVISTA",
+    "id": 390,
+    "votos": 119,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.05
+  },
+  {
+    "parroquia": "CAÑAQUEMADA",
+    "id": 775,
+    "votos": 7,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.26
+  },
+  {
+    "parroquia": "PROGRESO",
+    "id": 1225,
+    "votos": 52,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.8
+  },
+  {
+    "parroquia": "LA PEAÑA",
+    "id": 2075,
+    "votos": 44,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.94
+  },
+  {
+    "parroquia": "UZHCURRUMI",
+    "id": 4160,
+    "votos": 26,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.89
+  },
+  {
+    "parroquia": "CASACAY",
+    "id": 4495,
+    "votos": 26,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.19
+  },
+  {
+    "parroquia": "OCHOA LEÓN/MATRIZ",
+    "id": 5770,
+    "votos": 873,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.4
+  },
+  {
+    "parroquia": "LOMA DE FRANCO",
+    "id": 6365,
+    "votos": 26,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.15
+  },
+  {
+    "parroquia": "BOLIVAR",
+    "id": 6370,
+    "votos": 15,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.59
+  },
+  {
+    "parroquia": "TRES CERRITOS",
+    "id": 6375,
+    "votos": 20,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.85
+  },
+  {
+    "parroquia": "PASAJE",
+    "id": 6940,
+    "votos": 18,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.9
+  }
+]

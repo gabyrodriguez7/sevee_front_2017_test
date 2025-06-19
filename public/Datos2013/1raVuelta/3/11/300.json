@@ -1,0 +1,121 @@
+[
+    {
+        "parroquia": "CHUQUIRIBAMBA",
+        "id": 975,
+        "votos": 21,
+        "candidato": "Wray Norman",
+        "value": 1.3816
+    },
+    {
+        "parroquia": "EL CISNE",
+        "id": 1135,
+        "votos": 15,
+        "candidato": "Wray Norman",
+        "value": 1.6
+    },
+    {
+        "parroquia": "GUALEL",
+        "id": 1405,
+        "votos": 9,
+        "candidato": "Wray Norman",
+        "value": 0.84034
+    },
+    {
+        "parroquia": "QUINARA",
+        "id": 1780,
+        "votos": 5,
+        "candidato": "Wray Norman",
+        "value": 0.696
+    },
+    {
+        "parroquia": "JIMBILLA",
+        "id": 1840,
+        "votos": 6,
+        "candidato": "Wray Norman",
+        "value": 0.9
+    },
+    {
+        "parroquia": "MALACATOS/VALLADOLID",
+        "id": 2325,
+        "votos": 49,
+        "candidato": "Wray Norman",
+        "value": 1.154
+    },
+    {
+        "parroquia": "SAN LUCAS",
+        "id": 3555,
+        "votos": 22,
+        "candidato": "Wray Norman",
+        "value": 0.898
+    },
+    {
+        "parroquia": "SANTIAGO",
+        "id": 3770,
+        "votos": 8,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "TAQUIL /MIGUEL RIOFRIO",
+        "id": 3970,
+        "votos": 26,
+        "candidato": "Wray Norman",
+        "value": 1.5
+    },
+    {
+        "parroquia": "VILCABAMBA/VICTORIA",
+        "id": 4235,
+        "votos": 26,
+        "candidato": "Wray Norman",
+        "value": 0.8781
+    },
+    {
+        "parroquia": "YANGANA / ARSENIO CASTILLO",
+        "id": 4280,
+        "votos": 8,
+        "candidato": "Wray Norman",
+        "value": 0.839
+    },
+    {
+        "parroquia": "CHANTACO",
+        "id": 4475,
+        "votos": 12,
+        "candidato": "Wray Norman",
+        "value": 1.7
+    },
+    {
+        "parroquia": "SAN PEDRO DE VILCABAMBA",
+        "id": 4540,
+        "votos": 7,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "EL SAGRARIO",
+        "id": 5320,
+        "votos": 258,
+        "candidato": "Wray Norman",
+        "value": 1.5228
+    },
+    {
+        "parroquia": "SAN SEBASTIAN",
+        "id": 6015,
+        "votos": 355,
+        "candidato": "Wray Norman",
+        "value": 1.54
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 6100,
+        "votos": 569,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "VALLE",
+        "id": 6210,
+        "votos": 381,
+        "candidato": "Wray Norman",
+        "value": 1.4
+    }
+]

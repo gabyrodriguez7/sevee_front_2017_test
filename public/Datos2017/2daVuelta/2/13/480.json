@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "BOYACÁ",
+    "id": 380,
+    "votos": 1778,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 59.17
+  },
+  {
+    "parroquia": "CHIBUNGA",
+    "id": 405,
+    "votos": 2070,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 62.99
+  },
+  {
+    "parroquia": "CANUTO",
+    "id": 495,
+    "votos": 4806,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 64.38
+  },
+  {
+    "parroquia": "CONVENTO",
+    "id": 640,
+    "votos": 2411,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 62.28
+  },
+  {
+    "parroquia": "ELOY ALFARO",
+    "id": 1160,
+    "votos": 1836,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 57.46
+  },
+  {
+    "parroquia": "RICAURTE",
+    "id": 3170,
+    "votos": 2239,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 53.9
+  },
+  {
+    "parroquia": "SAN ANTONIO / DEL PELUDO",
+    "id": 3350,
+    "votos": 3841,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 72.2
+  },
+  {
+    "parroquia": "CHONE",
+    "id": 5250,
+    "votos": 22956,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 52.42
+  },
+  {
+    "parroquia": "SANTA RITA",
+    "id": 6055,
+    "votos": 6042,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 56.07
+  }
+]

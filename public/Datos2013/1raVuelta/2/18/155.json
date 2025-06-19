@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "LOS ANDES",
+        "id": 2210,
+        "votos": 23,
+        "candidato": "Noboa Alvaro",
+        "value": 3.25
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 3885,
+        "votos": 38,
+        "candidato": "Noboa Alvaro",
+        "value": 3.3
+    },
+    {
+        "parroquia": "EL TRIUNFO",
+        "id": 4110,
+        "votos": 33,
+        "candidato": "Noboa Alvaro",
+        "value": 5.0
+    },
+    {
+        "parroquia": "PATATE",
+        "id": 5830,
+        "votos": 165,
+        "candidato": "Noboa Alvaro",
+        "value": 3.0126
+    }
+]

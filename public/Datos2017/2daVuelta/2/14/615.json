@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "ARAPICOS",
+    "id": 155,
+    "votos": 157,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 45.11
+  },
+  {
+    "parroquia": "CUMANDÁ",
+    "id": 715,
+    "votos": 198,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 48.06
+  },
+  {
+    "parroquia": "16 DE AGOSTO",
+    "id": 1685,
+    "votos": 202,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 33.55
+  },
+  {
+    "parroquia": "SANGAY",
+    "id": 3420,
+    "votos": 287,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 38.01
+  },
+  {
+    "parroquia": "PALORA",
+    "id": 5760,
+    "votos": 1168,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 39.53
+  }
+]

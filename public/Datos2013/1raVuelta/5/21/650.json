@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "PALMA ROJA",
+        "id": 2720,
+        "votos": 281,
+        "candidato": "Gutierrez Lucio",
+        "value": 17.36712
+    },
+    {
+        "parroquia": "PUERTO BOLIVAR",
+        "id": 3005,
+        "votos": 21,
+        "candidato": "Gutierrez Lucio",
+        "value": 38.182
+    },
+    {
+        "parroquia": "PUERTO RODRIGUEZ",
+        "id": 3020,
+        "votos": 2,
+        "candidato": "Gutierrez Lucio",
+        "value": 2.7
+    },
+    {
+        "parroquia": "SANTA ELENA",
+        "id": 3705,
+        "votos": 50,
+        "candidato": "Gutierrez Lucio",
+        "value": 11.7
+    },
+    {
+        "parroquia": "EL CARMEN DE PUTUMAYO",
+        "id": 6500,
+        "votos": 158,
+        "candidato": "Gutierrez Lucio",
+        "value": 9.6
+    }
+]

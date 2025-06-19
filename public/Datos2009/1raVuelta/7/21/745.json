@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "EL DORADO DE CASCALES",
+    "id": 6325,
+    "votos": 52,
+    "candidato": "Alvaro Noboa",
+    "value": 1.8
+  },
+  {
+    "parroquia": "SANTA ROSA DE SUCUMBIOS",
+    "id": 3750,
+    "votos": 2,
+    "candidato": "Alvaro Noboa",
+    "value": 0.59
+  },
+  {
+    "parroquia": "SEVILLA",
+    "id": 1095,
+    "votos": 13,
+    "candidato": "Alvaro Noboa",
+    "value": 1.18
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "GRAL. VERNAZA",
+    "id": 1350,
+    "votos": 986,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 22.7
+  },
+  {
+    "parroquia": "JUNQUILLAL",
+    "id": 1595,
+    "votos": 1141,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 23.68
+  },
+  {
+    "parroquia": "VICTORIA",
+    "id": 4220,
+    "votos": 734,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 29.29
+  },
+  {
+    "parroquia": "BOCANA",
+    "id": 5120,
+    "votos": 74,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 26.91
+  },
+  {
+    "parroquia": "CANDILEJOS",
+    "id": 5155,
+    "votos": 128,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 22.11
+  },
+  {
+    "parroquia": "SALITRE",
+    "id": 5200,
+    "votos": 6486,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 28.7
+  },
+  {
+    "parroquia": "PARAÍSO",
+    "id": 5765,
+    "votos": 51,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 41.8
+  },
+  {
+    "parroquia": "SAN MATEO",
+    "id": 5990,
+    "votos": 41,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 35.96
+  }
+]

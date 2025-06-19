@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "TARAPOA",
+        "id": 6765,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.11
+    },
+    {
+        "parroquia": "AGUAS NEGRAS",
+        "id": 1555,
+        "votos": 2,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.37
+    },
+    {
+        "parroquia": "CUYABENO",
+        "id": 760,
+        "votos": 0,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.0
+    }
+]

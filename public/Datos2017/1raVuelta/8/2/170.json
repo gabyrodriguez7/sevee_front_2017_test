@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "ASUNCIÓN",
+    "id": 170,
+    "votos": 60,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.8
+  },
+  {
+    "parroquia": "MAGDALENA/CHAPACOTO",
+    "id": 2315,
+    "votos": 54,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.96
+  },
+  {
+    "parroquia": "SAN SEBASTIÁN",
+    "id": 3655,
+    "votos": 15,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.89
+  },
+  {
+    "parroquia": "TELIMBELA",
+    "id": 3995,
+    "votos": 5,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.64
+  },
+  {
+    "parroquia": "SAN JOSÉ DE CHIMBO",
+    "id": 5975,
+    "votos": 72,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.58
+  }
+]

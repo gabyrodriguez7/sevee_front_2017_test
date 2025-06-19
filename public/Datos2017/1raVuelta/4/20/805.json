@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "BELLA VISTA",
+    "id": 235,
+    "votos": 117,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 14.06
+  },
+  {
+    "parroquia": "SANTA ROSA",
+    "id": 1985,
+    "votos": 26,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.22
+  },
+  {
+    "parroquia": "PUERTO AYORA",
+    "id": 6505,
+    "votos": 958,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.47
+  }
+]

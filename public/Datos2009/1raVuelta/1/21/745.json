@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "EL DORADO DE CASCALES",
+    "id": 6325,
+    "votos": 160,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 5.53
+  },
+  {
+    "parroquia": "SANTA ROSA DE SUCUMBIOS",
+    "id": 3750,
+    "votos": 11,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 3.24
+  },
+  {
+    "parroquia": "SEVILLA",
+    "id": 1095,
+    "votos": 38,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 3.44
+  }
+]

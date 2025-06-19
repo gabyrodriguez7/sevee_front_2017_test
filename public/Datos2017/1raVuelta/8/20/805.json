@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "BELLA VISTA",
+    "id": 235,
+    "votos": 23,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.76
+  },
+  {
+    "parroquia": "SANTA ROSA",
+    "id": 1985,
+    "votos": 6,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.13
+  },
+  {
+    "parroquia": "PUERTO AYORA",
+    "id": 6505,
+    "votos": 222,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.89
+  }
+]

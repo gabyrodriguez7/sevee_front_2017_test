@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "NUEVA LOJA",
+    "id": 5710,
+    "votos": 180,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.69
+  },
+  {
+    "parroquia": "JAMBELI",
+    "id": 1795,
+    "votos": 7,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.95
+  },
+  {
+    "parroquia": "SANTA CECILIA",
+    "id": 1790,
+    "votos": 1,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.08
+  },
+  {
+    "parroquia": "GENERAL FARFAN",
+    "id": 1330,
+    "votos": 8,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.66
+  },
+  {
+    "parroquia": "PACAYACU",
+    "id": 1290,
+    "votos": 12,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.5
+  },
+  {
+    "parroquia": "EL ENO",
+    "id": 1285,
+    "votos": 14,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.68
+  },
+  {
+    "parroquia": "DURENO",
+    "id": 1045,
+    "votos": 7,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.56
+  }
+]

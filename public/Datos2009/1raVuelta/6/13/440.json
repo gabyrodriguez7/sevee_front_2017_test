@@ -1,0 +1,114 @@
+[
+    {
+        "parroquia": "SIMON BOLIVAR",
+        "id": 6910,
+        "votos": 11,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.78
+    },
+    {
+        "parroquia": "FRANCISCO PACHECO",
+        "id": 6775,
+        "votos": 11,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.61
+    },
+    {
+        "parroquia": "18 DE OCTUBRE",
+        "id": 6770,
+        "votos": 6,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.97
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 6585,
+        "votos": 32,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.94
+    },
+    {
+        "parroquia": "PICOAZA",
+        "id": 5845,
+        "votos": 43,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.44
+    },
+    {
+        "parroquia": "PORTOVIEJO",
+        "id": 5795,
+        "votos": 271,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.15
+    },
+    {
+        "parroquia": "12 DE MARZO",
+        "id": 5280,
+        "votos": 416,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.47
+    },
+    {
+        "parroquia": "COLON",
+        "id": 5265,
+        "votos": 56,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.6
+    },
+    {
+        "parroquia": "ANDRES DE VERA",
+        "id": 5030,
+        "votos": 438,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.24
+    },
+    {
+        "parroquia": "SAN PLACIDO",
+        "id": 3625,
+        "votos": 32,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.71
+    },
+    {
+        "parroquia": "RIO CHICO",
+        "id": 3185,
+        "votos": 33,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.57
+    },
+    {
+        "parroquia": "PUEBLO NUEVO",
+        "id": 2970,
+        "votos": 6,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.36
+    },
+    {
+        "parroquia": "CHIRIJOS",
+        "id": 1925,
+        "votos": 3,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.48
+    },
+    {
+        "parroquia": "CRUCITA",
+        "id": 770,
+        "votos": 34,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.66
+    },
+    {
+        "parroquia": "ALHAJUELA /BAJO GRANDE",
+        "id": 50,
+        "votos": 17,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.58
+    },
+    {
+        "parroquia": "ABDON CALDERON",
+        "id": 10,
+        "votos": 42,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.57
+    }
+]

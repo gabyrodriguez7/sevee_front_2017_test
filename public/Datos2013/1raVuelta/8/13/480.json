@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "BOYACA",
+        "id": 380,
+        "votos": 79,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.32
+    },
+    {
+        "parroquia": "CHIBUNGA",
+        "id": 405,
+        "votos": 49,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.19141
+    },
+    {
+        "parroquia": "CANUTO",
+        "id": 495,
+        "votos": 273,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.25
+    },
+    {
+        "parroquia": "CONVENTO",
+        "id": 640,
+        "votos": 86,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.6
+    },
+    {
+        "parroquia": "ELOY ALFARO",
+        "id": 1160,
+        "votos": 56,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.1
+    },
+    {
+        "parroquia": "RICAURTE",
+        "id": 3170,
+        "votos": 87,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.7
+    },
+    {
+        "parroquia": "SAN ANTONIO / DEL PELUDO",
+        "id": 3350,
+        "votos": 116,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.5
+    },
+    {
+        "parroquia": "CHONE",
+        "id": 5250,
+        "votos": 1811,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.485
+    },
+    {
+        "parroquia": "SANTA RITA",
+        "id": 6055,
+        "votos": 398,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.419
+    }
+]

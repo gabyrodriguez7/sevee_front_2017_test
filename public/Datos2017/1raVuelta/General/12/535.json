@@ -1,0 +1,24 @@
+[
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "BUCARAM PULLEY ABDALA JAIME",
+        "id": 3175,
+        "votos": 11096,
+        "votos1": 4144,
+        "votos2": 2190,
+        "fill": "#1eff00",
+        "porcentaje1": 37.35,
+        "porcentaje2": 19.74
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "BUCARAM PULLEY ABDALA JAIME",
+        "id": 5185,
+        "votos": 7747,
+        "votos1": 2761,
+        "votos2": 2073,
+        "fill": "#1eff00",
+        "porcentaje1": 35.64,
+        "porcentaje2": 26.76
+    }
+]

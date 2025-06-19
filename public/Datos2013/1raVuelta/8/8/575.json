@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CUBE / CHANCAMA",
+        "id": 700,
+        "votos": 24,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.0
+    },
+    {
+        "parroquia": "CHURA",
+        "id": 980,
+        "votos": 16,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.8
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 1530,
+        "votos": 242,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.65409
+    },
+    {
+        "parroquia": "MALIMPIA / GUAYLLABAMBA",
+        "id": 2345,
+        "votos": 77,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.4
+    },
+    {
+        "parroquia": "VICHE",
+        "id": 4230,
+        "votos": 61,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.7493547
+    },
+    {
+        "parroquia": "ROSA ZARATE",
+        "id": 5895,
+        "votos": 863,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.3
+    }
+]

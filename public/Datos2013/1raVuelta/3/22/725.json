@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "SAN CARLOS",
+        "id": 415,
+        "votos": 17,
+        "candidato": "Wray Norman",
+        "value": 1.01
+    },
+    {
+        "parroquia": "ENOKANQUI",
+        "id": 490,
+        "votos": 15,
+        "candidato": "Wray Norman",
+        "value": 1.145
+    },
+    {
+        "parroquia": "RUMIPAMBA",
+        "id": 1950,
+        "votos": 4,
+        "candidato": "Wray Norman",
+        "value": 0.607
+    },
+    {
+        "parroquia": "TRES DE NOVIEMBRE",
+        "id": 1955,
+        "votos": 14,
+        "candidato": "Wray Norman",
+        "value": 0.945
+    },
+    {
+        "parroquia": "LAGO SAN PEDRO",
+        "id": 1960,
+        "votos": 6,
+        "candidato": "Wray Norman",
+        "value": 0.644
+    },
+    {
+        "parroquia": "UNION MILAGREÑA",
+        "id": 1965,
+        "votos": 5,
+        "candidato": "Wray Norman",
+        "value": 0.36023055
+    },
+    {
+        "parroquia": "POMPEYA",
+        "id": 2930,
+        "votos": 1,
+        "candidato": "Wray Norman",
+        "value": 0.2
+    },
+    {
+        "parroquia": "SAN SEBASTIAN DE COCA",
+        "id": 3660,
+        "votos": 8,
+        "candidato": "Wray Norman",
+        "value": 0.4
+    },
+    {
+        "parroquia": "LA JOYA DE LOS SACHAS",
+        "id": 6200,
+        "votos": 192,
+        "candidato": "Wray Norman",
+        "value": 1.8
+    }
+]

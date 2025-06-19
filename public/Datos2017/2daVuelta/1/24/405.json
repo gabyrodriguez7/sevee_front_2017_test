@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "ANCONCITO",
+    "id": 115,
+    "votos": 1665,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 23.42
+  },
+  {
+    "parroquia": "JOSÉ LUIS TAMAYO / MUEY",
+    "id": 1850,
+    "votos": 4937,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 39.07
+  },
+  {
+    "parroquia": "SALINAS",
+    "id": 5920,
+    "votos": 6749,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 47.61
+  },
+  {
+    "parroquia": "GRAL. A. E. GALLO",
+    "id": 6270,
+    "votos": 892,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 52.72
+  },
+  {
+    "parroquia": "VICENTE ROCAFUERTE",
+    "id": 6275,
+    "votos": 854,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 40.74
+  },
+  {
+    "parroquia": "CARLOS ESPINOZA LARREA",
+    "id": 6280,
+    "votos": 1886,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 51.4
+  },
+  {
+    "parroquia": "SANTA ROSA",
+    "id": 6925,
+    "votos": 1308,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 31.8
+  }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "parroquia": "ALAQUEZ",
+        "id": 35,
+        "votos": 177,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.1
+    },
+    {
+        "parroquia": "BELISARIO QUEVEDO",
+        "id": 315,
+        "votos": 142,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.6
+    },
+    {
+        "parroquia": "GUAYTACAMA",
+        "id": 1485,
+        "votos": 241,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.421207
+    },
+    {
+        "parroquia": "JOSEGUANGO BAJO",
+        "id": 1905,
+        "votos": 38,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.7
+    },
+    {
+        "parroquia": "MULALO",
+        "id": 2480,
+        "votos": 215,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.0
+    },
+    {
+        "parroquia": "11 DE NOVIEMBRE",
+        "id": 2620,
+        "votos": 84,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 5.94
+    },
+    {
+        "parroquia": "POALO",
+        "id": 2920,
+        "votos": 161,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 5.0
+    },
+    {
+        "parroquia": "SAN JUAN DE PASTOCALLE",
+        "id": 3530,
+        "votos": 275,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.0
+    },
+    {
+        "parroquia": "TANICUCHI",
+        "id": 3965,
+        "votos": 342,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.41
+    },
+    {
+        "parroquia": "TOACAZO",
+        "id": 4035,
+        "votos": 203,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.58
+    },
+    {
+        "parroquia": "ELOY ALFARO / SAN FELIPE",
+        "id": 5310,
+        "votos": 1157,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 6.14
+    },
+    {
+        "parroquia": "IGNACIO FLORES",
+        "id": 5465,
+        "votos": 607,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 6.17
+    },
+    {
+        "parroquia": "JUAN MONTALVO",
+        "id": 5500,
+        "votos": 509,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 5.02
+    },
+    {
+        "parroquia": "LA MATRIZ",
+        "id": 5555,
+        "votos": 1231,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 6.3
+    },
+    {
+        "parroquia": "SAN BUENAVENTURA",
+        "id": 5940,
+        "votos": 174,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 5.5
+    }
+]

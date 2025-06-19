@@ -1,0 +1,72 @@
+[
+  {
+    "parroquia": "ACHUPALLAS",
+    "id": 20,
+    "votos": 119,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 2.67
+  },
+  {
+    "parroquia": "GUASUNTOS",
+    "id": 1465,
+    "votos": 52,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.41
+  },
+  {
+    "parroquia": "HUIGRA",
+    "id": 1660,
+    "votos": 121,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.05
+  },
+  {
+    "parroquia": "MULTITUD",
+    "id": 2485,
+    "votos": 79,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.5
+  },
+  {
+    "parroquia": "PISTISHI",
+    "id": 2905,
+    "votos": 29,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 20
+  },
+  {
+    "parroquia": "PUMALLACTA",
+    "id": 3025,
+    "votos": 24,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.02
+  },
+  {
+    "parroquia": "SEVILLA",
+    "id": 3820,
+    "votos": 13,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 3.6
+  },
+  {
+    "parroquia": "SIBAMBE",
+    "id": 3845,
+    "votos": 210,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 14.06
+  },
+  {
+    "parroquia": "TIXÁN",
+    "id": 4030,
+    "votos": 230,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 4.42
+  },
+  {
+    "parroquia": "ALAUSÍ",
+    "id": 5010,
+    "votos": 1030,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.42
+  }
+]

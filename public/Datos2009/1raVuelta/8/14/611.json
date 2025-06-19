@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "LOGROÑO",
+    "id": 6735,
+    "votos": 815,
+    "candidato": "Lucio Gutierrez",
+    "value": 63.92
+  },
+  {
+    "parroquia": "YAUPI",
+    "id": 4300,
+    "votos": 390,
+    "candidato": "Lucio Gutierrez",
+    "value": 85.71
+  },
+  {
+    "parroquia": "SHIMPIS",
+    "id": 525,
+    "votos": 494,
+    "candidato": "Lucio Gutierrez",
+    "value": 87.9
+  }
+]

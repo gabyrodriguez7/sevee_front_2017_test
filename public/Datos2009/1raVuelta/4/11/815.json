@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CHAGUARPAMBA",
+        "id": 6530,
+        "votos": 1381,
+        "candidato": "Rafael Correa Delgado",
+        "value": 62.71
+    },
+    {
+        "parroquia": "SANTA RUFINA",
+        "id": 3755,
+        "votos": 372,
+        "candidato": "Rafael Correa Delgado",
+        "value": 79.48
+    },
+    {
+        "parroquia": "AMARILLOS",
+        "id": 1450,
+        "votos": 115,
+        "candidato": "Rafael Correa Delgado",
+        "value": 70.98
+    },
+    {
+        "parroquia": "EL ROSARIO",
+        "id": 1180,
+        "votos": 169,
+        "candidato": "Rafael Correa Delgado",
+        "value": 78.6
+    },
+    {
+        "parroquia": "BUENAVISTA",
+        "id": 385,
+        "votos": 505,
+        "candidato": "Rafael Correa Delgado",
+        "value": 80.8
+    }
+]

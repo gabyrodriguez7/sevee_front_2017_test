@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "SAN PEDRO DE LOS COFANES",
+    "id": 600,
+    "votos": 164,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.69
+  },
+  {
+    "parroquia": "SIETE DE JULIO",
+    "id": 780,
+    "votos": 172,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.88
+  },
+  {
+    "parroquia": "LIMONCOCHA",
+    "id": 2175,
+    "votos": 323,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 17.29
+  },
+  {
+    "parroquia": "PANACOCHA",
+    "id": 2765,
+    "votos": 18,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.25
+  },
+  {
+    "parroquia": "SAN ROQUE",
+    "id": 3645,
+    "votos": 98,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.95
+  },
+  {
+    "parroquia": "SHUSHUFINDI CENTRAL",
+    "id": 6140,
+    "votos": 1262,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.47
+  }
+]

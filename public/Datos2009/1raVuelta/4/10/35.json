@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "SAN LUIS",
+        "id": 5980,
+        "votos": 6950,
+        "candidato": "Rafael Correa Delgado",
+        "value": 65.53
+    },
+    {
+        "parroquia": "JORDAN",
+        "id": 5490,
+        "votos": 9910,
+        "candidato": "Rafael Correa Delgado",
+        "value": 64.6
+    },
+    {
+        "parroquia": "SELVA ALEGRE",
+        "id": 3810,
+        "votos": 487,
+        "candidato": "Rafael Correa Delgado",
+        "value": 66.89
+    },
+    {
+        "parroquia": "SAN RAFAEL",
+        "id": 3630,
+        "votos": 1775,
+        "candidato": "Rafael Correa Delgado",
+        "value": 78.09
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 3590,
+        "votos": 3170,
+        "candidato": "Rafael Correa Delgado",
+        "value": 66.79
+    },
+    {
+        "parroquia": "SAN JUAN DE ILUMAN",
+        "id": 3525,
+        "votos": 2463,
+        "candidato": "Rafael Correa Delgado",
+        "value": 71.3
+    },
+    {
+        "parroquia": "SAN JOSE DE QUICHINCHE",
+        "id": 3490,
+        "votos": 2175,
+        "candidato": "Rafael Correa Delgado",
+        "value": 68.24
+    },
+    {
+        "parroquia": "PATAQUI",
+        "id": 2785,
+        "votos": 173,
+        "candidato": "Rafael Correa Delgado",
+        "value": 69.2
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 1360,
+        "votos": 2223,
+        "candidato": "Rafael Correa Delgado",
+        "value": 78.13
+    },
+    {
+        "parroquia": "EUGENIO ESPEJO",
+        "id": 1215,
+        "votos": 1985,
+        "candidato": "Rafael Correa Delgado",
+        "value": 71.86
+    },
+    {
+        "parroquia": "DR MIGUEL EGAS/PEGUCHE",
+        "id": 1040,
+        "votos": 1950,
+        "candidato": "Rafael Correa Delgado",
+        "value": 79.91
+    }
+]

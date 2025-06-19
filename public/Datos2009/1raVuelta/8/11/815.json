@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "CHAGUARPAMBA",
+    "id": 6530,
+    "votos": 634,
+    "candidato": "Lucio Gutierrez",
+    "value": 28.79
+  },
+  {
+    "parroquia": "SANTA RUFINA",
+    "id": 3755,
+    "votos": 64,
+    "candidato": "Lucio Gutierrez",
+    "value": 13.67
+  },
+  {
+    "parroquia": "AMARILLOS",
+    "id": 1450,
+    "votos": 42,
+    "candidato": "Lucio Gutierrez",
+    "value": 25.92
+  },
+  {
+    "parroquia": "EL ROSARIO",
+    "id": 1180,
+    "votos": 32,
+    "candidato": "Lucio Gutierrez",
+    "value": 14.88
+  },
+  {
+    "parroquia": "BUENAVISTA",
+    "id": 385,
+    "votos": 92,
+    "candidato": "Lucio Gutierrez",
+    "value": 14.72
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "ANGAMARCA",
+    "id": 125,
+    "votos": 1750,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 59.6
+  },
+  {
+    "parroquia": "GUANGAJE",
+    "id": 1430,
+    "votos": 3572,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 64.58
+  },
+  {
+    "parroquia": "LA VICTORIA",
+    "id": 2150,
+    "votos": 1120,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 58.12
+  },
+  {
+    "parroquia": "PILALÓ",
+    "id": 2865,
+    "votos": 652,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 51.5
+  },
+  {
+    "parroquia": "TINGO",
+    "id": 4015,
+    "votos": 1201,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 58.64
+  },
+  {
+    "parroquia": "ZUMBÁHUA",
+    "id": 4365,
+    "votos": 5223,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 56.77
+  },
+  {
+    "parroquia": "PUJILÍ",
+    "id": 5820,
+    "votos": 15527,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 61.36
+  }
+]

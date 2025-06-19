@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "SANTA MARIANITA",
+    "id": 1800,
+    "votos": 6,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.37
+  },
+  {
+    "parroquia": "SAN LORENZO",
+    "id": 3550,
+    "votos": 12,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.62
+  },
+  {
+    "parroquia": "LOS ESTEROS",
+    "id": 5570,
+    "votos": 89,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.45
+  },
+  {
+    "parroquia": "MANTA",
+    "id": 5635,
+    "votos": 237,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.44
+  },
+  {
+    "parroquia": "SAN MATEO",
+    "id": 6135,
+    "votos": 11,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.47
+  },
+  {
+    "parroquia": "TARQUI",
+    "id": 6155,
+    "votos": 214,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.41
+  },
+  {
+    "parroquia": "ELOY ALFARO",
+    "id": 6745,
+    "votos": 90,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.44
+  }
+]

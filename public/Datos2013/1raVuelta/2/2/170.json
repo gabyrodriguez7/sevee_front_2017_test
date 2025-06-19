@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "ASUNCION",
+        "id": 170,
+        "votos": 535,
+        "candidato": "Correa Delgado Rafael",
+        "value": 34.4
+    },
+    {
+        "parroquia": "MAGDALENA/CHAPACOTO",
+        "id": 2315,
+        "votos": 899,
+        "candidato": "Correa Delgado Rafael",
+        "value": 49.47716
+    },
+    {
+        "parroquia": "SAN SEBASTIAN",
+        "id": 3655,
+        "votos": 122,
+        "candidato": "Correa Delgado Rafael",
+        "value": 26.3499
+    },
+    {
+        "parroquia": "TELIMBELA",
+        "id": 3995,
+        "votos": 269,
+        "candidato": "Correa Delgado Rafael",
+        "value": 36.302
+    },
+    {
+        "parroquia": "SAN JOSE DE CHIMBO",
+        "id": 5975,
+        "votos": 1348,
+        "candidato": "Correa Delgado Rafael",
+        "value": 30.97
+    }
+]

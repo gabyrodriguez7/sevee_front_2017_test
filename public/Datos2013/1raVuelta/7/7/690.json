@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CURTINCAPAC",
+        "id": 740,
+        "votos": 4,
+        "candidato": "Zavala Nelson",
+        "value": 1.0
+    },
+    {
+        "parroquia": "SALATI",
+        "id": 3275,
+        "votos": 6,
+        "candidato": "Zavala Nelson",
+        "value": 1.12
+    },
+    {
+        "parroquia": "MORALES",
+        "id": 4520,
+        "votos": 4,
+        "candidato": "Zavala Nelson",
+        "value": 0.937
+    },
+    {
+        "parroquia": "PORTOVELO",
+        "id": 5850,
+        "votos": 58,
+        "candidato": "Zavala Nelson",
+        "value": 1.0
+    }
+]

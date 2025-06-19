@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "GRAL. VERNAZA",
+        "id": 1350,
+        "votos": 2995,
+        "candidato": "Correa Delgado Rafael",
+        "value": 73.4
+    },
+    {
+        "parroquia": "JUNQUILLAL",
+        "id": 1595,
+        "votos": 3205,
+        "candidato": "Correa Delgado Rafael",
+        "value": 69.48
+    },
+    {
+        "parroquia": "VICTORIA",
+        "id": 4220,
+        "votos": 1644,
+        "candidato": "Correa Delgado Rafael",
+        "value": 70.2
+    },
+    {
+        "parroquia": "BOCANA",
+        "id": 5120,
+        "votos": 162,
+        "candidato": "Correa Delgado Rafael",
+        "value": 62.31
+    },
+    {
+        "parroquia": "CANDILEJOS",
+        "id": 5155,
+        "votos": 444,
+        "candidato": "Correa Delgado Rafael",
+        "value": 62.0979
+    },
+    {
+        "parroquia": "SALITRE",
+        "id": 5200,
+        "votos": 14334,
+        "candidato": "Correa Delgado Rafael",
+        "value": 67.773
+    },
+    {
+        "parroquia": "PARAISO",
+        "id": 5765,
+        "votos": 82,
+        "candidato": "Correa Delgado Rafael",
+        "value": 63.1
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 5990,
+        "votos": 82,
+        "candidato": "Correa Delgado Rafael",
+        "value": 67.2131
+    }
+]

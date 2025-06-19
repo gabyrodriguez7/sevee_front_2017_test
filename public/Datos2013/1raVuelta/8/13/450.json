@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "SANTA MARIANITA",
+        "id": 1800,
+        "votos": 4,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 0.28612
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 3550,
+        "votos": 27,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.56431
+    },
+    {
+        "parroquia": "LOS ESTEROS",
+        "id": 5570,
+        "votos": 605,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.02
+    },
+    {
+        "parroquia": "MANTA",
+        "id": 5635,
+        "votos": 1989,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.86
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 6135,
+        "votos": 31,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.44
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 6155,
+        "votos": 1986,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.9
+    },
+    {
+        "parroquia": "ELOY ALFARO",
+        "id": 6745,
+        "votos": 455,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.78
+    }
+]

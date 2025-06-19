@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "ALOAG",
+    "id": 55,
+    "votos": 2193,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 36.46
+  },
+  {
+    "parroquia": "ALOASI",
+    "id": 60,
+    "votos": 1340,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 33.60
+  },
+  {
+    "parroquia": "CORNEJO ASTORGA /TANDAPI",
+    "id": 650,
+    "votos": 551,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 35.46
+  },
+  {
+    "parroquia": "CUTUGLAGUA",
+    "id": 755,
+    "votos": 2051,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 23.42
+  },
+  {
+    "parroquia": "CHAUPI",
+    "id": 850,
+    "votos": 317,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 35.26
+  },
+  {
+    "parroquia": "TAMBILLO",
+    "id": 3960,
+    "votos": 1995,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 30.21
+  },
+  {
+    "parroquia": "UYUMBICHO",
+    "id": 4155,
+    "votos": 842,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 31.12
+  },
+  {
+    "parroquia": "MACHACHI",
+    "id": 5620,
+    "votos": 8323,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 35.58
+  }
+]

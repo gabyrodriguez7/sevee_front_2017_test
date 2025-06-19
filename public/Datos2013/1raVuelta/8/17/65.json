@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "ASCAZUBI",
+    "id": 165,
+    "votos": 95,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 3.49136
+  },
+  {
+    "parroquia": "CANGAHUA",
+    "id": 480,
+    "votos": 122,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 1.87088
+  },
+  {
+    "parroquia": "OLMEDO/PESILLO",
+    "id": 2600,
+    "votos": 83,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 2.0
+  },
+  {
+    "parroquia": "OTON",
+    "id": 2635,
+    "votos": 37,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 2.4
+  },
+  {
+    "parroquia": "STA.ROSA DE CUSUBAMBA",
+    "id": 3735,
+    "votos": 52,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 2.7
+  },
+  {
+    "parroquia": "SAN JOSE DE AYORA",
+    "id": 4620,
+    "votos": 91,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 2.276
+  },
+  {
+    "parroquia": "CAYAMBE",
+    "id": 5190,
+    "votos": 932,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 3.469
+  },
+  {
+    "parroquia": "JUAN MONTALVO",
+    "id": 5495,
+    "votos": 63,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 3.307
+  }
+]

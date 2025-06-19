@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "EL PANGUI",
+    "id": 6355,
+    "votos": 120,
+    "candidato": "Alvaro Noboa",
+    "value": 4.63
+  },
+  {
+    "parroquia": "PACHICUTZA",
+    "id": 1015,
+    "votos": 3,
+    "candidato": "Alvaro Noboa",
+    "value": 0.69
+  },
+  {
+    "parroquia": "TUNDAYME",
+    "id": 945,
+    "votos": 0,
+    "candidato": "Alvaro Noboa",
+    "value": 0.0
+  },
+  {
+    "parroquia": "EL GUISMI",
+    "id": 665,
+    "votos": 16,
+    "candidato": "Alvaro Noboa",
+    "value": 3.03
+  }
+]

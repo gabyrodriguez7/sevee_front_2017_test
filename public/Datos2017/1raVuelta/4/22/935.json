@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "AVILA",
+    "id": 215,
+    "votos": 66,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 3.24
+  },
+  {
+    "parroquia": "SAN VICENTE DE HUATICOCHA",
+    "id": 400,
+    "votos": 23,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 3.62
+  },
+  {
+    "parroquia": "PUERTO MURIALDO",
+    "id": 1050,
+    "votos": 47,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 2.99
+  },
+  {
+    "parroquia": "SAN JOSÉ DE DAHUANO",
+    "id": 1680,
+    "votos": 53,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 2.44
+  },
+  {
+    "parroquia": "SAN JOSÉ DE PAYAMINO",
+    "id": 3480,
+    "votos": 30,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 2.17
+  },
+  {
+    "parroquia": "LORETO",
+    "id": 6455,
+    "votos": 173,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 4.24
+  }
+]

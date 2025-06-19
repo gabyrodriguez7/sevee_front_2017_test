@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "LIMONES",
+    "id": 280,
+    "votos": 23,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.22
+  },
+  {
+    "parroquia": "GARZAREAL",
+    "id": 290,
+    "votos": 23,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.51
+  },
+  {
+    "parroquia": "MANGAHURCO",
+    "id": 550,
+    "votos": 10,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.08
+  },
+  {
+    "parroquia": "BOLASPAMBA",
+    "id": 2000,
+    "votos": 12,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.47
+  },
+  {
+    "parroquia": "PALETILLAS",
+    "id": 2710,
+    "votos": 34,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.3
+  },
+  {
+    "parroquia": "CAZADEROS",
+    "id": 4605,
+    "votos": 7,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.73
+  },
+  {
+    "parroquia": "ZAPOTILLO",
+    "id": 6320,
+    "votos": 100,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.04
+  }
+]

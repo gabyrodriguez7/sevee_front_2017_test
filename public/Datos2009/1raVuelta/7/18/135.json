@@ -1,0 +1,191 @@
+[
+  {
+    "parroquia": "SAN FRANCISCO",
+    "id": 5945,
+    "votos": 630,
+    "candidato": "Alvaro Noboa",
+    "value": 11.96
+  },
+  {
+    "parroquia": "PISHILATA",
+    "id": 5840,
+    "votos": 91,
+    "candidato": "Alvaro Noboa",
+    "value": 6.44
+  },
+  {
+    "parroquia": "LA PENINSULA",
+    "id": 5605,
+    "votos": 99,
+    "candidato": "Alvaro Noboa",
+    "value": 10.47
+  },
+  {
+    "parroquia": "LA MERCED",
+    "id": 5560,
+    "votos": 1629,
+    "candidato": "Alvaro Noboa",
+    "value": 11.55
+  },
+  {
+    "parroquia": "LA MATRIZ",
+    "id": 5545,
+    "votos": 2240,
+    "candidato": "Alvaro Noboa",
+    "value": 12.09
+  },
+  {
+    "parroquia": "HUACHI CHICO",
+    "id": 5455,
+    "votos": 1282,
+    "candidato": "Alvaro Noboa",
+    "value": 8.88
+  },
+  {
+    "parroquia": "HUACHI LORETO",
+    "id": 5445,
+    "votos": 3520,
+    "candidato": "Alvaro Noboa",
+    "value": 9.99
+  },
+  {
+    "parroquia": "CELIANO MONGE",
+    "id": 5230,
+    "votos": 113,
+    "candidato": "Alvaro Noboa",
+    "value": 7.06
+  },
+  {
+    "parroquia": "ATOCHA FICOA",
+    "id": 5045,
+    "votos": 1004,
+    "candidato": "Alvaro Noboa",
+    "value": 12.81
+  },
+  {
+    "parroquia": "TOTORAS",
+    "id": 4065,
+    "votos": 203,
+    "candidato": "Alvaro Noboa",
+    "value": 6.2
+  },
+  {
+    "parroquia": "SANTA ROSA",
+    "id": 3730,
+    "votos": 414,
+    "candidato": "Alvaro Noboa",
+    "value": 5.36
+  },
+  {
+    "parroquia": "SAN FERNANDO",
+    "id": 3380,
+    "votos": 61,
+    "candidato": "Alvaro Noboa",
+    "value": 5.23
+  },
+  {
+    "parroquia": "SAN BARTOLOME",
+    "id": 3355,
+    "votos": 284,
+    "candidato": "Alvaro Noboa",
+    "value": 6.73
+  },
+  {
+    "parroquia": "QUISAPINCHA",
+    "id": 3120,
+    "votos": 207,
+    "candidato": "Alvaro Noboa",
+    "value": 3.97
+  },
+  {
+    "parroquia": "PILAHUIN",
+    "id": 2860,
+    "votos": 191,
+    "candidato": "Alvaro Noboa",
+    "value": 3.84
+  },
+  {
+    "parroquia": "PICAYHUA",
+    "id": 2830,
+    "votos": 520,
+    "candidato": "Alvaro Noboa",
+    "value": 6.82
+  },
+  {
+    "parroquia": "PASA",
+    "id": 2775,
+    "votos": 150,
+    "candidato": "Alvaro Noboa",
+    "value": 4.78
+  },
+  {
+    "parroquia": "MONTALVO",
+    "id": 2435,
+    "votos": 113,
+    "candidato": "Alvaro Noboa",
+    "value": 6.59
+  },
+  {
+    "parroquia": "JUAN BENIGNO VELA",
+    "id": 1860,
+    "votos": 194,
+    "candidato": "Alvaro Noboa",
+    "value": 5.24
+  },
+  {
+    "parroquia": "IZAMBA",
+    "id": 1745,
+    "votos": 583,
+    "candidato": "Alvaro Noboa",
+    "value": 6.15
+  },
+  {
+    "parroquia": "HUACHI GRANDE",
+    "id": 1625,
+    "votos": 308,
+    "candidato": "Alvaro Noboa",
+    "value": 7.72
+  },
+  {
+    "parroquia": "UNAMUNCHO",
+    "id": 810,
+    "votos": 50,
+    "candidato": "Alvaro Noboa",
+    "value": 5.49
+  },
+  {
+    "parroquia": "CUNCHIBAMBA",
+    "id": 800,
+    "votos": 109,
+    "candidato": "Alvaro Noboa",
+    "value": 6.72
+  },
+  {
+    "parroquia": "CONSTANTINO FERNANDEZ",
+    "id": 635,
+    "votos": 75,
+    "candidato": "Alvaro Noboa",
+    "value": 5.56
+  },
+  {
+    "parroquia": "AUGUSTO N MARTINEZ",
+    "id": 210,
+    "votos": 273,
+    "candidato": "Alvaro Noboa",
+    "value": 5.58
+  },
+  {
+    "parroquia": "ATAHUALPA /CHIPZALATA",
+    "id": 190,
+    "votos": 336,
+    "candidato": "Alvaro Noboa",
+    "value": 7.72
+  },
+  {
+    "parroquia": "AMBATILLO",
+    "id": 95,
+    "votos": 93,
+    "candidato": "Alvaro Noboa",
+    "value": 3.88
+  }
+]

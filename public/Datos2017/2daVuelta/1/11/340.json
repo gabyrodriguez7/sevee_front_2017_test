@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "BELLAVISTA",
+    "id": 320,
+    "votos": 402,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 33.17
+  },
+  {
+    "parroquia": "EL INGENIO",
+    "id": 790,
+    "votos": 228,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 21.41
+  },
+  {
+    "parroquia": "EL AIRO",
+    "id": 1645,
+    "votos": 163,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 30.07
+  },
+  {
+    "parroquia": "JIMBURA",
+    "id": 1845,
+    "votos": 675,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 52.9
+  },
+  {
+    "parroquia": "SANTA TERESITA",
+    "id": 3765,
+    "votos": 246,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 24.95
+  },
+  {
+    "parroquia": "27 DE ABRIL /LA NARANJA",
+    "id": 4460,
+    "votos": 572,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 48.68
+  },
+  {
+    "parroquia": "AMALUZA",
+    "id": 5020,
+    "votos": 1414,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 40.43
+  }
+]

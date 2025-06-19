@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "TONSUPA",
+        "id": 1615,
+        "votos": 2160,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 39.07
+    },
+    {
+        "parroquia": "LA UNIÓN",
+        "id": 2130,
+        "votos": 598,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 35.57
+    },
+    {
+        "parroquia": "SÚA/BOCANA",
+        "id": 3880,
+        "votos": 722,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 32.1
+    },
+    {
+        "parroquia": "TONCHÍGUE",
+        "id": 4055,
+        "votos": 1657,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 34.68
+    },
+    {
+        "parroquia": "ATACAMES",
+        "id": 6380,
+        "votos": 4648,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 41.47
+    }
+]

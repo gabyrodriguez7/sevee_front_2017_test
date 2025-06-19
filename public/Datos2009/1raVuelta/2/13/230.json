@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "FLAVIO ALFARO",
+        "id": 5480,
+        "votos": 54,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.58
+    },
+    {
+        "parroquia": "ZAPALLO",
+        "id": 1620,
+        "votos": 8,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.81
+    },
+    {
+        "parroquia": "NOVILLO",
+        "id": 1600,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.2
+    }
+]

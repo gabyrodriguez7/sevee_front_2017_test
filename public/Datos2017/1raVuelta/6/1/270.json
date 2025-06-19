@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "ASUNCIÓN",
+    "id": 175,
+    "votos": 10,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.65
+  },
+  {
+    "parroquia": "SAN GERARDO",
+    "id": 885,
+    "votos": 4,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.26
+  },
+  {
+    "parroquia": "GIRÓN",
+    "id": 5395,
+    "votos": 51,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.83
+  }
+]

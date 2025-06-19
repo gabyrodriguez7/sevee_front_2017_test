@@ -1,0 +1,66 @@
+[
+                {
+                    "parroquia": "CANGONAMA",
+                    "id": 485,
+                    "votos": 153,
+                    "candidato": "Lasso Guillermo",
+                    "value": 26.75
+                },
+                {
+                    "parroquia": "SAN ANTONIO",
+                    "id": 545,
+                    "votos": 98,
+                    "candidato": "Lasso Guillermo",
+                    "value": 27.1
+                },
+                {
+                    "parroquia": "CASANGA",
+                    "id": 995,
+                    "votos": 68,
+                    "candidato": "Lasso Guillermo",
+                    "value": 15.9
+                },
+                {
+                    "parroquia": "YAMANA",
+                    "id": 1000,
+                    "votos": 122,
+                    "candidato": "Lasso Guillermo",
+                    "value": 24.2544732
+                },
+                {
+                    "parroquia": "GUACHANAMA",
+                    "id": 1380,
+                    "votos": 213,
+                    "candidato": "Lasso Guillermo",
+                    "value": 32.7
+                },
+                {
+                    "parroquia": "LAURO GUERRERO",
+                    "id": 2140,
+                    "votos": 282,
+                    "candidato": "Lasso Guillermo",
+                    "value": 29.7
+                },
+                {
+                    "parroquia": "ORIANGA",
+                    "id": 2630,
+                    "votos": 316,
+                    "candidato": "Lasso Guillermo",
+                    "value": 31.0
+                },
+                {
+                    "parroquia": "CATACOCHA",
+                    "id": 5180,
+                    "votos": 2893,
+                    "candidato": "Lasso Guillermo",
+                    "value": 33.98332
+                },
+                {
+                    "parroquia": "LOURDES",
+                    "id": 5595,
+                    "votos": 219,
+                    "candidato": "Lasso Guillermo",
+                    "value": 33.7
+                }
+            ]
+            

@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "BUENAVISTA",
+    "id": 385,
+    "votos": 27,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.34
+  },
+  {
+    "parroquia": "EL ROSARIO",
+    "id": 1180,
+    "votos": 5,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.69
+  },
+  {
+    "parroquia": "AMARILLOS",
+    "id": 1450,
+    "votos": 6,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.1
+  },
+  {
+    "parroquia": "SANTA RUFINA",
+    "id": 3755,
+    "votos": 19,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.93
+  },
+  {
+    "parroquia": "CHAGUARPAMBA",
+    "id": 6530,
+    "votos": 60,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.12
+  }
+]

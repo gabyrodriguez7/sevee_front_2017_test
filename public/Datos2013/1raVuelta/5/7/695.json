@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "HUAQUILLAS",
+        "id": 5460,
+        "votos": 741,
+        "candidato": "Gutierrez Lucio",
+        "value": 3.0
+    },
+    {
+        "parroquia": "HUALTACO",
+        "id": 6800,
+        "votos": 18,
+        "candidato": "Gutierrez Lucio",
+        "value": 3.696
+    },
+    {
+        "parroquia": "MILTON REYES",
+        "id": 6805,
+        "votos": 13,
+        "candidato": "Gutierrez Lucio",
+        "value": 2.935
+    },
+    {
+        "parroquia": "EL PARAISO",
+        "id": 6810,
+        "votos": 22,
+        "candidato": "Gutierrez Lucio",
+        "value": 5.0
+    },
+    {
+        "parroquia": "ECUADOR",
+        "id": 6815,
+        "votos": 32,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.7267356
+    },
+    {
+        "parroquia": "UNION LOJANA",
+        "id": 6820,
+        "votos": 56,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.9955397
+    }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "CHAQUINAL",
+    "id": 835,
+    "votos": 37,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.52
+  },
+  {
+    "parroquia": "12 DE DICIEMBRE",
+    "id": 1035,
+    "votos": 42,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 4.65
+  },
+  {
+    "parroquia": "MILAGROS",
+    "id": 4545,
+    "votos": 40,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 3.72
+  },
+  {
+    "parroquia": "PINDAL /FEDERÍCO PÁEZ",
+    "id": 5810,
+    "votos": 228,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.76
+  }
+]

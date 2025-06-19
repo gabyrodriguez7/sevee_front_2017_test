@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "LA PILA",
+    "id": 1545,
+    "votos": 120,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 6.6
+  },
+  {
+    "parroquia": "MONTECRISTI",
+    "id": 5665,
+    "votos": 1875,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 6.42
+  },
+  {
+    "parroquia": "ANIBAL SAN ANDRÉS",
+    "id": 7460,
+    "votos": 36,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 5.94
+  },
+  {
+    "parroquia": "COLORADO",
+    "id": 7490,
+    "votos": 69,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 7.89
+  },
+  {
+    "parroquia": "LEONIDAS PROAÑO",
+    "id": 7495,
+    "votos": 353,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.77
+  },
+  {
+    "parroquia": "GENERAL ELOY ALFARO DELGA",
+    "id": 7500,
+    "votos": 76,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 6.7
+  }
+]

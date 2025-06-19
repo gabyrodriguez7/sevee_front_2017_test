@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "C. E. EN MONTREAL",
+    "id": 9010,
+    "votos": 5,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": "2,09"
+  },
+  {
+    "parroquia": "C. E. EN TORONTO",
+    "id": 9011,
+    "votos": 35,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": "1,88"
+  },
+  {
+    "parroquia": "C. E. EN OTTAWA",
+    "id": 9012,
+    "votos": 1,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": "1,85"
+  }
+]

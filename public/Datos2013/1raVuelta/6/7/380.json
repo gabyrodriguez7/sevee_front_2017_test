@@ -1,0 +1,38 @@
+[
+                {
+                    "parroquia": "LA IBERIA",
+                    "id": 245,
+                    "votos": 369,
+                    "candidato": "Lasso Guillermo",
+                    "value": 23.62356
+                },
+                {
+                    "parroquia": "BARBONES",
+                    "id": 300,
+                    "votos": 581,
+                    "candidato": "Lasso Guillermo",
+                    "value": 17.827554
+                },
+                {
+                    "parroquia": "RIO BONITO",
+                    "id": 2050,
+                    "votos": 192,
+                    "candidato": "Lasso Guillermo",
+                    "value": 12.0
+                },
+                {
+                    "parroquia": "TENDALES",
+                    "id": 4000,
+                    "votos": 347,
+                    "candidato": "Lasso Guillermo",
+                    "value": 20.3
+                },
+                {
+                    "parroquia": "EL GUABO",
+                    "id": 5340,
+                    "votos": 5132,
+                    "candidato": "Lasso Guillermo",
+                    "value": 25.500621
+                }
+            ]
+            

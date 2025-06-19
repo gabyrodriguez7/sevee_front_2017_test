@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "JIPIJAPA",
+        "id": 5485,
+        "votos": 86,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.32
+    },
+    {
+        "parroquia": "MEMBRILLAL",
+        "id": 4490,
+        "votos": 5,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.99
+    },
+    {
+        "parroquia": "PUERTO CAYO",
+        "id": 2990,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.21
+    },
+    {
+        "parroquia": "PEDRO PABLO GOMEZ",
+        "id": 2810,
+        "votos": 15,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.62
+    },
+    {
+        "parroquia": "JULCUY",
+        "id": 1880,
+        "votos": 6,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.64
+    },
+    {
+        "parroquia": "EL ANEGADO",
+        "id": 1115,
+        "votos": 6,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.21
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 560,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.18
+    },
+    {
+        "parroquia": "AMERICA /LA CERA",
+        "id": 105,
+        "votos": 10,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.5
+    }
+]

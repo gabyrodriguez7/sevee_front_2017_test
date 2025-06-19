@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "CAMPOZANO",
+    "id": 460,
+    "votos": 298,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.53
+  },
+  {
+    "parroquia": "CASCOL",
+    "id": 540,
+    "votos": 140,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.98
+  },
+  {
+    "parroquia": "GUALE/STO.DOMINGO",
+    "id": 1395,
+    "votos": 109,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.72
+  },
+  {
+    "parroquia": "LASCANO",
+    "id": 2090,
+    "votos": 119,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.67
+  },
+  {
+    "parroquia": "PAJÁN",
+    "id": 5755,
+    "votos": 876,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.87
+  }
+]

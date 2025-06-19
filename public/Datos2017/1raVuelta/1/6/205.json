@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "CANI",
+    "id": 500,
+    "votos": 260,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 45.69
+  },
+  {
+    "parroquia": "COLUMBE",
+    "id": 610,
+    "votos": 5531,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 54.16
+  },
+  {
+    "parroquia": "JUAN DE VELASCO / PONGOR",
+    "id": 1865,
+    "votos": 766,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 45.11
+  },
+  {
+    "parroquia": "SANTIAGO DE QUITO",
+    "id": 4430,
+    "votos": 427,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 34.21
+  },
+  {
+    "parroquia": "CAJABAMBA",
+    "id": 5145,
+    "votos": 3282,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 45.38
+  },
+  {
+    "parroquia": "SICALPA",
+    "id": 6080,
+    "votos": 2955,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 48.9
+  }
+]

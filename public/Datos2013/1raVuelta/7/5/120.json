@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "MORASPUNGO",
+    "id": 2460,
+    "votos": 37,
+    "candidato": "Zavala Nelson",
+    "value": 0.656
+  },
+  {
+    "parroquia": "PINLLOPATA",
+    "id": 2890,
+    "votos": 0,
+    "candidato": "Zavala Nelson",
+    "value": 0.0
+  },
+  {
+    "parroquia": "RAMON CAMPAÑA",
+    "id": 3155,
+    "votos": 5,
+    "candidato": "Zavala Nelson",
+    "value": 0.72
+  },
+  {
+    "parroquia": "EL CORAZON",
+    "id": 5305,
+    "votos": 27,
+    "candidato": "Zavala Nelson",
+    "value": 0.66
+  }
+]

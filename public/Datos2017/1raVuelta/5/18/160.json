@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "YANAYACU MOCHAPATA",
+    "id": 4310,
+    "votos": 4,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.44
+  },
+  {
+    "parroquia": "RUMIPAMBA",
+    "id": 4550,
+    "votos": 6,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.67
+  },
+  {
+    "parroquia": "QUERO",
+    "id": 5835,
+    "votos": 114,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.98
+  }
+]

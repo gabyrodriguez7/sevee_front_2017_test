@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "ASUNCIÓN",
+    "id": 180,
+    "votos": 1,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.12
+  },
+  {
+    "parroquia": "SANTA MARIANITA DE JESÚS",
+    "id": 1140,
+    "votos": 2,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.48
+  },
+  {
+    "parroquia": "HUAMBI",
+    "id": 1635,
+    "votos": 16,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.96
+  },
+  {
+    "parroquia": "SUCÚA",
+    "id": 6110,
+    "votos": 103,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.31
+  }
+]

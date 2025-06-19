@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "PUERTO LOPEZ",
+        "id": 6575,
+        "votos": 1271,
+        "candidato": "Alvaro Noboa",
+        "value": 18.36
+    },
+    {
+        "parroquia": "MACHALILLA",
+        "id": 2305,
+        "votos": 609,
+        "candidato": "Alvaro Noboa",
+        "value": 28.23
+    },
+    {
+        "parroquia": "SALANGO",
+        "id": 1920,
+        "votos": 248,
+        "candidato": "Alvaro Noboa",
+        "value": 26.61
+    }
+]

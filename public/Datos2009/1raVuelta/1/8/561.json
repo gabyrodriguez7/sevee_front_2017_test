@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "RIO VERDE",
+        "id": 6720,
+        "votos": 53,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.41
+    },
+    {
+        "parroquia": "ROCAFUERTE",
+        "id": 3215,
+        "votos": 45,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.27
+    },
+    {
+        "parroquia": "MONTALVO / HORQUETA",
+        "id": 2445,
+        "votos": 28,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.11
+    },
+    {
+        "parroquia": "LAGARTO",
+        "id": 2035,
+        "votos": 22,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.5
+    },
+    {
+        "parroquia": "CHUMUNDE",
+        "id": 965,
+        "votos": 12,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.03
+    },
+    {
+        "parroquia": "CHONTADURO",
+        "id": 930,
+        "votos": 6,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 0.82
+    }
+]

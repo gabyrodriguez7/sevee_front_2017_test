@@ -1,0 +1,72 @@
+[
+  {
+    "parroquia": "APUELA",
+    "id": 145,
+    "votos": 45,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.92
+  },
+  {
+    "parroquia": "GARCÍA MORENO / LLURIMAGUA",
+    "id": 1310,
+    "votos": 49,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.25
+  },
+  {
+    "parroquia": "IMANTAG",
+    "id": 1710,
+    "votos": 88,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.84
+  },
+  {
+    "parroquia": "PEÑAHERRERA",
+    "id": 2820,
+    "votos": 45,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.31
+  },
+  {
+    "parroquia": "PLAZA GUTIERREZ/CALVARIO",
+    "id": 2915,
+    "votos": 14,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.24
+  },
+  {
+    "parroquia": "QUIROGA",
+    "id": 3115,
+    "votos": 213,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.58
+  },
+  {
+    "parroquia": "6 DE JULIO DE CUELLAJE",
+    "id": 3800,
+    "votos": 46,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.05
+  },
+  {
+    "parroquia": "VACAS GALINDO",
+    "id": 4185,
+    "votos": 19,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 5.48
+  },
+  {
+    "parroquia": "SAGRARIO",
+    "id": 5910,
+    "votos": 264,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.63
+  },
+  {
+    "parroquia": "SAN FRANCISCO",
+    "id": 5955,
+    "votos": 117,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.95
+  }
+]

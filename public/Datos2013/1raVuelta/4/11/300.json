@@ -1,0 +1,121 @@
+[
+    {
+        "parroquia": "CHUQUIRIBAMBA",
+        "id": 975,
+        "votos": 174,
+        "candidato": "Acosta Alberto",
+        "value": 11.4474
+    },
+    {
+        "parroquia": "EL CISNE",
+        "id": 1135,
+        "votos": 105,
+        "candidato": "Acosta Alberto",
+        "value": 11.5
+    },
+    {
+        "parroquia": "GUALEL",
+        "id": 1405,
+        "votos": 159,
+        "candidato": "Acosta Alberto",
+        "value": 14.84594
+    },
+    {
+        "parroquia": "QUINARA",
+        "id": 1780,
+        "votos": 58,
+        "candidato": "Acosta Alberto",
+        "value": 8.078
+    },
+    {
+        "parroquia": "JIMBILLA",
+        "id": 1840,
+        "votos": 70,
+        "candidato": "Acosta Alberto",
+        "value": 10.1
+    },
+    {
+        "parroquia": "MALACATOS/VALLADOLID",
+        "id": 2325,
+        "votos": 249,
+        "candidato": "Acosta Alberto",
+        "value": 5.863
+    },
+    {
+        "parroquia": "SAN LUCAS",
+        "id": 3555,
+        "votos": 1344,
+        "candidato": "Acosta Alberto",
+        "value": 54.88
+    },
+    {
+        "parroquia": "SANTIAGO",
+        "id": 3770,
+        "votos": 73,
+        "candidato": "Acosta Alberto",
+        "value": 8.0
+    },
+    {
+        "parroquia": "TAQUIL /MIGUEL RIOFRIO",
+        "id": 3970,
+        "votos": 98,
+        "candidato": "Acosta Alberto",
+        "value": 5.8
+    },
+    {
+        "parroquia": "VILCABAMBA/VICTORIA",
+        "id": 4235,
+        "votos": 205,
+        "candidato": "Acosta Alberto",
+        "value": 6.9233
+    },
+    {
+        "parroquia": "YANGANA / ARSENIO CASTILLO",
+        "id": 4280,
+        "votos": 66,
+        "candidato": "Acosta Alberto",
+        "value": 6.918
+    },
+    {
+        "parroquia": "CHANTACO",
+        "id": 4475,
+        "votos": 164,
+        "candidato": "Acosta Alberto",
+        "value": 23.3
+    },
+    {
+        "parroquia": "SAN PEDRO DE VILCABAMBA",
+        "id": 4540,
+        "votos": 95,
+        "candidato": "Acosta Alberto",
+        "value": 15.0
+    },
+    {
+        "parroquia": "EL SAGRARIO",
+        "id": 5320,
+        "votos": 1124,
+        "candidato": "Acosta Alberto",
+        "value": 6.6344
+    },
+    {
+        "parroquia": "SAN SEBASTIAN",
+        "id": 6015,
+        "votos": 1639,
+        "candidato": "Acosta Alberto",
+        "value": 7.12
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 6100,
+        "votos": 2820,
+        "candidato": "Acosta Alberto",
+        "value": 6.0
+    },
+    {
+        "parroquia": "VALLE",
+        "id": 6210,
+        "votos": 1621,
+        "candidato": "Acosta Alberto",
+        "value": 5.8
+    }
+]

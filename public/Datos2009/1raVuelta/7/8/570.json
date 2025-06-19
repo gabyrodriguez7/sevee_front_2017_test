@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "MUISNE",
+        "id": 5670,
+        "votos": 680,
+        "candidato": "Alvaro Noboa",
+        "value": 13.6
+    },
+    {
+        "parroquia": "SAN JOSE DE CHAMANGA",
+        "id": 3470,
+        "votos": 157,
+        "candidato": "Alvaro Noboa",
+        "value": 12.27
+    },
+    {
+        "parroquia": "SAN GREGORIO",
+        "id": 3430,
+        "votos": 78,
+        "candidato": "Alvaro Noboa",
+        "value": 6.63
+    },
+    {
+        "parroquia": "SAN FRANCISCO",
+        "id": 3390,
+        "votos": 50,
+        "candidato": "Alvaro Noboa",
+        "value": 6.85
+    },
+    {
+        "parroquia": "SALIMA",
+        "id": 3280,
+        "votos": 16,
+        "candidato": "Alvaro Noboa",
+        "value": 4.28
+    },
+    {
+        "parroquia": "QUINGUE",
+        "id": 3125,
+        "votos": 31,
+        "candidato": "Alvaro Noboa",
+        "value": 9.3
+    },
+    {
+        "parroquia": "GALERA",
+        "id": 1305,
+        "votos": 45,
+        "candidato": "Alvaro Noboa",
+        "value": 9.07
+    },
+    {
+        "parroquia": "DAULE",
+        "id": 1010,
+        "votos": 35,
+        "candidato": "Alvaro Noboa",
+        "value": 9.16
+    },
+    {
+        "parroquia": "BOLIVAR",
+        "id": 355,
+        "votos": 45,
+        "candidato": "Alvaro Noboa",
+        "value": 13.35
+    }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "CANCHAGUA",
+    "id": 465,
+    "votos": 24,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.98
+  },
+  {
+    "parroquia": "CHANTILIN",
+    "id": 830,
+    "votos": 12,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.07
+  },
+  {
+    "parroquia": "COCHAPAMBA",
+    "id": 990,
+    "votos": 15,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.88
+  },
+  {
+    "parroquia": "SAQUISILÍ",
+    "id": 6070,
+    "votos": 257,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.23
+  }
+]

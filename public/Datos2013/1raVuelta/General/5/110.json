@@ -1,0 +1,68 @@
+[
+    {
+        "candidato1": "CORREA DELGADO RAFAEL",
+        "candidato2": "LASSO  GUILLERMO",
+        "id": 135,
+        "votos": 1699,
+        "votos1": 818,
+        "votos2": 318,
+        "fill": "#02C01C",
+        "porcentaje1": 48.0,
+        "porcentaje2": 19.0
+    },
+    {
+        "candidato1": "CORREA DELGADO RAFAEL",
+        "candidato2": "LASSO  GUILLERMO",
+        "id": 745,
+        "votos": 3955,
+        "votos1": 2177,
+        "votos2": 635,
+        "fill": "#02C01C",
+        "porcentaje1": 55.0,
+        "porcentaje2": 16.0
+    },
+    {
+        "candidato1": "CORREA DELGADO RAFAEL",
+        "candidato2": "LASSO  GUILLERMO",
+        "id": 2475,
+        "votos": 3930,
+        "votos1": 1744,
+        "votos2": 749,
+        "fill": "#02C01C",
+        "porcentaje1": 44.4,
+        "porcentaje2": 19.1
+    },
+    {
+        "candidato1": "CORREA DELGADO RAFAEL",
+        "candidato2": "GUTIERREZ  LUCIO",
+        "id": 2490,
+        "votos": 4287,
+        "votos1": 1961,
+        "votos2": 979,
+        "fill": "#02C01C",
+        "porcentaje1": 45.74,
+        "porcentaje2": 22.84
+    },
+    {
+        "candidato1": "CORREA DELGADO RAFAEL",
+        "candidato2": "GUTIERREZ  LUCIO",
+        "id": 2760,
+        "votos": 1978,
+        "votos1": 1129,
+        "votos2": 298,
+        "fill": "#02C01C",
+        "porcentaje1": 57.08,
+        "porcentaje2": 15.07
+    },
+    {
+        "candidato1": "CORREA DELGADO RAFAEL",
+        "candidato2": "LASSO  GUILLERMO",
+        "id": 6000,
+        "votos": 20831,
+        "votos1": 9404,
+        "votos2": 4394,
+        "fill": "#02C01C",
+        "porcentaje1": 45.0,
+        "porcentaje2": 21.0
+    }
+]

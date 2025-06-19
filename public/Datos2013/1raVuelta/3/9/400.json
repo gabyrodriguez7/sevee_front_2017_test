@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "LIMONAL",
+        "id": 260,
+        "votos": 4,
+        "candidato": "Wray Norman",
+        "value": 0.264
+    },
+    {
+        "parroquia": "JUAN BAUTISTA AGUIRRE",
+        "id": 1855,
+        "votos": 13,
+        "candidato": "Wray Norman",
+        "value": 0.52
+    },
+    {
+        "parroquia": "LAS LOJAS",
+        "id": 2105,
+        "votos": 22,
+        "candidato": "Wray Norman",
+        "value": 0.79
+    },
+    {
+        "parroquia": "EL LAUREL",
+        "id": 4500,
+        "votos": 16,
+        "candidato": "Wray Norman",
+        "value": 0.41623
+    },
+    {
+        "parroquia": "DAULE",
+        "id": 5275,
+        "votos": 245,
+        "candidato": "Wray Norman",
+        "value": 0.4
+    },
+    {
+        "parroquia": "LA AURORA",
+        "id": 6850,
+        "votos": 50,
+        "candidato": "Wray Norman",
+        "value": 0.8
+    },
+    {
+        "parroquia": "MAGRO",
+        "id": 7425,
+        "votos": 0,
+        "candidato": "Wray Norman",
+        "value": 0.0
+    }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "CANGONAMÁ",
+    "id": 485,
+    "votos": 4,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.66
+  },
+  {
+    "parroquia": "SAN ANTONIO",
+    "id": 545,
+    "votos": 0,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0
+  },
+  {
+    "parroquia": "CASANGA",
+    "id": 995,
+    "votos": 1,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.21
+  },
+  {
+    "parroquia": "YAMANA",
+    "id": 1000,
+    "votos": 3,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.53
+  },
+  {
+    "parroquia": "GUACHANAMA",
+    "id": 1380,
+    "votos": 6,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.88
+  },
+  {
+    "parroquia": "LAURO GUERRERO",
+    "id": 2140,
+    "votos": 8,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.81
+  },
+  {
+    "parroquia": "ORIANGA",
+    "id": 2630,
+    "votos": 5,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.5
+  },
+  {
+    "parroquia": "CATACOCHA",
+    "id": 5180,
+    "votos": 62,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.71
+  },
+  {
+    "parroquia": "LOURDES",
+    "id": 5595,
+    "votos": 6,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.81
+  }
+]

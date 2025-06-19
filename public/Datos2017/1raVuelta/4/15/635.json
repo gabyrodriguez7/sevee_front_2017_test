@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "COSANGA",
+    "id": 670,
+    "votos": 32,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.84
+  },
+  {
+    "parroquia": "CUYUJA",
+    "id": 765,
+    "votos": 24,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.7
+  },
+  {
+    "parroquia": "PAPALLACTA",
+    "id": 2770,
+    "votos": 36,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.98
+  },
+  {
+    "parroquia": "SAN FRANCISCO DE BORJA",
+    "id": 3395,
+    "votos": 129,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.42
+  },
+  {
+    "parroquia": "SUMACO",
+    "id": 3890,
+    "votos": 9,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.59
+  },
+  {
+    "parroquia": "BAEZA",
+    "id": 5090,
+    "votos": 143,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.49
+  }
+]

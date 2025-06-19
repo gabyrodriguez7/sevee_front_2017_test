@@ -1,0 +1,44 @@
+[
+                {
+                    "parroquia": "GRAL. LEONIDAS PLAZA",
+                    "id": 5390,
+                    "votos": 7,
+                    "candidato": "Melba Jacome",
+                    "value": 0.27
+                },
+                {
+                    "parroquia": "YUNGANZA /EL ROSARIO",
+                    "id": 4305,
+                    "votos": 2,
+                    "candidato": "Melba Jacome",
+                    "value": 0.57
+                },
+                {
+                    "parroquia": "SANTA SUSANA DE CHIVIAZA",
+                    "id": 3760,
+                    "votos": 1,
+                    "candidato": "Melba Jacome",
+                    "value": 0.33
+                },
+                {
+                    "parroquia": "SAN ANTONIO",
+                    "id": 3320,
+                    "votos": 3,
+                    "candidato": "Melba Jacome",
+                    "value": 1.5
+                },
+                {
+                    "parroquia": "SAN MIGUEL DE CONCHAY",
+                    "id": 3250,
+                    "votos": 1,
+                    "candidato": "Melba Jacome",
+                    "value": 0.41
+                },
+                {
+                    "parroquia": "INDANZA",
+                    "id": 1720,
+                    "votos": 7,
+                    "candidato": "Melba Jacome",
+                    "value": 1.35
+                }
+            ]

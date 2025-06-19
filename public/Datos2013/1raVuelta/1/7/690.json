@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CURTINCAPAC",
+        "id": 740,
+        "votos": 2,
+        "candidato": "Noboa Alvaro",
+        "value": 1.0
+    },
+    {
+        "parroquia": "SALATI",
+        "id": 3275,
+        "votos": 16,
+        "candidato": "Noboa Alvaro",
+        "value": 2.97
+    },
+    {
+        "parroquia": "MORALES",
+        "id": 4520,
+        "votos": 7,
+        "candidato": "Noboa Alvaro",
+        "value": 1.639
+    },
+    {
+        "parroquia": "PORTOVELO",
+        "id": 5850,
+        "votos": 205,
+        "candidato": "Noboa Alvaro",
+        "value": 3.0
+    }
+]

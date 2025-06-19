@@ -1,0 +1,86 @@
+[
+  {
+    "parroquia": "LA DOLOROSA DEL PRIORATO",
+    "id": 6780,
+    "votos": 3,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.29
+  },
+  {
+    "parroquia": "SAN FRANCISCO",
+    "id": 5960,
+    "votos": 234,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.76
+  },
+  {
+    "parroquia": "SAGRARIO",
+    "id": 5915,
+    "votos": 190,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.62
+  },
+  {
+    "parroquia": "GUAYAQUIL DE ALPACHACA",
+    "id": 5440,
+    "votos": 29,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.58
+  },
+  {
+    "parroquia": "CARANQUI",
+    "id": 5165,
+    "votos": 58,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.76
+  },
+  {
+    "parroquia": "SAN ANTONIO",
+    "id": 3315,
+    "votos": 32,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.36
+  },
+  {
+    "parroquia": "SALINAS",
+    "id": 3290,
+    "votos": 3,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.31
+  },
+  {
+    "parroquia": "LITA",
+    "id": 2185,
+    "votos": 7,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.61
+  },
+  {
+    "parroquia": "LA ESPERANZA",
+    "id": 2020,
+    "votos": 26,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.7
+  },
+  {
+    "parroquia": "CAROLINA /GUALLUPI",
+    "id": 530,
+    "votos": 4,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.3
+  },
+  {
+    "parroquia": "ANGOCHAGUA",
+    "id": 130,
+    "votos": 26,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 1.29
+  },
+  {
+    "parroquia": "AMBUQUI/CHOTA",
+    "id": 100,
+    "votos": 11,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.4
+  }
+]

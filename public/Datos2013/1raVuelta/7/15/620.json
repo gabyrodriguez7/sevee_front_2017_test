@@ -1,0 +1,58 @@
+[
+                {
+                    "parroquia": "AHUANO",
+                    "id": 25,
+                    "votos": 3,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.1
+                },
+                {
+                    "parroquia": "CHONTAPUNTA",
+                    "id": 940,
+                    "votos": 8,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.297619
+                },
+                {
+                    "parroquia": "TALAG",
+                    "id": 1930,
+                    "votos": 3,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.21
+                },
+                {
+                    "parroquia": "PANO",
+                    "id": 2755,
+                    "votos": 4,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.4
+                },
+                {
+                    "parroquia": "PUERTO MISAHUALLI",
+                    "id": 3000,
+                    "votos": 6,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.2
+                },
+                {
+                    "parroquia": "PUERTO NAPO",
+                    "id": 3050,
+                    "votos": 10,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.4
+                },
+                {
+                    "parroquia": "SAN JUAN DE MUYUNA",
+                    "id": 4580,
+                    "votos": 2,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.1182732
+                },
+                {
+                    "parroquia": "TENA",
+                    "id": 6160,
+                    "votos": 144,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.8
+                }
+            ]

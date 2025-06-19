@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "LIMONAL",
+    "id": 260,
+    "votos": 1156,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 60.21
+  },
+  {
+    "parroquia": "JUAN BAUTISTA AGUIRRE",
+    "id": 1855,
+    "votos": 1881,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 63.89
+  },
+  {
+    "parroquia": "LAS LOJAS",
+    "id": 2105,
+    "votos": 2195,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 66.66
+  },
+  {
+    "parroquia": "EL LAUREL",
+    "id": 4500,
+    "votos": 2508,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 53.42
+  },
+  {
+    "parroquia": "DAULE",
+    "id": 5275,
+    "votos": 35240,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 58.12
+  },
+  {
+    "parroquia": "LA AURORA",
+    "id": 6850,
+    "votos": 3889,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 30.44
+  },
+  {
+    "parroquia": "MAGRO",
+    "id": 7425,
+    "votos": 182,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 69.2
+  }
+]

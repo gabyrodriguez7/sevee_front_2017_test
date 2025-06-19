@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "PAQUISHA",
+    "id": 6885,
+    "votos": 24,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.32
+  },
+  {
+    "parroquia": "NUEVO QUITO",
+    "id": 1120,
+    "votos": 24,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 4.88
+  },
+  {
+    "parroquia": "BELLAVISTA",
+    "id": 455,
+    "votos": 3,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.51
+  }
+]

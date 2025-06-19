@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "SAN JOSE",
+        "id": 5970,
+        "votos": 3825,
+        "candidato": "Rafael Correa Delgado",
+        "value": 61.14
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 5405,
+        "votos": 3452,
+        "candidato": "Rafael Correa Delgado",
+        "value": 55.75
+    },
+    {
+        "parroquia": "LA PAZ",
+        "id": 2065,
+        "votos": 1330,
+        "candidato": "Rafael Correa Delgado",
+        "value": 73.88
+    },
+    {
+        "parroquia": "FERNANDEZ SALVADOR",
+        "id": 1270,
+        "votos": 387,
+        "candidato": "Rafael Correa Delgado",
+        "value": 69.35
+    },
+    {
+        "parroquia": "CHITAN DE NAVARRETES",
+        "id": 910,
+        "votos": 206,
+        "candidato": "Rafael Correa Delgado",
+        "value": 55.37
+    },
+    {
+        "parroquia": "CRISTOBAL COLON",
+        "id": 690,
+        "votos": 1049,
+        "candidato": "Rafael Correa Delgado",
+        "value": 57.01
+    },
+    {
+        "parroquia": "PIARTAL",
+        "id": 250,
+        "votos": 443,
+        "candidato": "Rafael Correa Delgado",
+        "value": 77.71
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "DURENO",
+        "id": 1045,
+        "votos": 876,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 45.67
+    },
+    {
+        "parroquia": "EL ENO",
+        "id": 1285,
+        "votos": 2208,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 57.73
+    },
+    {
+        "parroquia": "PACAYÁCU",
+        "id": 1290,
+        "votos": 1839,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 42.95
+    },
+    {
+        "parroquia": "GENERAL FARFÁN",
+        "id": 1330,
+        "votos": 1052,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 35.66
+    },
+    {
+        "parroquia": "SANTA CECILIA",
+        "id": 1790,
+        "votos": 1363,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 52.22
+    },
+    {
+        "parroquia": "JAMBELÍ",
+        "id": 1795,
+        "votos": 794,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 53.68
+    },
+    {
+        "parroquia": "10 DE AGOSTO",
+        "id": 4625,
+        "votos": 214,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 36.52
+    },
+    {
+        "parroquia": "NUEVA LOJA",
+        "id": 5710,
+        "votos": 20080,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 50.1
+    }
+]

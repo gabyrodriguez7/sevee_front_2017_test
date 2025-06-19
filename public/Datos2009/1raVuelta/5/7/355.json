@@ -1,0 +1,86 @@
+[
+    {
+        "parroquia": "NUEVO SANTA ROSA",
+        "id": 6990,
+        "votos": 9,
+        "candidato": "Melba Jacome",
+        "value": 2.23
+    },
+    {
+        "parroquia": "JUMON",
+        "id": 6985,
+        "votos": 2,
+        "candidato": "Melba Jacome",
+        "value": 0.65
+    },
+    {
+        "parroquia": "BALNEARIO JAMBELI",
+        "id": 6900,
+        "votos": 4,
+        "candidato": "Melba Jacome",
+        "value": 5.0
+    },
+    {
+        "parroquia": "PUERTO JELI",
+        "id": 6670,
+        "votos": 0,
+        "candidato": "Melba Jacome",
+        "value": 0.0
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 6060,
+        "votos": 200,
+        "candidato": "Melba Jacome",
+        "value": 0.71
+    },
+    {
+        "parroquia": "TORATA",
+        "id": 4525,
+        "votos": 2,
+        "candidato": "Melba Jacome",
+        "value": 0.25
+    },
+    {
+        "parroquia": "VICTORIA",
+        "id": 4215,
+        "votos": 4,
+        "candidato": "Melba Jacome",
+        "value": 0.54
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3330,
+        "votos": 3,
+        "candidato": "Melba Jacome",
+        "value": 0.81
+    },
+    {
+        "parroquia": "LA AVANZADA",
+        "id": 2005,
+        "votos": 13,
+        "candidato": "Melba Jacome",
+        "value": 1.13
+    },
+    {
+        "parroquia": "JAMBELI",
+        "id": 1815,
+        "votos": 2,
+        "candidato": "Melba Jacome",
+        "value": 1.14
+    },
+    {
+        "parroquia": "BELLAMARIA",
+        "id": 1665,
+        "votos": 2,
+        "candidato": "Melba Jacome",
+        "value": 0.41
+    },
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 325,
+        "votos": 7,
+        "candidato": "Melba Jacome",
+        "value": 0.53
+    }
+]

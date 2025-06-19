@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "BUENAVISTA",
+    "id": 385,
+    "votos": 308,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 38.07
+  },
+  {
+    "parroquia": "EL ROSARIO",
+    "id": 1180,
+    "votos": 99,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 33.45
+  },
+  {
+    "parroquia": "AMARILLOS",
+    "id": 1450,
+    "votos": 160,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 55.94
+  },
+  {
+    "parroquia": "SANTA RUFINA",
+    "id": 3755,
+    "votos": 217,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 33.44
+  },
+  {
+    "parroquia": "CHAGUARPAMBA",
+    "id": 6530,
+    "votos": 1365,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 48.23
+  }
+]

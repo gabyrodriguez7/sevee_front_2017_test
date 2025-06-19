@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "EL TRIUNFO",
+        "id": 6895,
+        "votos": 23,
+        "candidato": "Alvaro Noboa",
+        "value": 3.47
+    },
+    {
+        "parroquia": "EL CARMEN",
+        "id": 6880,
+        "votos": 29,
+        "candidato": "Alvaro Noboa",
+        "value": 3.53
+    },
+    {
+        "parroquia": "LA MANA",
+        "id": 6535,
+        "votos": 655,
+        "candidato": "Alvaro Noboa",
+        "value": 4.13
+    },
+    {
+        "parroquia": "PUCAYACO",
+        "id": 2965,
+        "votos": 32,
+        "candidato": "Alvaro Noboa",
+        "value": 2.61
+    },
+    {
+        "parroquia": "GUASAGANDA",
+        "id": 1500,
+        "votos": 28,
+        "candidato": "Alvaro Noboa",
+        "value": 2.76
+    }
+]

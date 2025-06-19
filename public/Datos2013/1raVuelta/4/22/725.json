@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "SAN CARLOS",
+        "id": 415,
+        "votos": 162,
+        "candidato": "Acosta Alberto",
+        "value": 9.63
+    },
+    {
+        "parroquia": "ENOKANQUI",
+        "id": 490,
+        "votos": 124,
+        "candidato": "Acosta Alberto",
+        "value": 9.466
+    },
+    {
+        "parroquia": "RUMIPAMBA",
+        "id": 1950,
+        "votos": 70,
+        "candidato": "Acosta Alberto",
+        "value": 10.622
+    },
+    {
+        "parroquia": "TRES DE NOVIEMBRE",
+        "id": 1955,
+        "votos": 85,
+        "candidato": "Acosta Alberto",
+        "value": 5.735
+    },
+    {
+        "parroquia": "LAGO SAN PEDRO",
+        "id": 1960,
+        "votos": 99,
+        "candidato": "Acosta Alberto",
+        "value": 10.634
+    },
+    {
+        "parroquia": "UNION MILAGREÑA",
+        "id": 1965,
+        "votos": 91,
+        "candidato": "Acosta Alberto",
+        "value": 6.55619597
+    },
+    {
+        "parroquia": "POMPEYA",
+        "id": 2930,
+        "votos": 28,
+        "candidato": "Acosta Alberto",
+        "value": 5.73
+    },
+    {
+        "parroquia": "SAN SEBASTIAN DE COCA",
+        "id": 3660,
+        "votos": 122,
+        "candidato": "Acosta Alberto",
+        "value": 6.7
+    },
+    {
+        "parroquia": "LA JOYA DE LOS SACHAS",
+        "id": 6200,
+        "votos": 691,
+        "candidato": "Acosta Alberto",
+        "value": 6.5
+    }
+]

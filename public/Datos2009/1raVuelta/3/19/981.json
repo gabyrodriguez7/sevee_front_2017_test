@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "PAQUISHA",
+        "id": 6885,
+        "votos": 4,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.39
+    },
+    {
+        "parroquia": "NUEVO QUITO",
+        "id": 1120,
+        "votos": 2,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.41
+    },
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 455,
+        "votos": 1,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.5
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "parroquia": "SAN BUENAVENTURA",
+        "id": 5940,
+        "votos": 1253,
+        "candidato": "Rafael Correa Delgado",
+        "value": 45.83
+    },
+    {
+        "parroquia": "LA MATRIZ",
+        "id": 5555,
+        "votos": 8343,
+        "candidato": "Rafael Correa Delgado",
+        "value": 46.27
+    },
+    {
+        "parroquia": "JUAN MONTALVO",
+        "id": 5500,
+        "votos": 3611,
+        "candidato": "Rafael Correa Delgado",
+        "value": 40.77
+    },
+    {
+        "parroquia": "IGNACIO FLORES",
+        "id": 5465,
+        "votos": 3238,
+        "candidato": "Rafael Correa Delgado",
+        "value": 40.7
+    },
+    {
+        "parroquia": "ELOY ALFARO / SAN FELIPE",
+        "id": 5310,
+        "votos": 6354,
+        "candidato": "Rafael Correa Delgado",
+        "value": 41.01
+    },
+    {
+        "parroquia": "TOACAZO",
+        "id": 4035,
+        "votos": 2034,
+        "candidato": "Rafael Correa Delgado",
+        "value": 43.87
+    },
+    {
+        "parroquia": "TANICUCHI",
+        "id": 3965,
+        "votos": 3393,
+        "candidato": "Rafael Correa Delgado",
+        "value": 50.27
+    },
+    {
+        "parroquia": "SAN JUAN DE PASTOCALLE",
+        "id": 3530,
+        "votos": 2025,
+        "candidato": "Rafael Correa Delgado",
+        "value": 38.79
+    },
+    {
+        "parroquia": "POALO",
+        "id": 2920,
+        "votos": 1123,
+        "candidato": "Rafael Correa Delgado",
+        "value": 40.33
+    },
+    {
+        "parroquia": "11 DE NOVIEMBRE",
+        "id": 2620,
+        "votos": 626,
+        "candidato": "Rafael Correa Delgado",
+        "value": 50.89
+    },
+    {
+        "parroquia": "MULALO",
+        "id": 2480,
+        "votos": 2224,
+        "candidato": "Rafael Correa Delgado",
+        "value": 47.27
+    },
+    {
+        "parroquia": "JOSEGUANGO BAJO",
+        "id": 1905,
+        "votos": 395,
+        "candidato": "Rafael Correa Delgado",
+        "value": 42.93
+    },
+    {
+        "parroquia": "GUAYTACAMA",
+        "id": 1485,
+        "votos": 2183,
+        "candidato": "Rafael Correa Delgado",
+        "value": 46.77
+    },
+    {
+        "parroquia": "BELISARIO QUEVEDO",
+        "id": 315,
+        "votos": 1036,
+        "candidato": "Rafael Correa Delgado",
+        "value": 40.17
+    },
+    {
+        "parroquia": "ALAQUEZ",
+        "id": 35,
+        "votos": 1690,
+        "candidato": "Rafael Correa Delgado",
+        "value": 45.33
+    }
+]

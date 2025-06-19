@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "CURTINCAPAC",
+    "id": 740,
+    "votos": 16,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.17
+  },
+  {
+    "parroquia": "SALATI",
+    "id": 3275,
+    "votos": 37,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.05
+  },
+  {
+    "parroquia": "MORALES",
+    "id": 4520,
+    "votos": 19,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.05
+  },
+  {
+    "parroquia": "PORTOVELO",
+    "id": 5850,
+    "votos": 268,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.85
+  }
+]

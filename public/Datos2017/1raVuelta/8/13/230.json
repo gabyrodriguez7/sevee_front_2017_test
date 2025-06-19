@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "NOVILLO",
+    "id": 1600,
+    "votos": 19,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.73
+  },
+  {
+    "parroquia": "ZAPALLO",
+    "id": 1620,
+    "votos": 39,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.21
+  },
+  {
+    "parroquia": "FLAVIO ALFARO",
+    "id": 5480,
+    "votos": 417,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.00
+  }
+]

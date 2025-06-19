@@ -1,0 +1,16 @@
+[
+  {
+    "parroquia": "SAN JOSE DE MORONA",
+    "id": 1295,
+    "votos": 69,
+    "candidato": "Lasso Guillermo",
+    "value": 5.4
+  },
+  {
+    "parroquia": "SANTIAGO",
+    "id": 6890,
+    "votos": 132,
+    "candidato": "Lasso Guillermo",
+    "value": 7.6
+  }
+]

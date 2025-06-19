@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "EL TAMBO",
+        "id": 1200,
+        "votos": 211,
+        "candidato": "Gutierrez Lucio",
+        "value": 12.0
+    },
+    {
+        "parroquia": "GUAYQUICHUMA",
+        "id": 1480,
+        "votos": 2,
+        "candidato": "Gutierrez Lucio",
+        "value": 0.873
+    },
+    {
+        "parroquia": "SAN PEDRO DE LA BENDITA",
+        "id": 3610,
+        "votos": 35,
+        "candidato": "Gutierrez Lucio",
+        "value": 3.19
+    },
+    {
+        "parroquia": "ZAMBI",
+        "id": 4455,
+        "votos": 16,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.863
+    },
+    {
+        "parroquia": "CATAMAYO",
+        "id": 5270,
+        "votos": 759,
+        "candidato": "Gutierrez Lucio",
+        "value": 5.0
+    },
+    {
+        "parroquia": "SAN JOSE",
+        "id": 6825,
+        "votos": 29,
+        "candidato": "Gutierrez Lucio",
+        "value": 7.6
+    }
+]

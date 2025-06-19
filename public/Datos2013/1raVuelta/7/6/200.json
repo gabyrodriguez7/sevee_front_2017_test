@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "SANTA FE DE GALAN",
+        "id": 40,
+        "votos": 3,
+        "candidato": "Zavala Nelson",
+        "value": 0.478
+    },
+    {
+        "parroquia": "SAN JOSE DEL CHAZO",
+        "id": 45,
+        "votos": 2,
+        "candidato": "Zavala Nelson",
+        "value": 0.289
+    },
+    {
+        "parroquia": "VALPARAISO",
+        "id": 410,
+        "votos": 2,
+        "candidato": "Zavala Nelson",
+        "value": 0.855
+    },
+    {
+        "parroquia": "GUANANDO",
+        "id": 1415,
+        "votos": 5,
+        "candidato": "Zavala Nelson",
+        "value": 1.256
+    },
+    {
+        "parroquia": "ILAPO",
+        "id": 1705,
+        "votos": 8,
+        "candidato": "Zavala Nelson",
+        "value": 0.551
+    },
+    {
+        "parroquia": "LA PROVIDENCIA",
+        "id": 2080,
+        "votos": 0,
+        "candidato": "Zavala Nelson",
+        "value": 0.0
+    },
+    {
+        "parroquia": "SAN ANDRES",
+        "id": 3295,
+        "votos": 88,
+        "candidato": "Zavala Nelson",
+        "value": 1.0
+    },
+    {
+        "parroquia": "SAN GERARDO / PAQUICAHUAN",
+        "id": 3425,
+        "votos": 4,
+        "candidato": "Zavala Nelson",
+        "value": 0.322
+    },
+    {
+        "parroquia": "SAN ISIDRO DE PATULU",
+        "id": 3450,
+        "votos": 12,
+        "candidato": "Zavala Nelson",
+        "value": 0.522
+    },
+    {
+        "parroquia": "EL ROSARIO",
+        "id": 5315,
+        "votos": 12,
+        "candidato": "Zavala Nelson",
+        "value": 1.013
+    },
+    {
+        "parroquia": "LA MATRIZ",
+        "id": 5550,
+        "votos": 41,
+        "candidato": "Zavala Nelson",
+        "value": 0.462
+    }
+]

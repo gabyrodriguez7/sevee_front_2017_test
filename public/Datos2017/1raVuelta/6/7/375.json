@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "CHACRAS",
+    "id": 805,
+    "votos": 5,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.59
+  },
+  {
+    "parroquia": "CARCABÓN",
+    "id": 1695,
+    "votos": 1,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.24
+  },
+  {
+    "parroquia": "PALMALES",
+    "id": 2715,
+    "votos": 7,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.43
+  },
+  {
+    "parroquia": "ARENILLAS",
+    "id": 5040,
+    "votos": 43,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.29
+  }
+]

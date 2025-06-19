@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 455,
+        "votos": 0,
+        "candidato": "Zavala Nelson",
+        "value": 0.0
+    },
+    {
+        "parroquia": "NUEVO QUITO",
+        "id": 1120,
+        "votos": 3,
+        "candidato": "Zavala Nelson",
+        "value": 0.45
+    },
+    {
+        "parroquia": "PAQUISHA",
+        "id": 6885,
+        "votos": 0,
+        "candidato": "Zavala Nelson",
+        "value": 0.0
+    }
+]

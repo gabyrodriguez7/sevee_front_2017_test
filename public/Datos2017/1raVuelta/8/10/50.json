@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "CHUGÁ",
+    "id": 955,
+    "votos": 10,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.29
+  },
+  {
+    "parroquia": "MARIANO ACOSTA",
+    "id": 2380,
+    "votos": 31,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.58
+  },
+  {
+    "parroquia": "SAN FRANCISCO DE SIGSIPAMBA",
+    "id": 3415,
+    "votos": 30,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.05
+  },
+  {
+    "parroquia": "PIMAMPIRO",
+    "id": 5750,
+    "votos": 254,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.46
+  }
+]

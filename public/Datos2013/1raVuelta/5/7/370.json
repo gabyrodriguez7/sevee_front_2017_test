@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "CAPIRO",
+        "id": 505,
+        "votos": 30,
+        "candidato": "Gutierrez Lucio",
+        "value": 3.359462
+    },
+    {
+        "parroquia": "SARACAY",
+        "id": 1385,
+        "votos": 32,
+        "candidato": "Gutierrez Lucio",
+        "value": 3.55160932
+    },
+    {
+        "parroquia": "LA BOCANA",
+        "id": 2230,
+        "votos": 9,
+        "candidato": "Gutierrez Lucio",
+        "value": 1.2
+    },
+    {
+        "parroquia": "MOROMORO",
+        "id": 2465,
+        "votos": 13,
+        "candidato": "Gutierrez Lucio",
+        "value": 1.5
+    },
+    {
+        "parroquia": "PIEDRAS",
+        "id": 2850,
+        "votos": 14,
+        "candidato": "Gutierrez Lucio",
+        "value": 3.174603
+    },
+    {
+        "parroquia": "SAN ROQUE",
+        "id": 3650,
+        "votos": 3,
+        "candidato": "Gutierrez Lucio",
+        "value": 0.6912
+    },
+    {
+        "parroquia": "PIÑAS",
+        "id": 5790,
+        "votos": 122,
+        "candidato": "Gutierrez Lucio",
+        "value": 1.042646
+    },
+    {
+        "parroquia": "PIÑAS GRANDE",
+        "id": 6675,
+        "votos": 0,
+        "candidato": "Gutierrez Lucio",
+        "value": 0.0
+    },
+    {
+        "parroquia": "LA SUSAYA",
+        "id": 6680,
+        "votos": 1,
+        "candidato": "Gutierrez Lucio",
+        "value": 1.075269
+    }
+]

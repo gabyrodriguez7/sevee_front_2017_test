@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "ASUNCIÓN",
+    "id": 170,
+    "votos": 142,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9
+  },
+  {
+    "parroquia": "MAGDALENA/CHAPACOTO",
+    "id": 2315,
+    "votos": 166,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.1
+  },
+  {
+    "parroquia": "SAN SEBASTIÁN",
+    "id": 3655,
+    "votos": 40,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.71
+  },
+  {
+    "parroquia": "TELIMBELA",
+    "id": 3995,
+    "votos": 56,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.16
+  },
+  {
+    "parroquia": "SAN JOSÉ DE CHIMBO",
+    "id": 5975,
+    "votos": 251,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.49
+  }
+]

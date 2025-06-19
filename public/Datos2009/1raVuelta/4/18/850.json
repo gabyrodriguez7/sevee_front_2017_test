@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "MOCHA",
+        "id": 6560,
+        "votos": 1810,
+        "candidato": "Rafael Correa Delgado",
+        "value": 44.55
+    },
+    {
+        "parroquia": "PINGUILI",
+        "id": 4555,
+        "votos": 209,
+        "candidato": "Rafael Correa Delgado",
+        "value": 54.29
+    }
+]

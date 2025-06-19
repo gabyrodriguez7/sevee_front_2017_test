@@ -1,0 +1,57 @@
+[
+    {
+        "candidato1": "ACOSTA  ALBERTO",
+        "candidato2": "CORREA DELGADO RAFAEL",
+        "id": 595,
+        "votos": 524,
+        "votos1": 506,
+        "votos2": 6,
+        "fill": "#AA5A00",
+        "porcentaje1": 96.56,
+        "porcentaje2": 1.14
+    },
+    {
+        "candidato1": "ACOSTA  ALBERTO",
+        "candidato2": "GUTIERREZ  LUCIO",
+        "id": 1205,
+        "votos": 1286,
+        "votos1": 1048,
+        "votos2": 90,
+        "fill": "#AA5A00",
+        "porcentaje1": 81.0,
+        "porcentaje2": 7.0
+    },
+    {
+        "candidato1": "ACOSTA  ALBERTO",
+        "candidato2": "GUTIERREZ  LUCIO",
+        "id": 2285,
+        "votos": 1595,
+        "votos1": 1257,
+        "votos2": 204,
+        "fill": "#AA5A00",
+        "porcentaje1": 78.8,
+        "porcentaje2": 12.78
+    },
+    {
+        "candidato1": "ACOSTA  ALBERTO",
+        "candidato2": "ZAVALA  NELSON",
+        "id": 4575,
+        "votos": 646,
+        "votos1": 530,
+        "votos2": 63,
+        "fill": "#AA5A00",
+        "porcentaje1": 82.04,
+        "porcentaje2": 9.75
+    },
+    {
+        "candidato1": "ACOSTA  ALBERTO",
+        "candidato2": "GUTIERREZ  LUCIO",
+        "id": 6700,
+        "votos": 1876,
+        "votos1": 1049,
+        "votos2": 348,
+        "fill": "#AA5A00",
+        "porcentaje1": 55.91,
+        "porcentaje2": 18.55
+    }
+]

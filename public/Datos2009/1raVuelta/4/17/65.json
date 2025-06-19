@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "JUAN MONTALVO",
+        "id": 5495,
+        "votos": 813,
+        "candidato": "Rafael Correa Delgado",
+        "value": 63.57
+    },
+    {
+        "parroquia": "CAYAMBE",
+        "id": 5190,
+        "votos": 13013,
+        "candidato": "Rafael Correa Delgado",
+        "value": 57.99
+    },
+    {
+        "parroquia": "AYORA",
+        "id": 5060,
+        "votos": 1526,
+        "candidato": "Rafael Correa Delgado",
+        "value": 64.61
+    },
+    {
+        "parroquia": "STA.ROSA DE CUSUBAMBA",
+        "id": 3735,
+        "votos": 825,
+        "candidato": "Rafael Correa Delgado",
+        "value": 52.51
+    },
+    {
+        "parroquia": "OTON",
+        "id": 2635,
+        "votos": 784,
+        "candidato": "Rafael Correa Delgado",
+        "value": 61.44
+    },
+    {
+        "parroquia": "OLMEDO/PESILLO",
+        "id": 2600,
+        "votos": 2745,
+        "candidato": "Rafael Correa Delgado",
+        "value": 76.76
+    },
+    {
+        "parroquia": "CANGAHUA",
+        "id": 480,
+        "votos": 3237,
+        "candidato": "Rafael Correa Delgado",
+        "value": 70.05
+    },
+    {
+        "parroquia": "ASCAZUBI",
+        "id": 165,
+        "votos": 1081,
+        "candidato": "Rafael Correa Delgado",
+        "value": 53.94
+    }
+]

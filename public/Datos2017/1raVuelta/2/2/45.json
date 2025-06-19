@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "IMBAYA",
+    "id": 1715,
+    "votos": 51,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.45
+  },
+  {
+    "parroquia": "SAN FCO.DE NATABUELA",
+    "id": 3400,
+    "votos": 434,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 12.18
+  },
+  {
+    "parroquia": "SAN JOSÉ DE CHALTURA",
+    "id": 3465,
+    "votos": 181,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.43
+  },
+  {
+    "parroquia": "SAN ROQUE",
+    "id": 3640,
+    "votos": 472,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.45
+  },
+  {
+    "parroquia": "ANDRADE MARÍN/LOURDES",
+    "id": 5025,
+    "votos": 292,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.32
+  },
+  {
+    "parroquia": "ATUNTAQUI",
+    "id": 5050,
+    "votos": 1253,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.36
+  }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "EL ARENAL",
+        "id": 270,
+        "votos": 281,
+        "candidato": "Correa Delgado Rafael",
+        "value": 65.5
+    },
+    {
+        "parroquia": "CIANO",
+        "id": 565,
+        "votos": 463,
+        "candidato": "Correa Delgado Rafael",
+        "value": 67.0
+    },
+    {
+        "parroquia": "EL LIMO /MARIANA DE JESUS",
+        "id": 1155,
+        "votos": 861,
+        "candidato": "Correa Delgado Rafael",
+        "value": 64.3
+    },
+    {
+        "parroquia": "MERCADILLO",
+        "id": 2405,
+        "votos": 512,
+        "candidato": "Correa Delgado Rafael",
+        "value": 61.465
+    },
+    {
+        "parroquia": "VICENTINO",
+        "id": 4210,
+        "votos": 396,
+        "candidato": "Correa Delgado Rafael",
+        "value": 51.63
+    },
+    {
+        "parroquia": "ALAMOR",
+        "id": 5005,
+        "votos": 3020,
+        "candidato": "Correa Delgado Rafael",
+        "value": 54.0
+    }
+]

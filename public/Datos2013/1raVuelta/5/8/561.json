@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CHONTADURO",
+        "id": 930,
+        "votos": 40,
+        "candidato": "Gutierrez Lucio",
+        "value": 3.6
+    },
+    {
+        "parroquia": "CHUMUNDE",
+        "id": 965,
+        "votos": 61,
+        "candidato": "Gutierrez Lucio",
+        "value": 6.831
+    },
+    {
+        "parroquia": "LAGARTO",
+        "id": 2035,
+        "votos": 60,
+        "candidato": "Gutierrez Lucio",
+        "value": 3.009
+    },
+    {
+        "parroquia": "MONTALVO / HORQUETA",
+        "id": 2445,
+        "votos": 40,
+        "candidato": "Gutierrez Lucio",
+        "value": 2.22
+    },
+    {
+        "parroquia": "ROCAFUERTE",
+        "id": 3215,
+        "votos": 32,
+        "candidato": "Gutierrez Lucio",
+        "value": 1.26
+    },
+    {
+        "parroquia": "RIO VERDE",
+        "id": 6720,
+        "votos": 71,
+        "candidato": "Gutierrez Lucio",
+        "value": 2.4084125
+    }
+]

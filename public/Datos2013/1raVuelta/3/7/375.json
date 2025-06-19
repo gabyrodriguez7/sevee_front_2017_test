@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CHACRAS",
+        "id": 805,
+        "votos": 4,
+        "candidato": "Wray Norman",
+        "value": 0.587372
+    },
+    {
+        "parroquia": "CARCABON",
+        "id": 1695,
+        "votos": 1,
+        "candidato": "Wray Norman",
+        "value": 0.3
+    },
+    {
+        "parroquia": "PALMALES",
+        "id": 2715,
+        "votos": 13,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "ARENILLAS",
+        "id": 5040,
+        "votos": 88,
+        "candidato": "Wray Norman",
+        "value": 0.664151
+    }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "IMBAYA",
+    "id": 1715,
+    "votos": 20,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.14
+  },
+  {
+    "parroquia": "SAN FCO.DE NATABUELA",
+    "id": 3400,
+    "votos": 186,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 5.22
+  },
+  {
+    "parroquia": "SAN JOSÉ DE CHALTURA",
+    "id": 3465,
+    "votos": 87,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.05
+  },
+  {
+    "parroquia": "SAN ROQUE",
+    "id": 3640,
+    "votos": 275,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.34
+  },
+  {
+    "parroquia": "ANDRADE MARÍN/LOURDES",
+    "id": 5025,
+    "votos": 168,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 5.36
+  },
+  {
+    "parroquia": "ATUNTAQUI",
+    "id": 5050,
+    "votos": 620,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.63
+  }
+]

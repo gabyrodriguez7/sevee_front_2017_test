@@ -1,0 +1,16 @@
+[
+  {
+    "parroquia": "C. E. EN BERLÍN",
+    "id": 9001,
+    "votos": 88,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 42.93
+  },
+  {
+    "parroquia": "C. E. EN HAMBURGO",
+    "id": 9002,
+    "votos": 224,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 42.26
+  }
+]

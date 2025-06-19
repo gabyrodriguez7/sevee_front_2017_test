@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "CHAQUINAL",
+    "id": 835,
+    "votos": 260,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 38.81
+  },
+  {
+    "parroquia": "12 DE DICIEMBRE",
+    "id": 1035,
+    "votos": 294,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 32.52
+  },
+  {
+    "parroquia": "MILAGROS",
+    "id": 4545,
+    "votos": 321,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 29.83
+  },
+  {
+    "parroquia": "PINDAL /FEDERÍCO PÁEZ",
+    "id": 5810,
+    "votos": 1179,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 40.14
+  }
+]

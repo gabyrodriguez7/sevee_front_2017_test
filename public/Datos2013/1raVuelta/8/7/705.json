@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "AYAPAMBA",
+        "id": 225,
+        "votos": 53,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 5.0094518
+    },
+    {
+        "parroquia": "SAN JUAN DE CERRO AZUL",
+        "id": 375,
+        "votos": 12,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.6923077
+    },
+    {
+        "parroquia": "CORDONCILLO",
+        "id": 4480,
+        "votos": 17,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.0
+    },
+    {
+        "parroquia": "SAN JOSE",
+        "id": 4530,
+        "votos": 8,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.02
+    },
+    {
+        "parroquia": "MILAGRO",
+        "id": 4535,
+        "votos": 14,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 6.11
+    },
+    {
+        "parroquia": "PACCHA",
+        "id": 5745,
+        "votos": 54,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.7
+    }
+]

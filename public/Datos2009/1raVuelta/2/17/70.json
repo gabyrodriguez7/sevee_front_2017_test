@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "MACHACHI",
+        "id": 5620,
+        "votos": 97,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.55
+    },
+    {
+        "parroquia": "UYUMBICHO",
+        "id": 4155,
+        "votos": 23,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.04
+    },
+    {
+        "parroquia": "TAMBILLO",
+        "id": 3960,
+        "votos": 50,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.04
+    },
+    {
+        "parroquia": "CHAUPI",
+        "id": 850,
+        "votos": 4,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.63
+    },
+    {
+        "parroquia": "CUTUGLAGUA",
+        "id": 755,
+        "votos": 20,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.46
+    },
+    {
+        "parroquia": "CORNEJO ASTORGA /TANDAPI",
+        "id": 650,
+        "votos": 6,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.56
+    },
+    {
+        "parroquia": "ALOASI",
+        "id": 60,
+        "votos": 13,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.52
+    },
+    {
+        "parroquia": "ALOAG",
+        "id": 55,
+        "votos": 20,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.46
+    }
+]

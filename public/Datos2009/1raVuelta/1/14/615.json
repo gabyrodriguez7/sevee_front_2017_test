@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "PALORA",
+    "id": 5760,
+    "votos": 117,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 5.98
+  },
+  {
+    "parroquia": "SANGAY",
+    "id": 3420,
+    "votos": 12,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 3.82
+  },
+  {
+    "parroquia": "16 DE AGOSTO",
+    "id": 1685,
+    "votos": 70,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 21.94
+  },
+  {
+    "parroquia": "CUMANDA",
+    "id": 715,
+    "votos": 1,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 0.26
+  },
+  {
+    "parroquia": "ARAPICOS",
+    "id": 155,
+    "votos": 4,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.12
+  }
+]

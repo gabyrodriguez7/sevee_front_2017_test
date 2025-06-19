@@ -1,0 +1,114 @@
+[
+    {
+        "parroquia": "ABDON CALDERON",
+        "id": 10,
+        "votos": 76,
+        "candidato": "Zavala Nelson",
+        "value": 0.8444
+    },
+    {
+        "parroquia": "ALHAJUELA /BAJO GRANDE",
+        "id": 50,
+        "votos": 24,
+        "candidato": "Zavala Nelson",
+        "value": 0.7075
+    },
+    {
+        "parroquia": "CRUCITA",
+        "id": 770,
+        "votos": 93,
+        "candidato": "Zavala Nelson",
+        "value": 1.4
+    },
+    {
+        "parroquia": "CHIRIJOS",
+        "id": 1925,
+        "votos": 7,
+        "candidato": "Zavala Nelson",
+        "value": 0.7071
+    },
+    {
+        "parroquia": "PUEBLO NUEVO",
+        "id": 2970,
+        "votos": 27,
+        "candidato": "Zavala Nelson",
+        "value": 1.230629
+    },
+    {
+        "parroquia": "RIO CHICO",
+        "id": 3185,
+        "votos": 46,
+        "candidato": "Zavala Nelson",
+        "value": 0.609
+    },
+    {
+        "parroquia": "SAN PLACIDO",
+        "id": 3625,
+        "votos": 40,
+        "candidato": "Zavala Nelson",
+        "value": 0.716
+    },
+    {
+        "parroquia": "ANDRES DE VERA",
+        "id": 5030,
+        "votos": 586,
+        "candidato": "Zavala Nelson",
+        "value": 1.33949
+    },
+    {
+        "parroquia": "COLON",
+        "id": 5265,
+        "votos": 127,
+        "candidato": "Zavala Nelson",
+        "value": 1.1
+    },
+    {
+        "parroquia": "12 DE MARZO",
+        "id": 5280,
+        "votos": 279,
+        "candidato": "Zavala Nelson",
+        "value": 0.9998
+    },
+    {
+        "parroquia": "PORTOVIEJO",
+        "id": 5795,
+        "votos": 255,
+        "candidato": "Zavala Nelson",
+        "value": 1.144
+    },
+    {
+        "parroquia": "PICOAZA",
+        "id": 5845,
+        "votos": 142,
+        "candidato": "Zavala Nelson",
+        "value": 1.1561
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 6585,
+        "votos": 85,
+        "candidato": "Zavala Nelson",
+        "value": 1.8982
+    },
+    {
+        "parroquia": "18 DE OCTUBRE",
+        "id": 6770,
+        "votos": 56,
+        "candidato": "Zavala Nelson",
+        "value": 1.1178
+    },
+    {
+        "parroquia": "FRANCISCO PACHECO",
+        "id": 6775,
+        "votos": 59,
+        "candidato": "Zavala Nelson",
+        "value": 1.43
+    },
+    {
+        "parroquia": "SIMON BOLIVAR",
+        "id": 6910,
+        "votos": 15,
+        "candidato": "Zavala Nelson",
+        "value": 0.997
+    }
+]

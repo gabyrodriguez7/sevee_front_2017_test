@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "GONZANAMA",
+        "id": 5400,
+        "votos": 30,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.35
+    },
+    {
+        "parroquia": "SACAPALCA",
+        "id": 3270,
+        "votos": 6,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.8
+    },
+    {
+        "parroquia": "PURUNUMA /EGUIGUREN",
+        "id": 3045,
+        "votos": 6,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.07
+    },
+    {
+        "parroquia": "NAMBACOLA",
+        "id": 2520,
+        "votos": 11,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.64
+    },
+    {
+        "parroquia": "CHANGAIMINA /LA LIBERTAD",
+        "id": 825,
+        "votos": 19,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.57
+    }
+]

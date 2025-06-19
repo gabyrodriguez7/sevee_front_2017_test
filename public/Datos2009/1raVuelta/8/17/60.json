@@ -1,0 +1,366 @@
+[
+  {
+    "parroquia": "VILLA FLORA",
+    "id": 6240,
+    "votos": 5726,
+    "candidato": "Lucio Gutierrez",
+    "value": 17.53
+  },
+  {
+    "parroquia": "SANTA PRISCA",
+    "id": 6050,
+    "votos": 8406,
+    "candidato": "Lucio Gutierrez",
+    "value": 17.83
+  },
+  {
+    "parroquia": "SANTA BARBARA",
+    "id": 6035,
+    "votos": 933,
+    "candidato": "Lucio Gutierrez",
+    "value": 15.67
+  },
+  {
+    "parroquia": "SAN SEBASTIAN",
+    "id": 6020,
+    "votos": 2195,
+    "candidato": "Lucio Gutierrez",
+    "value": 18.73
+  },
+  {
+    "parroquia": "SAN ROQUE",
+    "id": 6005,
+    "votos": 3908,
+    "candidato": "Lucio Gutierrez",
+    "value": 20.56
+  },
+  {
+    "parroquia": "SAN MARCOS",
+    "id": 5985,
+    "votos": 1384,
+    "candidato": "Lucio Gutierrez",
+    "value": 15.73
+  },
+  {
+    "parroquia": "SAN BLAS",
+    "id": 5935,
+    "votos": 5342,
+    "candidato": "Lucio Gutierrez",
+    "value": 15.71
+  },
+  {
+    "parroquia": "LA VICENTINA",
+    "id": 5575,
+    "votos": 1842,
+    "candidato": "Lucio Gutierrez",
+    "value": 16.03
+  },
+  {
+    "parroquia": "LA MAGDALENA",
+    "id": 5540,
+    "votos": 11361,
+    "candidato": "Lucio Gutierrez",
+    "value": 18.09
+  },
+  {
+    "parroquia": "LA LIBERTAD",
+    "id": 5535,
+    "votos": 3195,
+    "candidato": "Lucio Gutierrez",
+    "value": 20.38
+  },
+  {
+    "parroquia": "LA FLORESTA",
+    "id": 5530,
+    "votos": 2913,
+    "candidato": "Lucio Gutierrez",
+    "value": 22.73
+  },
+  {
+    "parroquia": "GUAPULO",
+    "id": 5435,
+    "votos": 387,
+    "candidato": "Lucio Gutierrez",
+    "value": 15.74
+  },
+  {
+    "parroquia": "GONZALEZ SUAREZ",
+    "id": 5410,
+    "votos": 1640,
+    "candidato": "Lucio Gutierrez",
+    "value": 21.53
+  },
+  {
+    "parroquia": "EL SALVADOR",
+    "id": 5325,
+    "votos": 4060,
+    "candidato": "Lucio Gutierrez",
+    "value": 19.05
+  },
+  {
+    "parroquia": "CHILLOGALLO",
+    "id": 5260,
+    "votos": 34993,
+    "candidato": "Lucio Gutierrez",
+    "value": 21.69
+  },
+  {
+    "parroquia": "CHAUPICRUZ",
+    "id": 5235,
+    "votos": 24807,
+    "candidato": "Lucio Gutierrez",
+    "value": 21.0
+  },
+  {
+    "parroquia": "COTOCOLLAO",
+    "id": 5220,
+    "votos": 28385,
+    "candidato": "Lucio Gutierrez",
+    "value": 17.55
+  },
+  {
+    "parroquia": "BENALCAZAR",
+    "id": 5110,
+    "votos": 13689,
+    "candidato": "Lucio Gutierrez",
+    "value": 25.72
+  },
+  {
+    "parroquia": "ALFARO",
+    "id": 5015,
+    "votos": 18582,
+    "candidato": "Lucio Gutierrez",
+    "value": 17.69
+  },
+  {
+    "parroquia": "ZAMBIZA",
+    "id": 4325,
+    "votos": 486,
+    "candidato": "Lucio Gutierrez",
+    "value": 19.26
+  },
+  {
+    "parroquia": "YARUQUI",
+    "id": 4290,
+    "votos": 2163,
+    "candidato": "Lucio Gutierrez",
+    "value": 25.85
+  },
+  {
+    "parroquia": "TUMBACO",
+    "id": 4085,
+    "votos": 5468,
+    "candidato": "Lucio Gutierrez",
+    "value": 23.92
+  },
+  {
+    "parroquia": "TABABELA",
+    "id": 3925,
+    "votos": 256,
+    "candidato": "Lucio Gutierrez",
+    "value": 22.3
+  },
+  {
+    "parroquia": "SAN JOSE DE MINAS",
+    "id": 3475,
+    "votos": 979,
+    "candidato": "Lucio Gutierrez",
+    "value": 30.01
+  },
+  {
+    "parroquia": "SAN ANTONIO",
+    "id": 3325,
+    "votos": 2349,
+    "candidato": "Lucio Gutierrez",
+    "value": 18.06
+  },
+  {
+    "parroquia": "QUINCHE",
+    "id": 3100,
+    "votos": 2193,
+    "candidato": "Lucio Gutierrez",
+    "value": 28.4
+  },
+  {
+    "parroquia": "PUEMBO",
+    "id": 2985,
+    "votos": 1195,
+    "candidato": "Lucio Gutierrez",
+    "value": 21.14
+  },
+  {
+    "parroquia": "PUELLARO",
+    "id": 2980,
+    "votos": 746,
+    "candidato": "Lucio Gutierrez",
+    "value": 23.44
+  },
+  {
+    "parroquia": "POMASQUI",
+    "id": 2925,
+    "votos": 2419,
+    "candidato": "Lucio Gutierrez",
+    "value": 18.02
+  },
+  {
+    "parroquia": "PINTAG",
+    "id": 2895,
+    "votos": 1829,
+    "candidato": "Lucio Gutierrez",
+    "value": 20.13
+  },
+  {
+    "parroquia": "PIFO",
+    "id": 2855,
+    "votos": 2289,
+    "candidato": "Lucio Gutierrez",
+    "value": 31.41
+  },
+  {
+    "parroquia": "PERUCHO",
+    "id": 2825,
+    "votos": 112,
+    "candidato": "Lucio Gutierrez",
+    "value": 25.75
+  },
+  {
+    "parroquia": "PACTO",
+    "id": 2690,
+    "votos": 591,
+    "candidato": "Lucio Gutierrez",
+    "value": 28.5
+  },
+  {
+    "parroquia": "NONO",
+    "id": 2560,
+    "votos": 232,
+    "candidato": "Lucio Gutierrez",
+    "value": 27.68
+  },
+  {
+    "parroquia": "NAYON",
+    "id": 2540,
+    "votos": 1331,
+    "candidato": "Lucio Gutierrez",
+    "value": 29.58
+  },
+  {
+    "parroquia": "NANEGALITO",
+    "id": 2530,
+    "votos": 365,
+    "candidato": "Lucio Gutierrez",
+    "value": 25.89
+  },
+  {
+    "parroquia": "NANEGAL",
+    "id": 2525,
+    "votos": 227,
+    "candidato": "Lucio Gutierrez",
+    "value": 18.96
+  },
+  {
+    "parroquia": "LLOA",
+    "id": 2275,
+    "votos": 333,
+    "candidato": "Lucio Gutierrez",
+    "value": 30.0
+  },
+  {
+    "parroquia": "LLANO CHICO",
+    "id": 2265,
+    "votos": 821,
+    "candidato": "Lucio Gutierrez",
+    "value": 22.08
+  },
+  {
+    "parroquia": "LA MERCED",
+    "id": 2055,
+    "votos": 652,
+    "candidato": "Lucio Gutierrez",
+    "value": 21.48
+  },
+  {
+    "parroquia": "GUAYLLABAMBA",
+    "id": 1475,
+    "votos": 1895,
+    "candidato": "Lucio Gutierrez",
+    "value": 28.1
+  },
+  {
+    "parroquia": "GUANGOPOLO",
+    "id": 1440,
+    "votos": 378,
+    "candidato": "Lucio Gutierrez",
+    "value": 24.74
+  },
+  {
+    "parroquia": "GUALEA",
+    "id": 1400,
+    "votos": 235,
+    "candidato": "Lucio Gutierrez",
+    "value": 24.79
+  },
+  {
+    "parroquia": "CHECA",
+    "id": 865,
+    "votos": 874,
+    "candidato": "Lucio Gutierrez",
+    "value": 28.42
+  },
+  {
+    "parroquia": "CHAVEZPAMBA",
+    "id": 855,
+    "votos": 128,
+    "candidato": "Lucio Gutierrez",
+    "value": 29.29
+  },
+  {
+    "parroquia": "CUMBAYA",
+    "id": 725,
+    "votos": 3985,
+    "candidato": "Lucio Gutierrez",
+    "value": 27.85
+  },
+  {
+    "parroquia": "CONOCOTO",
+    "id": 625,
+    "votos": 5515,
+    "candidato": "Lucio Gutierrez",
+    "value": 18.05
+  },
+  {
+    "parroquia": "CALDERON",
+    "id": 440,
+    "votos": 7418,
+    "candidato": "Lucio Gutierrez",
+    "value": 16.16
+  },
+  {
+    "parroquia": "CALACALI",
+    "id": 430,
+    "votos": 630,
+    "candidato": "Lucio Gutierrez",
+    "value": 27.6
+  },
+  {
+    "parroquia": "ATAHUALPA /HABASPAMBA",
+    "id": 195,
+    "votos": 340,
+    "candidato": "Lucio Gutierrez",
+    "value": 32.79
+  },
+  {
+    "parroquia": "AMAGUAÑA",
+    "id": 80,
+    "votos": 2414,
+    "candidato": "Lucio Gutierrez",
+    "value": 17.57
+  },
+  {
+    "parroquia": "ALANGASI",
+    "id": 30,
+    "votos": 1341,
+    "candidato": "Lucio Gutierrez",
+    "value": 16.94
+  }
+]

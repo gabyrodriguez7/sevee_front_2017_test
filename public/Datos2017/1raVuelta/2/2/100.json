@@ -1,0 +1,107 @@
+[
+  {
+    "parroquia": "ALAQUEZ",
+    "id": 35,
+    "votos": 942,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 20.44
+  },
+  {
+    "parroquia": "BELISARIO QUEVEDO",
+    "id": 315,
+    "votos": 865,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 25.03
+  },
+  {
+    "parroquia": "GUAYTACAMA",
+    "id": 1485,
+    "votos": 927,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 15.31
+  },
+  {
+    "parroquia": "JOSEGUANGO BAJO",
+    "id": 1905,
+    "votos": 197,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 16.38
+  },
+  {
+    "parroquia": "MULALÓ",
+    "id": 2480,
+    "votos": 1220,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 20.8
+  },
+  {
+    "parroquia": "11 DE NOVIEMBRE",
+    "id": 2620,
+    "votos": 237,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 15.56
+  },
+  {
+    "parroquia": "POALO",
+    "id": 2920,
+    "votos": 1136,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 30.51
+  },
+  {
+    "parroquia": "SAN JUAN DE PASTOCALLE",
+    "id": 3530,
+    "votos": 1582,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 22.88
+  },
+  {
+    "parroquia": "TANICUCHÍ",
+    "id": 3965,
+    "votos": 1518,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 17.76
+  },
+  {
+    "parroquia": "TOACAZO",
+    "id": 4035,
+    "votos": 2002,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 30
+  },
+  {
+    "parroquia": "ELOY ALFÁRO / SAN FELIPE",
+    "id": 5310,
+    "votos": 4003,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 18.73
+  },
+  {
+    "parroquia": "IGNACIO FLORES",
+    "id": 5465,
+    "votos": 2413,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 20.37
+  },
+  {
+    "parroquia": "JUAN MONTALVO",
+    "id": 5500,
+    "votos": 2371,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 20.6
+  },
+  {
+    "parroquia": "LA MATRIZ",
+    "id": 5555,
+    "votos": 2724,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 12.76
+  },
+  {
+    "parroquia": "SAN BUENAVENTURA",
+    "id": 5940,
+    "votos": 747,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 20.02
+  }
+]

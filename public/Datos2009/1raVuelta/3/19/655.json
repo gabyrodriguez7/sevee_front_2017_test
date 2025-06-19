@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "EL LIMON",
+        "id": 6840,
+        "votos": 0,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.0
+    },
+    {
+        "parroquia": "ZAMORA",
+        "id": 6305,
+        "votos": 23,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.34
+    },
+    {
+        "parroquia": "TIMBARA",
+        "id": 4010,
+        "votos": 2,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.33
+    },
+    {
+        "parroquia": "SABANILLA",
+        "id": 3260,
+        "votos": 2,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.79
+    },
+    {
+        "parroquia": "LA VICTORIA DE IMBANA",
+        "id": 2155,
+        "votos": 0,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.0
+    },
+    {
+        "parroquia": "SAN CARLOS DE LAS MINAS",
+        "id": 1770,
+        "votos": 4,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.5
+    },
+    {
+        "parroquia": "GUADALUPE",
+        "id": 1390,
+        "votos": 7,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.59
+    },
+    {
+        "parroquia": "CUMBARATZA",
+        "id": 720,
+        "votos": 7,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.42
+    }
+]

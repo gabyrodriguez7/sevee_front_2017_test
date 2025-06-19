@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "AYAPAMBA",
+    "id": 225,
+    "votos": 167,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 15.22
+  },
+  {
+    "parroquia": "SAN JUAN DE CERRO AZUL",
+    "id": 375,
+    "votos": 49,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 17.07
+  },
+  {
+    "parroquia": "CORDONCILLO",
+    "id": 4480,
+    "votos": 163,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 27.08
+  },
+  {
+    "parroquia": "SAN JOSÉ",
+    "id": 4530,
+    "votos": 56,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 19.72
+  },
+  {
+    "parroquia": "MILAGRO",
+    "id": 4535,
+    "votos": 63,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 26.47
+  },
+  {
+    "parroquia": "PACCHA",
+    "id": 5745,
+    "votos": 463,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 22.8
+  }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "LA CANDELARIA",
+        "id": 925,
+        "votos": 6,
+        "candidato": "Zavala Nelson",
+        "value": 2.74
+    },
+    {
+        "parroquia": "EL ALTAR",
+        "id": 1110,
+        "votos": 3,
+        "candidato": "Zavala Nelson",
+        "value": 0.34
+    },
+    {
+        "parroquia": "BILBAO",
+        "id": 1325,
+        "votos": 0,
+        "candidato": "Zavala Nelson",
+        "value": 0.0
+    },
+    {
+        "parroquia": "MATUS",
+        "id": 2400,
+        "votos": 4,
+        "candidato": "Zavala Nelson",
+        "value": 0.5979
+    },
+    {
+        "parroquia": "PUELA",
+        "id": 2975,
+        "votos": 4,
+        "candidato": "Zavala Nelson",
+        "value": 0.7366
+    },
+    {
+        "parroquia": "SAN ANTONIO DE BAYUSHIG",
+        "id": 3335,
+        "votos": 11,
+        "candidato": "Zavala Nelson",
+        "value": 1.03871577
+    },
+    {
+        "parroquia": "PENIPE",
+        "id": 5740,
+        "votos": 7,
+        "candidato": "Zavala Nelson",
+        "value": 0.4
+    }
+]

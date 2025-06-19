@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "SAN PEDRO DE TABOADA",
+    "id": 6605,
+    "votos": 274,
+    "candidato": "Alvaro Noboa",
+    "value": 8.11
+  },
+  {
+    "parroquia": "SAN RAFAEL",
+    "id": 6600,
+    "votos": 1711,
+    "candidato": "Alvaro Noboa",
+    "value": 18.88
+  },
+  {
+    "parroquia": "SANGOLQUI",
+    "id": 5965,
+    "votos": 3282,
+    "candidato": "Alvaro Noboa",
+    "value": 9.39
+  },
+  {
+    "parroquia": "RUMIPAMBA",
+    "id": 3230,
+    "votos": 16,
+    "candidato": "Alvaro Noboa",
+    "value": 8.7
+  },
+  {
+    "parroquia": "COTOGCHOA",
+    "id": 680,
+    "votos": 69,
+    "candidato": "Alvaro Noboa",
+    "value": 5.76
+  }
+]

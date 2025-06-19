@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "SHIMPIS",
+    "id": 525,
+    "votos": 1,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.11
+  },
+  {
+    "parroquia": "YAUPI",
+    "id": 4300,
+    "votos": 3,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.38
+  },
+  {
+    "parroquia": "LOGROÑO",
+    "id": 6735,
+    "votos": 5,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.3
+  }
+]

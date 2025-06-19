@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "LIMONES",
+    "id": 280,
+    "votos": 392,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 50.06
+  },
+  {
+    "parroquia": "GARZAREAL",
+    "id": 290,
+    "votos": 408,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 56.67
+  },
+  {
+    "parroquia": "MANGAHURCO",
+    "id": 550,
+    "votos": 333,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 66.73
+  },
+  {
+    "parroquia": "BOLASPAMBA",
+    "id": 2000,
+    "votos": 327,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 60.44
+  },
+  {
+    "parroquia": "PALETILLAS",
+    "id": 2710,
+    "votos": 856,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 51.35
+  },
+  {
+    "parroquia": "CAZADEROS",
+    "id": 4605,
+    "votos": 176,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 60.9
+  },
+  {
+    "parroquia": "ZAPOTILLO",
+    "id": 6320,
+    "votos": 1521,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 44.18
+  }
+]

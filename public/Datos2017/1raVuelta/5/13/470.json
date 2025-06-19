@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "AYACUCHO",
+    "id": 220,
+    "votos": 34,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.76
+  },
+  {
+    "parroquia": "SAN PABLO",
+    "id": 1105,
+    "votos": 26,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.27
+  },
+  {
+    "parroquia": "HONORATO VÁSQUEZ",
+    "id": 1610,
+    "votos": 19,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.61
+  },
+  {
+    "parroquia": "LA UNIÓN",
+    "id": 2135,
+    "votos": 40,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.29
+  },
+  {
+    "parroquia": "SANTA ANA",
+    "id": 6030,
+    "votos": 96,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.6
+  },
+  {
+    "parroquia": "LODANA",
+    "id": 6725,
+    "votos": 4,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.45
+  }
+]

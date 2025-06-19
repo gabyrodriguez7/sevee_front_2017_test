@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "SAN JOSE",
+        "id": 5970,
+        "votos": 725,
+        "candidato": "Alvaro Noboa",
+        "value": 11.58
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 5405,
+        "votos": 672,
+        "candidato": "Alvaro Noboa",
+        "value": 10.85
+    },
+    {
+        "parroquia": "LA PAZ",
+        "id": 2065,
+        "votos": 97,
+        "candidato": "Alvaro Noboa",
+        "value": 5.38
+    },
+    {
+        "parroquia": "FERNANDEZ SALVADOR",
+        "id": 1270,
+        "votos": 32,
+        "candidato": "Alvaro Noboa",
+        "value": 5.73
+    },
+    {
+        "parroquia": "CHITAN DE NAVARRETES",
+        "id": 910,
+        "votos": 40,
+        "candidato": "Alvaro Noboa",
+        "value": 10.75
+    },
+    {
+        "parroquia": "CRISTOBAL COLON",
+        "id": 690,
+        "votos": 169,
+        "candidato": "Alvaro Noboa",
+        "value": 9.18
+    },
+    {
+        "parroquia": "PIARTAL",
+        "id": 250,
+        "votos": 24,
+        "candidato": "Alvaro Noboa",
+        "value": 4.21
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "parroquia": "ALLURIQUIN",
+        "id": 75,
+        "votos": 883,
+        "candidato": "Gutierrez Lucio",
+        "value": 17.817
+    },
+    {
+        "parroquia": "VALLE HERMOSO",
+        "id": 305,
+        "votos": 321,
+        "candidato": "Gutierrez Lucio",
+        "value": 8.756
+    },
+    {
+        "parroquia": "LUZ DE AMERICA",
+        "id": 1755,
+        "votos": 188,
+        "candidato": "Gutierrez Lucio",
+        "value": 6.49
+    },
+    {
+        "parroquia": "SAN JACINTO DEL BUA",
+        "id": 1970,
+        "votos": 277,
+        "candidato": "Gutierrez Lucio",
+        "value": 5.758
+    },
+    {
+        "parroquia": "EL ESFUERZO",
+        "id": 1990,
+        "votos": 260,
+        "candidato": "Gutierrez Lucio",
+        "value": 10.5
+    },
+    {
+        "parroquia": "SANTA MARIA DEL TOACHI",
+        "id": 2045,
+        "votos": 381,
+        "candidato": "Gutierrez Lucio",
+        "value": 20.9
+    },
+    {
+        "parroquia": "PUERTO LIMON",
+        "id": 4440,
+        "votos": 359,
+        "candidato": "Gutierrez Lucio",
+        "value": 7.0
+    },
+    {
+        "parroquia": "ABRAHAM CALAZACON",
+        "id": 5730,
+        "votos": 893,
+        "candidato": "Gutierrez Lucio",
+        "value": 6.0
+    },
+    {
+        "parroquia": "BOMBOLI",
+        "id": 5860,
+        "votos": 997,
+        "candidato": "Gutierrez Lucio",
+        "value": 5.22455
+    },
+    {
+        "parroquia": "RIO VERDE",
+        "id": 5865,
+        "votos": 1211,
+        "candidato": "Gutierrez Lucio",
+        "value": 6.0
+    },
+    {
+        "parroquia": "RIO TOACHI",
+        "id": 5870,
+        "votos": 320,
+        "candidato": "Gutierrez Lucio",
+        "value": 13.0
+    },
+    {
+        "parroquia": "SANTO DOMINGO",
+        "id": 6065,
+        "votos": 7347,
+        "candidato": "Gutierrez Lucio",
+        "value": 6.1
+    },
+    {
+        "parroquia": "CHIGUILPE",
+        "id": 6175,
+        "votos": 544,
+        "candidato": "Gutierrez Lucio",
+        "value": 5.3
+    },
+    {
+        "parroquia": "ZARACAY",
+        "id": 6180,
+        "votos": 178,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.5
+    }
+]

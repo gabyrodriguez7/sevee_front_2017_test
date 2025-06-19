@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "MADRE TIERRA",
+    "id": 2310,
+    "votos": 268,
+    "candidato": "Lasso Guillermo",
+    "value": 29.0
+  },
+  {
+    "parroquia": "SHELL",
+    "id": 3840,
+    "votos": 1328,
+    "candidato": "Lasso Guillermo",
+    "value": 35.35
+  },
+  {
+    "parroquia": "MERA",
+    "id": 5650,
+    "votos": 343,
+    "candidato": "Lasso Guillermo",
+    "value": 35.22
+  }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "GUASAGANDA",
+        "id": 1500,
+        "votos": 294,
+        "candidato": "Gutierrez Lucio",
+        "value": 23.52
+    },
+    {
+        "parroquia": "PUCAYACO",
+        "id": 2965,
+        "votos": 341,
+        "candidato": "Gutierrez Lucio",
+        "value": 20.74
+    },
+    {
+        "parroquia": "LA MANA",
+        "id": 6535,
+        "votos": 1385,
+        "candidato": "Gutierrez Lucio",
+        "value": 7.2
+    },
+    {
+        "parroquia": "EL CARMEN",
+        "id": 6880,
+        "votos": 56,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.1
+    },
+    {
+        "parroquia": "EL TRIUNFO",
+        "id": 6895,
+        "votos": 61,
+        "candidato": "Gutierrez Lucio",
+        "value": 6.2
+    }
+]

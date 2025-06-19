@@ -1,0 +1,191 @@
+[
+    {
+        "parroquia": "SAN FRANCISCO",
+        "id": 5945,
+        "votos": 37,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.7
+    },
+    {
+        "parroquia": "PISHILATA",
+        "id": 5840,
+        "votos": 6,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.42
+    },
+    {
+        "parroquia": "LA PENINSULA",
+        "id": 5605,
+        "votos": 3,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.32
+    },
+    {
+        "parroquia": "LA MERCED",
+        "id": 5560,
+        "votos": 88,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.62
+    },
+    {
+        "parroquia": "LA MATRIZ",
+        "id": 5545,
+        "votos": 129,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.7
+    },
+    {
+        "parroquia": "HUACHI CHICO",
+        "id": 5455,
+        "votos": 74,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.51
+    },
+    {
+        "parroquia": "HUACHI LORETO",
+        "id": 5445,
+        "votos": 245,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.7
+    },
+    {
+        "parroquia": "CELIANO MONGE",
+        "id": 5230,
+        "votos": 14,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.87
+    },
+    {
+        "parroquia": "ATOCHA FICOA",
+        "id": 5045,
+        "votos": 57,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.73
+    },
+    {
+        "parroquia": "TOTORAS",
+        "id": 4065,
+        "votos": 8,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.24
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 3730,
+        "votos": 39,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.5
+    },
+    {
+        "parroquia": "SAN FERNANDO",
+        "id": 3380,
+        "votos": 6,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.51
+    },
+    {
+        "parroquia": "SAN BARTOLOME",
+        "id": 3355,
+        "votos": 24,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.57
+    },
+    {
+        "parroquia": "QUISAPINCHA",
+        "id": 3120,
+        "votos": 36,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.69
+    },
+    {
+        "parroquia": "PILAHUIN",
+        "id": 2860,
+        "votos": 17,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.34
+    },
+    {
+        "parroquia": "PICAYHUA",
+        "id": 2830,
+        "votos": 41,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.54
+    },
+    {
+        "parroquia": "PASA",
+        "id": 2775,
+        "votos": 13,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.41
+    },
+    {
+        "parroquia": "MONTALVO",
+        "id": 2435,
+        "votos": 6,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.35
+    },
+    {
+        "parroquia": "JUAN BENIGNO VELA",
+        "id": 1860,
+        "votos": 21,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.57
+    },
+    {
+        "parroquia": "IZAMBA",
+        "id": 1745,
+        "votos": 47,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.5
+    },
+    {
+        "parroquia": "HUACHI GRANDE",
+        "id": 1625,
+        "votos": 16,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.4
+    },
+    {
+        "parroquia": "UNAMUNCHO",
+        "id": 810,
+        "votos": 3,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.33
+    },
+    {
+        "parroquia": "CUNCHIBAMBA",
+        "id": 800,
+        "votos": 7,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.43
+    },
+    {
+        "parroquia": "CONSTANTINO FERNANDEZ",
+        "id": 635,
+        "votos": 14,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 1.04
+    },
+    {
+        "parroquia": "AUGUSTO N MARTINEZ",
+        "id": 210,
+        "votos": 16,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.33
+    },
+    {
+        "parroquia": "ATAHUALPA /CHIPZALATA",
+        "id": 190,
+        "votos": 37,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.85
+    },
+    {
+        "parroquia": "AMBATILLO",
+        "id": 95,
+        "votos": 13,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.54
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "EL PAN",
+        "id": 6485,
+        "votos": 27,
+        "candidato": "Alvaro Noboa",
+        "value": 2.65
+    },
+    {
+        "parroquia": "SAN VICENTE",
+        "id": 1650,
+        "votos": 17,
+        "candidato": "Alvaro Noboa",
+        "value": 2.55
+    }
+]

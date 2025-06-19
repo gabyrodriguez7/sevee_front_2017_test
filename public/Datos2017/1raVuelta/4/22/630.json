@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "CAP. AUGUSTO RIVADENEIRA",
+    "id": 510,
+    "votos": 10,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 2.82
+  },
+  {
+    "parroquia": "CONONACO",
+    "id": 630,
+    "votos": 4,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 1.56
+  },
+  {
+    "parroquia": "STA. MARÍA DE HUIRIRIMA",
+    "id": 3720,
+    "votos": 7,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 1.78
+  },
+  {
+    "parroquia": "YASUNÍ",
+    "id": 4295,
+    "votos": 8,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 3.69
+  },
+  {
+    "parroquia": "NUEVO ROCAFUERTE",
+    "id": 5700,
+    "votos": 8,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 1.35
+  },
+  {
+    "parroquia": "TIPUTINI",
+    "id": 7485,
+    "votos": 22,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 2.67
+  }
+]

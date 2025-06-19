@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "PEDRO CARBO",
+        "id": 5735,
+        "votos": 10187,
+        "candidato": "Rafael Correa Delgado",
+        "value": 52.27
+    },
+    {
+        "parroquia": "SABANILLA",
+        "id": 1670,
+        "votos": 548,
+        "candidato": "Rafael Correa Delgado",
+        "value": 53.15
+    },
+    {
+        "parroquia": "VALLE DE LA VIRGEN",
+        "id": 185,
+        "votos": 748,
+        "candidato": "Rafael Correa Delgado",
+        "value": 69.06
+    }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "GRAL.PEDRO MONTERO",
+    "id": 1340,
+    "votos": 25,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.53
+  },
+  {
+    "parroquia": "VIRGEN DE FÁTIMA",
+    "id": 1915,
+    "votos": 21,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.3
+  },
+  {
+    "parroquia": "YAGUACHI VIEJO/CONE",
+    "id": 4275,
+    "votos": 21,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.52
+  },
+  {
+    "parroquia": "YAGUACHI NUEVO",
+    "id": 6285,
+    "votos": 83,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.46
+  }
+]

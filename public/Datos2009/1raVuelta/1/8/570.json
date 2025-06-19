@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "MUISNE",
+        "id": 5670,
+        "votos": 242,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 4.84
+    },
+    {
+        "parroquia": "SAN JOSE DE CHAMANGA",
+        "id": 3470,
+        "votos": 63,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 4.92
+    },
+    {
+        "parroquia": "SAN GREGORIO",
+        "id": 3430,
+        "votos": 61,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 5.19
+    },
+    {
+        "parroquia": "SAN FRANCISCO",
+        "id": 3390,
+        "votos": 16,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.19
+    },
+    {
+        "parroquia": "SALIMA",
+        "id": 3280,
+        "votos": 4,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.07
+    },
+    {
+        "parroquia": "QUINGUE",
+        "id": 3125,
+        "votos": 7,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.1
+    },
+    {
+        "parroquia": "GALERA",
+        "id": 1305,
+        "votos": 17,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.42
+    },
+    {
+        "parroquia": "DAULE",
+        "id": 1010,
+        "votos": 8,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.09
+    },
+    {
+        "parroquia": "BOLIVAR",
+        "id": 355,
+        "votos": 10,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.96
+    }
+]

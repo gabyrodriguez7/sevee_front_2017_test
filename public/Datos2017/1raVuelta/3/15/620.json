@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "AHUANO",
+    "id": 25,
+    "votos": 702,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 21.76
+  },
+  {
+    "parroquia": "CHONTAPUNTA",
+    "id": 940,
+    "votos": 633,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 19.38
+  },
+  {
+    "parroquia": "TALAG",
+    "id": 1930,
+    "votos": 285,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 16.29
+  },
+  {
+    "parroquia": "PANO",
+    "id": 2755,
+    "votos": 186,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 16.74
+  },
+  {
+    "parroquia": "PUERTO MISAHUALLÍ",
+    "id": 3000,
+    "votos": 595,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 21.43
+  },
+  {
+    "parroquia": "PUERTO NAPO",
+    "id": 3050,
+    "votos": 732,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 23.59
+  },
+  {
+    "parroquia": "SAN JUAN DE MUYUNA",
+    "id": 4580,
+    "votos": 390,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 17.82
+  },
+  {
+    "parroquia": "TENA",
+    "id": 6160,
+    "votos": 4572,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 22.58
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "GRAL. LEONIDAS PLAZA",
+    "id": 5390,
+    "votos": 58,
+    "candidato": "Alvaro Noboa",
+    "value": 2.25
+  },
+  {
+    "parroquia": "YUNGANZA /EL ROSARIO",
+    "id": 4305,
+    "votos": 8,
+    "candidato": "Alvaro Noboa",
+    "value": 2.27
+  },
+  {
+    "parroquia": "SANTA SUSANA DE CHIVIAZA",
+    "id": 3760,
+    "votos": 1,
+    "candidato": "Alvaro Noboa",
+    "value": 0.33
+  },
+  {
+    "parroquia": "SAN ANTONIO",
+    "id": 3320,
+    "votos": 4,
+    "candidato": "Alvaro Noboa",
+    "value": 2.0
+  },
+  {
+    "parroquia": "SAN MIGUEL DE CONCHAY",
+    "id": 3250,
+    "votos": 0,
+    "candidato": "Alvaro Noboa",
+    "value": 0.0
+  },
+  {
+    "parroquia": "INDANZA",
+    "id": 1720,
+    "votos": 12,
+    "candidato": "Alvaro Noboa",
+    "value": 2.31
+  }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "LA MATRIZ",
+        "id": 5550,
+        "votos": 411,
+        "candidato": "Alvaro Noboa",
+        "value": 5.62
+    },
+    {
+        "parroquia": "EL ROSARIO",
+        "id": 5315,
+        "votos": 39,
+        "candidato": "Alvaro Noboa",
+        "value": 3.9
+    },
+    {
+        "parroquia": "SAN ISIDRO DE PATULU",
+        "id": 3450,
+        "votos": 114,
+        "candidato": "Alvaro Noboa",
+        "value": 6.05
+    },
+    {
+        "parroquia": "SAN GERARDO / PAQUICAHUAN",
+        "id": 3425,
+        "votos": 69,
+        "candidato": "Alvaro Noboa",
+        "value": 6.57
+    },
+    {
+        "parroquia": "SAN ANDRES",
+        "id": 3295,
+        "votos": 308,
+        "candidato": "Alvaro Noboa",
+        "value": 4.92
+    },
+    {
+        "parroquia": "LA PROVIDENCIA",
+        "id": 2080,
+        "votos": 29,
+        "candidato": "Alvaro Noboa",
+        "value": 8.65
+    },
+    {
+        "parroquia": "ILAPO",
+        "id": 1705,
+        "votos": 64,
+        "candidato": "Alvaro Noboa",
+        "value": 5.14
+    },
+    {
+        "parroquia": "GUANANDO",
+        "id": 1415,
+        "votos": 21,
+        "candidato": "Alvaro Noboa",
+        "value": 6.08
+    },
+    {
+        "parroquia": "VALPARAISO",
+        "id": 410,
+        "votos": 8,
+        "candidato": "Alvaro Noboa",
+        "value": 3.4
+    },
+    {
+        "parroquia": "SAN JOSE DEL CHAZO",
+        "id": 45,
+        "votos": 77,
+        "candidato": "Alvaro Noboa",
+        "value": 13.58
+    },
+    {
+        "parroquia": "SANTA FE DE GALAN",
+        "id": 40,
+        "votos": 21,
+        "candidato": "Alvaro Noboa",
+        "value": 4.02
+    }
+]

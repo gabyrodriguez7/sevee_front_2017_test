@@ -1,0 +1,93 @@
+[
+    {
+        "parroquia": "CAMARONES",
+        "id": 450,
+        "votos": 1,
+        "candidato": "Wray Norman",
+        "value": 0.09
+    },
+    {
+        "parroquia": "CRNL.CARLOS CONCHA TORRES",
+        "id": 655,
+        "votos": 8,
+        "candidato": "Wray Norman",
+        "value": 1.1
+    },
+    {
+        "parroquia": "CHINCA",
+        "id": 895,
+        "votos": 6,
+        "candidato": "Wray Norman",
+        "value": 0.4
+    },
+    {
+        "parroquia": "MAJUA",
+        "id": 2320,
+        "votos": 7,
+        "candidato": "Wray Norman",
+        "value": 0.8
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 3570,
+        "votos": 19,
+        "candidato": "Wray Norman",
+        "value": 0.83
+    },
+    {
+        "parroquia": "TABIAZO",
+        "id": 3930,
+        "votos": 14,
+        "candidato": "Wray Norman",
+        "value": 1.1
+    },
+    {
+        "parroquia": "TACHINA",
+        "id": 3940,
+        "votos": 9,
+        "candidato": "Wray Norman",
+        "value": 0.4493
+    },
+    {
+        "parroquia": "VUELTA LARGA",
+        "id": 4240,
+        "votos": 72,
+        "candidato": "Wray Norman",
+        "value": 0.544
+    },
+    {
+        "parroquia": "BARTOLOME RUIZ",
+        "id": 5205,
+        "votos": 65,
+        "candidato": "Wray Norman",
+        "value": 0.395
+    },
+    {
+        "parroquia": "5 DE AGOSTO",
+        "id": 5210,
+        "votos": 140,
+        "candidato": "Wray Norman",
+        "value": 0.57
+    },
+    {
+        "parroquia": "ESMERALDAS",
+        "id": 5335,
+        "votos": 137,
+        "candidato": "Wray Norman",
+        "value": 0.49
+    },
+    {
+        "parroquia": "LUIS TELLO / LAS PALMAS /",
+        "id": 5600,
+        "votos": 26,
+        "candidato": "Wray Norman",
+        "value": 0.414
+    },
+    {
+        "parroquia": "SIMON PLATA TORRES",
+        "id": 6905,
+        "votos": 15,
+        "candidato": "Wray Norman",
+        "value": 0.389
+    }
+]

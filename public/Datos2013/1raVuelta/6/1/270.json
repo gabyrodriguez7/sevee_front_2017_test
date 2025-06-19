@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "ASUNCION",
+        "id": 175,
+        "votos": 210,
+        "candidato": "Lasso Guillermo",
+        "value": 14.0
+    },
+    {
+        "parroquia": "SAN GERARDO",
+        "id": 885,
+        "votos": 25,
+        "candidato": "Lasso Guillermo",
+        "value": 10.0
+    },
+    {
+        "parroquia": "GIRON",
+        "id": 5395,
+        "votos": 1005,
+        "candidato": "Lasso Guillermo",
+        "value": 17.2
+    }
+]

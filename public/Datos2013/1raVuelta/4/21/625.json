@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "DURENO",
+        "id": 1045,
+        "votos": 71,
+        "candidato": "Acosta Alberto",
+        "value": 4.765
+    },
+    {
+        "parroquia": "EL ENO",
+        "id": 1285,
+        "votos": 121,
+        "candidato": "Acosta Alberto",
+        "value": 4.2
+    },
+    {
+        "parroquia": "PACAYACU",
+        "id": 1290,
+        "votos": 197,
+        "candidato": "Acosta Alberto",
+        "value": 6.3
+    },
+    {
+        "parroquia": "GENERAL FARFAN",
+        "id": 1330,
+        "votos": 135,
+        "candidato": "Acosta Alberto",
+        "value": 6.5
+    },
+    {
+        "parroquia": "SANTA CECILIA",
+        "id": 1790,
+        "votos": 170,
+        "candidato": "Acosta Alberto",
+        "value": 8.526
+    },
+    {
+        "parroquia": "JAMBELI",
+        "id": 1795,
+        "votos": 79,
+        "candidato": "Acosta Alberto",
+        "value": 6.729
+    },
+    {
+        "parroquia": "10 DE AGOSTO",
+        "id": 4625,
+        "votos": 12,
+        "candidato": "Acosta Alberto",
+        "value": 3.57
+    },
+    {
+        "parroquia": "NUEVA LOJA",
+        "id": 5710,
+        "votos": 1670,
+        "candidato": "Acosta Alberto",
+        "value": 4.988
+    }
+]

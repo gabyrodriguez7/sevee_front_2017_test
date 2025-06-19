@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "SAN RAFAEL",
+    "id": 1055,
+    "votos": 28,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.71
+  },
+  {
+    "parroquia": "GARCÍA MORENO",
+    "id": 1315,
+    "votos": 18,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.58
+  },
+  {
+    "parroquia": "LOS ANDES",
+    "id": 2205,
+    "votos": 36,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.48
+  },
+  {
+    "parroquia": "MONTEOLIVO",
+    "id": 2455,
+    "votos": 21,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.76
+  },
+  {
+    "parroquia": "SAN VICENTE DE PUSIR",
+    "id": 3680,
+    "votos": 20,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.59
+  },
+  {
+    "parroquia": "BOLÍVAR",
+    "id": 6520,
+    "votos": 51,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.42
+  }
+]

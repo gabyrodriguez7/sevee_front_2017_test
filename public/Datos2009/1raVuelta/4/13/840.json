@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "PICHINCHA /GERMUD",
+        "id": 6550,
+        "votos": 7378,
+        "candidato": "Rafael Correa Delgado",
+        "value": 58.16
+    },
+    {
+        "parroquia": "BARRAGANETE",
+        "id": 1065,
+        "votos": 296,
+        "candidato": "Rafael Correa Delgado",
+        "value": 40.33
+    },
+    {
+        "parroquia": "SAN SEBASTIAN",
+        "id": 1060,
+        "votos": 1225,
+        "candidato": "Rafael Correa Delgado",
+        "value": 57.59
+    }
+]

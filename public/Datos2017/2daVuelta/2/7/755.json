@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "SAN ISIDRO",
+    "id": 1075,
+    "votos": 156,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 34.98
+  },
+  {
+    "parroquia": "EL PARAÍSO",
+    "id": 1080,
+    "votos": 253,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 48.1
+  },
+  {
+    "parroquia": "LA LIBERTAD",
+    "id": 1100,
+    "votos": 305,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 49.84
+  },
+  {
+    "parroquia": "LA VICTORIA/LAS LAJAS",
+    "id": 6335,
+    "votos": 970,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 44.87
+  },
+  {
+    "parroquia": "PLATANILLOS",
+    "id": 6950,
+    "votos": 185,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 47.56
+  }
+]

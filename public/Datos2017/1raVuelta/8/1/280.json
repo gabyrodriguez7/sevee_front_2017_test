@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "CUTCHIL",
+    "id": 750,
+    "votos": 28,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.63
+  },
+  {
+    "parroquia": "GIMA",
+    "id": 1355,
+    "votos": 67,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.14
+  },
+  {
+    "parroquia": "GUEL",
+    "id": 1490,
+    "votos": 17,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.12
+  },
+  {
+    "parroquia": "LUDO",
+    "id": 2215,
+    "votos": 47,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.52
+  },
+  {
+    "parroquia": "SAN BARTOLOMÉ",
+    "id": 3360,
+    "votos": 86,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.11
+  },
+  {
+    "parroquia": "SAN JOSÉ DE RARANGA",
+    "id": 3495,
+    "votos": 18,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.69
+  },
+  {
+    "parroquia": "SIGSIG",
+    "id": 6085,
+    "votos": 352,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.38
+  }
+]

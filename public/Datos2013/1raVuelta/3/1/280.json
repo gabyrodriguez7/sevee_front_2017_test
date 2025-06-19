@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "CUTCHIL",
+        "id": 750,
+        "votos": 17,
+        "candidato": "Wray Norman",
+        "value": 2.0
+    },
+    {
+        "parroquia": "GIMA",
+        "id": 1355,
+        "votos": 23,
+        "candidato": "Wray Norman",
+        "value": 1.205
+    },
+    {
+        "parroquia": "GUEL",
+        "id": 1490,
+        "votos": 5,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "LUDO",
+        "id": 2215,
+        "votos": 25,
+        "candidato": "Wray Norman",
+        "value": 1.52
+    },
+    {
+        "parroquia": "SAN BARTOLOME",
+        "id": 3360,
+        "votos": 29,
+        "candidato": "Wray Norman",
+        "value": 1.49
+    },
+    {
+        "parroquia": "SAN JOSE DE RARANGA",
+        "id": 3495,
+        "votos": 10,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "SIGSIG",
+        "id": 6085,
+        "votos": 116,
+        "candidato": "Wray Norman",
+        "value": 2.0
+    }
+]

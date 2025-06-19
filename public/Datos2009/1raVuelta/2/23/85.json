@@ -1,0 +1,100 @@
+[
+    {
+        "parroquia": "ZARACAY",
+        "id": 6180,
+        "votos": 10,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.38
+    },
+    {
+        "parroquia": "CHIGUILPE",
+        "id": 6175,
+        "votos": 55,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.75
+    },
+    {
+        "parroquia": "SANTO DOMINGO",
+        "id": 6065,
+        "votos": 553,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.54
+    },
+    {
+        "parroquia": "RIO TOACHI",
+        "id": 5870,
+        "votos": 10,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.49
+    },
+    {
+        "parroquia": "RIO VERDE",
+        "id": 5865,
+        "votos": 86,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.55
+    },
+    {
+        "parroquia": "BOMBOLI",
+        "id": 5860,
+        "votos": 55,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.4
+    },
+    {
+        "parroquia": "ABRAHAM CALAZACON",
+        "id": 5730,
+        "votos": 44,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.38
+    },
+    {
+        "parroquia": "PUERTO LIMON",
+        "id": 4440,
+        "votos": 17,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.42
+    },
+    {
+        "parroquia": "SANTA MARIA DEL TOACHI",
+        "id": 2045,
+        "votos": 5,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.4
+    },
+    {
+        "parroquia": "EL ESFUERZO",
+        "id": 1990,
+        "votos": 8,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.46
+    },
+    {
+        "parroquia": "SAN JACINTO DEL BUA",
+        "id": 1970,
+        "votos": 14,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.42
+    },
+    {
+        "parroquia": "LUZ DE AMERICA",
+        "id": 1755,
+        "votos": 6,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.33
+    },
+    {
+        "parroquia": "VALLE HERMOSO",
+        "id": 305,
+        "votos": 13,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.52
+    },
+    {
+        "parroquia": "ALLURIQUIN",
+        "id": 75,
+        "votos": 25,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.66
+    }
+]

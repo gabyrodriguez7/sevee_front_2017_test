@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "TAISHA",
+    "id": 6700,
+    "votos": 7,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.55
+  },
+  {
+    "parroquia": "MACUMA",
+    "id": 2285,
+    "votos": 9,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.17
+  },
+  {
+    "parroquia": "TUTINENTZA",
+    "id": 1205,
+    "votos": 5,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.64
+  },
+  {
+    "parroquia": "HUASAGA /WAMPUIK",
+    "id": 595,
+    "votos": 2,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.36
+  }
+]

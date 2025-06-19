@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "EL CARMELO/EL PUN/",
+    "id": 1125,
+    "votos": 684,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 39.31
+  },
+  {
+    "parroquia": "EL CHICAL",
+    "id": 1195,
+    "votos": 587,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 35.62
+  },
+  {
+    "parroquia": "SANTA MARTHA DE CUBA",
+    "id": 1765,
+    "votos": 446,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 29.42
+  },
+  {
+    "parroquia": "JULIO ANDRADE",
+    "id": 1885,
+    "votos": 3625,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 56.03
+  },
+  {
+    "parroquia": "MALDONADO",
+    "id": 2340,
+    "votos": 434,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 41.25
+  },
+  {
+    "parroquia": "PIOTER",
+    "id": 2900,
+    "votos": 275,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 49.37
+  },
+  {
+    "parroquia": "TOBAR DONOSO",
+    "id": 4040,
+    "votos": 120,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 24.79
+  },
+  {
+    "parroquia": "TUFIÑO",
+    "id": 4070,
+    "votos": 713,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 37.59
+  },
+  {
+    "parroquia": "URBINA",
+    "id": 4130,
+    "votos": 387,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 42.34
+  },
+  {
+    "parroquia": "GONZALEZ SUÁREZ",
+    "id": 5415,
+    "votos": 11574,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 58.53
+  },
+  {
+    "parroquia": "TULCÁN",
+    "id": 6165,
+    "votos": 14334,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 58.58
+  }
+]

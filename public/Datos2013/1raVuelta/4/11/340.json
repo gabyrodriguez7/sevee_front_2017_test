@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 320,
+        "votos": 25,
+        "candidato": "Acosta Alberto",
+        "value": 2.5
+    },
+    {
+        "parroquia": "EL INGENIO",
+        "id": 790,
+        "votos": 16,
+        "candidato": "Acosta Alberto",
+        "value": 1.8
+    },
+    {
+        "parroquia": "EL AIRO",
+        "id": 1645,
+        "votos": 11,
+        "candidato": "Acosta Alberto",
+        "value": 2.5
+    },
+    {
+        "parroquia": "JIMBURA",
+        "id": 1845,
+        "votos": 34,
+        "candidato": "Acosta Alberto",
+        "value": 3.4872
+    },
+    {
+        "parroquia": "SANTA TERESITA",
+        "id": 3765,
+        "votos": 45,
+        "candidato": "Acosta Alberto",
+        "value": 6.08
+    },
+    {
+        "parroquia": "27 DE ABRIL /LA NARANJA",
+        "id": 4460,
+        "votos": 111,
+        "candidato": "Acosta Alberto",
+        "value": 11.53
+    },
+    {
+        "parroquia": "AMALUZA",
+        "id": 5020,
+        "votos": 155,
+        "candidato": "Acosta Alberto",
+        "value": 4.9
+    }
+]

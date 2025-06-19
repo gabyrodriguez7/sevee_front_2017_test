@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "CHICANA",
+    "id": 985,
+    "votos": 244,
+    "candidato": "Lasso Guillermo",
+    "value": 20.9
+  },
+  {
+    "parroquia": "LOS ENCUENTROS",
+    "id": 2240,
+    "votos": 446,
+    "candidato": "Lasso Guillermo",
+    "value": 28.38956
+  },
+  {
+    "parroquia": "YANZATZA",
+    "id": 6295,
+    "votos": 2431,
+    "candidato": "Lasso Guillermo",
+    "value": 32.478
+  }
+]

@@ -1,0 +1,254 @@
+[
+    {
+        "parroquia": "BAÑOS",
+        "id": 285,
+        "votos": 553,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.0
+    },
+    {
+        "parroquia": "CUMBE",
+        "id": 730,
+        "votos": 106,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.0
+    },
+    {
+        "parroquia": "CHAUCHA / ANGAS",
+        "id": 845,
+        "votos": 8,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.1
+    },
+    {
+        "parroquia": "CHECA JIDCAY",
+        "id": 860,
+        "votos": 36,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.116
+    },
+    {
+        "parroquia": "CHIQUINTAD",
+        "id": 905,
+        "votos": 89,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.415
+    },
+    {
+        "parroquia": "LLACAO",
+        "id": 2255,
+        "votos": 96,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.79
+    },
+    {
+        "parroquia": "MOLLETURO",
+        "id": 2430,
+        "votos": 88,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.17
+    },
+    {
+        "parroquia": "MULTI /  NULTI",
+        "id": 2570,
+        "votos": 88,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.0
+    },
+    {
+        "parroquia": "OCTAVIO CORDERO PALACIOS",
+        "id": 2595,
+        "votos": 36,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.0
+    },
+    {
+        "parroquia": "PACCHA",
+        "id": 2680,
+        "votos": 61,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.1
+    },
+    {
+        "parroquia": "QUINGEO",
+        "id": 3105,
+        "votos": 109,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.2
+    },
+    {
+        "parroquia": "RICAURTE",
+        "id": 3165,
+        "votos": 478,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 5.0
+    },
+    {
+        "parroquia": "SAN JOAQUIN",
+        "id": 3460,
+        "votos": 189,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.6972
+    },
+    {
+        "parroquia": "SANTA ANA",
+        "id": 3685,
+        "votos": 118,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.3408834
+    },
+    {
+        "parroquia": "SAYAUSI",
+        "id": 3795,
+        "votos": 317,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 5.0
+    },
+    {
+        "parroquia": "SIDCAY",
+        "id": 3850,
+        "votos": 58,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.4
+    },
+    {
+        "parroquia": "SININCAY",
+        "id": 3870,
+        "votos": 170,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.7
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 3980,
+        "votos": 122,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.16312
+    },
+    {
+        "parroquia": "TURI",
+        "id": 4095,
+        "votos": 135,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.6
+    },
+    {
+        "parroquia": "VALLE",
+        "id": 4200,
+        "votos": 460,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 5.0
+    },
+    {
+        "parroquia": "VICTORIA DEL PORTETE",
+        "id": 4225,
+        "votos": 68,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.0
+    },
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 5075,
+        "votos": 556,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 5.0
+    },
+    {
+        "parroquia": "CAÑARIBAMBA",
+        "id": 5080,
+        "votos": 382,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 5.65591
+    },
+    {
+        "parroquia": "EL BATAN",
+        "id": 5135,
+        "votos": 407,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 5.0
+    },
+    {
+        "parroquia": "MACHANGARA",
+        "id": 5140,
+        "votos": 224,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.4
+    },
+    {
+        "parroquia": "MONAY",
+        "id": 5290,
+        "votos": 386,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 5.0
+    },
+    {
+        "parroquia": "EL VECINO",
+        "id": 5330,
+        "votos": 1339,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.0
+    },
+    {
+        "parroquia": "TOTORACOCHA",
+        "id": 5360,
+        "votos": 774,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 5.0
+    },
+    {
+        "parroquia": "YANUNCAY",
+        "id": 5370,
+        "votos": 670,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 5.0
+    },
+    {
+        "parroquia": "HUAYNACAPAC",
+        "id": 5450,
+        "votos": 723,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 6.0
+    },
+    {
+        "parroquia": "RAMIREZ DAVALOS",
+        "id": 5875,
+        "votos": 444,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.65
+    },
+    {
+        "parroquia": "SAGRARIO",
+        "id": 5905,
+        "votos": 910,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 5.0
+    },
+    {
+        "parroquia": "SAN BLAS",
+        "id": 5930,
+        "votos": 968,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 6.0
+    },
+    {
+        "parroquia": "SAN SEBASTIAN",
+        "id": 6010,
+        "votos": 1188,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 5.0
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 6090,
+        "votos": 869,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 5.0
+    },
+    {
+        "parroquia": "HERMANO MIGUEL",
+        "id": 6865,
+        "votos": 225,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.4
+    }
+]

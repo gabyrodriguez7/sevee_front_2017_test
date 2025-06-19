@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "PUERTO PECHICHE",
+    "id": 3015,
+    "votos": 149,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.57
+  },
+  {
+    "parroquia": "SAN JUAN",
+    "id": 3510,
+    "votos": 200,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.93
+  },
+  {
+    "parroquia": "PUEBLO VIEJO",
+    "id": 5800,
+    "votos": 188,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.12
+  }
+]

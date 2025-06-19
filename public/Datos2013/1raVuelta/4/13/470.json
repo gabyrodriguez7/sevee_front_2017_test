@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "AYACUCHO",
+        "id": 220,
+        "votos": 27,
+        "candidato": "Acosta Alberto",
+        "value": 0.6096
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 1105,
+        "votos": 8,
+        "candidato": "Acosta Alberto",
+        "value": 0.0
+    },
+    {
+        "parroquia": "HONORATO VASQUEZ",
+        "id": 1610,
+        "votos": 25,
+        "candidato": "Acosta Alberto",
+        "value": 0.8
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 2135,
+        "votos": 24,
+        "candidato": "Acosta Alberto",
+        "value": 0.8
+    },
+    {
+        "parroquia": "SANTA ANA",
+        "id": 6030,
+        "votos": 175,
+        "candidato": "Acosta Alberto",
+        "value": 1.136
+    },
+    {
+        "parroquia": "LODANA",
+        "id": 6725,
+        "votos": 10,
+        "candidato": "Acosta Alberto",
+        "value": 1.335
+    }
+]

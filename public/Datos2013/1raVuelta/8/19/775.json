@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "EL GUISMI",
+    "id": 665,
+    "votos": 16,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 2.5
+  },
+  {
+    "parroquia": "TUNDAYME",
+    "id": 945,
+    "votos": 4,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 1.307
+  },
+  {
+    "parroquia": "PACHICUTZA",
+    "id": 1015,
+    "votos": 11,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 1.94
+  },
+  {
+    "parroquia": "EL PANGUI",
+    "id": 6355,
+    "votos": 85,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 2.5
+  }
+]

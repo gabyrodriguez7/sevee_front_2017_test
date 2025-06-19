@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "SEVILLA",
+        "id": 1095,
+        "votos": 893,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 55.74
+    },
+    {
+        "parroquia": "SANTA ROSA DE SUCUMBIOS",
+        "id": 3750,
+        "votos": 349,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 61.01
+    },
+    {
+        "parroquia": "EL DORADO DE CASCALES",
+        "id": 6325,
+        "votos": 2799,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 60.7
+    }
+]

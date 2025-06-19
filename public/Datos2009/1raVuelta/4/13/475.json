@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "LEONIDAS PLAZA G.",
+        "id": 5580,
+        "votos": 1326,
+        "candidato": "Rafael Correa Delgado",
+        "value": 55.64
+    },
+    {
+        "parroquia": "BAHIA DE CARAQUEZ",
+        "id": 5095,
+        "votos": 5824,
+        "candidato": "Rafael Correa Delgado",
+        "value": 52.51
+    },
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 3445,
+        "votos": 3521,
+        "candidato": "Rafael Correa Delgado",
+        "value": 61.91
+    },
+    {
+        "parroquia": "CHARAPOTO",
+        "id": 840,
+        "votos": 6943,
+        "candidato": "Rafael Correa Delgado",
+        "value": 67.28
+    }
+]

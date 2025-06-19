@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "CARACOL",
+    "id": 520,
+    "votos": 2456,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 71.35
+  },
+  {
+    "parroquia": "FEBRES CORDERO",
+    "id": 1265,
+    "votos": 6342,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 61.45
+  },
+  {
+    "parroquia": "LA UNIÓN",
+    "id": 1525,
+    "votos": 5055,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 68.21
+  },
+  {
+    "parroquia": "PIMOCHA",
+    "id": 2875,
+    "votos": 7270,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 76.36
+  },
+  {
+    "parroquia": "CLEMENTE BAQUERIZO",
+    "id": 5215,
+    "votos": 21132,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 47.94
+  },
+  {
+    "parroquia": "DR. CAMILO PONCE E.",
+    "id": 5285,
+    "votos": 9605,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 45.03
+  },
+  {
+    "parroquia": "BARREIRO /SANTA RITA",
+    "id": 6830,
+    "votos": 3340,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 60.73
+  },
+  {
+    "parroquia": "EL SALTO",
+    "id": 6835,
+    "votos": 1033,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 59.81
+  }
+]

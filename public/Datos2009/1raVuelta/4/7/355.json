@@ -1,0 +1,86 @@
+[
+    {
+        "parroquia": "NUEVO SANTA ROSA",
+        "id": 6990,
+        "votos": 306,
+        "candidato": "Rafael Correa Delgado",
+        "value": 76.11
+    },
+    {
+        "parroquia": "JUMON",
+        "id": 6985,
+        "votos": 224,
+        "candidato": "Rafael Correa Delgado",
+        "value": 73.68
+    },
+    {
+        "parroquia": "BALNEARIO JAMBELI",
+        "id": 6900,
+        "votos": 46,
+        "candidato": "Rafael Correa Delgado",
+        "value": 57.5
+    },
+    {
+        "parroquia": "PUERTO JELI",
+        "id": 6670,
+        "votos": 199,
+        "candidato": "Rafael Correa Delgado",
+        "value": 73.7
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 6060,
+        "votos": 17554,
+        "candidato": "Rafael Correa Delgado",
+        "value": 62.87
+    },
+    {
+        "parroquia": "TORATA",
+        "id": 4525,
+        "votos": 575,
+        "candidato": "Rafael Correa Delgado",
+        "value": 73.43
+    },
+    {
+        "parroquia": "VICTORIA",
+        "id": 4215,
+        "votos": 579,
+        "candidato": "Rafael Correa Delgado",
+        "value": 78.99
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3330,
+        "votos": 240,
+        "candidato": "Rafael Correa Delgado",
+        "value": 65.04
+    },
+    {
+        "parroquia": "LA AVANZADA",
+        "id": 2005,
+        "votos": 687,
+        "candidato": "Rafael Correa Delgado",
+        "value": 60.05
+    },
+    {
+        "parroquia": "JAMBELI",
+        "id": 1815,
+        "votos": 141,
+        "candidato": "Rafael Correa Delgado",
+        "value": 81.03
+    },
+    {
+        "parroquia": "BELLAMARIA",
+        "id": 1665,
+        "votos": 350,
+        "candidato": "Rafael Correa Delgado",
+        "value": 72.16
+    },
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 325,
+        "votos": 869,
+        "candidato": "Rafael Correa Delgado",
+        "value": 66.38
+    }
+]

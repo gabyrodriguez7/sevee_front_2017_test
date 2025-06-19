@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "MEMBRILLO",
+    "id": 240,
+    "votos": 58,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.62
+  },
+  {
+    "parroquia": "QUIROGA",
+    "id": 3110,
+    "votos": 75,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.89
+  },
+  {
+    "parroquia": "CALCETA",
+    "id": 5150,
+    "votos": 737,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.28
+  }
+]

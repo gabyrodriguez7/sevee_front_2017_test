@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "NUEVA FATIMA",
+        "id": 2575,
+        "votos": 2,
+        "candidato": "Wray Norman",
+        "value": 0.4
+    },
+    {
+        "parroquia": "TACAMOROS",
+        "id": 3935,
+        "votos": 10,
+        "candidato": "Wray Norman",
+        "value": 0.7
+    },
+    {
+        "parroquia": "SOZORANGA",
+        "id": 6120,
+        "votos": 15,
+        "candidato": "Wray Norman",
+        "value": 0.856
+    }
+]

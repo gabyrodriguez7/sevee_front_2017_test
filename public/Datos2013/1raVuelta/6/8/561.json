@@ -1,0 +1,45 @@
+[
+                {
+                    "parroquia": "CHONTADURO",
+                    "id": 930,
+                    "votos": 145,
+                    "candidato": "Lasso Guillermo",
+                    "value": 13.0
+                },
+                {
+                    "parroquia": "CHUMUNDE",
+                    "id": 965,
+                    "votos": 100,
+                    "candidato": "Lasso Guillermo",
+                    "value": 11.198
+                },
+                {
+                    "parroquia": "LAGARTO",
+                    "id": 2035,
+                    "votos": 271,
+                    "candidato": "Lasso Guillermo",
+                    "value": 13.591
+                },
+                {
+                    "parroquia": "MONTALVO / HORQUETA",
+                    "id": 2445,
+                    "votos": 224,
+                    "candidato": "Lasso Guillermo",
+                    "value": 12.46
+                },
+                {
+                    "parroquia": "ROCAFUERTE",
+                    "id": 3215,
+                    "votos": 368,
+                    "candidato": "Lasso Guillermo",
+                    "value": 14.44
+                },
+                {
+                    "parroquia": "RIO VERDE",
+                    "id": 6720,
+                    "votos": 482,
+                    "candidato": "Lasso Guillermo",
+                    "value": 16.3500678
+                }
+            ]
+            

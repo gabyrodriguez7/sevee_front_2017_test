@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "BUENAVISTA",
+    "id": 390,
+    "votos": 19,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.49
+  },
+  {
+    "parroquia": "CAÑAQUEMADA",
+    "id": 775,
+    "votos": 1,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.18
+  },
+  {
+    "parroquia": "PROGRESO",
+    "id": 1225,
+    "votos": 19,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 1.02
+  },
+  {
+    "parroquia": "LA PEAÑA",
+    "id": 2075,
+    "votos": 9,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.4
+  },
+  {
+    "parroquia": "UZHCURRUMI",
+    "id": 4160,
+    "votos": 2,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.22
+  },
+  {
+    "parroquia": "CASACAY",
+    "id": 4495,
+    "votos": 5,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.42
+  },
+  {
+    "parroquia": "OCHOA LEÓN/MATRIZ",
+    "id": 5770,
+    "votos": 121,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.33
+  },
+  {
+    "parroquia": "LOMA DE FRANCO",
+    "id": 6365,
+    "votos": 3,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.36
+  },
+  {
+    "parroquia": "BOLIVAR",
+    "id": 6370,
+    "votos": 2,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.35
+  },
+  {
+    "parroquia": "TRES CERRITOS",
+    "id": 6375,
+    "votos": 1,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.24
+  },
+  {
+    "parroquia": "PASAJE",
+    "id": 6940,
+    "votos": 2,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.21
+  }
+]

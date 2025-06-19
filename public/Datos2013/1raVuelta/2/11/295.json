@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "LIMONES",
+        "id": 280,
+        "votos": 338,
+        "candidato": "Correa Delgado Rafael",
+        "value": 54.08
+    },
+    {
+        "parroquia": "GARZAREAL",
+        "id": 290,
+        "votos": 382,
+        "candidato": "Correa Delgado Rafael",
+        "value": 65.0
+    },
+    {
+        "parroquia": "MANGAHURCO",
+        "id": 550,
+        "votos": 315,
+        "candidato": "Correa Delgado Rafael",
+        "value": 69.84
+    },
+    {
+        "parroquia": "BOLASPAMBA",
+        "id": 2000,
+        "votos": 243,
+        "candidato": "Correa Delgado Rafael",
+        "value": 60.3
+    },
+    {
+        "parroquia": "PALETILLAS",
+        "id": 2710,
+        "votos": 734,
+        "candidato": "Correa Delgado Rafael",
+        "value": 54.01
+    },
+    {
+        "parroquia": "CAZADEROS",
+        "id": 4605,
+        "votos": 186,
+        "candidato": "Correa Delgado Rafael",
+        "value": 61.2
+    },
+    {
+        "parroquia": "ZAPOTILLO",
+        "id": 6320,
+        "votos": 1467,
+        "candidato": "Correa Delgado Rafael",
+        "value": 47.32258
+    }
+]

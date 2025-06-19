@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "GRAL.PEDRO MONTERO",
+        "id": 1340,
+        "votos": 107,
+        "candidato": "Zavala Nelson",
+        "value": 2.29
+    },
+    {
+        "parroquia": "VIRGEN DE FATIMA",
+        "id": 1915,
+        "votos": 131,
+        "candidato": "Zavala Nelson",
+        "value": 2.5
+    },
+    {
+        "parroquia": "YAGUACHI VIEJO/CONE",
+        "id": 4275,
+        "votos": 47,
+        "candidato": "Zavala Nelson",
+        "value": 1.3
+    },
+    {
+        "parroquia": "YAGUACHI NUEVO",
+        "id": 6285,
+        "votos": 293,
+        "candidato": "Zavala Nelson",
+        "value": 1.785
+    }
+]

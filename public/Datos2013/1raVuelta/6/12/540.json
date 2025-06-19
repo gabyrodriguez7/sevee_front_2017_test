@@ -1,0 +1,80 @@
+[
+                {
+                    "parroquia": "LA ESPERANZA",
+                    "id": 4420,
+                    "votos": 204,
+                    "candidato": "Lasso Guillermo",
+                    "value": 12.7182
+                },
+                {
+                    "parroquia": "SAN CARLOS",
+                    "id": 4425,
+                    "votos": 709,
+                    "candidato": "Lasso Guillermo",
+                    "value": 11.7171
+                },
+                {
+                    "parroquia": "QUEVEDO",
+                    "id": 5855,
+                    "votos": 13998,
+                    "candidato": "Lasso Guillermo",
+                    "value": 21.6983
+                },
+                {
+                    "parroquia": "SAN CAMILO",
+                    "id": 6115,
+                    "votos": 4011,
+                    "candidato": "Lasso Guillermo",
+                    "value": 23.31164
+                },
+                {
+                    "parroquia": "SAN CRISTOBAL",
+                    "id": 6635,
+                    "votos": 180,
+                    "candidato": "Lasso Guillermo",
+                    "value": 22.67
+                },
+                {
+                    "parroquia": "VENUS DEL RIO QUEVEDO",
+                    "id": 6640,
+                    "votos": 823,
+                    "candidato": "Lasso Guillermo",
+                    "value": 16.98658
+                },
+                {
+                    "parroquia": "NICOLAS INFANTE DIAZ",
+                    "id": 6645,
+                    "votos": 403,
+                    "candidato": "Lasso Guillermo",
+                    "value": 19.3008
+                },
+                {
+                    "parroquia": "GUAYACAN",
+                    "id": 6650,
+                    "votos": 828,
+                    "candidato": "Lasso Guillermo",
+                    "value": 29.8917
+                },
+                {
+                    "parroquia": "SIETE DE OCTUBRE",
+                    "id": 6655,
+                    "votos": 748,
+                    "candidato": "Lasso Guillermo",
+                    "value": 21.482
+                },
+                {
+                    "parroquia": "VIVA ALFARO",
+                    "id": 6660,
+                    "votos": 443,
+                    "candidato": "Lasso Guillermo",
+                    "value": 21.10529
+                },
+                {
+                    "parroquia": "24 DE MAYO",
+                    "id": 6690,
+                    "votos": 365,
+                    "candidato": "Lasso Guillermo",
+                    "value": 20.76223
+                }
+            ]
+            

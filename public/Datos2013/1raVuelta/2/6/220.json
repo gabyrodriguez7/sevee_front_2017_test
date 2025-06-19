@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CAPZOL",
+        "id": 515,
+        "votos": 128,
+        "candidato": "Correa Delgado Rafael",
+        "value": 50.0
+    },
+    {
+        "parroquia": "COMPUD",
+        "id": 615,
+        "votos": 166,
+        "candidato": "Correa Delgado Rafael",
+        "value": 47.7
+    },
+    {
+        "parroquia": "GONZOL",
+        "id": 1370,
+        "votos": 366,
+        "candidato": "Correa Delgado Rafael",
+        "value": 67.8
+    },
+    {
+        "parroquia": "LLAGOS",
+        "id": 2260,
+        "votos": 290,
+        "candidato": "Correa Delgado Rafael",
+        "value": 44.75308642
+    },
+    {
+        "parroquia": "CHUNCHI",
+        "id": 5255,
+        "votos": 1924,
+        "candidato": "Correa Delgado Rafael",
+        "value": 40.22
+    }
+]

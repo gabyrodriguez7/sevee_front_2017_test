@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "EL CAMBIO",
+        "id": 6795,
+        "votos": 2647,
+        "candidato": "Rafael Correa Delgado",
+        "value": 71.19
+    },
+    {
+        "parroquia": "9 DE MAYO",
+        "id": 6490,
+        "votos": 1460,
+        "candidato": "Rafael Correa Delgado",
+        "value": 67.65
+    },
+    {
+        "parroquia": "PUERTO BOLIVAR",
+        "id": 5805,
+        "votos": 8587,
+        "candidato": "Rafael Correa Delgado",
+        "value": 64.32
+    },
+    {
+        "parroquia": "MACHALA",
+        "id": 5625,
+        "votos": 61093,
+        "candidato": "Rafael Correa Delgado",
+        "value": 61.06
+    },
+    {
+        "parroquia": "LA PROVIDENCIA",
+        "id": 5565,
+        "votos": 1042,
+        "candidato": "Rafael Correa Delgado",
+        "value": 65.61
+    },
+    {
+        "parroquia": "EL RETIRO",
+        "id": 255,
+        "votos": 807,
+        "candidato": "Rafael Correa Delgado",
+        "value": 76.49
+    }
+]

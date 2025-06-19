@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "SUMAYPAMBA",
+        "id": 310,
+        "votos": 8,
+        "candidato": "Wray Norman",
+        "value": 1.5
+    },
+    {
+        "parroquia": "EL PARAISO DE CELEN",
+        "id": 1165,
+        "votos": 18,
+        "candidato": "Wray Norman",
+        "value": 1.4938
+    },
+    {
+        "parroquia": "EL TABLON",
+        "id": 1190,
+        "votos": 1,
+        "candidato": "Wray Norman",
+        "value": 0.3
+    },
+    {
+        "parroquia": "LLUZHAPA",
+        "id": 2280,
+        "votos": 11,
+        "candidato": "Wray Norman",
+        "value": 1.36
+    },
+    {
+        "parroquia": "MANU",
+        "id": 2360,
+        "votos": 18,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "SAN ANTONIO DE CUMBE",
+        "id": 3340,
+        "votos": 0,
+        "candidato": "Wray Norman",
+        "value": 0.0
+    },
+    {
+        "parroquia": "SAN PABLO DE TENTA",
+        "id": 3600,
+        "votos": 12,
+        "candidato": "Wray Norman",
+        "value": 0.75
+    },
+    {
+        "parroquia": "SAN SEBASTIAN DE YULOG",
+        "id": 3665,
+        "votos": 4,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "SELVA ALEGRE",
+        "id": 3815,
+        "votos": 5,
+        "candidato": "Wray Norman",
+        "value": 0.5
+    },
+    {
+        "parroquia": "URDANETA/PAQUISHAPA",
+        "id": 4145,
+        "votos": 27,
+        "candidato": "Wray Norman",
+        "value": 1.4
+    },
+    {
+        "parroquia": "SARAGURO",
+        "id": 6075,
+        "votos": 55,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    }
+]

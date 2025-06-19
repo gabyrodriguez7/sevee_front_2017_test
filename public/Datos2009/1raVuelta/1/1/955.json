@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "SEVILLA DE ORO",
+        "id": 6480,
+        "votos": 19,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.27
+    },
+    {
+        "parroquia": "PALMAS",
+        "id": 2725,
+        "votos": 25,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.95
+    },
+    {
+        "parroquia": "AMALUZA",
+        "id": 85,
+        "votos": 2,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 0.46
+    }
+]

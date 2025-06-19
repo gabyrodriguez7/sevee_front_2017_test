@@ -1,0 +1,170 @@
+[
+    {
+        "candidato_tabla": "MORENO GARCES LENIN BOLTAIRE",
+        "id_tabla": 1,
+        "porcentaje": 43.93,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS; PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "AZUAY"
+    },
+    {
+        "candidato_tabla": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id_tabla": 2,
+        "porcentaje": 44.25,
+        "partido_pol": "ALIANZA CREO  - SUMA",
+        "prov_tabla": "BOLÍVAR"
+    },
+    {
+        "candidato_tabla": "MORENO GARCES LENIN BOLTAIRE",
+        "id_tabla": 3,
+        "porcentaje": 34.73,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS; PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "CAÑAR"
+    },
+    {
+        "candidato_tabla": "MORENO GARCES LENIN BOLTAIRE",
+        "id_tabla": 4,
+        "porcentaje": 38.81,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS; PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "CARCHI"
+    },
+    {
+        "candidato_tabla": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id_tabla": 5,
+        "porcentaje": 32.63,
+        "partido_pol": "ALIANZA CREO  - SUMA",
+        "prov_tabla": "COTOPAXI"
+    },
+    {
+        "candidato_tabla": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id_tabla": 6,
+        "porcentaje": 42.11,
+        "partido_pol": "ALIANZA CREO  - SUMA",
+        "prov_tabla": "CHIMBORAZO"
+    },
+    {
+        "candidato_tabla": "MORENO GARCES LENIN BOLTAIRE",
+        "id_tabla": 7,
+        "porcentaje": 41.85,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS; PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "EL ORO"
+    },
+    {
+        "candidato_tabla": "MORENO GARCES LENIN BOLTAIRE",
+        "id_tabla": 8,
+        "porcentaje": 40.57,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS; PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "ESMERALDAS"
+    },
+    {
+        "candidato_tabla": "MORENO GARCES LENIN BOLTAIRE",
+        "id_tabla": 9,
+        "porcentaje": 38.77,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS; PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "GUAYAS"
+    },
+    {
+        "candidato_tabla": "MORENO GARCES LENIN BOLTAIRE",
+        "id_tabla": 10,
+        "porcentaje": 43.11,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS; PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "IMBABURA"
+    },
+    {
+        "candidato_tabla": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id_tabla": 11,
+        "porcentaje": 42,
+        "partido_pol": "ALIANZA CREO  - SUMA",
+        "prov_tabla": "LOJA"
+    },
+    {
+        "candidato_tabla": "MORENO GARCES LENIN BOLTAIRE",
+        "id_tabla": 12,
+        "porcentaje": 44.15,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS; PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "LOS RÍOS"
+    },
+    {
+        "candidato_tabla": "MORENO GARCES LENIN BOLTAIRE",
+        "id_tabla": 13,
+        "porcentaje": 53.99,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS; PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "MANABÍ"
+    },
+    {
+        "candidato_tabla": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id_tabla": 14,
+        "porcentaje": 53.76,
+        "partido_pol": "ALIANZA CREO  - SUMA",
+        "prov_tabla": "MORONA SANTIAGO"
+    },
+    {
+        "candidato_tabla": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id_tabla": 15,
+        "porcentaje": 55.77,
+        "partido_pol": "ALIANZA CREO  - SUMA",
+        "prov_tabla": "NAPO"
+    },
+    {
+        "candidato_tabla": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id_tabla": 16,
+        "porcentaje": 47.77,
+        "partido_pol": "ALIANZA CREO  - SUMA",
+        "prov_tabla": "PASTAZA"
+    },
+    {
+        "candidato_tabla": "MORENO GARCES LENIN BOLTAIRE",
+        "id_tabla": 17,
+        "porcentaje": 37.29,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS; PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "PICHINCHA"
+    },
+    {
+        "candidato_tabla": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id_tabla": 18,
+        "porcentaje": 37.79,
+        "partido_pol": "ALIANZA CREO  - SUMA",
+        "prov_tabla": "TUNGURAHUA"
+    },
+    {
+        "candidato_tabla": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id_tabla": 19,
+        "porcentaje": 46.43,
+        "partido_pol": "ALIANZA CREO  - SUMA",
+        "prov_tabla": "ZAMORA CHINCHIPE"
+    },
+    {
+        "candidato_tabla": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id_tabla": 20,
+        "porcentaje": 44.99,
+        "partido_pol": "ALIANZA CREO  - SUMA",
+        "prov_tabla": "GALÁPAGOS"
+    },
+    {
+        "candidato_tabla": "MORENO GARCES LENIN BOLTAIRE",
+        "id_tabla": 21,
+        "porcentaje": 39.46,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS; PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "SUCUMBÍOS"
+    },
+    {
+        "candidato_tabla": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id_tabla": 22,
+        "porcentaje": 37.8,
+        "partido_pol": "ALIANZA CREO  - SUMA",
+        "prov_tabla": "ORELLANA"
+    },
+    {
+        "candidato_tabla": "MORENO GARCES LENIN BOLTAIRE",
+        "id_tabla": 23,
+        "porcentaje": 40.77,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS; PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "STO DGO TSÁCHILAS"
+    },
+    {
+        "candidato_tabla": "MORENO GARCES LENIN BOLTAIRE",
+        "id_tabla": 24,
+        "porcentaje": 47.93,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS; PATRIA ALTIVA I SOBERANA",
+        "prov_tabla": "SANTA ELENA"
+    }
+]

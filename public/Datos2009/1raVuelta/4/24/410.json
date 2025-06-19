@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "SANTA ELENA",
+        "id": 6040,
+        "votos": 18141,
+        "candidato": "Rafael Correa Delgado",
+        "value": 61.52
+    },
+    {
+        "parroquia": "BALLENITA",
+        "id": 5130,
+        "votos": 422,
+        "candidato": "Rafael Correa Delgado",
+        "value": 51.71
+    },
+    {
+        "parroquia": "SIMON BOLIVAR",
+        "id": 3915,
+        "votos": 656,
+        "candidato": "Rafael Correa Delgado",
+        "value": 63.38
+    },
+    {
+        "parroquia": "MANGLARALTO",
+        "id": 2355,
+        "votos": 9319,
+        "candidato": "Rafael Correa Delgado",
+        "value": 69.8
+    },
+    {
+        "parroquia": "SAN JOSE DE ANCON",
+        "id": 1300,
+        "votos": 1331,
+        "candidato": "Rafael Correa Delgado",
+        "value": 65.08
+    },
+    {
+        "parroquia": "CHANDUY",
+        "id": 820,
+        "votos": 4554,
+        "candidato": "Rafael Correa Delgado",
+        "value": 67.44
+    },
+    {
+        "parroquia": "COLONCHE",
+        "id": 605,
+        "votos": 10256,
+        "candidato": "Rafael Correa Delgado",
+        "value": 75.05
+    },
+    {
+        "parroquia": "ATAHUALPA",
+        "id": 205,
+        "votos": 1274,
+        "candidato": "Rafael Correa Delgado",
+        "value": 70.34
+    }
+]

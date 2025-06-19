@@ -1,0 +1,114 @@
+[
+  {
+    "parroquia": "CACHA",
+    "id": 420,
+    "votos": 192,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.12
+  },
+  {
+    "parroquia": "CALPI",
+    "id": 445,
+    "votos": 620,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 14.49
+  },
+  {
+    "parroquia": "CUBIJÍES",
+    "id": 705,
+    "votos": 259,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 17.05
+  },
+  {
+    "parroquia": "FLORES",
+    "id": 1280,
+    "votos": 235,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.79
+  },
+  {
+    "parroquia": "LICAN",
+    "id": 2160,
+    "votos": 348,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.18
+  },
+  {
+    "parroquia": "LICTO",
+    "id": 2165,
+    "votos": 417,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.7
+  },
+  {
+    "parroquia": "PUNGALÁ",
+    "id": 3035,
+    "votos": 337,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.69
+  },
+  {
+    "parroquia": "PUNÍN",
+    "id": 3040,
+    "votos": 396,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.78
+  },
+  {
+    "parroquia": "QUIMIAG",
+    "id": 3095,
+    "votos": 373,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.68
+  },
+  {
+    "parroquia": "SAN JUAN",
+    "id": 3515,
+    "votos": 776,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 14.59
+  },
+  {
+    "parroquia": "SAN LUIS",
+    "id": 3560,
+    "votos": 417,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.94
+  },
+  {
+    "parroquia": "LIZARZABURU",
+    "id": 5590,
+    "votos": 2960,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.02
+  },
+  {
+    "parroquia": "MALDONADO",
+    "id": 5630,
+    "votos": 2047,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.29
+  },
+  {
+    "parroquia": "VELASCO",
+    "id": 6220,
+    "votos": 2139,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.1
+  },
+  {
+    "parroquia": "VELOZ",
+    "id": 6230,
+    "votos": 1332,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.24
+  },
+  {
+    "parroquia": "YARUQUÍES",
+    "id": 6290,
+    "votos": 398,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.55
+  }
+]

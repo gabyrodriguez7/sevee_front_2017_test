@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "ASUNCION",
+        "id": 170,
+        "votos": 411,
+        "candidato": "Lasso Guillermo",
+        "value": 26.4
+    },
+    {
+        "parroquia": "MAGDALENA/CHAPACOTO",
+        "id": 2315,
+        "votos": 337,
+        "candidato": "Lasso Guillermo",
+        "value": 18.547056
+    },
+    {
+        "parroquia": "SAN SEBASTIAN",
+        "id": 3655,
+        "votos": 184,
+        "candidato": "Lasso Guillermo",
+        "value": 39.7408
+    },
+    {
+        "parroquia": "TELIMBELA",
+        "id": 3995,
+        "votos": 110,
+        "candidato": "Lasso Guillermo",
+        "value": 14.845
+    },
+    {
+        "parroquia": "SAN JOSE DE CHIMBO",
+        "id": 5975,
+        "votos": 1979,
+        "candidato": "Lasso Guillermo",
+        "value": 45.46
+    }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "SAN RAFAEL",
+    "id": 1055,
+    "votos": 797,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 71.35
+  },
+  {
+    "parroquia": "GARCÍA MORENO",
+    "id": 1315,
+    "votos": 737,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 61.62
+  },
+  {
+    "parroquia": "LOS ANDES",
+    "id": 2205,
+    "votos": 1211,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 78.18
+  },
+  {
+    "parroquia": "MONTEOLIVO",
+    "id": 2455,
+    "votos": 866,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 69.61
+  },
+  {
+    "parroquia": "SAN VICENTE DE PUSIR",
+    "id": 3680,
+    "votos": 1198,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 87
+  },
+  {
+    "parroquia": "BOLÍVAR",
+    "id": 6520,
+    "votos": 2476,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 65.57
+  }
+]

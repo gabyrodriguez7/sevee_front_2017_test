@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "LIMONES",
+        "id": 280,
+        "votos": 20,
+        "candidato": "Noboa Alvaro",
+        "value": 3.2
+    },
+    {
+        "parroquia": "GARZAREAL",
+        "id": 290,
+        "votos": 34,
+        "candidato": "Noboa Alvaro",
+        "value": 6.0
+    },
+    {
+        "parroquia": "MANGAHURCO",
+        "id": 550,
+        "votos": 7,
+        "candidato": "Noboa Alvaro",
+        "value": 1.55
+    },
+    {
+        "parroquia": "BOLASPAMBA",
+        "id": 2000,
+        "votos": 8,
+        "candidato": "Noboa Alvaro",
+        "value": 1.99
+    },
+    {
+        "parroquia": "PALETILLAS",
+        "id": 2710,
+        "votos": 49,
+        "candidato": "Noboa Alvaro",
+        "value": 3.61
+    },
+    {
+        "parroquia": "CAZADEROS",
+        "id": 4605,
+        "votos": 9,
+        "candidato": "Noboa Alvaro",
+        "value": 3.0
+    },
+    {
+        "parroquia": "ZAPOTILLO",
+        "id": 6320,
+        "votos": 94,
+        "candidato": "Noboa Alvaro",
+        "value": 3.03226
+    }
+]

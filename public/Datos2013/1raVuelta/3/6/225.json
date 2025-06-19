@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "LA CANDELARIA",
+        "id": 925,
+        "votos": 1,
+        "candidato": "Wray Norman",
+        "value": 0.46
+    },
+    {
+        "parroquia": "EL ALTAR",
+        "id": 1110,
+        "votos": 6,
+        "candidato": "Wray Norman",
+        "value": 0.68
+    },
+    {
+        "parroquia": "BILBAO",
+        "id": 1325,
+        "votos": 3,
+        "candidato": "Wray Norman",
+        "value": 1.6
+    },
+    {
+        "parroquia": "MATUS",
+        "id": 2400,
+        "votos": 13,
+        "candidato": "Wray Norman",
+        "value": 1.9432
+    },
+    {
+        "parroquia": "PUELA",
+        "id": 2975,
+        "votos": 8,
+        "candidato": "Wray Norman",
+        "value": 1.4733
+    },
+    {
+        "parroquia": "SAN ANTONIO DE BAYUSHIG",
+        "id": 3335,
+        "votos": 14,
+        "candidato": "Wray Norman",
+        "value": 1.322001889
+    },
+    {
+        "parroquia": "PENIPE",
+        "id": 5740,
+        "votos": 34,
+        "candidato": "Wray Norman",
+        "value": 1.9
+    }
+]

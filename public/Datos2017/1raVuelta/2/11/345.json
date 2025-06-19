@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "NUEVA FATIMA",
+    "id": 2575,
+    "votos": 20,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.51
+  },
+  {
+    "parroquia": "TACAMOROS",
+    "id": 3935,
+    "votos": 171,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 12.45
+  },
+  {
+    "parroquia": "SOZORANGA",
+    "id": 6120,
+    "votos": 181,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.45
+  }
+]

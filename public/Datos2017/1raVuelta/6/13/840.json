@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "SAN SEBASTIÁN",
+    "id": 1060,
+    "votos": 19,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.6
+  },
+  {
+    "parroquia": "BARRAGANETE",
+    "id": 1065,
+    "votos": 26,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.07
+  },
+  {
+    "parroquia": "PICHINCHA /GERMUD",
+    "id": 6550,
+    "votos": 82,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.55
+  }
+]

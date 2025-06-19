@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 330,
+        "votos": 123,
+        "candidato": "Noboa Alvaro",
+        "value": 4.591
+    },
+    {
+        "parroquia": "ARQ.SIXTO DURAN BALLEN",
+        "id": 1570,
+        "votos": 40,
+        "candidato": "Noboa Alvaro",
+        "value": 3.60036
+    },
+    {
+        "parroquia": "NOBOA",
+        "id": 2555,
+        "votos": 182,
+        "candidato": "Noboa Alvaro",
+        "value": 4.85
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 6105,
+        "votos": 620,
+        "candidato": "Noboa Alvaro",
+        "value": 6.11
+    }
+]

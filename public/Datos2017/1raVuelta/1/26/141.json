@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "C. E. EN BEIJING",
+    "id": 9020,
+    "votos": 20,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 33.33
+  },
+  {
+    "parroquia": "C. E. EN SHANGAI",
+    "id": 9068,
+    "votos": 17,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 45.95
+  },
+  {
+    "parroquia": "C. E. EN GUANZHOU",
+    "id": 9075,
+    "votos": 9,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 34.62
+  }
+]

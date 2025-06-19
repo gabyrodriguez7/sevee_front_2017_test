@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "SAN JOSE",
+        "id": 6825,
+        "votos": 2,
+        "candidato": "Melba Jacome",
+        "value": 0.84
+    },
+    {
+        "parroquia": "CATAMAYO",
+        "id": 5270,
+        "votos": 68,
+        "candidato": "Melba Jacome",
+        "value": 0.61
+    },
+    {
+        "parroquia": "ZAMBI",
+        "id": 4455,
+        "votos": 1,
+        "candidato": "Melba Jacome",
+        "value": 0.34
+    },
+    {
+        "parroquia": "SAN PEDRO DE LA BENDITA",
+        "id": 3610,
+        "votos": 2,
+        "candidato": "Melba Jacome",
+        "value": 0.23
+    },
+    {
+        "parroquia": "GUAYQUICHUMA",
+        "id": 1480,
+        "votos": 2,
+        "candidato": "Melba Jacome",
+        "value": 0.94
+    },
+    {
+        "parroquia": "EL TAMBO",
+        "id": 1200,
+        "votos": 8,
+        "candidato": "Melba Jacome",
+        "value": 0.6
+    }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "SANTA MARIANITA",
+    "id": 1800,
+    "votos": 203,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 11.09
+  },
+  {
+    "parroquia": "SAN LORENZO",
+    "id": 3550,
+    "votos": 298,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 13.94
+  },
+  {
+    "parroquia": "LOS ESTEROS",
+    "id": 5570,
+    "votos": 4548,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 22.4
+  },
+  {
+    "parroquia": "MANTA",
+    "id": 5635,
+    "votos": 18136,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 33.01
+  },
+  {
+    "parroquia": "SAN MATEO",
+    "id": 6135,
+    "votos": 269,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 10.54
+  },
+  {
+    "parroquia": "TARQUI",
+    "id": 6155,
+    "votos": 13040,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 24.05
+  },
+  {
+    "parroquia": "ELOY ALFARO",
+    "id": 6745,
+    "votos": 3513,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 16.25
+  }
+]

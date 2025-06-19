@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "SANTA RITA",
+        "id": 6055,
+        "votos": 25,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.37
+    },
+    {
+        "parroquia": "CHONE",
+        "id": 5250,
+        "votos": 111,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.32
+    },
+    {
+        "parroquia": "SAN ANTONIO / DEL PELUDO",
+        "id": 3350,
+        "votos": 10,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.29
+    },
+    {
+        "parroquia": "RICAURTE",
+        "id": 3170,
+        "votos": 9,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.43
+    },
+    {
+        "parroquia": "ELOY ALFARO",
+        "id": 1160,
+        "votos": 45,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 2.64
+    },
+    {
+        "parroquia": "CONVENTO",
+        "id": 640,
+        "votos": 16,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.65
+    },
+    {
+        "parroquia": "CANUTO",
+        "id": 495,
+        "votos": 27,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.53
+    },
+    {
+        "parroquia": "CHIBUNGA",
+        "id": 405,
+        "votos": 4,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.34
+    },
+    {
+        "parroquia": "BOYACA",
+        "id": 380,
+        "votos": 7,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.39
+    }
+]

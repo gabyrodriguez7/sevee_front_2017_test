@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "EL SALTO",
+    "id": 6835,
+    "votos": 0,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.0
+  },
+  {
+    "parroquia": "BARREIRO /SANTA RITA",
+    "id": 6830,
+    "votos": 5,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.12
+  },
+  {
+    "parroquia": "DR. CAMILO PONCE E.",
+    "id": 5285,
+    "votos": 30,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.16
+  },
+  {
+    "parroquia": "CLEMENTE BAQUERIZO",
+    "id": 5215,
+    "votos": 48,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.15
+  },
+  {
+    "parroquia": "PIMOCHA",
+    "id": 2875,
+    "votos": 25,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.39
+  },
+  {
+    "parroquia": "LA UNION",
+    "id": 1525,
+    "votos": 8,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.19
+  },
+  {
+    "parroquia": "FEBRES CORDERO",
+    "id": 1265,
+    "votos": 59,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.89
+  },
+  {
+    "parroquia": "CARACOL",
+    "id": 520,
+    "votos": 7,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.34
+  }
+]

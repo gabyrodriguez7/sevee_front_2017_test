@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 455,
+        "votos": 144,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 47.84
+    },
+    {
+        "parroquia": "NUEVO QUITO",
+        "id": 1120,
+        "votos": 519,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 61.2
+    },
+    {
+        "parroquia": "PAQUISHA",
+        "id": 6885,
+        "votos": 760,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 49.51
+    }
+]

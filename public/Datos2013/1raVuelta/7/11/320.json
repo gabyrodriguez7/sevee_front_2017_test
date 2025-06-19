@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "COLAIZACA",
+        "id": 590,
+        "votos": 20,
+        "candidato": "Zavala Nelson",
+        "value": 1.94
+    },
+    {
+        "parroquia": "EL LUCERO",
+        "id": 1230,
+        "votos": 15,
+        "candidato": "Zavala Nelson",
+        "value": 1.2
+    },
+    {
+        "parroquia": "SANGUILLIN",
+        "id": 1550,
+        "votos": 1,
+        "candidato": "Zavala Nelson",
+        "value": 0.27
+    },
+    {
+        "parroquia": "UTUANA",
+        "id": 4150,
+        "votos": 8,
+        "candidato": "Zavala Nelson",
+        "value": 2.0
+    },
+    {
+        "parroquia": "CARIAMANGA",
+        "id": 5175,
+        "votos": 42,
+        "candidato": "Zavala Nelson",
+        "value": 0.4
+    },
+    {
+        "parroquia": "CHILE",
+        "id": 5240,
+        "votos": 12,
+        "candidato": "Zavala Nelson",
+        "value": 1.0
+    },
+    {
+        "parroquia": "SAN VICENTE",
+        "id": 6025,
+        "votos": 0,
+        "candidato": "Zavala Nelson",
+        "value": 0.0
+    }
+]

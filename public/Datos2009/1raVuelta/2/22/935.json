@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "LORETO",
+        "id": 6455,
+        "votos": 14,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.45
+    },
+    {
+        "parroquia": "SAN JOSE DE PAYAMINO",
+        "id": 3480,
+        "votos": 2,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.29
+    },
+    {
+        "parroquia": "SAN JOSE DE DAHUANO",
+        "id": 1680,
+        "votos": 9,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.86
+    },
+    {
+        "parroquia": "PUERTO MURIALDO",
+        "id": 1050,
+        "votos": 2,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.23
+    },
+    {
+        "parroquia": "SAN VICENTE DE HUATICOCHA",
+        "id": 400,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.67
+    },
+    {
+        "parroquia": "AVILA",
+        "id": 215,
+        "votos": 5,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.51
+    }
+]

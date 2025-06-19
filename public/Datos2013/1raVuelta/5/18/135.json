@@ -1,0 +1,191 @@
+[
+    {
+        "parroquia": "AMBATILLO",
+        "id": 95,
+        "votos": 350,
+        "candidato": "Gutierrez Lucio",
+        "value": 12.0
+    },
+    {
+        "parroquia": "ATAHUALPA /CHIPZALATA",
+        "id": 190,
+        "votos": 477,
+        "candidato": "Gutierrez Lucio",
+        "value": 9.0
+    },
+    {
+        "parroquia": "AUGUSTO N MARTINEZ",
+        "id": 210,
+        "votos": 559,
+        "candidato": "Gutierrez Lucio",
+        "value": 10.0
+    },
+    {
+        "parroquia": "CONSTANTINO FERNANDEZ",
+        "id": 635,
+        "votos": 273,
+        "candidato": "Gutierrez Lucio",
+        "value": 16.9
+    },
+    {
+        "parroquia": "CUNCHIBAMBA",
+        "id": 800,
+        "votos": 285,
+        "candidato": "Gutierrez Lucio",
+        "value": 14.0
+    },
+    {
+        "parroquia": "UNAMUNCHO",
+        "id": 810,
+        "votos": 253,
+        "candidato": "Gutierrez Lucio",
+        "value": 20.0
+    },
+    {
+        "parroquia": "HUACHI GRANDE",
+        "id": 1625,
+        "votos": 685,
+        "candidato": "Gutierrez Lucio",
+        "value": 14.0
+    },
+    {
+        "parroquia": "IZAMBA",
+        "id": 1745,
+        "votos": 1427,
+        "candidato": "Gutierrez Lucio",
+        "value": 12.0
+    },
+    {
+        "parroquia": "JUAN BENIGNO VELA",
+        "id": 1860,
+        "votos": 710,
+        "candidato": "Gutierrez Lucio",
+        "value": 15.53
+    },
+    {
+        "parroquia": "MONTALVO",
+        "id": 2435,
+        "votos": 220,
+        "candidato": "Gutierrez Lucio",
+        "value": 10.7
+    },
+    {
+        "parroquia": "PASA",
+        "id": 2775,
+        "votos": 1228,
+        "candidato": "Gutierrez Lucio",
+        "value": 29.5
+    },
+    {
+        "parroquia": "PICAYHUA",
+        "id": 2830,
+        "votos": 851,
+        "candidato": "Gutierrez Lucio",
+        "value": 9.2
+    },
+    {
+        "parroquia": "PILAHUIN",
+        "id": 2860,
+        "votos": 1661,
+        "candidato": "Gutierrez Lucio",
+        "value": 28.5
+    },
+    {
+        "parroquia": "QUISAPINCHA",
+        "id": 3120,
+        "votos": 1546,
+        "candidato": "Gutierrez Lucio",
+        "value": 25.07
+    },
+    {
+        "parroquia": "SAN BARTOLOME",
+        "id": 3355,
+        "votos": 411,
+        "candidato": "Gutierrez Lucio",
+        "value": 8.1145
+    },
+    {
+        "parroquia": "SAN FERNANDO",
+        "id": 3380,
+        "votos": 461,
+        "candidato": "Gutierrez Lucio",
+        "value": 31.64
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 3730,
+        "votos": 1118,
+        "candidato": "Gutierrez Lucio",
+        "value": 11.5
+    },
+    {
+        "parroquia": "TOTORAS",
+        "id": 4065,
+        "votos": 482,
+        "candidato": "Gutierrez Lucio",
+        "value": 12.12
+    },
+    {
+        "parroquia": "ATOCHA FICOA",
+        "id": 5045,
+        "votos": 387,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.3
+    },
+    {
+        "parroquia": "CELIANO MONGE",
+        "id": 5230,
+        "votos": 105,
+        "candidato": "Gutierrez Lucio",
+        "value": 5.508919
+    },
+    {
+        "parroquia": "HUACHI LORETO",
+        "id": 5445,
+        "votos": 2489,
+        "candidato": "Gutierrez Lucio",
+        "value": 6.0
+    },
+    {
+        "parroquia": "HUACHI CHICO",
+        "id": 5455,
+        "votos": 1382,
+        "candidato": "Gutierrez Lucio",
+        "value": 8.0
+    },
+    {
+        "parroquia": "LA MATRIZ",
+        "id": 5545,
+        "votos": 1015,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.8
+    },
+    {
+        "parroquia": "LA MERCED",
+        "id": 5560,
+        "votos": 709,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.44
+    },
+    {
+        "parroquia": "LA PENINSULA",
+        "id": 5605,
+        "votos": 104,
+        "candidato": "Gutierrez Lucio",
+        "value": 8.3
+    },
+    {
+        "parroquia": "PISHILATA",
+        "id": 5840,
+        "votos": 148,
+        "candidato": "Gutierrez Lucio",
+        "value": 9.0
+    },
+    {
+        "parroquia": "SAN FRANCISCO",
+        "id": 5945,
+        "votos": 221,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.0
+    }
+]

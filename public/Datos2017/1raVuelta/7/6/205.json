@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "CANI",
+    "id": 500,
+    "votos": 13,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.28
+  },
+  {
+    "parroquia": "COLUMBE",
+    "id": 610,
+    "votos": 241,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.36
+  },
+  {
+    "parroquia": "JUAN DE VELASCO / PONGOR",
+    "id": 1865,
+    "votos": 20,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.18
+  },
+  {
+    "parroquia": "SANTIAGO DE QUITO",
+    "id": 4430,
+    "votos": 42,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.37
+  },
+  {
+    "parroquia": "CAJABAMBA",
+    "id": 5145,
+    "votos": 189,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.61
+  },
+  {
+    "parroquia": "SICALPA",
+    "id": 6080,
+    "votos": 148,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.45
+  }
+]

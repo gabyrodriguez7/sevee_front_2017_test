@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "JERUSALÉN",
+    "id": 1085,
+    "votos": 66,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 18.18
+  },
+  {
+    "parroquia": "NAZÓN",
+    "id": 2545,
+    "votos": 244,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 14.03
+  },
+  {
+    "parroquia": "SAN FCO. DE SAGEO",
+    "id": 3410,
+    "votos": 80,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 11.3
+  },
+  {
+    "parroquia": "TURUPAMBA",
+    "id": 4100,
+    "votos": 43,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 11.78
+  },
+  {
+    "parroquia": "BIBLIÁN",
+    "id": 5115,
+    "votos": 893,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.73
+  }
+]

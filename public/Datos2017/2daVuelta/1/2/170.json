@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "ASUNCIÓN",
+    "id": 170,
+    "votos": 1081,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 60.39
+  },
+  {
+    "parroquia": "MAGDALENA/CHAPACOTO",
+    "id": 2315,
+    "votos": 966,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 47.77
+  },
+  {
+    "parroquia": "SAN SEBASTIÁN",
+    "id": 3655,
+    "votos": 366,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 66.42
+  },
+  {
+    "parroquia": "TELIMBELA",
+    "id": 3995,
+    "votos": 582,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 61.98
+  },
+  {
+    "parroquia": "SAN JOSÉ DE CHIMBO",
+    "id": 5975,
+    "votos": 3384,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 70.72
+  }
+]

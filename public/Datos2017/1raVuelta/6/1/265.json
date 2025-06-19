@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "DANIEL CÓRDOVA TORAL",
+    "id": 1005,
+    "votos": 8,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.81
+  },
+  {
+    "parroquia": "LUIS CORDERO VEGA",
+    "id": 1760,
+    "votos": 6,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.88
+  },
+  {
+    "parroquia": "JADÁN",
+    "id": 1805,
+    "votos": 67,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 2.61
+  },
+  {
+    "parroquia": "MARIANO MORENO/CALLASAY",
+    "id": 2385,
+    "votos": 10,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.92
+  },
+  {
+    "parroquia": "REMIGIO CRESPO TORAL",
+    "id": 3160,
+    "votos": 6,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.16
+  },
+  {
+    "parroquia": "SAN JUAN",
+    "id": 3505,
+    "votos": 24,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.95
+  },
+  {
+    "parroquia": "SIMÓN BOLÍVAR",
+    "id": 3780,
+    "votos": 4,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.92
+  },
+  {
+    "parroquia": "ZHIDMAD",
+    "id": 4340,
+    "votos": 9,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.6
+  },
+  {
+    "parroquia": "GUALACEO",
+    "id": 5420,
+    "votos": 130,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.86
+  }
+]

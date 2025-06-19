@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "ATAHUALPA",
+        "id": 205,
+        "votos": 95,
+        "candidato": "Noboa Alvaro",
+        "value": 4.7
+    },
+    {
+        "parroquia": "COLONCHE",
+        "id": 605,
+        "votos": 1798,
+        "candidato": "Noboa Alvaro",
+        "value": 10.7
+    },
+    {
+        "parroquia": "CHANDUY",
+        "id": 820,
+        "votos": 638,
+        "candidato": "Noboa Alvaro",
+        "value": 7.5
+    },
+    {
+        "parroquia": "SAN JOSE DE ANCON",
+        "id": 1300,
+        "votos": 253,
+        "candidato": "Noboa Alvaro",
+        "value": 8.1
+    },
+    {
+        "parroquia": "MANGLARALTO",
+        "id": 2355,
+        "votos": 1948,
+        "candidato": "Noboa Alvaro",
+        "value": 11.6
+    },
+    {
+        "parroquia": "SIMON BOLIVAR",
+        "id": 3915,
+        "votos": 95,
+        "candidato": "Noboa Alvaro",
+        "value": 6.23
+    },
+    {
+        "parroquia": "BALLENITA",
+        "id": 5130,
+        "votos": 95,
+        "candidato": "Noboa Alvaro",
+        "value": 8.2
+    },
+    {
+        "parroquia": "SANTA ELENA",
+        "id": 6040,
+        "votos": 3128,
+        "candidato": "Noboa Alvaro",
+        "value": 9.08
+    }
+]

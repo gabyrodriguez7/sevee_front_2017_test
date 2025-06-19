@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "ARAPICOS",
+        "id": 155,
+        "votos": 57,
+        "candidato": "Acosta Alberto",
+        "value": 24.6
+    },
+    {
+        "parroquia": "CUMANDA",
+        "id": 715,
+        "votos": 72,
+        "candidato": "Acosta Alberto",
+        "value": 19.4
+    },
+    {
+        "parroquia": "16 DE AGOSTO",
+        "id": 1685,
+        "votos": 65,
+        "candidato": "Acosta Alberto",
+        "value": 14.739
+    },
+    {
+        "parroquia": "SANGAY",
+        "id": 3420,
+        "votos": 126,
+        "candidato": "Acosta Alberto",
+        "value": 21.8
+    },
+    {
+        "parroquia": "PALORA",
+        "id": 5760,
+        "votos": 137,
+        "candidato": "Acosta Alberto",
+        "value": 5.58
+    }
+]

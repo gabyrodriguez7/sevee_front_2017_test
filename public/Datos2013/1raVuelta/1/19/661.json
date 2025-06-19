@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "EL PORVENIR DEL CARMEN",
+        "id": 1240,
+        "votos": 1,
+        "candidato": "Noboa Alvaro",
+        "value": 0.2
+    },
+    {
+        "parroquia": "LA CANELA",
+        "id": 2170,
+        "votos": 2,
+        "candidato": "Noboa Alvaro",
+        "value": 0.939
+    },
+    {
+        "parroquia": "VALLADOLID",
+        "id": 4195,
+        "votos": 11,
+        "candidato": "Noboa Alvaro",
+        "value": 1.148
+    },
+    {
+        "parroquia": "SAN FRANCISCO DEL VERGEL",
+        "id": 4505,
+        "votos": 4,
+        "candidato": "Noboa Alvaro",
+        "value": 0.6
+    },
+    {
+        "parroquia": "PALANDA",
+        "id": 6740,
+        "votos": 28,
+        "candidato": "Noboa Alvaro",
+        "value": 1.1537
+    }
+]

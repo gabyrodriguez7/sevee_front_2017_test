@@ -1,0 +1,72 @@
+[
+  {
+    "parroquia": "AMAZONAS",
+    "id": 90,
+    "votos": 57,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 34.76
+  },
+  {
+    "parroquia": "BERMEJOS",
+    "id": 340,
+    "votos": 96,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 50.26
+  },
+  {
+    "parroquia": "BOMBOIZA",
+    "id": 350,
+    "votos": 445,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 21.58
+  },
+  {
+    "parroquia": "CHIGUINDA",
+    "id": 880,
+    "votos": 118,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 33.15
+  },
+  {
+    "parroquia": "EL IDEAL",
+    "id": 1910,
+    "votos": 197,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 43.01
+  },
+  {
+    "parroquia": "NUEVA TARQUI",
+    "id": 2565,
+    "votos": 170,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 38.2
+  },
+  {
+    "parroquia": "ROSARIO",
+    "id": 3225,
+    "votos": 165,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 44.96
+  },
+  {
+    "parroquia": "SAN MIGUEL DE CUYES",
+    "id": 3580,
+    "votos": 59,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 46.83
+  },
+  {
+    "parroquia": "GUALAQUIZA",
+    "id": 5425,
+    "votos": 1854,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 31.94
+  },
+  {
+    "parroquia": "MERCEDES MOLINA",
+    "id": 5655,
+    "votos": 74,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 33.94
+  }
+]

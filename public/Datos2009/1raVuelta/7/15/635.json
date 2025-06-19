@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "BAEZA",
+    "id": 5090,
+    "votos": 149,
+    "candidato": "Alvaro Noboa",
+    "value": 12.79
+  },
+  {
+    "parroquia": "SUMACO",
+    "id": 3890,
+    "votos": 7,
+    "candidato": "Alvaro Noboa",
+    "value": 5.98
+  },
+  {
+    "parroquia": "SAN FRANCISCO DE BORJA",
+    "id": 3395,
+    "votos": 82,
+    "candidato": "Alvaro Noboa",
+    "value": 7.93
+  },
+  {
+    "parroquia": "PAPALLACTA",
+    "id": 2770,
+    "votos": 17,
+    "candidato": "Alvaro Noboa",
+    "value": 4.55
+  },
+  {
+    "parroquia": "CUYUJA",
+    "id": 765,
+    "votos": 6,
+    "candidato": "Alvaro Noboa",
+    "value": 2.28
+  },
+  {
+    "parroquia": "COSANGA",
+    "id": 670,
+    "votos": 33,
+    "candidato": "Alvaro Noboa",
+    "value": 10.09
+  }
+]

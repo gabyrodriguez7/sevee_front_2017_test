@@ -1,0 +1,100 @@
+[
+  {
+    "parroquia": "ALLURIQUÍN",
+    "id": 75,
+    "votos": 190,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.68
+  },
+  {
+    "parroquia": "VALLE HERMOSO",
+    "id": 305,
+    "votos": 220,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 5.33
+  },
+  {
+    "parroquia": "LUZ DE AMÉRICA",
+    "id": 1755,
+    "votos": 161,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.62
+  },
+  {
+    "parroquia": "SAN JACINTO DEL BÚA",
+    "id": 1970,
+    "votos": 248,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.52
+  },
+  {
+    "parroquia": "EL ESFUERZO",
+    "id": 1990,
+    "votos": 100,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.63
+  },
+  {
+    "parroquia": "SANTA MARÍA DEL TOACHI",
+    "id": 2045,
+    "votos": 86,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.12
+  },
+  {
+    "parroquia": "PUERTO LIMÓN",
+    "id": 4440,
+    "votos": 276,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.6
+  },
+  {
+    "parroquia": "ABRAHAM CALAZACÓN",
+    "id": 5730,
+    "votos": 1336,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.91
+  },
+  {
+    "parroquia": "BOMBOLÍ",
+    "id": 5860,
+    "votos": 1851,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.74
+  },
+  {
+    "parroquia": "RÍO VERDE",
+    "id": 5865,
+    "votos": 2467,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 5.07
+  },
+  {
+    "parroquia": "RÍO TOACHI",
+    "id": 5870,
+    "votos": 199,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.81
+  },
+  {
+    "parroquia": "SANTO DOMINGO",
+    "id": 6065,
+    "votos": 2454,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.5
+  },
+  {
+    "parroquia": "CHIGUILPE",
+    "id": 6175,
+    "votos": 1513,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.23
+  },
+  {
+    "parroquia": "ZARACAY",
+    "id": 6180,
+    "votos": 199,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.62
+  }
+]

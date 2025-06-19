@@ -1,0 +1,107 @@
+[
+    {
+        "parroquia": "ALAQUEZ",
+        "id": 35,
+        "votos": 2021,
+        "candidato": "Correa Delgado Rafael",
+        "value": 47.2
+    },
+    {
+        "parroquia": "BELISARIO QUEVEDO",
+        "id": 315,
+        "votos": 1329,
+        "candidato": "Correa Delgado Rafael",
+        "value": 42.9
+    },
+    {
+        "parroquia": "GUAYTACAMA",
+        "id": 1485,
+        "votos": 2781,
+        "candidato": "Correa Delgado Rafael",
+        "value": 51.018162
+    },
+    {
+        "parroquia": "JOSEGUANGO BAJO",
+        "id": 1905,
+        "votos": 515,
+        "candidato": "Correa Delgado Rafael",
+        "value": 50.5
+    },
+    {
+        "parroquia": "MULALO",
+        "id": 2480,
+        "votos": 2694,
+        "candidato": "Correa Delgado Rafael",
+        "value": 50.0
+    },
+    {
+        "parroquia": "11 DE NOVIEMBRE",
+        "id": 2620,
+        "votos": 745,
+        "candidato": "Correa Delgado Rafael",
+        "value": 52.69
+    },
+    {
+        "parroquia": "POALO",
+        "id": 2920,
+        "votos": 1097,
+        "candidato": "Correa Delgado Rafael",
+        "value": 32.0
+    },
+    {
+        "parroquia": "SAN JUAN DE PASTOCALLE",
+        "id": 3530,
+        "votos": 2830,
+        "candidato": "Correa Delgado Rafael",
+        "value": 46.0
+    },
+    {
+        "parroquia": "TANICUCHI",
+        "id": 3965,
+        "votos": 4051,
+        "candidato": "Correa Delgado Rafael",
+        "value": 52.22
+    },
+    {
+        "parroquia": "TOACAZO",
+        "id": 4035,
+        "votos": 2156,
+        "candidato": "Correa Delgado Rafael",
+        "value": 38.0
+    },
+    {
+        "parroquia": "ELOY ALFARO / SAN FELIPE",
+        "id": 5310,
+        "votos": 8412,
+        "candidato": "Correa Delgado Rafael",
+        "value": 44.68
+    },
+    {
+        "parroquia": "IGNACIO FLORES",
+        "id": 5465,
+        "votos": 4030,
+        "candidato": "Correa Delgado Rafael",
+        "value": 41.0
+    },
+    {
+        "parroquia": "JUAN MONTALVO",
+        "id": 5500,
+        "votos": 4445,
+        "candidato": "Correa Delgado Rafael",
+        "value": 43.87
+    },
+    {
+        "parroquia": "LA MATRIZ",
+        "id": 5555,
+        "votos": 8603,
+        "candidato": "Correa Delgado Rafael",
+        "value": 43.8
+    },
+    {
+        "parroquia": "SAN BUENAVENTURA",
+        "id": 5940,
+        "votos": 1281,
+        "candidato": "Correa Delgado Rafael",
+        "value": 40.6
+    }
+]

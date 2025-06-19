@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "PUEBLO VIEJO",
+    "id": 5800,
+    "votos": 137,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.94
+  },
+  {
+    "parroquia": "SAN JUAN",
+    "id": 3510,
+    "votos": 90,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.32
+  },
+  {
+    "parroquia": "PUERTO PECHICHE",
+    "id": 3015,
+    "votos": 22,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.16
+  }
+]

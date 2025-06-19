@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "SHUSHUFINDI CENTRAL",
+        "id": 6140,
+        "votos": 28,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.24
+    },
+    {
+        "parroquia": "SAN ROQUE",
+        "id": 3645,
+        "votos": 1,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.1
+    },
+    {
+        "parroquia": "PANACOCHA",
+        "id": 2765,
+        "votos": 0,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.0
+    },
+    {
+        "parroquia": "LIMONCOCHA",
+        "id": 2175,
+        "votos": 2,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.3
+    },
+    {
+        "parroquia": "SIETE DE JULIO",
+        "id": 780,
+        "votos": 2,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.17
+    },
+    {
+        "parroquia": "SAN PEDRO DE LOS COFANES",
+        "id": 600,
+        "votos": 1,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.08
+    }
+]

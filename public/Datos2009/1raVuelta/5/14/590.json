@@ -1,0 +1,65 @@
+[
+                {
+                    "parroquia": "MACAS",
+                    "id": 5615,
+                    "votos": 37,
+                    "candidato": "Melba Jacome",
+                    "value": 0.39
+                },
+                {
+                    "parroquia": "SINAI",
+                    "id": 4485,
+                    "votos": 1,
+                    "candidato": "Melba Jacome",
+                    "value": 0.25
+                },
+                {
+                    "parroquia": "ZUNAC",
+                    "id": 4360,
+                    "votos": 0,
+                    "candidato": "Melba Jacome",
+                    "value": 0.0
+                },
+                {
+                    "parroquia": "SEVILLA DON BOSCO",
+                    "id": 3830,
+                    "votos": 17,
+                    "candidato": "Melba Jacome",
+                    "value": 0.53
+                },
+                {
+                    "parroquia": "SAN ISIDRO",
+                    "id": 3440,
+                    "votos": 0,
+                    "candidato": "Melba Jacome",
+                    "value": 0.0
+                },
+                {
+                    "parroquia": "RIO BLANCO",
+                    "id": 1730,
+                    "votos": 2,
+                    "candidato": "Melba Jacome",
+                    "value": 0.47
+                },
+                {
+                    "parroquia": "GRAL. PROAÑO",
+                    "id": 1345,
+                    "votos": 2,
+                    "candidato": "Melba Jacome",
+                    "value": 0.35
+                },
+                {
+                    "parroquia": "CUCHAENTZA",
+                    "id": 1250,
+                    "votos": 3,
+                    "candidato": "Melba Jacome",
+                    "value": 0.6
+                },
+                {
+                    "parroquia": "ALSHI /9 DE OCTUBRE",
+                    "id": 65,
+                    "votos": 2,
+                    "candidato": "Melba Jacome",
+                    "value": 1.05
+                }
+            ]

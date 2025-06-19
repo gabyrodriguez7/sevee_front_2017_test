@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "AMÉRICA /LA CERA",
+    "id": 105,
+    "votos": 111,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 5.54
+  },
+  {
+    "parroquia": "LA UNIÓN",
+    "id": 560,
+    "votos": 33,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4
+  },
+  {
+    "parroquia": "EL ANEGADO",
+    "id": 1115,
+    "votos": 222,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 6.62
+  },
+  {
+    "parroquia": "JULCUY",
+    "id": 1880,
+    "votos": 45,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.96
+  },
+  {
+    "parroquia": "PEDRO PABLO GÓMEZ",
+    "id": 2810,
+    "votos": 172,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 6.73
+  },
+  {
+    "parroquia": "PUERTO CAYO",
+    "id": 2990,
+    "votos": 89,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.43
+  },
+  {
+    "parroquia": "MEMBRILLAL",
+    "id": 4490,
+    "votos": 37,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 5.43
+  },
+  {
+    "parroquia": "JIPIJAPA",
+    "id": 5485,
+    "votos": 1530,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 6.15
+  },
+  {
+    "parroquia": "DR. MIGUEL MORÁN LUCIO",
+    "id": 7465,
+    "votos": 272,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 7.12
+  },
+  {
+    "parroquia": "MANUEL INOCENCIO PARRALES",
+    "id": 7470,
+    "votos": 122,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 6.24
+  },
+  {
+    "parroquia": "SAN LORENZO DE JIPIJAPA",
+    "id": 7475,
+    "votos": 425,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 6.96
+  }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "PUJILI",
+        "id": 5820,
+        "votos": 157,
+        "candidato": "Melba Jacome",
+        "value": 0.9
+    },
+    {
+        "parroquia": "ZUMBAHUA",
+        "id": 4365,
+        "votos": 60,
+        "candidato": "Melba Jacome",
+        "value": 1.44
+    },
+    {
+        "parroquia": "TINGO",
+        "id": 4015,
+        "votos": 14,
+        "candidato": "Melba Jacome",
+        "value": 1.04
+    },
+    {
+        "parroquia": "PILALO",
+        "id": 2865,
+        "votos": 11,
+        "candidato": "Melba Jacome",
+        "value": 1.88
+    },
+    {
+        "parroquia": "LA VICTORIA",
+        "id": 2150,
+        "votos": 3,
+        "candidato": "Melba Jacome",
+        "value": 0.2
+    },
+    {
+        "parroquia": "GUANGAJE",
+        "id": 1430,
+        "votos": 83,
+        "candidato": "Melba Jacome",
+        "value": 2.78
+    },
+    {
+        "parroquia": "ANGAMARCA",
+        "id": 125,
+        "votos": 51,
+        "candidato": "Melba Jacome",
+        "value": 4.06
+    }
+]

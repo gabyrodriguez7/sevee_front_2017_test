@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "DANIEL CORDOVA TORAL",
+        "id": 1005,
+        "votos": 14,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "LUIS CORDERO VEGA",
+        "id": 1760,
+        "votos": 1,
+        "candidato": "Wray Norman",
+        "value": 0.359712
+    },
+    {
+        "parroquia": "JADAN",
+        "id": 1805,
+        "votos": 41,
+        "candidato": "Wray Norman",
+        "value": 2.0
+    },
+    {
+        "parroquia": "MARIANO MORENO/CALLASAY",
+        "id": 2385,
+        "votos": 15,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "REMIGIO CRESPO TORAL",
+        "id": 3160,
+        "votos": 3,
+        "candidato": "Wray Norman",
+        "value": 0.6
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3505,
+        "votos": 22,
+        "candidato": "Wray Norman",
+        "value": 0.9
+    },
+    {
+        "parroquia": "SIMON BOLIVAR",
+        "id": 3780,
+        "votos": 1,
+        "candidato": "Wray Norman",
+        "value": 0.27777778
+    },
+    {
+        "parroquia": "ZHIDMAD",
+        "id": 4340,
+        "votos": 15,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "GUALACEO",
+        "id": 5420,
+        "votos": 235,
+        "candidato": "Wray Norman",
+        "value": 2.0
+    }
+]

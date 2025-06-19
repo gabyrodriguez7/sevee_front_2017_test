@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "JESÚS MARÍA",
+    "id": 1830,
+    "votos": 182,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.29
+  },
+  {
+    "parroquia": "SAN CARLOS",
+    "id": 3370,
+    "votos": 203,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.31
+  },
+  {
+    "parroquia": "SANTA ROSA DE FLANDES",
+    "id": 3740,
+    "votos": 135,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.18
+  },
+  {
+    "parroquia": "TAURA",
+    "id": 3990,
+    "votos": 300,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.63
+  },
+  {
+    "parroquia": "NARANJAL",
+    "id": 5675,
+    "votos": 4142,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.93
+  }
+]

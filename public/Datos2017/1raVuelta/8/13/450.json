@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "SANTA MARIANITA",
+    "id": 1800,
+    "votos": 39,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.41
+  },
+  {
+    "parroquia": "SAN LORENZO",
+    "id": 3550,
+    "votos": 51,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.65
+  },
+  {
+    "parroquia": "LOS ESTEROS",
+    "id": 5570,
+    "votos": 1245,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 6.29
+  },
+  {
+    "parroquia": "MANTA",
+    "id": 5635,
+    "votos": 2789,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 5.18
+  },
+  {
+    "parroquia": "SAN MATEO",
+    "id": 6135,
+    "votos": 75,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.23
+  },
+  {
+    "parroquia": "TARQUI",
+    "id": 6155,
+    "votos": 3098,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 5.88
+  },
+  {
+    "parroquia": "ELOY ALFARO",
+    "id": 6745,
+    "votos": 1092,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 5.31
+  }
+]

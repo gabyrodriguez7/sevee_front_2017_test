@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "EL GUABO",
+        "id": 5340,
+        "votos": 87,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.52
+    },
+    {
+        "parroquia": "TENDALES",
+        "id": 4000,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.21
+    },
+    {
+        "parroquia": "RIO BONITO",
+        "id": 2050,
+        "votos": 6,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.55
+    },
+    {
+        "parroquia": "BARBONES",
+        "id": 300,
+        "votos": 4,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.14
+    },
+    {
+        "parroquia": "LA IBERIA",
+        "id": 245,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.25
+    }
+]

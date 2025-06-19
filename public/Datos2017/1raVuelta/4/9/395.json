@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "GRAL.PEDRO MONTERO",
+    "id": 1340,
+    "votos": 496,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.56
+  },
+  {
+    "parroquia": "VIRGEN DE FÁTIMA",
+    "id": 1915,
+    "votos": 681,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.8
+  },
+  {
+    "parroquia": "YAGUACHI VIEJO/CONE",
+    "id": 4275,
+    "votos": 325,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8
+  },
+  {
+    "parroquia": "YAGUACHI NUEVO",
+    "id": 6285,
+    "votos": 3958,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 21.92
+  }
+]

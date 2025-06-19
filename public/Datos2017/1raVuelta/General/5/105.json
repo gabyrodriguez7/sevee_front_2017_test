@@ -1,0 +1,79 @@
+[
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 125,
+        "votos": 2377,
+        "votos1": 1089,
+        "votos2": 1003,
+        "fill": "#1eff00",
+        "porcentaje1": 29.18,
+        "porcentaje2": 26.88
+    },
+    {
+        "candidato1": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "candidato2": "MORENO GARCES LENIN BOLTAIRE",
+        "id": 1430,
+        "votos": 4733,
+        "votos1": 760,
+        "votos2": 691,
+        "fill": "#062e81",
+        "porcentaje1": 31.97,
+        "porcentaje2": 29.07
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 2150,
+        "votos": 1845,
+        "votos1": 2260,
+        "votos2": 1183,
+        "fill": "#1eff00",
+        "porcentaje1": 47.75,
+        "porcentaje2": 24.99
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 2865,
+        "votos": 985,
+        "votos1": 598,
+        "votos2": 526,
+        "fill": "#1eff00",
+        "porcentaje1": 32.41,
+        "porcentaje2": 28.51
+    },
+    {
+        "candidato1": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "candidato2": "MORENO GARCES LENIN BOLTAIRE",
+        "id": 4015,
+        "votos": 1845,
+        "votos1": 359,
+        "votos2": 315,
+        "fill": "#062e81",
+        "porcentaje1": 36.45,
+        "porcentaje2": 31.98
+    },
+    {
+        "candidato1": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "candidato2": "MORENO GARCES LENIN BOLTAIRE",
+        "id": 4365,
+        "votos": 7233,
+        "votos1": 632,
+        "votos2": 591,
+        "fill": "#062e81",
+        "porcentaje1": 34.25,
+        "porcentaje2": 32.03
+    },
+    {
+        "candidato1": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "candidato2": "MORENO GARCES LENIN BOLTAIRE",
+        "id": 5820,
+        "votos": 23540,
+        "votos1": 3181,
+        "votos2": 2079,
+        "fill": "#062e81",
+        "porcentaje1": 43.98,
+        "porcentaje2": 28.74
+    }
+]

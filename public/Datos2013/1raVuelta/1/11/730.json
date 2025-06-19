@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CHAQUINAL",
+        "id": 835,
+        "votos": 20,
+        "candidato": "Noboa Alvaro",
+        "value": 3.11
+    },
+    {
+        "parroquia": "12 DE DICIEMBRE",
+        "id": 1035,
+        "votos": 20,
+        "candidato": "Noboa Alvaro",
+        "value": 2.4
+    },
+    {
+        "parroquia": "MILAGROS",
+        "id": 4545,
+        "votos": 24,
+        "candidato": "Noboa Alvaro",
+        "value": 2.0
+    },
+    {
+        "parroquia": "PINDAL /FEDERICO PAEZ",
+        "id": 5810,
+        "votos": 48,
+        "candidato": "Noboa Alvaro",
+        "value": 1.86
+    }
+]

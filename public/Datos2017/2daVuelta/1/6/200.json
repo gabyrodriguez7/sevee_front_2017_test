@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "SANTA FE DE GALÁN",
+    "id": 40,
+    "votos": 478,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 63.4
+  },
+  {
+    "parroquia": "SAN JOSÉ DEL CHAZO",
+    "id": 45,
+    "votos": 513,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 63.41
+  },
+  {
+    "parroquia": "VALPARAISO",
+    "id": 410,
+    "votos": 111,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 33.04
+  },
+  {
+    "parroquia": "GUANANDO",
+    "id": 1415,
+    "votos": 219,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 55.03
+  },
+  {
+    "parroquia": "ILAPO",
+    "id": 1705,
+    "votos": 975,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 61.17
+  },
+  {
+    "parroquia": "LA PROVIDENCIA",
+    "id": 2080,
+    "votos": 230,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 53.86
+  },
+  {
+    "parroquia": "SAN ANDRÉS",
+    "id": 3295,
+    "votos": 5371,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 61.5
+  },
+  {
+    "parroquia": "SAN GERARDO / PAQUICAHUAN",
+    "id": 3425,
+    "votos": 839,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 63.08
+  },
+  {
+    "parroquia": "SAN ISIDRO DE PATULÚ",
+    "id": 3450,
+    "votos": 1733,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 62.38
+  },
+  {
+    "parroquia": "EL ROSARIO",
+    "id": 5315,
+    "votos": 1003,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 60.97
+  },
+  {
+    "parroquia": "LA MATRIZ",
+    "id": 5550,
+    "votos": 6356,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 61.55
+  }
+]

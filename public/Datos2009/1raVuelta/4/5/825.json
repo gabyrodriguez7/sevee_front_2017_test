@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "EL TRIUNFO",
+        "id": 6895,
+        "votos": 396,
+        "candidato": "Rafael Correa Delgado",
+        "value": 59.9
+    },
+    {
+        "parroquia": "EL CARMEN",
+        "id": 6880,
+        "votos": 533,
+        "candidato": "Rafael Correa Delgado",
+        "value": 64.92
+    },
+    {
+        "parroquia": "LA MANA",
+        "id": 6535,
+        "votos": 8754,
+        "candidato": "Rafael Correa Delgado",
+        "value": 55.22
+    },
+    {
+        "parroquia": "PUCAYACO",
+        "id": 2965,
+        "votos": 469,
+        "candidato": "Rafael Correa Delgado",
+        "value": 38.28
+    },
+    {
+        "parroquia": "GUASAGANDA",
+        "id": 1500,
+        "votos": 538,
+        "candidato": "Rafael Correa Delgado",
+        "value": 53.16
+    }
+]

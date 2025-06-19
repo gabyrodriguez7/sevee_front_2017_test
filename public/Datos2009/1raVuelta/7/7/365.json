@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "TRES CERRITOS",
+        "id": 6375,
+        "votos": 4,
+        "candidato": "Alvaro Noboa",
+        "value": 2.63
+    },
+    {
+        "parroquia": "BOLIVAR",
+        "id": 6370,
+        "votos": 3,
+        "candidato": "Alvaro Noboa",
+        "value": 4.91
+    },
+    {
+        "parroquia": "LOMA DE FRANCO",
+        "id": 6365,
+        "votos": 35,
+        "candidato": "Alvaro Noboa",
+        "value": 8.12
+    },
+    {
+        "parroquia": "OCHOA LEON/MATRIZ",
+        "id": 5770,
+        "votos": 4196,
+        "candidato": "Alvaro Noboa",
+        "value": 14.44
+    },
+    {
+        "parroquia": "CASACAY",
+        "id": 4495,
+        "votos": 59,
+        "candidato": "Alvaro Noboa",
+        "value": 8.21
+    },
+    {
+        "parroquia": "UZHCURRUMI",
+        "id": 4160,
+        "votos": 51,
+        "candidato": "Alvaro Noboa",
+        "value": 7.62
+    },
+    {
+        "parroquia": "LA PEAÑA",
+        "id": 2075,
+        "votos": 150,
+        "candidato": "Alvaro Noboa",
+        "value": 8.65
+    },
+    {
+        "parroquia": "PROGRESO",
+        "id": 1225,
+        "votos": 58,
+        "candidato": "Alvaro Noboa",
+        "value": 5.07
+    },
+    {
+        "parroquia": "CAÑAQUEMADA",
+        "id": 775,
+        "votos": 21,
+        "candidato": "Alvaro Noboa",
+        "value": 5.04
+    },
+    {
+        "parroquia": "BUENAVISTA",
+        "id": 390,
+        "votos": 236,
+        "candidato": "Alvaro Noboa",
+        "value": 7.82
+    }
+]

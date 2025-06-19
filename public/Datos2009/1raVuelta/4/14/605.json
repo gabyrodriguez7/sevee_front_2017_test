@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "MENDEZ",
+        "id": 5645,
+        "votos": 860,
+        "candidato": "Rafael Correa Delgado",
+        "value": 47.23
+    },
+    {
+        "parroquia": "TAYUZA",
+        "id": 4115,
+        "votos": 154,
+        "candidato": "Rafael Correa Delgado",
+        "value": 29.39
+    },
+    {
+        "parroquia": "SAN LUIS DEL ACHO",
+        "id": 3565,
+        "votos": 144,
+        "candidato": "Rafael Correa Delgado",
+        "value": 48.98
+    },
+    {
+        "parroquia": "PATUCA",
+        "id": 2795,
+        "votos": 133,
+        "candidato": "Rafael Correa Delgado",
+        "value": 25.43
+    },
+    {
+        "parroquia": "SAN FCO. DE CHINIMBIMI",
+        "id": 1365,
+        "votos": 151,
+        "candidato": "Rafael Correa Delgado",
+        "value": 37.19
+    },
+    {
+        "parroquia": "CHUPIANZA",
+        "id": 970,
+        "votos": 150,
+        "candidato": "Rafael Correa Delgado",
+        "value": 52.26
+    },
+    {
+        "parroquia": "COPAL",
+        "id": 645,
+        "votos": 102,
+        "candidato": "Rafael Correa Delgado",
+        "value": 45.95
+    }
+]

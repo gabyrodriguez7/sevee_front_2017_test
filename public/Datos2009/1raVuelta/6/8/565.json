@@ -1,0 +1,107 @@
+[
+    {
+        "parroquia": "VALDEZ/LIMONES/",
+        "id": 6205,
+        "votos": 13,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.49
+    },
+    {
+        "parroquia": "SANTO DOMINGO DE ONZOLE",
+        "id": 4465,
+        "votos": 1,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.27
+    },
+    {
+        "parroquia": "TELEMBI",
+        "id": 4170,
+        "votos": 18,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 2.13
+    },
+    {
+        "parroquia": "SELVA ALEGRE",
+        "id": 3805,
+        "votos": 3,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.69
+    },
+    {
+        "parroquia": "SAN FRANCISCO DE ONZOLE",
+        "id": 3405,
+        "votos": 6,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.89
+    },
+    {
+        "parroquia": "PAMPANAL DE BOLIVAR",
+        "id": 2670,
+        "votos": 0,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.0
+    },
+    {
+        "parroquia": "MALDONADO",
+        "id": 2335,
+        "votos": 4,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.71
+    },
+    {
+        "parroquia": "LUIS VARGAS TORRES",
+        "id": 2225,
+        "votos": 1,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.64
+    },
+    {
+        "parroquia": "LA TOLA",
+        "id": 2125,
+        "votos": 5,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.46
+    },
+    {
+        "parroquia": "TIMBIRE",
+        "id": 1515,
+        "votos": 0,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.0
+    },
+    {
+        "parroquia": "COLON ELOY DE MARIA",
+        "id": 1510,
+        "votos": 2,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.81
+    },
+    {
+        "parroquia": "SAN JOSE DE CAYAPAS",
+        "id": 1505,
+        "votos": 7,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.73
+    },
+    {
+        "parroquia": "BORBON",
+        "id": 370,
+        "votos": 18,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.63
+    },
+    {
+        "parroquia": "ATAHUALPA/CAMARONES",
+        "id": 200,
+        "votos": 9,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.85
+    },
+    {
+        "parroquia": "ANCHAYACU",
+        "id": 120,
+        "votos": 1,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.3
+    }
+]

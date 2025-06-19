@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CANCHAGUA",
+        "id": 465,
+        "votos": 17,
+        "candidato": "Noboa Alvaro",
+        "value": 2.0
+    },
+    {
+        "parroquia": "CHANTILIN",
+        "id": 830,
+        "votos": 15,
+        "candidato": "Noboa Alvaro",
+        "value": 3.08
+    },
+    {
+        "parroquia": "COCHAPAMBA",
+        "id": 990,
+        "votos": 24,
+        "candidato": "Noboa Alvaro",
+        "value": 2.1
+    },
+    {
+        "parroquia": "SAQUISILI",
+        "id": 6070,
+        "votos": 338,
+        "candidato": "Noboa Alvaro",
+        "value": 3.328
+    }
+]

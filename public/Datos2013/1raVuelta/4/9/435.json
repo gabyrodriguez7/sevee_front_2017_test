@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "JESUS MARIA",
+        "id": 1830,
+        "votos": 15,
+        "candidato": "Acosta Alberto",
+        "value": 0.9671
+    },
+    {
+        "parroquia": "SAN CARLOS",
+        "id": 3370,
+        "votos": 20,
+        "candidato": "Acosta Alberto",
+        "value": 1.1891
+    },
+    {
+        "parroquia": "SANTA ROSA DE FLANDES",
+        "id": 3740,
+        "votos": 12,
+        "candidato": "Acosta Alberto",
+        "value": 1.2245
+    },
+    {
+        "parroquia": "TAURA",
+        "id": 3990,
+        "votos": 29,
+        "candidato": "Acosta Alberto",
+        "value": 0.7394
+    },
+    {
+        "parroquia": "NARANJAL",
+        "id": 5675,
+        "votos": 400,
+        "candidato": "Acosta Alberto",
+        "value": 1.4011
+    }
+]

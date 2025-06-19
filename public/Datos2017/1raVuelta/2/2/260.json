@@ -1,0 +1,254 @@
+[
+  {
+    "parroquia": "BAÑOS",
+    "id": 285,
+    "votos": 1609,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.24
+  },
+  {
+    "parroquia": "CUMBE",
+    "id": 730,
+    "votos": 388,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.95
+  },
+  {
+    "parroquia": "CHAUCHA / ANGAS",
+    "id": 845,
+    "votos": 49,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.3
+  },
+  {
+    "parroquia": "CHECA JIDCAY",
+    "id": 860,
+    "votos": 174,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.18
+  },
+  {
+    "parroquia": "CHIQUINTAD",
+    "id": 905,
+    "votos": 313,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 11.26
+  },
+  {
+    "parroquia": "LLACAO",
+    "id": 2255,
+    "votos": 351,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 12.78
+  },
+  {
+    "parroquia": "MOLLETURO",
+    "id": 2430,
+    "votos": 378,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.78
+  },
+  {
+    "parroquia": "MULTI /  NULTI",
+    "id": 2570,
+    "votos": 476,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 14.19
+  },
+  {
+    "parroquia": "OCTAVIO CORDERO PALACIOS",
+    "id": 2595,
+    "votos": 116,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.14
+  },
+  {
+    "parroquia": "PACCHA",
+    "id": 2680,
+    "votos": 486,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 15.56
+  },
+  {
+    "parroquia": "QUINGEO",
+    "id": 3105,
+    "votos": 316,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.21
+  },
+  {
+    "parroquia": "RICAURTE",
+    "id": 3165,
+    "votos": 1274,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.54
+  },
+  {
+    "parroquia": "SAN JOAQUÍN",
+    "id": 3460,
+    "votos": 607,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.17
+  },
+  {
+    "parroquia": "SANTA ANA",
+    "id": 3685,
+    "votos": 399,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.3
+  },
+  {
+    "parroquia": "SAYAUSI",
+    "id": 3795,
+    "votos": 811,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.49
+  },
+  {
+    "parroquia": "SIDCAY",
+    "id": 3850,
+    "votos": 266,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.8
+  },
+  {
+    "parroquia": "SININCAY",
+    "id": 3870,
+    "votos": 814,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 11.62
+  },
+  {
+    "parroquia": "TARQUI",
+    "id": 3980,
+    "votos": 856,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 13.85
+  },
+  {
+    "parroquia": "TURI",
+    "id": 4095,
+    "votos": 410,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.39
+  },
+  {
+    "parroquia": "VALLE",
+    "id": 4200,
+    "votos": 1614,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 14.16
+  },
+  {
+    "parroquia": "VICTORIA DEL PORTETE",
+    "id": 4225,
+    "votos": 311,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.23
+  },
+  {
+    "parroquia": "BELLAVISTA",
+    "id": 5075,
+    "votos": 1236,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.92
+  },
+  {
+    "parroquia": "CAÑARIBAMBA",
+    "id": 5080,
+    "votos": 779,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.62
+  },
+  {
+    "parroquia": "EL BATÁN",
+    "id": 5135,
+    "votos": 876,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.97
+  },
+  {
+    "parroquia": "MACHÁNGARA",
+    "id": 5140,
+    "votos": 610,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.62
+  },
+  {
+    "parroquia": "MONAY",
+    "id": 5290,
+    "votos": 1066,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 11.11
+  },
+  {
+    "parroquia": "EL VECINO",
+    "id": 5330,
+    "votos": 2942,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.43
+  },
+  {
+    "parroquia": "TOTORACOCHA",
+    "id": 5360,
+    "votos": 1659,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.16
+  },
+  {
+    "parroquia": "YANUNCAY",
+    "id": 5370,
+    "votos": 1615,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.45
+  },
+  {
+    "parroquia": "HUAYNACAPAC",
+    "id": 5450,
+    "votos": 1318,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10
+  },
+  {
+    "parroquia": "RAMÍREZ DÁVALOS",
+    "id": 5875,
+    "votos": 920,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.88
+  },
+  {
+    "parroquia": "SAGRARIO",
+    "id": 5905,
+    "votos": 1670,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.43
+  },
+  {
+    "parroquia": "SAN BLAS",
+    "id": 5930,
+    "votos": 1610,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.43
+  },
+  {
+    "parroquia": "SAN SEBASTIÁN",
+    "id": 6010,
+    "votos": 2464,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.76
+  },
+  {
+    "parroquia": "SUCRE",
+    "id": 6090,
+    "votos": 1732,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.17
+  },
+  {
+    "parroquia": "HERMANO MIGUEL",
+    "id": 6865,
+    "votos": 699,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.75
+  }
+]

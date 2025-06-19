@@ -1,0 +1,114 @@
+[
+    {
+        "parroquia": "CACHA",
+        "id": 420,
+        "votos": 294,
+        "candidato": "Gutierrez Lucio",
+        "value": 14.25
+    },
+    {
+        "parroquia": "CALPI",
+        "id": 445,
+        "votos": 864,
+        "candidato": "Gutierrez Lucio",
+        "value": 20.83
+    },
+    {
+        "parroquia": "CUBIJIES",
+        "id": 705,
+        "votos": 283,
+        "candidato": "Gutierrez Lucio",
+        "value": 18.89
+    },
+    {
+        "parroquia": "FLORES",
+        "id": 1280,
+        "votos": 537,
+        "candidato": "Gutierrez Lucio",
+        "value": 16.13
+    },
+    {
+        "parroquia": "LICTO",
+        "id": 2165,
+        "votos": 916,
+        "candidato": "Gutierrez Lucio",
+        "value": 16.66
+    },
+    {
+        "parroquia": "PUNGALA",
+        "id": 3035,
+        "votos": 718,
+        "candidato": "Gutierrez Lucio",
+        "value": 21.4
+    },
+    {
+        "parroquia": "PUNIN",
+        "id": 3040,
+        "votos": 854,
+        "candidato": "Gutierrez Lucio",
+        "value": 21.2
+    },
+    {
+        "parroquia": "QUIMIAG",
+        "id": 3095,
+        "votos": 741,
+        "candidato": "Gutierrez Lucio",
+        "value": 21.63
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3515,
+        "votos": 1110,
+        "candidato": "Gutierrez Lucio",
+        "value": 22.85
+    },
+    {
+        "parroquia": "SAN LUIS",
+        "id": 3560,
+        "votos": 515,
+        "candidato": "Gutierrez Lucio",
+        "value": 12.94
+    },
+    {
+        "parroquia": "LIZARZABURU",
+        "id": 5590,
+        "votos": 2025,
+        "candidato": "Gutierrez Lucio",
+        "value": 6.01
+    },
+    {
+        "parroquia": "MALDONADO",
+        "id": 5630,
+        "votos": 1533,
+        "candidato": "Gutierrez Lucio",
+        "value": 6.69
+    },
+    {
+        "parroquia": "VELASCO",
+        "id": 6220,
+        "votos": 1539,
+        "candidato": "Gutierrez Lucio",
+        "value": 6.31
+    },
+    {
+        "parroquia": "VELOZ",
+        "id": 6230,
+        "votos": 845,
+        "candidato": "Gutierrez Lucio",
+        "value": 6.0
+    },
+    {
+        "parroquia": "YARUQUIES",
+        "id": 6290,
+        "votos": 422,
+        "candidato": "Gutierrez Lucio",
+        "value": 11.0
+    },
+    {
+        "parroquia": "LICAN",
+        "id": 6960,
+        "votos": 515,
+        "candidato": "Gutierrez Lucio",
+        "value": 15.5
+    }
+]

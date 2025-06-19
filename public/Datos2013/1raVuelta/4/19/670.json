@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "CHICANA",
+        "id": 985,
+        "votos": 365,
+        "candidato": "Acosta Alberto",
+        "value": 31.2
+    },
+    {
+        "parroquia": "LOS ENCUENTROS",
+        "id": 2240,
+        "votos": 255,
+        "candidato": "Acosta Alberto",
+        "value": 16.2317
+    },
+    {
+        "parroquia": "YANZATZA",
+        "id": 6295,
+        "votos": 981,
+        "candidato": "Acosta Alberto",
+        "value": 13.106
+    }
+]

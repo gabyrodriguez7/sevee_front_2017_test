@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "MONTERREY",
+        "id": 4370,
+        "votos": 40,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.0
+    },
+    {
+        "parroquia": "LA VILLEGAS",
+        "id": 4375,
+        "votos": 28,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.2
+    },
+    {
+        "parroquia": "PLAN PILOTO",
+        "id": 4380,
+        "votos": 11,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.86
+    },
+    {
+        "parroquia": "LA CONCORDIA",
+        "id": 6920,
+        "votos": 582,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.76
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "YANZATZA",
+        "id": 6295,
+        "votos": 2427,
+        "candidato": "Rafael Correa Delgado",
+        "value": 40.14
+    },
+    {
+        "parroquia": "LOS ENCUENTROS",
+        "id": 2240,
+        "votos": 588,
+        "candidato": "Rafael Correa Delgado",
+        "value": 50.69
+    },
+    {
+        "parroquia": "CHICANA",
+        "id": 985,
+        "votos": 362,
+        "candidato": "Rafael Correa Delgado",
+        "value": 45.08
+    }
+]

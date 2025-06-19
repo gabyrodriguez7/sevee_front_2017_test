@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "AMÉRICA /LA CERA",
+    "id": 105,
+    "votos": 420,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 20.95
+  },
+  {
+    "parroquia": "LA UNIÓN",
+    "id": 560,
+    "votos": 95,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 11.52
+  },
+  {
+    "parroquia": "EL ANEGADO",
+    "id": 1115,
+    "votos": 475,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 14.15
+  },
+  {
+    "parroquia": "JULCUY",
+    "id": 1880,
+    "votos": 206,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 18.15
+  },
+  {
+    "parroquia": "PEDRO PABLO GÓMEZ",
+    "id": 2810,
+    "votos": 551,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 21.56
+  },
+  {
+    "parroquia": "PUERTO CAYO",
+    "id": 2990,
+    "votos": 251,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 12.49
+  },
+  {
+    "parroquia": "MEMBRILLAL",
+    "id": 4490,
+    "votos": 86,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 12.61
+  },
+  {
+    "parroquia": "JIPIJAPA",
+    "id": 5485,
+    "votos": 5035,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 20.23
+  },
+  {
+    "parroquia": "DR. MIGUEL MORÁN LUCIO",
+    "id": 7465,
+    "votos": 628,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 16.44
+  },
+  {
+    "parroquia": "MANUEL INOCENCIO PARRALES",
+    "id": 7470,
+    "votos": 421,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 21.55
+  },
+  {
+    "parroquia": "SAN LORENZO DE JIPIJAPA",
+    "id": 7475,
+    "votos": 1268,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 20.76
+  }
+]

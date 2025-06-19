@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "VALLE DE LA VIRGEN",
+    "id": 185,
+    "votos": 20,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.2
+  },
+  {
+    "parroquia": "SABANILLA",
+    "id": 1670,
+    "votos": 33,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.38
+  },
+  {
+    "parroquia": "PEDRO CARBO",
+    "id": 5735,
+    "votos": 515,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.14
+  }
+]

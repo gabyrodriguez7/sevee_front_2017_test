@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "MERA",
+    "id": 5650,
+    "votos": 56,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 6.44
+  },
+  {
+    "parroquia": "SHELL",
+    "id": 3840,
+    "votos": 108,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 3.34
+  },
+  {
+    "parroquia": "MADRE TIERRA",
+    "id": 2310,
+    "votos": 17,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.07
+  }
+]

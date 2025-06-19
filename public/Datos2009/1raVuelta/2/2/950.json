@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "LAS MERCEDES",
+        "id": 6475,
+        "votos": 0,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.0
+    },
+    {
+        "parroquia": "LAS NAVES",
+        "id": 6470,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.1
+    }
+]

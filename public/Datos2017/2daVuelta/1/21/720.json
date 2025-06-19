@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "SAN PEDRO DE LOS COFANES",
+        "id": 600,
+        "votos": 1232,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 64.6
+    },
+    {
+        "parroquia": "SIETE DE JULIO",
+        "id": 780,
+        "votos": 1318,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 62.38
+    },
+    {
+        "parroquia": "LIMONCOCHA",
+        "id": 2175,
+        "votos": 1143,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 54.12
+    },
+    {
+        "parroquia": "PANACOCHA",
+        "id": 2765,
+        "votos": 194,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 45.54
+    },
+    {
+        "parroquia": "SAN ROQUE",
+        "id": 3645,
+        "votos": 667,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 35.8
+    },
+    {
+        "parroquia": "SHUSHUFINDI CENTRAL",
+        "id": 6140,
+        "votos": 9481,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 51.55
+    }
+]

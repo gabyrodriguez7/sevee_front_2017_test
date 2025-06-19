@@ -1,0 +1,20 @@
+[
+    {
+        "id": 800,
+        "candidato": "Acosta Alberto",
+        "votos": 80,
+        "value": 1.9
+    },
+    {
+        "id": 805,
+        "candidato": "Acosta Alberto",
+        "votos": 181,
+        "value": 2.4
+    },
+    {
+        "id": 810,
+        "candidato": "Acosta Alberto",
+        "votos": 30,
+        "value": 2.304
+    }
+]

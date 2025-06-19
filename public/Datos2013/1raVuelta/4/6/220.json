@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CAPZOL",
+        "id": 515,
+        "votos": 2,
+        "candidato": "Acosta Alberto",
+        "value": 0.78
+    },
+    {
+        "parroquia": "COMPUD",
+        "id": 615,
+        "votos": 0,
+        "candidato": "Acosta Alberto",
+        "value": 0.0
+    },
+    {
+        "parroquia": "GONZOL",
+        "id": 1370,
+        "votos": 12,
+        "candidato": "Acosta Alberto",
+        "value": 2.2
+    },
+    {
+        "parroquia": "LLAGOS",
+        "id": 2260,
+        "votos": 11,
+        "candidato": "Acosta Alberto",
+        "value": 1.697530864
+    },
+    {
+        "parroquia": "CHUNCHI",
+        "id": 5255,
+        "votos": 76,
+        "candidato": "Acosta Alberto",
+        "value": 1.59
+    }
+]

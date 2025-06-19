@@ -1,0 +1,79 @@
+[
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 115,
+        "votos": 7110,
+        "votos1": 5445,
+        "votos2": 1665,
+        "fill": "#1eff00",
+        "porcentaje1": 76.58,
+        "porcentaje2": 23.42
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 1850,
+        "votos": 12636,
+        "votos1": 7699,
+        "votos2": 4937,
+        "fill": "#1eff00",
+        "porcentaje1": 60.93,
+        "porcentaje2": 39.07
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 5920,
+        "votos": 14177,
+        "votos1": 7428,
+        "votos2": 6749,
+        "fill": "#1eff00",
+        "porcentaje1": 52.39,
+        "porcentaje2": 47.61
+    },
+    {
+        "candidato1": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "candidato2": "MORENO GARCES LENIN BOLTAIRE",
+        "id": 6270,
+        "votos": 1692,
+        "votos1": 892,
+        "votos2": 800,
+        "fill": "#062e81",
+        "porcentaje1": 52.72,
+        "porcentaje2": 47.28
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 6275,
+        "votos": 2096,
+        "votos1": 1242,
+        "votos2": 854,
+        "fill": "#1eff00",
+        "porcentaje1": 59.26,
+        "porcentaje2": 40.74
+    },
+    {
+        "candidato1": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "candidato2": "MORENO GARCES LENIN BOLTAIRE",
+        "id": 6280,
+        "votos": 3669,
+        "votos1": 1886,
+        "votos2": 1783,
+        "fill": "#062e81",
+        "porcentaje1": 51.4,
+        "porcentaje2": 48.6
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 6925,
+        "votos": 4113,
+        "votos1": 2805,
+        "votos2": 1308,
+        "fill": "#1eff00",
+        "porcentaje1": 68.2,
+        "porcentaje2": 31.8
+    }
+]

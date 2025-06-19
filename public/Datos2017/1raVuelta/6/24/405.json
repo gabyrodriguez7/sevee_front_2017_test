@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "ANCONCITO",
+    "id": 115,
+    "votos": 23,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.34
+  },
+  {
+    "parroquia": "JOS\u00ef\u00bf\u00bd LUIS TAMAYO / MUEY",
+    "id": 1850,
+    "votos": 136,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 1.11
+  },
+  {
+    "parroquia": "SALINAS",
+    "id": 5920,
+    "votos": 59,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.43
+  },
+  {
+    "parroquia": "GRAL. A. E. GALLO",
+    "id": 6270,
+    "votos": 9,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.55
+  },
+  {
+    "parroquia": "VICENTE ROCAFUERTE",
+    "id": 6275,
+    "votos": 12,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.57
+  },
+  {
+    "parroquia": "CARLOS ESPINOZA LARREA",
+    "id": 6280,
+    "votos": 15,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.42
+  },
+  {
+    "parroquia": "SANTA ROSA",
+    "id": 6925,
+    "votos": 18,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.46
+  }
+]

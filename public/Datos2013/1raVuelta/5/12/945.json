@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "PATRICIA PILAR",
+        "id": 150,
+        "votos": 679,
+        "candidato": "Gutierrez Lucio",
+        "value": 10.2692
+    },
+    {
+        "parroquia": "SN JACINTO DE BUENA FE",
+        "id": 6465,
+        "votos": 2418,
+        "candidato": "Gutierrez Lucio",
+        "value": 8.2379
+    }
+]

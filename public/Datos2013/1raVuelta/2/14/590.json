@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "ALSHI /9 DE OCTUBRE",
+        "id": 65,
+        "votos": 1,
+        "candidato": "Noboa Alvaro",
+        "value": 0.439
+    },
+    {
+        "parroquia": "CUCHAENTZA",
+        "id": 1250,
+        "votos": 6,
+        "candidato": "Noboa Alvaro",
+        "value": 1.0
+    },
+    {
+        "parroquia": "GRAL. PROA�O",
+        "id": 1345,
+        "votos": 12,
+        "candidato": "Noboa Alvaro",
+        "value": 1.4
+    },
+    {
+        "parroquia": "RIO BLANCO",
+        "id": 1730,
+        "votos": 8,
+        "candidato": "Noboa Alvaro",
+        "value": 1.203
+    },
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 3440,
+        "votos": 25,
+        "candidato": "Noboa Alvaro",
+        "value": 5.123
+    },
+    {
+        "parroquia": "SEVILLA DON BOSCO",
+        "id": 3830,
+        "votos": 79,
+        "candidato": "Noboa Alvaro",
+        "value": 1.7
+    },
+    {
+        "parroquia": "ZUNAC",
+        "id": 4360,
+        "votos": 0,
+        "candidato": "Noboa Alvaro",
+        "value": 0.0
+    },
+    {
+        "parroquia": "SINAI",
+        "id": 4485,
+        "votos": 6,
+        "candidato": "Noboa Alvaro",
+        "value": 1.0
+    },
+    {
+        "parroquia": "MACAS",
+        "id": 5615,
+        "votos": 190,
+        "candidato": "Noboa Alvaro",
+        "value": 1.6
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 6130,
+        "votos": 5339,
+        "candidato": "Rafael Correa Delgado",
+        "value": 74.2
+    },
+    {
+        "parroquia": "URBINA",
+        "id": 4125,
+        "votos": 242,
+        "candidato": "Rafael Correa Delgado",
+        "value": 73.33
+    },
+    {
+        "parroquia": "TULULBI /RICAURTE",
+        "id": 4075,
+        "votos": 322,
+        "candidato": "Rafael Correa Delgado",
+        "value": 67.08
+    },
+    {
+        "parroquia": "TAMBILLO",
+        "id": 3955,
+        "votos": 292,
+        "candidato": "Rafael Correa Delgado",
+        "value": 73.73
+    },
+    {
+        "parroquia": "SANTA RITA",
+        "id": 3725,
+        "votos": 349,
+        "candidato": "Rafael Correa Delgado",
+        "value": 80.78
+    },
+    {
+        "parroquia": "SAN JAVIER DE CACHABI",
+        "id": 3455,
+        "votos": 148,
+        "candidato": "Rafael Correa Delgado",
+        "value": 80.87
+    },
+    {
+        "parroquia": "MATAJE",
+        "id": 2395,
+        "votos": 123,
+        "candidato": "Rafael Correa Delgado",
+        "value": 68.33
+    },
+    {
+        "parroquia": "CONCEPCION",
+        "id": 620,
+        "votos": 233,
+        "candidato": "Rafael Correa Delgado",
+        "value": 58.69
+    },
+    {
+        "parroquia": "5 DE JUNIO/HUIMBI",
+        "id": 570,
+        "votos": 66,
+        "candidato": "Rafael Correa Delgado",
+        "value": 62.26
+    },
+    {
+        "parroquia": "CARONDELET",
+        "id": 535,
+        "votos": 215,
+        "candidato": "Rafael Correa Delgado",
+        "value": 64.37
+    },
+    {
+        "parroquia": "CALDERON",
+        "id": 435,
+        "votos": 216,
+        "candidato": "Rafael Correa Delgado",
+        "value": 71.52
+    },
+    {
+        "parroquia": "ANCON/PALMA REAL",
+        "id": 110,
+        "votos": 338,
+        "candidato": "Rafael Correa Delgado",
+        "value": 83.45
+    },
+    {
+        "parroquia": "ALTO TAMBO/GUADAL",
+        "id": 70,
+        "votos": 263,
+        "candidato": "Rafael Correa Delgado",
+        "value": 63.06
+    }
+]

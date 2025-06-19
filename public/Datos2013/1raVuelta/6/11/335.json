@@ -1,0 +1,38 @@
+[
+                {
+                    "parroquia": "CHANGAIMINA /LA LIBERTAD",
+                    "id": 825,
+                    "votos": 402,
+                    "candidato": "Lasso Guillermo",
+                    "value": 29.004
+                },
+                {
+                    "parroquia": "NAMBACOLA",
+                    "id": 2520,
+                    "votos": 466,
+                    "candidato": "Lasso Guillermo",
+                    "value": 22.436
+                },
+                {
+                    "parroquia": "PURUNUMA /EGUIGUREN",
+                    "id": 3045,
+                    "votos": 171,
+                    "candidato": "Lasso Guillermo",
+                    "value": 24.9
+                },
+                {
+                    "parroquia": "SACAPALCA",
+                    "id": 3270,
+                    "votos": 318,
+                    "candidato": "Lasso Guillermo",
+                    "value": 33.5
+                },
+                {
+                    "parroquia": "GONZANAMA",
+                    "id": 5400,
+                    "votos": 999,
+                    "candidato": "Lasso Guillermo",
+                    "value": 40.5438
+                }
+            ]
+            

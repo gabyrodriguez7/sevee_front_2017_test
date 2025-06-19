@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "TRIUNFO DORADO",
+    "id": 4385,
+    "votos": 12,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 3.13
+  },
+  {
+    "parroquia": "PANGUINTZA",
+    "id": 4600,
+    "votos": 19,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 3.14
+  },
+  {
+    "parroquia": "ZUMBI",
+    "id": 6625,
+    "votos": 114,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 3.71
+  }
+]

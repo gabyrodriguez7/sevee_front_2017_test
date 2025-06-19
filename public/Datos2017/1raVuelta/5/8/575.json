@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "CÚBE / CHANCAMA",
+    "id": 700,
+    "votos": 16,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.08
+  },
+  {
+    "parroquia": "CHURA",
+    "id": 980,
+    "votos": 14,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.34
+  },
+  {
+    "parroquia": "LA UNIÓN",
+    "id": 1530,
+    "votos": 92,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.86
+  },
+  {
+    "parroquia": "MALIMPIA / GUAYLLABAMBA",
+    "id": 2345,
+    "votos": 68,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.09
+  },
+  {
+    "parroquia": "VICHE",
+    "id": 4230,
+    "votos": 31,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.81
+  },
+  {
+    "parroquia": "ROSA ZÁRATE",
+    "id": 5895,
+    "votos": 240,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.62
+  }
+]

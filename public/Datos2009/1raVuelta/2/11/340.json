@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "AMALUZA",
+        "id": 5020,
+        "votos": 13,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.48
+    },
+    {
+        "parroquia": "27 DE ABRIL /LA NARANJA",
+        "id": 4460,
+        "votos": 5,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.69
+    },
+    {
+        "parroquia": "SANTA TERESITA",
+        "id": 3765,
+        "votos": 5,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.95
+    },
+    {
+        "parroquia": "JIMBURA",
+        "id": 1845,
+        "votos": 16,
+        "candidato": "Diego Delgado Jara",
+        "value": 2.46
+    },
+    {
+        "parroquia": "EL AIRO",
+        "id": 1645,
+        "votos": 0,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.0
+    },
+    {
+        "parroquia": "EL INGENIO",
+        "id": 790,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.17
+    },
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 320,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.13
+    }
+]

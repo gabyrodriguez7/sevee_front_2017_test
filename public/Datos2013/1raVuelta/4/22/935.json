@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "AVILA",
+        "id": 215,
+        "votos": 186,
+        "candidato": "Acosta Alberto",
+        "value": 12.99
+    },
+    {
+        "parroquia": "SAN VICENTE DE HUATICOCHA",
+        "id": 400,
+        "votos": 113,
+        "candidato": "Acosta Alberto",
+        "value": 19.0
+    },
+    {
+        "parroquia": "PUERTO MURIALDO",
+        "id": 1050,
+        "votos": 71,
+        "candidato": "Acosta Alberto",
+        "value": 6.0
+    },
+    {
+        "parroquia": "SAN JOSE DE DAHUANO",
+        "id": 1680,
+        "votos": 287,
+        "candidato": "Acosta Alberto",
+        "value": 17.0
+    },
+    {
+        "parroquia": "SAN JOSE DE PAYAMINO",
+        "id": 3480,
+        "votos": 127,
+        "candidato": "Acosta Alberto",
+        "value": 11.1
+    },
+    {
+        "parroquia": "LORETO",
+        "id": 6455,
+        "votos": 285,
+        "candidato": "Acosta Alberto",
+        "value": 8.3
+    }
+]

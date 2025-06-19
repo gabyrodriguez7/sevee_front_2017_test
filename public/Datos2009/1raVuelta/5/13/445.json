@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "MONTECRISTI",
+        "id": 5665,
+        "votos": 273,
+        "candidato": "Melba Jacome",
+        "value": 1.11
+    },
+    {
+        "parroquia": "LA PILA",
+        "id": 1545,
+        "votos": 10,
+        "candidato": "Melba Jacome",
+        "value": 0.71
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "SAN JACINTO DE WAKAMBEIS",
+        "id": 710,
+        "votos": 45,
+        "candidato": "Acosta Alberto",
+        "value": 35.7
+    },
+    {
+        "parroquia": "SANTIAGO DE PANANZA",
+        "id": 1785,
+        "votos": 111,
+        "candidato": "Acosta Alberto",
+        "value": 56.923
+    },
+    {
+        "parroquia": "PAN DE AZUCAR",
+        "id": 2750,
+        "votos": 48,
+        "candidato": "Acosta Alberto",
+        "value": 26.519337
+    },
+    {
+        "parroquia": "SAN CARLOS DE LIMON",
+        "id": 3920,
+        "votos": 221,
+        "candidato": "Acosta Alberto",
+        "value": 71.99
+    },
+    {
+        "parroquia": "SAN JUAN BOSCO",
+        "id": 6445,
+        "votos": 285,
+        "candidato": "Acosta Alberto",
+        "value": 21.0798817
+    }
+]

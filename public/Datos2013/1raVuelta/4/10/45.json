@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "IMBAYA",
+        "id": 1715,
+        "votos": 7,
+        "candidato": "Acosta Alberto",
+        "value": 0.9
+    },
+    {
+        "parroquia": "SAN FCO.DE NATABUELA",
+        "id": 3400,
+        "votos": 133,
+        "candidato": "Acosta Alberto",
+        "value": 4.161
+    },
+    {
+        "parroquia": "SAN JOSE DE CHALTURA",
+        "id": 3465,
+        "votos": 54,
+        "candidato": "Acosta Alberto",
+        "value": 2.73
+    },
+    {
+        "parroquia": "SAN ROQUE",
+        "id": 3640,
+        "votos": 229,
+        "candidato": "Acosta Alberto",
+        "value": 4.0
+    },
+    {
+        "parroquia": "ANDRADE MARIN/LOURDES",
+        "id": 5025,
+        "votos": 82,
+        "candidato": "Acosta Alberto",
+        "value": 2.9
+    },
+    {
+        "parroquia": "ATUNTAQUI",
+        "id": 5050,
+        "votos": 339,
+        "candidato": "Acosta Alberto",
+        "value": 2.8
+    }
+]

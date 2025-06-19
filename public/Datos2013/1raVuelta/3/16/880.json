@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN JOSE",
+        "id": 2100,
+        "votos": 7,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "SANTA CLARA",
+        "id": 6395,
+        "votos": 15,
+        "candidato": "Wray Norman",
+        "value": 0.7
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "EL CORAZON",
+        "id": 5305,
+        "votos": 25,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.76
+    },
+    {
+        "parroquia": "RAMON CAMPAÑA",
+        "id": 3155,
+        "votos": 10,
+        "candidato": "Diego Delgado Jara",
+        "value": 2.0
+    },
+    {
+        "parroquia": "PINLLOPATA",
+        "id": 2890,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.27
+    },
+    {
+        "parroquia": "MORASPUNGO",
+        "id": 2460,
+        "votos": 14,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.32
+    }
+]

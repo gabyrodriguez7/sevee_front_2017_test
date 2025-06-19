@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "CUYABENO",
+    "id": 760,
+    "votos": 3,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.95
+  },
+  {
+    "parroquia": "AGUAS NEGRAS",
+    "id": 1555,
+    "votos": 18,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.39
+  },
+  {
+    "parroquia": "TARAPOA",
+    "id": 6765,
+    "votos": 58,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.64
+  }
+]

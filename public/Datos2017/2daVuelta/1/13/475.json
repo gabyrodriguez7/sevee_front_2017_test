@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "CHARAPOTO",
+    "id": 840,
+    "votos": 3479,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 23.77
+  },
+  {
+    "parroquia": "SAN ISIDRO",
+    "id": 3445,
+    "votos": 2489,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 31.79
+  },
+  {
+    "parroquia": "BAHÍA DE CARÁQUEZ",
+    "id": 5095,
+    "votos": 4899,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 35.69
+  },
+  {
+    "parroquia": "LEONIDAS PLAZA G.",
+    "id": 5580,
+    "votos": 1276,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 32.54
+  }
+]

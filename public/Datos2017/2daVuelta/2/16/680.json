@@ -1,0 +1,100 @@
+[
+  {
+    "parroquia": "CANELOS",
+    "id": 475,
+    "votos": 511,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 43.42
+  },
+  {
+    "parroquia": "10 DE AGOSTO",
+    "id": 1025,
+    "votos": 390,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 35.39
+  },
+  {
+    "parroquia": "FÁTIMA",
+    "id": 1260,
+    "votos": 429,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 44.83
+  },
+  {
+    "parroquia": "EL TRIUNFO",
+    "id": 1275,
+    "votos": 442,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 42.14
+  },
+  {
+    "parroquia": "MONTALVO/ANDOAS",
+    "id": 2450,
+    "votos": 499,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 42.15
+  },
+  {
+    "parroquia": "POMONA",
+    "id": 3055,
+    "votos": 76,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 29.01
+  },
+  {
+    "parroquia": "RÍO CORRIENTES",
+    "id": 3180,
+    "votos": 104,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 73.24
+  },
+  {
+    "parroquia": "RÍO TIGRE",
+    "id": 3195,
+    "votos": 203,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 55.31
+  },
+  {
+    "parroquia": "ZARAYACU",
+    "id": 3785,
+    "votos": 715,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 45.86
+  },
+  {
+    "parroquia": "TARQUI",
+    "id": 3985,
+    "votos": 711,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 42.99
+  },
+  {
+    "parroquia": "TNTE. HUGO ORTIZ",
+    "id": 4005,
+    "votos": 329,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 50
+  },
+  {
+    "parroquia": "VERACRUZ",
+    "id": 4205,
+    "votos": 605,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 39.03
+  },
+  {
+    "parroquia": "SIMÓN BOLÍVAR",
+    "id": 4510,
+    "votos": 824,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 26.27
+  },
+  {
+    "parroquia": "PUYO",
+    "id": 5825,
+    "votos": 9067,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 34.19
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "CAMPOZANO",
+    "id": 460,
+    "votos": 1360,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 43.51
+  },
+  {
+    "parroquia": "CASCOL",
+    "id": 540,
+    "votos": 2356,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 50.11
+  },
+  {
+    "parroquia": "GUALE/STO.DOMINGO",
+    "id": 1395,
+    "votos": 1716,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 58.61
+  },
+  {
+    "parroquia": "LASCANO",
+    "id": 2090,
+    "votos": 1316,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 62.67
+  },
+  {
+    "parroquia": "PAJÁN",
+    "id": 5755,
+    "votos": 5075,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 39.78
+  }
+]

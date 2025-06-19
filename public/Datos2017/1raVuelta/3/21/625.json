@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "DURENO",
+    "id": 1045,
+    "votos": 729,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 43.32
+  },
+  {
+    "parroquia": "EL ENO",
+    "id": 1285,
+    "votos": 1095,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 31.46
+  },
+  {
+    "parroquia": "PACAYÁCU",
+    "id": 1290,
+    "votos": 1766,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 45.22
+  },
+  {
+    "parroquia": "GENERAL FARFÁN",
+    "id": 1330,
+    "votos": 1438,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 54.1
+  },
+  {
+    "parroquia": "SANTA CECILIA",
+    "id": 1790,
+    "votos": 841,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 35.92
+  },
+  {
+    "parroquia": "JAMBELÍ",
+    "id": 1795,
+    "votos": 502,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 36.54
+  },
+  {
+    "parroquia": "10 DE AGOSTO",
+    "id": 4625,
+    "votos": 256,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 48.85
+  },
+  {
+    "parroquia": "NUEVA LOJA",
+    "id": 5710,
+    "votos": 14493,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 38.77
+  }
+]

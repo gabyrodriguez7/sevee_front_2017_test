@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "BOLÍVAR",
+    "id": 355,
+    "votos": 9,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.01
+  },
+  {
+    "parroquia": "DAULE",
+    "id": 1010,
+    "votos": 24,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.76
+  },
+  {
+    "parroquia": "GALERA",
+    "id": 1305,
+    "votos": 41,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 4.99
+  },
+  {
+    "parroquia": "QUINGUE",
+    "id": 3125,
+    "votos": 29,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 6.37
+  },
+  {
+    "parroquia": "SALIMA",
+    "id": 3280,
+    "votos": 5,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.92
+  },
+  {
+    "parroquia": "SAN FRANCISCO",
+    "id": 3390,
+    "votos": 42,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.06
+  },
+  {
+    "parroquia": "SAN GREGORIO",
+    "id": 3430,
+    "votos": 76,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.02
+  },
+  {
+    "parroquia": "SAN JOSÉ DE CHAMANGA",
+    "id": 3470,
+    "votos": 68,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.17
+  },
+  {
+    "parroquia": "MUISNE",
+    "id": 5670,
+    "votos": 308,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 5.02
+  }
+]

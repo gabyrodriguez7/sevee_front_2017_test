@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "EL ARENAL",
+    "id": 270,
+    "votos": 9,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.11
+  },
+  {
+    "parroquia": "CIANO",
+    "id": 565,
+    "votos": 25,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.47
+  },
+  {
+    "parroquia": "EL LIMO /MARIANA DE JESÚS",
+    "id": 1155,
+    "votos": 22,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.65
+  },
+  {
+    "parroquia": "MERCADILLO",
+    "id": 2405,
+    "votos": 14,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.7
+  },
+  {
+    "parroquia": "VICENTINO",
+    "id": 4210,
+    "votos": 7,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.95
+  },
+  {
+    "parroquia": "ALAMOR",
+    "id": 5005,
+    "votos": 127,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.12
+  }
+]

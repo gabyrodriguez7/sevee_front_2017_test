@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "24 DE MAYO",
+        "id": 6690,
+        "votos": 3,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.26
+    },
+    {
+        "parroquia": "VIVA ALFARO",
+        "id": 6660,
+        "votos": 7,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.46
+    },
+    {
+        "parroquia": "SIETE DE OCTUBRE",
+        "id": 6655,
+        "votos": 16,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.64
+    },
+    {
+        "parroquia": "GUAYACAN",
+        "id": 6650,
+        "votos": 16,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.86
+    },
+    {
+        "parroquia": "NICOLAS INFANTE DIAZ",
+        "id": 6645,
+        "votos": 10,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.72
+    },
+    {
+        "parroquia": "VENUS DEL RIO QUEVEDO",
+        "id": 6640,
+        "votos": 14,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.42
+    },
+    {
+        "parroquia": "SAN CRISTOBAL",
+        "id": 6635,
+        "votos": 4,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.16
+    },
+    {
+        "parroquia": "SAN CAMILO",
+        "id": 6115,
+        "votos": 67,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.48
+    },
+    {
+        "parroquia": "QUEVEDO",
+        "id": 5855,
+        "votos": 374,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.65
+    },
+    {
+        "parroquia": "SAN CARLOS",
+        "id": 4425,
+        "votos": 21,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.47
+    },
+    {
+        "parroquia": "LA ESPERANZA",
+        "id": 4420,
+        "votos": 6,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.52
+    }
+]

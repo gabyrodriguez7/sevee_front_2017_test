@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "TARIFA",
+        "id": 3975,
+        "votos": 88,
+        "candidato": "Zavala Nelson",
+        "value": 1.9753
+    },
+    {
+        "parroquia": "SAMBORONDON",
+        "id": 5925,
+        "votos": 406,
+        "candidato": "Zavala Nelson",
+        "value": 1.9336
+    },
+    {
+        "parroquia": "LA PUNTILLA(SATELITE)",
+        "id": 7445,
+        "votos": 88,
+        "candidato": "Zavala Nelson",
+        "value": 0.624
+    }
+]

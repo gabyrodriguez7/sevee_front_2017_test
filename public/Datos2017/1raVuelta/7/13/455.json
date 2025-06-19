@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "AMÉRICA /LA CERA",
+    "id": 105,
+    "votos": 80,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.99
+  },
+  {
+    "parroquia": "LA UNIÓN",
+    "id": 560,
+    "votos": 42,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 5.09
+  },
+  {
+    "parroquia": "EL ANEGADO",
+    "id": 1115,
+    "votos": 263,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 7.84
+  },
+  {
+    "parroquia": "JULCUY",
+    "id": 1880,
+    "votos": 64,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 5.64
+  },
+  {
+    "parroquia": "PEDRO PABLO GÓMEZ",
+    "id": 2810,
+    "votos": 126,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 4.93
+  },
+  {
+    "parroquia": "PUERTO CAYO",
+    "id": 2990,
+    "votos": 108,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 5.37
+  },
+  {
+    "parroquia": "MEMBRILLAL",
+    "id": 4490,
+    "votos": 32,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 4.69
+  },
+  {
+    "parroquia": "JIPIJAPA",
+    "id": 5485,
+    "votos": 2215,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 8.9
+  },
+  {
+    "parroquia": "DR. MIGUEL MORÁN LUCIO",
+    "id": 7465,
+    "votos": 327,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 8.56
+  },
+  {
+    "parroquia": "MANUEL INOCENCIO PARRALES",
+    "id": 7470,
+    "votos": 206,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 10.54
+  },
+  {
+    "parroquia": "SAN LORENZO DE JIPIJAPA",
+    "id": 7475,
+    "votos": 566,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 9.27
+  }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "SANTA MARIANITA",
+        "id": 1800,
+        "votos": 87,
+        "candidato": "Noboa Alvaro",
+        "value": 6.22318
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 3550,
+        "votos": 154,
+        "candidato": "Noboa Alvaro",
+        "value": 8.92236
+    },
+    {
+        "parroquia": "LOS ESTEROS",
+        "id": 5570,
+        "votos": 702,
+        "candidato": "Noboa Alvaro",
+        "value": 4.665
+    },
+    {
+        "parroquia": "MANTA",
+        "id": 5635,
+        "votos": 2721,
+        "candidato": "Noboa Alvaro",
+        "value": 5.27
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 6135,
+        "votos": 167,
+        "candidato": "Noboa Alvaro",
+        "value": 7.76
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 6155,
+        "votos": 2287,
+        "candidato": "Noboa Alvaro",
+        "value": 4.5
+    },
+    {
+        "parroquia": "ELOY ALFARO",
+        "id": 6745,
+        "votos": 690,
+        "candidato": "Noboa Alvaro",
+        "value": 4.22
+    }
+]

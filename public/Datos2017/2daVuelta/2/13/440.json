@@ -1,0 +1,114 @@
+[
+  {
+    "parroquia": "ABDÓN CALDERÓN",
+    "id": 10,
+    "votos": 7735,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 75.66
+  },
+  {
+    "parroquia": "ALHAJUELA /BAJO GRANDE",
+    "id": 50,
+    "votos": 2982,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 79.5
+  },
+  {
+    "parroquia": "CRUCITA",
+    "id": 770,
+    "votos": 6238,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 75.46
+  },
+  {
+    "parroquia": "CHIRIJOS",
+    "id": 1925,
+    "votos": 1340,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 88.22
+  },
+  {
+    "parroquia": "PUEBLO NUEVO",
+    "id": 2970,
+    "votos": 2107,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 80.21
+  },
+  {
+    "parroquia": "RÍO CHICO",
+    "id": 3185,
+    "votos": 6828,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 78.55
+  },
+  {
+    "parroquia": "SAN PLÁCIDO",
+    "id": 3625,
+    "votos": 5073,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 78.91
+  },
+  {
+    "parroquia": "ANDRÉS DE VERA",
+    "id": 5030,
+    "votos": 33689,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 66.51
+  },
+  {
+    "parroquia": "COLÓN",
+    "id": 5265,
+    "votos": 10960,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 78.96
+  },
+  {
+    "parroquia": "12 DE MARZO",
+    "id": 5280,
+    "votos": 15335,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 53.46
+  },
+  {
+    "parroquia": "PORTOVIEJO",
+    "id": 5795,
+    "votos": 14532,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 61.94
+  },
+  {
+    "parroquia": "PICOAZA",
+    "id": 5845,
+    "votos": 10757,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 74.84
+  },
+  {
+    "parroquia": "SAN PABLO",
+    "id": 6585,
+    "votos": 3899,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 73.17
+  },
+  {
+    "parroquia": "18 DE OCTUBRE",
+    "id": 6770,
+    "votos": 3387,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 52.2
+  },
+  {
+    "parroquia": "FRANCISCO PACHECO",
+    "id": 6775,
+    "votos": 3599,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 69.61
+  },
+  {
+    "parroquia": "SIMÓN BOLÍVAR",
+    "id": 6910,
+    "votos": 1652,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 66.37
+  }
+]

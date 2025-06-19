@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "UNION LOJANA",
+        "id": 6820,
+        "votos": 5,
+        "candidato": "Melba Jacome",
+        "value": 0.49
+    },
+    {
+        "parroquia": "ECUADOR",
+        "id": 6815,
+        "votos": 6,
+        "candidato": "Melba Jacome",
+        "value": 1.09
+    },
+    {
+        "parroquia": "EL PARAISO",
+        "id": 6810,
+        "votos": 7,
+        "candidato": "Melba Jacome",
+        "value": 2.04
+    },
+    {
+        "parroquia": "MILTON REYES",
+        "id": 6805,
+        "votos": 3,
+        "candidato": "Melba Jacome",
+        "value": 0.92
+    },
+    {
+        "parroquia": "HUALTACO",
+        "id": 6800,
+        "votos": 2,
+        "candidato": "Melba Jacome",
+        "value": 0.49
+    },
+    {
+        "parroquia": "HUAQUILLAS",
+        "id": 5460,
+        "votos": 326,
+        "candidato": "Melba Jacome",
+        "value": 1.57
+    }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "CAMPOZANO",
+    "id": 460,
+    "votos": 1623,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 42.46
+  },
+  {
+    "parroquia": "CASCOL",
+    "id": 540,
+    "votos": 1897,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 35.23
+  },
+  {
+    "parroquia": "GUALE/STO.DOMINGO",
+    "id": 1395,
+    "votos": 920,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 26.82
+  },
+  {
+    "parroquia": "LASCANO",
+    "id": 2090,
+    "votos": 744,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 28.97
+  },
+  {
+    "parroquia": "PAJÁN",
+    "id": 5755,
+    "votos": 6846,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 47.69
+  }
+]

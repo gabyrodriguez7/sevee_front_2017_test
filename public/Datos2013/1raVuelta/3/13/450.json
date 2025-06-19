@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "SANTA MARIANITA",
+        "id": 1800,
+        "votos": 22,
+        "candidato": "Wray Norman",
+        "value": 1.57368
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 3550,
+        "votos": 9,
+        "candidato": "Wray Norman",
+        "value": 0.52144
+    },
+    {
+        "parroquia": "LOS ESTEROS",
+        "id": 5570,
+        "votos": 146,
+        "candidato": "Wray Norman",
+        "value": 0.97
+    },
+    {
+        "parroquia": "MANTA",
+        "id": 5635,
+        "votos": 641,
+        "candidato": "Wray Norman",
+        "value": 1.24
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 6135,
+        "votos": 3,
+        "candidato": "Wray Norman",
+        "value": 0.14
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 6155,
+        "votos": 481,
+        "candidato": "Wray Norman",
+        "value": 0.9
+    },
+    {
+        "parroquia": "ELOY ALFARO",
+        "id": 6745,
+        "votos": 107,
+        "candidato": "Wray Norman",
+        "value": 0.65
+    }
+]

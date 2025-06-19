@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "EL PANGUI",
+    "id": 6355,
+    "votos": 137,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 5.29
+  },
+  {
+    "parroquia": "PACHICUTZA",
+    "id": 1015,
+    "votos": 35,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 8.06
+  },
+  {
+    "parroquia": "TUNDAYME",
+    "id": 945,
+    "votos": 4,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.85
+  },
+  {
+    "parroquia": "EL GUISMI",
+    "id": 665,
+    "votos": 31,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 5.87
+  }
+]

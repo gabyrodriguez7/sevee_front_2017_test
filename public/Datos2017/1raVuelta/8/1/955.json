@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "AMALUZA",
+    "id": 85,
+    "votos": 10,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.67
+  },
+  {
+    "parroquia": "PALMAS",
+    "id": 2725,
+    "votos": 38,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.21
+  },
+  {
+    "parroquia": "SEVILLA DE ORO",
+    "id": 6480,
+    "votos": 29,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.68
+  }
+]

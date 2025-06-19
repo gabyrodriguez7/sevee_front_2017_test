@@ -1,0 +1,107 @@
+[
+  {
+    "parroquia": "ALAQUEZ",
+    "id": 35,
+    "votos": 54,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.17
+  },
+  {
+    "parroquia": "BELISARIO QUEVEDO",
+    "id": 315,
+    "votos": 40,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.16
+  },
+  {
+    "parroquia": "GUAYTACAMA",
+    "id": 1485,
+    "votos": 56,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.93
+  },
+  {
+    "parroquia": "JOSEGUANGO BAJO",
+    "id": 1905,
+    "votos": 13,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.08
+  },
+  {
+    "parroquia": "MULALÓ",
+    "id": 2480,
+    "votos": 56,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.95
+  },
+  {
+    "parroquia": "11 DE NOVIEMBRE",
+    "id": 2620,
+    "votos": 24,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.58
+  },
+  {
+    "parroquia": "POALO",
+    "id": 2920,
+    "votos": 47,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.26
+  },
+  {
+    "parroquia": "SAN JUAN DE PASTOCALLE",
+    "id": 3530,
+    "votos": 91,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.32
+  },
+  {
+    "parroquia": "TANICUCHÍ",
+    "id": 3965,
+    "votos": 94,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.1
+  },
+  {
+    "parroquia": "TOACAZO",
+    "id": 4035,
+    "votos": 82,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.23
+  },
+  {
+    "parroquia": "ELOY ALFÁRO / SAN FELIPE",
+    "id": 5310,
+    "votos": 255,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.19
+  },
+  {
+    "parroquia": "IGNACIO FLORES",
+    "id": 5465,
+    "votos": 162,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.37
+  },
+  {
+    "parroquia": "JUAN MONTALVO",
+    "id": 5500,
+    "votos": 163,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.42
+  },
+  {
+    "parroquia": "LA MATRIZ",
+    "id": 5555,
+    "votos": 133,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.62
+  },
+  {
+    "parroquia": "SAN BUENAVENTURA",
+    "id": 5940,
+    "votos": 39,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.05
+  }
+]

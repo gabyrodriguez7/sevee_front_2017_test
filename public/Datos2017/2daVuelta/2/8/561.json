@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "CHONTADURO",
+    "id": 930,
+    "votos": 1130,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 68.99
+  },
+  {
+    "parroquia": "CHUMUNDÉ",
+    "id": 965,
+    "votos": 1124,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 67.31
+  },
+  {
+    "parroquia": "LAGARTO",
+    "id": 2035,
+    "votos": 1798,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 68.86
+  },
+  {
+    "parroquia": "MONTALVO / HORQUETA",
+    "id": 2445,
+    "votos": 1670,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 69.67
+  },
+  {
+    "parroquia": "ROCAFUERTE",
+    "id": 3215,
+    "votos": 2170,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 68.61
+  },
+  {
+    "parroquia": "RÍO VERDE",
+    "id": 6720,
+    "votos": 2482,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 64.04
+  }
+]

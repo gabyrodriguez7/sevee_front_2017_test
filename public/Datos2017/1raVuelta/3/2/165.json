@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "SAN LUIS DE PAMBIL",
+    "id": 795,
+    "votos": 1110,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 32.99
+  },
+  {
+    "parroquia": "FACUNDO VELA",
+    "id": 1255,
+    "votos": 347,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 27.22
+  },
+  {
+    "parroquia": "JULIO E MORENO",
+    "id": 1890,
+    "votos": 184,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 17.61
+  },
+  {
+    "parroquia": "SALINAS",
+    "id": 3285,
+    "votos": 747,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 31.55
+  },
+  {
+    "parroquia": "SAN LORENZO",
+    "id": 3545,
+    "votos": 314,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 25.4
+  },
+  {
+    "parroquia": "SAN SIMÓN",
+    "id": 3670,
+    "votos": 576,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 25.92
+  },
+  {
+    "parroquia": "SANTA FE",
+    "id": 3710,
+    "votos": 352,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 27.33
+  },
+  {
+    "parroquia": "SIMIATUG",
+    "id": 3860,
+    "votos": 1450,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 30.1
+  },
+  {
+    "parroquia": "ÁNGEL POLIVIO CHÁVEZ",
+    "id": 5035,
+    "votos": 1968,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 22.9
+  },
+  {
+    "parroquia": "GABRIEL I VEINTIMILLA",
+    "id": 5375,
+    "votos": 2935,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 20.87
+  },
+  {
+    "parroquia": "GUANUJO",
+    "id": 6630,
+    "votos": 2775,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 19.58
+  }
+]

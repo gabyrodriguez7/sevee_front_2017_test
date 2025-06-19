@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 1075,
+        "votos": 3,
+        "candidato": "Wray Norman",
+        "value": 0.8823529
+    },
+    {
+        "parroquia": "EL PARAISO",
+        "id": 1080,
+        "votos": 2,
+        "candidato": "Wray Norman",
+        "value": 0.5
+    },
+    {
+        "parroquia": "LA LIBERTAD",
+        "id": 1100,
+        "votos": 3,
+        "candidato": "Wray Norman",
+        "value": 0.57361
+    },
+    {
+        "parroquia": "LA VICTORIA/LAS LAJAS",
+        "id": 6335,
+        "votos": 14,
+        "candidato": "Wray Norman",
+        "value": 0.7
+    },
+    {
+        "parroquia": "PLATANILLOS",
+        "id": 6950,
+        "votos": 1,
+        "candidato": "Wray Norman",
+        "value": 0.28
+    }
+]

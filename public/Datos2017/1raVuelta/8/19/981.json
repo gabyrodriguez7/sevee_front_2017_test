@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "BELLAVISTA",
+    "id": 455,
+    "votos": 0,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0
+  },
+  {
+    "parroquia": "NUEVO QUITO",
+    "id": 1120,
+    "votos": 5,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.62
+  },
+  {
+    "parroquia": "PAQUISHA",
+    "id": 6885,
+    "votos": 19,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.29
+  }
+]

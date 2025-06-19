@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "PALO QUEMADO",
+    "id": 815,
+    "votos": 5,
+    "candidato": "Zavala Nelson",
+    "value": 1.23
+  },
+  {
+    "parroquia": "CHUGCHILAN",
+    "id": 960,
+    "votos": 21,
+    "candidato": "Zavala Nelson",
+    "value": 0.69
+  },
+  {
+    "parroquia": "ISINLIVI",
+    "id": 1735,
+    "votos": 19,
+    "candidato": "Zavala Nelson",
+    "value": 1.36
+  },
+  {
+    "parroquia": "LAS PAMPAS",
+    "id": 2115,
+    "votos": 2,
+    "candidato": "Zavala Nelson",
+    "value": 0.19
+  },
+  {
+    "parroquia": "SIGCHOS",
+    "id": 6450,
+    "votos": 25,
+    "candidato": "Zavala Nelson",
+    "value": 0.49
+  }
+]

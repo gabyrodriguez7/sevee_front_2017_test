@@ -1,0 +1,38 @@
+[
+                {
+                    "parroquia": "JESUS MARIA",
+                    "id": 1830,
+                    "votos": 177,
+                    "candidato": "Lasso Guillermo",
+                    "value": 11.412
+                },
+                {
+                    "parroquia": "SAN CARLOS",
+                    "id": 3370,
+                    "votos": 211,
+                    "candidato": "Lasso Guillermo",
+                    "value": 12.5446
+                },
+                {
+                    "parroquia": "SANTA ROSA DE FLANDES",
+                    "id": 3740,
+                    "votos": 111,
+                    "candidato": "Lasso Guillermo",
+                    "value": 11.3265
+                },
+                {
+                    "parroquia": "TAURA",
+                    "id": 3990,
+                    "votos": 271,
+                    "candidato": "Lasso Guillermo",
+                    "value": 6.9097
+                },
+                {
+                    "parroquia": "NARANJAL",
+                    "id": 5675,
+                    "votos": 4593,
+                    "candidato": "Lasso Guillermo",
+                    "value": 16.0881
+                }
+            ]
+            

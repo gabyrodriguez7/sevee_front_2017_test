@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "SOZORANGA",
+    "id": 6120,
+    "votos": 34,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.31
+  },
+  {
+    "parroquia": "TACAMOROS",
+    "id": 3935,
+    "votos": 12,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.11
+  },
+  {
+    "parroquia": "NUEVA FATIMA",
+    "id": 2575,
+    "votos": 9,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.2
+  }
+]

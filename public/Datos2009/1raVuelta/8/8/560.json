@@ -1,0 +1,93 @@
+[
+  {
+    "parroquia": "SIMON PLATA TORRES",
+    "id": 6905,
+    "votos": 61,
+    "candidato": "Lucio Gutierrez",
+    "value": 14.59
+  },
+  {
+    "parroquia": "LUIS TELLO / LAS PALMAS /",
+    "id": 5600,
+    "votos": 791,
+    "candidato": "Lucio Gutierrez",
+    "value": 14.78
+  },
+  {
+    "parroquia": "ESMERALDAS",
+    "id": 5335,
+    "votos": 4086,
+    "candidato": "Lucio Gutierrez",
+    "value": 17.35
+  },
+  {
+    "parroquia": "5 DE AGOSTO",
+    "id": 5210,
+    "votos": 3653,
+    "candidato": "Lucio Gutierrez",
+    "value": 17.22
+  },
+  {
+    "parroquia": "BARTOLOME RUIZ",
+    "id": 5205,
+    "votos": 2176,
+    "candidato": "Lucio Gutierrez",
+    "value": 15.61
+  },
+  {
+    "parroquia": "VUELTA LARGA",
+    "id": 4240,
+    "votos": 1845,
+    "candidato": "Lucio Gutierrez",
+    "value": 16.82
+  },
+  {
+    "parroquia": "TACHINA",
+    "id": 3940,
+    "votos": 169,
+    "candidato": "Lucio Gutierrez",
+    "value": 10.92
+  },
+  {
+    "parroquia": "TABIAZO",
+    "id": 3930,
+    "votos": 137,
+    "candidato": "Lucio Gutierrez",
+    "value": 13.55
+  },
+  {
+    "parroquia": "SAN MATEO",
+    "id": 3570,
+    "votos": 334,
+    "candidato": "Lucio Gutierrez",
+    "value": 19.33
+  },
+  {
+    "parroquia": "MAJUA",
+    "id": 2320,
+    "votos": 83,
+    "candidato": "Lucio Gutierrez",
+    "value": 13.87
+  },
+  {
+    "parroquia": "CHINCA",
+    "id": 895,
+    "votos": 166,
+    "candidato": "Lucio Gutierrez",
+    "value": 15.63
+  },
+  {
+    "parroquia": "CRNL.CARLOS CONCHA TORRES",
+    "id": 655,
+    "votos": 145,
+    "candidato": "Lucio Gutierrez",
+    "value": 31.11
+  },
+  {
+    "parroquia": "CAMARONES",
+    "id": 450,
+    "votos": 125,
+    "candidato": "Lucio Gutierrez",
+    "value": 16.49
+  }
+]

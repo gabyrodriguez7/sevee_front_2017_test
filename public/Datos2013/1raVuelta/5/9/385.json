@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "GUAYAS / PUERTO NUEVO",
+        "id": 1470,
+        "votos": 177,
+        "candidato": "Gutierrez Lucio",
+        "value": 7.8
+    },
+    {
+        "parroquia": "EL ROSARIO",
+        "id": 1640,
+        "votos": 211,
+        "candidato": "Gutierrez Lucio",
+        "value": 8.258
+    },
+    {
+        "parroquia": "VELASCO IBARRA",
+        "id": 6225,
+        "votos": 2362,
+        "candidato": "Gutierrez Lucio",
+        "value": 5.599
+    }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "PALMA ROJA",
+    "id": 2720,
+    "votos": 814,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 47.57
+  },
+  {
+    "parroquia": "PUERTO BOLÍVAR",
+    "id": 3005,
+    "votos": 33,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 50.77
+  },
+  {
+    "parroquia": "PUERTO RODRÍGUEZ",
+    "id": 3020,
+    "votos": 86,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 72.27
+  },
+  {
+    "parroquia": "SANTA ELENA",
+    "id": 3705,
+    "votos": 348,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 57.62
+  },
+  {
+    "parroquia": "EL CARMEN DE PUTUMAYO",
+    "id": 6500,
+    "votos": 865,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 45.31
+  }
+]

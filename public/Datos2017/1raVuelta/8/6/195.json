@@ -1,0 +1,114 @@
+[
+  {
+    "parroquia": "CACHA",
+    "id": 420,
+    "votos": 133,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 6.32
+  },
+  {
+    "parroquia": "CALPI",
+    "id": 445,
+    "votos": 161,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.76
+  },
+  {
+    "parroquia": "CUBIJÍES",
+    "id": 705,
+    "votos": 80,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 5.27
+  },
+  {
+    "parroquia": "FLORES",
+    "id": 1280,
+    "votos": 102,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.38
+  },
+  {
+    "parroquia": "LICAN",
+    "id": 2160,
+    "votos": 163,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.3
+  },
+  {
+    "parroquia": "LICTO",
+    "id": 2165,
+    "votos": 207,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.82
+  },
+  {
+    "parroquia": "PUNGALÁ",
+    "id": 3035,
+    "votos": 85,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.44
+  },
+  {
+    "parroquia": "PUNÍN",
+    "id": 3040,
+    "votos": 168,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.15
+  },
+  {
+    "parroquia": "QUIMIAG",
+    "id": 3095,
+    "votos": 121,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.46
+  },
+  {
+    "parroquia": "SAN JUAN",
+    "id": 3515,
+    "votos": 164,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.08
+  },
+  {
+    "parroquia": "SAN LUIS",
+    "id": 3560,
+    "votos": 150,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.57
+  },
+  {
+    "parroquia": "LIZARZABURU",
+    "id": 5590,
+    "votos": 914,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.48
+  },
+  {
+    "parroquia": "MALDONADO",
+    "id": 5630,
+    "votos": 714,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.89
+  },
+  {
+    "parroquia": "VELASCO",
+    "id": 6220,
+    "votos": 660,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.5
+  },
+  {
+    "parroquia": "VELOZ",
+    "id": 6230,
+    "votos": 392,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.42
+  },
+  {
+    "parroquia": "YARUQUÍES",
+    "id": 6290,
+    "votos": 200,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.8
+  }
+]

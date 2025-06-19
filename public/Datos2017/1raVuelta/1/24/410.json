@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "ATAHUALPA",
+    "id": 205,
+    "votos": 723,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 32.3924731
+  },
+  {
+    "parroquia": "COLONCHE",
+    "id": 605,
+    "votos": 4262,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 22.878308
+  },
+  {
+    "parroquia": "CHANDUY",
+    "id": 820,
+    "votos": 2072,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 22.4753227
+  },
+  {
+    "parroquia": "SAN JOSÉ DE ANCÓN",
+    "id": 1300,
+    "votos": 1031,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 29.7546898
+  },
+  {
+    "parroquia": "MANGLARALTO",
+    "id": 2355,
+    "votos": 4970,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 27.2433262
+  },
+  {
+    "parroquia": "SIMÓN BOLÍVAR",
+    "id": 3915,
+    "votos": 373,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 20.5509642
+  },
+  {
+    "parroquia": "BALLENITA",
+    "id": 5130,
+    "votos": 567,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 38.1561238
+  },
+  {
+    "parroquia": "SANTA ELENA",
+    "id": 6040,
+    "votos": 11960,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 31.3556878
+  }
+]

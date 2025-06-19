@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "LA SUSAYA",
+        "id": 6680,
+        "votos": 50,
+        "candidato": "Rafael Correa Delgado",
+        "value": 74.62
+    },
+    {
+        "parroquia": "PIÑAS GRANDE",
+        "id": 6675,
+        "votos": 14,
+        "candidato": "Rafael Correa Delgado",
+        "value": 82.35
+    },
+    {
+        "parroquia": "PIÑAS",
+        "id": 5790,
+        "votos": 7155,
+        "candidato": "Rafael Correa Delgado",
+        "value": 74.66
+    },
+    {
+        "parroquia": "SAN ROQUE",
+        "id": 3650,
+        "votos": 302,
+        "candidato": "Rafael Correa Delgado",
+        "value": 87.03
+    },
+    {
+        "parroquia": "PIEDRAS",
+        "id": 2850,
+        "votos": 276,
+        "candidato": "Rafael Correa Delgado",
+        "value": 77.31
+    },
+    {
+        "parroquia": "MOROMORO",
+        "id": 2465,
+        "votos": 608,
+        "candidato": "Rafael Correa Delgado",
+        "value": 81.83
+    },
+    {
+        "parroquia": "LA BOCANA",
+        "id": 2230,
+        "votos": 451,
+        "candidato": "Rafael Correa Delgado",
+        "value": 80.53
+    },
+    {
+        "parroquia": "SARACAY",
+        "id": 1385,
+        "votos": 363,
+        "candidato": "Rafael Correa Delgado",
+        "value": 72.02
+    },
+    {
+        "parroquia": "CAPIRO",
+        "id": 505,
+        "votos": 501,
+        "candidato": "Rafael Correa Delgado",
+        "value": 88.98
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "EL TRIUNFO",
+        "id": 6895,
+        "votos": 8,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.21
+    },
+    {
+        "parroquia": "EL CARMEN",
+        "id": 6880,
+        "votos": 6,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 0.73
+    },
+    {
+        "parroquia": "LA MANA",
+        "id": 6535,
+        "votos": 161,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.01
+    },
+    {
+        "parroquia": "PUCAYACO",
+        "id": 2965,
+        "votos": 19,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.55
+    },
+    {
+        "parroquia": "GUASAGANDA",
+        "id": 1500,
+        "votos": 6,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 0.59
+    }
+]

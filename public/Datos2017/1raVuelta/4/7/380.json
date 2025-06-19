@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "LA IBERIA",
+    "id": 245,
+    "votos": 304,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 16.66
+  },
+  {
+    "parroquia": "BARBONES",
+    "id": 300,
+    "votos": 352,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.37
+  },
+  {
+    "parroquia": "RÍO BONITO",
+    "id": 2050,
+    "votos": 189,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.3
+  },
+  {
+    "parroquia": "TENDALES",
+    "id": 4000,
+    "votos": 207,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.8
+  },
+  {
+    "parroquia": "EL GUABO",
+    "id": 5340,
+    "votos": 3420,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 15.15
+  }
+]

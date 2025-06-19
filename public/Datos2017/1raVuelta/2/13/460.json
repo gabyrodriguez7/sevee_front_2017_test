@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "BELLAVISTA",
+    "id": 330,
+    "votos": 450,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 16.05
+  },
+  {
+    "parroquia": "ARQ.SIXTO DURÁN BALLÉN",
+    "id": 1570,
+    "votos": 199,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 13.35
+  },
+  {
+    "parroquia": "NOBOA",
+    "id": 2555,
+    "votos": 320,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.45
+  },
+  {
+    "parroquia": "SUCRE",
+    "id": 6105,
+    "votos": 1109,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.88
+  }
+]

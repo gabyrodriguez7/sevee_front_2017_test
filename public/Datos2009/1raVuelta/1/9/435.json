@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "NARANJAL",
+        "id": 5675,
+        "votos": 593,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.7
+    },
+    {
+        "parroquia": "TAURA",
+        "id": 3990,
+        "votos": 70,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.71
+    },
+    {
+        "parroquia": "SANTA ROSA DE FLANDES",
+        "id": 3740,
+        "votos": 3,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 0.63
+    },
+    {
+        "parroquia": "SAN CARLOS",
+        "id": 3370,
+        "votos": 12,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.27
+    },
+    {
+        "parroquia": "JESUS MARIA",
+        "id": 1830,
+        "votos": 31,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.85
+    }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "GUARE",
+    "id": 1460,
+    "votos": 58,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.49
+  },
+  {
+    "parroquia": "ISLA DE BEJUCAL",
+    "id": 1740,
+    "votos": 33,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.75
+  },
+  {
+    "parroquia": "BABA",
+    "id": 5085,
+    "votos": 140,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.95
+  }
+]

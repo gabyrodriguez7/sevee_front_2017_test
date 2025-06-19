@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "LUMBAQUI",
+        "id": 6300,
+        "votos": 1058,
+        "candidato": "Rafael Correa Delgado",
+        "value": 57.41
+    },
+    {
+        "parroquia": "PUERTO LIBRE",
+        "id": 3615,
+        "votos": 299,
+        "candidato": "Rafael Correa Delgado",
+        "value": 77.26
+    },
+    {
+        "parroquia": "GONZALO PIZARRO",
+        "id": 1090,
+        "votos": 480,
+        "candidato": "Rafael Correa Delgado",
+        "value": 41.42
+    },
+    {
+        "parroquia": "EL REVENTADOR",
+        "id": 230,
+        "votos": 327,
+        "candidato": "Rafael Correa Delgado",
+        "value": 52.74
+    }
+]

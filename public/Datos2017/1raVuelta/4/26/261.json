@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "C. E. EN MILAN",
+    "id": 9043,
+    "votos": 3580,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 31.86
+  },
+  {
+    "parroquia": "C. E. EN GENOVA",
+    "id": 9044,
+    "votos": 2297,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 38.81
+  },
+  {
+    "parroquia": "C. E. EN ROMA",
+    "id": 9045,
+    "votos": 746,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 25.16
+  }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "COJIMIES",
+        "id": 580,
+        "votos": 71,
+        "candidato": "Gutierrez Lucio",
+        "value": 2.0
+    },
+    {
+        "parroquia": "ATAHUALPA",
+        "id": 785,
+        "votos": 74,
+        "candidato": "Gutierrez Lucio",
+        "value": 7.0
+    },
+    {
+        "parroquia": "10 DE AGOSTO",
+        "id": 1030,
+        "votos": 87,
+        "candidato": "Gutierrez Lucio",
+        "value": 5.0
+    },
+    {
+        "parroquia": "PEDERNALES",
+        "id": 6430,
+        "votos": 829,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.0
+    }
+]

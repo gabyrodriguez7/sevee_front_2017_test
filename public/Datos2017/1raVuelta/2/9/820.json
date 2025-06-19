@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "ELOY ALFARO /DURÁN",
+    "id": 6525,
+    "votos": 2299,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.24
+  },
+  {
+    "parroquia": "EL RECREO",
+    "id": 7455,
+    "votos": 462,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.92
+  },
+  {
+    "parroquia": "DIVINO NIÑO",
+    "id": 7515,
+    "votos": 392,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.49
+  }
+]

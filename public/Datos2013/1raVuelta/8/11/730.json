@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CHAQUINAL",
+        "id": 835,
+        "votos": 6,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 0.933
+    },
+    {
+        "parroquia": "12 DE DICIEMBRE",
+        "id": 1035,
+        "votos": 12,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.4
+    },
+    {
+        "parroquia": "MILAGROS",
+        "id": 4545,
+        "votos": 19,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.0
+    },
+    {
+        "parroquia": "PINDAL /FEDERICO PAEZ",
+        "id": 5810,
+        "votos": 27,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.04
+    }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "CHAQUINAL",
+    "id": 835,
+    "votos": 27,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.03
+  },
+  {
+    "parroquia": "12 DE DICIEMBRE",
+    "id": 1035,
+    "votos": 29,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.21
+  },
+  {
+    "parroquia": "MILAGROS",
+    "id": 4545,
+    "votos": 27,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.51
+  },
+  {
+    "parroquia": "PINDAL /FEDERÍCO PÁEZ",
+    "id": 5810,
+    "votos": 84,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.86
+  }
+]

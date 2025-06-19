@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "ANCONCITO",
+        "id": 115,
+        "votos": 18,
+        "candidato": "Wray Norman",
+        "value": 0.0
+    },
+    {
+        "parroquia": "JOSE LUIS TAMAYO / MUEY",
+        "id": 1850,
+        "votos": 62,
+        "candidato": "Wray Norman",
+        "value": 0.6706
+    },
+    {
+        "parroquia": "SALINAS",
+        "id": 5920,
+        "votos": 94,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "GRAL. A. E. GALLO",
+        "id": 6270,
+        "votos": 9,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "VICENTE ROCAFUERTE",
+        "id": 6275,
+        "votos": 16,
+        "candidato": "Wray Norman",
+        "value": 0.8
+    },
+    {
+        "parroquia": "CARLOS ESPINOZA LARREA",
+        "id": 6280,
+        "votos": 12,
+        "candidato": "Wray Norman",
+        "value": 0.404
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 6925,
+        "votos": 22,
+        "candidato": "Wray Norman",
+        "value": 0.8
+    }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "BACHILLERO",
+    "id": 265,
+    "votos": 279,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.17
+  },
+  {
+    "parroquia": "ANGEL PEDRO GILER",
+    "id": 2030,
+    "votos": 388,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.58
+  },
+  {
+    "parroquia": "TOSAGUA",
+    "id": 6170,
+    "votos": 2151,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.68
+  }
+]

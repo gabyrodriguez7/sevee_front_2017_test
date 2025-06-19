@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "EL CARMELO/EL PUN/",
+        "id": 1125,
+        "votos": 23,
+        "candidato": "Wray Norman",
+        "value": 1.42
+    },
+    {
+        "parroquia": "EL CHICAL",
+        "id": 1195,
+        "votos": 18,
+        "candidato": "Wray Norman",
+        "value": 1.75
+    },
+    {
+        "parroquia": "SANTA MARTHA DE CUBA",
+        "id": 1765,
+        "votos": 13,
+        "candidato": "Wray Norman",
+        "value": 1.009
+    },
+    {
+        "parroquia": "JULIO ANDRADE",
+        "id": 1885,
+        "votos": 97,
+        "candidato": "Wray Norman",
+        "value": 1.63
+    },
+    {
+        "parroquia": "MALDONADO",
+        "id": 2340,
+        "votos": 6,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "PIOTER",
+        "id": 2900,
+        "votos": 3,
+        "candidato": "Wray Norman",
+        "value": 0.6
+    },
+    {
+        "parroquia": "TOBAR DONOSO",
+        "id": 4040,
+        "votos": 5,
+        "candidato": "Wray Norman",
+        "value": 2.7
+    },
+    {
+        "parroquia": "TUFIÑO",
+        "id": 4070,
+        "votos": 11,
+        "candidato": "Wray Norman",
+        "value": 0.67
+    },
+    {
+        "parroquia": "URBINA",
+        "id": 4130,
+        "votos": 10,
+        "candidato": "Wray Norman",
+        "value": 1.19
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 5415,
+        "votos": 314,
+        "candidato": "Wray Norman",
+        "value": 2.0
+    },
+    {
+        "parroquia": "TULCAN",
+        "id": 6165,
+        "votos": 381,
+        "candidato": "Wray Norman",
+        "value": 2.0
+    }
+]

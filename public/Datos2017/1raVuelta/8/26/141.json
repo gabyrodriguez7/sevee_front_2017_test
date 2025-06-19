@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "C. E. EN BEIJING",
+    "id": 9020,
+    "votos": 2,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.33
+  },
+  {
+    "parroquia": "C. E. EN SHANGAI",
+    "id": 9068,
+    "votos": 3,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 8.11
+  },
+  {
+    "parroquia": "C. E. EN GUANZHOU",
+    "id": 9075,
+    "votos": 0,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0
+  }
+]

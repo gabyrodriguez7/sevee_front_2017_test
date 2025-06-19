@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "PIARTAL",
+    "id": 250,
+    "votos": 63,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.82
+  },
+  {
+    "parroquia": "CRISTÓBAL COLÓN",
+    "id": 690,
+    "votos": 257,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.58
+  },
+  {
+    "parroquia": "CHITÁN DE NAVARRETES",
+    "id": 910,
+    "votos": 31,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.45
+  },
+  {
+    "parroquia": "FERNÁNDEZ SALVADOR",
+    "id": 1270,
+    "votos": 68,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.32
+  },
+  {
+    "parroquia": "LA PAZ",
+    "id": 2065,
+    "votos": 299,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.79
+  },
+  {
+    "parroquia": "GONZALEZ SUÁREZ",
+    "id": 5405,
+    "votos": 1163,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 16.08
+  },
+  {
+    "parroquia": "SAN JOSÉ",
+    "id": 5970,
+    "votos": 1063,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 14.38
+  }
+]

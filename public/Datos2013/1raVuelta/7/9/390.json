@@ -1,0 +1,142 @@
+[
+    {
+        "parroquia": "FEBRES CORDERO",
+        "id": 5355,
+        "votos": 7571,
+        "candidato": "Zavala Nelson",
+        "value": 3.039
+    },
+    {
+        "parroquia": "XIMENA",
+        "id": 6265,
+        "votos": 7905,
+        "candidato": "Zavala Nelson",
+        "value": 2.607
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 6150,
+        "votos": 6964,
+        "candidato": "Zavala Nelson",
+        "value": 1.77
+    },
+    {
+        "parroquia": "PASCUALES",
+        "id": 6405,
+        "votos": 2601,
+        "candidato": "Zavala Nelson",
+        "value": 2.01
+    },
+    {
+        "parroquia": "JUAN GOMEZ RENDON",
+        "id": 1870,
+        "votos": 184,
+        "candidato": "Zavala Nelson",
+        "value": 3.5
+    },
+    {
+        "parroquia": "MORRO",
+        "id": 2470,
+        "votos": 49,
+        "candidato": "Zavala Nelson",
+        "value": 2.0
+    },
+    {
+        "parroquia": "POSORJA",
+        "id": 2940,
+        "votos": 200,
+        "candidato": "Zavala Nelson",
+        "value": 1.8
+    },
+    {
+        "parroquia": "PUNA",
+        "id": 3030,
+        "votos": 79,
+        "candidato": "Zavala Nelson",
+        "value": 2.0
+    },
+    {
+        "parroquia": "TENGUEL",
+        "id": 4120,
+        "votos": 121,
+        "candidato": "Zavala Nelson",
+        "value": 2.0
+    },
+    {
+        "parroquia": "AYACUCHO",
+        "id": 5055,
+        "votos": 288,
+        "candidato": "Zavala Nelson",
+        "value": 2.0
+    },
+    {
+        "parroquia": "BOLIVAR/SAGRARIO",
+        "id": 5125,
+        "votos": 257,
+        "candidato": "Zavala Nelson",
+        "value": 2.0
+    },
+    {
+        "parroquia": "CARBO/CONCEPCION",
+        "id": 5170,
+        "votos": 437,
+        "candidato": "Zavala Nelson",
+        "value": 2.0
+    },
+    {
+        "parroquia": "GARCIA MORENO",
+        "id": 5380,
+        "votos": 952,
+        "candidato": "Zavala Nelson",
+        "value": 2.0
+    },
+    {
+        "parroquia": "LETAMENDI",
+        "id": 5585,
+        "votos": 1936,
+        "candidato": "Zavala Nelson",
+        "value": 2.6
+    },
+    {
+        "parroquia": "9 DE OCTUBRE",
+        "id": 5695,
+        "votos": 189,
+        "candidato": "Zavala Nelson",
+        "value": 2.0
+    },
+    {
+        "parroquia": "OLMEDO/SAN ALEJO",
+        "id": 5720,
+        "votos": 224,
+        "candidato": "Zavala Nelson",
+        "value": 2.0
+    },
+    {
+        "parroquia": "ROCA",
+        "id": 5880,
+        "votos": 211,
+        "candidato": "Zavala Nelson",
+        "value": 2.0
+    },
+    {
+        "parroquia": "ROCAFUERTE",
+        "id": 5890,
+        "votos": 213,
+        "candidato": "Zavala Nelson",
+        "value": 2.0
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 6095,
+        "votos": 258,
+        "candidato": "Zavala Nelson",
+        "value": 1.89
+    },
+    {
+        "parroquia": "URDANETA",
+        "id": 6185,
+        "votos": 526,
+        "candidato": "Zavala Nelson",
+        "value": 2.22
+    }
+]

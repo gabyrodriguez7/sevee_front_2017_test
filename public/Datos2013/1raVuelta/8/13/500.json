@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "WILFRIDO LOOR MOREIRA",
+        "id": 1070,
+        "votos": 19,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.246
+    },
+    {
+        "parroquia": "SAN PEDRO DE SUMA",
+        "id": 1980,
+        "votos": 31,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.6
+    },
+    {
+        "parroquia": "EL CARMEN",
+        "id": 5300,
+        "votos": 1327,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.7
+    },
+    {
+        "parroquia": "4 DE DICIEMBRE",
+        "id": 6202,
+        "votos": 0,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 0.0
+    }
+]

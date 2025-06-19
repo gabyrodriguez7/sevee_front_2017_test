@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "27 DE SEPTIEMBRE",
+        "id": 6250,
+        "votos": 36,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 4.94
+    },
+    {
+        "parroquia": "EL ANGEL",
+        "id": 5295,
+        "votos": 129,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 4.28
+    },
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 3435,
+        "votos": 67,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.38
+    },
+    {
+        "parroquia": "LA LIBERTAD",
+        "id": 2040,
+        "votos": 59,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.61
+    },
+    {
+        "parroquia": "EL GOALTAL / LAS JUNTAS",
+        "id": 1150,
+        "votos": 4,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 0.85
+    }
+]

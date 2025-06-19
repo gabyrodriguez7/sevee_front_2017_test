@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CHUGA",
+        "id": 955,
+        "votos": 2,
+        "candidato": "Wray Norman",
+        "value": 0.0
+    },
+    {
+        "parroquia": "MARIANO ACOSTA",
+        "id": 2380,
+        "votos": 11,
+        "candidato": "Wray Norman",
+        "value": 0.9
+    },
+    {
+        "parroquia": "SAN FRANCISCO DE SIGSIPAMBA",
+        "id": 3415,
+        "votos": 4,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "PIMAMPIRO",
+        "id": 5750,
+        "votos": 105,
+        "candidato": "Wray Norman",
+        "value": 1.5
+    }
+]

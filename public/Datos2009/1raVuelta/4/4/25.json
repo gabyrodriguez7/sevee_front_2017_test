@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "BOLIVAR",
+        "id": 6520,
+        "votos": 2099,
+        "candidato": "Rafael Correa Delgado",
+        "value": 68.95
+    },
+    {
+        "parroquia": "SAN VICENTE DE PUSIR",
+        "id": 3680,
+        "votos": 794,
+        "candidato": "Rafael Correa Delgado",
+        "value": 83.49
+    },
+    {
+        "parroquia": "MONTEOLIVO",
+        "id": 2455,
+        "votos": 682,
+        "candidato": "Rafael Correa Delgado",
+        "value": 69.37
+    },
+    {
+        "parroquia": "LOS ANDES",
+        "id": 2205,
+        "votos": 806,
+        "candidato": "Rafael Correa Delgado",
+        "value": 69.48
+    },
+    {
+        "parroquia": "GARCIA MORENO",
+        "id": 1315,
+        "votos": 657,
+        "candidato": "Rafael Correa Delgado",
+        "value": 64.16
+    },
+    {
+        "parroquia": "SAN RAFAEL",
+        "id": 1055,
+        "votos": 584,
+        "candidato": "Rafael Correa Delgado",
+        "value": 76.74
+    }
+]

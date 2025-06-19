@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "CANI",
+    "id": 500,
+    "votos": 9,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.58
+  },
+  {
+    "parroquia": "COLUMBE",
+    "id": 610,
+    "votos": 128,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.25
+  },
+  {
+    "parroquia": "JUAN DE VELASCO / PONGOR",
+    "id": 1865,
+    "votos": 28,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.65
+  },
+  {
+    "parroquia": "SANTIAGO DE QUITO",
+    "id": 4430,
+    "votos": 20,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.6
+  },
+  {
+    "parroquia": "CAJABAMBA",
+    "id": 5145,
+    "votos": 86,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.19
+  },
+  {
+    "parroquia": "SICALPA",
+    "id": 6080,
+    "votos": 82,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.36
+  }
+]

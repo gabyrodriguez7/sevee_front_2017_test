@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "CANGONAMA",
+        "id": 485,
+        "votos": 303,
+        "candidato": "Correa Delgado Rafael",
+        "value": 52.97
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 545,
+        "votos": 209,
+        "candidato": "Correa Delgado Rafael",
+        "value": 57.9
+    },
+    {
+        "parroquia": "CASANGA",
+        "id": 995,
+        "votos": 296,
+        "candidato": "Correa Delgado Rafael",
+        "value": 69.2
+    },
+    {
+        "parroquia": "YAMANA",
+        "id": 1000,
+        "votos": 293,
+        "candidato": "Correa Delgado Rafael",
+        "value": 58.250497
+    },
+    {
+        "parroquia": "GUACHANAMA",
+        "id": 1380,
+        "votos": 339,
+        "candidato": "Correa Delgado Rafael",
+        "value": 52.0
+    },
+    {
+        "parroquia": "LAURO GUERRERO",
+        "id": 2140,
+        "votos": 489,
+        "candidato": "Correa Delgado Rafael",
+        "value": 51.5
+    },
+    {
+        "parroquia": "ORIANGA",
+        "id": 2630,
+        "votos": 586,
+        "candidato": "Correa Delgado Rafael",
+        "value": 58.0
+    },
+    {
+        "parroquia": "CATACOCHA",
+        "id": 5180,
+        "votos": 3995,
+        "candidato": "Correa Delgado Rafael",
+        "value": 46.928227
+    },
+    {
+        "parroquia": "LOURDES",
+        "id": 5595,
+        "votos": 291,
+        "candidato": "Correa Delgado Rafael",
+        "value": 44.8
+    }
+]

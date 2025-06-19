@@ -1,0 +1,191 @@
+[
+  {
+    "parroquia": "AMBATILLO",
+    "id": 95,
+    "votos": 200,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 7.0
+  },
+  {
+    "parroquia": "ATAHUALPA /CHIPZALATA",
+    "id": 190,
+    "votos": 530,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 10.0
+  },
+  {
+    "parroquia": "AUGUSTO N MARTINEZ",
+    "id": 210,
+    "votos": 487,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 8.0
+  },
+  {
+    "parroquia": "CONSTANTINO FERNANDEZ",
+    "id": 635,
+    "votos": 102,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 6.3
+  },
+  {
+    "parroquia": "CUNCHIBAMBA",
+    "id": 800,
+    "votos": 163,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 8.0
+  },
+  {
+    "parroquia": "UNAMUNCHO",
+    "id": 810,
+    "votos": 93,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 7.0
+  },
+  {
+    "parroquia": "HUACHI GRANDE",
+    "id": 1625,
+    "votos": 459,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 9.0
+  },
+  {
+    "parroquia": "IZAMBA",
+    "id": 1745,
+    "votos": 1046,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 9.0
+  },
+  {
+    "parroquia": "JUAN BENIGNO VELA",
+    "id": 1860,
+    "votos": 259,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 5.66
+  },
+  {
+    "parroquia": "MONTALVO",
+    "id": 2435,
+    "votos": 161,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 7.8
+  },
+  {
+    "parroquia": "PASA",
+    "id": 2775,
+    "votos": 162,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 3.9
+  },
+  {
+    "parroquia": "PICAYHUA",
+    "id": 2830,
+    "votos": 927,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 10.0
+  },
+  {
+    "parroquia": "PILAHUIN",
+    "id": 2860,
+    "votos": 295,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 5.06
+  },
+  {
+    "parroquia": "QUISAPINCHA",
+    "id": 3120,
+    "votos": 330,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 5.35
+  },
+  {
+    "parroquia": "SAN BARTOLOME",
+    "id": 3355,
+    "votos": 478,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 9.4373
+  },
+  {
+    "parroquia": "SAN FERNANDO",
+    "id": 3380,
+    "votos": 54,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 3.71
+  },
+  {
+    "parroquia": "SANTA ROSA",
+    "id": 3730,
+    "votos": 684,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 7.0
+  },
+  {
+    "parroquia": "TOTORAS",
+    "id": 4065,
+    "votos": 370,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 9.303
+  },
+  {
+    "parroquia": "ATOCHA FICOA",
+    "id": 5045,
+    "votos": 945,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 10.4
+  },
+  {
+    "parroquia": "CELIANO MONGE",
+    "id": 5230,
+    "votos": 177,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 9.286464
+  },
+  {
+    "parroquia": "HUACHI LORETO",
+    "id": 5445,
+    "votos": 3839,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 10.0
+  },
+  {
+    "parroquia": "HUACHI CHICO",
+    "id": 5455,
+    "votos": 1905,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 10.0
+  },
+  {
+    "parroquia": "LA MATRIZ",
+    "id": 5545,
+    "votos": 2156,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 10.1
+  },
+  {
+    "parroquia": "LA MERCED",
+    "id": 5560,
+    "votos": 1502,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 9.4
+  },
+  {
+    "parroquia": "LA PENINSULA",
+    "id": 5605,
+    "votos": 117,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 9.3
+  },
+  {
+    "parroquia": "PISHILATA",
+    "id": 5840,
+    "votos": 179,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 10.0
+  },
+  {
+    "parroquia": "SAN FRANCISCO",
+    "id": 5945,
+    "votos": 546,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 10.0
+  }
+]

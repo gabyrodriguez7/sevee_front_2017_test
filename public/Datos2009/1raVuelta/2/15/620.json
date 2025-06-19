@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "TENA",
+        "id": 6160,
+        "votos": 22,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.14
+    },
+    {
+        "parroquia": "PUERTO NAPO",
+        "id": 3050,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.14
+    },
+    {
+        "parroquia": "PUERTO MISAHUALLI",
+        "id": 3000,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.16
+    },
+    {
+        "parroquia": "PANO",
+        "id": 2755,
+        "votos": 0,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.0
+    },
+    {
+        "parroquia": "TALAG",
+        "id": 1930,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.26
+    },
+    {
+        "parroquia": "CHONTAPUNTA",
+        "id": 940,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.13
+    },
+    {
+        "parroquia": "AHUANO",
+        "id": 25,
+        "votos": 6,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.27
+    }
+]

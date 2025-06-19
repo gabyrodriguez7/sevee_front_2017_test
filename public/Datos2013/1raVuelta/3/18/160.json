@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "YANAYACU MOCHAPATA",
+        "id": 4310,
+        "votos": 18,
+        "candidato": "Wray Norman",
+        "value": 2.05
+    },
+    {
+        "parroquia": "RUMIPAMBA",
+        "id": 4550,
+        "votos": 16,
+        "candidato": "Wray Norman",
+        "value": 1.92
+    },
+    {
+        "parroquia": "QUERO",
+        "id": 5835,
+        "votos": 154,
+        "candidato": "Wray Norman",
+        "value": 1.39
+    }
+]

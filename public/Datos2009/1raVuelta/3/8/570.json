@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "MUISNE",
+    "id": 5670,
+    "votos": 27,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.54
+  },
+  {
+    "parroquia": "SAN JOSE DE CHAMANGA",
+    "id": 3470,
+    "votos": 8,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.62
+  },
+  {
+    "parroquia": "SAN GREGORIO",
+    "id": 3430,
+    "votos": 16,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 1.36
+  },
+  {
+    "parroquia": "SAN FRANCISCO",
+    "id": 3390,
+    "votos": 4,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.54
+  },
+  {
+    "parroquia": "SALIMA",
+    "id": 3280,
+    "votos": 1,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.26
+  },
+  {
+    "parroquia": "QUINGUE",
+    "id": 3125,
+    "votos": 1,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.3
+  },
+  {
+    "parroquia": "GALERA",
+    "id": 1305,
+    "votos": 1,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.2
+  },
+  {
+    "parroquia": "DAULE",
+    "id": 1010,
+    "votos": 3,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.78
+  },
+  {
+    "parroquia": "BOLIVAR",
+    "id": 355,
+    "votos": 3,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.89
+  }
+]

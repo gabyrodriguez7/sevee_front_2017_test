@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CHONTADURO",
+        "id": 930,
+        "votos": 74,
+        "candidato": "Acosta Alberto",
+        "value": 6.6
+    },
+    {
+        "parroquia": "CHUMUNDE",
+        "id": 965,
+        "votos": 69,
+        "candidato": "Acosta Alberto",
+        "value": 7.727
+    },
+    {
+        "parroquia": "LAGARTO",
+        "id": 2035,
+        "votos": 113,
+        "candidato": "Acosta Alberto",
+        "value": 5.667
+    },
+    {
+        "parroquia": "MONTALVO / HORQUETA",
+        "id": 2445,
+        "votos": 139,
+        "candidato": "Acosta Alberto",
+        "value": 7.73
+    },
+    {
+        "parroquia": "ROCAFUERTE",
+        "id": 3215,
+        "votos": 191,
+        "candidato": "Acosta Alberto",
+        "value": 7.49
+    },
+    {
+        "parroquia": "RIO VERDE",
+        "id": 6720,
+        "votos": 216,
+        "candidato": "Acosta Alberto",
+        "value": 7.3270014
+    }
+]

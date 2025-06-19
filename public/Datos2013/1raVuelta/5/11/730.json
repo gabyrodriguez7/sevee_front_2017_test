@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CHAQUINAL",
+        "id": 835,
+        "votos": 41,
+        "candidato": "Gutierrez Lucio",
+        "value": 6.376
+    },
+    {
+        "parroquia": "12 DE DICIEMBRE",
+        "id": 1035,
+        "votos": 40,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.8
+    },
+    {
+        "parroquia": "MILAGROS",
+        "id": 4545,
+        "votos": 70,
+        "candidato": "Gutierrez Lucio",
+        "value": 6.0
+    },
+    {
+        "parroquia": "PINDAL /FEDERICO PAEZ",
+        "id": 5810,
+        "votos": 72,
+        "candidato": "Gutierrez Lucio",
+        "value": 2.79
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "parroquia": "AMBUQUI/CHOTA",
+        "id": 100,
+        "votos": 24,
+        "candidato": "Wray Norman",
+        "value": 0.723
+    },
+    {
+        "parroquia": "ANGOCHAGUA",
+        "id": 130,
+        "votos": 26,
+        "candidato": "Wray Norman",
+        "value": 1.033
+    },
+    {
+        "parroquia": "CAROLINA /GUALLUPI",
+        "id": 530,
+        "votos": 16,
+        "candidato": "Wray Norman",
+        "value": 0.99
+    },
+    {
+        "parroquia": "LA ESPERANZA",
+        "id": 2020,
+        "votos": 51,
+        "candidato": "Wray Norman",
+        "value": 1.1121
+    },
+    {
+        "parroquia": "LITA",
+        "id": 2185,
+        "votos": 16,
+        "candidato": "Wray Norman",
+        "value": 0.956
+    },
+    {
+        "parroquia": "SALINAS",
+        "id": 3290,
+        "votos": 5,
+        "candidato": "Wray Norman",
+        "value": 0.417
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3315,
+        "votos": 173,
+        "candidato": "Wray Norman",
+        "value": 1.6705
+    },
+    {
+        "parroquia": "CARANQUI",
+        "id": 5165,
+        "votos": 208,
+        "candidato": "Wray Norman",
+        "value": 2.2584
+    },
+    {
+        "parroquia": "GUAYAQUIL DE ALPACHACA",
+        "id": 5440,
+        "votos": 78,
+        "candidato": "Wray Norman",
+        "value": 1.3074
+    },
+    {
+        "parroquia": "SAGRARIO",
+        "id": 5915,
+        "votos": 660,
+        "candidato": "Wray Norman",
+        "value": 1.8267
+    },
+    {
+        "parroquia": "SAN FRANCISCO",
+        "id": 5960,
+        "votos": 680,
+        "candidato": "Wray Norman",
+        "value": 2.0
+    },
+    {
+        "parroquia": "LA DOLOROSA DEL PRIORATO",
+        "id": 6780,
+        "votos": 28,
+        "candidato": "Wray Norman",
+        "value": 1.8592
+    }
+]

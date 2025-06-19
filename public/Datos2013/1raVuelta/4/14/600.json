@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "INDANZA",
+        "id": 1720,
+        "votos": 94,
+        "candidato": "Acosta Alberto",
+        "value": 14.351
+    },
+    {
+        "parroquia": "SAN MIGUEL DE CONCHAY",
+        "id": 3250,
+        "votos": 214,
+        "candidato": "Acosta Alberto",
+        "value": 48.9
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3320,
+        "votos": 126,
+        "candidato": "Acosta Alberto",
+        "value": 42.0
+    },
+    {
+        "parroquia": "SANTA SUSANA DE CHIVIAZA",
+        "id": 3760,
+        "votos": 81,
+        "candidato": "Acosta Alberto",
+        "value": 21.0
+    },
+    {
+        "parroquia": "YUNGANZA /EL ROSARIO",
+        "id": 4305,
+        "votos": 173,
+        "candidato": "Acosta Alberto",
+        "value": 40.4205607
+    },
+    {
+        "parroquia": "GRAL. LEONIDAS PLAZA",
+        "id": 5390,
+        "votos": 571,
+        "candidato": "Acosta Alberto",
+        "value": 18.1847134
+    }
+]

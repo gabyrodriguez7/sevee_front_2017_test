@@ -1,0 +1,38 @@
+[
+                {
+                    "parroquia": "TONSUPA",
+                    "id": 1615,
+                    "votos": 853,
+                    "candidato": "Lasso Guillermo",
+                    "value": 23.57
+                },
+                {
+                    "parroquia": "LA UNION",
+                    "id": 2130,
+                    "votos": 273,
+                    "candidato": "Lasso Guillermo",
+                    "value": 24.5
+                },
+                {
+                    "parroquia": "SUA/BOCANA",
+                    "id": 3880,
+                    "votos": 312,
+                    "candidato": "Lasso Guillermo",
+                    "value": 18.8
+                },
+                {
+                    "parroquia": "TONCHIGUE",
+                    "id": 4055,
+                    "votos": 611,
+                    "candidato": "Lasso Guillermo",
+                    "value": 16.1
+                },
+                {
+                    "parroquia": "ATACAMES",
+                    "id": 6380,
+                    "votos": 2353,
+                    "candidato": "Lasso Guillermo",
+                    "value": 27.3
+                }
+            ]
+            

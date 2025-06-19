@@ -1,0 +1,30 @@
+[
+	{
+		"parroquia": "CHACRAS",
+		"id": 805,
+		"votos": 171,
+		"candidato": "Lasso Guillermo",
+		"value": 25.110132
+	},
+	{
+		"parroquia": "CARCABON",
+		"id": 1695,
+		"votos": 82,
+		"candidato": "Lasso Guillermo",
+		"value": 25.2
+	},
+	{
+		"parroquia": "PALMALES",
+		"id": 2715,
+		"votos": 386,
+		"candidato": "Lasso Guillermo",
+		"value": 25.0
+	},
+	{
+		"parroquia": "ARENILLAS",
+		"id": 5040,
+		"votos": 4151,
+		"candidato": "Lasso Guillermo",
+		"value": 31.328302
+	}
+]

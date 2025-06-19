@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "CHICANA",
+        "id": 985,
+        "votos": 106,
+        "candidato": "Gutierrez Lucio",
+        "value": 9.1
+    },
+    {
+        "parroquia": "LOS ENCUENTROS",
+        "id": 2240,
+        "votos": 111,
+        "candidato": "Gutierrez Lucio",
+        "value": 7.06556
+    },
+    {
+        "parroquia": "YANZATZA",
+        "id": 6295,
+        "votos": 882,
+        "candidato": "Gutierrez Lucio",
+        "value": 11.784
+    }
+]

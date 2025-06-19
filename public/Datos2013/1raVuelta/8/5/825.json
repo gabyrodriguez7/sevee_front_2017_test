@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "GUASAGANDA",
+        "id": 1500,
+        "votos": 65,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 5.2
+    },
+    {
+        "parroquia": "PUCAYACO",
+        "id": 2965,
+        "votos": 72,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.38
+    },
+    {
+        "parroquia": "LA MANA",
+        "id": 6535,
+        "votos": 2047,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 10.6
+    },
+    {
+        "parroquia": "EL CARMEN",
+        "id": 6880,
+        "votos": 141,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 10.3
+    },
+    {
+        "parroquia": "EL TRIUNFO",
+        "id": 6895,
+        "votos": 88,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 9.0
+    }
+]

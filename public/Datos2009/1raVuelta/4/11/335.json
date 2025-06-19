@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "GONZANAMA",
+        "id": 5400,
+        "votos": 1166,
+        "candidato": "Rafael Correa Delgado",
+        "value": 52.71
+    },
+    {
+        "parroquia": "SACAPALCA",
+        "id": 3270,
+        "votos": 559,
+        "candidato": "Rafael Correa Delgado",
+        "value": 74.73
+    },
+    {
+        "parroquia": "PURUNUMA /EGUIGUREN",
+        "id": 3045,
+        "votos": 342,
+        "candidato": "Rafael Correa Delgado",
+        "value": 61.07
+    },
+    {
+        "parroquia": "NAMBACOLA",
+        "id": 2520,
+        "votos": 1289,
+        "candidato": "Rafael Correa Delgado",
+        "value": 75.91
+    },
+    {
+        "parroquia": "CHANGAIMINA /LA LIBERTAD",
+        "id": 825,
+        "votos": 794,
+        "candidato": "Rafael Correa Delgado",
+        "value": 65.72
+    }
+]

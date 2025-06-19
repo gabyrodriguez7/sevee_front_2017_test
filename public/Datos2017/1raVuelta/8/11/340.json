@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "BELLAVISTA",
+    "id": 320,
+    "votos": 11,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.96
+  },
+  {
+    "parroquia": "EL INGENIO",
+    "id": 790,
+    "votos": 16,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.6
+  },
+  {
+    "parroquia": "EL AIRO",
+    "id": 1645,
+    "votos": 10,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.05
+  },
+  {
+    "parroquia": "JIMBURA",
+    "id": 1845,
+    "votos": 17,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.5
+  },
+  {
+    "parroquia": "SANTA TERESITA",
+    "id": 3765,
+    "votos": 14,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.57
+  },
+  {
+    "parroquia": "27 DE ABRIL /LA NARANJA",
+    "id": 4460,
+    "votos": 28,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.6
+  },
+  {
+    "parroquia": "AMALUZA",
+    "id": 5020,
+    "votos": 60,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.83
+  }
+]

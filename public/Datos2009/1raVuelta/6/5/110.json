@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "SAN MIGUEL DE SALCEDO",
+        "id": 6000,
+        "votos": 207,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.19
+    },
+    {
+        "parroquia": "PANZALEO",
+        "id": 2760,
+        "votos": 22,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.28
+    },
+    {
+        "parroquia": "MULLIQUINDIL",
+        "id": 2490,
+        "votos": 35,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.95
+    },
+    {
+        "parroquia": "MULALILLO",
+        "id": 2475,
+        "votos": 26,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.8
+    },
+    {
+        "parroquia": "CUSUBAMBA",
+        "id": 745,
+        "votos": 24,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.77
+    },
+    {
+        "parroquia": "ANTONIO J. HOLGUIN",
+        "id": 135,
+        "votos": 13,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.88
+    }
+]

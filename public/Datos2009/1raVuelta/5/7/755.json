@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "LA VICTORIA/LAS LAJAS",
+        "id": 6335,
+        "votos": 15,
+        "candidato": "Melba Jacome",
+        "value": 0.73
+    },
+    {
+        "parroquia": "LA LIBERTAD",
+        "id": 1100,
+        "votos": 0,
+        "candidato": "Melba Jacome",
+        "value": 0.0
+    },
+    {
+        "parroquia": "EL PARAISO",
+        "id": 1080,
+        "votos": 3,
+        "candidato": "Melba Jacome",
+        "value": 1.09
+    },
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 1075,
+        "votos": 0,
+        "candidato": "Melba Jacome",
+        "value": 0.0
+    }
+]

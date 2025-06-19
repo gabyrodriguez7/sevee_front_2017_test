@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "PINDAL /FEDERICO PAEZ",
+        "id": 5810,
+        "votos": 11,
+        "candidato": "Melba Jacome",
+        "value": 0.36
+    },
+    {
+        "parroquia": "12 DE DICIEMBRE",
+        "id": 1035,
+        "votos": 7,
+        "candidato": "Melba Jacome",
+        "value": 1.1
+    },
+    {
+        "parroquia": "CHAQUINAL",
+        "id": 835,
+        "votos": 4,
+        "candidato": "Melba Jacome",
+        "value": 0.76
+    }
+]

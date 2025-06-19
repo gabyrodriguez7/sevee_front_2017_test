@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "JUAN MONTALVO",
+        "id": 5495,
+        "votos": 3,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.23
+    },
+    {
+        "parroquia": "CAYAMBE",
+        "id": 5190,
+        "votos": 162,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.72
+    },
+    {
+        "parroquia": "AYORA",
+        "id": 5060,
+        "votos": 37,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 1.57
+    },
+    {
+        "parroquia": "STA.ROSA DE CUSUBAMBA",
+        "id": 3735,
+        "votos": 8,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.51
+    },
+    {
+        "parroquia": "OTON",
+        "id": 2635,
+        "votos": 9,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.71
+    },
+    {
+        "parroquia": "OLMEDO/PESILLO",
+        "id": 2600,
+        "votos": 12,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.34
+    },
+    {
+        "parroquia": "CANGAHUA",
+        "id": 480,
+        "votos": 46,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 1.0
+    },
+    {
+        "parroquia": "ASCAZUBI",
+        "id": 165,
+        "votos": 6,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.3
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CANI",
+        "id": 500,
+        "votos": 21,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.962
+    },
+    {
+        "parroquia": "COLUMBE",
+        "id": 610,
+        "votos": 467,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.46
+    },
+    {
+        "parroquia": "JUAN DE VELASCO / PONGOR",
+        "id": 1865,
+        "votos": 43,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.78
+    },
+    {
+        "parroquia": "SANTIAGO DE QUITO",
+        "id": 4430,
+        "votos": 32,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.34
+    },
+    {
+        "parroquia": "CAJABAMBA",
+        "id": 5145,
+        "votos": 274,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.71
+    },
+    {
+        "parroquia": "SICALPA",
+        "id": 6080,
+        "votos": 267,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.3457
+    }
+]

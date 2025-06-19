@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "COTUNDO",
+    "id": 685,
+    "votos": 239,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.97
+  },
+  {
+    "parroquia": "SAN PABLO DE USHPAYACU",
+    "id": 3605,
+    "votos": 145,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.86
+  },
+  {
+    "parroquia": "HATUN SUMAKU",
+    "id": 4630,
+    "votos": 80,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.84
+  },
+  {
+    "parroquia": "ARCHIDONA",
+    "id": 5070,
+    "votos": 540,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.73
+  }
+]

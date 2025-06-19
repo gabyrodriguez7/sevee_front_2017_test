@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "AVILA",
+    "id": 215,
+    "votos": 731,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 35.87
+  },
+  {
+    "parroquia": "SAN VICENTE DE HUATICOCHA",
+    "id": 400,
+    "votos": 229,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 36.01
+  },
+  {
+    "parroquia": "PUERTO MURIALDO",
+    "id": 1050,
+    "votos": 710,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 45.14
+  },
+  {
+    "parroquia": "SAN JOSÉ DE DAHUANO",
+    "id": 1680,
+    "votos": 924,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 42.58
+  },
+  {
+    "parroquia": "SAN JOS\u00ef\u00bf\u00bd DE PAYAMINO",
+    "id": 3480,
+    "votos": 458,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 33.09
+  },
+  {
+    "parroquia": "LORETO",
+    "id": 6455,
+    "votos": 1647,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 40.36
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "EL REVENTADOR",
+    "id": 230,
+    "votos": 15,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.83
+  },
+  {
+    "parroquia": "GONZALO PIZARRO",
+    "id": 1090,
+    "votos": 17,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.89
+  },
+  {
+    "parroquia": "PUERTO LIBRE",
+    "id": 3615,
+    "votos": 2,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.3
+  },
+  {
+    "parroquia": "LUMBAQUÍ",
+    "id": 6300,
+    "votos": 30,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.18
+  }
+]

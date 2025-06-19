@@ -1,0 +1,457 @@
+[
+                {
+                    "parroquia": "COTOCOLLAO",
+                    "id": 5220,
+                    "votos": 262,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.5
+                },
+                {
+                    "parroquia": "BELISARIO QUEVEDO",
+                    "id": 7130,
+                    "votos": 121,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.0
+                },
+                {
+                    "parroquia": "CARCELEN",
+                    "id": 7135,
+                    "votos": 78,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.297619
+                },
+                {
+                    "parroquia": "COCHAPAMBA",
+                    "id": 7145,
+                    "votos": 161,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.65
+                },
+                {
+                    "parroquia": "COMITE DEL PUEBLO",
+                    "id": 7150,
+                    "votos": 101,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.541
+                },
+                {
+                    "parroquia": "EL CONDADO",
+                    "id": 7160,
+                    "votos": 192,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.59325176
+                },
+                {
+                    "parroquia": "IÑAQUITO",
+                    "id": 7170,
+                    "votos": 205,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.377
+                },
+                {
+                    "parroquia": "ITCHIMBIA",
+                    "id": 7175,
+                    "votos": 163,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.478
+                },
+                {
+                    "parroquia": "JIPIJAPA",
+                    "id": 7180,
+                    "votos": 143,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.372
+                },
+                {
+                    "parroquia": "KENNEDY",
+                    "id": 7185,
+                    "votos": 170,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.388936
+                },
+                {
+                    "parroquia": "LA CONCEPCION",
+                    "id": 7195,
+                    "votos": 99,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.433412
+                },
+                {
+                    "parroquia": "MARISCAL SUCRE",
+                    "id": 7215,
+                    "votos": 120,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.521399
+                },
+                {
+                    "parroquia": "PONCEANO",
+                    "id": 7220,
+                    "votos": 103,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.41881836
+                },
+                {
+                    "parroquia": "RUMIPAMBA",
+                    "id": 7235,
+                    "votos": 123,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.3
+                },
+                {
+                    "parroquia": "SAN ISIDRO DEL INCA",
+                    "id": 7245,
+                    "votos": 71,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.4
+                },
+                {
+                    "parroquia": "SAN JUAN",
+                    "id": 7250,
+                    "votos": 191,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.5
+                },
+                {
+                    "parroquia": "CHIMBACALLE",
+                    "id": 5015,
+                    "votos": 313,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.5
+                },
+                {
+                    "parroquia": "CHILLOGALLO",
+                    "id": 5260,
+                    "votos": 330,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.567
+                },
+                {
+                    "parroquia": "LA LIBERTAD",
+                    "id": 5535,
+                    "votos": 149,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.919
+                },
+                {
+                    "parroquia": "LA MAGDALENA",
+                    "id": 5540,
+                    "votos": 371,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.5148
+                },
+                {
+                    "parroquia": "CENTRO HISTORICO",
+                    "id": 7140,
+                    "votos": 417,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.6766
+                },
+                {
+                    "parroquia": "CHILIBULO",
+                    "id": 7155,
+                    "votos": 98,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.583
+                },
+                {
+                    "parroquia": "GUAMANI",
+                    "id": 7165,
+                    "votos": 153,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.59
+                },
+                {
+                    "parroquia": "LA ARGELIA",
+                    "id": 7190,
+                    "votos": 97,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.6
+                },
+                {
+                    "parroquia": "LA ECUATORIANA",
+                    "id": 7200,
+                    "votos": 129,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.57
+                },
+                {
+                    "parroquia": "LA FERROVIARIA",
+                    "id": 7205,
+                    "votos": 170,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.5588
+                },
+                {
+                    "parroquia": "LA MENA",
+                    "id": 7210,
+                    "votos": 113,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.5879
+                },
+                {
+                    "parroquia": "PUENGASI",
+                    "id": 7225,
+                    "votos": 67,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.3931
+                },
+                {
+                    "parroquia": "QUITUMBE",
+                    "id": 7230,
+                    "votos": 147,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.603
+                },
+                {
+                    "parroquia": "SAN BARTOLO",
+                    "id": 7240,
+                    "votos": 238,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.57
+                },
+                {
+                    "parroquia": "SOLANDA",
+                    "id": 7255,
+                    "votos": 185,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.6
+                },
+                {
+                    "parroquia": "TURUBAMBA",
+                    "id": 7260,
+                    "votos": 135,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.7
+                },
+                {
+                    "parroquia": "ALANGASI",
+                    "id": 30,
+                    "votos": 36,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.3
+                },
+                {
+                    "parroquia": "AMAGUAÑA",
+                    "id": 80,
+                    "votos": 116,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.7
+                },
+                {
+                    "parroquia": "ATAHUALPA /HABASPAMBA",
+                    "id": 195,
+                    "votos": 3,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.242
+                },
+                {
+                    "parroquia": "CALACALI",
+                    "id": 430,
+                    "votos": 15,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.519
+                },
+                {
+                    "parroquia": "CALDERON",
+                    "id": 440,
+                    "votos": 368,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.473
+                },
+                {
+                    "parroquia": "CONOCOTO",
+                    "id": 625,
+                    "votos": 214,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.5
+                },
+                {
+                    "parroquia": "CUMBAYA",
+                    "id": 725,
+                    "votos": 55,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.256961
+                },
+                {
+                    "parroquia": "CHAVEZPAMBA",
+                    "id": 855,
+                    "votos": 3,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.572519
+                },
+                {
+                    "parroquia": "CHECA",
+                    "id": 865,
+                    "votos": 18,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.446872
+                },
+                {
+                    "parroquia": "GUALEA",
+                    "id": 1400,
+                    "votos": 1,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.08953
+                },
+                {
+                    "parroquia": "GUANGOPOLO",
+                    "id": 1440,
+                    "votos": 4,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.20294
+                },
+                {
+                    "parroquia": "GUAYLLABAMBA",
+                    "id": 1475,
+                    "votos": 64,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.73026
+                },
+                {
+                    "parroquia": "LA MERCED",
+                    "id": 2055,
+                    "votos": 13,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.32427
+                },
+                {
+                    "parroquia": "LLANO CHICO",
+                    "id": 2265,
+                    "votos": 27,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.5027
+                },
+                {
+                    "parroquia": "LLOA",
+                    "id": 2275,
+                    "votos": 2,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.146199
+                },
+                {
+                    "parroquia": "NANEGAL",
+                    "id": 2525,
+                    "votos": 11,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.745257
+                },
+                {
+                    "parroquia": "NANEGALITO",
+                    "id": 2530,
+                    "votos": 8,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.4
+                },
+                {
+                    "parroquia": "NAYON",
+                    "id": 2540,
+                    "votos": 46,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.72
+                },
+                {
+                    "parroquia": "NONO",
+                    "id": 2560,
+                    "votos": 2,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.20346
+                },
+                {
+                    "parroquia": "PACTO",
+                    "id": 2690,
+                    "votos": 19,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.769
+                },
+                {
+                    "parroquia": "PERUCHO",
+                    "id": 2825,
+                    "votos": 2,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.383
+                },
+                {
+                    "parroquia": "PIFO",
+                    "id": 2855,
+                    "votos": 40,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.423
+                },
+                {
+                    "parroquia": "PINTAG",
+                    "id": 2895,
+                    "votos": 86,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.7691
+                },
+                {
+                    "parroquia": "POMASQUI",
+                    "id": 2925,
+                    "votos": 90,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.458
+                },
+                {
+                    "parroquia": "PUELLARO",
+                    "id": 2980,
+                    "votos": 11,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.27
+                },
+                {
+                    "parroquia": "PUEMBO",
+                    "id": 2985,
+                    "votos": 19,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.25
+                },
+                {
+                    "parroquia": "QUINCHE",
+                    "id": 3100,
+                    "votos": 37,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.361
+                },
+                {
+                    "parroquia": "SAN ANTONIO",
+                    "id": 3325,
+                    "votos": 77,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.416
+                },
+                {
+                    "parroquia": "SAN JOSE DE MINAS",
+                    "id": 3475,
+                    "votos": 16,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.39
+                },
+                {
+                    "parroquia": "TABABELA",
+                    "id": 3925,
+                    "votos": 6,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.442
+                },
+                {
+                    "parroquia": "TUMBACO",
+                    "id": 4085,
+                    "votos": 126,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.39774
+                },
+                {
+                    "parroquia": "YARUQUI",
+                    "id": 4290,
+                    "votos": 33,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.30746
+                },
+                {
+                    "parroquia": "ZAMBIZA",
+                    "id": 4325,
+                    "votos": 22,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.65809
+                }
+            ]

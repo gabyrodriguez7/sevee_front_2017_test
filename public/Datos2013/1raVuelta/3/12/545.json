@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "ZAPOTAL",
+        "id": 4330,
+        "votos": 18,
+        "candidato": "Wray Norman",
+        "value": 0.454087
+    },
+    {
+        "parroquia": "LOS ANGELES",
+        "id": 4585,
+        "votos": 0,
+        "candidato": "Wray Norman",
+        "value": 0.0
+    },
+    {
+        "parroquia": "CHACARITA",
+        "id": 4590,
+        "votos": 2,
+        "candidato": "Wray Norman",
+        "value": 0.346
+    },
+    {
+        "parroquia": "VENTANAS",
+        "id": 6235,
+        "votos": 132,
+        "candidato": "Wray Norman",
+        "value": 0.41517
+    },
+    {
+        "parroquia": "10 DE NOVIEMBRE",
+        "id": 7480,
+        "votos": 5,
+        "candidato": "Wray Norman",
+        "value": 0.71429
+    }
+]

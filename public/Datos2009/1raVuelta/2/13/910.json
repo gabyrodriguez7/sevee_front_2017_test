@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "PEDERNALES",
+        "id": 6430,
+        "votos": 58,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.4
+    },
+    {
+        "parroquia": "10 DE AGOSTO",
+        "id": 1030,
+        "votos": 9,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.67
+    },
+    {
+        "parroquia": "ATAHUALPA",
+        "id": 785,
+        "votos": 4,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.5
+    },
+    {
+        "parroquia": "COJIMIES",
+        "id": 580,
+        "votos": 8,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.4
+    }
+]

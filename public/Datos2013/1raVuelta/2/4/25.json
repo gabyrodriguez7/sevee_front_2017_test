@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "SAN RAFAEL",
+        "id": 1055,
+        "votos": 705,
+        "candidato": "Correa Delgado Rafael",
+        "value": 74.5243
+    },
+    {
+        "parroquia": "GARCIA MORENO",
+        "id": 1315,
+        "votos": 674,
+        "candidato": "Correa Delgado Rafael",
+        "value": 62.0
+    },
+    {
+        "parroquia": "LOS ANDES",
+        "id": 2205,
+        "votos": 1013,
+        "candidato": "Correa Delgado Rafael",
+        "value": 72.0
+    },
+    {
+        "parroquia": "MONTEOLIVO",
+        "id": 2455,
+        "votos": 605,
+        "candidato": "Correa Delgado Rafael",
+        "value": 55.0
+    },
+    {
+        "parroquia": "SAN VICENTE DE PUSIR",
+        "id": 3680,
+        "votos": 1005,
+        "candidato": "Correa Delgado Rafael",
+        "value": 83.1
+    },
+    {
+        "parroquia": "BOLIVAR",
+        "id": 6520,
+        "votos": 2098,
+        "candidato": "Correa Delgado Rafael",
+        "value": 61.0
+    }
+]

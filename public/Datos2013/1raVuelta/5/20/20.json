@@ -1,0 +1,20 @@
+[
+    {
+        "id": 800,
+        "candidato": "Gutierrez Lucio",
+        "votos": 110,
+        "value": 2.7
+    },
+    {
+        "id": 805,
+        "candidato": "Gutierrez Lucio",
+        "votos": 182,
+        "value": 2.4
+    },
+    {
+        "id": 810,
+        "candidato": "Gutierrez Lucio",
+        "votos": 17,
+        "value": 1.306
+    }
+]

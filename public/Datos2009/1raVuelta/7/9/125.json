@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "COLIMES",
+        "id": 5365,
+        "votos": 783,
+        "candidato": "Alvaro Noboa",
+        "value": 8.86
+    },
+    {
+        "parroquia": "SAN JACINTO",
+        "id": 1435,
+        "votos": 60,
+        "candidato": "Alvaro Noboa",
+        "value": 8.02
+    }
+]

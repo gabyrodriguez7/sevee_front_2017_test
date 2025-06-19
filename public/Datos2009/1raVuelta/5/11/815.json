@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CHAGUARPAMBA",
+        "id": 6530,
+        "votos": 11,
+        "candidato": "Melba Jacome",
+        "value": 0.49
+    },
+    {
+        "parroquia": "SANTA RUFINA",
+        "id": 3755,
+        "votos": 1,
+        "candidato": "Melba Jacome",
+        "value": 0.21
+    },
+    {
+        "parroquia": "AMARILLOS",
+        "id": 1450,
+        "votos": 0,
+        "candidato": "Melba Jacome",
+        "value": 0.0
+    },
+    {
+        "parroquia": "EL ROSARIO",
+        "id": 1180,
+        "votos": 1,
+        "candidato": "Melba Jacome",
+        "value": 0.46
+    },
+    {
+        "parroquia": "BUENAVISTA",
+        "id": 385,
+        "votos": 4,
+        "candidato": "Melba Jacome",
+        "value": 0.64
+    }
+]

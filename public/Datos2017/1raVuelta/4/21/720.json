@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "SAN PEDRO DE LOS COFANES",
+    "id": 600,
+    "votos": 279,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 16.48
+  },
+  {
+    "parroquia": "SIETE DE JULIO",
+    "id": 780,
+    "votos": 320,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 16.51
+  },
+  {
+    "parroquia": "LIMONCOCHA",
+    "id": 2175,
+    "votos": 231,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.37
+  },
+  {
+    "parroquia": "PANACOCHA",
+    "id": 2765,
+    "votos": 11,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 3.21
+  },
+  {
+    "parroquia": "SAN ROQUE",
+    "id": 3645,
+    "votos": 200,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.15
+  },
+  {
+    "parroquia": "SHUSHUFINDI CENTRAL",
+    "id": 6140,
+    "votos": 2972,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 17.58
+  }
+]

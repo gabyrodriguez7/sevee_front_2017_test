@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "ANGAMARCA",
+    "id": 125,
+    "votos": 538,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 22.63
+  },
+  {
+    "parroquia": "GUANGAJE",
+    "id": 1430,
+    "votos": 932,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 19.69
+  },
+  {
+    "parroquia": "LA VICTORIA",
+    "id": 2150,
+    "votos": 394,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 21.36
+  },
+  {
+    "parroquia": "PILALÓ",
+    "id": 2865,
+    "votos": 212,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 21.52
+  },
+  {
+    "parroquia": "TINGO",
+    "id": 4015,
+    "votos": 341,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 18.48
+  },
+  {
+    "parroquia": "ZUMBÁHUA",
+    "id": 4365,
+    "votos": 1266,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 17.5
+  },
+  {
+    "parroquia": "PUJILÍ",
+    "id": 5820,
+    "votos": 4635,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 19.69
+  }
+]

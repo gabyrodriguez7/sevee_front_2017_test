@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "EL TAMBO",
+    "id": 1200,
+    "votos": 1037,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 48.94
+  },
+  {
+    "parroquia": "GUAYQUICHUMA",
+    "id": 1480,
+    "votos": 152,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 54.29
+  },
+  {
+    "parroquia": "SAN PEDRO DE LA BENDITA",
+    "id": 3610,
+    "votos": 566,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 46.74
+  },
+  {
+    "parroquia": "ZAMBI",
+    "id": 4455,
+    "votos": 176,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 49.03
+  },
+  {
+    "parroquia": "CATAMAYO",
+    "id": 5270,
+    "votos": 7459,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 45.6
+  },
+  {
+    "parroquia": "SAN JOSÉ",
+    "id": 6825,
+    "votos": 320,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 46.72
+  }
+]

@@ -1,0 +1,457 @@
+[
+  {
+    "parroquia": "COTOCOLLAO",
+    "id": 5220,
+    "votos": 9327,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 14.1493977
+  },
+  {
+    "parroquia": "BELISARIO QUEVEDO",
+    "id": 7130,
+    "votos": 4403,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 14.4403267
+  },
+  {
+    "parroquia": "CARCELÉN",
+    "id": 7135,
+    "votos": 4240,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 14.262648
+  },
+  {
+    "parroquia": "COCHAPAMBA",
+    "id": 7145,
+    "votos": 3287,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.8574223
+  },
+  {
+    "parroquia": "COMITÉ DEL PUEBLO",
+    "id": 7150,
+    "votos": 2600,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.3450928
+  },
+  {
+    "parroquia": "EL CONDADO",
+    "id": 7160,
+    "votos": 3981,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.353525
+  },
+  {
+    "parroquia": "IÑAQUITO",
+    "id": 7170,
+    "votos": 6635,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.1611466
+  },
+  {
+    "parroquia": "ITCHIMBIA",
+    "id": 7175,
+    "votos": 4896,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.7907724
+  },
+  {
+    "parroquia": "JIPIJAPA",
+    "id": 7180,
+    "votos": 4827,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.8305999
+  },
+  {
+    "parroquia": "KENNEDY",
+    "id": 7185,
+    "votos": 7345,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 14.0633377
+  },
+  {
+    "parroquia": "LA CONCEPCIÓN",
+    "id": 7195,
+    "votos": 3319,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 14.5608493
+  },
+  {
+    "parroquia": "MARISCAL SUCRE",
+    "id": 7215,
+    "votos": 2705,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.7793263
+  },
+  {
+    "parroquia": "PONCEANO",
+    "id": 7220,
+    "votos": 3412,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 14.039419
+  },
+  {
+    "parroquia": "RUMIPAMBA",
+    "id": 7235,
+    "votos": 3964,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.6942502
+  },
+  {
+    "parroquia": "SAN ISIDRO DEL INCA",
+    "id": 7245,
+    "votos": 2645,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.5731513
+  },
+  {
+    "parroquia": "SAN JUAN",
+    "id": 7250,
+    "votos": 5059,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.2040507
+  },
+  {
+    "parroquia": "CHIMBACALLE",
+    "id": 5015,
+    "votos": 8308,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.0587865
+  },
+  {
+    "parroquia": "CHILLOGALLO",
+    "id": 5260,
+    "votos": 10552,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.3407505
+  },
+  {
+    "parroquia": "LA LIBERTAD",
+    "id": 5535,
+    "votos": 2013,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.3519666
+  },
+  {
+    "parroquia": "LA MAGDALENA",
+    "id": 5540,
+    "votos": 10136,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.9716322
+  },
+  {
+    "parroquia": "CENTRO HISTÓRICO",
+    "id": 7140,
+    "votos": 7694,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.5315569
+  },
+  {
+    "parroquia": "CHILIBULO",
+    "id": 7155,
+    "votos": 2212,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.1792183
+  },
+  {
+    "parroquia": "GUAMANÍ",
+    "id": 7165,
+    "votos": 3675,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.722862
+  },
+  {
+    "parroquia": "LA ARGELIA",
+    "id": 7190,
+    "votos": 2225,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.0230369
+  },
+  {
+    "parroquia": "LA ECUATORIANA",
+    "id": 7200,
+    "votos": 3258,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.5375202
+  },
+  {
+    "parroquia": "LA FERROVIARIA",
+    "id": 7205,
+    "votos": 3661,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.7505456
+  },
+  {
+    "parroquia": "LA MENA",
+    "id": 7210,
+    "votos": 2796,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.7045388
+  },
+  {
+    "parroquia": "PUENGASÍ",
+    "id": 7225,
+    "votos": 2652,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.3366859
+  },
+  {
+    "parroquia": "QUITUMBE",
+    "id": 7230,
+    "votos": 3815,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.1742524
+  },
+  {
+    "parroquia": "SAN BARTOLO",
+    "id": 7240,
+    "votos": 5909,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.5155535
+  },
+  {
+    "parroquia": "SOLANDA",
+    "id": 7255,
+    "votos": 5009,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.6432968
+  },
+  {
+    "parroquia": "TURUBAMBA",
+    "id": 7260,
+    "votos": 2765,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.2204543
+  },
+  {
+    "parroquia": "ALANGASÍ",
+    "id": 30,
+    "votos": 1321,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.5739214
+  },
+  {
+    "parroquia": "AMAGUAÑA",
+    "id": 80,
+    "votos": 1923,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.1616994
+  },
+  {
+    "parroquia": "ATAHUALPA /HABASPAMBA",
+    "id": 195,
+    "votos": 134,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.1746393
+  },
+  {
+    "parroquia": "CALACALÍ",
+    "id": 430,
+    "votos": 326,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.1179392
+  },
+  {
+    "parroquia": "CALDERÓN",
+    "id": 440,
+    "votos": 10909,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.0112747
+  },
+  {
+    "parroquia": "CONOCOTO",
+    "id": 625,
+    "votos": 7089,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.0087716
+  },
+  {
+    "parroquia": "CUMBAYÁ",
+    "id": 725,
+    "votos": 2552,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.4273923
+  },
+  {
+    "parroquia": "CHAVEZPAMBA",
+    "id": 855,
+    "votos": 54,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.76491863
+  },
+  {
+    "parroquia": "CHECA",
+    "id": 865,
+    "votos": 459,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.81608212
+  },
+  {
+    "parroquia": "GUALEA",
+    "id": 1400,
+    "votos": 111,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.39086294
+  },
+  {
+    "parroquia": "GUANGOPOLO",
+    "id": 1440,
+    "votos": 185,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.42057351
+  },
+  {
+    "parroquia": "GUAYLLABAMBA",
+    "id": 1475,
+    "votos": 998,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.96107396
+  },
+  {
+    "parroquia": "LA MERCED",
+    "id": 2055,
+    "votos": 364,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.9789566
+  },
+  {
+    "parroquia": "LLANO CHICO",
+    "id": 2265,
+    "votos": 693,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.9912768
+  },
+  {
+    "parroquia": "LLOA",
+    "id": 2275,
+    "votos": 136,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.08483634
+  },
+  {
+    "parroquia": "NANEGAL",
+    "id": 2525,
+    "votos": 266,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 16.7190446
+  },
+  {
+    "parroquia": "NANEGALITO",
+    "id": 2530,
+    "votos": 338,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 16.26564
+  },
+  {
+    "parroquia": "NAYÓN",
+    "id": 2540,
+    "votos": 746,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.4233617
+  },
+  {
+    "parroquia": "NONO",
+    "id": 2560,
+    "votos": 108,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.5778648
+  },
+  {
+    "parroquia": "PACTO",
+    "id": 2690,
+    "votos": 408,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 14.863388
+  },
+  {
+    "parroquia": "PERUCHO",
+    "id": 2825,
+    "votos": 80,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.864818
+  },
+  {
+    "parroquia": "PIFO",
+    "id": 2855,
+    "votos": 1295,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.0994114
+  },
+  {
+    "parroquia": "PINTAG",
+    "id": 2895,
+    "votos": 1301,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.5114325
+  },
+  {
+    "parroquia": "POMASQUI",
+    "id": 2925,
+    "votos": 2939,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.3992888
+  },
+  {
+    "parroquia": "PUELLARO",
+    "id": 2980,
+    "votos": 375,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.8989084
+  },
+  {
+    "parroquia": "PUEMBO",
+    "id": 2985,
+    "votos": 1002,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.457976
+  },
+  {
+    "parroquia": "QUINCHE",
+    "id": 3100,
+    "votos": 1274,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.2733386
+  },
+  {
+    "parroquia": "SAN ANTONIO",
+    "id": 3325,
+    "votos": 2504,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.7426374
+  },
+  {
+    "parroquia": "SAN JOSÉ DE MINAS",
+    "id": 3475,
+    "votos": 439,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.2188082
+  },
+  {
+    "parroquia": "TABABELA",
+    "id": 3925,
+    "votos": 196,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.2194514
+  },
+  {
+    "parroquia": "TUMBACO",
+    "id": 4085,
+    "votos": 4529,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.5537046
+  },
+  {
+    "parroquia": "YARUQUÍ",
+    "id": 4290,
+    "votos": 1583,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.795021
+  },
+  {
+    "parroquia": "ZAMBIZA",
+    "id": 4325,
+    "votos": 428,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.5457243
+  }
+]

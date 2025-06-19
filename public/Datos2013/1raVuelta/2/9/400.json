@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "LIMONAL",
+        "id": 260,
+        "votos": 1048,
+        "candidato": "Correa Delgado Rafael",
+        "value": 69.129
+    },
+    {
+        "parroquia": "JUAN BAUTISTA AGUIRRE",
+        "id": 1855,
+        "votos": 1709,
+        "candidato": "Correa Delgado Rafael",
+        "value": 68.22
+    },
+    {
+        "parroquia": "LAS LOJAS",
+        "id": 2105,
+        "votos": 2091,
+        "candidato": "Correa Delgado Rafael",
+        "value": 74.89
+    },
+    {
+        "parroquia": "EL LAUREL",
+        "id": 4500,
+        "votos": 2347,
+        "candidato": "Correa Delgado Rafael",
+        "value": 61.05619
+    },
+    {
+        "parroquia": "DAULE",
+        "id": 5275,
+        "votos": 36016,
+        "candidato": "Correa Delgado Rafael",
+        "value": 66.1
+    },
+    {
+        "parroquia": "LA AURORA",
+        "id": 6850,
+        "votos": 3337,
+        "candidato": "Correa Delgado Rafael",
+        "value": 51.1
+    },
+    {
+        "parroquia": "MAGRO",
+        "id": 7425,
+        "votos": 158,
+        "candidato": "Correa Delgado Rafael",
+        "value": 76.7
+    }
+]

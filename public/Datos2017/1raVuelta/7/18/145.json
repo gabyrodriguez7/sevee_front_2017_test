@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "BAQUERIZO MORENO",
+    "id": 295,
+    "votos": 3,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.27
+  },
+  {
+    "parroquia": "EMILIO MARÍA TERÁN",
+    "id": 1210,
+    "votos": 14,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.48
+  },
+  {
+    "parroquia": "MARCOS ESPINEL",
+    "id": 2375,
+    "votos": 12,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.79
+  },
+  {
+    "parroquia": "PRESIDENTE URBINA",
+    "id": 2945,
+    "votos": 16,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.46
+  },
+  {
+    "parroquia": "SAN ANDRÁS",
+    "id": 3300,
+    "votos": 144,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.96
+  },
+  {
+    "parroquia": "SAN JOSÉ DE POALO",
+    "id": 3485,
+    "votos": 17,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.09
+  },
+  {
+    "parroquia": "SAN MIGUELITO",
+    "id": 3585,
+    "votos": 44,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.3
+  },
+  {
+    "parroquia": "CIUDAD NUEVA",
+    "id": 5225,
+    "votos": 18,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.7
+  },
+  {
+    "parroquia": "PÍLLARO",
+    "id": 5785,
+    "votos": 177,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.64
+  }
+]

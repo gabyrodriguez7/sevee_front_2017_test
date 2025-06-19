@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "BELLAVISTA",
+    "id": 330,
+    "votos": 24,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.86
+  },
+  {
+    "parroquia": "ARQ.SIXTO DURÁN BALLÉN",
+    "id": 1570,
+    "votos": 18,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.21
+  },
+  {
+    "parroquia": "NOBOA",
+    "id": 2555,
+    "votos": 48,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.27
+  },
+  {
+    "parroquia": "SUCRE",
+    "id": 6105,
+    "votos": 81,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.79
+  }
+]

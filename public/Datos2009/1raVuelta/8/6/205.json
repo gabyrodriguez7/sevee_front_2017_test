@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "SICALPA",
+    "id": 6080,
+    "votos": 2000,
+    "candidato": "Lucio Gutierrez",
+    "value": 40.75
+  },
+  {
+    "parroquia": "CAJABAMBA",
+    "id": 5145,
+    "votos": 2275,
+    "candidato": "Lucio Gutierrez",
+    "value": 38.61
+  },
+  {
+    "parroquia": "SANTIAGO DE QUITO",
+    "id": 4430,
+    "votos": 246,
+    "candidato": "Lucio Gutierrez",
+    "value": 28.94
+  },
+  {
+    "parroquia": "JUAN DE VELASCO / PONGOR",
+    "id": 1865,
+    "votos": 434,
+    "candidato": "Lucio Gutierrez",
+    "value": 38.68
+  },
+  {
+    "parroquia": "COLUMBE",
+    "id": 610,
+    "votos": 3973,
+    "candidato": "Lucio Gutierrez",
+    "value": 47.06
+  },
+  {
+    "parroquia": "CANI",
+    "id": 500,
+    "votos": 182,
+    "candidato": "Lucio Gutierrez",
+    "value": 51.55
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "CHITO",
+    "id": 915,
+    "votos": 5,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.68
+  },
+  {
+    "parroquia": "EL CHORRO",
+    "id": 1145,
+    "votos": 1,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.41
+  },
+  {
+    "parroquia": "LA CHONTA",
+    "id": 2015,
+    "votos": 1,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.53
+  },
+  {
+    "parroquia": "SAN ANDRÉS",
+    "id": 2110,
+    "votos": 2,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.6
+  },
+  {
+    "parroquia": "PUCAPAMBA",
+    "id": 2955,
+    "votos": 0,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0
+  },
+  {
+    "parroquia": "ZUMBA",
+    "id": 6315,
+    "votos": 43,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.07
+  }
+]

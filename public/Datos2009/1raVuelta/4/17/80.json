@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "SAN PEDRO DE TABOADA",
+        "id": 6605,
+        "votos": 2281,
+        "candidato": "Rafael Correa Delgado",
+        "value": 67.49
+    },
+    {
+        "parroquia": "SAN RAFAEL",
+        "id": 6600,
+        "votos": 4308,
+        "candidato": "Rafael Correa Delgado",
+        "value": 47.54
+    },
+    {
+        "parroquia": "SANGOLQUI",
+        "id": 5965,
+        "votos": 21729,
+        "candidato": "Rafael Correa Delgado",
+        "value": 62.15
+    },
+    {
+        "parroquia": "RUMIPAMBA",
+        "id": 3230,
+        "votos": 108,
+        "candidato": "Rafael Correa Delgado",
+        "value": 58.7
+    },
+    {
+        "parroquia": "COTOGCHOA",
+        "id": 680,
+        "votos": 744,
+        "candidato": "Rafael Correa Delgado",
+        "value": 62.16
+    }
+]

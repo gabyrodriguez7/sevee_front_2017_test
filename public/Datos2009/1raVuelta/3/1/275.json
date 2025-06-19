@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "PAUTE",
+        "id": 5775,
+        "votos": 22,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.31
+    },
+    {
+        "parroquia": "EL CABO",
+        "id": 4565,
+        "votos": 4,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.63
+    },
+    {
+        "parroquia": "TOMEBAMBA",
+        "id": 4050,
+        "votos": 3,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.62
+    },
+    {
+        "parroquia": "SAN CRISTOBAL",
+        "id": 3375,
+        "votos": 8,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 1.08
+    },
+    {
+        "parroquia": "GUARAINAC",
+        "id": 1455,
+        "votos": 1,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.19
+    },
+    {
+        "parroquia": "DUG-DUG",
+        "id": 890,
+        "votos": 1,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.26
+    },
+    {
+        "parroquia": "CHICAN / GUILLERMO ORTEGA",
+        "id": 870,
+        "votos": 3,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.33
+    },
+    {
+        "parroquia": "BULAN / J. VICTOR IZQUIERDO",
+        "id": 395,
+        "votos": 5,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.7
+    }
+]

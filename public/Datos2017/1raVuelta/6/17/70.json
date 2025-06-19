@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "ALOAG",
+    "id": 55,
+    "votos": 80,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.33
+  },
+  {
+    "parroquia": "ALOASI",
+    "id": 60,
+    "votos": 51,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.28
+  },
+  {
+    "parroquia": "CORNEJO ASTORGA /TANDAPI",
+    "id": 650,
+    "votos": 15,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.97
+  },
+  {
+    "parroquia": "CUTUGLAGUA",
+    "id": 755,
+    "votos": 161,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.84
+  },
+  {
+    "parroquia": "CHAUPI",
+    "id": 850,
+    "votos": 10,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.11
+  },
+  {
+    "parroquia": "TAMBILLO",
+    "id": 3960,
+    "votos": 93,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.41
+  },
+  {
+    "parroquia": "UYUMBICHO",
+    "id": 4155,
+    "votos": 40,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.48
+  },
+  {
+    "parroquia": "MACHACHI",
+    "id": 5620,
+    "votos": 249,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.06
+  }
+]

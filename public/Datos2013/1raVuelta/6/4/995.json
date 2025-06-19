@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "MARISCAL SUCRE",
+        "id": 1520,
+        "votos": 223,
+        "candidato": "Lasso Guillermo",
+        "value": 27.3
+    },
+    {
+        "parroquia": "HUACA",
+        "id": 6665,
+        "votos": 1529,
+        "candidato": "Lasso Guillermo",
+        "value": 33.239
+    }
+]

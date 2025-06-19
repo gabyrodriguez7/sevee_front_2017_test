@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "CHACRAS",
+    "id": 805,
+    "votos": 470,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 55.69
+  },
+  {
+    "parroquia": "CARCABÓN",
+    "id": 1695,
+    "votos": 196,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 47.57
+  },
+  {
+    "parroquia": "PALMALES",
+    "id": 2715,
+    "votos": 841,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 51.56
+  },
+  {
+    "parroquia": "ARENILLAS",
+    "id": 5040,
+    "votos": 5900,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 39.71
+  }
+]

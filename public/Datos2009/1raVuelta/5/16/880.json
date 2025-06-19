@@ -1,0 +1,16 @@
+[
+                {
+                    "parroquia": "SANTA CLARA",
+                    "id": 6395,
+                    "votos": 8,
+                    "candidato": "Melba Jacome",
+                    "value": 0.43
+                },
+                {
+                    "parroquia": "SAN JOSE",
+                    "id": 2100,
+                    "votos": 1,
+                    "candidato": "Melba Jacome",
+                    "value": 0.23
+                }
+            ]

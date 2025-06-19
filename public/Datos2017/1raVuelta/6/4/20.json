@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "JIJÓN Y CAAMAÑO",
+    "id": 1835,
+    "votos": 5,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.47
+  },
+  {
+    "parroquia": "JUAN MONTALVO",
+    "id": 1875,
+    "votos": 4,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.47
+  },
+  {
+    "parroquia": "LA CONCEPCÓN",
+    "id": 2010,
+    "votos": 10,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.52
+  },
+  {
+    "parroquia": "MIRA",
+    "id": 5685,
+    "votos": 33,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.7
+  }
+]

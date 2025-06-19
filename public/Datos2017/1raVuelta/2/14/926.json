@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "HUASAGA /WAMPUIK",
+    "id": 595,
+    "votos": 126,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 16.89
+  },
+  {
+    "parroquia": "TUTINENTZA",
+    "id": 1205,
+    "votos": 234,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 12.26
+  },
+  {
+    "parroquia": "MACUMA",
+    "id": 2285,
+    "votos": 256,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 13.49
+  },
+  {
+    "parroquia": "PUMPUENTSA",
+    "id": 4575,
+    "votos": 153,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 17.23
+  },
+  {
+    "parroquia": "TAISHA",
+    "id": 6700,
+    "votos": 359,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 13.77
+  }
+]

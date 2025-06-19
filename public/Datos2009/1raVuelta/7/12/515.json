@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "EL SALTO",
+        "id": 6835,
+        "votos": 29,
+        "candidato": "Alvaro Noboa",
+        "value": 8.07
+    },
+    {
+        "parroquia": "BARREIRO /SANTA RITA",
+        "id": 6830,
+        "votos": 497,
+        "candidato": "Alvaro Noboa",
+        "value": 12.03
+    },
+    {
+        "parroquia": "DR. CAMILO PONCE E.",
+        "id": 5285,
+        "votos": 1751,
+        "candidato": "Alvaro Noboa",
+        "value": 9.44
+    },
+    {
+        "parroquia": "CLEMENTE BAQUERIZO",
+        "id": 5215,
+        "votos": 2629,
+        "candidato": "Alvaro Noboa",
+        "value": 8.29
+    },
+    {
+        "parroquia": "PIMOCHA",
+        "id": 2875,
+        "votos": 234,
+        "candidato": "Alvaro Noboa",
+        "value": 3.72
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 1525,
+        "votos": 715,
+        "candidato": "Alvaro Noboa",
+        "value": 17.37
+    },
+    {
+        "parroquia": "FEBRES CORDERO",
+        "id": 1265,
+        "votos": 396,
+        "candidato": "Alvaro Noboa",
+        "value": 6.0
+    },
+    {
+        "parroquia": "CARACOL",
+        "id": 520,
+        "votos": 91,
+        "candidato": "Alvaro Noboa",
+        "value": 4.5
+    }
+]

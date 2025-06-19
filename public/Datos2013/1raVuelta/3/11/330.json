@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "EL ARENAL",
+        "id": 270,
+        "votos": 9,
+        "candidato": "Wray Norman",
+        "value": 2.1
+    },
+    {
+        "parroquia": "CIANO",
+        "id": 565,
+        "votos": 9,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "EL LIMO /MARIANA DE JESUS",
+        "id": 1155,
+        "votos": 11,
+        "candidato": "Wray Norman",
+        "value": 0.8
+    },
+    {
+        "parroquia": "MERCADILLO",
+        "id": 2405,
+        "votos": 8,
+        "candidato": "Wray Norman",
+        "value": 0.96
+    },
+    {
+        "parroquia": "VICENTINO",
+        "id": 4210,
+        "votos": 8,
+        "candidato": "Wray Norman",
+        "value": 1.043
+    },
+    {
+        "parroquia": "ALAMOR",
+        "id": 5005,
+        "votos": 44,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    }
+]

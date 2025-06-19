@@ -1,0 +1,86 @@
+[
+  {
+    "parroquia": "DAYUMA",
+    "id": 1235,
+    "votos": 472,
+    "candidato": "Lasso Guillermo",
+    "value": 14.8
+  },
+  {
+    "parroquia": "TARACOA",
+    "id": 1245,
+    "votos": 171,
+    "candidato": "Lasso Guillermo",
+    "value": 12.4
+  },
+  {
+    "parroquia": "EL DORADO",
+    "id": 1560,
+    "votos": 154,
+    "candidato": "Lasso Guillermo",
+    "value": 14.808
+  },
+  {
+    "parroquia": "INES ARANGO",
+    "id": 1565,
+    "votos": 221,
+    "candidato": "Lasso Guillermo",
+    "value": 16.0
+  },
+  {
+    "parroquia": "ALEJANDRO LABAKA",
+    "id": 1580,
+    "votos": 30,
+    "candidato": "Lasso Guillermo",
+    "value": 6.38
+  },
+  {
+    "parroquia": "EL EDEN",
+    "id": 1590,
+    "votos": 8,
+    "candidato": "Lasso Guillermo",
+    "value": 3.019
+  },
+  {
+    "parroquia": "GARCIA MORENO",
+    "id": 1810,
+    "votos": 108,
+    "candidato": "Lasso Guillermo",
+    "value": 14.6
+  },
+  {
+    "parroquia": "LA BELLEZA",
+    "id": 1820,
+    "votos": 206,
+    "candidato": "Lasso Guillermo",
+    "value": 10.47
+  },
+  {
+    "parroquia": "SAN LUIS DE ARMENIA",
+    "id": 1935,
+    "votos": 90,
+    "candidato": "Lasso Guillermo",
+    "value": 8.7
+  },
+  {
+    "parroquia": "NUEVO PARAISO",
+    "id": 1940,
+    "votos": 143,
+    "candidato": "Lasso Guillermo",
+    "value": 11.4
+  },
+  {
+    "parroquia": "SAN JOSE DE GUAYUSA",
+    "id": 1945,
+    "votos": 85,
+    "candidato": "Lasso Guillermo",
+    "value": 10.5
+  },
+  {
+    "parroquia": "PTO. FCO. DE ORELLANA",
+    "id": 5815,
+    "votos": 5841,
+    "candidato": "Lasso Guillermo",
+    "value": 24.53
+  }
+]

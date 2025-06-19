@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "CRUZPAMBA/BUSTAMANTE",
+    "id": 695,
+    "votos": 58,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.27
+  },
+  {
+    "parroquia": "TNTE M.RODRÍGUEZ LOAYZA",
+    "id": 1495,
+    "votos": 20,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.66
+  },
+  {
+    "parroquia": "SABANILLA",
+    "id": 3255,
+    "votos": 119,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.67
+  },
+  {
+    "parroquia": "SAN JUAN DE POZUL",
+    "id": 3535,
+    "votos": 109,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.75
+  },
+  {
+    "parroquia": "CELICA",
+    "id": 5195,
+    "votos": 507,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.21
+  }
+]

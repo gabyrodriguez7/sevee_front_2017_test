@@ -1,0 +1,30 @@
+[
+                {
+                    "parroquia": "4 DE DICIEMBRE",
+                    "id": 6195,
+                    "votos": 5,
+                    "candidato": "Melba Jacome",
+                    "value": 0.5
+                },
+                {
+                    "parroquia": "EL CARMEN",
+                    "id": 5300,
+                    "votos": 435,
+                    "candidato": "Melba Jacome",
+                    "value": 1.15
+                },
+                {
+                    "parroquia": "SAN PEDRO DE SUMA",
+                    "id": 1980,
+                    "votos": 9,
+                    "candidato": "Melba Jacome",
+                    "value": 1.2
+                },
+                {
+                    "parroquia": "WILFRIDO LOOR MOREIRA",
+                    "id": 1070,
+                    "votos": 2,
+                    "candidato": "Melba Jacome",
+                    "value": 0.37
+                }
+            ]

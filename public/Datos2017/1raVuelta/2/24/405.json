@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "ANCONCITO",
+    "id": 115,
+    "votos": 95,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.41791045
+  },
+  {
+    "parroquia": "JOSÉ LUIS TAMAYO / MUEY",
+    "id": 1850,
+    "votos": 212,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.7335841
+  },
+  {
+    "parroquia": "SALINAS",
+    "id": 5920,
+    "votos": 307,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.22964631
+  },
+  {
+    "parroquia": "GRAL. A. E. GALLO",
+    "id": 6270,
+    "votos": 35,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.15252153
+  },
+  {
+    "parroquia": "VICENTE ROCAFUERTE",
+    "id": 6275,
+    "votos": 48,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.29007634
+  },
+  {
+    "parroquia": "CARLOS ESPINOZA LARREA",
+    "id": 6280,
+    "votos": 91,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.53411306
+  },
+  {
+    "parroquia": "SANTA ROSA",
+    "id": 6925,
+    "votos": 40,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.02223358
+  }
+]

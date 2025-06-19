@@ -1,0 +1,114 @@
+[
+    {
+        "parroquia": "CACHA",
+        "id": 420,
+        "votos": 141,
+        "candidato": "Acosta Alberto",
+        "value": 6.83
+    },
+    {
+        "parroquia": "CALPI",
+        "id": 445,
+        "votos": 266,
+        "candidato": "Acosta Alberto",
+        "value": 6.41
+    },
+    {
+        "parroquia": "CUBIJIES",
+        "id": 705,
+        "votos": 33,
+        "candidato": "Acosta Alberto",
+        "value": 2.2
+    },
+    {
+        "parroquia": "FLORES",
+        "id": 1280,
+        "votos": 256,
+        "candidato": "Acosta Alberto",
+        "value": 7.69
+    },
+    {
+        "parroquia": "LICTO",
+        "id": 2165,
+        "votos": 213,
+        "candidato": "Acosta Alberto",
+        "value": 3.87
+    },
+    {
+        "parroquia": "PUNGALA",
+        "id": 3035,
+        "votos": 111,
+        "candidato": "Acosta Alberto",
+        "value": 3.31
+    },
+    {
+        "parroquia": "PUNIN",
+        "id": 3040,
+        "votos": 265,
+        "candidato": "Acosta Alberto",
+        "value": 6.58
+    },
+    {
+        "parroquia": "QUIMIAG",
+        "id": 3095,
+        "votos": 198,
+        "candidato": "Acosta Alberto",
+        "value": 5.78
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3515,
+        "votos": 241,
+        "candidato": "Acosta Alberto",
+        "value": 4.96
+    },
+    {
+        "parroquia": "SAN LUIS",
+        "id": 3560,
+        "votos": 122,
+        "candidato": "Acosta Alberto",
+        "value": 3.07
+    },
+    {
+        "parroquia": "LIZARZABURU",
+        "id": 5590,
+        "votos": 1235,
+        "candidato": "Acosta Alberto",
+        "value": 3.67
+    },
+    {
+        "parroquia": "MALDONADO",
+        "id": 5630,
+        "votos": 731,
+        "candidato": "Acosta Alberto",
+        "value": 3.19
+    },
+    {
+        "parroquia": "VELASCO",
+        "id": 6220,
+        "votos": 661,
+        "candidato": "Acosta Alberto",
+        "value": 2.71
+    },
+    {
+        "parroquia": "VELOZ",
+        "id": 6230,
+        "votos": 559,
+        "candidato": "Acosta Alberto",
+        "value": 4.0
+    },
+    {
+        "parroquia": "YARUQUIES",
+        "id": 6290,
+        "votos": 178,
+        "candidato": "Acosta Alberto",
+        "value": 5.0
+    },
+    {
+        "parroquia": "LICAN",
+        "id": 6960,
+        "votos": 111,
+        "candidato": "Acosta Alberto",
+        "value": 3.3
+    }
+]

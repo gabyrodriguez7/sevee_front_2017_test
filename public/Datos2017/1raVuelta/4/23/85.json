@@ -1,0 +1,100 @@
+[
+  {
+    "parroquia": "ALLURIQUÍN",
+    "id": 75,
+    "votos": 771,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 14.94
+  },
+  {
+    "parroquia": "VALLE HERMOSO",
+    "id": 305,
+    "votos": 564,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.68
+  },
+  {
+    "parroquia": "LUZ DE AMÉRICA",
+    "id": 1755,
+    "votos": 445,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.77
+  },
+  {
+    "parroquia": "SAN JACINTO DEL BÚA",
+    "id": 1970,
+    "votos": 545,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.94
+  },
+  {
+    "parroquia": "EL ESFUERZO",
+    "id": 1990,
+    "votos": 376,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.65
+  },
+  {
+    "parroquia": "SANTA MARÍA DEL TOACHI",
+    "id": 2045,
+    "votos": 201,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.63
+  },
+  {
+    "parroquia": "PUERTO LIMÓN",
+    "id": 4440,
+    "votos": 665,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.07
+  },
+  {
+    "parroquia": "ABRAHAM CALAZACÓN",
+    "id": 5730,
+    "votos": 3470,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.76
+  },
+  {
+    "parroquia": "BOMBOLÍ",
+    "id": 5860,
+    "votos": 5283,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.52
+  },
+  {
+    "parroquia": "RÍO VERDE",
+    "id": 5865,
+    "votos": 6492,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.35
+  },
+  {
+    "parroquia": "RÍO TOACHI",
+    "id": 5870,
+    "votos": 606,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.59
+  },
+  {
+    "parroquia": "SANTO DOMINGO",
+    "id": 6065,
+    "votos": 7315,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.42
+  },
+  {
+    "parroquia": "CHIGUILPE",
+    "id": 6175,
+    "votos": 4930,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.78
+  },
+  {
+    "parroquia": "ZARACAY",
+    "id": 6180,
+    "votos": 817,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 14.85
+  }
+]

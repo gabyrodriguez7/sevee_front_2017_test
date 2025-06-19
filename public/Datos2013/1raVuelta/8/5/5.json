@@ -1,0 +1,44 @@
+[
+    {
+        "id": 100,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "votos": 5556,
+        "value": 5.3
+    },
+    {
+        "id": 105,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "votos": 2187,
+        "value": 6.0
+    },
+    {
+        "id": 110,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "votos": 1705,
+        "value": 4.6483
+    },
+    {
+        "id": 115,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "votos": 810,
+        "value": 6.3
+    },
+    {
+        "id": 120,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "votos": 360,
+        "value": 3.3
+    },
+    {
+        "id": 825,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "votos": 2413,
+        "value": 9.83
+    },
+    {
+        "id": 930,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "votos": 387,
+        "value": 4.0
+    }
+]

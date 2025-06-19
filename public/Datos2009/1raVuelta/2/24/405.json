@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 6995,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.11
+    },
+    {
+        "parroquia": "CARLOS ESPINOZA LARREA",
+        "id": 6280,
+        "votos": 0,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.0
+    },
+    {
+        "parroquia": "VICENTE ROCAFUERTE",
+        "id": 6275,
+        "votos": 0,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.0
+    },
+    {
+        "parroquia": "GRAL. A. E. GALLO",
+        "id": 6270,
+        "votos": 0,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.0
+    },
+    {
+        "parroquia": "SALINAS",
+        "id": 5920,
+        "votos": 20,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.11
+    },
+    {
+        "parroquia": "JOSE LUIS TAMAYO / MUEY",
+        "id": 1850,
+        "votos": 7,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.09
+    },
+    {
+        "parroquia": "ANCONCITO",
+        "id": 115,
+        "votos": 8,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.16
+    }
+]

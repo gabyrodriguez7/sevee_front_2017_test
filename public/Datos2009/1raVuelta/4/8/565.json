@@ -1,0 +1,107 @@
+[
+    {
+        "parroquia": "VALDEZ/LIMONES/",
+        "id": 6205,
+        "votos": 1792,
+        "candidato": "Rafael Correa Delgado",
+        "value": 67.93
+    },
+    {
+        "parroquia": "SANTO DOMINGO DE ONZOLE",
+        "id": 4465,
+        "votos": 194,
+        "candidato": "Rafael Correa Delgado",
+        "value": 53.73
+    },
+    {
+        "parroquia": "TELEMBI",
+        "id": 4170,
+        "votos": 596,
+        "candidato": "Rafael Correa Delgado",
+        "value": 70.78
+    },
+    {
+        "parroquia": "SELVA ALEGRE",
+        "id": 3805,
+        "votos": 313,
+        "candidato": "Rafael Correa Delgado",
+        "value": 72.79
+    },
+    {
+        "parroquia": "SAN FRANCISCO DE ONZOLE",
+        "id": 3405,
+        "votos": 186,
+        "candidato": "Rafael Correa Delgado",
+        "value": 58.86
+    },
+    {
+        "parroquia": "PAMPANAL DE BOLIVAR",
+        "id": 2670,
+        "votos": 174,
+        "candidato": "Rafael Correa Delgado",
+        "value": 75.98
+    },
+    {
+        "parroquia": "MALDONADO",
+        "id": 2335,
+        "votos": 424,
+        "candidato": "Rafael Correa Delgado",
+        "value": 75.31
+    },
+    {
+        "parroquia": "LUIS VARGAS TORRES",
+        "id": 2225,
+        "votos": 109,
+        "candidato": "Rafael Correa Delgado",
+        "value": 69.87
+    },
+    {
+        "parroquia": "LA TOLA",
+        "id": 2125,
+        "votos": 731,
+        "candidato": "Rafael Correa Delgado",
+        "value": 67.74
+    },
+    {
+        "parroquia": "TIMBIRE",
+        "id": 1515,
+        "votos": 259,
+        "candidato": "Rafael Correa Delgado",
+        "value": 83.81
+    },
+    {
+        "parroquia": "COLON ELOY DE MARIA",
+        "id": 1510,
+        "votos": 166,
+        "candidato": "Rafael Correa Delgado",
+        "value": 68.03
+    },
+    {
+        "parroquia": "SAN JOSE DE CAYAPAS",
+        "id": 1505,
+        "votos": 304,
+        "candidato": "Rafael Correa Delgado",
+        "value": 75.43
+    },
+    {
+        "parroquia": "BORBON",
+        "id": 370,
+        "votos": 1663,
+        "candidato": "Rafael Correa Delgado",
+        "value": 58.72
+    },
+    {
+        "parroquia": "ATAHUALPA/CAMARONES",
+        "id": 200,
+        "votos": 365,
+        "candidato": "Rafael Correa Delgado",
+        "value": 75.1
+    },
+    {
+        "parroquia": "ANCHAYACU",
+        "id": 120,
+        "votos": 214,
+        "candidato": "Rafael Correa Delgado",
+        "value": 65.84
+    }
+]

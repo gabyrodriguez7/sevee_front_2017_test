@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "GRAL. VERNAZA",
+        "id": 1350,
+        "votos": 62,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.5
+    },
+    {
+        "parroquia": "JUNQUILLAL",
+        "id": 1595,
+        "votos": 42,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 0.91
+    },
+    {
+        "parroquia": "VICTORIA",
+        "id": 4220,
+        "votos": 30,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.28
+    },
+    {
+        "parroquia": "BOCANA",
+        "id": 5120,
+        "votos": 10,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.85
+    },
+    {
+        "parroquia": "CANDILEJOS",
+        "id": 5155,
+        "votos": 16,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.2378
+    },
+    {
+        "parroquia": "SALITRE",
+        "id": 5200,
+        "votos": 394,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.8629
+    },
+    {
+        "parroquia": "PARAISO",
+        "id": 5765,
+        "votos": 1,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 0.8
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 5990,
+        "votos": 1,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 0.8197
+    }
+]

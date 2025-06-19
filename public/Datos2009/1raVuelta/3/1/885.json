@@ -1,0 +1,30 @@
+[
+                {
+                    "parroquia": "NABON",
+                    "id": 6595,
+                    "votos": 26,
+                    "candidato": "Carlos Gonzalez Albornoz",
+                    "value": 0.63
+                },
+                {
+                    "parroquia": "NIEVES",
+                    "id": 2550,
+                    "votos": 2,
+                    "candidato": "Carlos Gonzalez Albornoz",
+                    "value": 0.34
+                },
+                {
+                    "parroquia": "EL PROGRESO",
+                    "id": 1175,
+                    "votos": 2,
+                    "candidato": "Carlos Gonzalez Albornoz",
+                    "value": 0.3
+                },
+                {
+                    "parroquia": "COCHAPATA",
+                    "id": 575,
+                    "votos": 6,
+                    "candidato": "Carlos Gonzalez Albornoz",
+                    "value": 0.53
+                }
+            ]

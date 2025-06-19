@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "ZURMI",
+        "id": 1675,
+        "votos": 1,
+        "candidato": "Zavala Nelson",
+        "value": 0.13
+    },
+    {
+        "parroquia": "NUEVO PARAISO",
+        "id": 4570,
+        "votos": 0,
+        "candidato": "Zavala Nelson",
+        "value": 0.0
+    },
+    {
+        "parroquia": "GUAYZIMI",
+        "id": 5520,
+        "votos": 7,
+        "candidato": "Zavala Nelson",
+        "value": 0.4
+    }
+]

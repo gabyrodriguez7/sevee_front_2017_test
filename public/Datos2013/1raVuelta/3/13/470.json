@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "AYACUCHO",
+        "id": 220,
+        "votos": 32,
+        "candidato": "Wray Norman",
+        "value": 0.7225
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 1105,
+        "votos": 16,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "HONORATO VASQUEZ",
+        "id": 1610,
+        "votos": 15,
+        "candidato": "Wray Norman",
+        "value": 0.5
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 2135,
+        "votos": 31,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "SANTA ANA",
+        "id": 6030,
+        "votos": 125,
+        "candidato": "Wray Norman",
+        "value": 0.811
+    },
+    {
+        "parroquia": "LODANA",
+        "id": 6725,
+        "votos": 7,
+        "candidato": "Wray Norman",
+        "value": 0.935
+    }
+]

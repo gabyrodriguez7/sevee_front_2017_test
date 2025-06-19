@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "LA CANDELARIA",
+    "id": 925,
+    "votos": 177,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 58.8
+  },
+  {
+    "parroquia": "EL ALTAR",
+    "id": 1110,
+    "votos": 411,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 43.86
+  },
+  {
+    "parroquia": "BILBAO",
+    "id": 1325,
+    "votos": 69,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 33.01
+  },
+  {
+    "parroquia": "MATUS",
+    "id": 2400,
+    "votos": 444,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 62.1
+  },
+  {
+    "parroquia": "PUELA",
+    "id": 2975,
+    "votos": 291,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 48.58
+  },
+  {
+    "parroquia": "SAN ANTONIO DE BAYUSHIG",
+    "id": 3335,
+    "votos": 777,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 64.91
+  },
+  {
+    "parroquia": "PENIPE",
+    "id": 5740,
+    "votos": 1085,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 52.16
+  }
+]

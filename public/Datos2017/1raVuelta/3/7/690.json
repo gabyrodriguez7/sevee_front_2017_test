@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "CURTINCAPAC",
+    "id": 740,
+    "votos": 137,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 35.68
+  },
+  {
+    "parroquia": "SALATI",
+    "id": 3275,
+    "votos": 203,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 33.17
+  },
+  {
+    "parroquia": "MORALES",
+    "id": 4520,
+    "votos": 126,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 26.87
+  },
+  {
+    "parroquia": "PORTOVELO",
+    "id": 5850,
+    "votos": 1978,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 28.43
+  }
+]

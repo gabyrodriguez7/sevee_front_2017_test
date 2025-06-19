@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "PAJAN",
+    "id": 5755,
+    "votos": 112,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.9
+  },
+  {
+    "parroquia": "LASCANO",
+    "id": 2090,
+    "votos": 22,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.5
+  },
+  {
+    "parroquia": "GUALE/STO.DOMINGO",
+    "id": 1395,
+    "votos": 18,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.73
+  },
+  {
+    "parroquia": "CASCOL",
+    "id": 540,
+    "votos": 21,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.52
+  },
+  {
+    "parroquia": "CAMPOZANO",
+    "id": 460,
+    "votos": 28,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.16
+  }
+]

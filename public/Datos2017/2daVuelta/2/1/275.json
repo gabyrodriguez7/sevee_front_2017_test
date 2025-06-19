@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "BULÁN / J. VICTOR IZQUIERDO",
+    "id": 395,
+    "votos": 689,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 73.53
+  },
+  {
+    "parroquia": "CHICAN / GUILLERMO ORTEGA",
+    "id": 870,
+    "votos": 872,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 62.06
+  },
+  {
+    "parroquia": "DUG-DUG",
+    "id": 890,
+    "votos": 536,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 66.67
+  },
+  {
+    "parroquia": "GUARAINAC",
+    "id": 1455,
+    "votos": 404,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 58.98
+  },
+  {
+    "parroquia": "SAN CRISTÓBAL",
+    "id": 3375,
+    "votos": 832,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 62.89
+  },
+  {
+    "parroquia": "TOMEBAMBA",
+    "id": 4050,
+    "votos": 615,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 78.75
+  },
+  {
+    "parroquia": "EL CABO",
+    "id": 4565,
+    "votos": 432,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 49.88
+  },
+  {
+    "parroquia": "PAUTE",
+    "id": 5775,
+    "votos": 6340,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 62.19
+  }
+]

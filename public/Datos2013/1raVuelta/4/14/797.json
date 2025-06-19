@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN JOSE DE MORONA",
+        "id": 1295,
+        "votos": 603,
+        "candidato": "Acosta Alberto",
+        "value": 46.9
+    },
+    {
+        "parroquia": "SANTIAGO",
+        "id": 6890,
+        "votos": 630,
+        "candidato": "Acosta Alberto",
+        "value": 36.5
+    }
+]

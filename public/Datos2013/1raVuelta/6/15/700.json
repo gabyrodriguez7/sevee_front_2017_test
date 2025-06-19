@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "COTUNDO",
+    "id": 685,
+    "votos": 421,
+    "candidato": "Lasso Guillermo",
+    "value": 14.0
+  },
+  {
+    "parroquia": "SAN PABLO DE USHPAYACU",
+    "id": 3605,
+    "votos": 174,
+    "candidato": "Lasso Guillermo",
+    "value": 13.0
+  },
+  {
+    "parroquia": "HATUN SUMAKU",
+    "id": 4630,
+    "votos": 138,
+    "candidato": "Lasso Guillermo",
+    "value": 14.0
+  },
+  {
+    "parroquia": "ARCHIDONA",
+    "id": 5070,
+    "votos": 1537,
+    "candidato": "Lasso Guillermo",
+    "value": 18.0
+  }
+]

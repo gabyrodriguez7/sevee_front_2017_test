@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "EL GUISMI",
+    "id": 665,
+    "votos": 125,
+    "candidato": "Lasso Guillermo",
+    "value": 19.531
+  },
+  {
+    "parroquia": "TUNDAYME",
+    "id": 945,
+    "votos": 60,
+    "candidato": "Lasso Guillermo",
+    "value": 19.608
+  },
+  {
+    "parroquia": "PACHICUTZA",
+    "id": 1015,
+    "votos": 85,
+    "candidato": "Lasso Guillermo",
+    "value": 15.02
+  },
+  {
+    "parroquia": "EL PANGUI",
+    "id": 6355,
+    "votos": 808,
+    "candidato": "Lasso Guillermo",
+    "value": 23.9
+  }
+]

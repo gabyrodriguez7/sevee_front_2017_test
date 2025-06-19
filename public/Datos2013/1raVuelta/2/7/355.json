@@ -1,0 +1,86 @@
+[
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 325,
+        "votos": 820,
+        "candidato": "Correa Delgado Rafael",
+        "value": 54.63
+    },
+    {
+        "parroquia": "BELLAMARIA",
+        "id": 1665,
+        "votos": 480,
+        "candidato": "Correa Delgado Rafael",
+        "value": 63.66
+    },
+    {
+        "parroquia": "JAMBELI",
+        "id": 1815,
+        "votos": 238,
+        "candidato": "Correa Delgado Rafael",
+        "value": 75.07886435
+    },
+    {
+        "parroquia": "LA AVANZADA",
+        "id": 2005,
+        "votos": 675,
+        "candidato": "Correa Delgado Rafael",
+        "value": 51.292
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3330,
+        "votos": 297,
+        "candidato": "Correa Delgado Rafael",
+        "value": 55.932
+    },
+    {
+        "parroquia": "VICTORIA",
+        "id": 4215,
+        "votos": 840,
+        "candidato": "Correa Delgado Rafael",
+        "value": 77.491
+    },
+    {
+        "parroquia": "TORATA",
+        "id": 4525,
+        "votos": 522,
+        "candidato": "Correa Delgado Rafael",
+        "value": 52.2
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 6060,
+        "votos": 17546,
+        "candidato": "Correa Delgado Rafael",
+        "value": 51.766
+    },
+    {
+        "parroquia": "PUERTO JELI",
+        "id": 6670,
+        "votos": 235,
+        "candidato": "Correa Delgado Rafael",
+        "value": 67.91907514
+    },
+    {
+        "parroquia": "BALNEARIO JAMBELI",
+        "id": 6900,
+        "votos": 100,
+        "candidato": "Correa Delgado Rafael",
+        "value": 81.301
+    },
+    {
+        "parroquia": "JUMON",
+        "id": 6985,
+        "votos": 241,
+        "candidato": "Correa Delgado Rafael",
+        "value": 65.49
+    },
+    {
+        "parroquia": "NUEVO SANTA ROSA",
+        "id": 6990,
+        "votos": 356,
+        "candidato": "Correa Delgado Rafael",
+        "value": 65.08
+    }
+]

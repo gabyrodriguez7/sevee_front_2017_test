@@ -1,0 +1,149 @@
+[
+    {
+        "parroquia": "PASCUALES",
+        "id": 6405,
+        "votos": 903,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 4.38
+    },
+    {
+        "parroquia": "CHONGON",
+        "id": 6400,
+        "votos": 170,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.29
+    },
+    {
+        "parroquia": "XIMENA",
+        "id": 6265,
+        "votos": 15561,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 6.26
+    },
+    {
+        "parroquia": "URDANETA",
+        "id": 6185,
+        "votos": 1658,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 6.99
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 6150,
+        "votos": 20873,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 6.42
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 6095,
+        "votos": 940,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 6.32
+    },
+    {
+        "parroquia": "ROCAFUERTE",
+        "id": 5890,
+        "votos": 720,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 5.9
+    },
+    {
+        "parroquia": "ROCA",
+        "id": 5880,
+        "votos": 796,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 6.77
+    },
+    {
+        "parroquia": "OLMEDO/SAN ALEJO",
+        "id": 5720,
+        "votos": 820,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 6.24
+    },
+    {
+        "parroquia": "9 DE OCTUBRE",
+        "id": 5695,
+        "votos": 624,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 6.07
+    },
+    {
+        "parroquia": "LETAMENDI",
+        "id": 5585,
+        "votos": 4539,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 6.51
+    },
+    {
+        "parroquia": "GARCIA MORENO",
+        "id": 5380,
+        "votos": 3516,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 7.29
+    },
+    {
+        "parroquia": "FEBRES CORDERO",
+        "id": 5355,
+        "votos": 13208,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 5.76
+    },
+    {
+        "parroquia": "CARBO/CONCEPCION",
+        "id": 5170,
+        "votos": 1516,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 5.86
+    },
+    {
+        "parroquia": "BOLIVAR/SAGRARIO",
+        "id": 5125,
+        "votos": 723,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 5.96
+    },
+    {
+        "parroquia": "AYACUCHO",
+        "id": 5055,
+        "votos": 960,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 6.77
+    },
+    {
+        "parroquia": "TENGUEL",
+        "id": 4120,
+        "votos": 221,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 4.9
+    },
+    {
+        "parroquia": "PUNA",
+        "id": 3030,
+        "votos": 47,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.97
+    },
+    {
+        "parroquia": "POSORJA",
+        "id": 2940,
+        "votos": 280,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.39
+    },
+    {
+        "parroquia": "MORRO",
+        "id": 2470,
+        "votos": 61,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.92
+    },
+    {
+        "parroquia": "JUAN GOMEZ RENDON",
+        "id": 1870,
+        "votos": 117,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.94
+    }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "CHANGAIMINA /LA LIBERTAD",
+    "id": 825,
+    "votos": 26,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.85
+  },
+  {
+    "parroquia": "NAMBACOLA",
+    "id": 2520,
+    "votos": 36,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.68
+  },
+  {
+    "parroquia": "PURUNUMA /EGUIGUREN",
+    "id": 3045,
+    "votos": 8,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.18
+  },
+  {
+    "parroquia": "SACAPALCA",
+    "id": 3270,
+    "votos": 16,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.51
+  },
+  {
+    "parroquia": "GONZANAMÁ",
+    "id": 5400,
+    "votos": 27,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.06
+  }
+]

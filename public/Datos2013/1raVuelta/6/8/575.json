@@ -1,0 +1,45 @@
+[
+                {
+                    "parroquia": "CUBE / CHANCAMA",
+                    "id": 700,
+                    "votos": 246,
+                    "candidato": "Lasso Guillermo",
+                    "value": 20.0
+                },
+                {
+                    "parroquia": "CHURA",
+                    "id": 980,
+                    "votos": 96,
+                    "candidato": "Lasso Guillermo",
+                    "value": 16.9
+                },
+                {
+                    "parroquia": "LA UNION",
+                    "id": 1530,
+                    "votos": 2350,
+                    "candidato": "Lasso Guillermo",
+                    "value": 25.7732
+                },
+                {
+                    "parroquia": "MALIMPIA / GUAYLLABAMBA",
+                    "id": 2345,
+                    "votos": 831,
+                    "candidato": "Lasso Guillermo",
+                    "value": 15.1
+                },
+                {
+                    "parroquia": "VICHE",
+                    "id": 4230,
+                    "votos": 842,
+                    "candidato": "Lasso Guillermo",
+                    "value": 24.1468311
+                },
+                {
+                    "parroquia": "ROSA ZARATE",
+                    "id": 5895,
+                    "votos": 10329,
+                    "candidato": "Lasso Guillermo",
+                    "value": 27.6
+                }
+            ]
+            

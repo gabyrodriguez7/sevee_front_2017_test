@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "SALANGO",
+    "id": 1920,
+    "votos": 301,
+    "candidato": "Lasso Guillermo",
+    "value": 18.276
+  },
+  {
+    "parroquia": "MACHALILLA",
+    "id": 2305,
+    "votos": 604,
+    "candidato": "Lasso Guillermo",
+    "value": 21.193
+  },
+  {
+    "parroquia": "PUERTO LOPEZ",
+    "id": 6575,
+    "votos": 1318,
+    "candidato": "Lasso Guillermo",
+    "value": 16.39
+  }
+]

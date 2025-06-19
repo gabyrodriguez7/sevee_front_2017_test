@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "24 DE MAYO",
+        "id": 6690,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.08
+    },
+    {
+        "parroquia": "VIVA ALFARO",
+        "id": 6660,
+        "votos": 0,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.0
+    },
+    {
+        "parroquia": "SIETE DE OCTUBRE",
+        "id": 6655,
+        "votos": 6,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.24
+    },
+    {
+        "parroquia": "GUAYACAN",
+        "id": 6650,
+        "votos": 6,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.32
+    },
+    {
+        "parroquia": "NICOLAS INFANTE DIAZ",
+        "id": 6645,
+        "votos": 6,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.43
+    },
+    {
+        "parroquia": "VENUS DEL RIO QUEVEDO",
+        "id": 6640,
+        "votos": 5,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.15
+    },
+    {
+        "parroquia": "SAN CRISTOBAL",
+        "id": 6635,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.29
+    },
+    {
+        "parroquia": "SAN CAMILO",
+        "id": 6115,
+        "votos": 39,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.28
+    },
+    {
+        "parroquia": "QUEVEDO",
+        "id": 5855,
+        "votos": 176,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.3
+    },
+    {
+        "parroquia": "SAN CARLOS",
+        "id": 4425,
+        "votos": 21,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.47
+    },
+    {
+        "parroquia": "LA ESPERANZA",
+        "id": 4420,
+        "votos": 4,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.35
+    }
+]

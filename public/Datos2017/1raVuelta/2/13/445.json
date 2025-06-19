@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "LA PILA",
+    "id": 1545,
+    "votos": 66,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.63
+  },
+  {
+    "parroquia": "MONTECRISTI",
+    "id": 5665,
+    "votos": 1458,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.99
+  },
+  {
+    "parroquia": "ANIBAL SAN ANDRÉS",
+    "id": 7460,
+    "votos": 25,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.13
+  },
+  {
+    "parroquia": "COLORADO",
+    "id": 7490,
+    "votos": 23,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.63
+  },
+  {
+    "parroquia": "LEONIDAS PROAÑO",
+    "id": 7495,
+    "votos": 173,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.34
+  },
+  {
+    "parroquia": "GENERAL ELOY ALFARO DELGA",
+    "id": 7500,
+    "votos": 26,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.29
+  }
+]

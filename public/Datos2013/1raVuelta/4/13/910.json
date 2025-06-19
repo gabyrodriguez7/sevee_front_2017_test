@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "COJIMIES",
+        "id": 580,
+        "votos": 33,
+        "candidato": "Acosta Alberto",
+        "value": 1.0
+    },
+    {
+        "parroquia": "ATAHUALPA",
+        "id": 785,
+        "votos": 7,
+        "candidato": "Acosta Alberto",
+        "value": 1.0
+    },
+    {
+        "parroquia": "10 DE AGOSTO",
+        "id": 1030,
+        "votos": 25,
+        "candidato": "Acosta Alberto",
+        "value": 1.0
+    },
+    {
+        "parroquia": "PEDERNALES",
+        "id": 6430,
+        "votos": 233,
+        "candidato": "Acosta Alberto",
+        "value": 1.1
+    }
+]

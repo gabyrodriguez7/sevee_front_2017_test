@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 6995,
+        "votos": 5,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.18
+    },
+    {
+        "parroquia": "CARLOS ESPINOZA LARREA",
+        "id": 6280,
+        "votos": 0,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.0
+    },
+    {
+        "parroquia": "VICENTE ROCAFUERTE",
+        "id": 6275,
+        "votos": 0,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.0
+    },
+    {
+        "parroquia": "GRAL. A. E. GALLO",
+        "id": 6270,
+        "votos": 0,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.0
+    },
+    {
+        "parroquia": "SALINAS",
+        "id": 5920,
+        "votos": 53,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.3
+    },
+    {
+        "parroquia": "JOSE LUIS TAMAYO / MUEY",
+        "id": 1850,
+        "votos": 33,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.44
+    },
+    {
+        "parroquia": "ANCONCITO",
+        "id": 115,
+        "votos": 15,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.31
+    }
+]

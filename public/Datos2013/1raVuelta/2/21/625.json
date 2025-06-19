@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "DURENO",
+        "id": 1045,
+        "votos": 39,
+        "candidato": "Noboa Alvaro",
+        "value": 2.617
+    },
+    {
+        "parroquia": "EL ENO",
+        "id": 1285,
+        "votos": 88,
+        "candidato": "Noboa Alvaro",
+        "value": 3.054
+    },
+    {
+        "parroquia": "PACAYACU",
+        "id": 1290,
+        "votos": 93,
+        "candidato": "Noboa Alvaro",
+        "value": 3.0
+    },
+    {
+        "parroquia": "GENERAL FARFAN",
+        "id": 1330,
+        "votos": 63,
+        "candidato": "Noboa Alvaro",
+        "value": 3.0
+    },
+    {
+        "parroquia": "SANTA CECILIA",
+        "id": 1790,
+        "votos": 36,
+        "candidato": "Noboa Alvaro",
+        "value": 1.805
+    },
+    {
+        "parroquia": "JAMBELI",
+        "id": 1795,
+        "votos": 27,
+        "candidato": "Noboa Alvaro",
+        "value": 2.3
+    },
+    {
+        "parroquia": "10 DE AGOSTO",
+        "id": 4625,
+        "votos": 16,
+        "candidato": "Noboa Alvaro",
+        "value": 4.76
+    },
+    {
+        "parroquia": "NUEVA LOJA",
+        "id": 5710,
+        "votos": 1041,
+        "candidato": "Noboa Alvaro",
+        "value": 3.11
+    }
+]

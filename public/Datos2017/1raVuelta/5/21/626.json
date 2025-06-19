@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "CUYABENO",
+    "id": 760,
+    "votos": 16,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 5.06
+  },
+  {
+    "parroquia": "AGUAS NEGRAS",
+    "id": 1555,
+    "votos": 50,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 6.65
+  },
+  {
+    "parroquia": "TARAPOA",
+    "id": 6765,
+    "votos": 255,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 7.21
+  }
+]

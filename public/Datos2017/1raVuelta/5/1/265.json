@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "DANIEL CÓRDOVA TORAL",
+    "id": 1005,
+    "votos": 6,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.61
+  },
+  {
+    "parroquia": "LUIS CORDERO VEGA",
+    "id": 1760,
+    "votos": 1,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.31
+  },
+  {
+    "parroquia": "JADÁN",
+    "id": 1805,
+    "votos": 31,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.21
+  },
+  {
+    "parroquia": "MARIANO MORENO/CALLASAY",
+    "id": 2385,
+    "votos": 6,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.55
+  },
+  {
+    "parroquia": "REMIGIO CRESPO TORAL",
+    "id": 3160,
+    "votos": 7,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.35
+  },
+  {
+    "parroquia": "SAN JUAN",
+    "id": 3505,
+    "votos": 24,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.95
+  },
+  {
+    "parroquia": "SIMÓN BOLÍVAR",
+    "id": 3780,
+    "votos": 9,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 2.06
+  },
+  {
+    "parroquia": "ZHIDMAD",
+    "id": 4340,
+    "votos": 8,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.54
+  },
+  {
+    "parroquia": "GUALACEO",
+    "id": 5420,
+    "votos": 110,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.73
+  }
+]

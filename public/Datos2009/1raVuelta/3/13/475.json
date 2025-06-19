@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "LEONIDAS PLAZA G.",
+        "id": 5580,
+        "votos": 4,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.17
+    },
+    {
+        "parroquia": "BAHIA DE CARAQUEZ",
+        "id": 5095,
+        "votos": 41,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.37
+    },
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 3445,
+        "votos": 30,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.53
+    },
+    {
+        "parroquia": "CHARAPOTO",
+        "id": 840,
+        "votos": 26,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.25
+    }
+]

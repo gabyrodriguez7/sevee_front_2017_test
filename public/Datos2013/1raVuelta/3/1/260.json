@@ -1,0 +1,254 @@
+[
+    {
+        "parroquia": "BA�OS",
+        "id": 285,
+        "votos": 312,
+        "candidato": "Wray Norman",
+        "value": 2.0
+    },
+    {
+        "parroquia": "CUMBE",
+        "id": 730,
+        "votos": 54,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "CHAUCHA / ANGAS",
+        "id": 845,
+        "votos": 2,
+        "candidato": "Wray Norman",
+        "value": 0.3
+    },
+    {
+        "parroquia": "CHECA JIDCAY",
+        "id": 860,
+        "votos": 18,
+        "candidato": "Wray Norman",
+        "value": 1.058
+    },
+    {
+        "parroquia": "CHIQUINTAD",
+        "id": 905,
+        "votos": 38,
+        "candidato": "Wray Norman",
+        "value": 1.458
+    },
+    {
+        "parroquia": "LLACAO",
+        "id": 2255,
+        "votos": 48,
+        "candidato": "Wray Norman",
+        "value": 1.895
+    },
+    {
+        "parroquia": "MOLLETURO",
+        "id": 2430,
+        "votos": 44,
+        "candidato": "Wray Norman",
+        "value": 1.09
+    },
+    {
+        "parroquia": "MULTI /  NULTI",
+        "id": 2570,
+        "votos": 56,
+        "candidato": "Wray Norman",
+        "value": 1.9
+    },
+    {
+        "parroquia": "OCTAVIO CORDERO PALACIOS",
+        "id": 2595,
+        "votos": 20,
+        "candidato": "Wray Norman",
+        "value": 1.7
+    },
+    {
+        "parroquia": "PACCHA",
+        "id": 2680,
+        "votos": 42,
+        "candidato": "Wray Norman",
+        "value": 1.5
+    },
+    {
+        "parroquia": "QUINGEO",
+        "id": 3105,
+        "votos": 55,
+        "candidato": "Wray Norman",
+        "value": 1.6
+    },
+    {
+        "parroquia": "RICAURTE",
+        "id": 3165,
+        "votos": 256,
+        "candidato": "Wray Norman",
+        "value": 2.0
+    },
+    {
+        "parroquia": "SAN JOAQUIN",
+        "id": 3460,
+        "votos": 114,
+        "candidato": "Wray Norman",
+        "value": 2.23
+    },
+    {
+        "parroquia": "SANTA ANA",
+        "id": 3685,
+        "votos": 40,
+        "candidato": "Wray Norman",
+        "value": 1.1325028
+    },
+    {
+        "parroquia": "SAYAUSI",
+        "id": 3795,
+        "votos": 190,
+        "candidato": "Wray Norman",
+        "value": 3.0
+    },
+    {
+        "parroquia": "SIDCAY",
+        "id": 3850,
+        "votos": 47,
+        "candidato": "Wray Norman",
+        "value": 1.9
+    },
+    {
+        "parroquia": "SININCAY",
+        "id": 3870,
+        "votos": 121,
+        "candidato": "Wray Norman",
+        "value": 1.92
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 3980,
+        "votos": 71,
+        "candidato": "Wray Norman",
+        "value": 1.25887
+    },
+    {
+        "parroquia": "TURI",
+        "id": 4095,
+        "votos": 60,
+        "candidato": "Wray Norman",
+        "value": 1.6
+    },
+    {
+        "parroquia": "VALLE",
+        "id": 4200,
+        "votos": 266,
+        "candidato": "Wray Norman",
+        "value": 3.0
+    },
+    {
+        "parroquia": "VICTORIA DEL PORTETE",
+        "id": 4225,
+        "votos": 43,
+        "candidato": "Wray Norman",
+        "value": 2.0
+    },
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 5075,
+        "votos": 337,
+        "candidato": "Wray Norman",
+        "value": 3.0
+    },
+    {
+        "parroquia": "CA�ARIBAMBA",
+        "id": 5080,
+        "votos": 202,
+        "candidato": "Wray Norman",
+        "value": 2.99082
+    },
+    {
+        "parroquia": "EL BATAN",
+        "id": 5135,
+        "votos": 218,
+        "candidato": "Wray Norman",
+        "value": 3.0
+    },
+    {
+        "parroquia": "MACHANGARA",
+        "id": 5140,
+        "votos": 143,
+        "candidato": "Wray Norman",
+        "value": 2.8
+    },
+    {
+        "parroquia": "MONAY",
+        "id": 5290,
+        "votos": 227,
+        "candidato": "Wray Norman",
+        "value": 3.0
+    },
+    {
+        "parroquia": "EL VECINO",
+        "id": 5330,
+        "votos": 786,
+        "candidato": "Wray Norman",
+        "value": 3.0
+    },
+    {
+        "parroquia": "TOTORACOCHA",
+        "id": 5360,
+        "votos": 402,
+        "candidato": "Wray Norman",
+        "value": 3.0
+    },
+    {
+        "parroquia": "YANUNCAY",
+        "id": 5370,
+        "votos": 399,
+        "candidato": "Wray Norman",
+        "value": 3.0
+    },
+    {
+        "parroquia": "HUAYNACAPAC",
+        "id": 5450,
+        "votos": 372,
+        "candidato": "Wray Norman",
+        "value": 3.0
+    },
+    {
+        "parroquia": "RAMIREZ DAVALOS",
+        "id": 5875,
+        "votos": 256,
+        "candidato": "Wray Norman",
+        "value": 2.68
+    },
+    {
+        "parroquia": "SAGRARIO",
+        "id": 5905,
+        "votos": 489,
+        "candidato": "Wray Norman",
+        "value": 3.0
+    },
+    {
+        "parroquia": "SAN BLAS",
+        "id": 5930,
+        "votos": 464,
+        "candidato": "Wray Norman",
+        "value": 3.0
+    },
+    {
+        "parroquia": "SAN SEBASTIAN",
+        "id": 6010,
+        "votos": 636,
+        "candidato": "Wray Norman",
+        "value": 3.0
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 6090,
+        "votos": 495,
+        "candidato": "Wray Norman",
+        "value": 3.0
+    },
+    {
+        "parroquia": "HERMANO MIGUEL",
+        "id": 6865,
+        "votos": 123,
+        "candidato": "Wray Norman",
+        "value": 2.4
+    }
+]

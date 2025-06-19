@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "EL RETIRO",
+        "id": 255,
+        "votos": 24,
+        "candidato": "Zavala Nelson",
+        "value": 1.9
+    },
+    {
+        "parroquia": "LA PROVIDENCIA",
+        "id": 5565,
+        "votos": 51,
+        "candidato": "Zavala Nelson",
+        "value": 1.1
+    },
+    {
+        "parroquia": "MACHALA",
+        "id": 5625,
+        "votos": 1578,
+        "candidato": "Zavala Nelson",
+        "value": 1.3
+    },
+    {
+        "parroquia": "PUERTO BOLIVAR",
+        "id": 5805,
+        "votos": 249,
+        "candidato": "Zavala Nelson",
+        "value": 1.53
+    },
+    {
+        "parroquia": "9 DE MAYO",
+        "id": 6490,
+        "votos": 56,
+        "candidato": "Zavala Nelson",
+        "value": 1.8
+    },
+    {
+        "parroquia": "EL CAMBIO",
+        "id": 6795,
+        "votos": 64,
+        "candidato": "Zavala Nelson",
+        "value": 1.4
+    }
+]

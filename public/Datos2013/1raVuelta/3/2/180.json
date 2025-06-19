@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN JOSE DE TAMBO",
+        "id": 3500,
+        "votos": 15,
+        "candidato": "Wray Norman",
+        "value": 0.5
+    },
+    {
+        "parroquia": "CHILLANES",
+        "id": 5245,
+        "votos": 51,
+        "candidato": "Wray Norman",
+        "value": 0.7
+    }
+]

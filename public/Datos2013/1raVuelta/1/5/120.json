@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "MORASPUNGO",
+        "id": 2460,
+        "votos": 169,
+        "candidato": "Noboa Alvaro",
+        "value": 2.998
+    },
+    {
+        "parroquia": "PINLLOPATA",
+        "id": 2890,
+        "votos": 16,
+        "candidato": "Noboa Alvaro",
+        "value": 3.0
+    },
+    {
+        "parroquia": "RAMON CAMPA�A",
+        "id": 3155,
+        "votos": 14,
+        "candidato": "Noboa Alvaro",
+        "value": 2.01
+    },
+    {
+        "parroquia": "EL CORAZON",
+        "id": 5305,
+        "votos": 103,
+        "candidato": "Noboa Alvaro",
+        "value": 2.52
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "parroquia": "ANCHAYACU",
+        "id": 120,
+        "votos": 13,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.43446
+    },
+    {
+        "parroquia": "ATAHUALPA/CAMARONES",
+        "id": 200,
+        "votos": 7,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.034
+    },
+    {
+        "parroquia": "BORBON",
+        "id": 370,
+        "votos": 62,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.5
+    },
+    {
+        "parroquia": "SAN JOSE DE CAYAPAS",
+        "id": 1505,
+        "votos": 8,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.6
+    },
+    {
+        "parroquia": "COLON ELOY DE MARIA",
+        "id": 1510,
+        "votos": 5,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.029
+    },
+    {
+        "parroquia": "TIMBIRE",
+        "id": 1515,
+        "votos": 4,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.105
+    },
+    {
+        "parroquia": "LA TOLA",
+        "id": 2125,
+        "votos": 9,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 0.8079
+    },
+    {
+        "parroquia": "LUIS VARGAS TORRES",
+        "id": 2225,
+        "votos": 0,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 0.0
+    },
+    {
+        "parroquia": "MALDONADO",
+        "id": 2335,
+        "votos": 5,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 0.62
+    },
+    {
+        "parroquia": "PAMPANAL DE BOLIVAR",
+        "id": 2670,
+        "votos": 3,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 0.98684
+    },
+    {
+        "parroquia": "SAN FRANCISCO DE ONZOLE",
+        "id": 3405,
+        "votos": 10,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.0
+    },
+    {
+        "parroquia": "SELVA ALEGRE",
+        "id": 3805,
+        "votos": 7,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.5
+    },
+    {
+        "parroquia": "TELEMBI",
+        "id": 4170,
+        "votos": 22,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.7
+    },
+    {
+        "parroquia": "SANTO DOMINGO DE ONZOLE",
+        "id": 4465,
+        "votos": 18,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.29
+    },
+    {
+        "parroquia": "SANTA LUCIA DE LAS PE�AS",
+        "id": 4595,
+        "votos": 6,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.2
+    },
+    {
+        "parroquia": "VALDEZ/LIMONES/",
+        "id": 6205,
+        "votos": 35,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.0
+    }
+]

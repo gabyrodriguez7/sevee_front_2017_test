@@ -1,0 +1,46 @@
+
+ 
+    [
+        {
+            "canton": 165,
+            "candidato": "VITERI JIMENEZ CYNTHIA FERNANDA",
+            "votos": 6022,
+            "value": 35.12
+        },
+        {
+            "canton": 170,
+            "candidato": "VITERI JIMENEZ CYNTHIA FERNANDA",
+            "votos": 1821,
+            "value": 10.62
+        },
+        {
+            "canton": 175,
+            "candidato": "VITERI JIMENEZ CYNTHIA FERNANDA",
+            "votos": 3538,
+            "value": 20.63
+        },
+        {
+            "canton": 180,
+            "candidato": "VITERI JIMENEZ CYNTHIA FERNANDA",
+            "votos": 2003,
+            "value": 11.68
+        },
+        {
+            "canton": 185,
+            "candidato": "VITERI JIMENEZ CYNTHIA FERNANDA",
+            "votos": 1445,
+            "value": 8.43
+        },
+        {
+            "canton": 760,
+            "candidato": "VITERI JIMENEZ CYNTHIA FERNANDA",
+            "votos": 1710,
+            "value": 9.97
+        },
+        {
+            "canton": 950,
+            "candidato": "VITERI JIMENEZ CYNTHIA FERNANDA",
+            "votos": 609,
+            "value": 3.55
+        }
+    ]

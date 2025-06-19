@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "SANTA MARIANITA",
+    "id": 1800,
+    "votos": 1327,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 82.07
+  },
+  {
+    "parroquia": "SAN LORENZO",
+    "id": 3550,
+    "votos": 1460,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 75.88
+  },
+  {
+    "parroquia": "LOS ESTEROS",
+    "id": 5570,
+    "votos": 12490,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 63.06
+  },
+  {
+    "parroquia": "MANTA",
+    "id": 5635,
+    "votos": 29237,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 54.33
+  },
+  {
+    "parroquia": "SAN MATEO",
+    "id": 6135,
+    "votos": 1789,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 77.05
+  },
+  {
+    "parroquia": "TARQUI",
+    "id": 6155,
+    "votos": 32971,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 62.62
+  },
+  {
+    "parroquia": "ELOY ALFARO",
+    "id": 6745,
+    "votos": 14315,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 69.6
+  }
+]

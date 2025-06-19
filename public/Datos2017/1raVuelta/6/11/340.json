@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "BELLAVISTA",
+    "id": 320,
+    "votos": 5,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.44
+  },
+  {
+    "parroquia": "EL INGENIO",
+    "id": 790,
+    "votos": 4,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.4
+  },
+  {
+    "parroquia": "EL AIRO",
+    "id": 1645,
+    "votos": 1,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.2
+  },
+  {
+    "parroquia": "JIMBURA",
+    "id": 1845,
+    "votos": 8,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.71
+  },
+  {
+    "parroquia": "SANTA TERESITA",
+    "id": 3765,
+    "votos": 9,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 1.01
+  },
+  {
+    "parroquia": "27 DE ABRIL /LA NARANJA",
+    "id": 4460,
+    "votos": 7,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.65
+  },
+  {
+    "parroquia": "AMALUZA",
+    "id": 5020,
+    "votos": 17,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.52
+  }
+]

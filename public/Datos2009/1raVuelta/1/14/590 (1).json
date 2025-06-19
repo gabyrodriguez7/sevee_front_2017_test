@@ -1,0 +1,65 @@
+ [
+                {
+                    "parroquia": "MACAS",
+                    "id": 5615,
+                    "votos": 57,
+                    "candidato": "Diego Delgado Jara",
+                    "value": 0.6
+                },
+                {
+                    "parroquia": "SINAI",
+                    "id": 4485,
+                    "votos": 1,
+                    "candidato": "Diego Delgado Jara",
+                    "value": 0.25
+                },
+                {
+                    "parroquia": "ZUNAC",
+                    "id": 4360,
+                    "votos": 0,
+                    "candidato": "Diego Delgado Jara",
+                    "value": 0.0
+                },
+                {
+                    "parroquia": "SEVILLA DON BOSCO",
+                    "id": 3830,
+                    "votos": 20,
+                    "candidato": "Diego Delgado Jara",
+                    "value": 0.62
+                },
+                {
+                    "parroquia": "SAN ISIDRO",
+                    "id": 3440,
+                    "votos": 2,
+                    "candidato": "Diego Delgado Jara",
+                    "value": 0.56
+                },
+                {
+                    "parroquia": "RIO BLANCO",
+                    "id": 1730,
+                    "votos": 1,
+                    "candidato": "Diego Delgado Jara",
+                    "value": 0.23
+                },
+                {
+                    "parroquia": "GRAL. PROA�O",
+                    "id": 1345,
+                    "votos": 4,
+                    "candidato": "Diego Delgado Jara",
+                    "value": 0.7
+                },
+                {
+                    "parroquia": "CUCHAENTZA",
+                    "id": 1250,
+                    "votos": 7,
+                    "candidato": "Diego Delgado Jara",
+                    "value": 1.39
+                },
+                {
+                    "parroquia": "ALSHI /9 DE OCTUBRE",
+                    "id": 65,
+                    "votos": 0,
+                    "candidato": "Diego Delgado Jara",
+                    "value": 0.0
+                }
+            ]

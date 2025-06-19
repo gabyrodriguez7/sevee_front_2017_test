@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "EL CAMBIO",
+    "id": 6795,
+    "votos": 471,
+    "candidato": "Lucio Gutierrez",
+    "value": 12.66
+  },
+  {
+    "parroquia": "9 DE MAYO",
+    "id": 6490,
+    "votos": 273,
+    "candidato": "Lucio Gutierrez",
+    "value": 12.65
+  },
+  {
+    "parroquia": "PUERTO BOLIVAR",
+    "id": 5805,
+    "votos": 1125,
+    "candidato": "Lucio Gutierrez",
+    "value": 8.42
+  },
+  {
+    "parroquia": "MACHALA",
+    "id": 5625,
+    "votos": 14693,
+    "candidato": "Lucio Gutierrez",
+    "value": 14.68
+  },
+  {
+    "parroquia": "LA PROVIDENCIA",
+    "id": 5565,
+    "votos": 231,
+    "candidato": "Lucio Gutierrez",
+    "value": 14.54
+  },
+  {
+    "parroquia": "EL RETIRO",
+    "id": 255,
+    "votos": 110,
+    "candidato": "Lucio Gutierrez",
+    "value": 10.42
+  }
+]

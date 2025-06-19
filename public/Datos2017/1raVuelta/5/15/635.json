@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "COSANGA",
+    "id": 670,
+    "votos": 6,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.66
+  },
+  {
+    "parroquia": "CUYUJA",
+    "id": 765,
+    "votos": 19,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 5.31
+  },
+  {
+    "parroquia": "PAPALLACTA",
+    "id": 2770,
+    "votos": 14,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 3.1
+  },
+  {
+    "parroquia": "SAN FRANCISCO DE BORJA",
+    "id": 3395,
+    "votos": 31,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 2.26
+  },
+  {
+    "parroquia": "SUMACO",
+    "id": 3890,
+    "votos": 6,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 3.73
+  },
+  {
+    "parroquia": "BAEZA",
+    "id": 5090,
+    "votos": 28,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.86
+  }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "SAN LUIS",
+        "id": 5980,
+        "votos": 1297,
+        "candidato": "Alvaro Noboa",
+        "value": 12.23
+    },
+    {
+        "parroquia": "JORDAN",
+        "id": 5490,
+        "votos": 1847,
+        "candidato": "Alvaro Noboa",
+        "value": 12.04
+    },
+    {
+        "parroquia": "SELVA ALEGRE",
+        "id": 3810,
+        "votos": 41,
+        "candidato": "Alvaro Noboa",
+        "value": 5.63
+    },
+    {
+        "parroquia": "SAN RAFAEL",
+        "id": 3630,
+        "votos": 97,
+        "candidato": "Alvaro Noboa",
+        "value": 4.26
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 3590,
+        "votos": 312,
+        "candidato": "Alvaro Noboa",
+        "value": 6.57
+    },
+    {
+        "parroquia": "SAN JUAN DE ILUMAN",
+        "id": 3525,
+        "votos": 430,
+        "candidato": "Alvaro Noboa",
+        "value": 12.44
+    },
+    {
+        "parroquia": "SAN JOSE DE QUICHINCHE",
+        "id": 3490,
+        "votos": 411,
+        "candidato": "Alvaro Noboa",
+        "value": 12.89
+    },
+    {
+        "parroquia": "PATAQUI",
+        "id": 2785,
+        "votos": 18,
+        "candidato": "Alvaro Noboa",
+        "value": 7.2
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 1360,
+        "votos": 136,
+        "candidato": "Alvaro Noboa",
+        "value": 4.78
+    },
+    {
+        "parroquia": "EUGENIO ESPEJO",
+        "id": 1215,
+        "votos": 237,
+        "candidato": "Alvaro Noboa",
+        "value": 8.58
+    },
+    {
+        "parroquia": "DR MIGUEL EGAS/PEGUCHE",
+        "id": 1040,
+        "votos": 202,
+        "candidato": "Alvaro Noboa",
+        "value": 8.27
+    }
+]

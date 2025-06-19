@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "DURENO",
+    "id": 1045,
+    "votos": 233,
+    "candidato": "Lasso Guillermo",
+    "value": 15.638
+  },
+  {
+    "parroquia": "EL ENO",
+    "id": 1285,
+    "votos": 406,
+    "candidato": "Lasso Guillermo",
+    "value": 14.092
+  },
+  {
+    "parroquia": "PACAYACU",
+    "id": 1290,
+    "votos": 377,
+    "candidato": "Lasso Guillermo",
+    "value": 12.1
+  },
+  {
+    "parroquia": "GENERAL FARFAN",
+    "id": 1330,
+    "votos": 208,
+    "candidato": "Lasso Guillermo",
+    "value": 10.0
+  },
+  {
+    "parroquia": "SANTA CECILIA",
+    "id": 1790,
+    "votos": 235,
+    "candidato": "Lasso Guillermo",
+    "value": 11.785
+  },
+  {
+    "parroquia": "JAMBELI",
+    "id": 1795,
+    "votos": 151,
+    "candidato": "Lasso Guillermo",
+    "value": 12.862
+  },
+  {
+    "parroquia": "10 DE AGOSTO",
+    "id": 4625,
+    "votos": 27,
+    "candidato": "Lasso Guillermo",
+    "value": 8.04
+  },
+  {
+    "parroquia": "NUEVA LOJA",
+    "id": 5710,
+    "votos": 7081,
+    "candidato": "Lasso Guillermo",
+    "value": 21.152
+  }
+]

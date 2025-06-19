@@ -1,0 +1,93 @@
+[
+  {
+    "parroquia": "ALTO TAMBO/GUADAL",
+    "id": 70,
+    "votos": 203,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 34
+  },
+  {
+    "parroquia": "ANCÓN/PALMA REAL",
+    "id": 110,
+    "votos": 61,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 7.85
+  },
+  {
+    "parroquia": "CALDERÓN",
+    "id": 435,
+    "votos": 46,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 12.85
+  },
+  {
+    "parroquia": "CARONDELET",
+    "id": 535,
+    "votos": 60,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 10.87
+  },
+  {
+    "parroquia": "5 DE JUNIO/HUIMBI",
+    "id": 570,
+    "votos": 13,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 8.02
+  },
+  {
+    "parroquia": "CONCEPCIÓN",
+    "id": 620,
+    "votos": 69,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 10.15
+  },
+  {
+    "parroquia": "MATAJE",
+    "id": 2395,
+    "votos": 59,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 12.91
+  },
+  {
+    "parroquia": "SAN JAVIER DE CACHABI",
+    "id": 3455,
+    "votos": 26,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 6.33
+  },
+  {
+    "parroquia": "SANTA RITA",
+    "id": 3725,
+    "votos": 23,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 4.21
+  },
+  {
+    "parroquia": "TAMBILLO",
+    "id": 3955,
+    "votos": 97,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 15.8
+  },
+  {
+    "parroquia": "TULULBÍ /RICAURTE",
+    "id": 4075,
+    "votos": 102,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 12.16
+  },
+  {
+    "parroquia": "URBINA",
+    "id": 4125,
+    "votos": 27,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 5.42
+  },
+  {
+    "parroquia": "SAN LORENZO",
+    "id": 6130,
+    "votos": 1949,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 17.13
+  }
+]

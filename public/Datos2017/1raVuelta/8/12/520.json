@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "GUARE",
+    "id": 1460,
+    "votos": 107,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.75
+  },
+  {
+    "parroquia": "ISLA DE BEJUCAL",
+    "id": 1740,
+    "votos": 86,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.95
+  },
+  {
+    "parroquia": "BABA",
+    "id": 5085,
+    "votos": 436,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.96
+  }
+]

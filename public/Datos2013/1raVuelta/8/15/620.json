@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "AHUANO",
+    "id": 25,
+    "votos": 20,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 0.7
+  },
+  {
+    "parroquia": "CHONTAPUNTA",
+    "id": 940,
+    "votos": 14,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 0.520833
+  },
+  {
+    "parroquia": "TALAG",
+    "id": 1930,
+    "votos": 11,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 0.76
+  },
+  {
+    "parroquia": "PANO",
+    "id": 2755,
+    "votos": 9,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 1.0
+  },
+  {
+    "parroquia": "PUERTO MISAHUALLI",
+    "id": 3000,
+    "votos": 21,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 0.9
+  },
+  {
+    "parroquia": "PUERTO NAPO",
+    "id": 3050,
+    "votos": 30,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 1.2
+  },
+  {
+    "parroquia": "SAN JUAN DE MUYUNA",
+    "id": 4580,
+    "votos": 9,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 0.5322295
+  },
+  {
+    "parroquia": "TENA",
+    "id": 6160,
+    "votos": 420,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 2.4
+  }
+]

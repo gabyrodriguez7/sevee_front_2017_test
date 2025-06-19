@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "QUERO",
+    "id": 5835,
+    "votos": 607,
+    "candidato": "Alvaro Noboa",
+    "value": 6.44
+  },
+  {
+    "parroquia": "RUMIPAMBA",
+    "id": 4550,
+    "votos": 52,
+    "candidato": "Alvaro Noboa",
+    "value": 7.62
+  },
+  {
+    "parroquia": "YANAYACU MOCHAPATA",
+    "id": 4310,
+    "votos": 58,
+    "candidato": "Alvaro Noboa",
+    "value": 8.11
+  }
+]

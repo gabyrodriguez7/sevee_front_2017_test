@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "SEVILLA DE ORO",
+        "id": 6480,
+        "votos": 26,
+        "candidato": "Alvaro Noboa",
+        "value": 1.74
+    },
+    {
+        "parroquia": "PALMAS",
+        "id": 2725,
+        "votos": 18,
+        "candidato": "Alvaro Noboa",
+        "value": 1.4
+    },
+    {
+        "parroquia": "AMALUZA",
+        "id": 85,
+        "votos": 4,
+        "candidato": "Alvaro Noboa",
+        "value": 0.93
+    }
+]

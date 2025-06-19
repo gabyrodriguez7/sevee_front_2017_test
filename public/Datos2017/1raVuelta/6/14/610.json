@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "ASUNCIÓN",
+    "id": 180,
+    "votos": 2,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.24
+  },
+  {
+    "parroquia": "SANTA MARIANITA DE JESÚS",
+    "id": 1140,
+    "votos": 1,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.24
+  },
+  {
+    "parroquia": "HUAMBI",
+    "id": 1635,
+    "votos": 10,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.6
+  },
+  {
+    "parroquia": "SUCÚA",
+    "id": 6110,
+    "votos": 33,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.42
+  }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "SANTA ISABEL",
+        "id": 6045,
+        "votos": 39,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.59
+    },
+    {
+        "parroquia": "SHAGLLI",
+        "id": 3835,
+        "votos": 2,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.24
+    },
+    {
+        "parroquia": "EL CARMEN DE PIJILI",
+        "id": 1130,
+        "votos": 0,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.0
+    },
+    {
+        "parroquia": "ABDON CALDERON / LA UNION",
+        "id": 15,
+        "votos": 8,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.63
+    }
+]

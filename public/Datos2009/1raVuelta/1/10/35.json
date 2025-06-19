@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "SAN LUIS",
+        "id": 5980,
+        "votos": 491,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 4.62
+    },
+    {
+        "parroquia": "JORDAN",
+        "id": 5490,
+        "votos": 739,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 4.81
+    },
+    {
+        "parroquia": "SELVA ALEGRE",
+        "id": 3810,
+        "votos": 19,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.6
+    },
+    {
+        "parroquia": "SAN RAFAEL",
+        "id": 3630,
+        "votos": 34,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.49
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 3590,
+        "votos": 155,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.26
+    },
+    {
+        "parroquia": "SAN JUAN DE ILUMAN",
+        "id": 3525,
+        "votos": 134,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.87
+    },
+    {
+        "parroquia": "SAN JOSE DE QUICHINCHE",
+        "id": 3490,
+        "votos": 67,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.1
+    },
+    {
+        "parroquia": "PATAQUI",
+        "id": 2785,
+        "votos": 5,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.0
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 1360,
+        "votos": 87,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.05
+    },
+    {
+        "parroquia": "EUGENIO ESPEJO",
+        "id": 1215,
+        "votos": 84,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.04
+    },
+    {
+        "parroquia": "DR MIGUEL EGAS/PEGUCHE",
+        "id": 1040,
+        "votos": 72,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.95
+    }
+]

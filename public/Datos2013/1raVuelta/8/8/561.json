@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CHONTADURO",
+        "id": 930,
+        "votos": 17,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.5
+    },
+    {
+        "parroquia": "CHUMUNDE",
+        "id": 965,
+        "votos": 14,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.568
+    },
+    {
+        "parroquia": "LAGARTO",
+        "id": 2035,
+        "votos": 29,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.454
+    },
+    {
+        "parroquia": "MONTALVO / HORQUETA",
+        "id": 2445,
+        "votos": 33,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.84
+    },
+    {
+        "parroquia": "ROCAFUERTE",
+        "id": 3215,
+        "votos": 35,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.37
+    },
+    {
+        "parroquia": "RIO VERDE",
+        "id": 6720,
+        "votos": 55,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.8656716
+    }
+]

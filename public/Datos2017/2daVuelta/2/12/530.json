@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "PUERTO PECHICHE",
+    "id": 3015,
+    "votos": 1759,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 57.11
+  },
+  {
+    "parroquia": "SAN JUAN",
+    "id": 3510,
+    "votos": 6717,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 59.13
+  },
+  {
+    "parroquia": "PUEBLO VIEJO",
+    "id": 5800,
+    "votos": 5336,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 54.84
+  }
+]

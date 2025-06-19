@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "SAN JOSE",
+        "id": 6825,
+        "votos": 5,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.1
+    },
+    {
+        "parroquia": "CATAMAYO",
+        "id": 5270,
+        "votos": 222,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.02
+    },
+    {
+        "parroquia": "ZAMBI",
+        "id": 4455,
+        "votos": 3,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.04
+    },
+    {
+        "parroquia": "SAN PEDRO DE LA BENDITA",
+        "id": 3610,
+        "votos": 29,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.39
+    },
+    {
+        "parroquia": "GUAYQUICHUMA",
+        "id": 1480,
+        "votos": 3,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.41
+    },
+    {
+        "parroquia": "EL TAMBO",
+        "id": 1200,
+        "votos": 13,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 0.97
+    }
+]

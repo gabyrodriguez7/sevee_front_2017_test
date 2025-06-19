@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "SAN SEBASTIÁN",
+    "id": 1060,
+    "votos": 23,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.73
+  },
+  {
+    "parroquia": "BARRAGANETE",
+    "id": 1065,
+    "votos": 38,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.56
+  },
+  {
+    "parroquia": "PICHINCHA /GERMUD",
+    "id": 6550,
+    "votos": 134,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.91
+  }
+]

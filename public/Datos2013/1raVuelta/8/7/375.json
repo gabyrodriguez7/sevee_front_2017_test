@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CHACRAS",
+        "id": 805,
+        "votos": 13,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.908957
+    },
+    {
+        "parroquia": "CARCABON",
+        "id": 1695,
+        "votos": 12,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.7
+    },
+    {
+        "parroquia": "PALMALES",
+        "id": 2715,
+        "votos": 42,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.0
+    },
+    {
+        "parroquia": "ARENILLAS",
+        "id": 5040,
+        "votos": 437,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.298113
+    }
+]

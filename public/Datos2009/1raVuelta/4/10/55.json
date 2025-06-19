@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "URCUQUI",
+        "id": 6190,
+        "votos": 2131,
+        "candidato": "Rafael Correa Delgado",
+        "value": 68.3
+    },
+    {
+        "parroquia": "TUMBABIRO",
+        "id": 4080,
+        "votos": 570,
+        "candidato": "Rafael Correa Delgado",
+        "value": 73.64
+    },
+    {
+        "parroquia": "SAN BLAS",
+        "id": 3365,
+        "votos": 1284,
+        "candidato": "Rafael Correa Delgado",
+        "value": 75.84
+    },
+    {
+        "parroquia": "PABLO ARENAS",
+        "id": 2675,
+        "votos": 811,
+        "candidato": "Rafael Correa Delgado",
+        "value": 72.54
+    },
+    {
+        "parroquia": "LA MERCED DE BUENOS AIRES",
+        "id": 2060,
+        "votos": 626,
+        "candidato": "Rafael Correa Delgado",
+        "value": 77.28
+    },
+    {
+        "parroquia": "CAHUASQUI",
+        "id": 425,
+        "votos": 703,
+        "candidato": "Rafael Correa Delgado",
+        "value": 73.45
+    }
+]

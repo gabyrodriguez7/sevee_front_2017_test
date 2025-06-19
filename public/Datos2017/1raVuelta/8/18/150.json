@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "LLIGUA",
+    "id": 2270,
+    "votos": 10,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.34
+  },
+  {
+    "parroquia": "RÍO NEGRO",
+    "id": 3190,
+    "votos": 23,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.88
+  },
+  {
+    "parroquia": "RÍO VERDE",
+    "id": 3200,
+    "votos": 36,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.34
+  },
+  {
+    "parroquia": "ULBA",
+    "id": 4135,
+    "votos": 38,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.06
+  },
+  {
+    "parroquia": "BAÑOS",
+    "id": 5105,
+    "votos": 335,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.93
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "parroquia": "BENITEZ /PACHANLICA",
+    "id": 335,
+    "votos": 157,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 10.6
+  },
+  {
+    "parroquia": "BOLIVAR",
+    "id": 365,
+    "votos": 145,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 8.87
+  },
+  {
+    "parroquia": "COTALO",
+    "id": 675,
+    "votos": 65,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 5.1
+  },
+  {
+    "parroquia": "CHIQUICHA",
+    "id": 900,
+    "votos": 53,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 4.1
+  },
+  {
+    "parroquia": "EL ROSARIO /RUMICHACA",
+    "id": 1185,
+    "votos": 111,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 7.38
+  },
+  {
+    "parroquia": "GARCIA MORENO",
+    "id": 1320,
+    "votos": 130,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 6.1321
+  },
+  {
+    "parroquia": "HUAMBALO",
+    "id": 1630,
+    "votos": 306,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 6.35
+  },
+  {
+    "parroquia": "SALASACA",
+    "id": 3905,
+    "votos": 255,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 8.754
+  },
+  {
+    "parroquia": "PELILEO",
+    "id": 5780,
+    "votos": 1345,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 8.1
+  },
+  {
+    "parroquia": "PELILEO GRANDE /R. MINO",
+    "id": 5900,
+    "votos": 53,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 8.1
+  }
+]

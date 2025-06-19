@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "TARAPOA",
+    "id": 6765,
+    "votos": 1257,
+    "candidato": "Lucio Gutierrez",
+    "value": 47.92
+  },
+  {
+    "parroquia": "AGUAS NEGRAS",
+    "id": 1555,
+    "votos": 215,
+    "candidato": "Lucio Gutierrez",
+    "value": 39.59
+  },
+  {
+    "parroquia": "CUYABENO",
+    "id": 760,
+    "votos": 109,
+    "candidato": "Lucio Gutierrez",
+    "value": 61.58
+  }
+]

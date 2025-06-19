@@ -1,0 +1,59 @@
+[
+                {
+                    "parroquia": "GRAL. VERNAZA",
+                    "id": 1350,
+                    "votos": 395,
+                    "candidato": "Lasso Guillermo",
+                    "value": 9.7
+                },
+                {
+                    "parroquia": "JUNQUILLAL",
+                    "id": 1595,
+                    "votos": 264,
+                    "candidato": "Lasso Guillermo",
+                    "value": 5.72
+                },
+                {
+                    "parroquia": "VICTORIA",
+                    "id": 4220,
+                    "votos": 308,
+                    "candidato": "Lasso Guillermo",
+                    "value": 13.15
+                },
+                {
+                    "parroquia": "BOCANA",
+                    "id": 5120,
+                    "votos": 34,
+                    "candidato": "Lasso Guillermo",
+                    "value": 13.08
+                },
+                {
+                    "parroquia": "CANDILEJOS",
+                    "id": 5155,
+                    "votos": 107,
+                    "candidato": "Lasso Guillermo",
+                    "value": 14.965
+                },
+                {
+                    "parroquia": "SALITRE",
+                    "id": 5200,
+                    "votos": 2563,
+                    "candidato": "Lasso Guillermo",
+                    "value": 12.1182
+                },
+                {
+                    "parroquia": "PARAISO",
+                    "id": 5765,
+                    "votos": 28,
+                    "candidato": "Lasso Guillermo",
+                    "value": 21.5
+                },
+                {
+                    "parroquia": "SAN MATEO",
+                    "id": 5990,
+                    "votos": 21,
+                    "candidato": "Lasso Guillermo",
+                    "value": 17.2131
+                }
+            ]
+            

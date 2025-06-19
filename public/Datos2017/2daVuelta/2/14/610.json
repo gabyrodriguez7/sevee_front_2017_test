@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "ASUNCIÓN",
+    "id": 180,
+    "votos": 227,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 24.23
+  },
+  {
+    "parroquia": "SANTA MARIANITA DE JESÚS",
+    "id": 1140,
+    "votos": 265,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 59.68
+  },
+  {
+    "parroquia": "HUAMBI",
+    "id": 1635,
+    "votos": 801,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 44.16
+  },
+  {
+    "parroquia": "SUCÚA",
+    "id": 6110,
+    "votos": 3618,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 43.07
+  }
+]

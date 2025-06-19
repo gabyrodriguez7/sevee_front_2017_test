@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "AYAPAMBA",
+    "id": 225,
+    "votos": 13,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.19
+  },
+  {
+    "parroquia": "SAN JUAN DE CERRO AZUL",
+    "id": 375,
+    "votos": 12,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 4.18
+  },
+  {
+    "parroquia": "CORDONCILLO",
+    "id": 4480,
+    "votos": 5,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.83
+  },
+  {
+    "parroquia": "SAN JOSÉ",
+    "id": 4530,
+    "votos": 1,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.35
+  },
+  {
+    "parroquia": "MILAGRO",
+    "id": 4535,
+    "votos": 2,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.84
+  },
+  {
+    "parroquia": "PACCHA",
+    "id": 5745,
+    "votos": 29,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.43
+  }
+]

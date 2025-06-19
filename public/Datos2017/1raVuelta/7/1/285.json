@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "ABDÓN CALDERÓN / LA UNIÓN",
+    "id": 15,
+    "votos": 23,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.3
+  },
+  {
+    "parroquia": "SHAGLLI",
+    "id": 3835,
+    "votos": 10,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.94
+  },
+  {
+    "parroquia": "SAN SALVADOR DE CAÑARIBAMBA",
+    "id": 4610,
+    "votos": 1,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.32
+  },
+  {
+    "parroquia": "SANTA ISABEL",
+    "id": 6045,
+    "votos": 186,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.94
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "SAN JACINTO DE WAKAMBEIS",
+    "id": 710,
+    "votos": 1,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.48
+  },
+  {
+    "parroquia": "SANTIAGO DE PANANZA",
+    "id": 1785,
+    "votos": 4,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.62
+  },
+  {
+    "parroquia": "PAN DE AZÚCAR",
+    "id": 2750,
+    "votos": 4,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.96
+  },
+  {
+    "parroquia": "SAN CARLOS DE LIMÓN",
+    "id": 3920,
+    "votos": 0,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0
+  },
+  {
+    "parroquia": "SAN JUAN BOSCO",
+    "id": 6445,
+    "votos": 17,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.09
+  }
+]

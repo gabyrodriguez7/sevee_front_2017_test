@@ -1,0 +1,23 @@
+[
+                {
+                    "parroquia": "QUERO",
+                    "id": 5835,
+                    "votos": 26,
+                    "candidato": "Melba Jacome",
+                    "value": 0.28
+                },
+                {
+                    "parroquia": "RUMIPAMBA",
+                    "id": 4550,
+                    "votos": 2,
+                    "candidato": "Melba Jacome",
+                    "value": 0.29
+                },
+                {
+                    "parroquia": "YANAYACU MOCHAPATA",
+                    "id": 4310,
+                    "votos": 7,
+                    "candidato": "Melba Jacome",
+                    "value": 0.98
+                }
+            ]

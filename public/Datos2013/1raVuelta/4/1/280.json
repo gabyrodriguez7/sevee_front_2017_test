@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "CUTCHIL",
+        "id": 750,
+        "votos": 77,
+        "candidato": "Acosta Alberto",
+        "value": 11.0
+    },
+    {
+        "parroquia": "GIMA",
+        "id": 1355,
+        "votos": 211,
+        "candidato": "Acosta Alberto",
+        "value": 11.059
+    },
+    {
+        "parroquia": "GUEL",
+        "id": 1490,
+        "votos": 59,
+        "candidato": "Acosta Alberto",
+        "value": 8.0
+    },
+    {
+        "parroquia": "LUDO",
+        "id": 2215,
+        "votos": 162,
+        "candidato": "Acosta Alberto",
+        "value": 9.85
+    },
+    {
+        "parroquia": "SAN BARTOLOME",
+        "id": 3360,
+        "votos": 109,
+        "candidato": "Acosta Alberto",
+        "value": 5.61
+    },
+    {
+        "parroquia": "SAN JOSE DE RARANGA",
+        "id": 3495,
+        "votos": 226,
+        "candidato": "Acosta Alberto",
+        "value": 24.0
+    },
+    {
+        "parroquia": "SIGSIG",
+        "id": 6085,
+        "votos": 820,
+        "candidato": "Acosta Alberto",
+        "value": 11.0
+    }
+]

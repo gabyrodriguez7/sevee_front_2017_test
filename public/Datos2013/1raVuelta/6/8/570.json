@@ -1,0 +1,66 @@
+[
+                {
+                    "parroquia": "BOLIVAR",
+                    "id": 355,
+                    "votos": 67,
+                    "candidato": "Lasso Guillermo",
+                    "value": 13.54
+                },
+                {
+                    "parroquia": "DAULE",
+                    "id": 1010,
+                    "votos": 75,
+                    "candidato": "Lasso Guillermo",
+                    "value": 11.47
+                },
+                {
+                    "parroquia": "GALERA",
+                    "id": 1305,
+                    "votos": 108,
+                    "candidato": "Lasso Guillermo",
+                    "value": 14.94
+                },
+                {
+                    "parroquia": "QUINGUE",
+                    "id": 3125,
+                    "votos": 80,
+                    "candidato": "Lasso Guillermo",
+                    "value": 18.0
+                },
+                {
+                    "parroquia": "SALIMA",
+                    "id": 3280,
+                    "votos": 65,
+                    "candidato": "Lasso Guillermo",
+                    "value": 11.8
+                },
+                {
+                    "parroquia": "SAN FRANCISCO",
+                    "id": 3390,
+                    "votos": 222,
+                    "candidato": "Lasso Guillermo",
+                    "value": 17.87
+                },
+                {
+                    "parroquia": "SAN GREGORIO",
+                    "id": 3430,
+                    "votos": 244,
+                    "candidato": "Lasso Guillermo",
+                    "value": 13.23
+                },
+                {
+                    "parroquia": "SAN JOSE DE CHAMANGA",
+                    "id": 3470,
+                    "votos": 403,
+                    "candidato": "Lasso Guillermo",
+                    "value": 21.3
+                },
+                {
+                    "parroquia": "MUISNE",
+                    "id": 5670,
+                    "votos": 985,
+                    "candidato": "Lasso Guillermo",
+                    "value": 16.588
+                }
+            ]
+            

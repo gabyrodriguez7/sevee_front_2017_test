@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "ANGAMARCA",
+        "id": 125,
+        "votos": 293,
+        "candidato": "Acosta Alberto",
+        "value": 14.6
+    },
+    {
+        "parroquia": "GUANGAJE",
+        "id": 1430,
+        "votos": 490,
+        "candidato": "Acosta Alberto",
+        "value": 12.1
+    },
+    {
+        "parroquia": "LA VICTORIA",
+        "id": 2150,
+        "votos": 136,
+        "candidato": "Acosta Alberto",
+        "value": 8.17
+    },
+    {
+        "parroquia": "PILALO",
+        "id": 2865,
+        "votos": 85,
+        "candidato": "Acosta Alberto",
+        "value": 9.13
+    },
+    {
+        "parroquia": "TINGO",
+        "id": 4015,
+        "votos": 99,
+        "candidato": "Acosta Alberto",
+        "value": 5.5
+    },
+    {
+        "parroquia": "ZUMBAHUA",
+        "id": 4365,
+        "votos": 639,
+        "candidato": "Acosta Alberto",
+        "value": 9.9
+    },
+    {
+        "parroquia": "PUJILI",
+        "id": 5820,
+        "votos": 2191,
+        "candidato": "Acosta Alberto",
+        "value": 10.591193
+    }
+]

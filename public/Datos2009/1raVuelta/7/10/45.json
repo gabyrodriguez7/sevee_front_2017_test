@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "ATUNTAQUI",
+        "id": 5050,
+        "votos": 1075,
+        "candidato": "Alvaro Noboa",
+        "value": 10.6
+    },
+    {
+        "parroquia": "ANDRADE MARIN/LOURDES",
+        "id": 5025,
+        "votos": 169,
+        "candidato": "Alvaro Noboa",
+        "value": 7.54
+    },
+    {
+        "parroquia": "SAN ROQUE",
+        "id": 3640,
+        "votos": 426,
+        "candidato": "Alvaro Noboa",
+        "value": 9.58
+    },
+    {
+        "parroquia": "SAN JOSE DE CHALTURA",
+        "id": 3465,
+        "votos": 116,
+        "candidato": "Alvaro Noboa",
+        "value": 7.14
+    },
+    {
+        "parroquia": "SAN FCO.DE NATABUELA",
+        "id": 3400,
+        "votos": 211,
+        "candidato": "Alvaro Noboa",
+        "value": 8.34
+    },
+    {
+        "parroquia": "IMBAYA",
+        "id": 1715,
+        "votos": 41,
+        "candidato": "Alvaro Noboa",
+        "value": 7.48
+    }
+]

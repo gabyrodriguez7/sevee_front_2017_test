@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "GRAL. LEONIDAS PLAZA",
+    "id": 5390,
+    "votos": 1254,
+    "candidato": "Lucio Gutierrez",
+    "value": 48.72
+  },
+  {
+    "parroquia": "YUNGANZA /EL ROSARIO",
+    "id": 4305,
+    "votos": 134,
+    "candidato": "Lucio Gutierrez",
+    "value": 38.07
+  },
+  {
+    "parroquia": "SANTA SUSANA DE CHIVIAZA",
+    "id": 3760,
+    "votos": 108,
+    "candidato": "Lucio Gutierrez",
+    "value": 35.18
+  },
+  {
+    "parroquia": "SAN ANTONIO",
+    "id": 3320,
+    "votos": 120,
+    "candidato": "Lucio Gutierrez",
+    "value": 60.0
+  },
+  {
+    "parroquia": "SAN MIGUEL DE CONCHAY",
+    "id": 3250,
+    "votos": 157,
+    "candidato": "Lucio Gutierrez",
+    "value": 63.82
+  },
+  {
+    "parroquia": "INDANZA",
+    "id": 1720,
+    "votos": 261,
+    "candidato": "Lucio Gutierrez",
+    "value": 50.29
+  }
+]

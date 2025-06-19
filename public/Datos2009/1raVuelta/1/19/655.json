@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "EL LIMON",
+    "id": 6840,
+    "votos": 7,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.78
+  },
+  {
+    "parroquia": "ZAMORA",
+    "id": 6305,
+    "votos": 290,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 4.25
+  },
+  {
+    "parroquia": "TIMBARA",
+    "id": 4010,
+    "votos": 21,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 3.44
+  },
+  {
+    "parroquia": "SABANILLA",
+    "id": 3260,
+    "votos": 7,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.77
+  },
+  {
+    "parroquia": "LA VICTORIA DE IMBANA",
+    "id": 2155,
+    "votos": 14,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 3.46
+  },
+  {
+    "parroquia": "SAN CARLOS DE LAS MINAS",
+    "id": 1770,
+    "votos": 35,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 4.38
+  },
+  {
+    "parroquia": "GUADALUPE",
+    "id": 1390,
+    "votos": 51,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 4.27
+  },
+  {
+    "parroquia": "CUMBARATZA",
+    "id": 720,
+    "votos": 55,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 3.26
+  }
+]

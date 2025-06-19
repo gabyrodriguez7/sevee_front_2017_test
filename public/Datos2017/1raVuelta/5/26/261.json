@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "C. E. EN MILAN",
+    "id": 9043,
+    "votos": 86,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.77
+  },
+  {
+    "parroquia": "C. E. EN GENOVA",
+    "id": 9044,
+    "votos": 62,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.05
+  },
+  {
+    "parroquia": "C. E. EN ROMA",
+    "id": 9045,
+    "votos": 23,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.78
+  }
+]

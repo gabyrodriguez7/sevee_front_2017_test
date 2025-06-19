@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "AMERICA /LA CERA",
+        "id": 105,
+        "votos": 86,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.01
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 560,
+        "votos": 40,
+        "candidato": "Gutierrez Lucio",
+        "value": 5.08
+    },
+    {
+        "parroquia": "EL ANEGADO",
+        "id": 1115,
+        "votos": 248,
+        "candidato": "Gutierrez Lucio",
+        "value": 7.318
+    },
+    {
+        "parroquia": "JULCUY",
+        "id": 1880,
+        "votos": 93,
+        "candidato": "Gutierrez Lucio",
+        "value": 7.654
+    },
+    {
+        "parroquia": "PEDRO PABLO GOMEZ",
+        "id": 2810,
+        "votos": 336,
+        "candidato": "Gutierrez Lucio",
+        "value": 12.542
+    },
+    {
+        "parroquia": "PUERTO CAYO",
+        "id": 2990,
+        "votos": 71,
+        "candidato": "Gutierrez Lucio",
+        "value": 3.7251
+    },
+    {
+        "parroquia": "MEMBRILLAL",
+        "id": 4490,
+        "votos": 36,
+        "candidato": "Gutierrez Lucio",
+        "value": 5.6162
+    },
+    {
+        "parroquia": "JIPIJAPA",
+        "id": 5485,
+        "votos": 1014,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.1327
+    },
+    {
+        "parroquia": "DR. MIGUEL MORAN LUCIO",
+        "id": 7465,
+        "votos": 159,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.6221
+    },
+    {
+        "parroquia": "MANUEL INOCENCIO PARRALES",
+        "id": 7470,
+        "votos": 50,
+        "candidato": "Gutierrez Lucio",
+        "value": 3.043214
+    },
+    {
+        "parroquia": "SAN LORENZO DE JIPIJAPA",
+        "id": 7475,
+        "votos": 221,
+        "candidato": "Gutierrez Lucio",
+        "value": 3.79074
+    }
+]

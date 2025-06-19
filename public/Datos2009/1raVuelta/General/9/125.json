@@ -1,0 +1,24 @@
+[
+    {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "LUCIO GUTIERREZ",
+        "id": 1435,
+        "votos": 748,
+        "votos1": 453,
+        "votos2": 201,
+        "fill": "#02C01C",
+        "porcentaje1": 60.56,
+        "porcentaje2": 26.87
+    },
+    {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "LUCIO GUTIERREZ",
+        "id": 5365,
+        "votos": 8832,
+        "votos1": 4520,
+        "votos2": 3258,
+        "fill": "#02C01C",
+        "porcentaje1": 51.18,
+        "porcentaje2": 36.89
+    }
+]

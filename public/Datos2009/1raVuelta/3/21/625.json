@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "NUEVA LOJA",
+        "id": 5710,
+        "votos": 63,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.24
+    },
+    {
+        "parroquia": "JAMBELI",
+        "id": 1795,
+        "votos": 0,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.0
+    },
+    {
+        "parroquia": "SANTA CECILIA",
+        "id": 1790,
+        "votos": 4,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.31
+    },
+    {
+        "parroquia": "GENERAL FARFAN",
+        "id": 1330,
+        "votos": 8,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.66
+    },
+    {
+        "parroquia": "PACAYACU",
+        "id": 1290,
+        "votos": 4,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.17
+    },
+    {
+        "parroquia": "EL ENO",
+        "id": 1285,
+        "votos": 5,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.24
+    },
+    {
+        "parroquia": "DURENO",
+        "id": 1045,
+        "votos": 3,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.24
+    }
+]

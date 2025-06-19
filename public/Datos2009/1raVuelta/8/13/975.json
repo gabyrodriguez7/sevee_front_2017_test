@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "PUERTO LOPEZ",
+    "id": 6575,
+    "votos": 1691,
+    "candidato": "Lucio Gutierrez",
+    "value": 24.42
+  },
+  {
+    "parroquia": "MACHALILLA",
+    "id": 2305,
+    "votos": 441,
+    "candidato": "Lucio Gutierrez",
+    "value": 20.45
+  },
+  {
+    "parroquia": "SALANGO",
+    "id": 1920,
+    "votos": 112,
+    "candidato": "Lucio Gutierrez",
+    "value": 12.02
+  }
+]

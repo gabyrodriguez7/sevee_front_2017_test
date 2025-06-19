@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "EL TAMBO",
+    "id": 1200,
+    "votos": 44,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.35
+  },
+  {
+    "parroquia": "GUAYQUICHUMA",
+    "id": 1480,
+    "votos": 1,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.4
+  },
+  {
+    "parroquia": "SAN PEDRO DE LA BENDITA",
+    "id": 3610,
+    "votos": 29,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.49
+  },
+  {
+    "parroquia": "ZAMBI",
+    "id": 4455,
+    "votos": 8,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.56
+  },
+  {
+    "parroquia": "CATAMAYO",
+    "id": 5270,
+    "votos": 442,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.85
+  },
+  {
+    "parroquia": "SAN JOSÉ",
+    "id": 6825,
+    "votos": 9,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.41
+  }
+]

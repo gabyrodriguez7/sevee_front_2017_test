@@ -1,0 +1,86 @@
+[
+  {
+    "parroquia": "AMBUQUÍ/CHOTA",
+    "id": 100,
+    "votos": 79,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.27
+  },
+  {
+    "parroquia": "ANGOCHAGUA",
+    "id": 130,
+    "votos": 75,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.98
+  },
+  {
+    "parroquia": "CAROLINA /GUALLUPI",
+    "id": 530,
+    "votos": 35,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.18
+  },
+  {
+    "parroquia": "LA ESPERANZA",
+    "id": 2020,
+    "votos": 211,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.2
+  },
+  {
+    "parroquia": "LITA",
+    "id": 2185,
+    "votos": 42,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.37
+  },
+  {
+    "parroquia": "SALINAS",
+    "id": 3290,
+    "votos": 24,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.94
+  },
+  {
+    "parroquia": "SAN ANTONIO",
+    "id": 3315,
+    "votos": 556,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.85
+  },
+  {
+    "parroquia": "CARANQUI",
+    "id": 5165,
+    "votos": 482,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.66
+  },
+  {
+    "parroquia": "GUAYAQUIL DE ALPACHACA",
+    "id": 5440,
+    "votos": 298,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.54
+  },
+  {
+    "parroquia": "SAGRARIO",
+    "id": 5915,
+    "votos": 1736,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.35
+  },
+  {
+    "parroquia": "SAN FRANCISCO",
+    "id": 5960,
+    "votos": 1530,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.9
+  },
+  {
+    "parroquia": "LA DOLOROSA DEL PRIORATO",
+    "id": 6780,
+    "votos": 126,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 6.63
+  }
+]

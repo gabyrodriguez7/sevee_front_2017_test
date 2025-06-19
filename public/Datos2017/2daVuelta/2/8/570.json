@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "BOLÍVAR",
+    "id": 355,
+    "votos": 336,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 66.93
+  },
+  {
+    "parroquia": "DAULE",
+    "id": 1010,
+    "votos": 722,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 73.45
+  },
+  {
+    "parroquia": "GALERA",
+    "id": 1305,
+    "votos": 655,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 70.2
+  },
+  {
+    "parroquia": "QUINGUE",
+    "id": 3125,
+    "votos": 317,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 62.28
+  },
+  {
+    "parroquia": "SALIMA",
+    "id": 3280,
+    "votos": 640,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 80.1
+  },
+  {
+    "parroquia": "SAN FRANCISCO",
+    "id": 3390,
+    "votos": 1083,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 69.78
+  },
+  {
+    "parroquia": "SAN GREGORIO",
+    "id": 3430,
+    "votos": 2052,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 70.95
+  },
+  {
+    "parroquia": "SAN JOSÉ DE CHAMANGA",
+    "id": 3470,
+    "votos": 1833,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 73.91
+  },
+  {
+    "parroquia": "MUISNE",
+    "id": 5670,
+    "votos": 4026,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 58.15
+  }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "NOVILLO",
+        "id": 1600,
+        "votos": 12,
+        "candidato": "Acosta Alberto",
+        "value": 1.2645
+    },
+    {
+        "parroquia": "ZAPALLO",
+        "id": 1620,
+        "votos": 18,
+        "candidato": "Acosta Alberto",
+        "value": 1.416
+    },
+    {
+        "parroquia": "FLAVIO ALFARO",
+        "id": 5480,
+        "votos": 125,
+        "candidato": "Acosta Alberto",
+        "value": 0.924
+    }
+]

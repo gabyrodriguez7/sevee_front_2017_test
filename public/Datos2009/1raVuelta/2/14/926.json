@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "TAISHA",
+        "id": 6700,
+        "votos": 17,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.34
+    },
+    {
+        "parroquia": "MACUMA",
+        "id": 2285,
+        "votos": 9,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.17
+    },
+    {
+        "parroquia": "TUTINENTZA",
+        "id": 1205,
+        "votos": 17,
+        "candidato": "Diego Delgado Jara",
+        "value": 2.18
+    },
+    {
+        "parroquia": "HUASAGA /WAMPUIK",
+        "id": 595,
+        "votos": 24,
+        "candidato": "Diego Delgado Jara",
+        "value": 4.35
+    }
+]

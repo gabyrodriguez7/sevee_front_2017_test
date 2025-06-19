@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "MILAGRO",
+        "id": 5660,
+        "votos": 1431,
+        "candidato": "Melba Jacome",
+        "value": 1.69
+    },
+    {
+        "parroquia": "ROBERTO ASTUDILLO",
+        "id": 3235,
+        "votos": 31,
+        "candidato": "Melba Jacome",
+        "value": 1.27
+    },
+    {
+        "parroquia": "MARISCAL SUCRE/HUAQUES",
+        "id": 2390,
+        "votos": 28,
+        "candidato": "Melba Jacome",
+        "value": 1.49
+    },
+    {
+        "parroquia": "CHOBO",
+        "id": 920,
+        "votos": 7,
+        "candidato": "Melba Jacome",
+        "value": 1.41
+    }
+]

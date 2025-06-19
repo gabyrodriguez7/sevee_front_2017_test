@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "CAMPOZANO",
+    "id": 460,
+    "votos": 76,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 2.43
+  },
+  {
+    "parroquia": "CASCOL",
+    "id": 540,
+    "votos": 92,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.96
+  },
+  {
+    "parroquia": "GUALE/STO.DOMINGO",
+    "id": 1395,
+    "votos": 41,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.4
+  },
+  {
+    "parroquia": "LASCANO",
+    "id": 2090,
+    "votos": 36,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.71
+  },
+  {
+    "parroquia": "PAJÁN",
+    "id": 5755,
+    "votos": 145,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.14
+  }
+]

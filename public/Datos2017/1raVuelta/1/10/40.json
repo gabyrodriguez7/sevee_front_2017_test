@@ -1,0 +1,72 @@
+[
+  {
+    "parroquia": "APUELA",
+    "id": 145,
+    "votos": 201,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 17.49
+  },
+  {
+    "parroquia": "GARCÍA MORENO / LLURIMAGUA",
+    "id": 1310,
+    "votos": 431,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 19.78
+  },
+  {
+    "parroquia": "IMANTAG",
+    "id": 1710,
+    "votos": 639,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 20.65
+  },
+  {
+    "parroquia": "PEÑAHERRERA",
+    "id": 2820,
+    "votos": 193,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 18.47
+  },
+  {
+    "parroquia": "PLAZA GUTIERREZ/CALVARIO",
+    "id": 2915,
+    "votos": 74,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 22.42
+  },
+  {
+    "parroquia": "QUIROGA",
+    "id": 3115,
+    "votos": 1194,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 25.66
+  },
+  {
+    "parroquia": "6 DE JULIO DE CUELLAJE",
+    "id": 3800,
+    "votos": 236,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 20.77
+  },
+  {
+    "parroquia": "VACAS GALINDO",
+    "id": 4185,
+    "votos": 90,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 25.94
+  },
+  {
+    "parroquia": "SAGRARIO",
+    "id": 5910,
+    "votos": 2001,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 27.53
+  },
+  {
+    "parroquia": "SAN FRANCISCO",
+    "id": 5955,
+    "votos": 1086,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 27.34
+  }
+]

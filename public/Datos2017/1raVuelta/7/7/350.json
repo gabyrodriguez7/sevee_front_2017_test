@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "EL RETIRO",
+    "id": 255,
+    "votos": 118,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 7.27
+  },
+  {
+    "parroquia": "LA PROVIDENCIA",
+    "id": 5565,
+    "votos": 3240,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 5.88
+  },
+  {
+    "parroquia": "MACHALA",
+    "id": 5625,
+    "votos": 4610,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 6.19
+  },
+  {
+    "parroquia": "PUERTO BOLÍVAR",
+    "id": 5805,
+    "votos": 1347,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 7.63
+  },
+  {
+    "parroquia": "9 DE MAYO",
+    "id": 6490,
+    "votos": 218,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 5.29
+  },
+  {
+    "parroquia": "EL CAMBIO",
+    "id": 6795,
+    "votos": 341,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 6.03
+  },
+  {
+    "parroquia": "JUBONES",
+    "id": 7505,
+    "votos": 52,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.51
+  },
+  {
+    "parroquia": "JAMBELÍ",
+    "id": 7510,
+    "votos": 210,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 5.77
+  }
+]

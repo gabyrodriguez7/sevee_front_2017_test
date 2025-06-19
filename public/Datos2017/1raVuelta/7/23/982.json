@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "MONTERREY",
+    "id": 4635,
+    "votos": 84,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.5
+  },
+  {
+    "parroquia": "LA VILLEGAS",
+    "id": 4640,
+    "votos": 60,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.91
+  },
+  {
+    "parroquia": "PLAN PILOTO",
+    "id": 4645,
+    "votos": 10,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.92
+  },
+  {
+    "parroquia": "LA CONCORDIA",
+    "id": 7520,
+    "votos": 1811,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 7.42
+  }
+]

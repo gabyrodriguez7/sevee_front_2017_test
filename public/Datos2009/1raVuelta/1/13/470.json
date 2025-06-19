@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "LODANA",
+    "id": 6725,
+    "votos": 11,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.14
+  },
+  {
+    "parroquia": "SANTA ANA",
+    "id": 6030,
+    "votos": 248,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.87
+  },
+  {
+    "parroquia": "LA UNION",
+    "id": 2135,
+    "votos": 39,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.84
+  },
+  {
+    "parroquia": "HONORATO VASQUEZ",
+    "id": 1610,
+    "votos": 37,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.58
+  },
+  {
+    "parroquia": "SAN PABLO",
+    "id": 1105,
+    "votos": 10,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 0.8
+  },
+  {
+    "parroquia": "AYACUCHO",
+    "id": 220,
+    "votos": 45,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.28
+  }
+]

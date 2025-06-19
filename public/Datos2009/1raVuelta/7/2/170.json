@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "SAN JOSE DE CHIMBO",
+        "id": 5975,
+        "votos": 178,
+        "candidato": "Alvaro Noboa",
+        "value": 4.59
+    },
+    {
+        "parroquia": "TELIMBELA",
+        "id": 3995,
+        "votos": 23,
+        "candidato": "Alvaro Noboa",
+        "value": 3.45
+    },
+    {
+        "parroquia": "SAN SEBASTIAN",
+        "id": 3655,
+        "votos": 9,
+        "candidato": "Alvaro Noboa",
+        "value": 2.17
+    },
+    {
+        "parroquia": "MAGDALENA/CHAPACOTO",
+        "id": 2315,
+        "votos": 29,
+        "candidato": "Alvaro Noboa",
+        "value": 1.86
+    },
+    {
+        "parroquia": "ASUNCION",
+        "id": 170,
+        "votos": 27,
+        "candidato": "Alvaro Noboa",
+        "value": 2.02
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "ATUNTAQUI",
+        "id": 5050,
+        "votos": 6590,
+        "candidato": "Rafael Correa Delgado",
+        "value": 64.99
+    },
+    {
+        "parroquia": "ANDRADE MARIN/LOURDES",
+        "id": 5025,
+        "votos": 1550,
+        "candidato": "Rafael Correa Delgado",
+        "value": 69.16
+    },
+    {
+        "parroquia": "SAN ROQUE",
+        "id": 3640,
+        "votos": 3090,
+        "candidato": "Rafael Correa Delgado",
+        "value": 69.53
+    },
+    {
+        "parroquia": "SAN JOSE DE CHALTURA",
+        "id": 3465,
+        "votos": 1183,
+        "candidato": "Rafael Correa Delgado",
+        "value": 72.88
+    },
+    {
+        "parroquia": "SAN FCO.DE NATABUELA",
+        "id": 3400,
+        "votos": 1768,
+        "candidato": "Rafael Correa Delgado",
+        "value": 69.96
+    },
+    {
+        "parroquia": "IMBAYA",
+        "id": 1715,
+        "votos": 402,
+        "candidato": "Rafael Correa Delgado",
+        "value": 73.35
+    }
+]

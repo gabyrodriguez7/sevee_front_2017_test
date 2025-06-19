@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "SAN FRANCISCO",
+        "id": 5955,
+        "votos": 45,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.55
+    },
+    {
+        "parroquia": "SAGRARIO",
+        "id": 5910,
+        "votos": 58,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.1
+    },
+    {
+        "parroquia": "VACAS GALINDO",
+        "id": 4185,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.35
+    },
+    {
+        "parroquia": "6 DE JULIO DE CUELLAJE",
+        "id": 3800,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.37
+    },
+    {
+        "parroquia": "QUIROGA",
+        "id": 3115,
+        "votos": 17,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.5
+    },
+    {
+        "parroquia": "PLAZA GUTIERREZ/CALVARIO",
+        "id": 2915,
+        "votos": 5,
+        "candidato": "Diego Delgado Jara",
+        "value": 2.1
+    },
+    {
+        "parroquia": "PEÑAHERRERA",
+        "id": 2820,
+        "votos": 13,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.65
+    },
+    {
+        "parroquia": "IMANTAG",
+        "id": 1710,
+        "votos": 22,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.02
+    },
+    {
+        "parroquia": "GARCIA MORENO / LLURIMAGUA",
+        "id": 1310,
+        "votos": 18,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.64
+    },
+    {
+        "parroquia": "APUELA",
+        "id": 145,
+        "votos": 4,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.47
+    }
+]

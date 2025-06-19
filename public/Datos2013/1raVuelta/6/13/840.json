@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "SAN SEBASTIAN",
+    "id": 1060,
+    "votos": 268,
+    "candidato": "Lasso Guillermo",
+    "value": 8.7
+  },
+  {
+    "parroquia": "BARRAGANETE",
+    "id": 1065,
+    "votos": 333,
+    "candidato": "Lasso Guillermo",
+    "value": 18.6
+  },
+  {
+    "parroquia": "PICHINCHA /GERMUD",
+    "id": 6550,
+    "votos": 1888,
+    "candidato": "Lasso Guillermo",
+    "value": 12.0
+  }
+]

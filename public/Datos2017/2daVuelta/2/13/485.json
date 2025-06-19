@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "MEMBRILLO",
+    "id": 240,
+    "votos": 1762,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 65.92
+  },
+  {
+    "parroquia": "QUIROGA",
+    "id": 3110,
+    "votos": 2060,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 67.7
+  },
+  {
+    "parroquia": "CALCETA",
+    "id": 5150,
+    "votos": 13872,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 57.07
+  }
+]

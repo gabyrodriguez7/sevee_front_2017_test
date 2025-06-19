@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "CAPIRO",
+    "id": 505,
+    "votos": 12,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.36
+  },
+  {
+    "parroquia": "SARACAY",
+    "id": 1385,
+    "votos": 35,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.38
+  },
+  {
+    "parroquia": "LA BOCANA",
+    "id": 2230,
+    "votos": 13,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.56
+  },
+  {
+    "parroquia": "MOROMORO",
+    "id": 2465,
+    "votos": 29,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.91
+  },
+  {
+    "parroquia": "PIEDRAS",
+    "id": 2850,
+    "votos": 9,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.9
+  },
+  {
+    "parroquia": "SAN ROQUE",
+    "id": 3650,
+    "votos": 3,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.64
+  },
+  {
+    "parroquia": "PIÑAS",
+    "id": 5790,
+    "votos": 239,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.83
+  },
+  {
+    "parroquia": "PIÑAS GRANDE",
+    "id": 6675,
+    "votos": 2,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.9
+  },
+  {
+    "parroquia": "LA SUSAYA",
+    "id": 6680,
+    "votos": 2,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.32
+  }
+]

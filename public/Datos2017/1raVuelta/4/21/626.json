@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "CUYABENO",
+    "id": 760,
+    "votos": 10,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 3.16
+  },
+  {
+    "parroquia": "AGUAS NEGRAS",
+    "id": 1555,
+    "votos": 86,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.44
+  },
+  {
+    "parroquia": "TARAPOA",
+    "id": 6765,
+    "votos": 480,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.56
+  }
+]

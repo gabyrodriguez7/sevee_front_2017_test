@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "BIBLIAN",
+        "id": 5115,
+        "votos": 2533,
+        "candidato": "Rafael Correa Delgado",
+        "value": 38.58
+    },
+    {
+        "parroquia": "TURUPAMBA",
+        "id": 4100,
+        "votos": 182,
+        "candidato": "Rafael Correa Delgado",
+        "value": 52.6
+    },
+    {
+        "parroquia": "SAN FCO. DE SAGEO",
+        "id": 3410,
+        "votos": 229,
+        "candidato": "Rafael Correa Delgado",
+        "value": 39.68
+    },
+    {
+        "parroquia": "NAZON",
+        "id": 2545,
+        "votos": 393,
+        "candidato": "Rafael Correa Delgado",
+        "value": 28.54
+    },
+    {
+        "parroquia": "JERUSALEN",
+        "id": 1085,
+        "votos": 101,
+        "candidato": "Rafael Correa Delgado",
+        "value": 46.11
+    }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "EL RETIRO",
+    "id": 255,
+    "votos": 894,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 55.05
+  },
+  {
+    "parroquia": "LA PROVIDENCIA",
+    "id": 5565,
+    "votos": 22579,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 40.96
+  },
+  {
+    "parroquia": "MACHALA",
+    "id": 5625,
+    "votos": 29641,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 39.81
+  },
+  {
+    "parroquia": "PUERTO BOLÍVAR",
+    "id": 5805,
+    "votos": 8651,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 48.99
+  },
+  {
+    "parroquia": "9 DE MAYO",
+    "id": 6490,
+    "votos": 2062,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 50.07
+  },
+  {
+    "parroquia": "EL CAMBIO",
+    "id": 6795,
+    "votos": 2870,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 50.73
+  },
+  {
+    "parroquia": "JUBONES",
+    "id": 7505,
+    "votos": 787,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 53.07
+  },
+  {
+    "parroquia": "JAMBELÍ",
+    "id": 7510,
+    "votos": 1937,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 53.21
+  }
+]

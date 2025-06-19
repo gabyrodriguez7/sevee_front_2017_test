@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "ATAHUALPA",
+    "id": 205,
+    "votos": 51,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.28494624
+  },
+  {
+    "parroquia": "COLONCHE",
+    "id": 605,
+    "votos": 249,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.33662569
+  },
+  {
+    "parroquia": "CHANDUY",
+    "id": 820,
+    "votos": 215,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.33214015
+  },
+  {
+    "parroquia": "SAN JOSÉ DE ANCÓN",
+    "id": 1300,
+    "votos": 51,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.47186147
+  },
+  {
+    "parroquia": "MANGLARALTO",
+    "id": 2355,
+    "votos": 396,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.17069561
+  },
+  {
+    "parroquia": "SIMÓN BOLÍVAR",
+    "id": 3915,
+    "votos": 78,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.29752066
+  },
+  {
+    "parroquia": "BALLENITA",
+    "id": 5130,
+    "votos": 29,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.95154778
+  },
+  {
+    "parroquia": "SANTA ELENA",
+    "id": 6040,
+    "votos": 963,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.52470965
+  }
+]

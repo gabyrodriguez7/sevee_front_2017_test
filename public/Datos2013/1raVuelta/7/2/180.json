@@ -1,0 +1,16 @@
+[
+  {
+    "parroquia": "SAN JOSE DE TAMBO",
+    "id": 3500,
+    "votos": 32,
+    "candidato": "Zavala Nelson",
+    "value": 1.0
+  },
+  {
+    "parroquia": "CHILLANES",
+    "id": 5245,
+    "votos": 71,
+    "candidato": "Zavala Nelson",
+    "value": 1.0
+  }
+]

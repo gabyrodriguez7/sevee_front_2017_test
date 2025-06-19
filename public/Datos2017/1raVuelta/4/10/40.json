@@ -1,0 +1,72 @@
+[
+  {
+    "parroquia": "APUELA",
+    "id": 145,
+    "votos": 127,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.05
+  },
+  {
+    "parroquia": "GARCÍA MORENO / LLURIMAGUA",
+    "id": 1310,
+    "votos": 208,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.55
+  },
+  {
+    "parroquia": "IMANTAG",
+    "id": 1710,
+    "votos": 203,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.56
+  },
+  {
+    "parroquia": "PEÑAHERRERA",
+    "id": 2820,
+    "votos": 102,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.76
+  },
+  {
+    "parroquia": "PLAZA GUTIERREZ/CALVARIO",
+    "id": 2915,
+    "votos": 39,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.82
+  },
+  {
+    "parroquia": "QUIROGA",
+    "id": 3115,
+    "votos": 571,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.27
+  },
+  {
+    "parroquia": "6 DE JULIO DE CUELLAJE",
+    "id": 3800,
+    "votos": 98,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.63
+  },
+  {
+    "parroquia": "VACAS GALINDO",
+    "id": 4185,
+    "votos": 32,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.22
+  },
+  {
+    "parroquia": "SAGRARIO",
+    "id": 5910,
+    "votos": 892,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.27
+  },
+  {
+    "parroquia": "SAN FRANCISCO",
+    "id": 5955,
+    "votos": 496,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.49
+  }
+]

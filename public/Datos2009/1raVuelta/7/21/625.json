@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "NUEVA LOJA",
+    "id": 5710,
+    "votos": 1818,
+    "candidato": "Alvaro Noboa",
+    "value": 6.96
+  },
+  {
+    "parroquia": "JAMBELI",
+    "id": 1795,
+    "votos": 23,
+    "candidato": "Alvaro Noboa",
+    "value": 3.12
+  },
+  {
+    "parroquia": "SANTA CECILIA",
+    "id": 1790,
+    "votos": 27,
+    "candidato": "Alvaro Noboa",
+    "value": 2.09
+  },
+  {
+    "parroquia": "GENERAL FARFAN",
+    "id": 1330,
+    "votos": 33,
+    "candidato": "Alvaro Noboa",
+    "value": 2.72
+  },
+  {
+    "parroquia": "PACAYACU",
+    "id": 1290,
+    "votos": 92,
+    "candidato": "Alvaro Noboa",
+    "value": 3.83
+  },
+  {
+    "parroquia": "EL ENO",
+    "id": 1285,
+    "votos": 58,
+    "candidato": "Alvaro Noboa",
+    "value": 2.81
+  },
+  {
+    "parroquia": "DURENO",
+    "id": 1045,
+    "votos": 35,
+    "candidato": "Alvaro Noboa",
+    "value": 2.8
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "CUYABENO",
+    "id": 760,
+    "votos": 0,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 0.0
+  },
+  {
+    "parroquia": "AGUAS NEGRAS",
+    "id": 1555,
+    "votos": 10,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 1.6
+  },
+  {
+    "parroquia": "TARAPOA",
+    "id": 6765,
+    "votos": 50,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 1.641
+  }
+]

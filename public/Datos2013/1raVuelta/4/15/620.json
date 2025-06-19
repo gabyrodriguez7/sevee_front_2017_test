@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "AHUANO",
+        "id": 25,
+        "votos": 38,
+        "candidato": "Acosta Alberto",
+        "value": 1.3
+    },
+    {
+        "parroquia": "CHONTAPUNTA",
+        "id": 940,
+        "votos": 36,
+        "candidato": "Acosta Alberto",
+        "value": 1.339286
+    },
+    {
+        "parroquia": "TALAG",
+        "id": 1930,
+        "votos": 43,
+        "candidato": "Acosta Alberto",
+        "value": 2.97
+    },
+    {
+        "parroquia": "PANO",
+        "id": 2755,
+        "votos": 44,
+        "candidato": "Acosta Alberto",
+        "value": 4.8
+    },
+    {
+        "parroquia": "PUERTO MISAHUALLI",
+        "id": 3000,
+        "votos": 73,
+        "candidato": "Acosta Alberto",
+        "value": 3.0
+    },
+    {
+        "parroquia": "PUERTO NAPO",
+        "id": 3050,
+        "votos": 59,
+        "candidato": "Acosta Alberto",
+        "value": 2.4
+    },
+    {
+        "parroquia": "SAN JUAN DE MUYUNA",
+        "id": 4580,
+        "votos": 76,
+        "candidato": "Acosta Alberto",
+        "value": 4.494382
+    },
+    {
+        "parroquia": "TENA",
+        "id": 6160,
+        "votos": 658,
+        "candidato": "Acosta Alberto",
+        "value": 3.8
+    }
+]

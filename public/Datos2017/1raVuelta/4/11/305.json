@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "SUMAYPAMBA",
+    "id": 310,
+    "votos": 35,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.89
+  },
+  {
+    "parroquia": "EL PARAÍSO DE CELÉN",
+    "id": 1165,
+    "votos": 72,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.65
+  },
+  {
+    "parroquia": "EL TABLÓN",
+    "id": 1190,
+    "votos": 21,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.24
+  },
+  {
+    "parroquia": "LLUZHAPA",
+    "id": 2280,
+    "votos": 76,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.62
+  },
+  {
+    "parroquia": "MANÚ",
+    "id": 2360,
+    "votos": 245,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 14.09
+  },
+  {
+    "parroquia": "SAN ANTONIO DE CUMBE",
+    "id": 3340,
+    "votos": 68,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.58
+  },
+  {
+    "parroquia": "SAN PABLO DE TENTA",
+    "id": 3600,
+    "votos": 82,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 4.52
+  },
+  {
+    "parroquia": "SAN SEBASTIÁN DE YULOG,
+    "id": 3665,
+    "votos": 23,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 4.59
+  },
+  {
+    "parroquia": "SELVA ALEGRE",
+    "id": 3815,
+    "votos": 48,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 4.4
+  },
+  {
+    "parroquia": "URDANETA/PAQUISHAPA",
+    "id": 4145,
+    "votos": 115,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.51
+  },
+  {
+    "parroquia": "SARAGURO",
+    "id": 6075,
+    "votos": 485,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.71
+  }
+]

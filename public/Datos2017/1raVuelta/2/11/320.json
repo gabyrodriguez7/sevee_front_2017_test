@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "COLAIZACA",
+    "id": 590,
+    "votos": 175,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 17.31
+  },
+  {
+    "parroquia": "EL LUCERO",
+    "id": 1230,
+    "votos": 90,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.67
+  },
+  {
+    "parroquia": "SANGUILLIN",
+    "id": 1550,
+    "votos": 37,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.6
+  },
+  {
+    "parroquia": "UTUANA",
+    "id": 4150,
+    "votos": 78,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 17.77
+  },
+  {
+    "parroquia": "CARIAMANGA",
+    "id": 5175,
+    "votos": 1099,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.14
+  },
+  {
+    "parroquia": "CHILE",
+    "id": 5240,
+    "votos": 245,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 13.72
+  },
+  {
+    "parroquia": "SAN VICENTE",
+    "id": 6025,
+    "votos": 39,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.15
+  }
+]

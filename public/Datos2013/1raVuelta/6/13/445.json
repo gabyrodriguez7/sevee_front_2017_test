@@ -1,0 +1,24 @@
+[
+                {
+                    "parroquia": "LA PILA",
+                    "id": 1545,
+                    "votos": 408,
+                    "candidato": "Lasso Guillermo",
+                    "value": 20.3491
+                },
+                {
+                    "parroquia": "MONTECRISTI",
+                    "id": 5665,
+                    "votos": 4304,
+                    "candidato": "Lasso Guillermo",
+                    "value": 13.5632
+                },
+                {
+                    "parroquia": "ANIBAL SAN ANDRES",
+                    "id": 7460,
+                    "votos": 50,
+                    "candidato": "Lasso Guillermo",
+                    "value": 19.01141
+                }
+            ]
+            

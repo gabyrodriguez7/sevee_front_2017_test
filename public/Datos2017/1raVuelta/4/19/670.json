@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "CHICANA",
+    "id": 985,
+    "votos": 156,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.98
+  },
+  {
+    "parroquia": "LOS ENCUENTROS",
+    "id": 2240,
+    "votos": 177,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.94
+  },
+  {
+    "parroquia": "YANZATZA",
+    "id": 6295,
+    "votos": 1055,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.22
+  }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "ATACAMES",
+        "id": 6380,
+        "votos": 1972,
+        "candidato": "Alvaro Noboa",
+        "value": 26.95
+    },
+    {
+        "parroquia": "TONCHIGUE",
+        "id": 4055,
+        "votos": 539,
+        "candidato": "Alvaro Noboa",
+        "value": 18.89
+    },
+    {
+        "parroquia": "SUA/BOCANA",
+        "id": 3880,
+        "votos": 317,
+        "candidato": "Alvaro Noboa",
+        "value": 25.79
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 2130,
+        "votos": 184,
+        "candidato": "Alvaro Noboa",
+        "value": 22.3
+    },
+    {
+        "parroquia": "TONSUPA",
+        "id": 1615,
+        "votos": 500,
+        "candidato": "Alvaro Noboa",
+        "value": 24.77
+    }
+]

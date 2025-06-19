@@ -1,0 +1,87 @@
+[
+	{
+		"parroquia": "BELLAVISTA",
+		"id": 325,
+		"votos": 439,
+		"candidato": "Lasso Guillermo",
+		"value": 29.25
+	},
+	{
+		"parroquia": "BELLAMARIA",
+		"id": 1665,
+		"votos": 154,
+		"candidato": "Lasso Guillermo",
+		"value": 20.42
+	},
+	{
+		"parroquia": "JAMBELI",
+		"id": 1815,
+		"votos": 55,
+		"candidato": "Lasso Guillermo",
+		"value": 17.35015773
+	},
+	{
+		"parroquia": "LA AVANZADA",
+		"id": 2005,
+		"votos": 421,
+		"candidato": "Lasso Guillermo",
+		"value": 31.991
+	},
+	{
+		"parroquia": "SAN ANTONIO",
+		"id": 3330,
+		"votos": 151,
+		"candidato": "Lasso Guillermo",
+		"value": 28.437
+	},
+	{
+		"parroquia": "VICTORIA",
+	"id": 4215,
+	"votos": 136,
+	"candidato": "Lasso Guillermo",
+	"value": 12.546
+	},
+	{
+	"parroquia": "TORATA",
+	"id": 4525,
+	"votos": 331,
+	"candidato": "Lasso Guillermo",
+	"value": 33.1
+	},
+	{
+	"parroquia": "SANTA ROSA",
+	"id": 6060,
+	"votos": 10312,
+	"candidato": "Lasso Guillermo",
+	"value": 30.423
+	},
+	{
+	"parroquia": "PUERTO JELI",
+	"id": 6670,
+	"votos": 62,
+	"candidato": "Lasso Guillermo",
+	"value": 17.91907514
+	},
+	{
+	"parroquia": "BALNEARIO JAMBELI",
+	"id": 6900,
+	"votos": 12,
+	"candidato": "Lasso Guillermo",
+	"value": 9.756
+	},
+	{
+	"parroquia": "JUMON",
+	"id": 6985,
+	"votos": 84,
+	"candidato": "Lasso Guillermo",
+	"value": 22.83
+	},
+	{
+	"parroquia": "NUEVO SANTA ROSA",
+	"id": 6990,
+	"votos": 99,
+	"candidato": "Lasso Guillermo",
+	"value": 18.1
+	}
+	]|
+		

@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "YANZATZA",
+    "id": 6295,
+    "votos": 50,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.83
+  },
+  {
+    "parroquia": "LOS ENCUENTROS",
+    "id": 2240,
+    "votos": 4,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.34
+  },
+  {
+    "parroquia": "CHICANA",
+    "id": 985,
+    "votos": 2,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.25
+  }
+]

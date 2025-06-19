@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "EL PAN",
+        "id": 6485,
+        "votos": 765,
+        "candidato": "Rafael Correa Delgado",
+        "value": 75.29
+    },
+    {
+        "parroquia": "SAN VICENTE",
+        "id": 1650,
+        "votos": 555,
+        "candidato": "Rafael Correa Delgado",
+        "value": 83.45
+    }
+]

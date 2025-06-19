@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "SAN LUIS",
+    "id": 5980,
+    "votos": 54,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.5
+  },
+  {
+    "parroquia": "JORDAN",
+    "id": 5490,
+    "votos": 65,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.42
+  },
+  {
+    "parroquia": "SELVA ALEGRE",
+    "id": 3810,
+    "votos": 3,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.41
+  },
+  {
+    "parroquia": "SAN RAFAEL",
+    "id": 3630,
+    "votos": 20,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.87
+  },
+  {
+    "parroquia": "SAN PABLO",
+    "id": 3590,
+    "votos": 19,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.4
+  },
+  {
+    "parroquia": "SAN JUAN DE ILUMAN",
+    "id": 3525,
+    "votos": 19,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.55
+  },
+  {
+    "parroquia": "SAN JOSE DE QUICHINCHE",
+    "id": 3490,
+    "votos": 23,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.72
+  },
+  {
+    "parroquia": "PATAQUI",
+    "id": 2785,
+    "votos": 1,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.4
+  },
+  {
+    "parroquia": "GONZALEZ SUAREZ",
+    "id": 1360,
+    "votos": 10,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.35
+  },
+  {
+    "parroquia": "EUGENIO ESPEJO",
+    "id": 1215,
+    "votos": 24,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.86
+  },
+  {
+    "parroquia": "DR MIGUEL EGAS/PEGUCHE",
+    "id": 1040,
+    "votos": 10,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.4
+  }
+]

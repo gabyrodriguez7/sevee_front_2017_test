@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "CHARAPOTO",
+    "id": 840,
+    "votos": 771,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 5.77
+  },
+  {
+    "parroquia": "SAN ISIDRO",
+    "id": 3445,
+    "votos": 136,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.03
+  },
+  {
+    "parroquia": "BAHÍA DE CARÁQUEZ",
+    "id": 5095,
+    "votos": 1077,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 8.28
+  },
+  {
+    "parroquia": "LEONIDAS PLAZA G.",
+    "id": 5580,
+    "votos": 311,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 8.47
+  }
+]

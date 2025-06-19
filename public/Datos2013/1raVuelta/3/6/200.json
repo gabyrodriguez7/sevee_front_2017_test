@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "SANTA FE DE GALAN",
+        "id": 40,
+        "votos": 7,
+        "candidato": "Wray Norman",
+        "value": 1.116
+    },
+    {
+        "parroquia": "SAN JOSE DEL CHAZO",
+        "id": 45,
+        "votos": 6,
+        "candidato": "Wray Norman",
+        "value": 0.867
+    },
+    {
+        "parroquia": "VALPARAISO",
+        "id": 410,
+        "votos": 4,
+        "candidato": "Wray Norman",
+        "value": 1.709
+    },
+    {
+        "parroquia": "GUANANDO",
+        "id": 1415,
+        "votos": 5,
+        "candidato": "Wray Norman",
+        "value": 1.256
+    },
+    {
+        "parroquia": "ILAPO",
+        "id": 1705,
+        "votos": 53,
+        "candidato": "Wray Norman",
+        "value": 3.653
+    },
+    {
+        "parroquia": "LA PROVIDENCIA",
+        "id": 2080,
+        "votos": 4,
+        "candidato": "Wray Norman",
+        "value": 1.013
+    },
+    {
+        "parroquia": "SAN ANDRES",
+        "id": 3295,
+        "votos": 117,
+        "candidato": "Wray Norman",
+        "value": 2.0
+    },
+    {
+        "parroquia": "SAN GERARDO / PAQUICAHUAN",
+        "id": 3425,
+        "votos": 18,
+        "candidato": "Wray Norman",
+        "value": 1.447
+    },
+    {
+        "parroquia": "SAN ISIDRO DE PATULU",
+        "id": 3450,
+        "votos": 26,
+        "candidato": "Wray Norman",
+        "value": 1.132
+    },
+    {
+        "parroquia": "EL ROSARIO",
+        "id": 5315,
+        "votos": 32,
+        "candidato": "Wray Norman",
+        "value": 2.703
+    },
+    {
+        "parroquia": "LA MATRIZ",
+        "id": 5550,
+        "votos": 159,
+        "candidato": "Wray Norman",
+        "value": 1.791
+    }
+]

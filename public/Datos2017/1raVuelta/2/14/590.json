@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "ALSHI /9 DE OCTUBRE",
+    "id": 65,
+    "votos": 32,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 11.68
+  },
+  {
+    "parroquia": "CUCHAENTZA",
+    "id": 1250,
+    "votos": 124,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 14.11
+  },
+  {
+    "parroquia": "GRAL. PROAÑO",
+    "id": 1345,
+    "votos": 107,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.9
+  },
+  {
+    "parroquia": "RÍO BLANCO",
+    "id": 1730,
+    "votos": 63,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7
+  },
+  {
+    "parroquia": "SAN ISIDRO",
+    "id": 3440,
+    "votos": 40,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.84
+  },
+  {
+    "parroquia": "SEVILLA DON BOSCO",
+    "id": 3830,
+    "votos": 501,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.84
+  },
+  {
+    "parroquia": "ZUNAC",
+    "id": 4360,
+    "votos": 19,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 13.57
+  },
+  {
+    "parroquia": "SINAI",
+    "id": 4485,
+    "votos": 55,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.66
+  },
+  {
+    "parroquia": "MACAS",
+    "id": 5615,
+    "votos": 985,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.21
+  }
+]

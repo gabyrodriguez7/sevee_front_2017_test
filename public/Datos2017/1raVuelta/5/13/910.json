@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "COJIMÍES",
+    "id": 580,
+    "votos": 32,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.75
+  },
+  {
+    "parroquia": "ATAHUALPA",
+    "id": 785,
+    "votos": 9,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.69
+  },
+  {
+    "parroquia": "10 DE AGOSTO",
+    "id": 1030,
+    "votos": 19,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.85
+  },
+  {
+    "parroquia": "PEDERNALES",
+    "id": 6430,
+    "votos": 164,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.72
+  }
+]

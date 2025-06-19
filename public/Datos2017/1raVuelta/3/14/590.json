@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "ALSHI /9 DE OCTUBRE",
+    "id": 65,
+    "votos": 92,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 33.58
+  },
+  {
+    "parroquia": "CUCHAENTZA",
+    "id": 1250,
+    "votos": 158,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 17.97
+  },
+  {
+    "parroquia": "GRAL. PROAÑO",
+    "id": 1345,
+    "votos": 377,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 34.88
+  },
+  {
+    "parroquia": "RÍO BLANCO",
+    "id": 1730,
+    "votos": 330,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 36.67
+  },
+  {
+    "parroquia": "SAN ISIDRO",
+    "id": 3440,
+    "votos": 215,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 36.75
+  },
+  {
+    "parroquia": "SEVILLA DON BOSCO",
+    "id": 3830,
+    "votos": 1057,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 18.65
+  },
+  {
+    "parroquia": "ZUNAC",
+    "id": 4360,
+    "votos": 21,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 15
+  },
+  {
+    "parroquia": "SINAI",
+    "id": 4485,
+    "votos": 274,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 43.15
+  },
+  {
+    "parroquia": "MACAS",
+    "id": 5615,
+    "votos": 4875,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 35.69
+  }
+]

@@ -1,0 +1,24 @@
+[
+                {
+                    "parroquia": "GUARE",
+                    "id": 1460,
+                    "votos": 332,
+                    "candidato": "Lasso Guillermo",
+                    "value": 9.1536
+                },
+                {
+                    "parroquia": "ISLA DE BEJUCAL",
+                    "id": 1740,
+                    "votos": 576,
+                    "candidato": "Lasso Guillermo",
+                    "value": 13.2749
+                },
+                {
+                    "parroquia": "BABA",
+                    "id": 5085,
+                    "votos": 1783,
+                    "candidato": "Lasso Guillermo",
+                    "value": 12.7704
+                }
+            ]
+            

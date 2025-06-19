@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "JUAN MONTALVO",
+        "id": 5495,
+        "votos": 10,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.78
+    },
+    {
+        "parroquia": "CAYAMBE",
+        "id": 5190,
+        "votos": 117,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.52
+    },
+    {
+        "parroquia": "AYORA",
+        "id": 5060,
+        "votos": 14,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.59
+    },
+    {
+        "parroquia": "STA.ROSA DE CUSUBAMBA",
+        "id": 3735,
+        "votos": 4,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.25
+    },
+    {
+        "parroquia": "OTON",
+        "id": 2635,
+        "votos": 7,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.55
+    },
+    {
+        "parroquia": "OLMEDO/PESILLO",
+        "id": 2600,
+        "votos": 41,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.15
+    },
+    {
+        "parroquia": "CANGAHUA",
+        "id": 480,
+        "votos": 59,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.28
+    },
+    {
+        "parroquia": "ASCAZUBI",
+        "id": 165,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.15
+    }
+]

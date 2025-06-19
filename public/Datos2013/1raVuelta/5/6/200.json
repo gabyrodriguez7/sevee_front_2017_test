@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "SANTA FE DE GALAN",
+        "id": 40,
+        "votos": 226,
+        "candidato": "Gutierrez Lucio",
+        "value": 36.045
+    },
+    {
+        "parroquia": "SAN JOSE DEL CHAZO",
+        "id": 45,
+        "votos": 192,
+        "candidato": "Gutierrez Lucio",
+        "value": 27.746
+    },
+    {
+        "parroquia": "VALPARAISO",
+        "id": 410,
+        "votos": 22,
+        "candidato": "Gutierrez Lucio",
+        "value": 9.402
+    },
+    {
+        "parroquia": "GUANANDO",
+        "id": 1415,
+        "votos": 59,
+        "candidato": "Gutierrez Lucio",
+        "value": 14.824
+    },
+    {
+        "parroquia": "ILAPO",
+        "id": 1705,
+        "votos": 380,
+        "candidato": "Gutierrez Lucio",
+        "value": 26.189
+    },
+    {
+        "parroquia": "LA PROVIDENCIA",
+        "id": 2080,
+        "votos": 47,
+        "candidato": "Gutierrez Lucio",
+        "value": 11.899
+    },
+    {
+        "parroquia": "SAN ANDRES",
+        "id": 3295,
+        "votos": 1917,
+        "candidato": "Gutierrez Lucio",
+        "value": 25.0
+    },
+    {
+        "parroquia": "SAN GERARDO / PAQUICAHUAN",
+        "id": 3425,
+        "votos": 206,
+        "candidato": "Gutierrez Lucio",
+        "value": 16.559
+    },
+    {
+        "parroquia": "SAN ISIDRO DE PATULU",
+        "id": 3450,
+        "votos": 572,
+        "candidato": "Gutierrez Lucio",
+        "value": 24.902
+    },
+    {
+        "parroquia": "EL ROSARIO",
+        "id": 5315,
+        "votos": 221,
+        "candidato": "Gutierrez Lucio",
+        "value": 18.666
+    },
+    {
+        "parroquia": "LA MATRIZ",
+        "id": 5550,
+        "votos": 1495,
+        "candidato": "Gutierrez Lucio",
+        "value": 16.839
+    }
+]

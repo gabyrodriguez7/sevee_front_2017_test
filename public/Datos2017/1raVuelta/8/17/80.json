@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "COTOGCHOA",
+    "id": 680,
+    "votos": 91,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 5.13
+  },
+  {
+    "parroquia": "RUMIPAMBA",
+    "id": 3230,
+    "votos": 12,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.33
+  },
+  {
+    "parroquia": "SANGOLQUÍ",
+    "id": 5965,
+    "votos": 2008,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.03
+  },
+  {
+    "parroquia": "SAN RAFAEL",
+    "id": 6600,
+    "votos": 234,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.69
+  },
+  {
+    "parroquia": "SAN PEDRO DE TABOADA",
+    "id": 6605,
+    "votos": 264,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.43
+  }
+]

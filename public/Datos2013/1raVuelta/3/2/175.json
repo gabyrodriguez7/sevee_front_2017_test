@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "BALZAPAMBA",
+        "id": 275,
+        "votos": 18,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "BILOVAN",
+        "id": 345,
+        "votos": 9,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "SAN PABLO DE ATENAS",
+        "id": 3595,
+        "votos": 40,
+        "candidato": "Wray Norman",
+        "value": 1.2
+    },
+    {
+        "parroquia": "SANTIAGO",
+        "id": 3775,
+        "votos": 17,
+        "candidato": "Wray Norman",
+        "value": 1.61
+    },
+    {
+        "parroquia": "SAN VICENTE",
+        "id": 3900,
+        "votos": 8,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "REGULO DE MORA",
+        "id": 4515,
+        "votos": 0,
+        "candidato": "Wray Norman",
+        "value": 0.0
+    },
+    {
+        "parroquia": "SAN MIGUEL",
+        "id": 5995,
+        "votos": 118,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    }
+]

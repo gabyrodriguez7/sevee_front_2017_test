@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "JIJÓN Y CAAMAÑO",
+    "id": 1835,
+    "votos": 57,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.32
+  },
+  {
+    "parroquia": "JUAN MONTALVO",
+    "id": 1875,
+    "votos": 52,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.05
+  },
+  {
+    "parroquia": "LA CONCEPCIÓN",
+    "id": 2010,
+    "votos": 90,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.68
+  },
+  {
+    "parroquia": "MIRA",
+    "id": 5685,
+    "votos": 505,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.73
+  }
+]

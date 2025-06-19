@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "EL CORAZON",
+        "id": 5305,
+        "votos": 34,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.04
+    },
+    {
+        "parroquia": "RAMON CAMPAÑA",
+        "id": 3155,
+        "votos": 0,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.0
+    },
+    {
+        "parroquia": "PINLLOPATA",
+        "id": 2890,
+        "votos": 3,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.81
+    },
+    {
+        "parroquia": "MORASPUNGO",
+        "id": 2460,
+        "votos": 36,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.82
+    }
+]

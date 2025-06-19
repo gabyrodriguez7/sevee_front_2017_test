@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "ELOY ALFARO",
+        "id": 6745,
+        "votos": 84,
+        "candidato": "Melba Jacome",
+        "value": 1.01
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 6155,
+        "votos": 493,
+        "candidato": "Melba Jacome",
+        "value": 1.09
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 6135,
+        "votos": 13,
+        "candidato": "Melba Jacome",
+        "value": 0.89
+    },
+    {
+        "parroquia": "MANTA",
+        "id": 5635,
+        "votos": 575,
+        "candidato": "Melba Jacome",
+        "value": 1.21
+    },
+    {
+        "parroquia": "LOS ESTEROS",
+        "id": 5570,
+        "votos": 61,
+        "candidato": "Melba Jacome",
+        "value": 0.93
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 3550,
+        "votos": 5,
+        "candidato": "Melba Jacome",
+        "value": 0.45
+    },
+    {
+        "parroquia": "SANTA MARIANITA",
+        "id": 1800,
+        "votos": 10,
+        "candidato": "Melba Jacome",
+        "value": 0.97
+    }
+]

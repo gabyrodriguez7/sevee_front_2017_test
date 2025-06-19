@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 1075,
+        "votos": 8,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.3529412
+    },
+    {
+        "parroquia": "EL PARAISO",
+        "id": 1080,
+        "votos": 12,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.8
+    },
+    {
+        "parroquia": "LA LIBERTAD",
+        "id": 1100,
+        "votos": 15,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.86807
+    },
+    {
+        "parroquia": "LA VICTORIA/LAS LAJAS",
+        "id": 6335,
+        "votos": 60,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.1
+    },
+    {
+        "parroquia": "PLATANILLOS",
+        "id": 6950,
+        "votos": 2,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 0.57
+    }
+]

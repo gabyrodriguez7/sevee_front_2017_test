@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "SEVILLA",
+    "id": 1095,
+    "votos": 5,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.35
+  },
+  {
+    "parroquia": "SANTA ROSA DE SUCUMBIOS",
+    "id": 3750,
+    "votos": 0,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0
+  },
+  {
+    "parroquia": "EL DORADO DE CASCALES",
+    "id": 6325,
+    "votos": 17,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.41
+  }
+]

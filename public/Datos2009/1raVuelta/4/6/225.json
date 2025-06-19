@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "PENIPE",
+        "id": 5740,
+        "votos": 731,
+        "candidato": "Rafael Correa Delgado",
+        "value": 49.59
+    },
+    {
+        "parroquia": "SAN ANTONIO DE BAYUSHIG",
+        "id": 3335,
+        "votos": 347,
+        "candidato": "Rafael Correa Delgado",
+        "value": 34.63
+    },
+    {
+        "parroquia": "PUELA",
+        "id": 2975,
+        "votos": 227,
+        "candidato": "Rafael Correa Delgado",
+        "value": 46.7
+    },
+    {
+        "parroquia": "MATUS",
+        "id": 2400,
+        "votos": 257,
+        "candidato": "Rafael Correa Delgado",
+        "value": 42.54
+    },
+    {
+        "parroquia": "BILBAO",
+        "id": 1325,
+        "votos": 36,
+        "candidato": "Rafael Correa Delgado",
+        "value": 30.0
+    },
+    {
+        "parroquia": "EL ALTAR",
+        "id": 1110,
+        "votos": 407,
+        "candidato": "Rafael Correa Delgado",
+        "value": 52.24
+    },
+    {
+        "parroquia": "LA CANDELARIA",
+        "id": 925,
+        "votos": 67,
+        "candidato": "Rafael Correa Delgado",
+        "value": 37.43
+    }
+]

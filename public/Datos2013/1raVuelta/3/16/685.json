@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "MADRE TIERRA",
+        "id": 2310,
+        "votos": 4,
+        "candidato": "Wray Norman",
+        "value": 0.0
+    },
+    {
+        "parroquia": "SHELL",
+        "id": 3840,
+        "votos": 33,
+        "candidato": "Wray Norman",
+        "value": 0.88
+    },
+    {
+        "parroquia": "MERA",
+        "id": 5650,
+        "votos": 12,
+        "candidato": "Wray Norman",
+        "value": 1.23
+    }
+]

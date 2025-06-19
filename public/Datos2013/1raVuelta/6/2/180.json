@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN JOSE DE TAMBO",
+        "id": 3500,
+        "votos": 535,
+        "candidato": "Lasso Guillermo",
+        "value": 17.0
+    },
+    {
+        "parroquia": "CHILLANES",
+        "id": 5245,
+        "votos": 1557,
+        "candidato": "Lasso Guillermo",
+        "value": 21.6
+    }
+]

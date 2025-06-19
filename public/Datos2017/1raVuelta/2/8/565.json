@@ -1,0 +1,114 @@
+[
+  {
+    "parroquia": "ANCHAYACU",
+    "id": 120,
+    "votos": 34,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.98
+  },
+  {
+    "parroquia": "ATAHUALPA/CAMARONES",
+    "id": 200,
+    "votos": 108,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 14.14
+  },
+  {
+    "parroquia": "BORBÓN",
+    "id": 370,
+    "votos": 344,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.69
+  },
+  {
+    "parroquia": "SAN JOSÉ DE CAYAPAS",
+    "id": 1505,
+    "votos": 82,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 12.54
+  },
+  {
+    "parroquia": "COLÓN ELOY DE MARÍA",
+    "id": 1510,
+    "votos": 40,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.73
+  },
+  {
+    "parroquia": "TIMBIRÉ",
+    "id": 1515,
+    "votos": 30,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.88
+  },
+  {
+    "parroquia": "LA TOLA",
+    "id": 2125,
+    "votos": 61,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.2
+  },
+  {
+    "parroquia": "LUIS VARGAS TORRES",
+    "id": 2225,
+    "votos": 7,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.02
+  },
+  {
+    "parroquia": "MALDONADO",
+    "id": 2335,
+    "votos": 73,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.7
+  },
+  {
+    "parroquia": "PAMPANAL DE BOLIVAR",
+    "id": 2670,
+    "votos": 9,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.47
+  },
+  {
+    "parroquia": "SAN FRANCISCO DE ONZOLE",
+    "id": 3405,
+    "votos": 57,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.96
+  },
+  {
+    "parroquia": "SELVA ALEGRE",
+    "id": 3805,
+    "votos": 36,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.2
+  },
+  {
+    "parroquia": "TELEMBÍ",
+    "id": 4170,
+    "votos": 250,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 13.94
+  },
+  {
+    "parroquia": "SANTO DOMINGO DE ONZOLE",
+    "id": 4465,
+    "votos": 106,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.11
+  },
+  {
+    "parroquia": "SANTA LUCIA DE LAS PEÑAS",
+    "id": 4595,
+    "votos": 19,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.61
+  },
+  {
+    "parroquia": "VALDÉZ/LIMONES/",
+    "id": 6205,
+    "votos": 104,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.73
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "AVILA",
+    "id": 215,
+    "votos": 12,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 0.84
+  },
+  {
+    "parroquia": "SAN VICENTE DE HUATICOCHA",
+    "id": 400,
+    "votos": 3,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 1.0
+  },
+  {
+    "parroquia": "PUERTO MURIALDO",
+    "id": 1050,
+    "votos": 10,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 1.0
+  },
+  {
+    "parroquia": "SAN JOSE DE DAHUANO",
+    "id": 1680,
+    "votos": 14,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 1.0
+  },
+  {
+    "parroquia": "SAN JOSE DE PAYAMINO",
+    "id": 3480,
+    "votos": 18,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 1.6
+  },
+  {
+    "parroquia": "LORETO",
+    "id": 6455,
+    "votos": 67,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 1.9
+  }
+]

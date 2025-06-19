@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "CUYABENO",
+        "id": 760,
+        "votos": 7,
+        "candidato": "Acosta Alberto",
+        "value": 2.85
+    },
+    {
+        "parroquia": "AGUAS NEGRAS",
+        "id": 1555,
+        "votos": 25,
+        "candidato": "Acosta Alberto",
+        "value": 3.9
+    },
+    {
+        "parroquia": "TARAPOA",
+        "id": 6765,
+        "votos": 123,
+        "candidato": "Acosta Alberto",
+        "value": 4.038
+    }
+]

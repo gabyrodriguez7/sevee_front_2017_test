@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "PALMA ROJA",
+        "id": 2720,
+        "votos": 841,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 43.53
+    },
+    {
+        "parroquia": "PUERTO BOLÍVAR",
+        "id": 3005,
+        "votos": 27,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 38.57
+    },
+    {
+        "parroquia": "PUERTO RODRÍGUEZ",
+        "id": 3020,
+        "votos": 34,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 25.95
+    },
+    {
+        "parroquia": "SANTA ELENA",
+        "id": 3705,
+        "votos": 199,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 28.03
+    },
+    {
+        "parroquia": "EL CARMEN DE PUTUMAYO",
+        "id": 6500,
+        "votos": 891,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 43.25
+    }
+]

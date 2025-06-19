@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "SAN LUIS",
+        "id": 5980,
+        "votos": 103,
+        "candidato": "Melba Jacome",
+        "value": 0.97
+    },
+    {
+        "parroquia": "JORDAN",
+        "id": 5490,
+        "votos": 147,
+        "candidato": "Melba Jacome",
+        "value": 0.95
+    },
+    {
+        "parroquia": "SELVA ALEGRE",
+        "id": 3810,
+        "votos": 3,
+        "candidato": "Melba Jacome",
+        "value": 0.41
+    },
+    {
+        "parroquia": "SAN RAFAEL",
+        "id": 3630,
+        "votos": 32,
+        "candidato": "Melba Jacome",
+        "value": 1.4
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 3590,
+        "votos": 39,
+        "candidato": "Melba Jacome",
+        "value": 0.82
+    },
+    {
+        "parroquia": "SAN JUAN DE ILUMAN",
+        "id": 3525,
+        "votos": 56,
+        "candidato": "Melba Jacome",
+        "value": 1.62
+    },
+    {
+        "parroquia": "SAN JOSE DE QUICHINCHE",
+        "id": 3490,
+        "votos": 31,
+        "candidato": "Melba Jacome",
+        "value": 0.97
+    },
+    {
+        "parroquia": "PATAQUI",
+        "id": 2785,
+        "votos": 0,
+        "candidato": "Melba Jacome",
+        "value": 0.0
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 1360,
+        "votos": 12,
+        "candidato": "Melba Jacome",
+        "value": 0.42
+    },
+    {
+        "parroquia": "EUGENIO ESPEJO",
+        "id": 1215,
+        "votos": 32,
+        "candidato": "Melba Jacome",
+        "value": 1.15
+    },
+    {
+        "parroquia": "DR MIGUEL EGAS/PEGUCHE",
+        "id": 1040,
+        "votos": 17,
+        "candidato": "Melba Jacome",
+        "value": 0.69
+    }
+]

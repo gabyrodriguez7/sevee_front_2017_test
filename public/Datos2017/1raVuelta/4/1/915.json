@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "LA UNIÓN",
+    "id": 1535,
+    "votos": 29,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.7
+  },
+  {
+    "parroquia": "SAN MARTÍN DE PUZHIO",
+    "id": 1575,
+    "votos": 34,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.95
+  },
+  {
+    "parroquia": "LUIS GALARZA O. (DELEGSOL)",
+    "id": 1585,
+    "votos": 29,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.59
+  },
+  {
+    "parroquia": "PRINCIPAL",
+    "id": 2950,
+    "votos": 23,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 3.06
+  },
+  {
+    "parroquia": "CHORDELEG",
+    "id": 6435,
+    "votos": 309,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.12
+  }
+]

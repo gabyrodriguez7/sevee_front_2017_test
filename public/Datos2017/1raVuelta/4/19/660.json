@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "CHITO",
+    "id": 915,
+    "votos": 115,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 15.65
+  },
+  {
+    "parroquia": "EL CHORRO",
+    "id": 1145,
+    "votos": 39,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 15.85
+  },
+  {
+    "parroquia": "LA CHONTA",
+    "id": 2015,
+    "votos": 29,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 15.43
+  },
+  {
+    "parroquia": "SAN ANDRÉS",
+    "id": 2110,
+    "votos": 29,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.73
+  },
+  {
+    "parroquia": "PUCAPAMBA",
+    "id": 2955,
+    "votos": 12,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.71
+  },
+  {
+    "parroquia": "ZUMBA",
+    "id": 6315,
+    "votos": 757,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 18.89
+  }
+]

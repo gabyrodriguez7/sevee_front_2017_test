@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "GRAL. VERNAZA",
+    "id": 1350,
+    "votos": 3219,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 64.44
+  },
+  {
+    "parroquia": "JUNQUILLAL",
+    "id": 1595,
+    "votos": 3487,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 63.3
+  },
+  {
+    "parroquia": "VICTORIA",
+    "id": 4220,
+    "votos": 1648,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 58.86
+  },
+  {
+    "parroquia": "BOCANA",
+    "id": 5120,
+    "votos": 159,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 55.4
+  },
+  {
+    "parroquia": "CANDILEJOS",
+    "id": 5155,
+    "votos": 388,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 50.79
+  },
+  {
+    "parroquia": "SALITRE",
+    "id": 5200,
+    "votos": 14541,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 59.05
+  },
+  {
+    "parroquia": "PARAÍSO",
+    "id": 5765,
+    "votos": 62,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 46.27
+  },
+  {
+    "parroquia": "SAN MATEO",
+    "id": 5990,
+    "votos": 70,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 57.85
+  }
+]

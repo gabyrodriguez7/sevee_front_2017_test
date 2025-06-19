@@ -1,0 +1,37 @@
+[
+                {
+                    "parroquia": "PAJAN",
+                    "id": 5755,
+                    "votos": 129,
+                    "candidato": "Melba Jacome",
+                    "value": 1.04
+                },
+                {
+                    "parroquia": "LASCANO",
+                    "id": 2090,
+                    "votos": 19,
+                    "candidato": "Melba Jacome",
+                    "value": 1.29
+                },
+                {
+                    "parroquia": "GUALE/STO.DOMINGO",
+                    "id": 1395,
+                    "votos": 62,
+                    "candidato": "Melba Jacome",
+                    "value": 2.53
+                },
+                {
+                    "parroquia": "CASCOL",
+                    "id": 540,
+                    "votos": 40,
+                    "candidato": "Melba Jacome",
+                    "value": 0.99
+                },
+                {
+                    "parroquia": "CAMPOZANO",
+                    "id": 460,
+                    "votos": 33,
+                    "candidato": "Melba Jacome",
+                    "value": 1.36
+                }
+            ]

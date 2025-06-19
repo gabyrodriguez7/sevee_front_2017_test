@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "MARISCAL SUCRE",
+        "id": 1520,
+        "votos": 30,
+        "candidato": "Acosta Alberto",
+        "value": 3.7
+    },
+    {
+        "parroquia": "HUACA",
+        "id": 6665,
+        "votos": 226,
+        "candidato": "Acosta Alberto",
+        "value": 4.913
+    }
+]

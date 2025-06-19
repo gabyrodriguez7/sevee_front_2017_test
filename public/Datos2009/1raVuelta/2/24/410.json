@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "SANTA ELENA",
+        "id": 6040,
+        "votos": 48,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.16
+    },
+    {
+        "parroquia": "BALLENITA",
+        "id": 5130,
+        "votos": 5,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.61
+    },
+    {
+        "parroquia": "SIMON BOLIVAR",
+        "id": 3915,
+        "votos": 4,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.38
+    },
+    {
+        "parroquia": "MANGLARALTO",
+        "id": 2355,
+        "votos": 22,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.16
+    },
+    {
+        "parroquia": "SAN JOSE DE ANCON",
+        "id": 1300,
+        "votos": 5,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.24
+    },
+    {
+        "parroquia": "CHANDUY",
+        "id": 820,
+        "votos": 26,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.38
+    },
+    {
+        "parroquia": "COLONCHE",
+        "id": 605,
+        "votos": 23,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.16
+    },
+    {
+        "parroquia": "ATAHUALPA",
+        "id": 205,
+        "votos": 6,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.33
+    }
+]

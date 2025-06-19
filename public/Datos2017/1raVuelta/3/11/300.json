@@ -1,0 +1,121 @@
+[
+  {
+    "parroquia": "CHUQUIRIBAMBA",
+    "id": 975,
+    "votos": 306,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 19.86
+  },
+  {
+    "parroquia": "EL CISNE",
+    "id": 1135,
+    "votos": 399,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 40.8
+  },
+  {
+    "parroquia": "GUALEL",
+    "id": 1405,
+    "votos": 387,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 34.93
+  },
+  {
+    "parroquia": "QUINARA",
+    "id": 1780,
+    "votos": 235,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 29.27
+  },
+  {
+    "parroquia": "JIMBILLA",
+    "id": 1840,
+    "votos": 183,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 22.4
+  },
+  {
+    "parroquia": "MALACATOS/VALLADOLID",
+    "id": 2325,
+    "votos": 1549,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 32.79
+  },
+  {
+    "parroquia": "SAN LUCAS",
+    "id": 3555,
+    "votos": 424,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 15.54
+  },
+  {
+    "parroquia": "SANTIAGO",
+    "id": 3770,
+    "votos": 243,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 26.94
+  },
+  {
+    "parroquia": "TAQUIL /MIGUEL RIOFRÍO",
+    "id": 3970,
+    "votos": 465,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 26.57
+  },
+  {
+    "parroquia": "VILCABAMBA/VICTORIA",
+    "id": 4235,
+    "votos": 1338,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 41.09
+  },
+  {
+    "parroquia": "YANGANA / ARSENIO CASTILLO",
+    "id": 4280,
+    "votos": 257,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 25.65
+  },
+  {
+    "parroquia": "CHANTACO",
+    "id": 4475,
+    "votos": 195,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 25.86
+  },
+  {
+    "parroquia": "SAN PEDRO DE VILCABAMBA",
+    "id": 4540,
+    "votos": 218,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 31.32
+  },
+  {
+    "parroquia": "EL SAGRARIO",
+    "id": 5320,
+    "votos": 4723,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 27.18
+  },
+  {
+    "parroquia": "SAN SEBASTIÁN",
+    "id": 6015,
+    "votos": 7285,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 29.07
+  },
+  {
+    "parroquia": "SUCRE",
+    "id": 6100,
+    "votos": 14014,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 28.25
+  },
+  {
+    "parroquia": "VALLE",
+    "id": 6210,
+    "votos": 7924,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 25.25
+  }
+]

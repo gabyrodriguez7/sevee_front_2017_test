@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "DANIEL CÓRDOVA TORAL",
+    "id": 1005,
+    "votos": 42,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.26
+  },
+  {
+    "parroquia": "LUIS CORDERO VEGA",
+    "id": 1760,
+    "votos": 12,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.76
+  },
+  {
+    "parroquia": "JADÁN",
+    "id": 1805,
+    "votos": 105,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.09
+  },
+  {
+    "parroquia": "MARIANO MORENO/CALLASAY",
+    "id": 2385,
+    "votos": 51,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.7
+  },
+  {
+    "parroquia": "REMIGIO CRESPO TORAL",
+    "id": 3160,
+    "votos": 14,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.7
+  },
+  {
+    "parroquia": "SAN JUAN",
+    "id": 3505,
+    "votos": 69,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.72
+  },
+  {
+    "parroquia": "SIMÓN BOLÍVAR",
+    "id": 3780,
+    "votos": 10,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.29
+  },
+  {
+    "parroquia": "ZHIDMAD",
+    "id": 4340,
+    "votos": 56,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.75
+  },
+  {
+    "parroquia": "GUALACEO",
+    "id": 5420,
+    "votos": 560,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.72
+  }
+]

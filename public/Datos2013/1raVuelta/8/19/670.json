@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "CHICANA",
+    "id": 985,
+    "votos": 18,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 1.5
+  },
+  {
+    "parroquia": "LOS ENCUENTROS",
+    "id": 2240,
+    "votos": 40,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 2.54615
+  },
+  {
+    "parroquia": "YANZATZA",
+    "id": 6295,
+    "votos": 377,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 5.037
+  }
+]

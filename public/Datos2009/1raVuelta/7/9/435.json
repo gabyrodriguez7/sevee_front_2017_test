@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "NARANJAL",
+        "id": 5675,
+        "votos": 1427,
+        "candidato": "Alvaro Noboa",
+        "value": 6.5
+    },
+    {
+        "parroquia": "TAURA",
+        "id": 3990,
+        "votos": 216,
+        "candidato": "Alvaro Noboa",
+        "value": 8.37
+    },
+    {
+        "parroquia": "SANTA ROSA DE FLANDES",
+        "id": 3740,
+        "votos": 27,
+        "candidato": "Alvaro Noboa",
+        "value": 5.73
+    },
+    {
+        "parroquia": "SAN CARLOS",
+        "id": 3370,
+        "votos": 32,
+        "candidato": "Alvaro Noboa",
+        "value": 3.39
+    },
+    {
+        "parroquia": "JESUS MARIA",
+        "id": 1830,
+        "votos": 54,
+        "candidato": "Alvaro Noboa",
+        "value": 4.98
+    }
+]

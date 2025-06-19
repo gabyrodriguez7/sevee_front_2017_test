@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CAPZOL",
+        "id": 515,
+        "votos": 5,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.95
+    },
+    {
+        "parroquia": "COMPUD",
+        "id": 615,
+        "votos": 4,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.1
+    },
+    {
+        "parroquia": "GONZOL",
+        "id": 1370,
+        "votos": 11,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.0
+    },
+    {
+        "parroquia": "LLAGOS",
+        "id": 2260,
+        "votos": 22,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.395061728
+    },
+    {
+        "parroquia": "CHUNCHI",
+        "id": 5255,
+        "votos": 97,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.03
+    }
+]

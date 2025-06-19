@@ -1,0 +1,114 @@
+[
+  {
+    "parroquia": "ABDÓN CALDERÓN",
+    "id": 10,
+    "votos": 1105,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 11.82
+  },
+  {
+    "parroquia": "ALHAJUELA /BAJO GRANDE",
+    "id": 50,
+    "votos": 308,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 9.19
+  },
+  {
+    "parroquia": "CRUCITA",
+    "id": 770,
+    "votos": 1077,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 14.28
+  },
+  {
+    "parroquia": "CHIRIJOS",
+    "id": 1925,
+    "votos": 64,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 4.87
+  },
+  {
+    "parroquia": "PUEBLO NUEVO",
+    "id": 2970,
+    "votos": 255,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 10.59
+  },
+  {
+    "parroquia": "RÍO CHICO",
+    "id": 3185,
+    "votos": 928,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 11.79
+  },
+  {
+    "parroquia": "SAN PLÁCIDO",
+    "id": 3625,
+    "votos": 630,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 11.29
+  },
+  {
+    "parroquia": "ANDRÉS DE VERA",
+    "id": 5030,
+    "votos": 8600,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 17.51
+  },
+  {
+    "parroquia": "COLÓN",
+    "id": 5265,
+    "votos": 1421,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 11.2
+  },
+  {
+    "parroquia": "12 DE MARZO",
+    "id": 5280,
+    "votos": 7686,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 27.26
+  },
+  {
+    "parroquia": "PORTOVIEJO",
+    "id": 5795,
+    "votos": 4590,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 20.03
+  },
+  {
+    "parroquia": "PICOAZA",
+    "id": 5845,
+    "votos": 1827,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 13.76
+  },
+  {
+    "parroquia": "SAN PABLO",
+    "id": 6585,
+    "votos": 732,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 14.38
+  },
+  {
+    "parroquia": "18 DE OCTUBRE",
+    "id": 6770,
+    "votos": 1768,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 27.46
+  },
+  {
+    "parroquia": "FRANCISCO PACHECO",
+    "id": 6775,
+    "votos": 782,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 15.57
+  },
+  {
+    "parroquia": "SIMÓN BOLÍVAR",
+    "id": 6910,
+    "votos": 406,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 17.44
+  }
+]

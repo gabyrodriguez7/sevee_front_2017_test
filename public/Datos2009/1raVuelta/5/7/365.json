@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "TRES CERRITOS",
+        "id": 6375,
+        "votos": 2,
+        "candidato": "Melba Jacome",
+        "value": 1.31
+    },
+    {
+        "parroquia": "BOLIVAR",
+        "id": 6370,
+        "votos": 0,
+        "candidato": "Melba Jacome",
+        "value": 0.0
+    },
+    {
+        "parroquia": "LOMA DE FRANCO",
+        "id": 6365,
+        "votos": 2,
+        "candidato": "Melba Jacome",
+        "value": 0.46
+    },
+    {
+        "parroquia": "OCHOA LEON/MATRIZ",
+        "id": 5770,
+        "votos": 236,
+        "candidato": "Melba Jacome",
+        "value": 0.81
+    },
+    {
+        "parroquia": "CASACAY",
+        "id": 4495,
+        "votos": 3,
+        "candidato": "Melba Jacome",
+        "value": 0.41
+    },
+    {
+        "parroquia": "UZHCURRUMI",
+        "id": 4160,
+        "votos": 4,
+        "candidato": "Melba Jacome",
+        "value": 0.59
+    },
+    {
+        "parroquia": "LA PEAÑA",
+        "id": 2075,
+        "votos": 18,
+        "candidato": "Melba Jacome",
+        "value": 1.03
+    },
+    {
+        "parroquia": "PROGRESO",
+        "id": 1225,
+        "votos": 29,
+        "candidato": "Melba Jacome",
+        "value": 2.53
+    },
+    {
+        "parroquia": "CA�AQUEMADA",
+        "id": 775,
+        "votos": 1,
+        "candidato": "Melba Jacome",
+        "value": 0.24
+    },
+    {
+        "parroquia": "BUENAVISTA",
+        "id": 390,
+        "votos": 23,
+        "candidato": "Melba Jacome",
+        "value": 0.76
+    }
+]

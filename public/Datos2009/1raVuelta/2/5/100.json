@@ -1,0 +1,107 @@
+[
+    {
+        "parroquia": "SAN BUENAVENTURA",
+        "id": 5940,
+        "votos": 14,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.51
+    },
+    {
+        "parroquia": "LA MATRIZ",
+        "id": 5555,
+        "votos": 133,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.73
+    },
+    {
+        "parroquia": "JUAN MONTALVO",
+        "id": 5500,
+        "votos": 50,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.56
+    },
+    {
+        "parroquia": "IGNACIO FLORES",
+        "id": 5465,
+        "votos": 47,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.59
+    },
+    {
+        "parroquia": "ELOY ALFARO / SAN FELIPE",
+        "id": 5310,
+        "votos": 65,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.41
+    },
+    {
+        "parroquia": "TOACAZO",
+        "id": 4035,
+        "votos": 19,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.4
+    },
+    {
+        "parroquia": "TANICUCHI",
+        "id": 3965,
+        "votos": 30,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.44
+    },
+    {
+        "parroquia": "SAN JUAN DE PASTOCALLE",
+        "id": 3530,
+        "votos": 21,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.4
+    },
+    {
+        "parroquia": "POALO",
+        "id": 2920,
+        "votos": 27,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.96
+    },
+    {
+        "parroquia": "11 DE NOVIEMBRE",
+        "id": 2620,
+        "votos": 10,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.81
+    },
+    {
+        "parroquia": "MULALO",
+        "id": 2480,
+        "votos": 20,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.42
+    },
+    {
+        "parroquia": "JOSEGUANGO BAJO",
+        "id": 1905,
+        "votos": 4,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.43
+    },
+    {
+        "parroquia": "GUAYTACAMA",
+        "id": 1485,
+        "votos": 14,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.29
+    },
+    {
+        "parroquia": "BELISARIO QUEVEDO",
+        "id": 315,
+        "votos": 10,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.38
+    },
+    {
+        "parroquia": "ALAQUEZ",
+        "id": 35,
+        "votos": 13,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.34
+    }
+]

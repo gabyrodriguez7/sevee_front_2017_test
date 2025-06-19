@@ -1,0 +1,50 @@
+[
+  {
+    "candidato": "NOBOA  ALVARO",
+    "partido": "PARTIDO RENOVADOR INSTITUCIONAL ACCION NACIONAL",
+    "value": 3.52,
+    "fill": "#CACE03"
+  },
+  {
+    "candidato": "CORREA DELGADO RAFAEL",
+    "partido": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+    "value": 77.51,
+    "fill": "#02C01C"
+  },
+  {
+    "candidato": "WRAY  NORMAN",
+    "partido": "MOVIMIENTO RUPTURA",
+    "value": 0.81,
+    "fill": "#7E3CDF"
+  },
+  {
+    "candidato": "ACOSTA  ALBERTO",
+    "partido": "ALIANZA UNIDAD PLURINACIONAL DE LAS IZQUIERDAS",
+    "value": 2.38,
+    "fill": "#AA5A00"
+  },
+  {
+    "candidato": "GUTIERREZ  LUCIO",
+    "partido": "PARTIDO SOCIEDAD PATRIÓTICA",
+    "value": 2.47,
+    "fill": "#455709"
+  },
+  {
+    "candidato": "LASSO  GUILLERMO",
+    "partido": "MOVIMIENTO CREO CREANDO OPORTUNIDADES",
+    "value": 11.14,
+    "fill": "#002CFF"
+  },
+  {
+    "candidato": "ZAVALA  NELSON",
+    "partido": "PARTIDO ROLDOSISTA ECUATORIANO",
+    "value": 0.89,
+    "fill": "#B40000"
+  },
+  {
+    "candidato": "RODAS ESPINEL MAURICIO ESTEBAN",
+    "partido": "MOVIMIENTO SUMA SOCIEDAD UNIDA MÁS ACCIÓN",
+    "value": 1.28,
+    "fill": "#00C4B6"
+  }
+]

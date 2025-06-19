@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "MENDEZ",
+    "id": 5645,
+    "votos": 826,
+    "candidato": "Lucio Gutierrez",
+    "value": 45.36
+  },
+  {
+    "parroquia": "TAYUZA",
+    "id": 4115,
+    "votos": 344,
+    "candidato": "Lucio Gutierrez",
+    "value": 65.65
+  },
+  {
+    "parroquia": "SAN LUIS DEL ACHO",
+    "id": 3565,
+    "votos": 128,
+    "candidato": "Lucio Gutierrez",
+    "value": 43.54
+  },
+  {
+    "parroquia": "PATUCA",
+    "id": 2795,
+    "votos": 358,
+    "candidato": "Lucio Gutierrez",
+    "value": 68.45
+  },
+  {
+    "parroquia": "SAN FCO. DE CHINIMBIMI",
+    "id": 1365,
+    "votos": 229,
+    "candidato": "Lucio Gutierrez",
+    "value": 56.4
+  },
+  {
+    "parroquia": "CHUPIANZA",
+    "id": 970,
+    "votos": 120,
+    "candidato": "Lucio Gutierrez",
+    "value": 41.81
+  },
+  {
+    "parroquia": "COPAL",
+    "id": 645,
+    "votos": 108,
+    "candidato": "Lucio Gutierrez",
+    "value": 48.65
+  }
+]

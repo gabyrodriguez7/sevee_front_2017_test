@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CAMPOZANO",
+        "id": 460,
+        "votos": 91,
+        "candidato": "Noboa Alvaro",
+        "value": 2.90179
+    },
+    {
+        "parroquia": "CASCOL",
+        "id": 540,
+        "votos": 162,
+        "candidato": "Noboa Alvaro",
+        "value": 3.534
+    },
+    {
+        "parroquia": "GUALE/STO.DOMINGO",
+        "id": 1395,
+        "votos": 86,
+        "candidato": "Noboa Alvaro",
+        "value": 3.1
+    },
+    {
+        "parroquia": "LASCANO",
+        "id": 2090,
+        "votos": 56,
+        "candidato": "Noboa Alvaro",
+        "value": 2.75
+    },
+    {
+        "parroquia": "PAJAN",
+        "id": 5755,
+        "votos": 450,
+        "candidato": "Noboa Alvaro",
+        "value": 3.432
+    }
+]

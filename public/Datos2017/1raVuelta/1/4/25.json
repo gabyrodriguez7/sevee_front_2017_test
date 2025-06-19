@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "SAN RAFAEL",
+    "id": 1055,
+    "votos": 247,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 23.86
+  },
+  {
+    "parroquia": "GARCÍA MORENO",
+    "id": 1315,
+    "votos": 255,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 22.43
+  },
+  {
+    "parroquia": "LOS ANDES",
+    "id": 2205,
+    "votos": 156,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 10.74
+  },
+  {
+    "parroquia": "MONTEOLIVO",
+    "id": 2455,
+    "votos": 199,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 16.69
+  },
+  {
+    "parroquia": "SAN VICENTE DE PUSIR",
+    "id": 3680,
+    "votos": 129,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 10.25
+  },
+  {
+    "parroquia": "BOLÍVAR",
+    "id": 6520,
+    "votos": 707,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 19.62
+  }
+]

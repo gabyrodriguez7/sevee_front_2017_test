@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "LA MATRIZ",
+        "id": 5550,
+        "votos": 2818,
+        "candidato": "Rafael Correa Delgado",
+        "value": 38.58
+    },
+    {
+        "parroquia": "EL ROSARIO",
+        "id": 5315,
+        "votos": 346,
+        "candidato": "Rafael Correa Delgado",
+        "value": 34.63
+    },
+    {
+        "parroquia": "SAN ISIDRO DE PATULU",
+        "id": 3450,
+        "votos": 579,
+        "candidato": "Rafael Correa Delgado",
+        "value": 30.76
+    },
+    {
+        "parroquia": "SAN GERARDO / PAQUICAHUAN",
+        "id": 3425,
+        "votos": 406,
+        "candidato": "Rafael Correa Delgado",
+        "value": 38.66
+    },
+    {
+        "parroquia": "SAN ANDRES",
+        "id": 3295,
+        "votos": 1888,
+        "candidato": "Rafael Correa Delgado",
+        "value": 30.15
+    },
+    {
+        "parroquia": "LA PROVIDENCIA",
+        "id": 2080,
+        "votos": 148,
+        "candidato": "Rafael Correa Delgado",
+        "value": 44.17
+    },
+    {
+        "parroquia": "ILAPO",
+        "id": 1705,
+        "votos": 378,
+        "candidato": "Rafael Correa Delgado",
+        "value": 30.36
+    },
+    {
+        "parroquia": "GUANANDO",
+        "id": 1415,
+        "votos": 146,
+        "candidato": "Rafael Correa Delgado",
+        "value": 42.31
+    },
+    {
+        "parroquia": "VALPARAISO",
+        "id": 410,
+        "votos": 134,
+        "candidato": "Rafael Correa Delgado",
+        "value": 57.02
+    },
+    {
+        "parroquia": "SAN JOSE DEL CHAZO",
+        "id": 45,
+        "votos": 141,
+        "candidato": "Rafael Correa Delgado",
+        "value": 24.86
+    },
+    {
+        "parroquia": "SANTA FE DE GALAN",
+        "id": 40,
+        "votos": 107,
+        "candidato": "Rafael Correa Delgado",
+        "value": 20.49
+    }
+]

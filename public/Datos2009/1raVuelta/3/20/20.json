@@ -1,0 +1,20 @@
+[
+    {
+        "id": 800,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "votos": 9,
+        "value": 0.24
+    },
+    {
+        "id": 805,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "votos": 6,
+        "value": 0.09
+    },
+    {
+        "id": 810,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "votos": 1,
+        "value": 0.08
+    }
+]

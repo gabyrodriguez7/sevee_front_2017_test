@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "CAP. AUGUSTO RIVADENEIRA",
+    "id": 510,
+    "votos": 8,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 2.25
+  },
+  {
+    "parroquia": "CONONACO",
+    "id": 630,
+    "votos": 0,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0
+  },
+  {
+    "parroquia": "STA. MARÍA DE HUIRIRIMA",
+    "id": 3720,
+    "votos": 6,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.53
+  },
+  {
+    "parroquia": "YASUNÍ",
+    "id": 4295,
+    "votos": 1,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.46
+  },
+  {
+    "parroquia": "NUEVO ROCAFUERTE",
+    "id": 5700,
+    "votos": 4,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.68
+  },
+  {
+    "parroquia": "TIPUTINI",
+    "id": 7485,
+    "votos": 6,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.73
+  }
+]

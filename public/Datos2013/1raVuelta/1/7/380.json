@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "LA IBERIA",
+        "id": 245,
+        "votos": 75,
+        "candidato": "Noboa Alvaro",
+        "value": 4.801536
+    },
+    {
+        "parroquia": "BARBONES",
+        "id": 300,
+        "votos": 103,
+        "candidato": "Noboa Alvaro",
+        "value": 3.160479
+    },
+    {
+        "parroquia": "RIO BONITO",
+        "id": 2050,
+        "votos": 53,
+        "candidato": "Noboa Alvaro",
+        "value": 3.0
+    },
+    {
+        "parroquia": "TENDALES",
+        "id": 4000,
+        "votos": 55,
+        "candidato": "Noboa Alvaro",
+        "value": 3.2
+    },
+    {
+        "parroquia": "EL GUABO",
+        "id": 5340,
+        "votos": 948,
+        "candidato": "Noboa Alvaro",
+        "value": 4.710559
+    }
+]

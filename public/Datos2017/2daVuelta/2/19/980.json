@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "TRIUNFO DORADO",
+    "id": 4385,
+    "votos": 184,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 41.35
+  },
+  {
+    "parroquia": "PANGUINTZA",
+    "id": 4600,
+    "votos": 269,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 35.54
+  },
+  {
+    "parroquia": "ZUMBI",
+    "id": 6625,
+    "votos": 1390,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 38.45
+  }
+]

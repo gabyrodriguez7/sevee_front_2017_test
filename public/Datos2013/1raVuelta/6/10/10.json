@@ -1,0 +1,38 @@
+[
+    {
+        "id": 30,
+        "candidato": "Lasso Guillermo",
+        "votos": 31431,
+        "value": 28.0
+    },
+    {
+        "id": 35,
+        "candidato": "Lasso Guillermo",
+        "votos": 16130,
+        "value": 26.0
+    },
+    {
+        "id": 40,
+        "candidato": "Lasso Guillermo",
+        "votos": 5032,
+        "value": 21.0
+    },
+    {
+        "id": 45,
+        "candidato": "Lasso Guillermo",
+        "votos": 6718,
+        "value": 25.1
+    },
+    {
+        "id": 50,
+        "candidato": "Lasso Guillermo",
+        "votos": 2399,
+        "value": 25.1
+    },
+    {
+        "id": 55,
+        "candidato": "Lasso Guillermo",
+        "votos": 2167,
+        "value": 21.0
+    }
+]

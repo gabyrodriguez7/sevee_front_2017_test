@@ -1,0 +1,86 @@
+[
+    {
+        "parroquia": "LA DOLOROSA DEL PRIORATO",
+        "id": 6780,
+        "votos": 4,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.38
+    },
+    {
+        "parroquia": "SAN FRANCISCO",
+        "id": 5960,
+        "votos": 214,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.69
+    },
+    {
+        "parroquia": "SAGRARIO",
+        "id": 5915,
+        "votos": 223,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.72
+    },
+    {
+        "parroquia": "GUAYAQUIL DE ALPACHACA",
+        "id": 5440,
+        "votos": 28,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.56
+    },
+    {
+        "parroquia": "CARANQUI",
+        "id": 5165,
+        "votos": 43,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.56
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3315,
+        "votos": 106,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.22
+    },
+    {
+        "parroquia": "SALINAS",
+        "id": 3290,
+        "votos": 4,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.42
+    },
+    {
+        "parroquia": "LITA",
+        "id": 2185,
+        "votos": 8,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.7
+    },
+    {
+        "parroquia": "LA ESPERANZA",
+        "id": 2020,
+        "votos": 19,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.51
+    },
+    {
+        "parroquia": "CAROLINA /GUALLUPI",
+        "id": 530,
+        "votos": 6,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.45
+    },
+    {
+        "parroquia": "ANGOCHAGUA",
+        "id": 130,
+        "votos": 16,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.79
+    },
+    {
+        "parroquia": "AMBUQUI/CHOTA",
+        "id": 100,
+        "votos": 12,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.44
+    }
+]

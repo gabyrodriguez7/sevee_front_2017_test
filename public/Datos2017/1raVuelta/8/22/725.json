@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "SAN CARLOS",
+    "id": 415,
+    "votos": 30,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.47
+  },
+  {
+    "parroquia": "ENOKANQUI",
+    "id": 490,
+    "votos": 30,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.97
+  },
+  {
+    "parroquia": "RUMIPAMBA",
+    "id": 1950,
+    "votos": 12,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.66
+  },
+  {
+    "parroquia": "TRES DE NOVIEMBRE",
+    "id": 1955,
+    "votos": 31,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.7
+  },
+  {
+    "parroquia": "LAGO SAN PEDRO",
+    "id": 1960,
+    "votos": 17,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.42
+  },
+  {
+    "parroquia": "UNIÓN MILAGREÑA",
+    "id": 1965,
+    "votos": 20,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.15
+  },
+  {
+    "parroquia": "POMPEYA",
+    "id": 2930,
+    "votos": 1,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.19
+  },
+  {
+    "parroquia": "SAN SEBASTIÁN DE COCA",
+    "id": 3660,
+    "votos": 37,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.65
+  },
+  {
+    "parroquia": "LA JOYA DE LOS SACHAS",
+    "id": 6200,
+    "votos": 210,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.71
+  }
+]

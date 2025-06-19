@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "SANTA ELENA",
+    "id": 6040,
+    "votos": 384,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.3
+  },
+  {
+    "parroquia": "BALLENITA",
+    "id": 5130,
+    "votos": 11,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.34
+  },
+  {
+    "parroquia": "SIMON BOLIVAR",
+    "id": 3915,
+    "votos": 3,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.28
+  },
+  {
+    "parroquia": "MANGLARALTO",
+    "id": 2355,
+    "votos": 70,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.52
+  },
+  {
+    "parroquia": "SAN JOSE DE ANCON",
+    "id": 1300,
+    "votos": 19,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.92
+  },
+  {
+    "parroquia": "CHANDUY",
+    "id": 820,
+    "votos": 50,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.74
+  },
+  {
+    "parroquia": "COLONCHE",
+    "id": 605,
+    "votos": 72,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.52
+  },
+  {
+    "parroquia": "ATAHUALPA",
+    "id": 205,
+    "votos": 10,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.55
+  }
+]

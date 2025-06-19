@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "CANGONAMÁ",
+    "id": 485,
+    "votos": 340,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 51.59
+  },
+  {
+    "parroquia": "SAN ANTONIO",
+    "id": 545,
+    "votos": 239,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 54.32
+  },
+  {
+    "parroquia": "CASANGA",
+    "id": 995,
+    "votos": 184,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 34.26
+  },
+  {
+    "parroquia": "YAMANA",
+    "id": 1000,
+    "votos": 324,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 51.76
+  },
+  {
+    "parroquia": "GUACHANAMA",
+    "id": 1380,
+    "votos": 371,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 49.2
+  },
+  {
+    "parroquia": "LAURO GUERRERO",
+    "id": 2140,
+    "votos": 506,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 45.92
+  },
+  {
+    "parroquia": "ORIANGA",
+    "id": 2630,
+    "votos": 494,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 44.63
+  },
+  {
+    "parroquia": "CATACOCHA",
+    "id": 5180,
+    "votos": 5210,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 55.95
+  },
+  {
+    "parroquia": "LOURDES",
+    "id": 5595,
+    "votos": 420,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 52.57
+  }
+]

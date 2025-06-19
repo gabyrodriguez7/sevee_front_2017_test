@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "BOLIVAR",
+        "id": 6520,
+        "votos": 111,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.64
+    },
+    {
+        "parroquia": "SAN VICENTE DE PUSIR",
+        "id": 3680,
+        "votos": 9,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 0.94
+    },
+    {
+        "parroquia": "MONTEOLIVO",
+        "id": 2455,
+        "votos": 22,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.23
+    },
+    {
+        "parroquia": "LOS ANDES",
+        "id": 2205,
+        "votos": 25,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.15
+    },
+    {
+        "parroquia": "GARCIA MORENO",
+        "id": 1315,
+        "votos": 25,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.44
+    },
+    {
+        "parroquia": "SAN RAFAEL",
+        "id": 1055,
+        "votos": 12,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.57
+    }
+]

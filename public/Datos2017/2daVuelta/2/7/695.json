@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "HUAQUILLAS",
+    "id": 5460,
+    "votos": 12163,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 44.56
+  },
+  {
+    "parroquia": "HUALTACO",
+    "id": 6800,
+    "votos": 476,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 60.33
+  },
+  {
+    "parroquia": "MILTON REYES",
+    "id": 6805,
+    "votos": 345,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 46.12
+  },
+  {
+    "parroquia": "EL PARAÍSO",
+    "id": 6810,
+    "votos": 268,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 47.02
+  },
+  {
+    "parroquia": "ECUADOR",
+    "id": 6815,
+    "votos": 544,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 53.6
+  },
+  {
+    "parroquia": "UNIÓN LOJANA",
+    "id": 6820,
+    "votos": 1002,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 54.55
+  }
+]

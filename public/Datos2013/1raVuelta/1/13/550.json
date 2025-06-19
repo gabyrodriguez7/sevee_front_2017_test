@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "BACHILLERO",
+        "id": 265,
+        "votos": 58,
+        "candidato": "Noboa Alvaro",
+        "value": 3.0
+    },
+    {
+        "parroquia": "ANGEL PEDRO GILER",
+        "id": 2030,
+        "votos": 90,
+        "candidato": "Noboa Alvaro",
+        "value": 3.4
+    },
+    {
+        "parroquia": "TOSAGUA",
+        "id": 6170,
+        "votos": 839,
+        "candidato": "Noboa Alvaro",
+        "value": 4.36
+    }
+]

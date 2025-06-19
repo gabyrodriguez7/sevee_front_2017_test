@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "SEVILLA DE ORO",
+        "id": 6480,
+        "votos": 1210,
+        "candidato": "Rafael Correa Delgado",
+        "value": 81.15
+    },
+    {
+        "parroquia": "PALMAS",
+        "id": 2725,
+        "votos": 925,
+        "candidato": "Rafael Correa Delgado",
+        "value": 72.43
+    },
+    {
+        "parroquia": "AMALUZA",
+        "id": 85,
+        "votos": 274,
+        "candidato": "Rafael Correa Delgado",
+        "value": 64.01
+    }
+]

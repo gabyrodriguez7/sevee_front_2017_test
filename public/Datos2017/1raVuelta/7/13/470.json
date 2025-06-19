@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "AYACUCHO",
+    "id": 220,
+    "votos": 286,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 6.4
+  },
+  {
+    "parroquia": "SAN PABLO",
+    "id": 1105,
+    "votos": 68,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.31
+  },
+  {
+    "parroquia": "HONORATO VÁSQUEZ",
+    "id": 1610,
+    "votos": 163,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 5.25
+  },
+  {
+    "parroquia": "LA UNIÓN",
+    "id": 2135,
+    "votos": 145,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 4.67
+  },
+  {
+    "parroquia": "SANTA ANA",
+    "id": 6030,
+    "votos": 1697,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 10.63
+  },
+  {
+    "parroquia": "LODANA",
+    "id": 6725,
+    "votos": 163,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 18.31
+  }
+]

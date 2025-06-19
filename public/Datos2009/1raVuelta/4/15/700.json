@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "ARCHIDONA",
+        "id": 5070,
+        "votos": 1921,
+        "candidato": "Rafael Correa Delgado",
+        "value": 26.84
+    },
+    {
+        "parroquia": "SAN PABLO DE USHPAYACU",
+        "id": 3605,
+        "votos": 236,
+        "candidato": "Rafael Correa Delgado",
+        "value": 27.06
+    },
+    {
+        "parroquia": "COTUNDO",
+        "id": 685,
+        "votos": 683,
+        "candidato": "Rafael Correa Delgado",
+        "value": 21.3
+    }
+]

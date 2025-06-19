@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CHANGAIMINA /LA LIBERTAD",
+        "id": 825,
+        "votos": 70,
+        "candidato": "Acosta Alberto",
+        "value": 5.051
+    },
+    {
+        "parroquia": "NAMBACOLA",
+        "id": 2520,
+        "votos": 131,
+        "candidato": "Acosta Alberto",
+        "value": 6.307
+    },
+    {
+        "parroquia": "PURUNUMA /EGUIGUREN",
+        "id": 3045,
+        "votos": 123,
+        "candidato": "Acosta Alberto",
+        "value": 17.9
+    },
+    {
+        "parroquia": "SACAPALCA",
+        "id": 3270,
+        "votos": 38,
+        "candidato": "Acosta Alberto",
+        "value": 4.0
+    },
+    {
+        "parroquia": "GONZANAMA",
+        "id": 5400,
+        "votos": 143,
+        "candidato": "Acosta Alberto",
+        "value": 5.8036
+    }
+]

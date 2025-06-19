@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "SANTA FE DE GALÁN",
+    "id": 40,
+    "votos": 83,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 11.81
+  },
+  {
+    "parroquia": "SAN JOSÉ DEL CHAZO",
+    "id": 45,
+    "votos": 69,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.31
+  },
+  {
+    "parroquia": "VALPARAISO",
+    "id": 410,
+    "votos": 27,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.54
+  },
+  {
+    "parroquia": "GUANANDO",
+    "id": 1415,
+    "votos": 29,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.49
+  },
+  {
+    "parroquia": "ILAPO",
+    "id": 1705,
+    "votos": 165,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 11.43
+  },
+  {
+    "parroquia": "LA PROVIDENCIA",
+    "id": 2080,
+    "votos": 31,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.54
+  },
+  {
+    "parroquia": "SAN ANDRÉS",
+    "id": 3295,
+    "votos": 1046,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 12.82
+  },
+  {
+    "parroquia": "SAN GERARDO / PAQUICAHUAN",
+    "id": 3425,
+    "votos": 121,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.97
+  },
+  {
+    "parroquia": "SAN ISIDRO DE PATULÚ",
+    "id": 3450,
+    "votos": 335,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 13.23
+  },
+  {
+    "parroquia": "EL ROSARIO",
+    "id": 5315,
+    "votos": 159,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.17
+  },
+  {
+    "parroquia": "LA MATRIZ",
+    "id": 5550,
+    "votos": 1154,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 11.74
+  }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "PILLARO",
+        "id": 5785,
+        "votos": 43,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.48
+    },
+    {
+        "parroquia": "CIUDAD NUEVA",
+        "id": 5225,
+        "votos": 6,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.76
+    },
+    {
+        "parroquia": "SAN MIGUELITO",
+        "id": 3585,
+        "votos": 8,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.27
+    },
+    {
+        "parroquia": "SAN JOSE DE POALO",
+        "id": 3485,
+        "votos": 7,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.56
+    },
+    {
+        "parroquia": "SAN ANDRES",
+        "id": 3300,
+        "votos": 14,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.25
+    },
+    {
+        "parroquia": "PRESIDENTE URBINA",
+        "id": 2945,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.12
+    },
+    {
+        "parroquia": "MARCOS ESPINEL",
+        "id": 2375,
+        "votos": 4,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.3
+    },
+    {
+        "parroquia": "EMILIO MARIA TERAN",
+        "id": 1210,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.14
+    },
+    {
+        "parroquia": "BAQUERIZO MORENO",
+        "id": 295,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.49
+    }
+]

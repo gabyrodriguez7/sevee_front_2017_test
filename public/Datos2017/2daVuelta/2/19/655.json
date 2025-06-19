@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "CUMBARATZA",
+    "id": 720,
+    "votos": 850,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 36
+  },
+  {
+    "parroquia": "GUADALUPE",
+    "id": 1390,
+    "votos": 744,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 35.65
+  },
+  {
+    "parroquia": "SAN CARLOS DE LAS MINAS",
+    "id": 1770,
+    "votos": 485,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 40.45
+  },
+  {
+    "parroquia": "LA VICTORIA DE IMBANA",
+    "id": 2155,
+    "votos": 165,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 22.95
+  },
+  {
+    "parroquia": "SABANILLA",
+    "id": 3260,
+    "votos": 206,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 40
+  },
+  {
+    "parroquia": "TIMBARA",
+    "id": 4010,
+    "votos": 308,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 33.81
+  },
+  {
+    "parroquia": "ZAMORA",
+    "id": 6305,
+    "votos": 3303,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 33.24
+  },
+  {
+    "parroquia": "EL LIMÓN",
+    "id": 6840,
+    "votos": 104,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 32
+  }
+]

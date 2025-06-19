@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "ALAUSI",
+        "id": 5010,
+        "votos": 197,
+        "candidato": "Alvaro Noboa",
+        "value": 3.69
+    },
+    {
+        "parroquia": "TIXAN",
+        "id": 4030,
+        "votos": 69,
+        "candidato": "Alvaro Noboa",
+        "value": 2.02
+    },
+    {
+        "parroquia": "SIBAMBE",
+        "id": 3845,
+        "votos": 37,
+        "candidato": "Alvaro Noboa",
+        "value": 3.12
+    },
+    {
+        "parroquia": "SEVILLA",
+        "id": 3820,
+        "votos": 4,
+        "candidato": "Alvaro Noboa",
+        "value": 1.34
+    },
+    {
+        "parroquia": "PUMALLACTA",
+        "id": 3025,
+        "votos": 7,
+        "candidato": "Alvaro Noboa",
+        "value": 2.97
+    },
+    {
+        "parroquia": "PISTISHI",
+        "id": 2905,
+        "votos": 0,
+        "candidato": "Alvaro Noboa",
+        "value": 0.0
+    },
+    {
+        "parroquia": "MULTITUD",
+        "id": 2485,
+        "votos": 27,
+        "candidato": "Alvaro Noboa",
+        "value": 4.76
+    },
+    {
+        "parroquia": "HUIGRA",
+        "id": 1660,
+        "votos": 28,
+        "candidato": "Alvaro Noboa",
+        "value": 3.13
+    },
+    {
+        "parroquia": "GUASUNTOS",
+        "id": 1465,
+        "votos": 39,
+        "candidato": "Alvaro Noboa",
+        "value": 4.86
+    },
+    {
+        "parroquia": "ACHUPALLAS",
+        "id": 20,
+        "votos": 58,
+        "candidato": "Alvaro Noboa",
+        "value": 2.04
+    }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "SAN CARLOS",
+    "id": 415,
+    "votos": 20,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.98
+  },
+  {
+    "parroquia": "ENOKANQUI",
+    "id": 490,
+    "votos": 18,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.18
+  },
+  {
+    "parroquia": "RUMIPAMBA",
+    "id": 1950,
+    "votos": 13,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.8
+  },
+  {
+    "parroquia": "TRES DE NOVIEMBRE",
+    "id": 1955,
+    "votos": 36,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.97
+  },
+  {
+    "parroquia": "LAGO SAN PEDRO",
+    "id": 1960,
+    "votos": 17,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.42
+  },
+  {
+    "parroquia": "UNIÓN MILAGREÑA",
+    "id": 1965,
+    "votos": 20,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.15
+  },
+  {
+    "parroquia": "POMPEYA",
+    "id": 2930,
+    "votos": 44,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 8.18
+  },
+  {
+    "parroquia": "SAN SEBASTIÁN DE COCA",
+    "id": 3660,
+    "votos": 36,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.61
+  },
+  {
+    "parroquia": "LA JOYA DE LOS SACHAS",
+    "id": 6200,
+    "votos": 170,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.38
+  }
+]

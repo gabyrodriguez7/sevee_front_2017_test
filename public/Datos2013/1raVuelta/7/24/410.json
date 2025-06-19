@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "ATAHUALPA",
+        "id": 205,
+        "votos": 24,
+        "candidato": "Zavala Nelson",
+        "value": 1.2
+    },
+    {
+        "parroquia": "COLONCHE",
+        "id": 605,
+        "votos": 139,
+        "candidato": "Zavala Nelson",
+        "value": 0.8
+    },
+    {
+        "parroquia": "CHANDUY",
+        "id": 820,
+        "votos": 149,
+        "candidato": "Zavala Nelson",
+        "value": 1.7
+    },
+    {
+        "parroquia": "SAN JOSE DE ANCON",
+        "id": 1300,
+        "votos": 27,
+        "candidato": "Zavala Nelson",
+        "value": 0.9
+    },
+    {
+        "parroquia": "MANGLARALTO",
+        "id": 2355,
+        "votos": 176,
+        "candidato": "Zavala Nelson",
+        "value": 1.1
+    },
+    {
+        "parroquia": "SIMON BOLIVAR",
+        "id": 3915,
+        "votos": 17,
+        "candidato": "Zavala Nelson",
+        "value": 1.12
+    },
+    {
+        "parroquia": "BALLENITA",
+        "id": 5130,
+        "votos": 13,
+        "candidato": "Zavala Nelson",
+        "value": 1.12
+    },
+    {
+        "parroquia": "SANTA ELENA",
+        "id": 6040,
+        "votos": 328,
+        "candidato": "Zavala Nelson",
+        "value": 0.95
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id": 60,
+        "candidato": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "votos": 496822,
+        "value": 87.23
+    },
+    {
+        "id": 65,
+        "candidato": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "votos": 13443,
+        "value": 2.36
+    },
+    {
+        "id": 70,
+        "candidato": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "votos": 17612,
+        "value": 3.09
+    },
+    {
+        "id": 75,
+        "candidato": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "votos": 5234,
+        "value": 0.92
+    },
+    {
+        "id": 80,
+        "candidato": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "votos": 26098,
+        "value": 4.58
+    },
+    {
+        "id": 770,
+        "candidato": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "votos": 3209,
+        "value": 0.56
+    },
+    {
+        "id": 895,
+        "candidato": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "votos": 3558,
+        "value": 0.62
+    },
+    {
+        "id": 896,
+        "candidato": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "votos": 3551,
+        "value": 0.62
+    }
+]

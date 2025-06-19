@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "DANIEL CÓRDOVA TORAL",
+    "id": 1005,
+    "votos": 49,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 4.97
+  },
+  {
+    "parroquia": "LUIS CORDERO VEGA",
+    "id": 1760,
+    "votos": 18,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.64
+  },
+  {
+    "parroquia": "JADÁN",
+    "id": 1805,
+    "votos": 191,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.45
+  },
+  {
+    "parroquia": "MARIANO MORENO/CALLASAY",
+    "id": 2385,
+    "votos": 47,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 4.33
+  },
+  {
+    "parroquia": "REMIGIO CRESPO TORAL",
+    "id": 3160,
+    "votos": 33,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.37
+  },
+  {
+    "parroquia": "SAN JUAN",
+    "id": 3505,
+    "votos": 126,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 4.96
+  },
+  {
+    "parroquia": "SIMÓN BOLÍVAR",
+    "id": 3780,
+    "votos": 37,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.49
+  },
+  {
+    "parroquia": "ZHIDMAD",
+    "id": 4340,
+    "votos": 93,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.23
+  },
+  {
+    "parroquia": "GUALACEO",
+    "id": 5420,
+    "votos": 1121,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.44
+  }
+]

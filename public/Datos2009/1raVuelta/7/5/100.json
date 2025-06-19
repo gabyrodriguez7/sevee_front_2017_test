@@ -1,0 +1,107 @@
+[
+    {
+        "parroquia": "SAN BUENAVENTURA",
+        "id": 5940,
+        "votos": 118,
+        "candidato": "Alvaro Noboa",
+        "value": 4.31
+    },
+    {
+        "parroquia": "LA MATRIZ",
+        "id": 5555,
+        "votos": 1521,
+        "candidato": "Alvaro Noboa",
+        "value": 8.43
+    },
+    {
+        "parroquia": "JUAN MONTALVO",
+        "id": 5500,
+        "votos": 450,
+        "candidato": "Alvaro Noboa",
+        "value": 5.08
+    },
+    {
+        "parroquia": "IGNACIO FLORES",
+        "id": 5465,
+        "votos": 480,
+        "candidato": "Alvaro Noboa",
+        "value": 6.03
+    },
+    {
+        "parroquia": "ELOY ALFARO / SAN FELIPE",
+        "id": 5310,
+        "votos": 1000,
+        "candidato": "Alvaro Noboa",
+        "value": 6.45
+    },
+    {
+        "parroquia": "TOACAZO",
+        "id": 4035,
+        "votos": 143,
+        "candidato": "Alvaro Noboa",
+        "value": 3.08
+    },
+    {
+        "parroquia": "TANICUCHI",
+        "id": 3965,
+        "votos": 326,
+        "candidato": "Alvaro Noboa",
+        "value": 4.83
+    },
+    {
+        "parroquia": "SAN JUAN DE PASTOCALLE",
+        "id": 3530,
+        "votos": 235,
+        "candidato": "Alvaro Noboa",
+        "value": 4.5
+    },
+    {
+        "parroquia": "POALO",
+        "id": 2920,
+        "votos": 121,
+        "candidato": "Alvaro Noboa",
+        "value": 4.34
+    },
+    {
+        "parroquia": "11 DE NOVIEMBRE",
+        "id": 2620,
+        "votos": 35,
+        "candidato": "Alvaro Noboa",
+        "value": 2.84
+    },
+    {
+        "parroquia": "MULALO",
+        "id": 2480,
+        "votos": 192,
+        "candidato": "Alvaro Noboa",
+        "value": 4.08
+    },
+    {
+        "parroquia": "JOSEGUANGO BAJO",
+        "id": 1905,
+        "votos": 66,
+        "candidato": "Alvaro Noboa",
+        "value": 7.17
+    },
+    {
+        "parroquia": "GUAYTACAMA",
+        "id": 1485,
+        "votos": 218,
+        "candidato": "Alvaro Noboa",
+        "value": 4.67
+    },
+    {
+        "parroquia": "BELISARIO QUEVEDO",
+        "id": 315,
+        "votos": 94,
+        "candidato": "Alvaro Noboa",
+        "value": 3.64
+    },
+    {
+        "parroquia": "ALAQUEZ",
+        "id": 35,
+        "votos": 153,
+        "candidato": "Alvaro Noboa",
+        "value": 4.1
+    }
+]

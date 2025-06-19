@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "GONZALO DÍAZ DE PINEDA",
+    "id": 1020,
+    "votos": 37,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.98
+  },
+  {
+    "parroquia": "LINARES",
+    "id": 2180,
+    "votos": 5,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.72
+  },
+  {
+    "parroquia": "OYACACHI",
+    "id": 2640,
+    "votos": 14,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.33
+  },
+  {
+    "parroquia": "SANTA ROSA DE QUIJOS",
+    "id": 3745,
+    "votos": 33,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.27
+  },
+  {
+    "parroquia": "SARDINAS",
+    "id": 3790,
+    "votos": 21,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.27
+  },
+  {
+    "parroquia": "EL CHACO",
+    "id": 5510,
+    "votos": 193,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.48
+  }
+]

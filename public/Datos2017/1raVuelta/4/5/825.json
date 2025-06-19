@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "GUASAGANDA",
+    "id": 1500,
+    "votos": 112,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.26
+  },
+  {
+    "parroquia": "PUCAYACO",
+    "id": 2965,
+    "votos": 86,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.17
+  },
+  {
+    "parroquia": "LA MANÁ",
+    "id": 6535,
+    "votos": 1392,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.82
+  },
+  {
+    "parroquia": "EL CARMEN",
+    "id": 6880,
+    "votos": 96,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 4.95
+  },
+  {
+    "parroquia": "EL TRIUNFO",
+    "id": 6895,
+    "votos": 152,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.23
+  }
+]

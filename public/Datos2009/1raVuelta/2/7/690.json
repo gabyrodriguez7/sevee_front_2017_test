@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "PORTOVELO",
+        "id": 5850,
+        "votos": 12,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.22
+    },
+    {
+        "parroquia": "MORALES",
+        "id": 4520,
+        "votos": 2,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.6
+    },
+    {
+        "parroquia": "SALATI",
+        "id": 3275,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.75
+    },
+    {
+        "parroquia": "CURTINCAPAC",
+        "id": 740,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.02
+    }
+]

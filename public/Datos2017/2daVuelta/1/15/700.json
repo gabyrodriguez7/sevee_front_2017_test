@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "COTUNDO",
+        "id": 685,
+        "votos": 2690,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 70.75
+    },
+    {
+        "parroquia": "SAN PABLO DE USHPAYACU",
+        "id": 3605,
+        "votos": 1293,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 70.62
+    },
+    {
+        "parroquia": "HATUN SUMAKU",
+        "id": 4630,
+        "votos": 814,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 54.45
+    },
+    {
+        "parroquia": "ARCHIDONA",
+        "id": 5070,
+        "votos": 7041,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 69.97
+    }
+]

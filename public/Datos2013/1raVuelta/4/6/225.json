@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "LA CANDELARIA",
+        "id": 925,
+        "votos": 12,
+        "candidato": "Acosta Alberto",
+        "value": 5.48
+    },
+    {
+        "parroquia": "EL ALTAR",
+        "id": 1110,
+        "votos": 19,
+        "candidato": "Acosta Alberto",
+        "value": 2.17
+    },
+    {
+        "parroquia": "BILBAO",
+        "id": 1325,
+        "votos": 3,
+        "candidato": "Acosta Alberto",
+        "value": 1.6
+    },
+    {
+        "parroquia": "MATUS",
+        "id": 2400,
+        "votos": 30,
+        "candidato": "Acosta Alberto",
+        "value": 4.4843
+    },
+    {
+        "parroquia": "PUELA",
+        "id": 2975,
+        "votos": 9,
+        "candidato": "Acosta Alberto",
+        "value": 1.6575
+    },
+    {
+        "parroquia": "SAN ANTONIO DE BAYUSHIG",
+        "id": 3335,
+        "votos": 46,
+        "candidato": "Acosta Alberto",
+        "value": 4.343720491
+    },
+    {
+        "parroquia": "PENIPE",
+        "id": 5740,
+        "votos": 41,
+        "candidato": "Acosta Alberto",
+        "value": 2.3
+    }
+]

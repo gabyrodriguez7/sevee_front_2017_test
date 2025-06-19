@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "EL PORVENIR DEL CARMEN",
+    "id": 1240,
+    "votos": 340,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 45.03
+  },
+  {
+    "parroquia": "LA CANELA",
+    "id": 2170,
+    "votos": 55,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 23.01
+  },
+  {
+    "parroquia": "VALLADOLID",
+    "id": 4195,
+    "votos": 518,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 49.33
+  },
+  {
+    "parroquia": "SAN FRANCISCO DEL VERGEL",
+    "id": 4505,
+    "votos": 235,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 30.8
+  },
+  {
+    "parroquia": "PALANDA",
+    "id": 6740,
+    "votos": 1394,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 49.82
+  }
+]

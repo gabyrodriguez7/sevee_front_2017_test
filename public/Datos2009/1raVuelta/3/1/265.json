@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "GUALACEO",
+        "id": 5420,
+        "votos": 125,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 1.16
+    },
+    {
+        "parroquia": "ZHIDMAD",
+        "id": 4340,
+        "votos": 28,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 2.88
+    },
+    {
+        "parroquia": "SIMON BOLIVAR",
+        "id": 3780,
+        "votos": 5,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 1.51
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3505,
+        "votos": 29,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 1.8
+    },
+    {
+        "parroquia": "REMIGIO CRESPO TORAL",
+        "id": 3160,
+        "votos": 2,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.53
+    },
+    {
+        "parroquia": "MARIANO MORENO/CALLASAY",
+        "id": 2385,
+        "votos": 17,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 2.05
+    },
+    {
+        "parroquia": "JADAN",
+        "id": 1805,
+        "votos": 28,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 1.63
+    },
+    {
+        "parroquia": "LUIS CORDERO VEGA",
+        "id": 1760,
+        "votos": 3,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 1.6
+    },
+    {
+        "parroquia": "DANIEL CORDOVA TORAL",
+        "id": 1005,
+        "votos": 9,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 1.03
+    }
+]

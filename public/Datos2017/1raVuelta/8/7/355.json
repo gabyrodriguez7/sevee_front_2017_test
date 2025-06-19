@@ -1,0 +1,86 @@
+[
+  {
+    "parroquia": "BELLAVISTA",
+    "id": 325,
+    "votos": 47,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.86
+  },
+  {
+    "parroquia": "BELLAMARÍA",
+    "id": 1665,
+    "votos": 11,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.23
+  },
+  {
+    "parroquia": "JAMBELÍ",
+    "id": 1815,
+    "votos": 6,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.43
+  },
+  {
+    "parroquia": "LA AVANZADA",
+    "id": 2005,
+    "votos": 37,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.66
+  },
+  {
+    "parroquia": "SAN ANTONIO",
+    "id": 3330,
+    "votos": 15,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.07
+  },
+  {
+    "parroquia": "VICTORIA",
+    "id": 4215,
+    "votos": 53,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.02
+  },
+  {
+    "parroquia": "TORATA",
+    "id": 4525,
+    "votos": 36,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.22
+  },
+  {
+    "parroquia": "SANTA ROSA",
+    "id": 6060,
+    "votos": 978,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.65
+  },
+  {
+    "parroquia": "PUERTO JELI",
+    "id": 6670,
+    "votos": 16,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.37
+  },
+  {
+    "parroquia": "BALNEARIO JAMBELÍ",
+    "id": 6900,
+    "votos": 4,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.94
+  },
+  {
+    "parroquia": "JUMON",
+    "id": 6985,
+    "votos": 21,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.92
+  },
+  {
+    "parroquia": "NUEVO SANTA ROSA",
+    "id": 6990,
+    "votos": 14,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.16
+  }
+]

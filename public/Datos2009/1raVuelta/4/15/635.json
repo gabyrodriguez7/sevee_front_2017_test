@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "BAEZA",
+        "id": 5090,
+        "votos": 332,
+        "candidato": "Rafael Correa Delgado",
+        "value": 28.5
+    },
+    {
+        "parroquia": "SUMACO",
+        "id": 3890,
+        "votos": 40,
+        "candidato": "Rafael Correa Delgado",
+        "value": 34.19
+    },
+    {
+        "parroquia": "SAN FRANCISCO DE BORJA",
+        "id": 3395,
+        "votos": 254,
+        "candidato": "Rafael Correa Delgado",
+        "value": 24.56
+    },
+    {
+        "parroquia": "PAPALLACTA",
+        "id": 2770,
+        "votos": 140,
+        "candidato": "Rafael Correa Delgado",
+        "value": 37.43
+    },
+    {
+        "parroquia": "CUYUJA",
+        "id": 765,
+        "votos": 71,
+        "candidato": "Rafael Correa Delgado",
+        "value": 27.0
+    },
+    {
+        "parroquia": "COSANGA",
+        "id": 670,
+        "votos": 103,
+        "candidato": "Rafael Correa Delgado",
+        "value": 31.5
+    }
+]

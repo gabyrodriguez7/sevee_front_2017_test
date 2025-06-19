@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "TARIFA",
+    "id": 3975,
+    "votos": 17,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.34
+  },
+  {
+    "parroquia": "SAMBORONDÓN",
+    "id": 5925,
+    "votos": 83,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.37
+  },
+  {
+    "parroquia": "LA PUNTILLA(SATELITE)",
+    "id": 7445,
+    "votos": 25,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.14
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "LLIGUA",
+    "id": 2270,
+    "votos": 7,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 2.34
+  },
+  {
+    "parroquia": "RÍO NEGRO",
+    "id": 3190,
+    "votos": 14,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.75
+  },
+  {
+    "parroquia": "RÍO VERDE",
+    "id": 3200,
+    "votos": 9,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.09
+  },
+  {
+    "parroquia": "ULBA",
+    "id": 4135,
+    "votos": 12,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.97
+  },
+  {
+    "parroquia": "BAÑOS",
+    "id": 5105,
+    "votos": 72,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.63
+  }
+]

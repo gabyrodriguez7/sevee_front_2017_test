@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CANI",
+        "id": 500,
+        "votos": 8,
+        "candidato": "Wray Norman",
+        "value": 1.509
+    },
+    {
+        "parroquia": "COLUMBE",
+        "id": 610,
+        "votos": 88,
+        "candidato": "Wray Norman",
+        "value": 0.84
+    },
+    {
+        "parroquia": "JUAN DE VELASCO / PONGOR",
+        "id": 1865,
+        "votos": 19,
+        "candidato": "Wray Norman",
+        "value": 1.23
+    },
+    {
+        "parroquia": "SANTIAGO DE QUITO",
+        "id": 4430,
+        "votos": 20,
+        "candidato": "Wray Norman",
+        "value": 1.46
+    },
+    {
+        "parroquia": "CAJABAMBA",
+        "id": 5145,
+        "votos": 88,
+        "candidato": "Wray Norman",
+        "value": 1.19
+    },
+    {
+        "parroquia": "SICALPA",
+        "id": 6080,
+        "votos": 86,
+        "candidato": "Wray Norman",
+        "value": 1.39974
+    }
+]

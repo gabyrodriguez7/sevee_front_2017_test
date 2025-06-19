@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CURTINCAPAC",
+        "id": 740,
+        "votos": 227,
+        "candidato": "Correa Delgado Rafael",
+        "value": 67.0
+    },
+    {
+        "parroquia": "SALATI",
+        "id": 3275,
+        "votos": 276,
+        "candidato": "Correa Delgado Rafael",
+        "value": 51.3
+    },
+    {
+        "parroquia": "MORALES",
+        "id": 4520,
+        "votos": 182,
+        "candidato": "Correa Delgado Rafael",
+        "value": 42.623
+    },
+    {
+        "parroquia": "PORTOVELO",
+        "id": 5850,
+        "votos": 3070,
+        "candidato": "Correa Delgado Rafael",
+        "value": 49.0
+    }
+]

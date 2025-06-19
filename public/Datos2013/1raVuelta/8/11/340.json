@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 320,
+        "votos": 17,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.7
+    },
+    {
+        "parroquia": "EL INGENIO",
+        "id": 790,
+        "votos": 9,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.0
+    },
+    {
+        "parroquia": "EL AIRO",
+        "id": 1645,
+        "votos": 12,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.72
+    },
+    {
+        "parroquia": "JIMBURA",
+        "id": 1845,
+        "votos": 24,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.4615
+    },
+    {
+        "parroquia": "SANTA TERESITA",
+        "id": 3765,
+        "votos": 25,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.38
+    },
+    {
+        "parroquia": "27 DE ABRIL /LA NARANJA",
+        "id": 4460,
+        "votos": 18,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.87
+    },
+    {
+        "parroquia": "AMALUZA",
+        "id": 5020,
+        "votos": 89,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.8
+    }
+]

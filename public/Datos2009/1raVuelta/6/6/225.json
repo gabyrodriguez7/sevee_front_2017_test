@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "PENIPE",
+        "id": 5740,
+        "votos": 33,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 2.23
+    },
+    {
+        "parroquia": "SAN ANTONIO DE BAYUSHIG",
+        "id": 3335,
+        "votos": 17,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.69
+    },
+    {
+        "parroquia": "PUELA",
+        "id": 2975,
+        "votos": 4,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.82
+    },
+    {
+        "parroquia": "MATUS",
+        "id": 2400,
+        "votos": 4,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.66
+    },
+    {
+        "parroquia": "BILBAO",
+        "id": 1325,
+        "votos": 1,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.83
+    },
+    {
+        "parroquia": "EL ALTAR",
+        "id": 1110,
+        "votos": 20,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 2.56
+    },
+    {
+        "parroquia": "LA CANDELARIA",
+        "id": 925,
+        "votos": 2,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.11
+    }
+]

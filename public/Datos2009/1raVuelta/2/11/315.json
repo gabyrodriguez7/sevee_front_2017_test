@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CELICA",
+        "id": 5195,
+        "votos": 14,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.42
+    },
+    {
+        "parroquia": "SAN JUAN DE POZUL",
+        "id": 3535,
+        "votos": 5,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.41
+    },
+    {
+        "parroquia": "SABANILLA",
+        "id": 3255,
+        "votos": 4,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.41
+    },
+    {
+        "parroquia": "TNTE M.RODRIGUEZ LOAYZA",
+        "id": 1495,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.45
+    },
+    {
+        "parroquia": "CRUZPAMBA/BUSTAMANTE",
+        "id": 695,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.21
+    }
+]

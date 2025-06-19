@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "HUAQUILLAS",
+    "id": 5460,
+    "votos": 649,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.44
+  },
+  {
+    "parroquia": "HUALTACO",
+    "id": 6800,
+    "votos": 11,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.5
+  },
+  {
+    "parroquia": "MILTON REYES",
+    "id": 6805,
+    "votos": 18,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.52
+  },
+  {
+    "parroquia": "EL PARAÍSO",
+    "id": 6810,
+    "votos": 15,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.74
+  },
+  {
+    "parroquia": "ECUADOR",
+    "id": 6815,
+    "votos": 26,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.75
+  },
+  {
+    "parroquia": "UNIÓN LOJANA",
+    "id": 6820,
+    "votos": 48,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.8
+  }
+]

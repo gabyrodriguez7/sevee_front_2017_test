@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "SALANGO",
+        "id": 1920,
+        "votos": 48,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.914
+    },
+    {
+        "parroquia": "MACHALILLA",
+        "id": 2305,
+        "votos": 53,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.8596
+    },
+    {
+        "parroquia": "PUERTO LOPEZ",
+        "id": 6575,
+        "votos": 272,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.38
+    }
+]

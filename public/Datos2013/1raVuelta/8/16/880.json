@@ -1,0 +1,16 @@
+[
+  {
+    "parroquia": "SAN JOSE",
+    "id": 2100,
+    "votos": 13,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 3.0
+  },
+  {
+    "parroquia": "SANTA CLARA",
+    "id": 6395,
+    "votos": 46,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 2.1
+  }
+]

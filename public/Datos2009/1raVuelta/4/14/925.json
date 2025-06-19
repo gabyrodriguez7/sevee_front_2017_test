@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "SAN JUAN BOSCO",
+        "id": 6445,
+        "votos": 679,
+        "candidato": "Rafael Correa Delgado",
+        "value": 58.23
+    },
+    {
+        "parroquia": "SAN CARLOS DE LIMON",
+        "id": 3920,
+        "votos": 64,
+        "candidato": "Rafael Correa Delgado",
+        "value": 34.04
+    },
+    {
+        "parroquia": "PAN DE AZUCAR",
+        "id": 2750,
+        "votos": 80,
+        "candidato": "Rafael Correa Delgado",
+        "value": 66.12
+    },
+    {
+        "parroquia": "SANTIAGO DE PANANZA",
+        "id": 1785,
+        "votos": 43,
+        "candidato": "Rafael Correa Delgado",
+        "value": 33.59
+    },
+    {
+        "parroquia": "SAN JACINTO DE WAKAMBEIS",
+        "id": 710,
+        "votos": 53,
+        "candidato": "Rafael Correa Delgado",
+        "value": 45.69
+    }
+]

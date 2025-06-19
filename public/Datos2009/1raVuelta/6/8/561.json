@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "RIO VERDE",
+        "id": 6720,
+        "votos": 14,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.63
+    },
+    {
+        "parroquia": "ROCAFUERTE",
+        "id": 3215,
+        "votos": 10,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.5
+    },
+    {
+        "parroquia": "MONTALVO / HORQUETA",
+        "id": 2445,
+        "votos": 11,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.83
+    },
+    {
+        "parroquia": "LAGARTO",
+        "id": 2035,
+        "votos": 2,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.13
+    },
+    {
+        "parroquia": "CHUMUNDE",
+        "id": 965,
+        "votos": 0,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.0
+    },
+    {
+        "parroquia": "CHONTADURO",
+        "id": 930,
+        "votos": 3,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.41
+    }
+]

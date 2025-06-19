@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CURTINCAPAC",
+        "id": 740,
+        "votos": 7,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.0
+    },
+    {
+        "parroquia": "SALATI",
+        "id": 3275,
+        "votos": 17,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.16
+    },
+    {
+        "parroquia": "MORALES",
+        "id": 4520,
+        "votos": 4,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 0.937
+    },
+    {
+        "parroquia": "PORTOVELO",
+        "id": 5850,
+        "votos": 204,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.0
+    }
+]

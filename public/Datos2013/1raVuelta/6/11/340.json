@@ -1,0 +1,52 @@
+[
+                {
+                    "parroquia": "BELLAVISTA",
+                    "id": 320,
+                    "votos": 200,
+                    "candidato": "Lasso Guillermo",
+                    "value": 20.1
+                },
+                {
+                    "parroquia": "EL INGENIO",
+                    "id": 790,
+                    "votos": 159,
+                    "candidato": "Lasso Guillermo",
+                    "value": 18.4
+                },
+                {
+                    "parroquia": "EL AIRO",
+                    "id": 1645,
+                    "votos": 42,
+                    "candidato": "Lasso Guillermo",
+                    "value": 9.54
+                },
+                {
+                    "parroquia": "JIMBURA",
+                    "id": 1845,
+                    "votos": 291,
+                    "candidato": "Lasso Guillermo",
+                    "value": 29.8462
+                },
+                {
+                    "parroquia": "SANTA TERESITA",
+                    "id": 3765,
+                    "votos": 107,
+                    "candidato": "Lasso Guillermo",
+                    "value": 14.46
+                },
+                {
+                    "parroquia": "27 DE ABRIL /LA NARANJA",
+                    "id": 4460,
+                    "votos": 265,
+                    "candidato": "Lasso Guillermo",
+                    "value": 27.52
+                },
+                {
+                    "parroquia": "AMALUZA",
+                    "id": 5020,
+                    "votos": 853,
+                    "candidato": "Lasso Guillermo",
+                    "value": 27.0
+                }
+            ]
+            

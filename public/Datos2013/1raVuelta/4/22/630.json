@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CAP. AUGUSTO RIVADENEIRA",
+        "id": 510,
+        "votos": 36,
+        "candidato": "Acosta Alberto",
+        "value": 11.688
+    },
+    {
+        "parroquia": "CONONACO",
+        "id": 630,
+        "votos": 4,
+        "candidato": "Acosta Alberto",
+        "value": 2.0
+    },
+    {
+        "parroquia": "STA. MARIA DE HUIRIRIMA",
+        "id": 3720,
+        "votos": 15,
+        "candidato": "Acosta Alberto",
+        "value": 4.53
+    },
+    {
+        "parroquia": "TIPUTINI",
+        "id": 4020,
+        "votos": 24,
+        "candidato": "Acosta Alberto",
+        "value": 3.22
+    },
+    {
+        "parroquia": "YASUNI",
+        "id": 4295,
+        "votos": 14,
+        "candidato": "Acosta Alberto",
+        "value": 8.59
+    },
+    {
+        "parroquia": "NUEVO ROCAFUERTE",
+        "id": 5700,
+        "votos": 47,
+        "candidato": "Acosta Alberto",
+        "value": 8.9
+    }
+]

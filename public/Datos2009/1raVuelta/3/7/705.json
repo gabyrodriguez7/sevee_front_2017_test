@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "PACCHA",
+    "id": 5745,
+    "votos": 8,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.46
+  },
+  {
+    "parroquia": "MILAGRO",
+    "id": 4535,
+    "votos": 1,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.45
+  },
+  {
+    "parroquia": "SAN JOSE",
+    "id": 4530,
+    "votos": 3,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 1.27
+  },
+  {
+    "parroquia": "CORDONCILLO",
+    "id": 4480,
+    "votos": 4,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.87
+  },
+  {
+    "parroquia": "SAN JUAN DE CERRO AZUL",
+    "id": 375,
+    "votos": 1,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.43
+  },
+  {
+    "parroquia": "AYAPAMBA",
+    "id": 225,
+    "votos": 10,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 1.11
+  }
+]

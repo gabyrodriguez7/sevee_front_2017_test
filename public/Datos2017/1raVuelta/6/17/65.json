@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "ASCÚBIZUBI",
+    "id": 165,
+    "votos": 34,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.16
+  },
+  {
+    "parroquia": "CANGAHUA",
+    "id": 480,
+    "votos": 107,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.41
+  },
+  {
+    "parroquia": "OLMEDO/PESILLO",
+    "id": 2600,
+    "votos": 46,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.04
+  },
+  {
+    "parroquia": "OTÓN",
+    "id": 2635,
+    "votos": 27,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.67
+  },
+  {
+    "parroquia": "STA.ROSA DE CUSUBAMBA",
+    "id": 3735,
+    "votos": 17,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.79
+  },
+  {
+    "parroquia": "SAN JOSÉ DE AYORA",
+    "id": 4620,
+    "votos": 35,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.76
+  },
+  {
+    "parroquia": "CAYAMBE",
+    "id": 5190,
+    "votos": 265,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.87
+  },
+  {
+    "parroquia": "JUAN MONTALVO",
+    "id": 5495,
+    "votos": 27,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.05
+  }
+]

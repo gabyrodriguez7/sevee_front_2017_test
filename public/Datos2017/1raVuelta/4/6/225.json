@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "LA CANDELARIA",
+    "id": 925,
+    "votos": 50,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 19.01
+  },
+  {
+    "parroquia": "EL ALTAR",
+    "id": 1110,
+    "votos": 122,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.66
+  },
+  {
+    "parroquia": "BILBAO",
+    "id": 1325,
+    "votos": 10,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.1
+  },
+  {
+    "parroquia": "MATUS",
+    "id": 2400,
+    "votos": 86,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.13
+  },
+  {
+    "parroquia": "PUELA",
+    "id": 2975,
+    "votos": 67,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.05
+  },
+  {
+    "parroquia": "SAN ANTONIO DE BAYUSHIG",
+    "id": 3335,
+    "votos": 116,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.18
+  },
+  {
+    "parroquia": "PENIPE",
+    "id": 5740,
+    "votos": 297,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 14.84
+  }
+]

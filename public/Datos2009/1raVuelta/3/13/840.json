@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "PICHINCHA /GERMUD",
+        "id": 6550,
+        "votos": 47,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.37
+    },
+    {
+        "parroquia": "BARRAGANETE",
+        "id": 1065,
+        "votos": 4,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.54
+    },
+    {
+        "parroquia": "SAN SEBASTIAN",
+        "id": 1060,
+        "votos": 8,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.38
+    }
+]

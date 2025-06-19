@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "SIGCHOS",
+        "id": 6450,
+        "votos": 33,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.75
+    },
+    {
+        "parroquia": "LAS PAMPAS",
+        "id": 2115,
+        "votos": 8,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.91
+    },
+    {
+        "parroquia": "ISINLIVI",
+        "id": 1735,
+        "votos": 10,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.84
+    },
+    {
+        "parroquia": "CHUGCHILAN",
+        "id": 960,
+        "votos": 26,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.16
+    },
+    {
+        "parroquia": "PALO QUEMADO",
+        "id": 815,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.82
+    }
+]

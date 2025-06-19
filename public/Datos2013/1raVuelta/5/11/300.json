@@ -1,0 +1,121 @@
+[
+    {
+        "parroquia": "CHUQUIRIBAMBA",
+        "id": 975,
+        "votos": 187,
+        "candidato": "Gutierrez Lucio",
+        "value": 12.3026
+    },
+    {
+        "parroquia": "EL CISNE",
+        "id": 1135,
+        "votos": 78,
+        "candidato": "Gutierrez Lucio",
+        "value": 8.6
+    },
+    {
+        "parroquia": "GUALEL",
+        "id": 1405,
+        "votos": 115,
+        "candidato": "Gutierrez Lucio",
+        "value": 10.73763
+    },
+    {
+        "parroquia": "QUINARA",
+        "id": 1780,
+        "votos": 31,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.318
+    },
+    {
+        "parroquia": "JIMBILLA",
+        "id": 1840,
+        "votos": 169,
+        "candidato": "Gutierrez Lucio",
+        "value": 24.5
+    },
+    {
+        "parroquia": "MALACATOS/VALLADOLID",
+        "id": 2325,
+        "votos": 489,
+        "candidato": "Gutierrez Lucio",
+        "value": 11.514
+    },
+    {
+        "parroquia": "SAN LUCAS",
+        "id": 3555,
+        "votos": 171,
+        "candidato": "Gutierrez Lucio",
+        "value": 6.982
+    },
+    {
+        "parroquia": "SANTIAGO",
+        "id": 3770,
+        "votos": 130,
+        "candidato": "Gutierrez Lucio",
+        "value": 15.0
+    },
+    {
+        "parroquia": "TAQUIL /MIGUEL RIOFRIO",
+        "id": 3970,
+        "votos": 228,
+        "candidato": "Gutierrez Lucio",
+        "value": 13.4
+    },
+    {
+        "parroquia": "VILCABAMBA/VICTORIA",
+        "id": 4235,
+        "votos": 84,
+        "candidato": "Gutierrez Lucio",
+        "value": 2.8369
+    },
+    {
+        "parroquia": "YANGANA / ARSENIO CASTILLO",
+        "id": 4280,
+        "votos": 69,
+        "candidato": "Gutierrez Lucio",
+        "value": 7.233
+    },
+    {
+        "parroquia": "CHANTACO",
+        "id": 4475,
+        "votos": 57,
+        "candidato": "Gutierrez Lucio",
+        "value": 8.1
+    },
+    {
+        "parroquia": "SAN PEDRO DE VILCABAMBA",
+        "id": 4540,
+        "votos": 33,
+        "candidato": "Gutierrez Lucio",
+        "value": 5.0
+    },
+    {
+        "parroquia": "EL SAGRARIO",
+        "id": 5320,
+        "votos": 463,
+        "candidato": "Gutierrez Lucio",
+        "value": 2.7329
+    },
+    {
+        "parroquia": "SAN SEBASTIAN",
+        "id": 6015,
+        "votos": 788,
+        "candidato": "Gutierrez Lucio",
+        "value": 3.42
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 6100,
+        "votos": 1776,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.0
+    },
+    {
+        "parroquia": "VALLE",
+        "id": 6210,
+        "votos": 1639,
+        "candidato": "Gutierrez Lucio",
+        "value": 5.9
+    }
+]

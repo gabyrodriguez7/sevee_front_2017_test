@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "EL CHACO",
+    "id": 5510,
+    "votos": 1683,
+    "candidato": "Lucio Gutierrez",
+    "value": 68.98
+  },
+  {
+    "parroquia": "SARDINAS",
+    "id": 3790,
+    "votos": 189,
+    "candidato": "Lucio Gutierrez",
+    "value": 72.14
+  },
+  {
+    "parroquia": "SANTA ROSA DE QUIJOS",
+    "id": 3745,
+    "votos": 427,
+    "candidato": "Lucio Gutierrez",
+    "value": 77.22
+  },
+  {
+    "parroquia": "OYACACHI",
+    "id": 2640,
+    "votos": 237,
+    "candidato": "Lucio Gutierrez",
+    "value": 74.76
+  },
+  {
+    "parroquia": "LINARES",
+    "id": 2180,
+    "votos": 102,
+    "candidato": "Lucio Gutierrez",
+    "value": 73.38
+  },
+  {
+    "parroquia": "GONZALO DIAZ DE PINEDA",
+    "id": 1020,
+    "votos": 156,
+    "candidato": "Lucio Gutierrez",
+    "value": 57.78
+  }
+]

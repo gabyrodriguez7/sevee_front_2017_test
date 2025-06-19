@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "NOVILLO",
+    "id": 1600,
+    "votos": 100,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.12
+  },
+  {
+    "parroquia": "ZAPALLO",
+    "id": 1620,
+    "votos": 385,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 21.79
+  },
+  {
+    "parroquia": "FLAVIO ALFARO",
+    "id": 5480,
+    "votos": 3126,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 22.52
+  }
+]

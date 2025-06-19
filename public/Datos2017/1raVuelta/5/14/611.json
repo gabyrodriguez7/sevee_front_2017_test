@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "SHIMPIS",
+    "id": 525,
+    "votos": 5,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.54
+  },
+  {
+    "parroquia": "YAUPI",
+    "id": 4300,
+    "votos": 7,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.88
+  },
+  {
+    "parroquia": "LOGROÑO",
+    "id": 6735,
+    "votos": 16,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.96
+  }
+]

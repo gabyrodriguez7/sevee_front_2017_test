@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "CUMBARATZA",
+    "id": 720,
+    "votos": 1028,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 46.6
+  },
+  {
+    "parroquia": "GUADALUPE",
+    "id": 1390,
+    "votos": 956,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 49.74
+  },
+  {
+    "parroquia": "SAN CARLOS DE LAS MINAS",
+    "id": 1770,
+    "votos": 477,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 42.97
+  },
+  {
+    "parroquia": "LA VICTORIA DE IMBANA",
+    "id": 2155,
+    "votos": 369,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 57.66
+  },
+  {
+    "parroquia": "SABANILLA",
+    "id": 3260,
+    "votos": 166,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 35.47
+  },
+  {
+    "parroquia": "TIMBARA",
+    "id": 4010,
+    "votos": 429,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 49.88
+  },
+  {
+    "parroquia": "ZAMORA",
+    "id": 6305,
+    "votos": 4527,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 46.5
+  },
+  {
+    "parroquia": "EL LIMÓN",
+    "id": 6840,
+    "votos": 162,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 51.92
+  }
+]

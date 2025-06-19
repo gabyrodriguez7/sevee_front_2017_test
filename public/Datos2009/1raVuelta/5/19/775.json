@@ -1,0 +1,30 @@
+[
+                {
+                    "parroquia": "EL PANGUI",
+                    "id": 6355,
+                    "votos": 15,
+                    "candidato": "Melba Jacome",
+                    "value": 0.58
+                },
+                {
+                    "parroquia": "PACHICUTZA",
+                    "id": 1015,
+                    "votos": 1,
+                    "candidato": "Melba Jacome",
+                    "value": 0.23
+                },
+                {
+                    "parroquia": "TUNDAYME",
+                    "id": 945,
+                    "votos": 2,
+                    "candidato": "Melba Jacome",
+                    "value": 0.93
+                },
+                {
+                    "parroquia": "EL GUISMI",
+                    "id": 665,
+                    "votos": 3,
+                    "candidato": "Melba Jacome",
+                    "value": 0.57
+                }
+            ]

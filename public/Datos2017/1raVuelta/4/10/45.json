@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "IMBAYA",
+    "id": 1715,
+    "votos": 107,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.43
+  },
+  {
+    "parroquia": "SAN FCO.DE NATABUELA",
+    "id": 3400,
+    "votos": 558,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 15.66
+  },
+  {
+    "parroquia": "SAN JOSÉ DE CHALTURA",
+    "id": 3465,
+    "votos": 275,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.8
+  },
+  {
+    "parroquia": "SAN ROQUE",
+    "id": 3640,
+    "votos": 798,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.59
+  },
+  {
+    "parroquia": "ANDRADE MARÍN/LOURDES",
+    "id": 5025,
+    "votos": 426,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.6
+  },
+  {
+    "parroquia": "ATUNTAQUI",
+    "id": 5050,
+    "votos": 2330,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 17.41
+  }
+]

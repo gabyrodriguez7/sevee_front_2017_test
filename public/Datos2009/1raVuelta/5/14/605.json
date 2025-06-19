@@ -1,0 +1,51 @@
+[
+                {
+                    "parroquia": "MENDEZ",
+                    "id": 5645,
+                    "votos": 8,
+                    "candidato": "Melba Jacome",
+                    "value": 0.44
+                },
+                {
+                    "parroquia": "TAYUZA",
+                    "id": 4115,
+                    "votos": 3,
+                    "candidato": "Melba Jacome",
+                    "value": 0.57
+                },
+                {
+                    "parroquia": "SAN LUIS DEL ACHO",
+                    "id": 3565,
+                    "votos": 0,
+                    "candidato": "Melba Jacome",
+                    "value": 0.0
+                },
+                {
+                    "parroquia": "PATUCA",
+                    "id": 2795,
+                    "votos": 4,
+                    "candidato": "Melba Jacome",
+                    "value": 0.76
+                },
+                {
+                    "parroquia": "SAN FCO. DE CHINIMBIMI",
+                    "id": 1365,
+                    "votos": 2,
+                    "candidato": "Melba Jacome",
+                    "value": 0.49
+                },
+                {
+                    "parroquia": "CHUPIANZA",
+                    "id": 970,
+                    "votos": 3,
+                    "candidato": "Melba Jacome",
+                    "value": 1.05
+                },
+                {
+                    "parroquia": "COPAL",
+                    "id": 645,
+                    "votos": 1,
+                    "candidato": "Melba Jacome",
+                    "value": 0.45
+                }
+            ]

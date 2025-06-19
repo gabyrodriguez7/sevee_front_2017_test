@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "ASCÁZUBI",
+    "id": 165,
+    "votos": 37,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.2636612
+  },
+  {
+    "parroquia": "CANGAHUA",
+    "id": 480,
+    "votos": 101,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.32685234
+  },
+  {
+    "parroquia": "OLMEDO/PESILLO",
+    "id": 2600,
+    "votos": 33,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.74324324
+  },
+  {
+    "parroquia": "OTÓN",
+    "id": 2635,
+    "votos": 12,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.74441687
+  },
+  {
+    "parroquia": "STA.ROSA DE CUSUBAMBA",
+    "id": 3735,
+    "votos": 21,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.97583643
+  },
+  {
+    "parroquia": "SAN JOSÉ DE AYORA",
+    "id": 4620,
+    "votos": 45,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.97255241
+  },
+  {
+    "parroquia": "CAYAMBE",
+    "id": 5190,
+    "votos": 427,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.40386639
+  },
+  {
+    "parroquia": "JUAN MONTALVO",
+    "id": 5495,
+    "votos": 41,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.59038014
+  }
+]

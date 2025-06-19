@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "PALO QUEMADO",
+    "id": 815,
+    "votos": 28,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 5.5
+  },
+  {
+    "parroquia": "CHUGCHILAN",
+    "id": 960,
+    "votos": 61,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.79
+  },
+  {
+    "parroquia": "ISINLIVI",
+    "id": 1735,
+    "votos": 38,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.25
+  },
+  {
+    "parroquia": "LAS PAMPAS",
+    "id": 2115,
+    "votos": 43,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.5
+  },
+  {
+    "parroquia": "SIGCHOS",
+    "id": 6450,
+    "votos": 122,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.19
+  }
+]

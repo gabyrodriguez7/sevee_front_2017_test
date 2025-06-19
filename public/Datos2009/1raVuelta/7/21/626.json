@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "TARAPOA",
+    "id": 6765,
+    "votos": 64,
+    "candidato": "Alvaro Noboa",
+    "value": 2.44
+  },
+  {
+    "parroquia": "AGUAS NEGRAS",
+    "id": 1555,
+    "votos": 17,
+    "candidato": "Alvaro Noboa",
+    "value": 3.13
+  },
+  {
+    "parroquia": "CUYABENO",
+    "id": 760,
+    "votos": 0,
+    "candidato": "Alvaro Noboa",
+    "value": 0.0
+  }
+]

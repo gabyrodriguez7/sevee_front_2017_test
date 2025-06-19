@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "GUANUJO",
+    "id": 6630,
+    "votos": 85,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.8
+  },
+  {
+    "parroquia": "GABRIEL I VEINTIMILLA",
+    "id": 5375,
+    "votos": 77,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.75
+  },
+  {
+    "parroquia": "ANGEL POLIVIO CHAVEZ",
+    "id": 5035,
+    "votos": 57,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.76
+  },
+  {
+    "parroquia": "SIMIATUG",
+    "id": 3860,
+    "votos": 52,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 1.57
+  },
+  {
+    "parroquia": "SANTA FE",
+    "id": 3710,
+    "votos": 2,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.18
+  },
+  {
+    "parroquia": "SAN SIMON",
+    "id": 3670,
+    "votos": 2,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.13
+  },
+  {
+    "parroquia": "SAN LORENZO",
+    "id": 3545,
+    "votos": 5,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.47
+  },
+  {
+    "parroquia": "SALINAS",
+    "id": 3285,
+    "votos": 6,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.37
+  },
+  {
+    "parroquia": "JULIO E MORENO",
+    "id": 1890,
+    "votos": 4,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.56
+  },
+  {
+    "parroquia": "FACUNDO VELA",
+    "id": 1255,
+    "votos": 7,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.93
+  },
+  {
+    "parroquia": "SAN LUIS DE PAMBIL",
+    "id": 795,
+    "votos": 5,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.23
+  }
+]

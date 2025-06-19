@@ -1,0 +1,114 @@
+[
+    {
+        "parroquia": "YARUQUIES",
+        "id": 6290,
+        "votos": 169,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 5.05
+    },
+    {
+        "parroquia": "VELOZ",
+        "id": 6230,
+        "votos": 651,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 5.52
+    },
+    {
+        "parroquia": "VELASCO",
+        "id": 6220,
+        "votos": 1039,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 5.03
+    },
+    {
+        "parroquia": "MALDONADO",
+        "id": 5630,
+        "votos": 967,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 5.05
+    },
+    {
+        "parroquia": "LIZARZABURU",
+        "id": 5590,
+        "votos": 1494,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 5.31
+    },
+    {
+        "parroquia": "SAN LUIS",
+        "id": 3560,
+        "votos": 75,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.32
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3515,
+        "votos": 93,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.22
+    },
+    {
+        "parroquia": "QUIMIAG",
+        "id": 3095,
+        "votos": 40,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.36
+    },
+    {
+        "parroquia": "PUNIN",
+        "id": 3040,
+        "votos": 55,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.7
+    },
+    {
+        "parroquia": "PUNGALA",
+        "id": 3035,
+        "votos": 46,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.71
+    },
+    {
+        "parroquia": "LICTO",
+        "id": 2165,
+        "votos": 61,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.43
+    },
+    {
+        "parroquia": "LICAN",
+        "id": 2160,
+        "votos": 84,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.3
+    },
+    {
+        "parroquia": "FLORES",
+        "id": 1280,
+        "votos": 40,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.5
+    },
+    {
+        "parroquia": "CUBIJIES",
+        "id": 705,
+        "votos": 27,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.2
+    },
+    {
+        "parroquia": "CALPI",
+        "id": 445,
+        "votos": 87,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.45
+    },
+    {
+        "parroquia": "CACHA",
+        "id": 420,
+        "votos": 43,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.66
+    }
+]

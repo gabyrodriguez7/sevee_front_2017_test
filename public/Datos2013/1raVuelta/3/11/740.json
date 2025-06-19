@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "FUNDOCHAMBA",
+        "id": 360,
+        "votos": 3,
+        "candidato": "Wray Norman",
+        "value": 1.064
+    },
+    {
+        "parroquia": "SAN ANTONIO DE LAS ARADAS",
+        "id": 3345,
+        "votos": 0,
+        "candidato": "Wray Norman",
+        "value": 0.0
+    },
+    {
+        "parroquia": "QUILANGA /LA PAZ",
+        "id": 6260,
+        "votos": 12,
+        "candidato": "Wray Norman",
+        "value": 0.62
+    }
+]

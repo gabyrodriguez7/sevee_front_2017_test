@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "SAN ISIDRO",
+    "id": 1075,
+    "votos": 5,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.24
+  },
+  {
+    "parroquia": "EL PARAÍSO",
+    "id": 1080,
+    "votos": 2,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.39
+  },
+  {
+    "parroquia": "LA LIBERTAD",
+    "id": 1100,
+    "votos": 2,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.33
+  },
+  {
+    "parroquia": "LA VICTORIA/LAS LAJAS",
+    "id": 6335,
+    "votos": 7,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.34
+  },
+  {
+    "parroquia": "PLATANILLOS",
+    "id": 6950,
+    "votos": 0,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0
+  }
+]

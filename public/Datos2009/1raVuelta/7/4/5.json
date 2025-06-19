@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "TULCAN",
+        "id": 6165,
+        "votos": 3544,
+        "candidato": "Alvaro Noboa",
+        "value": 18.34
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 5415,
+        "votos": 3214,
+        "candidato": "Alvaro Noboa",
+        "value": 20.54
+    },
+    {
+        "parroquia": "URBINA",
+        "id": 4130,
+        "votos": 129,
+        "candidato": "Alvaro Noboa",
+        "value": 17.67
+    },
+    {
+        "parroquia": "TUFI�O",
+        "id": 4070,
+        "votos": 234,
+        "candidato": "Alvaro Noboa",
+        "value": 17.48
+    },
+    {
+        "parroquia": "TOBAR DONOSO",
+        "id": 4040,
+        "votos": 2,
+        "candidato": "Alvaro Noboa",
+        "value": 2.5
+    },
+    {
+        "parroquia": "PIOTER",
+        "id": 2900,
+        "votos": 21,
+        "candidato": "Alvaro Noboa",
+        "value": 4.78
+    },
+    {
+        "parroquia": "MALDONADO",
+        "id": 2340,
+        "votos": 87,
+        "candidato": "Alvaro Noboa",
+        "value": 14.07
+    },
+    {
+        "parroquia": "JULIO ANDRADE",
+        "id": 1885,
+        "votos": 801,
+        "candidato": "Alvaro Noboa",
+        "value": 15.89
+    },
+    {
+        "parroquia": "SANTA MARTHA DE CUBA",
+        "id": 1765,
+        "votos": 117,
+        "candidato": "Alvaro Noboa",
+        "value": 11.15
+    },
+    {
+        "parroquia": "EL CHICAL",
+        "id": 1195,
+        "votos": 124,
+        "candidato": "Alvaro Noboa",
+        "value": 15.73
+    },
+    {
+        "parroquia": "EL CARMELO/EL PUN/",
+        "id": 1125,
+        "votos": 138,
+        "candidato": "Alvaro Noboa",
+        "value": 10.75
+    }
+]

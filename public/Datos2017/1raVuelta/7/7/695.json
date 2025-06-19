@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "HUAQUILLAS",
+    "id": 5460,
+    "votos": 3396,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 12.76
+  },
+  {
+    "parroquia": "HUALTACO",
+    "id": 6800,
+    "votos": 75,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 10.2
+  },
+  {
+    "parroquia": "MILTON REYES",
+    "id": 6805,
+    "votos": 67,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 9.37
+  },
+  {
+    "parroquia": "EL PARAÍSO",
+    "id": 6810,
+    "votos": 47,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 8.59
+  },
+  {
+    "parroquia": "ECUADOR",
+    "id": 6815,
+    "votos": 81,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 8.56
+  },
+  {
+    "parroquia": "UNIÓN LOJANA",
+    "id": 6820,
+    "votos": 188,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 10.96
+  }
+]

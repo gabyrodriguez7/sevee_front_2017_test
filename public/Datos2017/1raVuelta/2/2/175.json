@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "BALZAPAMBA",
+    "id": 275,
+    "votos": 102,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.52
+  },
+  {
+    "parroquia": "BILOVAN",
+    "id": 345,
+    "votos": 108,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.49
+  },
+  {
+    "parroquia": "SAN PABLO DE ATENAS",
+    "id": 3595,
+    "votos": 178,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.18
+  },
+  {
+    "parroquia": "SANTIAGO",
+    "id": 3775,
+    "votos": 55,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.07
+  },
+  {
+    "parroquia": "SAN VICENTE",
+    "id": 3900,
+    "votos": 35,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.87
+  },
+  {
+    "parroquia": "RÉGULO DE MORA",
+    "id": 4515,
+    "votos": 14,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.24
+  },
+  {
+    "parroquia": "SAN MIGUEL",
+    "id": 5995,
+    "votos": 670,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.14
+  }
+]

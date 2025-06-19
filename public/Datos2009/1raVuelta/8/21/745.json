@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "EL DORADO DE CASCALES",
+    "id": 6325,
+    "votos": 1713,
+    "candidato": "Lucio Gutierrez",
+    "value": 59.19
+  },
+  {
+    "parroquia": "SANTA ROSA DE SUCUMBIOS",
+    "id": 3750,
+    "votos": 197,
+    "candidato": "Lucio Gutierrez",
+    "value": 58.11
+  },
+  {
+    "parroquia": "SEVILLA",
+    "id": 1095,
+    "votos": 606,
+    "candidato": "Lucio Gutierrez",
+    "value": 54.79
+  }
+]

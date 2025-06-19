@@ -1,0 +1,149 @@
+[
+    {
+        "parroquia": "PASCUALES",
+        "id": 6405,
+        "votos": 368,
+        "candidato": "Melba Jacome",
+        "value": 1.78
+    },
+    {
+        "parroquia": "CHONGON",
+        "id": 6400,
+        "votos": 77,
+        "candidato": "Melba Jacome",
+        "value": 1.49
+    },
+    {
+        "parroquia": "XIMENA",
+        "id": 6265,
+        "votos": 7440,
+        "candidato": "Melba Jacome",
+        "value": 2.99
+    },
+    {
+        "parroquia": "URDANETA",
+        "id": 6185,
+        "votos": 719,
+        "candidato": "Melba Jacome",
+        "value": 3.03
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 6150,
+        "votos": 7867,
+        "candidato": "Melba Jacome",
+        "value": 2.42
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 6095,
+        "votos": 396,
+        "candidato": "Melba Jacome",
+        "value": 2.66
+    },
+    {
+        "parroquia": "ROCAFUERTE",
+        "id": 5890,
+        "votos": 288,
+        "candidato": "Melba Jacome",
+        "value": 2.36
+    },
+    {
+        "parroquia": "ROCA",
+        "id": 5880,
+        "votos": 307,
+        "candidato": "Melba Jacome",
+        "value": 2.61
+    },
+    {
+        "parroquia": "OLMEDO/SAN ALEJO",
+        "id": 5720,
+        "votos": 313,
+        "candidato": "Melba Jacome",
+        "value": 2.38
+    },
+    {
+        "parroquia": "9 DE OCTUBRE",
+        "id": 5695,
+        "votos": 232,
+        "candidato": "Melba Jacome",
+        "value": 2.25
+    },
+    {
+        "parroquia": "LETAMENDI",
+        "id": 5585,
+        "votos": 2258,
+        "candidato": "Melba Jacome",
+        "value": 3.24
+    },
+    {
+        "parroquia": "GARCIA MORENO",
+        "id": 5380,
+        "votos": 1390,
+        "candidato": "Melba Jacome",
+        "value": 2.88
+    },
+    {
+        "parroquia": "FEBRES CORDERO",
+        "id": 5355,
+        "votos": 7702,
+        "candidato": "Melba Jacome",
+        "value": 3.36
+    },
+    {
+        "parroquia": "CARBO/CONCEPCION",
+        "id": 5170,
+        "votos": 549,
+        "candidato": "Melba Jacome",
+        "value": 2.12
+    },
+    {
+        "parroquia": "BOLIVAR/SAGRARIO",
+        "id": 5125,
+        "votos": 334,
+        "candidato": "Melba Jacome",
+        "value": 2.75
+    },
+    {
+        "parroquia": "AYACUCHO",
+        "id": 5055,
+        "votos": 341,
+        "candidato": "Melba Jacome",
+        "value": 2.4
+    },
+    {
+        "parroquia": "TENGUEL",
+        "id": 4120,
+        "votos": 34,
+        "candidato": "Melba Jacome",
+        "value": 0.75
+    },
+    {
+        "parroquia": "PUNA",
+        "id": 3030,
+        "votos": 95,
+        "candidato": "Melba Jacome",
+        "value": 3.98
+    },
+    {
+        "parroquia": "POSORJA",
+        "id": 2940,
+        "votos": 95,
+        "candidato": "Melba Jacome",
+        "value": 1.15
+    },
+    {
+        "parroquia": "MORRO",
+        "id": 2470,
+        "votos": 11,
+        "candidato": "Melba Jacome",
+        "value": 0.7
+    },
+    {
+        "parroquia": "JUAN GOMEZ RENDON",
+        "id": 1870,
+        "votos": 91,
+        "candidato": "Melba Jacome",
+        "value": 2.28
+    }
+]

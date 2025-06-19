@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "AMALUZA",
+    "id": 5020,
+    "votos": 708,
+    "candidato": "Lucio Gutierrez",
+    "value": 26.49
+  },
+  {
+    "parroquia": "27 DE ABRIL /LA NARANJA",
+    "id": 4460,
+    "votos": 256,
+    "candidato": "Lucio Gutierrez",
+    "value": 35.7
+  },
+  {
+    "parroquia": "SANTA TERESITA",
+    "id": 3765,
+    "votos": 122,
+    "candidato": "Lucio Gutierrez",
+    "value": 23.19
+  },
+  {
+    "parroquia": "JIMBURA",
+    "id": 1845,
+    "votos": 152,
+    "candidato": "Lucio Gutierrez",
+    "value": 23.45
+  },
+  {
+    "parroquia": "EL AIRO",
+    "id": 1645,
+    "votos": 50,
+    "candidato": "Lucio Gutierrez",
+    "value": 14.83
+  },
+  {
+    "parroquia": "EL INGENIO",
+    "id": 790,
+    "votos": 86,
+    "candidato": "Lucio Gutierrez",
+    "value": 15.0
+  },
+  {
+    "parroquia": "BELLAVISTA",
+    "id": 320,
+    "votos": 74,
+    "candidato": "Lucio Gutierrez",
+    "value": 9.8
+  }
+]

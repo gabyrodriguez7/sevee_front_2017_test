@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "MORASPUNGO",
+    "id": 2460,
+    "votos": 148,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 2.23
+  },
+  {
+    "parroquia": "PINLLOPATA",
+    "id": 2890,
+    "votos": 3,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.59
+  },
+  {
+    "parroquia": "RAMÓN CAMPAÑA",
+    "id": 3155,
+    "votos": 6,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.75
+  },
+  {
+    "parroquia": "EL CORAZÓN",
+    "id": 5305,
+    "votos": 45,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.05
+  }
+]

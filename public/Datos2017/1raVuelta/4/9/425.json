@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "TARIFA",
+    "id": 3975,
+    "votos": 1366,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 27.08
+  },
+  {
+    "parroquia": "SAMBORONDÓN",
+    "id": 5925,
+    "votos": 6022,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 26.52
+  },
+  {
+    "parroquia": "LA PUNTILLA(SATELITE)",
+    "id": 7445,
+    "votos": 2135,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.75
+  }
+]

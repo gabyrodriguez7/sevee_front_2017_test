@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "LOURDES",
+        "id": 5595,
+        "votos": 62,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 10.5
+    },
+    {
+        "parroquia": "CATACOCHA",
+        "id": 5180,
+        "votos": 236,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.26
+    },
+    {
+        "parroquia": "ORIANGA",
+        "id": 2630,
+        "votos": 7,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 0.96
+    },
+    {
+        "parroquia": "LAURO GUERRERO",
+        "id": 2140,
+        "votos": 13,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.89
+    },
+    {
+        "parroquia": "GUACHANAMA",
+        "id": 1380,
+        "votos": 7,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.24
+    },
+    {
+        "parroquia": "YAMANA",
+        "id": 1000,
+        "votos": 22,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 5.48
+    },
+    {
+        "parroquia": "CASANGA",
+        "id": 995,
+        "votos": 11,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.71
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 545,
+        "votos": 4,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.43
+    },
+    {
+        "parroquia": "CANGONAMA",
+        "id": 485,
+        "votos": 5,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.11
+    }
+]

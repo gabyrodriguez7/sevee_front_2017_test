@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "LORETO",
+        "id": 6455,
+        "votos": 661,
+        "candidato": "Rafael Correa Delgado",
+        "value": 21.47
+    },
+    {
+        "parroquia": "SAN JOSE DE PAYAMINO",
+        "id": 3480,
+        "votos": 150,
+        "candidato": "Rafael Correa Delgado",
+        "value": 21.4
+    },
+    {
+        "parroquia": "SAN JOSE DE DAHUANO",
+        "id": 1680,
+        "votos": 175,
+        "candidato": "Rafael Correa Delgado",
+        "value": 16.65
+    },
+    {
+        "parroquia": "PUERTO MURIALDO",
+        "id": 1050,
+        "votos": 89,
+        "candidato": "Rafael Correa Delgado",
+        "value": 10.17
+    },
+    {
+        "parroquia": "SAN VICENTE DE HUATICOCHA",
+        "id": 400,
+        "votos": 148,
+        "candidato": "Rafael Correa Delgado",
+        "value": 32.89
+    },
+    {
+        "parroquia": "AVILA",
+        "id": 215,
+        "votos": 160,
+        "candidato": "Rafael Correa Delgado",
+        "value": 16.26
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "VITERI JIMENEZ CYNTHIA FERNANDA",
+        "id": 260,
+        "votos": 1747,
+        "votos1": 776,
+        "votos2": 435,
+        "fill": "#1eff00",
+        "porcentaje1": 44.42,
+        "porcentaje2": 24.9
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "VITERI JIMENEZ CYNTHIA FERNANDA",
+        "id": 1855,
+        "votos": 2669,
+        "votos1": 1265,
+        "votos2": 783,
+        "fill": "#1eff00",
+        "porcentaje1": 47.4,
+        "porcentaje2": 29.34
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "VITERI JIMENEZ CYNTHIA FERNANDA",
+        "id": 2105,
+        "votos": 2984,
+        "votos1": 1398,
+        "votos2": 736,
+        "fill": "#1eff00",
+        "porcentaje1": 46.85,
+        "porcentaje2": 24.66
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "VITERI JIMENEZ CYNTHIA FERNANDA",
+        "id": 4500,
+        "votos": 4196,
+        "votos1": 1595,
+        "votos2": 1281,
+        "fill": "#1eff00",
+        "porcentaje1": 38.01,
+        "porcentaje2": 30.53
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "VITERI JIMENEZ CYNTHIA FERNANDA",
+        "id": 5275,
+        "votos": 56373,
+        "votos1": 23158,
+        "votos2": 17205,
+        "fill": "#1eff00",
+        "porcentaje1": 41.08,
+        "porcentaje2": 30.52
+    },
+    {
+        "candidato1": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "candidato2": "VITERI JIMENEZ CYNTHIA FERNANDA",
+        "id": 6850,
+        "votos": 12937,
+        "votos1": 5376,
+        "votos2": 3221,
+        "fill": "#062e81",
+        "porcentaje1": 41.56,
+        "porcentaje2": 24.9
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "VITERI JIMENEZ CYNTHIA FERNANDA",
+        "id": 7425,
+        "votos": 241,
+        "votos1": 115,
+        "votos2": 54,
+        "fill": "#1eff00",
+        "porcentaje1": 47.72,
+        "porcentaje2": 22.41
+    }
+]

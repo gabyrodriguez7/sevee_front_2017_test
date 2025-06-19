@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "CANGONAMÁ",
+    "id": 485,
+    "votos": 22,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.64
+  },
+  {
+    "parroquia": "SAN ANTONIO",
+    "id": 545,
+    "votos": 5,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.26
+  },
+  {
+    "parroquia": "CASANGA",
+    "id": 995,
+    "votos": 13,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.67
+  },
+  {
+    "parroquia": "YAMANA",
+    "id": 1000,
+    "votos": 11,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.94
+  },
+  {
+    "parroquia": "GUACHANAMA",
+    "id": 1380,
+    "votos": 14,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.05
+  },
+  {
+    "parroquia": "LAURO GUERRERO",
+    "id": 2140,
+    "votos": 40,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.05
+  },
+  {
+    "parroquia": "ORIANGA",
+    "id": 2630,
+    "votos": 21,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.08
+  },
+  {
+    "parroquia": "CATACOCHA",
+    "id": 5180,
+    "votos": 241,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.75
+  },
+  {
+    "parroquia": "LOURDES",
+    "id": 5595,
+    "votos": 28,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.78
+  }
+]

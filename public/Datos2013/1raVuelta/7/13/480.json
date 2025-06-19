@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "BOYACA",
+        "id": 380,
+        "votos": 27,
+        "candidato": "Zavala Nelson",
+        "value": 1.13
+    },
+    {
+        "parroquia": "CHIBUNGA",
+        "id": 405,
+        "votos": 15,
+        "candidato": "Zavala Nelson",
+        "value": 0.67084
+    },
+    {
+        "parroquia": "CANUTO",
+        "id": 495,
+        "votos": 54,
+        "candidato": "Zavala Nelson",
+        "value": 0.84
+    },
+    {
+        "parroquia": "CONVENTO",
+        "id": 640,
+        "votos": 34,
+        "candidato": "Zavala Nelson",
+        "value": 1.0
+    },
+    {
+        "parroquia": "ELOY ALFARO",
+        "id": 1160,
+        "votos": 27,
+        "candidato": "Zavala Nelson",
+        "value": 1.0
+    },
+    {
+        "parroquia": "RICAURTE",
+        "id": 3170,
+        "votos": 34,
+        "candidato": "Zavala Nelson",
+        "value": 1.1
+    },
+    {
+        "parroquia": "SAN ANTONIO / DEL PELUDO",
+        "id": 3350,
+        "votos": 40,
+        "candidato": "Zavala Nelson",
+        "value": 0.8
+    },
+    {
+        "parroquia": "CHONE",
+        "id": 5250,
+        "votos": 314,
+        "candidato": "Zavala Nelson",
+        "value": 0.778
+    },
+    {
+        "parroquia": "SANTA RITA",
+        "id": 6055,
+        "votos": 109,
+        "candidato": "Zavala Nelson",
+        "value": 1.21
+    }
+]

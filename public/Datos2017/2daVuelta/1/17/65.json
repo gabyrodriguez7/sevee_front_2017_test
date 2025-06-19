@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "ASCÁZUBI",
+    "id": 165,
+    "votos": 1198,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 39.84
+  },
+  {
+    "parroquia": "CANGAHUA",
+    "id": 480,
+    "votos": 4186,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 49.91
+  },
+  {
+    "parroquia": "OLMEDO/PESILLO",
+    "id": 2600,
+    "votos": 1561,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 32.88
+  },
+  {
+    "parroquia": "OTÓN",
+    "id": 2635,
+    "votos": 752,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 42.34
+  },
+  {
+    "parroquia": "STA.ROSA DE CUSUBAMBA",
+    "id": 3735,
+    "votos": 936,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 42.18
+  },
+  {
+    "parroquia": "SAN JOSÉ DE AYORA",
+    "id": 4620,
+    "votos": 1893,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 38.97
+  },
+  {
+    "parroquia": "CAYAMBE",
+    "id": 5190,
+    "votos": 14677,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 47.66
+  },
+  {
+    "parroquia": "JUAN MONTALVO",
+    "id": 5495,
+    "votos": 1254,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 45.48
+  }
+]

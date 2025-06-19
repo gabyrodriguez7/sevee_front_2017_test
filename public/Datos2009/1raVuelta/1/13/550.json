@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "TOSAGUA",
+    "id": 6170,
+    "votos": 209,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.3
+  },
+  {
+    "parroquia": "ANGEL PEDRO GILER",
+    "id": 2030,
+    "votos": 53,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.56
+  },
+  {
+    "parroquia": "BACHILLERO",
+    "id": 265,
+    "votos": 18,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.11
+  }
+]

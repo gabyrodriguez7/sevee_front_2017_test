@@ -1,0 +1,72 @@
+[
+	{
+		"parroquia": "ABANIN",
+		"id": 5,
+		"votos": 225,
+		"candidato": "Lasso Guillermo",
+		"value": 27.0108
+	},
+	{
+		"parroquia": "GUANAZAN",
+		"id": 1420,
+		"votos": 424,
+		"candidato": "Lasso Guillermo",
+		"value": 25.901
+	},
+	{
+		"parroquia": "GUIZHAGUIÑA",
+		"id": 1425,
+		"votos": 271,
+		"candidato": "Lasso Guillermo",
+		"value": 37.073
+	},
+	{
+		"parroquia": "HUERTAS",
+		"id": 1655,
+		"votos": 403,
+		"candidato": "Lasso Guillermo",
+		"value": 31.024
+	},
+	{
+		"parroquia": "SINSAO",
+		"id": 1700,
+		"votos": 192,
+		"candidato": "Lasso Guillermo",
+		"value": 35.3591
+	},
+	{
+		"parroquia": "SALVIAS",
+		"id": 1750,
+		"votos": 193,
+		"candidato": "Lasso Guillermo",
+		"value": 51.743
+	},
+	{
+		"parroquia": "MALVAS",
+		"id": 2350,
+		"votos": 161,
+		"candidato": "Lasso Guillermo",
+		"value": 27.7108
+	},
+	{
+		"parroquia": "ARCAPAMBA",
+		"id": 4445,
+		"votos": 271,
+		"candidato": "Lasso Guillermo",
+		"value": 40.0887574
+	},
+	{
+		"parroquia": "MULUNCAY GRANDE",
+		"id": 4450,
+		"votos": 155,
+		"candidato": "Lasso Guillermo",
+		"value": 31.9588
+	},
+	{
+		"parroquia": "ZARUMA",
+		"id": 6310,
+		"votos": 3137,
+		"candidato": "Lasso Guillermo",
+		"value": 38.83
+	}
+]

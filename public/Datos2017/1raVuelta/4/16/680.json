@@ -1,0 +1,100 @@
+[
+  {
+    "parroquia": "CANELOS",
+    "id": 475,
+    "votos": 67,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.45
+  },
+  {
+    "parroquia": "10 DE AGOSTO",
+    "id": 1025,
+    "votos": 112,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.79
+  },
+  {
+    "parroquia": "FÁTIMA",
+    "id": 1260,
+    "votos": 81,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.03
+  },
+  {
+    "parroquia": "EL TRIUNFO",
+    "id": 1275,
+    "votos": 102,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.58
+  },
+  {
+    "parroquia": "MONTALVO/ANDOAS",
+    "id": 2450,
+    "votos": 31,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 2.98
+  },
+  {
+    "parroquia": "POMONA",
+    "id": 3055,
+    "votos": 13,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.22
+  },
+  {
+    "parroquia": "RÍO CORRIENTES",
+    "id": 3180,
+    "votos": 1,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 0.76
+  },
+  {
+    "parroquia": "RÍO TIGRE",
+    "id": 3195,
+    "votos": 8,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 2.42
+  },
+  {
+    "parroquia": "ZARAYACU",
+    "id": 3785,
+    "votos": 26,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 1.94
+  },
+  {
+    "parroquia": "TARQUI",
+    "id": 3985,
+    "votos": 139,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.01
+  },
+  {
+    "parroquia": "TNTE. HUGO ORTIZ",
+    "id": 4005,
+    "votos": 35,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.65
+  },
+  {
+    "parroquia": "VERACRUZ",
+    "id": 4205,
+    "votos": 165,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.43
+  },
+  {
+    "parroquia": "SIMÓN BOLÍVAR",
+    "id": 4510,
+    "votos": 101,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 3.69
+  },
+  {
+    "parroquia": "PUYO",
+    "id": 5825,
+    "votos": 3918,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 15.35
+  }
+]

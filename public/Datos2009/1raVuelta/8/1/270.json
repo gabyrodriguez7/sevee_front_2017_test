@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "GIRON",
+    "id": 5395,
+    "votos": 1327,
+    "candidato": "Lucio Gutierrez",
+    "value": 29.17
+  },
+  {
+    "parroquia": "SAN GERARDO",
+    "id": 885,
+    "votos": 21,
+    "candidato": "Lucio Gutierrez",
+    "value": 12.8
+  },
+  {
+    "parroquia": "ASUNCION",
+    "id": 175,
+    "votos": 294,
+    "candidato": "Lucio Gutierrez",
+    "value": 24.33
+  }
+]

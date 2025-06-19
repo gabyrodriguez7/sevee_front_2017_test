@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SANTA CLARA",
+        "id": 6395,
+        "votos": 3,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.16
+    },
+    {
+        "parroquia": "SAN JOSE",
+        "id": 2100,
+        "votos": 0,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.0
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "BUENAVISTA",
+        "id": 385,
+        "votos": 475,
+        "candidato": "Correa Delgado Rafael",
+        "value": 62.0
+    },
+    {
+        "parroquia": "EL ROSARIO",
+        "id": 1180,
+        "votos": 151,
+        "candidato": "Correa Delgado Rafael",
+        "value": 57.6
+    },
+    {
+        "parroquia": "AMARILLOS",
+        "id": 1450,
+        "votos": 88,
+        "candidato": "Correa Delgado Rafael",
+        "value": 40.6
+    },
+    {
+        "parroquia": "SANTA RUFINA",
+        "id": 3755,
+        "votos": 323,
+        "candidato": "Correa Delgado Rafael",
+        "value": 57.6
+    },
+    {
+        "parroquia": "CHAGUARPAMBA",
+        "id": 6530,
+        "votos": 1355,
+        "candidato": "Correa Delgado Rafael",
+        "value": 51.52
+    }
+]

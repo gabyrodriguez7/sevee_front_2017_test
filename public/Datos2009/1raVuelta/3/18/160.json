@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "QUERO",
+        "id": 5835,
+        "votos": 20,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.21
+    },
+    {
+        "parroquia": "RUMIPAMBA",
+        "id": 4550,
+        "votos": 2,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.29
+    },
+    {
+        "parroquia": "YANAYACU MOCHAPATA",
+        "id": 4310,
+        "votos": 3,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.42
+    }
+]

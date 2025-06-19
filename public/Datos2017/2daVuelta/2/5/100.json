@@ -1,0 +1,107 @@
+[
+  {
+    "parroquia": "ALAQUEZ",
+    "id": 35,
+    "votos": 2054,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 41.89
+  },
+  {
+    "parroquia": "BELISARIO QUEVEDO",
+    "id": 315,
+    "votos": 1450,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 40.68
+  },
+  {
+    "parroquia": "GUAYTACAMA",
+    "id": 1485,
+    "votos": 2764,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 43.78
+  },
+  {
+    "parroquia": "JOSEGUANGO BAJO",
+    "id": 1905,
+    "votos": 495,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 39.63
+  },
+  {
+    "parroquia": "MULALÓ",
+    "id": 2480,
+    "votos": 2959,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 48.29
+  },
+  {
+    "parroquia": "11 DE NOVIEMBRE",
+    "id": 2620,
+    "votos": 781,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 48.42
+  },
+  {
+    "parroquia": "POALO",
+    "id": 2920,
+    "votos": 1310,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 32.16
+  },
+  {
+    "parroquia": "SAN JUAN DE PASTOCALLE",
+    "id": 3530,
+    "votos": 3212,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 44.75
+  },
+  {
+    "parroquia": "TANICUCHÍ",
+    "id": 3965,
+    "votos": 4263,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 47.58
+  },
+  {
+    "parroquia": "TOACAZO",
+    "id": 4035,
+    "votos": 2536,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 34.55
+  },
+  {
+    "parroquia": "ELOY ALFÁRO / SAN FELIPE",
+    "id": 5310,
+    "votos": 8865,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 39.58
+  },
+  {
+    "parroquia": "IGNACIO FLORES",
+    "id": 5465,
+    "votos": 4241,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 34.57
+  },
+  {
+    "parroquia": "JUAN MONTALVO",
+    "id": 5500,
+    "votos": 4349,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 36.55
+  },
+  {
+    "parroquia": "LA MATRIZ",
+    "id": 5555,
+    "votos": 7440,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 34.67
+  },
+  {
+    "parroquia": "SAN BUENAVENTURA",
+    "id": 5940,
+    "votos": 1380,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 36.01
+  }
+]

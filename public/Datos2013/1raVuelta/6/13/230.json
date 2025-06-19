@@ -1,0 +1,24 @@
+[
+                {
+                    "parroquia": "NOVILLO",
+                    "id": 1600,
+                    "votos": 255,
+                    "candidato": "Lasso Guillermo",
+                    "value": 26.8704
+                },
+                {
+                    "parroquia": "ZAPALLO",
+                    "id": 1620,
+                    "votos": 386,
+                    "candidato": "Lasso Guillermo",
+                    "value": 30.37
+                },
+                {
+                    "parroquia": "FLAVIO ALFARO",
+                    "id": 5480,
+                    "votos": 4456,
+                    "candidato": "Lasso Guillermo",
+                    "value": 32.942
+                }
+            ]
+            

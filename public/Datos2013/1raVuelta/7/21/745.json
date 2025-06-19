@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "SEVILLA",
+        "id": 1095,
+        "votos": 6,
+        "candidato": "Zavala Nelson",
+        "value": 0.461
+    },
+    {
+        "parroquia": "SANTA ROSA DE SUCUMBIOS",
+        "id": 3750,
+        "votos": 1,
+        "candidato": "Zavala Nelson",
+        "value": 0.25
+    },
+    {
+        "parroquia": "EL DORADO DE CASCALES",
+        "id": 6325,
+        "votos": 7,
+        "candidato": "Zavala Nelson",
+        "value": 0.191
+    }
+]

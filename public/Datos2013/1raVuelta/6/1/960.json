@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN VICENTE",
+        "id": 1650,
+        "votos": 41,
+        "candidato": "Lasso Guillermo",
+        "value": 4.6
+    },
+    {
+        "parroquia": "EL PAN",
+        "id": 6485,
+        "votos": 128,
+        "candidato": "Lasso Guillermo",
+        "value": 10.65
+    }
+]

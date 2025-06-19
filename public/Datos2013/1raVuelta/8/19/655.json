@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "CUMBARATZA",
+    "id": 720,
+    "votos": 77,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 3.67
+  },
+  {
+    "parroquia": "GUADALUPE",
+    "id": 1390,
+    "votos": 94,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 5.39
+  },
+  {
+    "parroquia": "SAN CARLOS DE LAS MINAS",
+    "id": 1770,
+    "votos": 56,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 5.583
+  },
+  {
+    "parroquia": "LA VICTORIA DE IMBANA",
+    "id": 2155,
+    "votos": 17,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 2.98
+  },
+  {
+    "parroquia": "SABANILLA",
+    "id": 3260,
+    "votos": 26,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 6.1
+  },
+  {
+    "parroquia": "TIMBARA",
+    "id": 4010,
+    "votos": 29,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 3.8513
+  },
+  {
+    "parroquia": "ZAMORA",
+    "id": 6305,
+    "votos": 553,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 6.283
+  },
+  {
+    "parroquia": "EL LIMON",
+    "id": 6840,
+    "votos": 13,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 4.348
+  }
+]

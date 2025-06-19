@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "LA AURORA",
+        "id": 6850,
+        "votos": 534,
+        "candidato": "Rafael Correa Delgado",
+        "value": 40.0
+    },
+    {
+        "parroquia": "DAULE",
+        "id": 5275,
+        "votos": 22105,
+        "candidato": "Rafael Correa Delgado",
+        "value": 45.95
+    },
+    {
+        "parroquia": "EL LAUREL",
+        "id": 4500,
+        "votos": 1102,
+        "candidato": "Rafael Correa Delgado",
+        "value": 42.46
+    },
+    {
+        "parroquia": "LAS LOJAS",
+        "id": 2105,
+        "votos": 937,
+        "candidato": "Rafael Correa Delgado",
+        "value": 55.47
+    },
+    {
+        "parroquia": "JUAN BAUTISTA AGUIRRE",
+        "id": 1855,
+        "votos": 831,
+        "candidato": "Rafael Correa Delgado",
+        "value": 49.64
+    },
+    {
+        "parroquia": "LIMONAL",
+        "id": 260,
+        "votos": 426,
+        "candidato": "Rafael Correa Delgado",
+        "value": 45.95
+    }
+]

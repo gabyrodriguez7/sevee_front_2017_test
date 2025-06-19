@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "ZURMI",
+        "id": 1675,
+        "votos": 0,
+        "candidato": "Wray Norman",
+        "value": 0.0
+    },
+    {
+        "parroquia": "NUEVO PARAISO",
+        "id": 4570,
+        "votos": 0,
+        "candidato": "Wray Norman",
+        "value": 0.0
+    },
+    {
+        "parroquia": "GUAYZIMI",
+        "id": 5520,
+        "votos": 10,
+        "candidato": "Wray Norman",
+        "value": 0.57
+    }
+]

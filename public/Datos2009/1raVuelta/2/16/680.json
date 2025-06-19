@@ -1,0 +1,100 @@
+[
+    {
+        "parroquia": "PUYO",
+        "id": 5825,
+        "votos": 126,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.65
+    },
+    {
+        "parroquia": "SIMON BOLIVAR",
+        "id": 4510,
+        "votos": 6,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.4
+    },
+    {
+        "parroquia": "VERACRUZ",
+        "id": 4205,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.31
+    },
+    {
+        "parroquia": "TNTE. HUGO ORTIZ",
+        "id": 4005,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.27
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 3985,
+        "votos": 2,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.31
+    },
+    {
+        "parroquia": "ZARAYACU",
+        "id": 3785,
+        "votos": 9,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.22
+    },
+    {
+        "parroquia": "RIO TIGRE",
+        "id": 3195,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.3
+    },
+    {
+        "parroquia": "RIO CORRIENTES",
+        "id": 3180,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.25
+    },
+    {
+        "parroquia": "POMONA",
+        "id": 3055,
+        "votos": 2,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.01
+    },
+    {
+        "parroquia": "MONTALVO/ANDOAS",
+        "id": 2450,
+        "votos": 19,
+        "candidato": "Diego Delgado Jara",
+        "value": 3.8
+    },
+    {
+        "parroquia": "EL TRIUNFO",
+        "id": 1275,
+        "votos": 4,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.55
+    },
+    {
+        "parroquia": "FATIMA",
+        "id": 1260,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.2
+    },
+    {
+        "parroquia": "10 DE AGOSTO",
+        "id": 1025,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.45
+    },
+    {
+        "parroquia": "CANELOS",
+        "id": 475,
+        "votos": 7,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.15
+    }
+]

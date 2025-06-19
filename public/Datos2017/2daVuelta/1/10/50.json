@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "CHUGÁ",
+    "id": 955,
+    "votos": 220,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 26.54
+  },
+  {
+    "parroquia": "MARIANO ACOSTA",
+    "id": 2380,
+    "votos": 407,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 30.79
+  },
+  {
+    "parroquia": "SAN FRANCISCO DE SIGSIPAMBA",
+    "id": 3415,
+    "votos": 164,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 21.41
+  },
+  {
+    "parroquia": "PIMAMPIRO",
+    "id": 5750,
+    "votos": 2864,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 37.31
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "BALZAPAMBA",
+    "id": 275,
+    "votos": 9,
+    "candidato": "Zavala Nelson",
+    "value": 0.0
+  },
+  {
+    "parroquia": "BILOVAN",
+    "id": 345,
+    "votos": 13,
+    "candidato": "Zavala Nelson",
+    "value": 1.0
+  },
+  {
+    "parroquia": "SAN PABLO DE ATENAS",
+    "id": 3595,
+    "votos": 16,
+    "candidato": "Zavala Nelson",
+    "value": 0.5
+  },
+  {
+    "parroquia": "SANTIAGO",
+    "id": 3775,
+    "votos": 14,
+    "candidato": "Zavala Nelson",
+    "value": 1.33
+  },
+  {
+    "parroquia": "SAN VICENTE",
+    "id": 3900,
+    "votos": 3,
+    "candidato": "Zavala Nelson",
+    "value": 0.0
+  },
+  {
+    "parroquia": "REGULO DE MORA",
+    "id": 4515,
+    "votos": 1,
+    "candidato": "Zavala Nelson",
+    "value": 0.2
+  },
+  {
+    "parroquia": "SAN MIGUEL",
+    "id": 5995,
+    "votos": 32,
+    "candidato": "Zavala Nelson",
+    "value": 0.0
+  }
+]

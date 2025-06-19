@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "COJIMÍES",
+    "id": 580,
+    "votos": 238,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 5.6
+  },
+  {
+    "parroquia": "ATAHUALPA",
+    "id": 785,
+    "votos": 35,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.7
+  },
+  {
+    "parroquia": "10 DE AGOSTO",
+    "id": 1030,
+    "votos": 52,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.32
+  },
+  {
+    "parroquia": "PEDERNALES",
+    "id": 6430,
+    "votos": 1607,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 7.08
+  }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "BALZAPAMBA",
+        "id": 275,
+        "votos": 52,
+        "candidato": "Noboa Alvaro",
+        "value": 2.0
+    },
+    {
+        "parroquia": "BILOVAN",
+        "id": 345,
+        "votos": 43,
+        "candidato": "Noboa Alvaro",
+        "value": 3.0
+    },
+    {
+        "parroquia": "SAN PABLO DE ATENAS",
+        "id": 3595,
+        "votos": 88,
+        "candidato": "Noboa Alvaro",
+        "value": 2.6
+    },
+    {
+        "parroquia": "SANTIAGO",
+        "id": 3775,
+        "votos": 24,
+        "candidato": "Noboa Alvaro",
+        "value": 2.27
+    },
+    {
+        "parroquia": "SAN VICENTE",
+        "id": 3900,
+        "votos": 17,
+        "candidato": "Noboa Alvaro",
+        "value": 3.0
+    },
+    {
+        "parroquia": "REGULO DE MORA",
+        "id": 4515,
+        "votos": 13,
+        "candidato": "Noboa Alvaro",
+        "value": 2.6
+    },
+    {
+        "parroquia": "SAN MIGUEL",
+        "id": 5995,
+        "votos": 159,
+        "candidato": "Noboa Alvaro",
+        "value": 2.0
+    }
+]

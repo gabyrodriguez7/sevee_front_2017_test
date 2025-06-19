@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "NUEVO ROCAFUERTE",
+        "id": 5700,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.18
+    },
+    {
+        "parroquia": "YASUNI",
+        "id": 4295,
+        "votos": 4,
+        "candidato": "Diego Delgado Jara",
+        "value": 2.52
+    },
+    {
+        "parroquia": "TIPUTINI",
+        "id": 4020,
+        "votos": 2,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.29
+    },
+    {
+        "parroquia": "STA. MARIA DE HUIRIRIMA",
+        "id": 3720,
+        "votos": 2,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.01
+    },
+    {
+        "parroquia": "CONONACO",
+        "id": 630,
+        "votos": 2,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.16
+    },
+    {
+        "parroquia": "CAP. AUGUSTO RIVADENEIRA",
+        "id": 510,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.97
+    }
+]

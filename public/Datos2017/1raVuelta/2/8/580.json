@@ -1,0 +1,93 @@
+[
+  {
+    "parroquia": "ALTO TAMBO/GUADAL",
+    "id": 70,
+    "votos": 25,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.19
+  },
+  {
+    "parroquia": "ANCÓN/PALMA REAL",
+    "id": 110,
+    "votos": 21,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.7
+  },
+  {
+    "parroquia": "CALDERÓN",
+    "id": 435,
+    "votos": 6,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.68
+  },
+  {
+    "parroquia": "CARONDELET",
+    "id": 535,
+    "votos": 12,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.17
+  },
+  {
+    "parroquia": "5 DE JUNIO/HUIMBI",
+    "id": 570,
+    "votos": 9,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.56
+  },
+  {
+    "parroquia": "CONCEPCIÓN",
+    "id": 620,
+    "votos": 25,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.68
+  },
+  {
+    "parroquia": "MATAJE",
+    "id": 2395,
+    "votos": 19,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.16
+  },
+  {
+    "parroquia": "SAN JAVIER DE CACHABI",
+    "id": 3455,
+    "votos": 4,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 0.97
+  },
+  {
+    "parroquia": "SANTA RITA",
+    "id": 3725,
+    "votos": 10,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.83
+  },
+  {
+    "parroquia": "TAMBILLO",
+    "id": 3955,
+    "votos": 16,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.61
+  },
+  {
+    "parroquia": "TULULBÍ/RICAURTE",
+    "id": 4075,
+    "votos": 23,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.74
+  },
+  {
+    "parroquia": "URBINA",
+    "id": 4125,
+    "votos": 32,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.43
+  },
+  {
+    "parroquia": "SAN LORENZO",
+    "id": 6130,
+    "votos": 603,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.3
+  }
+]

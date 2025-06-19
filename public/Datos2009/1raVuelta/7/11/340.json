@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "AMALUZA",
+        "id": 5020,
+        "votos": 124,
+        "candidato": "Alvaro Noboa",
+        "value": 4.64
+    },
+    {
+        "parroquia": "27 DE ABRIL /LA NARANJA",
+        "id": 4460,
+        "votos": 55,
+        "candidato": "Alvaro Noboa",
+        "value": 7.67
+    },
+    {
+        "parroquia": "SANTA TERESITA",
+        "id": 3765,
+        "votos": 21,
+        "candidato": "Alvaro Noboa",
+        "value": 3.99
+    },
+    {
+        "parroquia": "JIMBURA",
+        "id": 1845,
+        "votos": 57,
+        "candidato": "Alvaro Noboa",
+        "value": 8.79
+    },
+    {
+        "parroquia": "EL AIRO",
+        "id": 1645,
+        "votos": 11,
+        "candidato": "Alvaro Noboa",
+        "value": 3.26
+    },
+    {
+        "parroquia": "EL INGENIO",
+        "id": 790,
+        "votos": 32,
+        "candidato": "Alvaro Noboa",
+        "value": 5.58
+    },
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 320,
+        "votos": 11,
+        "candidato": "Alvaro Noboa",
+        "value": 1.45
+    }
+]

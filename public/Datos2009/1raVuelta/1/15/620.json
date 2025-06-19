@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "TENA",
+    "id": 6160,
+    "votos": 428,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.75
+  },
+  {
+    "parroquia": "PUERTO NAPO",
+    "id": 3050,
+    "votos": 33,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.55
+  },
+  {
+    "parroquia": "PUERTO MISAHUALLI",
+    "id": 3000,
+    "votos": 26,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.36
+  },
+  {
+    "parroquia": "PANO",
+    "id": 2755,
+    "votos": 15,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.97
+  },
+  {
+    "parroquia": "TALAG",
+    "id": 1930,
+    "votos": 15,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.32
+  },
+  {
+    "parroquia": "CHONTAPUNTA",
+    "id": 940,
+    "votos": 9,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 0.39
+  },
+  {
+    "parroquia": "AHUANO",
+    "id": 25,
+    "votos": 14,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 0.62
+  }
+]

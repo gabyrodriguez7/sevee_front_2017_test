@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "DURENO",
+        "id": 1045,
+        "votos": 15,
+        "candidato": "Wray Norman",
+        "value": 1.007
+    },
+    {
+        "parroquia": "EL ENO",
+        "id": 1285,
+        "votos": 29,
+        "candidato": "Wray Norman",
+        "value": 1.007
+    },
+    {
+        "parroquia": "PACAYACU",
+        "id": 1290,
+        "votos": 33,
+        "candidato": "Wray Norman",
+        "value": 1.1
+    },
+    {
+        "parroquia": "GENERAL FARFAN",
+        "id": 1330,
+        "votos": 16,
+        "candidato": "Wray Norman",
+        "value": 0.8
+    },
+    {
+        "parroquia": "SANTA CECILIA",
+        "id": 1790,
+        "votos": 23,
+        "candidato": "Wray Norman",
+        "value": 1.153
+    },
+    {
+        "parroquia": "JAMBELI",
+        "id": 1795,
+        "votos": 4,
+        "candidato": "Wray Norman",
+        "value": 0.341
+    },
+    {
+        "parroquia": "10 DE AGOSTO",
+        "id": 4625,
+        "votos": 2,
+        "candidato": "Wray Norman",
+        "value": 0.6
+    },
+    {
+        "parroquia": "NUEVA LOJA",
+        "id": 5710,
+        "votos": 457,
+        "candidato": "Wray Norman",
+        "value": 1.365
+    }
+]

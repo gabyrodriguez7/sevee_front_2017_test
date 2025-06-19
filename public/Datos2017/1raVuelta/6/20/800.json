@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "EL PROGRESO",
+    "id": 1220,
+    "votos": 5,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.26
+  },
+  {
+    "parroquia": "ISLA SANTA MARÍA",
+    "id": 4415,
+    "votos": 0,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0
+  },
+  {
+    "parroquia": "PTO. BAQUERIZO MORENO",
+    "id": 6510,
+    "votos": 22,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.54
+  }
+]

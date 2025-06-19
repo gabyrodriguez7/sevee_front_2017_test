@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CAMPOZANO",
+        "id": 460,
+        "votos": 78,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.48724
+    },
+    {
+        "parroquia": "CASCOL",
+        "id": 540,
+        "votos": 120,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.6178
+    },
+    {
+        "parroquia": "GUALE/STO.DOMINGO",
+        "id": 1395,
+        "votos": 56,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.0
+    },
+    {
+        "parroquia": "LASCANO",
+        "id": 2090,
+        "votos": 22,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.08
+    },
+    {
+        "parroquia": "PAJAN",
+        "id": 5755,
+        "votos": 395,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.013
+    }
+]

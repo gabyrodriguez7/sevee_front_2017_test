@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "MANUEL J. CALLE",
+        "id": 2365,
+        "votos": 62,
+        "candidato": "Noboa Alvaro",
+        "value": 2.7
+    },
+    {
+        "parroquia": "PANCHO NEGRO",
+        "id": 2745,
+        "votos": 66,
+        "candidato": "Noboa Alvaro",
+        "value": 2.44
+    },
+    {
+        "parroquia": "LA TRONCAL",
+        "id": 5610,
+        "votos": 655,
+        "candidato": "Noboa Alvaro",
+        "value": 2.73
+    }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "parroquia": "BELLAVISTA",
+    "id": 325,
+    "votos": 949,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 55.56
+  },
+  {
+    "parroquia": "BELLAMARÍA",
+    "id": 1665,
+    "votos": 520,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 54.68
+  },
+  {
+    "parroquia": "JAMBELÍ",
+    "id": 1815,
+    "votos": 313,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 75.24
+  },
+  {
+    "parroquia": "LA AVANZADA",
+    "id": 2005,
+    "votos": 700,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 47.75
+  },
+  {
+    "parroquia": "SAN ANTONIO",
+    "id": 3330,
+    "votos": 443,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 58.14
+  },
+  {
+    "parroquia": "VICTORIA",
+    "id": 4215,
+    "votos": 1175,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 82.4
+  },
+  {
+    "parroquia": "TORATA",
+    "id": 4525,
+    "votos": 550,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 47.13
+  },
+  {
+    "parroquia": "SANTA ROSA",
+    "id": 6060,
+    "votos": 19336,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 50.56
+  },
+  {
+    "parroquia": "PUERTO JELI",
+    "id": 6670,
+    "votos": 304,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 59.84
+  },
+  {
+    "parroquia": "BALNEARIO JAMBELÍ",
+    "id": 6900,
+    "votos": 115,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 79.86
+  },
+  {
+    "parroquia": "JUMON",
+    "id": 6985,
+    "votos": 306,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 69.7
+  },
+  {
+    "parroquia": "NUEVO SANTA ROSA",
+    "id": 6990,
+    "votos": 439,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 64.09
+  }
+]

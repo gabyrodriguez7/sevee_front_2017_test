@@ -1,0 +1,23 @@
+[
+                {
+                    "parroquia": "LA TRONCAL",
+                    "id": 5610,
+                    "votos": 197,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 1.02
+                },
+                {
+                    "parroquia": "PANCHO NEGRO",
+                    "id": 2745,
+                    "votos": 20,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 1.02
+                },
+                {
+                    "parroquia": "MANUEL J. CALLE",
+                    "id": 2365,
+                    "votos": 21,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 1.16
+                }
+            ]

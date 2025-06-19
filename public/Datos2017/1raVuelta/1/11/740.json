@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "FUNDOCHAMBA",
+    "id": 360,
+    "votos": 126,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 43
+  },
+  {
+    "parroquia": "SAN ANTONIO DE LAS ARADAS",
+    "id": 3345,
+    "votos": 215,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 31.85
+  },
+  {
+    "parroquia": "QUILANGA /LA PAZ",
+    "id": 6260,
+    "votos": 777,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 39.38
+  }
+]

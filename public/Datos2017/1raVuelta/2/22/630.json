@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "CAP. AUGUSTO RIVADENEIRA",
+    "id": 510,
+    "votos": 50,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 14.08
+  },
+  {
+    "parroquia": "CONONACO",
+    "id": 630,
+    "votos": 9,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.5
+  },
+  {
+    "parroquia": "STA. MARÍA DE HUIRIRIMA",
+    "id": 3720,
+    "votos": 36,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.16
+  },
+  {
+    "parroquia": "YASUNÍ",
+    "id": 4295,
+    "votos": 4,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.84
+  },
+  {
+    "parroquia": "NUEVO ROCAFUERTE",
+    "id": 5700,
+    "votos": 20,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.38
+  },
+  {
+    "parroquia": "TIPUTINI",
+    "id": 7485,
+    "votos": 106,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 12.86
+  }
+]

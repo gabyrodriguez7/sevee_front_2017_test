@@ -1,0 +1,38 @@
+[
+    {
+        "id": 30,
+        "candidato": "Correa Delgado Rafael",
+        "votos": 63243,
+        "value": 55.0
+    },
+    {
+        "id": 35,
+        "candidato": "Correa Delgado Rafael",
+        "votos": 34571,
+        "value": 55.8
+    },
+    {
+        "id": 40,
+        "candidato": "Correa Delgado Rafael",
+        "votos": 15122,
+        "value": 63.0
+    },
+    {
+        "id": 45,
+        "candidato": "Correa Delgado Rafael",
+        "votos": 15583,
+        "value": 58.2
+    },
+    {
+        "id": 50,
+        "candidato": "Correa Delgado Rafael",
+        "votos": 5624,
+        "value": 58.8
+    },
+    {
+        "id": 55,
+        "candidato": "Correa Delgado Rafael",
+        "votos": 6772,
+        "value": 65.0
+    }
+]

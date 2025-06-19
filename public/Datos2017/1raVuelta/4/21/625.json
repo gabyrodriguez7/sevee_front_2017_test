@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "DURENO",
+    "id": 1045,
+    "votos": 240,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 14.26
+  },
+  {
+    "parroquia": "EL ENO",
+    "id": 1285,
+    "votos": 768,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 22.06
+  },
+  {
+    "parroquia": "PACAYÁCU",
+    "id": 1290,
+    "votos": 400,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.24
+  },
+  {
+    "parroquia": "GENERAL FARFÁN",
+    "id": 1330,
+    "votos": 269,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.12
+  },
+  {
+    "parroquia": "SANTA CECILIA",
+    "id": 1790,
+    "votos": 583,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 24.9
+  },
+  {
+    "parroquia": "JAMBELÍ",
+    "id": 1795,
+    "votos": 214,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 15.57
+  },
+  {
+    "parroquia": "10 DE AGOSTO",
+    "id": 4625,
+    "votos": 50,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.54
+  },
+  {
+    "parroquia": "NUEVA LOJA",
+    "id": 5710,
+    "votos": 6569,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 17.57
+  }
+]

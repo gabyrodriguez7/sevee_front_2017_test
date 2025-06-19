@@ -1,0 +1,32 @@
+[
+                {
+                    "id": 255,
+                    "candidato": "Melba Jacome",
+                    "votos": 5,
+                    "value": 0.12
+                },
+                {
+                    "id": 620,
+                    "candidato": "Melba Jacome",
+                    "votos": 218,
+                    "value": 0.83
+                },
+                {
+                    "id": 621,
+                    "candidato": "Melba Jacome",
+                    "votos": 5,
+                    "value": 0.24
+                },
+                {
+                    "id": 635,
+                    "candidato": "Melba Jacome",
+                    "votos": 11,
+                    "value": 0.33
+                },
+                {
+                    "id": 700,
+                    "candidato": "Melba Jacome",
+                    "votos": 80,
+                    "value": 0.71
+                }
+            ]

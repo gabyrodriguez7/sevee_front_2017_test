@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "ALOAG",
+        "id": 55,
+        "votos": 752,
+        "candidato": "Gutierrez Lucio",
+        "value": 14.093
+    },
+    {
+        "parroquia": "ALOASI",
+        "id": 60,
+        "votos": 372,
+        "candidato": "Gutierrez Lucio",
+        "value": 10.817
+    },
+    {
+        "parroquia": "CORNEJO ASTORGA /TANDAPI",
+        "id": 650,
+        "votos": 247,
+        "candidato": "Gutierrez Lucio",
+        "value": 15.987
+    },
+    {
+        "parroquia": "CUTUGLAGUA",
+        "id": 755,
+        "votos": 1039,
+        "candidato": "Gutierrez Lucio",
+        "value": 13.356473
+    },
+    {
+        "parroquia": "CHAUPI",
+        "id": 850,
+        "votos": 83,
+        "candidato": "Gutierrez Lucio",
+        "value": 10.7513
+    },
+    {
+        "parroquia": "TAMBILLO",
+        "id": 3960,
+        "votos": 490,
+        "candidato": "Gutierrez Lucio",
+        "value": 8.4
+    },
+    {
+        "parroquia": "UYUMBICHO",
+        "id": 4155,
+        "votos": 133,
+        "candidato": "Gutierrez Lucio",
+        "value": 5.0
+    },
+    {
+        "parroquia": "MACHACHI",
+        "id": 5620,
+        "votos": 2028,
+        "candidato": "Gutierrez Lucio",
+        "value": 10.0
+    }
+]

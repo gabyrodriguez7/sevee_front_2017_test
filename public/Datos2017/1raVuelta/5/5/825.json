@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "GUASAGANDA",
+    "id": 1500,
+    "votos": 26,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.45
+  },
+  {
+    "parroquia": "PUCAYACO",
+    "id": 2965,
+    "votos": 11,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.66
+  },
+  {
+    "parroquia": "LA MANÁ",
+    "id": 6535,
+    "votos": 192,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.94
+  },
+  {
+    "parroquia": "EL CARMEN",
+    "id": 6880,
+    "votos": 15,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.77
+  },
+  {
+    "parroquia": "EL TRIUNFO",
+    "id": 6895,
+    "votos": 17,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.81
+  }
+]

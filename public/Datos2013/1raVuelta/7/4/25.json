@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "SAN RAFAEL",
+    "id": 1055,
+    "votos": 6,
+    "candidato": "Zavala Nelson",
+    "value": 0.6342
+  },
+  {
+    "parroquia": "GARCIA MORENO",
+    "id": 1315,
+    "votos": 6,
+    "candidato": "Zavala Nelson",
+    "value": 1.0
+  },
+  {
+    "parroquia": "LOS ANDES",
+    "id": 2205,
+    "votos": 8,
+    "candidato": "Zavala Nelson",
+    "value": 1.0
+  },
+  {
+    "parroquia": "MONTEOLIVO",
+    "id": 2455,
+    "votos": 10,
+    "candidato": "Zavala Nelson",
+    "value": 1.0
+  },
+  {
+    "parroquia": "SAN VICENTE DE PUSIR",
+    "id": 3680,
+    "votos": 1,
+    "candidato": "Zavala Nelson",
+    "value": 0.1
+  },
+  {
+    "parroquia": "BOLIVAR",
+    "id": 6520,
+    "votos": 15,
+    "candidato": "Zavala Nelson",
+    "value": 0.0
+  }
+]

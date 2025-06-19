@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "PALO QUEMADO",
+    "id": 815,
+    "votos": 239,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 43.61
+  },
+  {
+    "parroquia": "CHUGCHILAN",
+    "id": 960,
+    "votos": 2275,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 54.91
+  },
+  {
+    "parroquia": "ISINLIVI",
+    "id": 1735,
+    "votos": 1021,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 53.15
+  },
+  {
+    "parroquia": "LAS PAMPAS",
+    "id": 2115,
+    "votos": 882,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 64.9
+  },
+  {
+    "parroquia": "SIGCHOS",
+    "id": 6450,
+    "votos": 3215,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 51.88
+  }
+]

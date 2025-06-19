@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "SAN JOSE",
+        "id": 5970,
+        "votos": 31,
+        "candidato": "Melba Jacome",
+        "value": 0.49
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 5405,
+        "votos": 32,
+        "candidato": "Melba Jacome",
+        "value": 0.51
+    },
+    {
+        "parroquia": "LA PAZ",
+        "id": 2065,
+        "votos": 11,
+        "candidato": "Melba Jacome",
+        "value": 0.61
+    },
+    {
+        "parroquia": "FERNANDEZ SALVADOR",
+        "id": 1270,
+        "votos": 3,
+        "candidato": "Melba Jacome",
+        "value": 0.53
+    },
+    {
+        "parroquia": "CHITAN DE NAVARRETES",
+        "id": 910,
+        "votos": 0,
+        "candidato": "Melba Jacome",
+        "value": 0.0
+    },
+    {
+        "parroquia": "CRISTOBAL COLON",
+        "id": 690,
+        "votos": 12,
+        "candidato": "Melba Jacome",
+        "value": 0.65
+    },
+    {
+        "parroquia": "PIARTAL",
+        "id": 250,
+        "votos": 0,
+        "candidato": "Melba Jacome",
+        "value": 0.0
+    }
+]

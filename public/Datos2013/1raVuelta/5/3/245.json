@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "JERUSALEN",
+        "id": 1085,
+        "votos": 34,
+        "candidato": "Gutierrez Lucio",
+        "value": 10.7
+    },
+    {
+        "parroquia": "NAZON",
+        "id": 2545,
+        "votos": 329,
+        "candidato": "Gutierrez Lucio",
+        "value": 20.3
+    },
+    {
+        "parroquia": "SAN FCO. DE SAGEO",
+        "id": 3410,
+        "votos": 135,
+        "candidato": "Gutierrez Lucio",
+        "value": 20.089
+    },
+    {
+        "parroquia": "TURUPAMBA",
+        "id": 4100,
+        "votos": 40,
+        "candidato": "Gutierrez Lucio",
+        "value": 11.0
+    },
+    {
+        "parroquia": "BIBLIAN",
+        "id": 5115,
+        "votos": 1155,
+        "candidato": "Gutierrez Lucio",
+        "value": 14.6
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "SUCRE",
+        "id": 6105,
+        "votos": 116,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.34
+    },
+    {
+        "parroquia": "NOBOA",
+        "id": 2555,
+        "votos": 31,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.02
+    },
+    {
+        "parroquia": "ARQ.SIXTO DURAN BALLEN",
+        "id": 1570,
+        "votos": 4,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.7
+    },
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 330,
+        "votos": 17,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.79
+    }
+]

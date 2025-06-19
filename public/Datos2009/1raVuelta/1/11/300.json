@@ -1,0 +1,121 @@
+[
+    {
+        "parroquia": "VALLE",
+        "id": 6210,
+        "votos": 1004,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 4.7
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 6100,
+        "votos": 1540,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 4.49
+    },
+    {
+        "parroquia": "SAN SEBASTIAN",
+        "id": 6015,
+        "votos": 1057,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 5.41
+    },
+    {
+        "parroquia": "EL SAGRARIO",
+        "id": 5320,
+        "votos": 919,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 5.91
+    },
+    {
+        "parroquia": "SAN PEDRO DE VILCABAMBA",
+        "id": 4540,
+        "votos": 18,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.48
+    },
+    {
+        "parroquia": "CHANTACO",
+        "id": 4475,
+        "votos": 34,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 5.95
+    },
+    {
+        "parroquia": "YANGANA / ARSENIO CASTILLO",
+        "id": 4280,
+        "votos": 13,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.71
+    },
+    {
+        "parroquia": "VILCABAMBA/VICTORIA",
+        "id": 4235,
+        "votos": 61,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.77
+    },
+    {
+        "parroquia": "TAQUIL /MIGUEL RIOFRIO",
+        "id": 3970,
+        "votos": 27,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.95
+    },
+    {
+        "parroquia": "SANTIAGO",
+        "id": 3770,
+        "votos": 18,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.6
+    },
+    {
+        "parroquia": "SAN LUCAS",
+        "id": 3555,
+        "votos": 262,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 15.52
+    },
+    {
+        "parroquia": "MALACATOS/VALLADOLID",
+        "id": 2325,
+        "votos": 71,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.19
+    },
+    {
+        "parroquia": "JIMBILLA",
+        "id": 1840,
+        "votos": 13,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.18
+    },
+    {
+        "parroquia": "QUINARA",
+        "id": 1780,
+        "votos": 12,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.23
+    },
+    {
+        "parroquia": "GUALEL",
+        "id": 1405,
+        "votos": 43,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 5.3
+    },
+    {
+        "parroquia": "EL CISNE",
+        "id": 1135,
+        "votos": 14,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.93
+    },
+    {
+        "parroquia": "CHUQUIRIBAMBA",
+        "id": 975,
+        "votos": 52,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.99
+    }
+]

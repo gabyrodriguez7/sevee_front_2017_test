@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "COLAIZACA",
+        "id": 590,
+        "votos": 33,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.19
+    },
+    {
+        "parroquia": "EL LUCERO",
+        "id": 1230,
+        "votos": 42,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.3
+    },
+    {
+        "parroquia": "SANGUILLIN",
+        "id": 1550,
+        "votos": 4,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.06
+    },
+    {
+        "parroquia": "UTUANA",
+        "id": 4150,
+        "votos": 9,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.0
+    },
+    {
+        "parroquia": "CARIAMANGA",
+        "id": 5175,
+        "votos": 490,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.5
+    },
+    {
+        "parroquia": "CHILE",
+        "id": 5240,
+        "votos": 49,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.0
+    },
+    {
+        "parroquia": "SAN VICENTE",
+        "id": 6025,
+        "votos": 15,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.856041
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "ASUNCION",
+        "id": 180,
+        "votos": 308,
+        "candidato": "Acosta Alberto",
+        "value": 45.3
+    },
+    {
+        "parroquia": "SANTA MARIANITA DE JESUS",
+        "id": 1140,
+        "votos": 15,
+        "candidato": "Acosta Alberto",
+        "value": 4.8387097
+    },
+    {
+        "parroquia": "HUAMBI",
+        "id": 1635,
+        "votos": 182,
+        "candidato": "Acosta Alberto",
+        "value": 12.2
+    },
+    {
+        "parroquia": "SUCUA",
+        "id": 6110,
+        "votos": 763,
+        "candidato": "Acosta Alberto",
+        "value": 10.501
+    }
+]

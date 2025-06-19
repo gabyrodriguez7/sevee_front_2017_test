@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "BOYACÁ",
+    "id": 380,
+    "votos": 490,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 19.25
+  },
+  {
+    "parroquia": "CHIBUNGA",
+    "id": 405,
+    "votos": 697,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 25.73
+  },
+  {
+    "parroquia": "CANUTO",
+    "id": 495,
+    "votos": 1068,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 16.52
+  },
+  {
+    "parroquia": "CONVENTO",
+    "id": 640,
+    "votos": 784,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 23.42
+  },
+  {
+    "parroquia": "ELOY ALFARO",
+    "id": 1160,
+    "votos": 624,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 25.55
+  },
+  {
+    "parroquia": "RICAURTE",
+    "id": 3170,
+    "votos": 882,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 25.78
+  },
+  {
+    "parroquia": "SAN ANTONIO / DEL PELUDO",
+    "id": 3350,
+    "votos": 600,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 12.41
+  },
+  {
+    "parroquia": "CHONE",
+    "id": 5250,
+    "votos": 8867,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 21.77
+  },
+  {
+    "parroquia": "SANTA RITA",
+    "id": 6055,
+    "votos": 1925,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 20.82
+  }
+]

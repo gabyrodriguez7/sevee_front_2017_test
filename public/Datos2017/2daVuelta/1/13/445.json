@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "LA PILA",
+    "id": 1545,
+    "votos": 569,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 28.91
+  },
+  {
+    "parroquia": "MONTECRISTI",
+    "id": 5665,
+    "votos": 7273,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 23.56
+  },
+  {
+    "parroquia": "ANIBAL SAN ANDRÉS",
+    "id": 7460,
+    "votos": 157,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 25.7
+  },
+  {
+    "parroquia": "COLORADO",
+    "id": 7490,
+    "votos": 279,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 29.28
+  },
+  {
+    "parroquia": "LEONIDAS PROAÑO",
+    "id": 7495,
+    "votos": 1055,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 13.52
+  },
+  {
+    "parroquia": "GENERAL ELOY ALFARO DELGA",
+    "id": 7500,
+    "votos": 190,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 15.56
+  }
+]

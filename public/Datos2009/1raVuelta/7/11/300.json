@@ -1,0 +1,121 @@
+[
+    {
+        "parroquia": "VALLE",
+        "id": 6210,
+        "votos": 2702,
+        "candidato": "Alvaro Noboa",
+        "value": 12.65
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 6100,
+        "votos": 4241,
+        "candidato": "Alvaro Noboa",
+        "value": 12.38
+    },
+    {
+        "parroquia": "SAN SEBASTIAN",
+        "id": 6015,
+        "votos": 2372,
+        "candidato": "Alvaro Noboa",
+        "value": 12.14
+    },
+    {
+        "parroquia": "EL SAGRARIO",
+        "id": 5320,
+        "votos": 2360,
+        "candidato": "Alvaro Noboa",
+        "value": 15.2
+    },
+    {
+        "parroquia": "SAN PEDRO DE VILCABAMBA",
+        "id": 4540,
+        "votos": 28,
+        "candidato": "Alvaro Noboa",
+        "value": 5.41
+    },
+    {
+        "parroquia": "CHANTACO",
+        "id": 4475,
+        "votos": 27,
+        "candidato": "Alvaro Noboa",
+        "value": 4.72
+    },
+    {
+        "parroquia": "YANGANA / ARSENIO CASTILLO",
+        "id": 4280,
+        "votos": 52,
+        "candidato": "Alvaro Noboa",
+        "value": 6.87
+    },
+    {
+        "parroquia": "VILCABAMBA/VICTORIA",
+        "id": 4235,
+        "votos": 124,
+        "candidato": "Alvaro Noboa",
+        "value": 5.64
+    },
+    {
+        "parroquia": "TAQUIL /MIGUEL RIOFRIO",
+        "id": 3970,
+        "votos": 100,
+        "candidato": "Alvaro Noboa",
+        "value": 7.23
+    },
+    {
+        "parroquia": "SANTIAGO",
+        "id": 3770,
+        "votos": 26,
+        "candidato": "Alvaro Noboa",
+        "value": 3.76
+    },
+    {
+        "parroquia": "SAN LUCAS",
+        "id": 3555,
+        "votos": 129,
+        "candidato": "Alvaro Noboa",
+        "value": 7.64
+    },
+    {
+        "parroquia": "MALACATOS/VALLADOLID",
+        "id": 2325,
+        "votos": 203,
+        "candidato": "Alvaro Noboa",
+        "value": 6.26
+    },
+    {
+        "parroquia": "JIMBILLA",
+        "id": 1840,
+        "votos": 72,
+        "candidato": "Alvaro Noboa",
+        "value": 12.08
+    },
+    {
+        "parroquia": "QUINARA",
+        "id": 1780,
+        "votos": 49,
+        "candidato": "Alvaro Noboa",
+        "value": 9.1
+    },
+    {
+        "parroquia": "GUALEL",
+        "id": 1405,
+        "votos": 40,
+        "candidato": "Alvaro Noboa",
+        "value": 4.93
+    },
+    {
+        "parroquia": "EL CISNE",
+        "id": 1135,
+        "votos": 66,
+        "candidato": "Alvaro Noboa",
+        "value": 9.14
+    },
+    {
+        "parroquia": "CHUQUIRIBAMBA",
+        "id": 975,
+        "votos": 75,
+        "candidato": "Alvaro Noboa",
+        "value": 5.76
+    }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "parroquia": "BAÑOS",
+    "id": 285,
+    "votos": 702,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.47
+  },
+  {
+    "parroquia": "CUMBE",
+    "id": 730,
+    "votos": 113,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.9
+  },
+  {
+    "parroquia": "CHAUCHA / ANGAS",
+    "id": 845,
+    "votos": 19,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.44
+  },
+  {
+    "parroquia": "CHECA JIDCAY",
+    "id": 860,
+    "votos": 85,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.97
+  },
+  {
+    "parroquia": "CHIQUINTAD",
+    "id": 905,
+    "votos": 110,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.96
+  },
+  {
+    "parroquia": "LLACAO",
+    "id": 2255,
+    "votos": 135,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.92
+  },
+  {
+    "parroquia": "MOLLETURO",
+    "id": 2430,
+    "votos": 164,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.81
+  },
+  {
+    "parroquia": "MULTI /  NULTI",
+    "id": 2570,
+    "votos": 96,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.86
+  },
+  {
+    "parroquia": "OCTAVIO CORDERO PALACIOS",
+    "id": 2595,
+    "votos": 50,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.94
+  },
+  {
+    "parroquia": "PACCHA",
+    "id": 2680,
+    "votos": 105,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.36
+  },
+  {
+    "parroquia": "QUINGEO",
+    "id": 3105,
+    "votos": 104,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.7
+  },
+  {
+    "parroquia": "RICAURTE",
+    "id": 3165,
+    "votos": 648,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 5.36
+  },
+  {
+    "parroquia": "SAN JOAQUÍN",
+    "id": 3460,
+    "votos": 310,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 5.19
+  },
+  {
+    "parroquia": "SANTA ANA",
+    "id": 3685,
+    "votos": 122,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.15
+  },
+  {
+    "parroquia": "SAYAUSI",
+    "id": 3795,
+    "votos": 441,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 5.71
+  },
+  {
+    "parroquia": "SIDCAY",
+    "id": 3850,
+    "votos": 84,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.41
+  },
+  {
+    "parroquia": "SININCAY",
+    "id": 3870,
+    "votos": 372,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 5.31
+  },
+  {
+    "parroquia": "TARQUI",
+    "id": 3980,
+    "votos": 211,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.41
+  },
+  {
+    "parroquia": "TURI",
+    "id": 4095,
+    "votos": 208,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.76
+  },
+  {
+    "parroquia": "VALLE",
+    "id": 4200,
+    "votos": 686,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 6.02
+  },
+  {
+    "parroquia": "VICTORIA DEL PORTETE",
+    "id": 4225,
+    "votos": 78,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.56
+  },
+  {
+    "parroquia": "BELLAVISTA",
+    "id": 5075,
+    "votos": 527,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.23
+  },
+  {
+    "parroquia": "CAÑARIBAMBA",
+    "id": 5080,
+    "votos": 231,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.15
+  },
+  {
+    "parroquia": "EL BATÁN",
+    "id": 5135,
+    "votos": 403,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.13
+  },
+  {
+    "parroquia": "MACHÁNGARA",
+    "id": 5140,
+    "votos": 300,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.73
+  },
+  {
+    "parroquia": "MONAY",
+    "id": 5290,
+    "votos": 337,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.51
+  },
+  {
+    "parroquia": "EL VECINO",
+    "id": 5330,
+    "votos": 1375,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.41
+  },
+  {
+    "parroquia": "TOTORACOCHA",
+    "id": 5360,
+    "votos": 629,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.85
+  },
+  {
+    "parroquia": "YANUNCAY",
+    "id": 5370,
+    "votos": 692,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.05
+  },
+  {
+    "parroquia": "HUAYNACAPAC",
+    "id": 5450,
+    "votos": 399,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.03
+  },
+  {
+    "parroquia": "RAMÍREZ DÁVALOS",
+    "id": 5875,
+    "votos": 302,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.24
+  },
+  {
+    "parroquia": "SAGRARIO",
+    "id": 5905,
+    "votos": 621,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.51
+  },
+  {
+    "parroquia": "SAN BLAS",
+    "id": 5930,
+    "votos": 447,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.62
+  },
+  {
+    "parroquia": "SAN SEBASTIÁN",
+    "id": 6010,
+    "votos": 935,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.7
+  },
+  {
+    "parroquia": "SUCRE",
+    "id": 6090,
+    "votos": 564,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.31
+  },
+  {
+    "parroquia": "HERMANO MIGUEL",
+    "id": 6865,
+    "votos": 344,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 5.29
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "ZURMI",
+    "id": 1675,
+    "votos": 110,
+    "candidato": "Lasso Guillermo",
+    "value": 14.34
+  },
+  {
+    "parroquia": "NUEVO PARAISO",
+    "id": 4570,
+    "votos": 20,
+    "candidato": "Lasso Guillermo",
+    "value": 6.76
+  },
+  {
+    "parroquia": "GUAYZIMI",
+    "id": 5520,
+    "votos": 441,
+    "candidato": "Lasso Guillermo",
+    "value": 25.19
+  }
+]

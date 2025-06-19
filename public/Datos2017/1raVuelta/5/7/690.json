@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "CURTINCAPAC",
+    "id": 740,
+    "votos": 1,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.26
+  },
+  {
+    "parroquia": "SALATI",
+    "id": 3275,
+    "votos": 2,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.33
+  },
+  {
+    "parroquia": "MORALES",
+    "id": 4520,
+    "votos": 2,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.43
+  },
+  {
+    "parroquia": "PORTOVELO",
+    "id": 5850,
+    "votos": 19,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.27
+  }
+]

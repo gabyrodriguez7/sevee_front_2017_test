@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "LA JOYA DE LOS SACHAS",
+        "id": 6200,
+        "votos": 2822,
+        "candidato": "Rafael Correa Delgado",
+        "value": 29.1
+    },
+    {
+        "parroquia": "SAN SEBASTIAN DE COCA",
+        "id": 3660,
+        "votos": 369,
+        "candidato": "Rafael Correa Delgado",
+        "value": 27.39
+    },
+    {
+        "parroquia": "POMPEYA",
+        "id": 2930,
+        "votos": 86,
+        "candidato": "Rafael Correa Delgado",
+        "value": 19.46
+    },
+    {
+        "parroquia": "UNION MILAGREÑA",
+        "id": 1965,
+        "votos": 157,
+        "candidato": "Rafael Correa Delgado",
+        "value": 19.22
+    },
+    {
+        "parroquia": "LAGO SAN PEDRO",
+        "id": 1960,
+        "votos": 175,
+        "candidato": "Rafael Correa Delgado",
+        "value": 30.76
+    },
+    {
+        "parroquia": "TRES DE NOVIEMBRE",
+        "id": 1955,
+        "votos": 236,
+        "candidato": "Rafael Correa Delgado",
+        "value": 21.77
+    },
+    {
+        "parroquia": "RUMIPAMBA",
+        "id": 1950,
+        "votos": 176,
+        "candidato": "Rafael Correa Delgado",
+        "value": 42.62
+    },
+    {
+        "parroquia": "ENOKANQUI",
+        "id": 490,
+        "votos": 270,
+        "candidato": "Rafael Correa Delgado",
+        "value": 32.85
+    },
+    {
+        "parroquia": "SAN CARLOS",
+        "id": 415,
+        "votos": 269,
+        "candidato": "Rafael Correa Delgado",
+        "value": 27.37
+    }
+]

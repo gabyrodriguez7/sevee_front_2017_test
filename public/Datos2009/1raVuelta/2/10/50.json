@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "PIMAMPIRO",
+        "id": 5750,
+        "votos": 19,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.3
+    },
+    {
+        "parroquia": "SAN FRANCISCO DE SIGSIPAMBA",
+        "id": 3415,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.5
+    },
+    {
+        "parroquia": "MARIANO ACOSTA",
+        "id": 2380,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.3
+    },
+    {
+        "parroquia": "CHUGA",
+        "id": 955,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.5
+    }
+]

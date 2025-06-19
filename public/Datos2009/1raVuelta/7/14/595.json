@@ -1,0 +1,72 @@
+[
+  {
+    "parroquia": "MERCEDES MOLINA",
+    "id": 5655,
+    "votos": 3,
+    "candidato": "Alvaro Noboa",
+    "value": 1.61
+  },
+  {
+    "parroquia": "GUALAQUIZA",
+    "id": 5425,
+    "votos": 60,
+    "candidato": "Alvaro Noboa",
+    "value": 1.45
+  },
+  {
+    "parroquia": "SAN MIGUEL DE CUYES",
+    "id": 3580,
+    "votos": 1,
+    "candidato": "Alvaro Noboa",
+    "value": 1.35
+  },
+  {
+    "parroquia": "ROSARIO",
+    "id": 3225,
+    "votos": 1,
+    "candidato": "Alvaro Noboa",
+    "value": 0.41
+  },
+  {
+    "parroquia": "NUEVA TARQUI",
+    "id": 2565,
+    "votos": 5,
+    "candidato": "Alvaro Noboa",
+    "value": 1.42
+  },
+  {
+    "parroquia": "EL IDEAL",
+    "id": 1910,
+    "votos": 3,
+    "candidato": "Alvaro Noboa",
+    "value": 1.41
+  },
+  {
+    "parroquia": "CHIGUINDA",
+    "id": 880,
+    "votos": 1,
+    "candidato": "Alvaro Noboa",
+    "value": 0.42
+  },
+  {
+    "parroquia": "BOMBOIZA",
+    "id": 350,
+    "votos": 15,
+    "candidato": "Alvaro Noboa",
+    "value": 1.48
+  },
+  {
+    "parroquia": "BERMEJOS",
+    "id": 340,
+    "votos": 0,
+    "candidato": "Alvaro Noboa",
+    "value": 0.0
+  },
+  {
+    "parroquia": "AMAZONAS",
+    "id": 90,
+    "votos": 3,
+    "candidato": "Alvaro Noboa",
+    "value": 4.35
+  }
+]

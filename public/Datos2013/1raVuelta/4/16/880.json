@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN JOSE",
+        "id": 2100,
+        "votos": 25,
+        "candidato": "Acosta Alberto",
+        "value": 5.0
+    },
+    {
+        "parroquia": "SANTA CLARA",
+        "id": 6395,
+        "votos": 151,
+        "candidato": "Acosta Alberto",
+        "value": 6.7
+    }
+]

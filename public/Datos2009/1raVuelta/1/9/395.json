@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "YAGUACHI NUEVO",
+        "id": 6285,
+        "votos": 300,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.25
+    },
+    {
+        "parroquia": "YAGUACHI VIEJO/CONE",
+        "id": 4275,
+        "votos": 24,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 0.89
+    },
+    {
+        "parroquia": "VIRGEN DE FATIMA",
+        "id": 1915,
+        "votos": 73,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.42
+    },
+    {
+        "parroquia": "GRAL.PEDRO MONTERO",
+        "id": 1340,
+        "votos": 80,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.15
+    }
+]

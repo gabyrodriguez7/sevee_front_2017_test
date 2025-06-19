@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "ALOAG",
+        "id": 55,
+        "votos": 19,
+        "candidato": "Zavala Nelson",
+        "value": 0.356
+    },
+    {
+        "parroquia": "ALOASI",
+        "id": 60,
+        "votos": 15,
+        "candidato": "Zavala Nelson",
+        "value": 0.436
+    },
+    {
+        "parroquia": "CORNEJO ASTORGA /TANDAPI",
+        "id": 650,
+        "votos": 14,
+        "candidato": "Zavala Nelson",
+        "value": 0.906
+    },
+    {
+        "parroquia": "CUTUGLAGUA",
+        "id": 755,
+        "votos": 60,
+        "candidato": "Zavala Nelson",
+        "value": 0.771307
+    },
+    {
+        "parroquia": "CHAUPI",
+        "id": 850,
+        "votos": 2,
+        "candidato": "Zavala Nelson",
+        "value": 0.2591
+    },
+    {
+        "parroquia": "TAMBILLO",
+        "id": 3960,
+        "votos": 24,
+        "candidato": "Zavala Nelson",
+        "value": 0.4
+    },
+    {
+        "parroquia": "UYUMBICHO",
+        "id": 4155,
+        "votos": 1,
+        "candidato": "Zavala Nelson",
+        "value": 0.0
+    },
+    {
+        "parroquia": "MACHACHI",
+        "id": 5620,
+        "votos": 135,
+        "candidato": "Zavala Nelson",
+        "value": 1.0
+    }
+]

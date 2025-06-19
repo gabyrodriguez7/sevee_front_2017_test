@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "PALMA ROJA",
+    "id": 2720,
+    "votos": 430,
+    "candidato": "Lasso Guillermo",
+    "value": 26.57602
+  },
+  {
+    "parroquia": "PUERTO BOLIVAR",
+    "id": 3005,
+    "votos": 3,
+    "candidato": "Lasso Guillermo",
+    "value": 5.455
+  },
+  {
+    "parroquia": "PUERTO RODRIGUEZ",
+    "id": 3020,
+    "votos": 10,
+    "candidato": "Lasso Guillermo",
+    "value": 13.7
+  },
+  {
+    "parroquia": "SANTA ELENA",
+    "id": 3705,
+    "votos": 88,
+    "candidato": "Lasso Guillermo",
+    "value": 20.6
+  },
+  {
+    "parroquia": "EL CARMEN DE PUTUMAYO",
+    "id": 6500,
+    "votos": 631,
+    "candidato": "Lasso Guillermo",
+    "value": 38.4
+  }
+]

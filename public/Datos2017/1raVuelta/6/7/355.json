@@ -1,0 +1,86 @@
+[
+  {
+    "parroquia": "BELLAVISTA",
+    "id": 325,
+    "votos": 6,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.36
+  },
+  {
+    "parroquia": "BELLAMARÍA",
+    "id": 1665,
+    "votos": 3,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.34
+  },
+  {
+    "parroquia": "JAMBELÍ",
+    "id": 1815,
+    "votos": 1,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.24
+  },
+  {
+    "parroquia": "LA AVANZADA",
+    "id": 2005,
+    "votos": 6,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.43
+  },
+  {
+    "parroquia": "SAN ANTONIO",
+    "id": 3330,
+    "votos": 1,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.14
+  },
+  {
+    "parroquia": "VICTORIA",
+    "id": 4215,
+    "votos": 6,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.46
+  },
+  {
+    "parroquia": "TORATA",
+    "id": 4525,
+    "votos": 1,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.09
+  },
+  {
+    "parroquia": "SANTA ROSA",
+    "id": 6060,
+    "votos": 145,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.39
+  },
+  {
+    "parroquia": "PUERTO JELI",
+    "id": 6670,
+    "votos": 0,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0
+  },
+  {
+    "parroquia": "BALNEARIO JAMBELÍ",
+    "id": 6900,
+    "votos": 0,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0
+  },
+  {
+    "parroquia": "JUMON",
+    "id": 6985,
+    "votos": 2,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.47
+  },
+  {
+    "parroquia": "NUEVO SANTA ROSA",
+    "id": 6990,
+    "votos": 1,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.15
+  }
+]

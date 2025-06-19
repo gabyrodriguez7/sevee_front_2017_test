@@ -1,0 +1,57 @@
+[
+            {
+                "candidato1": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+                "candidato2": "MORENO GARCES LENIN BOLTAIRE",
+                "id": 2085,
+                "votos": 548,
+                "votos1": 282,
+                "votos2": 266,
+                "fill": "#062e81",
+                "porcentaje1": 51.46,
+                "porcentaje2": 48.54
+            },
+            {
+                "candidato1": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+                "candidato2": "MORENO GARCES LENIN BOLTAIRE",
+                "id": 2145,
+                "votos": 723,
+                "votos1": 477,
+                "votos2": 246,
+                "fill": "#062e81",
+                "porcentaje1": 65.98,
+                "porcentaje2": 34.02
+            },
+            {
+                "candidato1": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+                "candidato2": "MORENO GARCES LENIN BOLTAIRE",
+                "id": 3265,
+                "votos": 476,
+                "votos1": 271,
+                "votos2": 205,
+                "fill": "#062e81",
+                "porcentaje1": 56.93,
+                "porcentaje2": 43.07
+            },
+            {
+                "candidato1": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+                "candidato2": "MORENO GARCES LENIN BOLTAIRE",
+                "id": 5385,
+                "votos": 1017,
+                "votos1": 633,
+                "votos2": 384,
+                "fill": "#062e81",
+                "porcentaje1": 62.24,
+                "porcentaje2": 37.76
+            },
+            {
+                "candidato1": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+                "candidato2": "MORENO GARCES LENIN BOLTAIRE",
+                "id": 5680,
+                "votos": 9116,
+                "votos1": 5569,
+                "votos2": 3547,
+                "fill": "#062e81",
+                "porcentaje1": 61.09,
+                "porcentaje2": 38.91
+            }
+        ]

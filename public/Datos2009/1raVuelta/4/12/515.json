@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "EL SALTO",
+        "id": 6835,
+        "votos": 82,
+        "candidato": "Rafael Correa Delgado",
+        "value": 22.84
+    },
+    {
+        "parroquia": "BARREIRO /SANTA RITA",
+        "id": 6830,
+        "votos": 2005,
+        "candidato": "Rafael Correa Delgado",
+        "value": 48.57
+    },
+    {
+        "parroquia": "DR. CAMILO PONCE E.",
+        "id": 5285,
+        "votos": 8046,
+        "candidato": "Rafael Correa Delgado",
+        "value": 43.4
+    },
+    {
+        "parroquia": "CLEMENTE BAQUERIZO",
+        "id": 5215,
+        "votos": 13696,
+        "candidato": "Rafael Correa Delgado",
+        "value": 43.21
+    },
+    {
+        "parroquia": "PIMOCHA",
+        "id": 2875,
+        "votos": 4010,
+        "candidato": "Rafael Correa Delgado",
+        "value": 63.8
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 1525,
+        "votos": 2247,
+        "candidato": "Rafael Correa Delgado",
+        "value": 54.59
+    },
+    {
+        "parroquia": "FEBRES CORDERO",
+        "id": 1265,
+        "votos": 3394,
+        "candidato": "Rafael Correa Delgado",
+        "value": 51.49
+    },
+    {
+        "parroquia": "CARACOL",
+        "id": 520,
+        "votos": 1235,
+        "candidato": "Rafael Correa Delgado",
+        "value": 61.16
+    }
+]

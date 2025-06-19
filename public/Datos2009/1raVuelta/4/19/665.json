@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "28 DE MAYO",
+        "id": 6215,
+        "votos": 732,
+        "candidato": "Rafael Correa Delgado",
+        "value": 53.04
+    },
+    {
+        "parroquia": "TUTUPALI",
+        "id": 4105,
+        "votos": 134,
+        "candidato": "Rafael Correa Delgado",
+        "value": 56.78
+    },
+    {
+        "parroquia": "LA PAZ",
+        "id": 2070,
+        "votos": 301,
+        "candidato": "Rafael Correa Delgado",
+        "value": 44.26
+    }
+]

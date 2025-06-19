@@ -1,0 +1,86 @@
+[
+  {
+    "parroquia": "DAYUMA",
+    "id": 1235,
+    "votos": 1597,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 35.89
+  },
+  {
+    "parroquia": "TARACOA",
+    "id": 1245,
+    "votos": 562,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 35.89
+  },
+  {
+    "parroquia": "EL DORADO",
+    "id": 1560,
+    "votos": 447,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 34.28
+  },
+  {
+    "parroquia": "INÉS ARANGO",
+    "id": 1565,
+    "votos": 817,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 45.26
+  },
+  {
+    "parroquia": "EL EDÉN",
+    "id": 1590,
+    "votos": 201,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 53.74
+  },
+  {
+    "parroquia": "GARCÍA MORENO",
+    "id": 1810,
+    "votos": 379,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 44.22
+  },
+  {
+    "parroquia": "LA BELLEZA",
+    "id": 1820,
+    "votos": 993,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 42.54
+  },
+  {
+    "parroquia": "SAN LUIS DE ARMENIA",
+    "id": 1935,
+    "votos": 489,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 41.9
+  },
+  {
+    "parroquia": "NUEVO PARAÍSO",
+    "id": 1940,
+    "votos": 403,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 27.49
+  },
+  {
+    "parroquia": "SAN JOSÉ DE GUAYUSA",
+    "id": 1945,
+    "votos": 342,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 32.02
+  },
+  {
+    "parroquia": "ALEJANDRO LABAKA",
+    "id": 1995,
+    "votos": 219,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 38.97
+  },
+  {
+    "parroquia": "PTO. FCO. DE ORELLANA",
+    "id": 5815,
+    "votos": 10380,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 38.27
+  }
+]

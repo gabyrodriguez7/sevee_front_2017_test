@@ -1,0 +1,16 @@
+[
+  {
+    "parroquia": "SANTA CLARA",
+    "id": 6395,
+    "votos": 14,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.75
+  },
+  {
+    "parroquia": "SAN JOSE",
+    "id": 2100,
+    "votos": 3,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.7
+  }
+]

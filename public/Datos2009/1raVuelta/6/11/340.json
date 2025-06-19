@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "AMALUZA",
+        "id": 5020,
+        "votos": 15,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.56
+    },
+    {
+        "parroquia": "27 DE ABRIL /LA NARANJA",
+        "id": 4460,
+        "votos": 2,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.27
+    },
+    {
+        "parroquia": "SANTA TERESITA",
+        "id": 3765,
+        "votos": 3,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.57
+    },
+    {
+        "parroquia": "JIMBURA",
+        "id": 1845,
+        "votos": 8,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.23
+    },
+    {
+        "parroquia": "EL AIRO",
+        "id": 1645,
+        "votos": 3,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.89
+    },
+    {
+        "parroquia": "EL INGENIO",
+        "id": 790,
+        "votos": 5,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.87
+    },
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 320,
+        "votos": 7,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.92
+    }
+]

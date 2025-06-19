@@ -1,0 +1,121 @@
+[
+    {
+        "parroquia": "CHUQUIRIBAMBA",
+        "id": 975,
+        "votos": 77,
+        "candidato": "Noboa Alvaro",
+        "value": 5.0658
+    },
+    {
+        "parroquia": "EL CISNE",
+        "id": 1135,
+        "votos": 44,
+        "candidato": "Noboa Alvaro",
+        "value": 4.8
+    },
+    {
+        "parroquia": "GUALEL",
+        "id": 1405,
+        "votos": 23,
+        "candidato": "Noboa Alvaro",
+        "value": 2.14753
+    },
+    {
+        "parroquia": "QUINARA",
+        "id": 1780,
+        "votos": 39,
+        "candidato": "Noboa Alvaro",
+        "value": 5.432
+    },
+    {
+        "parroquia": "JIMBILLA",
+        "id": 1840,
+        "votos": 33,
+        "candidato": "Noboa Alvaro",
+        "value": 4.8
+    },
+    {
+        "parroquia": "MALACATOS/VALLADOLID",
+        "id": 2325,
+        "votos": 198,
+        "candidato": "Noboa Alvaro",
+        "value": 4.662
+    },
+    {
+        "parroquia": "SAN LUCAS",
+        "id": 3555,
+        "votos": 90,
+        "candidato": "Noboa Alvaro",
+        "value": 3.675
+    },
+    {
+        "parroquia": "SANTIAGO",
+        "id": 3770,
+        "votos": 30,
+        "candidato": "Noboa Alvaro",
+        "value": 3.0
+    },
+    {
+        "parroquia": "TAQUIL /MIGUEL RIOFRIO",
+        "id": 3970,
+        "votos": 113,
+        "candidato": "Noboa Alvaro",
+        "value": 6.7
+    },
+    {
+        "parroquia": "VILCABAMBA/VICTORIA",
+        "id": 4235,
+        "votos": 105,
+        "candidato": "Noboa Alvaro",
+        "value": 3.5461
+    },
+    {
+        "parroquia": "YANGANA / ARSENIO CASTILLO",
+        "id": 4280,
+        "votos": 32,
+        "candidato": "Noboa Alvaro",
+        "value": 3.354
+    },
+    {
+        "parroquia": "CHANTACO",
+        "id": 4475,
+        "votos": 36,
+        "candidato": "Noboa Alvaro",
+        "value": 5.1
+    },
+    {
+        "parroquia": "SAN PEDRO DE VILCABAMBA",
+        "id": 4540,
+        "votos": 10,
+        "candidato": "Noboa Alvaro",
+        "value": 2.0
+    },
+    {
+        "parroquia": "EL SAGRARIO",
+        "id": 5320,
+        "votos": 565,
+        "candidato": "Noboa Alvaro",
+        "value": 3.3349
+    },
+    {
+        "parroquia": "SAN SEBASTIAN",
+        "id": 6015,
+        "votos": 840,
+        "candidato": "Noboa Alvaro",
+        "value": 3.65
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 6100,
+        "votos": 2196,
+        "candidato": "Noboa Alvaro",
+        "value": 5.0
+    },
+    {
+        "parroquia": "VALLE",
+        "id": 6210,
+        "votos": 1693,
+        "candidato": "Noboa Alvaro",
+        "value": 6.1
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "SANTA MARIANITA",
+        "id": 1800,
+        "votos": 13,
+        "candidato": "Zavala Nelson",
+        "value": 0.9299
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 3550,
+        "votos": 4,
+        "candidato": "Zavala Nelson",
+        "value": 0.23175
+    },
+    {
+        "parroquia": "LOS ESTEROS",
+        "id": 5570,
+        "votos": 148,
+        "candidato": "Zavala Nelson",
+        "value": 0.983
+    },
+    {
+        "parroquia": "MANTA",
+        "id": 5635,
+        "votos": 471,
+        "candidato": "Zavala Nelson",
+        "value": 0.9
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 6135,
+        "votos": 13,
+        "candidato": "Zavala Nelson",
+        "value": 0.6
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 6155,
+        "votos": 471,
+        "candidato": "Zavala Nelson",
+        "value": 0.9
+    },
+    {
+        "parroquia": "ELOY ALFARO",
+        "id": 6745,
+        "votos": 165,
+        "candidato": "Zavala Nelson",
+        "value": 1.01
+    }
+]

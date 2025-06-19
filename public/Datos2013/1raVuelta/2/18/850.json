@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "PINGUILI",
+        "id": 4555,
+        "votos": 18,
+        "candidato": "Noboa Alvaro",
+        "value": 3.6
+    },
+    {
+        "parroquia": "MOCHA",
+        "id": 6560,
+        "votos": 168,
+        "candidato": "Noboa Alvaro",
+        "value": 3.75
+    }
+]

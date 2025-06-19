@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "BELLAVISTA",
+    "id": 330,
+    "votos": 750,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 24.06
+  },
+  {
+    "parroquia": "ARQ.SIXTO DURÁN BALLÉN",
+    "id": 1570,
+    "votos": 584,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 33.09
+  },
+  {
+    "parroquia": "NOBOA",
+    "id": 2555,
+    "votos": 1515,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 33.79
+  },
+  {
+    "parroquia": "SUCRE",
+    "id": 6105,
+    "votos": 3485,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 30.56
+  }
+]

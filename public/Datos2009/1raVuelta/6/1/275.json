@@ -1,0 +1,58 @@
+[
+                {
+                    "parroquia": "PAUTE",
+                    "id": 5775,
+                    "votos": 41,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 0.58
+                },
+                {
+                    "parroquia": "EL CABO",
+                    "id": 4565,
+                    "votos": 8,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 1.27
+                },
+                {
+                    "parroquia": "TOMEBAMBA",
+                    "id": 4050,
+                    "votos": 4,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 0.83
+                },
+                {
+                    "parroquia": "SAN CRISTOBAL",
+                    "id": 3375,
+                    "votos": 5,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 0.67
+                },
+                {
+                    "parroquia": "GUARAINAC",
+                    "id": 1455,
+                    "votos": 4,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 0.78
+                },
+                {
+                    "parroquia": "DUG-DUG",
+                    "id": 890,
+                    "votos": 1,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 0.26
+                },
+                {
+                    "parroquia": "CHICAN / GUILLERMO ORTEGA",
+                    "id": 870,
+                    "votos": 3,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 0.33
+                },
+                {
+                    "parroquia": "BULAN / J. VICTOR IZQUIERDO",
+                    "id": 395,
+                    "votos": 4,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 0.56
+                }
+            ]

@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "GONZANAMA",
+        "id": 5400,
+        "votos": 8,
+        "candidato": "Melba Jacome",
+        "value": 0.36
+    },
+    {
+        "parroquia": "SACAPALCA",
+        "id": 3270,
+        "votos": 7,
+        "candidato": "Melba Jacome",
+        "value": 0.93
+    },
+    {
+        "parroquia": "PURUNUMA /EGUIGUREN",
+        "id": 3045,
+        "votos": 2,
+        "candidato": "Melba Jacome",
+        "value": 0.35
+    },
+    {
+        "parroquia": "NAMBACOLA",
+        "id": 2520,
+        "votos": 11,
+        "candidato": "Melba Jacome",
+        "value": 0.64
+    },
+    {
+        "parroquia": "CHANGAIMINA /LA LIBERTAD",
+        "id": 825,
+        "votos": 9,
+        "candidato": "Melba Jacome",
+        "value": 0.74
+    }
+]

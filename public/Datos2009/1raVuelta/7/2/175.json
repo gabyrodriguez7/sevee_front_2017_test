@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "SAN MIGUEL",
+        "id": 5995,
+        "votos": 246,
+        "candidato": "Alvaro Noboa",
+        "value": 3.26
+    },
+    {
+        "parroquia": "REGULO DE MORA",
+        "id": 4515,
+        "votos": 13,
+        "candidato": "Alvaro Noboa",
+        "value": 3.18
+    },
+    {
+        "parroquia": "SAN VICENTE",
+        "id": 3900,
+        "votos": 11,
+        "candidato": "Alvaro Noboa",
+        "value": 2.34
+    },
+    {
+        "parroquia": "SANTIAGO",
+        "id": 3775,
+        "votos": 26,
+        "candidato": "Alvaro Noboa",
+        "value": 2.69
+    },
+    {
+        "parroquia": "SAN PABLO DE ATENAS",
+        "id": 3595,
+        "votos": 54,
+        "candidato": "Alvaro Noboa",
+        "value": 1.96
+    },
+    {
+        "parroquia": "BILOVAN",
+        "id": 345,
+        "votos": 33,
+        "candidato": "Alvaro Noboa",
+        "value": 3.13
+    },
+    {
+        "parroquia": "BALZAPAMBA",
+        "id": 275,
+        "votos": 43,
+        "candidato": "Alvaro Noboa",
+        "value": 2.51
+    }
+]

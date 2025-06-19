@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "LA AURORA",
+    "id": 6850,
+    "votos": 435,
+    "candidato": "Lucio Gutierrez",
+    "value": 32.58
+  },
+  {
+    "parroquia": "DAULE",
+    "id": 5275,
+    "votos": 17589,
+    "candidato": "Lucio Gutierrez",
+    "value": 36.56
+  },
+  {
+    "parroquia": "EL LAUREL",
+    "id": 4500,
+    "votos": 1088,
+    "candidato": "Lucio Gutierrez",
+    "value": 41.92
+  },
+  {
+    "parroquia": "LAS LOJAS",
+    "id": 2105,
+    "votos": 551,
+    "candidato": "Lucio Gutierrez",
+    "value": 32.62
+  },
+  {
+    "parroquia": "JUAN BAUTISTA AGUIRRE",
+    "id": 1855,
+    "votos": 631,
+    "candidato": "Lucio Gutierrez",
+    "value": 37.69
+  },
+  {
+    "parroquia": "LIMONAL",
+    "id": 260,
+    "votos": 332,
+    "candidato": "Lucio Gutierrez",
+    "value": 35.81
+  }
+]

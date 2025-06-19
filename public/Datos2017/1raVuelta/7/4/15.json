@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "EL GOALTAL / LAS JUNTAS",
+    "id": 1150,
+    "votos": 10,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.61
+  },
+  {
+    "parroquia": "LA LIBERTAD",
+    "id": 2040,
+    "votos": 82,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.03
+  },
+  {
+    "parroquia": "SAN ISIDRO",
+    "id": 3435,
+    "votos": 84,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.74
+  },
+  {
+    "parroquia": "EL ÁNGEL",
+    "id": 5295,
+    "votos": 77,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.11
+  },
+  {
+    "parroquia": "27 DE SEPTIEMBRE",
+    "id": 6250,
+    "votos": 37,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.44
+  }
+]

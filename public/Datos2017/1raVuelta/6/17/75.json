@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "LA ESPERANZA",
+    "id": 2025,
+    "votos": 21,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.04
+  },
+  {
+    "parroquia": "MALCHINGUÍ",
+    "id": 2330,
+    "votos": 37,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.26
+  },
+  {
+    "parroquia": "TOCACHI",
+    "id": 4045,
+    "votos": 4,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.37
+  },
+  {
+    "parroquia": "TUPIGACHI",
+    "id": 4090,
+    "votos": 19,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.75
+  },
+  {
+    "parroquia": "TABACUNDO",
+    "id": 6145,
+    "votos": 110,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.96
+  }
+]

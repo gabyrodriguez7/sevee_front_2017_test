@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "ASCAZUBI",
+        "id": 165,
+        "votos": 48,
+        "candidato": "Acosta Alberto",
+        "value": 1.76406
+    },
+    {
+        "parroquia": "CANGAHUA",
+        "id": 480,
+        "votos": 1181,
+        "candidato": "Acosta Alberto",
+        "value": 18.11072
+    },
+    {
+        "parroquia": "OLMEDO/PESILLO",
+        "id": 2600,
+        "votos": 378,
+        "candidato": "Acosta Alberto",
+        "value": 9.12
+    },
+    {
+        "parroquia": "OTON",
+        "id": 2635,
+        "votos": 55,
+        "candidato": "Acosta Alberto",
+        "value": 3.6
+    },
+    {
+        "parroquia": "STA.ROSA DE CUSUBAMBA",
+        "id": 3735,
+        "votos": 31,
+        "candidato": "Acosta Alberto",
+        "value": 1.6
+    },
+    {
+        "parroquia": "SAN JOSE DE AYORA",
+        "id": 4620,
+        "votos": 246,
+        "candidato": "Acosta Alberto",
+        "value": 6.153
+    },
+    {
+        "parroquia": "CAYAMBE",
+        "id": 5190,
+        "votos": 1256,
+        "candidato": "Acosta Alberto",
+        "value": 4.675
+    },
+    {
+        "parroquia": "JUAN MONTALVO",
+        "id": 5495,
+        "votos": 144,
+        "candidato": "Acosta Alberto",
+        "value": 7.559
+    }
+]

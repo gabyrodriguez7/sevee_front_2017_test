@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "ANTONIO J. HOLGUIN",
+        "id": 135,
+        "votos": 42,
+        "candidato": "Wray Norman",
+        "value": 2.0
+    },
+    {
+        "parroquia": "CUSUBAMBA",
+        "id": 745,
+        "votos": 56,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "MULALILLO",
+        "id": 2475,
+        "votos": 48,
+        "candidato": "Wray Norman",
+        "value": 1.2
+    },
+    {
+        "parroquia": "MULLIQUINDIL",
+        "id": 2490,
+        "votos": 66,
+        "candidato": "Wray Norman",
+        "value": 1.54
+    },
+    {
+        "parroquia": "PANZALEO",
+        "id": 2760,
+        "votos": 44,
+        "candidato": "Wray Norman",
+        "value": 2.22
+    },
+    {
+        "parroquia": "SAN MIGUEL DE SALCEDO",
+        "id": 6000,
+        "votos": 340,
+        "candidato": "Wray Norman",
+        "value": 2.0
+    }
+]

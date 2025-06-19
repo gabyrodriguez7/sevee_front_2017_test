@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "CAPIRO",
+        "id": 505,
+        "votos": 6,
+        "candidato": "Wray Norman",
+        "value": 0.671892
+    },
+    {
+        "parroquia": "SARACAY",
+        "id": 1385,
+        "votos": 5,
+        "candidato": "Wray Norman",
+        "value": 0.55493896
+    },
+    {
+        "parroquia": "LA BOCANA",
+        "id": 2230,
+        "votos": 5,
+        "candidato": "Wray Norman",
+        "value": 0.7
+    },
+    {
+        "parroquia": "MOROMORO",
+        "id": 2465,
+        "votos": 10,
+        "candidato": "Wray Norman",
+        "value": 1.2
+    },
+    {
+        "parroquia": "PIEDRAS",
+        "id": 2850,
+        "votos": 3,
+        "candidato": "Wray Norman",
+        "value": 0.680272
+    },
+    {
+        "parroquia": "SAN ROQUE",
+        "id": 3650,
+        "votos": 4,
+        "candidato": "Wray Norman",
+        "value": 0.9217
+    },
+    {
+        "parroquia": "PIÑAS",
+        "id": 5790,
+        "votos": 147,
+        "candidato": "Wray Norman",
+        "value": 1.256303
+    },
+    {
+        "parroquia": "PIÑAS GRANDE",
+        "id": 6675,
+        "votos": 0,
+        "candidato": "Wray Norman",
+        "value": 0.0
+    },
+    {
+        "parroquia": "LA SUSAYA",
+        "id": 6680,
+        "votos": 1,
+        "candidato": "Wray Norman",
+        "value": 1.075269
+    }
+]

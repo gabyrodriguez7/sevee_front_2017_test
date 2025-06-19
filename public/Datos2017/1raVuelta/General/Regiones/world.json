@@ -1,0 +1,798 @@
+[
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": "11",
+        "votos": 710,
+        "votos1": 253,
+        "votos2": 190,
+        "fill": "#1eff00",
+        "porcentaje1": "(0.78)%",
+        "porcentaje2": "(1.60)%",
+        "aux": "votos"
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": "31",
+        "votos": 93,
+        "votos1": 41,
+        "votos2": 24,
+        "fill": "#1eff00",
+        "porcentaje1": "(0.13)%",
+        "porcentaje2": "(0.20)%",
+        "aux": "votos"
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": "41",
+        "votos": 178,
+        "votos1": 67,
+        "votos2": 54,
+        "fill": "#1eff00",
+        "porcentaje1": "(0.21)%",
+        "porcentaje2": "(0.46)%",
+        "aux": "votos"
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "VITERI JIMENEZ CYNTHIA FERNANDA",
+        "id": "51",
+        "votos": 1141,
+        "votos1": 636,
+        "votos2": 173,
+        "fill": "#1eff00",
+        "porcentaje1": "(1.96)%",
+        "porcentaje2": "(0.98)%",
+        "aux": "votos"
+    },
+    {
+        "candidato1": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "candidato2": "MORENO GARCES LENIN BOLTAIRE",
+        "id": "101",
+        "votos": 77,
+        "votos1": 30,
+        "votos2": 25,
+        "fill": "#062e81",
+        "porcentaje1": "(0.25)%",
+        "porcentaje2": "(0.08)%",
+        "aux": "votos"
+    },
+    {
+        "candidato1": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "candidato2": "MORENO GARCES LENIN BOLTAIRE",
+        "id": "141",
+        "votos": 123,
+        "votos1": 46,
+        "votos2": 37,
+        "fill": "#062e81",
+        "porcentaje1": "(0.39)%",
+        "porcentaje2": "(0.11)%",
+        "aux": "votos"
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "VITERI JIMENEZ CYNTHIA FERNANDA",
+        "id": "171",
+        "votos": 48868,
+        "votos1": 22202,
+        "votos2": 9879,
+        "fill": "#1eff00",
+        "porcentaje1": "(68.36)%",
+        "porcentaje2": "(56.24)%",
+        "aux": "votos"
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": "191",
+        "votos": 870,
+        "votos1": 342,
+        "votos2": 193,
+        "fill": "#1eff00",
+        "porcentaje1": "(1.05)%",
+        "porcentaje2": "(1.63)%",
+        "aux": "votos"
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": "201",
+        "votos": 2175,
+        "votos1": 1163,
+        "votos2": 352,
+        "fill": "#1eff00",
+        "porcentaje1": "(3.58)%",
+        "porcentaje2": "(2.97)%",
+        "aux": "votos"
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": "231",
+        "votos": 51,
+        "votos1": 29,
+        "votos2": 10,
+        "fill": "#1eff00",
+        "porcentaje1": "(0.09)%",
+        "porcentaje2": "(0.08)%",
+        "aux": "votos"
+    },
+    {
+        "candidato1": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "candidato2": "MORENO GARCES LENIN BOLTAIRE",
+        "id": "242",
+        "votos": 11,
+        "votos1": 6,
+        "votos2": 3,
+        "fill": "#062e81",
+        "porcentaje1": "(0.05)%",
+        "porcentaje2": "(0.01)%",
+        "aux": "votos"
+    },
+    {
+        "candidato1": "VITERI JIMENEZ CYNTHIA FERNANDA",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": "251",
+        "votos": 73,
+        "votos1": 26,
+        "votos2": 19,
+        "fill": "#980505",
+        "porcentaje1": "(0.15)%",
+        "porcentaje2": "(0.16)%",
+        "aux": "votos"
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "VITERI JIMENEZ CYNTHIA FERNANDA",
+        "id": "261",
+        "votos": 20118,
+        "votos1": 6925,
+        "votos2": 6623,
+        "fill": "#1eff00",
+        "porcentaje1": "(21.32)%",
+        "porcentaje2": "(37.71)%",
+        "aux": "votos"
+    },
+    {
+        "candidato1": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "candidato2": "MORENO GARCES LENIN BOLTAIRE",
+        "id": "271",
+        "votos": 23,
+        "votos1": 11,
+        "votos2": 7,
+        "fill": "#062e81",
+        "porcentaje1": "(0.09)%",
+        "porcentaje2": "(0.02)%",
+        "aux": "votos"
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": "301",
+        "votos": 313,
+        "votos1": 118,
+        "votos2": 95,
+        "fill": "#1eff00",
+        "porcentaje1": "(0.36)%",
+        "porcentaje2": "(0.80)%",
+        "aux": "votos"
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": "361",
+        "votos": 267,
+        "votos1": 169,
+        "votos2": 33,
+        "fill": "#1eff00",
+        "porcentaje1": "(0.52)%",
+        "porcentaje2": "(0.25)%",
+        "aux": "votos"
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": "371",
+        "votos": 737,
+        "votos1": 356,
+        "votos2": 169,
+        "fill": "#1eff00",
+        "porcentaje1": "(1.10)%",
+        "porcentaje2": "(1.43)%",
+        "aux": "votos"
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": "381",
+        "votos": 139,
+        "votos1": 76,
+        "votos2": 36,
+        "fill": "#1eff00",
+        "porcentaje1": "(0.23)%",
+        "porcentaje2": "(0.30)%",
+        "aux": "votos"
+    },
+    {
+        "candidato1": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "candidato2": "MORENO GARCES LENIN BOLTAIRE",
+        "id": "411",
+        "votos": 1,
+        "votos1": 1,
+        "votos2": 0,
+        "fill": "#062e81",
+        "porcentaje1": "(0.01)%",
+        "porcentaje2": "(0.00)%",
+        "aux": "votos"
+    },
+    {
+        "candidato1": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "candidato2": "MORENO GARCES LENIN BOLTAIRE",
+        "id": "421",
+        "votos": 5,
+        "votos1": 2,
+        "votos2": 2,
+        "fill": "#062e81",
+        "porcentaje1": "(0.02)%",
+        "porcentaje2": "(0.01)%",
+        "aux": "votos"
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "BUCARAM PULLEY ABDALA JAIME",
+        "id": "461",
+        "votos": 1,
+        "votos1": 1,
+        "votos2": 0,
+        "fill": "#1eff00",
+        "porcentaje1": "(0.00)%",
+        "porcentaje2": "(0.00)%",
+        "aux": "votos"
+    },
+    {
+        "candidato1": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "candidato2": "MORENO GARCES LENIN BOLTAIRE",
+        "id": "471",
+        "votos": 13,
+        "votos1": 10,
+        "votos2": 2,
+        "fill": "#062e81",
+        "porcentaje1": "(0.08)%",
+        "porcentaje2": "(0.01)%",
+        "aux": "votos"
+    },
+    {
+        "candidato1": "VITERI JIMENEZ CYNTHIA FERNANDA",
+        "candidato2": "MORENO GARCES LENIN BOLTAIRE",
+        "id": "491",
+        "votos": 44,
+        "votos1": 15,
+        "votos2": 11,
+        "fill": "#980505",
+        "porcentaje1": "(0.09)%",
+        "porcentaje2": "(0.03)%",
+        "aux": "votos"
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": "81",
+        "votos": 2150,
+        "votos1": 979,
+        "votos2": 609,
+        "fill": "#1eff00",
+        "porcentaje1": "(8.67)%",
+        "porcentaje2": "(7.29)%",
+        "aux": "votos"
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": "181",
+        "votos": 26872,
+        "votos1": 10318,
+        "votos2": 7743,
+        "fill": "#1eff00",
+        "porcentaje1": "(91.33)%",
+        "porcentaje2": "(92.71)%",
+        "aux": "votos"
+    },
+    {
+        "candidato1": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "candidato2": "MORENO GARCES LENIN BOLTAIRE",
+        "id": "21",
+        "votos": 661,
+        "votos1": 250,
+        "votos2": 174,
+        "fill": "#062e81",
+        "porcentaje1": "(6.05)%",
+        "porcentaje2": "(3.40)%",
+        "aux": "votos"
+    },
+    {
+        "candidato1": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "candidato2": "MORENO GARCES LENIN BOLTAIRE",
+        "id": "61",
+        "votos": 67,
+        "votos1": 32,
+        "votos2": 15,
+        "fill": "#062e81",
+        "porcentaje1": "(0.77)%",
+        "porcentaje2": "(0.29)%",
+        "aux": "votos"
+    },
+    {
+        "candidato1": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "candidato2": "MORENO GARCES LENIN BOLTAIRE",
+        "id": "71",
+        "votos": 253,
+        "votos1": 96,
+        "votos2": 88,
+        "fill": "#062e81",
+        "porcentaje1": "(2.32)%",
+        "porcentaje2": "(1.78)%",
+        "aux": "votos"
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": "91",
+        "votos": 1239,
+        "votos1": 559,
+        "votos2": 404,
+        "fill": "#1eff00",
+        "porcentaje1": "(10.91)%",
+        "porcentaje2": "(9.78)%",
+        "aux": "votos"
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": "111",
+        "votos": 278,
+        "votos1": 132,
+        "votos2": 73,
+        "fill": "#1eff00",
+        "porcentaje1": "(3.20)%",
+        "porcentaje2": "(1.43)%",
+        "aux": "votos"
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": "121",
+        "votos": 173,
+        "votos1": 123,
+        "votos2": 19,
+        "fill": "#1eff00",
+        "porcentaje1": "(2.40)%",
+        "porcentaje2": "(0.46)%",
+        "aux": "votos"
+    },
+    {
+        "candidato1": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "candidato2": "VITERI JIMENEZ CYNTHIA FERNANDA",
+        "id": "131",
+        "votos": 1830,
+        "votos1": 609,
+        "votos2": 488,
+        "fill": "#062e81",
+        "porcentaje1": "(14.74)%",
+        "porcentaje2": "(27.13)%",
+        "aux": "votos"
+    },
+    {
+        "candidato1": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "candidato2": "MORENO GARCES LENIN BOLTAIRE",
+        "id": "161",
+        "votos": 30,
+        "votos1": 13,
+        "votos2": 9,
+        "fill": "#062e81",
+        "porcentaje1": "(0.31)%",
+        "porcentaje2": "(0.18)%",
+        "aux": "votos"
+    },
+    {
+        "candidato1": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "candidato2": "MORENO GARCES LENIN BOLTAIRE",
+        "id": "211",
+        "votos": 71,
+        "votos1": 43,
+        "votos2": 17,
+        "fill": "#062e81",
+        "porcentaje1": "(1.04)%",
+        "porcentaje2": "(0.33)%",
+        "aux": "votos"
+    },
+    {
+        "candidato1": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "candidato2": "MORENO GARCES LENIN BOLTAIRE",
+        "id": "221",
+        "votos": 144,
+        "votos1": 76,
+        "votos2": 45,
+        "fill": "#062e81",
+        "porcentaje1": "(1.84)%",
+        "porcentaje2": "(0.88)%",
+        "aux": "votos"
+    },
+    {
+        "candidato1": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "candidato2": "MORENO GARCES LENIN BOLTAIRE",
+        "id": "281",
+        "votos": 349,
+        "votos1": 193,
+        "votos2": 82,
+        "fill": "#062e81",
+        "porcentaje1": "(4.67)%",
+        "porcentaje2": "(1.60)%",
+        "aux": "votos"
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": "291",
+        "votos": 33,
+        "votos1": 15,
+        "votos2": 12,
+        "fill": "#1eff00",
+        "porcentaje1": "(0.29)%",
+        "porcentaje2": "(0.29)%",
+        "aux": "votos"
+    },
+    {
+        "candidato1": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "candidato2": "MORENO GARCES LENIN BOLTAIRE",
+        "id": "312",
+        "votos": 291,
+        "votos1": 154,
+        "votos2": 49,
+        "fill": "#062e81",
+        "porcentaje1": "(3.73)%",
+        "porcentaje2": "(0.96)%",
+        "aux": "votos"
+    },
+    {
+        "candidato1": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "candidato2": "MORENO GARCES LENIN BOLTAIRE",
+        "id": "321",
+        "votos": 41,
+        "votos1": 22,
+        "votos2": 10,
+        "fill": "#062e81",
+        "porcentaje1": "(0.53)%",
+        "porcentaje2": "(0.20)%",
+        "aux": "votos"
+    },
+    {
+        "candidato1": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "candidato2": "VITERI JIMENEZ CYNTHIA FERNANDA",
+        "id": "331",
+        "votos": 446,
+        "votos1": 246,
+        "votos2": 79,
+        "fill": "#062e81",
+        "porcentaje1": "(5.95)%",
+        "porcentaje2": "(4.39)%",
+        "aux": "votos"
+    },
+    {
+        "candidato1": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "candidato2": "MORENO GARCES LENIN BOLTAIRE",
+        "id": "341",
+        "votos": 19,
+        "votos1": 12,
+        "votos2": 3,
+        "fill": "#062e81",
+        "porcentaje1": "(0.29)%",
+        "porcentaje2": "(0.06)%",
+        "aux": "votos"
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": "351",
+        "votos": 148,
+        "votos1": 58,
+        "votos2": 53,
+        "fill": "#1eff00",
+        "porcentaje1": "(1.13)%",
+        "porcentaje2": "(1.28)%",
+        "aux": "votos"
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": "391",
+        "votos": 84,
+        "votos1": 29,
+        "votos2": 27,
+        "fill": "#1eff00",
+        "porcentaje1": "(0.57)%",
+        "porcentaje2": "(0.65)%",
+        "aux": "votos"
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": "401",
+        "votos": 6210,
+        "votos1": 3250,
+        "votos2": 1730,
+        "fill": "#1eff00",
+        "porcentaje1": "(63.45)%",
+        "porcentaje2": "(41.88)%",
+        "aux": "votos"
+    },
+    {
+        "candidato1": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "candidato2": "MORENO GARCES LENIN BOLTAIRE",
+        "id": "441",
+        "votos": 14,
+        "votos1": 8,
+        "votos2": 3,
+        "fill": "#062e81",
+        "porcentaje1": "(0.19)%",
+        "porcentaje2": "(0.06)%",
+        "aux": "votos"
+    },
+    {
+        "id": "EC",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "SR",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "PR",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "NI",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "JM",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "HT",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "GY",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "GF",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "BZ",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "YE",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "VN",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "UZ",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "UA",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "TM",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "TH",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "SY",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "SG",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "RS",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "RO",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "CZ",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "PT",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "PL",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "PS",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "PK",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "OM",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "NO",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "MM",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "ME",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "RO",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "MN",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "MY",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "MK",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "LU",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "LT",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "LB",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "LV",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "LA",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "KW",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "KG",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "KZ",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "JO",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "JE",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "IE",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "IR",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "IQ",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "FI",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "PH",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "EE",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "SI",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "SK",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "AE",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "DK",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "HR",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "KP",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "KH",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "BA",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "AZ",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "AM",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "SA",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "AL",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "AF",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "MD",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "GR",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "BY",
+        "fill": "#ced4da"
+    }
+]

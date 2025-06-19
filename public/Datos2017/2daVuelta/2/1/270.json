@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "ASUNCIÓN",
+    "id": 175,
+    "votos": 750,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 45.21
+  },
+  {
+    "parroquia": "SAN GERARDO",
+    "id": 885,
+    "votos": 173,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 51.18
+  },
+  {
+    "parroquia": "GIRÓN",
+    "id": 5395,
+    "votos": 2467,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 38.38
+  }
+]

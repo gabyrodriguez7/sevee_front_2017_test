@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "SUMAYPAMBA",
+        "id": 310,
+        "votos": 22,
+        "candidato": "Noboa Alvaro",
+        "value": 4.1
+    },
+    {
+        "parroquia": "EL PARAISO DE CELEN",
+        "id": 1165,
+        "votos": 42,
+        "candidato": "Noboa Alvaro",
+        "value": 3.4855
+    },
+    {
+        "parroquia": "EL TABLON",
+        "id": 1190,
+        "votos": 13,
+        "candidato": "Noboa Alvaro",
+        "value": 3.7
+    },
+    {
+        "parroquia": "LLUZHAPA",
+        "id": 2280,
+        "votos": 24,
+        "candidato": "Noboa Alvaro",
+        "value": 2.98
+    },
+    {
+        "parroquia": "MANU",
+        "id": 2360,
+        "votos": 47,
+        "candidato": "Noboa Alvaro",
+        "value": 3.0
+    },
+    {
+        "parroquia": "SAN ANTONIO DE CUMBE",
+        "id": 3340,
+        "votos": 14,
+        "candidato": "Noboa Alvaro",
+        "value": 2.28
+    },
+    {
+        "parroquia": "SAN PABLO DE TENTA",
+        "id": 3600,
+        "votos": 41,
+        "candidato": "Noboa Alvaro",
+        "value": 2.56
+    },
+    {
+        "parroquia": "SAN SEBASTIAN DE YULOG",
+        "id": 3665,
+        "votos": 18,
+        "candidato": "Noboa Alvaro",
+        "value": 4.0
+    },
+    {
+        "parroquia": "SELVA ALEGRE",
+        "id": 3815,
+        "votos": 42,
+        "candidato": "Noboa Alvaro",
+        "value": 4.1
+    },
+    {
+        "parroquia": "URDANETA/PAQUISHAPA",
+        "id": 4145,
+        "votos": 66,
+        "candidato": "Noboa Alvaro",
+        "value": 3.4
+    },
+    {
+        "parroquia": "SARAGURO",
+        "id": 6075,
+        "votos": 142,
+        "candidato": "Noboa Alvaro",
+        "value": 2.5
+    }
+]

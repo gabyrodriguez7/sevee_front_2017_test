@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "BOLIVAR",
+        "id": 6520,
+        "votos": 9,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.29
+    },
+    {
+        "parroquia": "SAN VICENTE DE PUSIR",
+        "id": 3680,
+        "votos": 4,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.42
+    },
+    {
+        "parroquia": "MONTEOLIVO",
+        "id": 2455,
+        "votos": 0,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.0
+    },
+    {
+        "parroquia": "LOS ANDES",
+        "id": 2205,
+        "votos": 4,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.34
+    },
+    {
+        "parroquia": "GARCIA MORENO",
+        "id": 1315,
+        "votos": 2,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.19
+    },
+    {
+        "parroquia": "SAN RAFAEL",
+        "id": 1055,
+        "votos": 0,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.0
+    }
+]

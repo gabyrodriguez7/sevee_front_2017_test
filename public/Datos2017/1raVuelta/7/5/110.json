@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "ANTONIO J. HOLGUÍN",
+    "id": 135,
+    "votos": 33,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.83
+  },
+  {
+    "parroquia": "CUSUBAMBA",
+    "id": 745,
+    "votos": 68,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.6
+  },
+  {
+    "parroquia": "MULALILLO",
+    "id": 2475,
+    "votos": 69,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.6
+  },
+  {
+    "parroquia": "MULLIQUINDIL",
+    "id": 2490,
+    "votos": 96,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.1
+  },
+  {
+    "parroquia": "PANZALEO",
+    "id": 2760,
+    "votos": 41,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.91
+  },
+  {
+    "parroquia": "SAN MIGUEL DE SALCEDO",
+    "id": 6000,
+    "votos": 454,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.95
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "ALOAG",
+    "id": 55,
+    "votos": 238,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 4.46
+  },
+  {
+    "parroquia": "ALOASI",
+    "id": 60,
+    "votos": 90,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 2.617
+  },
+  {
+    "parroquia": "CORNEJO ASTORGA /TANDAPI",
+    "id": 650,
+    "votos": 68,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 4.401
+  },
+  {
+    "parroquia": "CUTUGLAGUA",
+    "id": 755,
+    "votos": 232,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 2.982388
+  },
+  {
+    "parroquia": "CHAUPI",
+    "id": 850,
+    "votos": 32,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 4.1451
+  },
+  {
+    "parroquia": "TAMBILLO",
+    "id": 3960,
+    "votos": 234,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 4.0
+  },
+  {
+    "parroquia": "UYUMBICHO",
+    "id": 4155,
+    "votos": 129,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 5.0
+  },
+  {
+    "parroquia": "MACHACHI",
+    "id": 5620,
+    "votos": 788,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 4.0
+  }
+]

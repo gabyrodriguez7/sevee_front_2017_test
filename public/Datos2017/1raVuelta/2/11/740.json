@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "FUNDOCHAMBA",
+    "id": 360,
+    "votos": 26,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.87
+  },
+  {
+    "parroquia": "SAN ANTONIO DE LAS ARADAS",
+    "id": 3345,
+    "votos": 96,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 14.22
+  },
+  {
+    "parroquia": "QUILANGA /LA PAZ",
+    "id": 6260,
+    "votos": 148,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.5
+  }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "SICALPA",
+        "id": 6080,
+        "votos": 187,
+        "candidato": "Alvaro Noboa",
+        "value": 3.81
+    },
+    {
+        "parroquia": "CAJABAMBA",
+        "id": 5145,
+        "votos": 206,
+        "candidato": "Alvaro Noboa",
+        "value": 3.49
+    },
+    {
+        "parroquia": "SANTIAGO DE QUITO",
+        "id": 4430,
+        "votos": 39,
+        "candidato": "Alvaro Noboa",
+        "value": 4.58
+    },
+    {
+        "parroquia": "JUAN DE VELASCO / PONGOR",
+        "id": 1865,
+        "votos": 33,
+        "candidato": "Alvaro Noboa",
+        "value": 2.94
+    },
+    {
+        "parroquia": "COLUMBE",
+        "id": 610,
+        "votos": 210,
+        "candidato": "Alvaro Noboa",
+        "value": 2.48
+    },
+    {
+        "parroquia": "CANI",
+        "id": 500,
+        "votos": 8,
+        "candidato": "Alvaro Noboa",
+        "value": 2.26
+    }
+]

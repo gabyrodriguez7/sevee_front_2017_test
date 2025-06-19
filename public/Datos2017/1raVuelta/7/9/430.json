@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "GRAL. VERNAZA",
+    "id": 1350,
+    "votos": 284,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 6.54
+  },
+  {
+    "parroquia": "JUNQUILLAL",
+    "id": 1595,
+    "votos": 373,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 7.74
+  },
+  {
+    "parroquia": "VICTORIA",
+    "id": 4220,
+    "votos": 123,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 4.91
+  },
+  {
+    "parroquia": "BOCANA",
+    "id": 5120,
+    "votos": 27,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 9.82
+  },
+  {
+    "parroquia": "CANDILEJOS",
+    "id": 5155,
+    "votos": 32,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 5.53
+  },
+  {
+    "parroquia": "SALITRE",
+    "id": 5200,
+    "votos": 1818,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 8.05
+  },
+  {
+    "parroquia": "PARAÍSO",
+    "id": 5765,
+    "votos": 6,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 4.92
+  },
+  {
+    "parroquia": "SAN MATEO",
+    "id": 5990,
+    "votos": 6,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 5.26
+  }
+]

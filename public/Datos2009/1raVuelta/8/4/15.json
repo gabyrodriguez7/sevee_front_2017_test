@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "27 DE SEPTIEMBRE",
+    "id": 6250,
+    "votos": 202,
+    "candidato": "Lucio Gutierrez",
+    "value": 27.74
+  },
+  {
+    "parroquia": "EL ANGEL",
+    "id": 5295,
+    "votos": 649,
+    "candidato": "Lucio Gutierrez",
+    "value": 21.56
+  },
+  {
+    "parroquia": "SAN ISIDRO",
+    "id": 3435,
+    "votos": 259,
+    "candidato": "Lucio Gutierrez",
+    "value": 13.08
+  },
+  {
+    "parroquia": "LA LIBERTAD",
+    "id": 2040,
+    "votos": 364,
+    "candidato": "Lucio Gutierrez",
+    "value": 16.15
+  },
+  {
+    "parroquia": "EL GOALTAL / LAS JUNTAS",
+    "id": 1150,
+    "votos": 126,
+    "candidato": "Lucio Gutierrez",
+    "value": 26.86
+  }
+]

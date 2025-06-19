@@ -1,0 +1,16 @@
+[
+  {
+    "parroquia": "SANTIAGO",
+    "id": 6890,
+    "votos": 17,
+    "candidato": "Alvaro Noboa",
+    "value": 1.4
+  },
+  {
+    "parroquia": "SAN JOSE DE MORONA",
+    "id": 1295,
+    "votos": 10,
+    "candidato": "Alvaro Noboa",
+    "value": 1.3
+  }
+]

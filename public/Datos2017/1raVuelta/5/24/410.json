@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "ATAHUALPA",
+    "id": 205,
+    "votos": 9,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.40322581
+  },
+  {
+    "parroquia": "COLONCHE",
+    "id": 605,
+    "votos": 85,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.45627785
+  },
+  {
+    "parroquia": "CHANDUY",
+    "id": 820,
+    "votos": 30,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.3254149
+  },
+  {
+    "parroquia": "SAN JOSÉ DE ANCÓN",
+    "id": 1300,
+    "votos": 14,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.4040404
+  },
+  {
+    "parroquia": "MANGLARALTO",
+    "id": 2355,
+    "votos": 93,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.50978457
+  },
+  {
+    "parroquia": "SIMÓN BOLÍVAR",
+    "id": 3915,
+    "votos": 13,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.71625344
+  },
+  {
+    "parroquia": "BALLENITA",
+    "id": 5130,
+    "votos": 12,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.80753701
+  },
+  {
+    "parroquia": "SANTA ELENA",
+    "id": 6040,
+    "votos": 140,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.36703982
+  }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "PENIPE",
+        "id": 5740,
+        "votos": 32,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.17
+    },
+    {
+        "parroquia": "SAN ANTONIO DE BAYUSHIG",
+        "id": 3335,
+        "votos": 23,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.29
+    },
+    {
+        "parroquia": "PUELA",
+        "id": 2975,
+        "votos": 10,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.05
+    },
+    {
+        "parroquia": "MATUS",
+        "id": 2400,
+        "votos": 4,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 0.66
+    },
+    {
+        "parroquia": "BILBAO",
+        "id": 1325,
+        "votos": 5,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 4.16
+    },
+    {
+        "parroquia": "EL ALTAR",
+        "id": 1110,
+        "votos": 10,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.28
+    },
+    {
+        "parroquia": "LA CANDELARIA",
+        "id": 925,
+        "votos": 12,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 6.7
+    }
+]

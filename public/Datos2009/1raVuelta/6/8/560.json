@@ -1,0 +1,93 @@
+[
+    {
+        "parroquia": "SIMON PLATA TORRES",
+        "id": 6905,
+        "votos": 4,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.95
+    },
+    {
+        "parroquia": "LUIS TELLO / LAS PALMAS /",
+        "id": 5600,
+        "votos": 31,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.57
+    },
+    {
+        "parroquia": "ESMERALDAS",
+        "id": 5335,
+        "votos": 167,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.7
+    },
+    {
+        "parroquia": "5 DE AGOSTO",
+        "id": 5210,
+        "votos": 168,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.79
+    },
+    {
+        "parroquia": "BARTOLOME RUIZ",
+        "id": 5205,
+        "votos": 89,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.63
+    },
+    {
+        "parroquia": "VUELTA LARGA",
+        "id": 4240,
+        "votos": 85,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.77
+    },
+    {
+        "parroquia": "TACHINA",
+        "id": 3940,
+        "votos": 5,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.32
+    },
+    {
+        "parroquia": "TABIAZO",
+        "id": 3930,
+        "votos": 5,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.49
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 3570,
+        "votos": 4,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.23
+    },
+    {
+        "parroquia": "MAJUA",
+        "id": 2320,
+        "votos": 4,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.66
+    },
+    {
+        "parroquia": "CHINCA",
+        "id": 895,
+        "votos": 6,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.56
+    },
+    {
+        "parroquia": "CRNL.CARLOS CONCHA TORRES",
+        "id": 655,
+        "votos": 2,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.42
+    },
+    {
+        "parroquia": "CAMARONES",
+        "id": 450,
+        "votos": 2,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.26
+    }
+]

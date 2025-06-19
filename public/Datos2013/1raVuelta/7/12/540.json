@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "LA ESPERANZA",
+        "id": 4420,
+        "votos": 21,
+        "candidato": "Zavala Nelson",
+        "value": 1.3092
+    },
+    {
+        "parroquia": "SAN CARLOS",
+        "id": 4425,
+        "votos": 61,
+        "candidato": "Zavala Nelson",
+        "value": 1.0081
+    },
+    {
+        "parroquia": "QUEVEDO",
+        "id": 5855,
+        "votos": 996,
+        "candidato": "Zavala Nelson",
+        "value": 1.5439
+    },
+    {
+        "parroquia": "SAN CAMILO",
+        "id": 6115,
+        "votos": 252,
+        "candidato": "Zavala Nelson",
+        "value": 1.46461
+    },
+    {
+        "parroquia": "SAN CRISTOBAL",
+        "id": 6635,
+        "votos": 14,
+        "candidato": "Zavala Nelson",
+        "value": 1.7632
+    },
+    {
+        "parroquia": "VENUS DEL RIO QUEVEDO",
+        "id": 6640,
+        "votos": 71,
+        "candidato": "Zavala Nelson",
+        "value": 1.46543
+    },
+    {
+        "parroquia": "NICOLAS INFANTE DIAZ",
+        "id": 6645,
+        "votos": 22,
+        "candidato": "Zavala Nelson",
+        "value": 1.0536
+    },
+    {
+        "parroquia": "GUAYACAN",
+        "id": 6650,
+        "votos": 31,
+        "candidato": "Zavala Nelson",
+        "value": 1.11913
+    },
+    {
+        "parroquia": "SIETE DE OCTUBRE",
+        "id": 6655,
+        "votos": 45,
+        "candidato": "Zavala Nelson",
+        "value": 1.292
+    },
+    {
+        "parroquia": "VIVA ALFARO",
+        "id": 6660,
+        "votos": 39,
+        "candidato": "Zavala Nelson",
+        "value": 1.85803
+    },
+    {
+        "parroquia": "24 DE MAYO",
+        "id": 6690,
+        "votos": 26,
+        "candidato": "Zavala Nelson",
+        "value": 1.47895
+    }
+]

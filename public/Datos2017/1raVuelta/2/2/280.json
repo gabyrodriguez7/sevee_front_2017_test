@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "CUTCHIL",
+    "id": 750,
+    "votos": 83,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.77
+  },
+  {
+    "parroquia": "GIMA",
+    "id": 1355,
+    "votos": 193,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.05
+  },
+  {
+    "parroquia": "GUEL",
+    "id": 1490,
+    "votos": 21,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.62
+  },
+  {
+    "parroquia": "LUDO",
+    "id": 2215,
+    "votos": 205,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 11.01
+  },
+  {
+    "parroquia": "SAN BARTOLOMÉ",
+    "id": 3360,
+    "votos": 190,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.09
+  },
+  {
+    "parroquia": "SAN JOSÉ DE RARANGA",
+    "id": 3495,
+    "votos": 259,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 24.3
+  },
+  {
+    "parroquia": "SIGSIG",
+    "id": 6085,
+    "votos": 863,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.75
+  }
+]

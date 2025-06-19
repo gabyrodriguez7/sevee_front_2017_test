@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "AMALUZA",
+        "id": 85,
+        "votos": 135,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 21.26
+    },
+    {
+        "parroquia": "PALMAS",
+        "id": 2725,
+        "votos": 381,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 20.98
+    },
+    {
+        "parroquia": "SEVILLA DE ORO",
+        "id": 6480,
+        "votos": 388,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 21.59
+    }
+]

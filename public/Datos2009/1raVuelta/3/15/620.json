@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "TENA",
+        "id": 6160,
+        "votos": 18,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.12
+    },
+    {
+        "parroquia": "PUERTO NAPO",
+        "id": 3050,
+        "votos": 2,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.09
+    },
+    {
+        "parroquia": "PUERTO MISAHUALLI",
+        "id": 3000,
+        "votos": 7,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.37
+    },
+    {
+        "parroquia": "PANO",
+        "id": 2755,
+        "votos": 2,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.26
+    },
+    {
+        "parroquia": "TALAG",
+        "id": 1930,
+        "votos": 4,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.35
+    },
+    {
+        "parroquia": "CHONTAPUNTA",
+        "id": 940,
+        "votos": 4,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.17
+    },
+    {
+        "parroquia": "AHUANO",
+        "id": 25,
+        "votos": 9,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.4
+    }
+]

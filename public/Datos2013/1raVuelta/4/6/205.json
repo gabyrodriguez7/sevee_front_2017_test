@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CANI",
+        "id": 500,
+        "votos": 17,
+        "candidato": "Acosta Alberto",
+        "value": 3.208
+    },
+    {
+        "parroquia": "COLUMBE",
+        "id": 610,
+        "votos": 763,
+        "candidato": "Acosta Alberto",
+        "value": 7.287
+    },
+    {
+        "parroquia": "JUAN DE VELASCO / PONGOR",
+        "id": 1865,
+        "votos": 75,
+        "candidato": "Acosta Alberto",
+        "value": 4.85
+    },
+    {
+        "parroquia": "SANTIAGO DE QUITO",
+        "id": 4430,
+        "votos": 61,
+        "candidato": "Acosta Alberto",
+        "value": 4.46
+    },
+    {
+        "parroquia": "CAJABAMBA",
+        "id": 5145,
+        "votos": 460,
+        "candidato": "Acosta Alberto",
+        "value": 6.23
+    },
+    {
+        "parroquia": "SICALPA",
+        "id": 6080,
+        "votos": 470,
+        "candidato": "Acosta Alberto",
+        "value": 7.64974
+    }
+]

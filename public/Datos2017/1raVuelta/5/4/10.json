@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "PIARTAL",
+    "id": 250,
+    "votos": 3,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.42
+  },
+  {
+    "parroquia": "CRISTÓBAL COLÓN",
+    "id": 690,
+    "votos": 8,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.39
+  },
+  {
+    "parroquia": "CHITÁN DE NAVARRETES",
+    "id": 910,
+    "votos": 2,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.48
+  },
+  {
+    "parroquia": "FERNÁNDEZ SALVADOR",
+    "id": 1270,
+    "votos": 2,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.3
+  },
+  {
+    "parroquia": "LA PAZ",
+    "id": 2065,
+    "votos": 12,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.55
+  },
+  {
+    "parroquia": "GONZALEZ SUÁREZ",
+    "id": 5405,
+    "votos": 42,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.58
+  },
+  {
+    "parroquia": "SAN JOSÉ",
+    "id": 5970,
+    "votos": 47,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.64
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "LOGROÑO",
+    "id": 6735,
+    "votos": 28,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.2
+  },
+  {
+    "parroquia": "YAUPI",
+    "id": 4300,
+    "votos": 19,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 4.18
+  },
+  {
+    "parroquia": "SHIMPIS",
+    "id": 525,
+    "votos": 15,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.67
+  }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "parroquia": "FEBRES CORDERO",
+        "id": 5355,
+        "votos": 6646,
+        "candidato": "Gutierrez Lucio",
+        "value": 2.668
+    },
+    {
+        "parroquia": "XIMENA",
+        "id": 6265,
+        "votos": 7219,
+        "candidato": "Gutierrez Lucio",
+        "value": 2.38
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 6150,
+        "votos": 9769,
+        "candidato": "Gutierrez Lucio",
+        "value": 2.48
+    },
+    {
+        "parroquia": "PASCUALES",
+        "id": 6405,
+        "votos": 3372,
+        "candidato": "Gutierrez Lucio",
+        "value": 2.61
+    },
+    {
+        "parroquia": "JUAN GOMEZ RENDON",
+        "id": 1870,
+        "votos": 155,
+        "candidato": "Gutierrez Lucio",
+        "value": 3.0
+    },
+    {
+        "parroquia": "MORRO",
+        "id": 2470,
+        "votos": 52,
+        "candidato": "Gutierrez Lucio",
+        "value": 3.0
+    },
+    {
+        "parroquia": "POSORJA",
+        "id": 2940,
+        "votos": 150,
+        "candidato": "Gutierrez Lucio",
+        "value": 1.4
+    },
+    {
+        "parroquia": "PUNA",
+        "id": 3030,
+        "votos": 126,
+        "candidato": "Gutierrez Lucio",
+        "value": 3.1
+    },
+    {
+        "parroquia": "TENGUEL",
+        "id": 4120,
+        "votos": 133,
+        "candidato": "Gutierrez Lucio",
+        "value": 2.0
+    },
+    {
+        "parroquia": "AYACUCHO",
+        "id": 5055,
+        "votos": 414,
+        "candidato": "Gutierrez Lucio",
+        "value": 3.0
+    },
+    {
+        "parroquia": "BOLIVAR/SAGRARIO",
+        "id": 5125,
+        "votos": 382,
+        "candidato": "Gutierrez Lucio",
+        "value": 3.0
+    },
+    {
+        "parroquia": "CARBO/CONCEPCION",
+        "id": 5170,
+        "votos": 746,
+        "candidato": "Gutierrez Lucio",
+        "value": 3.0
+    },
+    {
+        "parroquia": "GARCIA MORENO",
+        "id": 5380,
+        "votos": 1482,
+        "candidato": "Gutierrez Lucio",
+        "value": 3.0
+    },
+    {
+        "parroquia": "LETAMENDI",
+        "id": 5585,
+        "votos": 1969,
+        "candidato": "Gutierrez Lucio",
+        "value": 2.6
+    },
+    {
+        "parroquia": "9 DE OCTUBRE",
+        "id": 5695,
+        "votos": 381,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.0
+    },
+    {
+        "parroquia": "OLMEDO/SAN ALEJO",
+        "id": 5720,
+        "votos": 443,
+        "candidato": "Gutierrez Lucio",
+        "value": 3.0
+    },
+    {
+        "parroquia": "ROCA",
+        "id": 5880,
+        "votos": 389,
+        "candidato": "Gutierrez Lucio",
+        "value": 3.0
+    },
+    {
+        "parroquia": "ROCAFUERTE",
+        "id": 5890,
+        "votos": 432,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.0
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 6095,
+        "votos": 524,
+        "candidato": "Gutierrez Lucio",
+        "value": 3.83
+    },
+    {
+        "parroquia": "URDANETA",
+        "id": 6185,
+        "votos": 736,
+        "candidato": "Gutierrez Lucio",
+        "value": 3.1
+    }
+]

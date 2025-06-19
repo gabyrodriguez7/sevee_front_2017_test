@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CHOBO",
+        "id": 920,
+        "votos": 2,
+        "candidato": "Acosta Alberto",
+        "value": 0.25251
+    },
+    {
+        "parroquia": "MARISCAL SUCRE/HUAQUES",
+        "id": 2390,
+        "votos": 10,
+        "candidato": "Acosta Alberto",
+        "value": 0.4
+    },
+    {
+        "parroquia": "ROBERTO ASTUDILLO",
+        "id": 3235,
+        "votos": 24,
+        "candidato": "Acosta Alberto",
+        "value": 0.7
+    },
+    {
+        "parroquia": "MILAGRO",
+        "id": 5660,
+        "votos": 1024,
+        "candidato": "Acosta Alberto",
+        "value": 1.0
+    }
+]

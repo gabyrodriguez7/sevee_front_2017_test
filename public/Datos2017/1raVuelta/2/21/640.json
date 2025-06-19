@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "EL PLAYÓN DE SN. FRANCISCO",
+    "id": 1170,
+    "votos": 87,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.34
+  },
+  {
+    "parroquia": "LA SOFÍA",
+    "id": 2095,
+    "votos": 30,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 31.58
+  },
+  {
+    "parroquia": "ROSA FLORIDA",
+    "id": 3220,
+    "votos": 16,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.13
+  },
+  {
+    "parroquia": "SANTA BÁRBARA",
+    "id": 3690,
+    "votos": 30,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.75
+  },
+  {
+    "parroquia": "LA BONITA",
+    "id": 5525,
+    "votos": 95,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 16.16
+  }
+]

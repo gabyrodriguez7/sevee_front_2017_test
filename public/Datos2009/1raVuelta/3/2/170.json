@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "SAN JOSE DE CHIMBO",
+    "id": 5975,
+    "votos": 23,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.59
+  },
+  {
+    "parroquia": "TELIMBELA",
+    "id": 3995,
+    "votos": 5,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.75
+  },
+  {
+    "parroquia": "SAN SEBASTIAN",
+    "id": 3655,
+    "votos": 1,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.24
+  },
+  {
+    "parroquia": "MAGDALENA/CHAPACOTO",
+    "id": 2315,
+    "votos": 8,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.51
+  },
+  {
+    "parroquia": "ASUNCION",
+    "id": 170,
+    "votos": 12,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.89
+  }
+]

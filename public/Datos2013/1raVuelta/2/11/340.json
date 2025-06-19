@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 320,
+        "votos": 651,
+        "candidato": "Correa Delgado Rafael",
+        "value": 65.4
+    },
+    {
+        "parroquia": "EL INGENIO",
+        "id": 790,
+        "votos": 604,
+        "candidato": "Correa Delgado Rafael",
+        "value": 69.8
+    },
+    {
+        "parroquia": "EL AIRO",
+        "id": 1645,
+        "votos": 298,
+        "candidato": "Correa Delgado Rafael",
+        "value": 67.73
+    },
+    {
+        "parroquia": "JIMBURA",
+        "id": 1845,
+        "votos": 365,
+        "candidato": "Correa Delgado Rafael",
+        "value": 37.4359
+    },
+    {
+        "parroquia": "SANTA TERESITA",
+        "id": 3765,
+        "votos": 469,
+        "candidato": "Correa Delgado Rafael",
+        "value": 63.38
+    },
+    {
+        "parroquia": "27 DE ABRIL /LA NARANJA",
+        "id": 4460,
+        "votos": 393,
+        "candidato": "Correa Delgado Rafael",
+        "value": 40.81
+    },
+    {
+        "parroquia": "AMALUZA",
+        "id": 5020,
+        "votos": 1576,
+        "candidato": "Correa Delgado Rafael",
+        "value": 49.9
+    }
+]

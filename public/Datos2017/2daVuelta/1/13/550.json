@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "BACHILLERO",
+    "id": 265,
+    "votos": 726,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 32.51
+  },
+  {
+    "parroquia": "ANGEL PEDRO GILER",
+    "id": 2030,
+    "votos": 1051,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 34.08
+  },
+  {
+    "parroquia": "TOSAGUA",
+    "id": 6170,
+    "votos": 6632,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 29.95
+  }
+]

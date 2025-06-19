@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "TOSAGUA",
+        "id": 6170,
+        "votos": 53,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.33
+    },
+    {
+        "parroquia": "ANGEL PEDRO GILER",
+        "id": 2030,
+        "votos": 13,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.63
+    },
+    {
+        "parroquia": "BACHILLERO",
+        "id": 265,
+        "votos": 7,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.43
+    }
+]

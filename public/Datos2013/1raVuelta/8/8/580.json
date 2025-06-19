@@ -1,0 +1,93 @@
+[
+    {
+        "parroquia": "ALTO TAMBO/GUADAL",
+        "id": 70,
+        "votos": 7,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.45
+    },
+    {
+        "parroquia": "ANCON/PALMA REAL",
+        "id": 110,
+        "votos": 2,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 0.3
+    },
+    {
+        "parroquia": "CALDERON",
+        "id": 435,
+        "votos": 4,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.13
+    },
+    {
+        "parroquia": "CARONDELET",
+        "id": 535,
+        "votos": 3,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.0
+    },
+    {
+        "parroquia": "5 DE JUNIO/HUIMBI",
+        "id": 570,
+        "votos": 2,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.0
+    },
+    {
+        "parroquia": "CONCEPCION",
+        "id": 620,
+        "votos": 4,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 0.79
+    },
+    {
+        "parroquia": "MATAJE",
+        "id": 2395,
+        "votos": 2,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 0.803
+    },
+    {
+        "parroquia": "SAN JAVIER DE CACHABI",
+        "id": 3455,
+        "votos": 1,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 0.3
+    },
+    {
+        "parroquia": "SANTA RITA",
+        "id": 3725,
+        "votos": 5,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 0.9
+    },
+    {
+        "parroquia": "TAMBILLO",
+        "id": 3955,
+        "votos": 6,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.1
+    },
+    {
+        "parroquia": "TULULBI /RICAURTE",
+        "id": 4075,
+        "votos": 6,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 0.984
+    },
+    {
+        "parroquia": "URBINA",
+        "id": 4125,
+        "votos": 4,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.018
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 6130,
+        "votos": 102,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.07
+    }
+]

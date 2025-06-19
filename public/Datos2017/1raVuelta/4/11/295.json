@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "LIMONES",
+    "id": 280,
+    "votos": 51,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.14
+  },
+  {
+    "parroquia": "GARZAREAL",
+    "id": 290,
+    "votos": 43,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.56
+  },
+  {
+    "parroquia": "MANGAHURCO",
+    "id": 550,
+    "votos": 12,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 2.5
+  },
+  {
+    "parroquia": "BOLASPAMBA",
+    "id": 2000,
+    "votos": 23,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 4.74
+  },
+  {
+    "parroquia": "PALETILLAS",
+    "id": 2710,
+    "votos": 60,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 4.06
+  },
+  {
+    "parroquia": "CAZADEROS",
+    "id": 4605,
+    "votos": 7,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 2.73
+  },
+  {
+    "parroquia": "ZAPOTILLO",
+    "id": 6320,
+    "votos": 269,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.18
+  }
+]

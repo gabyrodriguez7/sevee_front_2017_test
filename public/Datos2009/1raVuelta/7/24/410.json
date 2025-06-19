@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "SANTA ELENA",
+    "id": 6040,
+    "votos": 7427,
+    "candidato": "Alvaro Noboa",
+    "value": 25.18
+  },
+  {
+    "parroquia": "BALLENITA",
+    "id": 5130,
+    "votos": 253,
+    "candidato": "Alvaro Noboa",
+    "value": 31.0
+  },
+  {
+    "parroquia": "SIMON BOLIVAR",
+    "id": 3915,
+    "votos": 200,
+    "candidato": "Alvaro Noboa",
+    "value": 19.32
+  },
+  {
+    "parroquia": "MANGLARALTO",
+    "id": 2355,
+    "votos": 2783,
+    "candidato": "Alvaro Noboa",
+    "value": 20.84
+  },
+  {
+    "parroquia": "SAN JOSE DE ANCON",
+    "id": 1300,
+    "votos": 477,
+    "candidato": "Alvaro Noboa",
+    "value": 23.32
+  },
+  {
+    "parroquia": "CHANDUY",
+    "id": 820,
+    "votos": 1372,
+    "candidato": "Alvaro Noboa",
+    "value": 20.31
+  },
+  {
+    "parroquia": "COLONCHE",
+    "id": 605,
+    "votos": 2489,
+    "candidato": "Alvaro Noboa",
+    "value": 18.21
+  },
+  {
+    "parroquia": "ATAHUALPA",
+    "id": 205,
+    "votos": 340,
+    "candidato": "Alvaro Noboa",
+    "value": 18.77
+  }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "EL TAMBO",
+        "id": 1200,
+        "votos": 11,
+        "candidato": "Zavala Nelson",
+        "value": 1.0
+    },
+    {
+        "parroquia": "GUAYQUICHUMA",
+        "id": 1480,
+        "votos": 2,
+        "candidato": "Zavala Nelson",
+        "value": 0.873
+    },
+    {
+        "parroquia": "SAN PEDRO DE LA BENDITA",
+        "id": 3610,
+        "votos": 5,
+        "candidato": "Zavala Nelson",
+        "value": 0.46
+    },
+    {
+        "parroquia": "ZAMBI",
+        "id": 4455,
+        "votos": 1,
+        "candidato": "Zavala Nelson",
+        "value": 0.304
+    },
+    {
+        "parroquia": "CATAMAYO",
+        "id": 5270,
+        "votos": 87,
+        "candidato": "Zavala Nelson",
+        "value": 1.0
+    },
+    {
+        "parroquia": "SAN JOSE",
+        "id": 6825,
+        "votos": 3,
+        "candidato": "Zavala Nelson",
+        "value": 0.8
+    }
+]

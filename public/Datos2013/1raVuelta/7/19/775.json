@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "EL GUISMI",
+        "id": 665,
+        "votos": 3,
+        "candidato": "Zavala Nelson",
+        "value": 0.469
+    },
+    {
+        "parroquia": "TUNDAYME",
+        "id": 945,
+        "votos": 1,
+        "candidato": "Zavala Nelson",
+        "value": 0.327
+    },
+    {
+        "parroquia": "PACHICUTZA",
+        "id": 1015,
+        "votos": 3,
+        "candidato": "Zavala Nelson",
+        "value": 0.53
+    },
+    {
+        "parroquia": "EL PANGUI",
+        "id": 6355,
+        "votos": 7,
+        "candidato": "Zavala Nelson",
+        "value": 0.2
+    }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "YANAYACU MOCHAPATA",
+    "id": 4310,
+    "votos": 175,
+    "candidato": "Lasso Guillermo",
+    "value": 19.95
+  },
+  {
+    "parroquia": "RUMIPAMBA",
+    "id": 4550,
+    "votos": 143,
+    "candidato": "Lasso Guillermo",
+    "value": 17.19
+  },
+  {
+    "parroquia": "QUERO",
+    "id": 5835,
+    "votos": 2543,
+    "candidato": "Lasso Guillermo",
+    "value": 22.91
+  }
+]

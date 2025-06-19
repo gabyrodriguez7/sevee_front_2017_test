@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "EL LIMON",
+    "id": 6840,
+    "votos": 26,
+    "candidato": "Alvaro Noboa",
+    "value": 10.32
+  },
+  {
+    "parroquia": "ZAMORA",
+    "id": 6305,
+    "votos": 732,
+    "candidato": "Alvaro Noboa",
+    "value": 10.73
+  },
+  {
+    "parroquia": "TIMBARA",
+    "id": 4010,
+    "votos": 38,
+    "candidato": "Alvaro Noboa",
+    "value": 6.23
+  },
+  {
+    "parroquia": "SABANILLA",
+    "id": 3260,
+    "votos": 16,
+    "candidato": "Alvaro Noboa",
+    "value": 6.32
+  },
+  {
+    "parroquia": "LA VICTORIA DE IMBANA",
+    "id": 2155,
+    "votos": 23,
+    "candidato": "Alvaro Noboa",
+    "value": 5.68
+  },
+  {
+    "parroquia": "SAN CARLOS DE LAS MINAS",
+    "id": 1770,
+    "votos": 68,
+    "candidato": "Alvaro Noboa",
+    "value": 8.5
+  },
+  {
+    "parroquia": "GUADALUPE",
+    "id": 1390,
+    "votos": 39,
+    "candidato": "Alvaro Noboa",
+    "value": 3.26
+  },
+  {
+    "parroquia": "CUMBARATZA",
+    "id": 720,
+    "votos": 147,
+    "candidato": "Alvaro Noboa",
+    "value": 8.72
+  }
+]

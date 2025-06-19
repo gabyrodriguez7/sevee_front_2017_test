@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "CATARAMA",
+        "id": 5185,
+        "votos": 50,
+        "candidato": "Melba Jacome",
+        "value": 0.84
+    },
+    {
+        "parroquia": "RICAURTE",
+        "id": 3175,
+        "votos": 90,
+        "candidato": "Melba Jacome",
+        "value": 1.07
+    }
+]

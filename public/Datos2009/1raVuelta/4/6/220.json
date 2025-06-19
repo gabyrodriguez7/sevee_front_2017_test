@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CHUNCHI",
+        "id": 5255,
+        "votos": 1305,
+        "candidato": "Rafael Correa Delgado",
+        "value": 34.32
+    },
+    {
+        "parroquia": "LLAGOS",
+        "id": 2260,
+        "votos": 166,
+        "candidato": "Rafael Correa Delgado",
+        "value": 33.4
+    },
+    {
+        "parroquia": "GONZOL",
+        "id": 1370,
+        "votos": 309,
+        "candidato": "Rafael Correa Delgado",
+        "value": 68.36
+    },
+    {
+        "parroquia": "COMPUD",
+        "id": 615,
+        "votos": 72,
+        "candidato": "Rafael Correa Delgado",
+        "value": 24.16
+    },
+    {
+        "parroquia": "CAPZOL",
+        "id": 515,
+        "votos": 78,
+        "candidato": "Rafael Correa Delgado",
+        "value": 36.79
+    }
+]

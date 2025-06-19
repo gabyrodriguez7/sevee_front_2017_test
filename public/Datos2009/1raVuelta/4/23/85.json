@@ -1,0 +1,100 @@
+[
+    {
+        "parroquia": "ZARACAY",
+        "id": 6180,
+        "votos": 1478,
+        "candidato": "Rafael Correa Delgado",
+        "value": 56.8
+    },
+    {
+        "parroquia": "CHIGUILPE",
+        "id": 6175,
+        "votos": 4238,
+        "candidato": "Rafael Correa Delgado",
+        "value": 58.09
+    },
+    {
+        "parroquia": "SANTO DOMINGO",
+        "id": 6065,
+        "votos": 59698,
+        "candidato": "Rafael Correa Delgado",
+        "value": 57.79
+    },
+    {
+        "parroquia": "RIO TOACHI",
+        "id": 5870,
+        "votos": 1131,
+        "candidato": "Rafael Correa Delgado",
+        "value": 55.33
+    },
+    {
+        "parroquia": "RIO VERDE",
+        "id": 5865,
+        "votos": 9560,
+        "candidato": "Rafael Correa Delgado",
+        "value": 61.49
+    },
+    {
+        "parroquia": "BOMBOLI",
+        "id": 5860,
+        "votos": 8132,
+        "candidato": "Rafael Correa Delgado",
+        "value": 58.93
+    },
+    {
+        "parroquia": "ABRAHAM CALAZACON",
+        "id": 5730,
+        "votos": 6936,
+        "candidato": "Rafael Correa Delgado",
+        "value": 59.81
+    },
+    {
+        "parroquia": "PUERTO LIMON",
+        "id": 4440,
+        "votos": 2649,
+        "candidato": "Rafael Correa Delgado",
+        "value": 65.39
+    },
+    {
+        "parroquia": "SANTA MARIA DEL TOACHI",
+        "id": 2045,
+        "votos": 818,
+        "candidato": "Rafael Correa Delgado",
+        "value": 65.76
+    },
+    {
+        "parroquia": "EL ESFUERZO",
+        "id": 1990,
+        "votos": 851,
+        "candidato": "Rafael Correa Delgado",
+        "value": 48.77
+    },
+    {
+        "parroquia": "SAN JACINTO DEL BUA",
+        "id": 1970,
+        "votos": 2136,
+        "candidato": "Rafael Correa Delgado",
+        "value": 64.16
+    },
+    {
+        "parroquia": "LUZ DE AMERICA",
+        "id": 1755,
+        "votos": 1101,
+        "candidato": "Rafael Correa Delgado",
+        "value": 59.87
+    },
+    {
+        "parroquia": "VALLE HERMOSO",
+        "id": 305,
+        "votos": 1443,
+        "candidato": "Rafael Correa Delgado",
+        "value": 57.72
+    },
+    {
+        "parroquia": "ALLURIQUIN",
+        "id": 75,
+        "votos": 1771,
+        "candidato": "Rafael Correa Delgado",
+        "value": 46.41
+    }
+]

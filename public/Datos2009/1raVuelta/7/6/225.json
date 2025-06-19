@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "PENIPE",
+        "id": 5740,
+        "votos": 76,
+        "candidato": "Alvaro Noboa",
+        "value": 5.15
+    },
+    {
+        "parroquia": "SAN ANTONIO DE BAYUSHIG",
+        "id": 3335,
+        "votos": 33,
+        "candidato": "Alvaro Noboa",
+        "value": 3.29
+    },
+    {
+        "parroquia": "PUELA",
+        "id": 2975,
+        "votos": 22,
+        "candidato": "Alvaro Noboa",
+        "value": 4.52
+    },
+    {
+        "parroquia": "MATUS",
+        "id": 2400,
+        "votos": 15,
+        "candidato": "Alvaro Noboa",
+        "value": 2.48
+    },
+    {
+        "parroquia": "BILBAO",
+        "id": 1325,
+        "votos": 7,
+        "candidato": "Alvaro Noboa",
+        "value": 5.83
+    },
+    {
+        "parroquia": "EL ALTAR",
+        "id": 1110,
+        "votos": 16,
+        "candidato": "Alvaro Noboa",
+        "value": 2.05
+    },
+    {
+        "parroquia": "LA CANDELARIA",
+        "id": 925,
+        "votos": 2,
+        "candidato": "Alvaro Noboa",
+        "value": 1.11
+    }
+]

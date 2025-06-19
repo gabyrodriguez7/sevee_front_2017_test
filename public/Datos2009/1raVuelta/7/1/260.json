@@ -1,0 +1,254 @@
+[
+    {
+        "parroquia": "HERMANO MIGUEL",
+        "id": 6865,
+        "votos": 220,
+        "candidato": "Alvaro Noboa",
+        "value": 5.78
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 6090,
+        "votos": 1084,
+        "candidato": "Alvaro Noboa",
+        "value": 7.45
+    },
+    {
+        "parroquia": "SAN SEBASTIAN",
+        "id": 6010,
+        "votos": 1359,
+        "candidato": "Alvaro Noboa",
+        "value": 6.78
+    },
+    {
+        "parroquia": "SAN BLAS",
+        "id": 5930,
+        "votos": 1175,
+        "candidato": "Alvaro Noboa",
+        "value": 7.23
+    },
+    {
+        "parroquia": "SAGRARIO",
+        "id": 5905,
+        "votos": 1267,
+        "candidato": "Alvaro Noboa",
+        "value": 7.65
+    },
+    {
+        "parroquia": "RAMIREZ DAVALOS",
+        "id": 5875,
+        "votos": 620,
+        "candidato": "Alvaro Noboa",
+        "value": 7.17
+    },
+    {
+        "parroquia": "HUAYNACAPAC",
+        "id": 5450,
+        "votos": 826,
+        "candidato": "Alvaro Noboa",
+        "value": 7.85
+    },
+    {
+        "parroquia": "YANUNCAY",
+        "id": 5370,
+        "votos": 604,
+        "candidato": "Alvaro Noboa",
+        "value": 5.94
+    },
+    {
+        "parroquia": "TOTORACOCHA",
+        "id": 5360,
+        "votos": 688,
+        "candidato": "Alvaro Noboa",
+        "value": 5.75
+    },
+    {
+        "parroquia": "EL VECINO",
+        "id": 5330,
+        "votos": 1468,
+        "candidato": "Alvaro Noboa",
+        "value": 5.75
+    },
+    {
+        "parroquia": "MONAY",
+        "id": 5290,
+        "votos": 357,
+        "candidato": "Alvaro Noboa",
+        "value": 5.73
+    },
+    {
+        "parroquia": "MACHANGARA",
+        "id": 5140,
+        "votos": 212,
+        "candidato": "Alvaro Noboa",
+        "value": 5.39
+    },
+    {
+        "parroquia": "EL BATAN",
+        "id": 5135,
+        "votos": 455,
+        "candidato": "Alvaro Noboa",
+        "value": 7.31
+    },
+    {
+        "parroquia": "CA�ARIBAMBA",
+        "id": 5080,
+        "votos": 381,
+        "candidato": "Alvaro Noboa",
+        "value": 6.57
+    },
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 5075,
+        "votos": 587,
+        "candidato": "Alvaro Noboa",
+        "value": 6.67
+    },
+    {
+        "parroquia": "VICTORIA DEL PORTETE",
+        "id": 4225,
+        "votos": 73,
+        "candidato": "Alvaro Noboa",
+        "value": 3.66
+    },
+    {
+        "parroquia": "VALLE",
+        "id": 4200,
+        "votos": 237,
+        "candidato": "Alvaro Noboa",
+        "value": 3.11
+    },
+    {
+        "parroquia": "TURI",
+        "id": 4095,
+        "votos": 128,
+        "candidato": "Alvaro Noboa",
+        "value": 4.62
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 3980,
+        "votos": 127,
+        "candidato": "Alvaro Noboa",
+        "value": 2.97
+    },
+    {
+        "parroquia": "SININCAY",
+        "id": 3870,
+        "votos": 175,
+        "candidato": "Alvaro Noboa",
+        "value": 3.62
+    },
+    {
+        "parroquia": "SIDCAY",
+        "id": 3850,
+        "votos": 50,
+        "candidato": "Alvaro Noboa",
+        "value": 2.63
+    },
+    {
+        "parroquia": "SAYAUSI",
+        "id": 3795,
+        "votos": 203,
+        "candidato": "Alvaro Noboa",
+        "value": 3.94
+    },
+    {
+        "parroquia": "SANTA ANA",
+        "id": 3685,
+        "votos": 67,
+        "candidato": "Alvaro Noboa",
+        "value": 2.36
+    },
+    {
+        "parroquia": "SAN JOAQUIN",
+        "id": 3460,
+        "votos": 182,
+        "candidato": "Alvaro Noboa",
+        "value": 4.71
+    },
+    {
+        "parroquia": "RICAURTE",
+        "id": 3165,
+        "votos": 329,
+        "candidato": "Alvaro Noboa",
+        "value": 4.03
+    },
+    {
+        "parroquia": "QUINGEO",
+        "id": 3105,
+        "votos": 87,
+        "candidato": "Alvaro Noboa",
+        "value": 3.49
+    },
+    {
+        "parroquia": "PACCHA",
+        "id": 2680,
+        "votos": 66,
+        "candidato": "Alvaro Noboa",
+        "value": 2.93
+    },
+    {
+        "parroquia": "OCTAVIO CORDERO PALACIOS",
+        "id": 2595,
+        "votos": 21,
+        "candidato": "Alvaro Noboa",
+        "value": 2.1
+    },
+    {
+        "parroquia": "MULTI /  NULTI",
+        "id": 2570,
+        "votos": 93,
+        "candidato": "Alvaro Noboa",
+        "value": 4.17
+    },
+    {
+        "parroquia": "MOLLETURO",
+        "id": 2430,
+        "votos": 60,
+        "candidato": "Alvaro Noboa",
+        "value": 2.12
+    },
+    {
+        "parroquia": "LLACAO",
+        "id": 2255,
+        "votos": 73,
+        "candidato": "Alvaro Noboa",
+        "value": 3.76
+    },
+    {
+        "parroquia": "CHIQUINTAD",
+        "id": 905,
+        "votos": 60,
+        "candidato": "Alvaro Noboa",
+        "value": 2.87
+    },
+    {
+        "parroquia": "CHECA JIDCAY",
+        "id": 860,
+        "votos": 62,
+        "candidato": "Alvaro Noboa",
+        "value": 4.84
+    },
+    {
+        "parroquia": "CHAUCHA / ANGAS",
+        "id": 845,
+        "votos": 6,
+        "candidato": "Alvaro Noboa",
+        "value": 1.07
+    },
+    {
+        "parroquia": "CUMBE",
+        "id": 730,
+        "votos": 106,
+        "candidato": "Alvaro Noboa",
+        "value": 3.73
+    },
+    {
+        "parroquia": "BA�OS",
+        "id": 285,
+        "votos": 453,
+        "candidato": "Alvaro Noboa",
+        "value": 4.45
+    }
+]

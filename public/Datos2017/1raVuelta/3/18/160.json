@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "YANAYACU MOCHAPATA",
+    "id": 4310,
+    "votos": 235,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 25.85
+  },
+  {
+    "parroquia": "RUMIPAMBA",
+    "id": 4550,
+    "votos": 303,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 33.74
+  },
+  {
+    "parroquia": "QUERO",
+    "id": 5835,
+    "votos": 2997,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 25.67
+  }
+]

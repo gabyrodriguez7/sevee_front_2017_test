@@ -1,0 +1,100 @@
+[
+  {
+    "parroquia": "ZARACAY",
+    "id": 6180,
+    "votos": 651,
+    "candidato": "Lucio Gutierrez",
+    "value": 25.02
+  },
+  {
+    "parroquia": "CHIGUILPE",
+    "id": 6175,
+    "votos": 1832,
+    "candidato": "Lucio Gutierrez",
+    "value": 25.11
+  },
+  {
+    "parroquia": "SANTO DOMINGO",
+    "id": 6065,
+    "votos": 26641,
+    "candidato": "Lucio Gutierrez",
+    "value": 25.79
+  },
+  {
+    "parroquia": "RIO TOACHI",
+    "id": 5870,
+    "votos": 673,
+    "candidato": "Lucio Gutierrez",
+    "value": 32.93
+  },
+  {
+    "parroquia": "RIO VERDE",
+    "id": 5865,
+    "votos": 3735,
+    "candidato": "Lucio Gutierrez",
+    "value": 24.03
+  },
+  {
+    "parroquia": "BOMBOLI",
+    "id": 5860,
+    "votos": 3329,
+    "candidato": "Lucio Gutierrez",
+    "value": 24.12
+  },
+  {
+    "parroquia": "ABRAHAM CALAZACON",
+    "id": 5730,
+    "votos": 2945,
+    "candidato": "Lucio Gutierrez",
+    "value": 25.4
+  },
+  {
+    "parroquia": "PUERTO LIMON",
+    "id": 4440,
+    "votos": 1038,
+    "candidato": "Lucio Gutierrez",
+    "value": 25.62
+  },
+  {
+    "parroquia": "SANTA MARIA DEL TOACHI",
+    "id": 2045,
+    "votos": 367,
+    "candidato": "Lucio Gutierrez",
+    "value": 29.5
+  },
+  {
+    "parroquia": "EL ESFUERZO",
+    "id": 1990,
+    "votos": 710,
+    "candidato": "Lucio Gutierrez",
+    "value": 40.69
+  },
+  {
+    "parroquia": "SAN JACINTO DEL BUA",
+    "id": 1970,
+    "votos": 820,
+    "candidato": "Lucio Gutierrez",
+    "value": 24.63
+  },
+  {
+    "parroquia": "LUZ DE AMERICA",
+    "id": 1755,
+    "votos": 383,
+    "candidato": "Lucio Gutierrez",
+    "value": 20.83
+  },
+  {
+    "parroquia": "VALLE HERMOSO",
+    "id": 305,
+    "votos": 761,
+    "candidato": "Lucio Gutierrez",
+    "value": 30.44
+  },
+  {
+    "parroquia": "ALLURIQUIN",
+    "id": 75,
+    "votos": 1591,
+    "candidato": "Lucio Gutierrez",
+    "value": 41.69
+  }
+]

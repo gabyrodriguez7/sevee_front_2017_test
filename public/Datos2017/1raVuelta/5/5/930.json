@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "PALO QUEMADO",
+    "id": 815,
+    "votos": 9,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.77
+  },
+  {
+    "parroquia": "CHUGCHILAN",
+    "id": 960,
+    "votos": 31,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.91
+  },
+  {
+    "parroquia": "ISINLIVI",
+    "id": 1735,
+    "votos": 26,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.54
+  },
+  {
+    "parroquia": "LAS PAMPAS",
+    "id": 2115,
+    "votos": 13,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.06
+  },
+  {
+    "parroquia": "SIGCHOS",
+    "id": 6450,
+    "votos": 43,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.77
+  }
+]

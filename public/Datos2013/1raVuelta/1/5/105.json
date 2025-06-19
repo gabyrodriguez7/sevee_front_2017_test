@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "ANGAMARCA",
+        "id": 125,
+        "votos": 59,
+        "candidato": "Noboa Alvaro",
+        "value": 2.9
+    },
+    {
+        "parroquia": "GUANGAJE",
+        "id": 1430,
+        "votos": 78,
+        "candidato": "Noboa Alvaro",
+        "value": 1.9
+    },
+    {
+        "parroquia": "LA VICTORIA",
+        "id": 2150,
+        "votos": 33,
+        "candidato": "Noboa Alvaro",
+        "value": 1.98
+    },
+    {
+        "parroquia": "PILALO",
+        "id": 2865,
+        "votos": 19,
+        "candidato": "Noboa Alvaro",
+        "value": 2.04
+    },
+    {
+        "parroquia": "TINGO",
+        "id": 4015,
+        "votos": 44,
+        "candidato": "Noboa Alvaro",
+        "value": 2.4
+    },
+    {
+        "parroquia": "ZUMBAHUA",
+        "id": 4365,
+        "votos": 121,
+        "candidato": "Noboa Alvaro",
+        "value": 1.9
+    },
+    {
+        "parroquia": "PUJILI",
+        "id": 5820,
+        "votos": 475,
+        "candidato": "Noboa Alvaro",
+        "value": 2.296128
+    }
+]

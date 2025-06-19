@@ -1,0 +1,72 @@
+[
+  {
+    "parroquia": "ZARUMA",
+    "id": 6310,
+    "votos": 61,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.88
+  },
+  {
+    "parroquia": "MULUNCAY GRANDE",
+    "id": 4450,
+    "votos": 2,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.51
+  },
+  {
+    "parroquia": "ARCAPAMBA",
+    "id": 4445,
+    "votos": 5,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.87
+  },
+  {
+    "parroquia": "MALVAS",
+    "id": 2350,
+    "votos": 8,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 1.54
+  },
+  {
+    "parroquia": "SALVIAS",
+    "id": 1750,
+    "votos": 0,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.0
+  },
+  {
+    "parroquia": "SINSAO",
+    "id": 1700,
+    "votos": 3,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.72
+  },
+  {
+    "parroquia": "HUERTAS",
+    "id": 1655,
+    "votos": 3,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.26
+  },
+  {
+    "parroquia": "GUIZHAGUIÑA",
+    "id": 1425,
+    "votos": 5,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.85
+  },
+  {
+    "parroquia": "GUANAZAN",
+    "id": 1420,
+    "votos": 6,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.53
+  },
+  {
+    "parroquia": "ABANIN",
+    "id": 5,
+    "votos": 1,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.2
+  }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "SANTA FE DE GALAN",
+        "id": 40,
+        "votos": 39,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 6.22
+    },
+    {
+        "parroquia": "SAN JOSE DEL CHAZO",
+        "id": 45,
+        "votos": 18,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.601
+    },
+    {
+        "parroquia": "VALPARAISO",
+        "id": 410,
+        "votos": 7,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.991
+    },
+    {
+        "parroquia": "GUANANDO",
+        "id": 1415,
+        "votos": 18,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.523
+    },
+    {
+        "parroquia": "ILAPO",
+        "id": 1705,
+        "votos": 75,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 5.169
+    },
+    {
+        "parroquia": "LA PROVIDENCIA",
+        "id": 2080,
+        "votos": 14,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.544
+    },
+    {
+        "parroquia": "SAN ANDRES",
+        "id": 3295,
+        "votos": 458,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 6.0
+    },
+    {
+        "parroquia": "SAN GERARDO / PAQUICAHUAN",
+        "id": 3425,
+        "votos": 67,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 5.386
+    },
+    {
+        "parroquia": "SAN ISIDRO DE PATULU",
+        "id": 3450,
+        "votos": 129,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 5.616
+    },
+    {
+        "parroquia": "EL ROSARIO",
+        "id": 5315,
+        "votos": 57,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.814
+    },
+    {
+        "parroquia": "LA MATRIZ",
+        "id": 5550,
+        "votos": 567,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 6.387
+    }
+]

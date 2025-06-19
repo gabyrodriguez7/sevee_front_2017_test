@@ -1,0 +1,191 @@
+[
+  {
+    "parroquia": "AMBATILLO",
+    "id": 95,
+    "votos": 35,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.18
+  },
+  {
+    "parroquia": "ATAHUALPA /CHIPZALATA",
+    "id": 190,
+    "votos": 55,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.9
+  },
+  {
+    "parroquia": "AUGUSTO N. MARTÍNEZ",
+    "id": 210,
+    "votos": 79,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.27
+  },
+  {
+    "parroquia": "CONSTANTINO FERNÁNDEZ",
+    "id": 635,
+    "votos": 22,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.29
+  },
+  {
+    "parroquia": "CUNCHIBAMBA",
+    "id": 800,
+    "votos": 24,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.99
+  },
+  {
+    "parroquia": "UNAMUNCHO",
+    "id": 810,
+    "votos": 13,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.83
+  },
+  {
+    "parroquia": "HUACHI GRANDE",
+    "id": 1625,
+    "votos": 83,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.45
+  },
+  {
+    "parroquia": "IZAMBA",
+    "id": 1745,
+    "votos": 155,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.19
+  },
+  {
+    "parroquia": "JUAN BENIGNO VELA",
+    "id": 1860,
+    "votos": 78,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.62
+  },
+  {
+    "parroquia": "MONTALVO",
+    "id": 2435,
+    "votos": 17,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.74
+  },
+  {
+    "parroquia": "PASA",
+    "id": 2775,
+    "votos": 89,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 2.23
+  },
+  {
+    "parroquia": "PICAYHUA",
+    "id": 2830,
+    "votos": 88,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.88
+  },
+  {
+    "parroquia": "PILAHUÍN",
+    "id": 2860,
+    "votos": 133,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.99
+  },
+  {
+    "parroquia": "QUISAPINCHA",
+    "id": 3120,
+    "votos": 117,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.73
+  },
+  {
+    "parroquia": "SAN BARTOLOMÉ",
+    "id": 3355,
+    "votos": 46,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.82
+  },
+  {
+    "parroquia": "SAN FERNANDO",
+    "id": 3380,
+    "votos": 25,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.66
+  },
+  {
+    "parroquia": "SANTA ROSA",
+    "id": 3730,
+    "votos": 101,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.94
+  },
+  {
+    "parroquia": "TOTORAS",
+    "id": 4065,
+    "votos": 61,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.42
+  },
+  {
+    "parroquia": "ATOCHA FICOA",
+    "id": 5045,
+    "votos": 38,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.38
+  },
+  {
+    "parroquia": "CELIANO MONGE",
+    "id": 5230,
+    "votos": 7,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.34
+  },
+  {
+    "parroquia": "HUACHI LORETO",
+    "id": 5445,
+    "votos": 267,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.62
+  },
+  {
+    "parroquia": "HUACHI CHICO",
+    "id": 5455,
+    "votos": 184,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.87
+  },
+  {
+    "parroquia": "LA MATRIZ",
+    "id": 5545,
+    "votos": 124,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.54
+  },
+  {
+    "parroquia": "LA MERCED",
+    "id": 5560,
+    "votos": 89,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.52
+  },
+  {
+    "parroquia": "LA PENINSULA",
+    "id": 5605,
+    "votos": 14,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.96
+  },
+  {
+    "parroquia": "PISHILATA",
+    "id": 5840,
+    "votos": 22,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.02
+  },
+  {
+    "parroquia": "SAN FRANCISCO",
+    "id": 5945,
+    "votos": 48,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.83
+  }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "TOMAS DE BERLANGA",
+        "id": 4165,
+        "votos": 3,
+        "candidato": "Noboa Alvaro",
+        "value": 2.5
+    },
+    {
+        "parroquia": "PUERTO VILLAMIL",
+        "id": 6515,
+        "votos": 21,
+        "candidato": "Noboa Alvaro",
+        "value": 1.78
+    }
+]

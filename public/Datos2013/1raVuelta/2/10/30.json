@@ -1,0 +1,86 @@
+[
+    {
+        "parroquia": "AMBUQUI/CHOTA",
+        "id": 100,
+        "votos": 2526,
+        "candidato": "Correa Delgado Rafael",
+        "value": 76.1073
+    },
+    {
+        "parroquia": "ANGOCHAGUA",
+        "id": 130,
+        "votos": 1731,
+        "candidato": "Correa Delgado Rafael",
+        "value": 68.745
+    },
+    {
+        "parroquia": "CAROLINA /GUALLUPI",
+        "id": 530,
+        "votos": 1071,
+        "candidato": "Correa Delgado Rafael",
+        "value": 66.2748
+    },
+    {
+        "parroquia": "LA ESPERANZA",
+        "id": 2020,
+        "votos": 2806,
+        "candidato": "Correa Delgado Rafael",
+        "value": 61.1862
+    },
+    {
+        "parroquia": "LITA",
+        "id": 2185,
+        "votos": 803,
+        "candidato": "Correa Delgado Rafael",
+        "value": 47.9689
+    },
+    {
+        "parroquia": "SALINAS",
+        "id": 3290,
+        "votos": 957,
+        "candidato": "Correa Delgado Rafael",
+        "value": 79.8165
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3315,
+        "votos": 6447,
+        "candidato": "Correa Delgado Rafael",
+        "value": 62.2538
+    },
+    {
+        "parroquia": "CARANQUI",
+        "id": 5165,
+        "votos": 4884,
+        "candidato": "Correa Delgado Rafael",
+        "value": 53.0293
+    },
+    {
+        "parroquia": "GUAYAQUIL DE ALPACHACA",
+        "id": 5440,
+        "votos": 3546,
+        "candidato": "Correa Delgado Rafael",
+        "value": 59.4368
+    },
+    {
+        "parroquia": "SAGRARIO",
+        "id": 5915,
+        "votos": 19186,
+        "candidato": "Correa Delgado Rafael",
+        "value": 53.1012
+    },
+    {
+        "parroquia": "SAN FRANCISCO",
+        "id": 5960,
+        "votos": 18389,
+        "candidato": "Correa Delgado Rafael",
+        "value": 51.0
+    },
+    {
+        "parroquia": "LA DOLOROSA DEL PRIORATO",
+        "id": 6780,
+        "votos": 897,
+        "candidato": "Correa Delgado Rafael",
+        "value": 59.5618
+    }
+]

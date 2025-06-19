@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "28 DE MAYO",
+        "id": 6215,
+        "votos": 16,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.16
+    },
+    {
+        "parroquia": "TUTUPALI",
+        "id": 4105,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.27
+    },
+    {
+        "parroquia": "LA PAZ",
+        "id": 2070,
+        "votos": 7,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.03
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "COCHAPATA",
+        "id": 575,
+        "votos": 13,
+        "candidato": "Wray Norman",
+        "value": 0.9
+    },
+    {
+        "parroquia": "EL PROGRESO",
+        "id": 1175,
+        "votos": 6,
+        "candidato": "Wray Norman",
+        "value": 0.645
+    },
+    {
+        "parroquia": "NIEVES",
+        "id": 2550,
+        "votos": 7,
+        "candidato": "Wray Norman",
+        "value": 0.91383812
+    },
+    {
+        "parroquia": "NABON",
+        "id": 6595,
+        "votos": 63,
+        "candidato": "Wray Norman",
+        "value": 1.07
+    }
+]

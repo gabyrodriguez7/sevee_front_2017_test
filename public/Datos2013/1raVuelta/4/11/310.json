@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "CANGONAMA",
+        "id": 485,
+        "votos": 18,
+        "candidato": "Acosta Alberto",
+        "value": 3.15
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 545,
+        "votos": 12,
+        "candidato": "Acosta Alberto",
+        "value": 3.3
+    },
+    {
+        "parroquia": "CASANGA",
+        "id": 995,
+        "votos": 6,
+        "candidato": "Acosta Alberto",
+        "value": 1.4
+    },
+    {
+        "parroquia": "YAMANA",
+        "id": 1000,
+        "votos": 10,
+        "candidato": "Acosta Alberto",
+        "value": 1.9880716
+    },
+    {
+        "parroquia": "GUACHANAMA",
+        "id": 1380,
+        "votos": 13,
+        "candidato": "Acosta Alberto",
+        "value": 2.0
+    },
+    {
+        "parroquia": "LAURO GUERRERO",
+        "id": 2140,
+        "votos": 34,
+        "candidato": "Acosta Alberto",
+        "value": 3.6
+    },
+    {
+        "parroquia": "ORIANGA",
+        "id": 2630,
+        "votos": 30,
+        "candidato": "Acosta Alberto",
+        "value": 3.0
+    },
+    {
+        "parroquia": "CATACOCHA",
+        "id": 5180,
+        "votos": 324,
+        "candidato": "Acosta Alberto",
+        "value": 3.805944
+    },
+    {
+        "parroquia": "LOURDES",
+        "id": 5595,
+        "votos": 33,
+        "candidato": "Acosta Alberto",
+        "value": 5.1
+    }
+]

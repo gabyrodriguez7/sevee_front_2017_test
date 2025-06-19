@@ -1,0 +1,24 @@
+[
+                {
+                    "parroquia": "NUEVA FATIMA",
+                    "id": 2575,
+                    "votos": 200,
+                    "candidato": "Lasso Guillermo",
+                    "value": 38.6
+                },
+                {
+                    "parroquia": "TACAMOROS",
+                    "id": 3935,
+                    "votos": 500,
+                    "candidato": "Lasso Guillermo",
+                    "value": 36.1
+                },
+                {
+                    "parroquia": "SOZORANGA",
+                    "id": 6120,
+                    "votos": 681,
+                    "candidato": "Lasso Guillermo",
+                    "value": 38.87
+                }
+            ]
+            

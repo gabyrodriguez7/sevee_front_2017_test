@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "AHUANO",
+        "id": 25,
+        "votos": 15,
+        "candidato": "Noboa Alvaro",
+        "value": 0.5
+    },
+    {
+        "parroquia": "CHONTAPUNTA",
+        "id": 940,
+        "votos": 12,
+        "candidato": "Noboa Alvaro",
+        "value": 0.446429
+    },
+    {
+        "parroquia": "TALAG",
+        "id": 1930,
+        "votos": 10,
+        "candidato": "Noboa Alvaro",
+        "value": 0.69
+    },
+    {
+        "parroquia": "PANO",
+        "id": 2755,
+        "votos": 0,
+        "candidato": "Noboa Alvaro",
+        "value": 0.0
+    },
+    {
+        "parroquia": "PUERTO MISAHUALLI",
+        "id": 3000,
+        "votos": 20,
+        "candidato": "Noboa Alvaro",
+        "value": 0.8
+    },
+    {
+        "parroquia": "PUERTO NAPO",
+        "id": 3050,
+        "votos": 33,
+        "candidato": "Noboa Alvaro",
+        "value": 1.3
+    },
+    {
+        "parroquia": "SAN JUAN DE MUYUNA",
+        "id": 4580,
+        "votos": 22,
+        "candidato": "Noboa Alvaro",
+        "value": 1.3010053
+    },
+    {
+        "parroquia": "TENA",
+        "id": 6160,
+        "votos": 257,
+        "candidato": "Noboa Alvaro",
+        "value": 1.5
+    }
+]

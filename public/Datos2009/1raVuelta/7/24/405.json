@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "SANTA ROSA",
+    "id": 6995,
+    "votos": 667,
+    "candidato": "Alvaro Noboa",
+    "value": 24.48
+  },
+  {
+    "parroquia": "CARLOS ESPINOZA LARREA",
+    "id": 6280,
+    "votos": 27,
+    "candidato": "Alvaro Noboa",
+    "value": 22.31
+  },
+  {
+    "parroquia": "VICENTE ROCAFUERTE",
+    "id": 6275,
+    "votos": 14,
+    "candidato": "Alvaro Noboa",
+    "value": 17.94
+  },
+  {
+    "parroquia": "GRAL. A. E. GALLO",
+    "id": 6270,
+    "votos": 13,
+    "candidato": "Alvaro Noboa",
+    "value": 27.08
+  },
+  {
+    "parroquia": "SALINAS",
+    "id": 5920,
+    "votos": 4195,
+    "candidato": "Alvaro Noboa",
+    "value": 24.33
+  },
+  {
+    "parroquia": "JOSE LUIS TAMAYO / MUEY",
+    "id": 1850,
+    "votos": 1675,
+    "candidato": "Alvaro Noboa",
+    "value": 22.72
+  },
+  {
+    "parroquia": "ANCONCITO",
+    "id": 115,
+    "votos": 1304,
+    "candidato": "Alvaro Noboa",
+    "value": 27.66
+  }
+]

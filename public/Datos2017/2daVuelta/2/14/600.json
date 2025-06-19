@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "INDANZA",
+    "id": 1720,
+    "votos": 329,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 43.4
+  },
+  {
+    "parroquia": "SAN MIGUEL DE CONCHAY",
+    "id": 3250,
+    "votos": 124,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 48.25
+  },
+  {
+    "parroquia": "SAN ANTONIO",
+    "id": 3320,
+    "votos": 231,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 29.43
+  },
+  {
+    "parroquia": "SANTA SUSANA DE CHIVIAZA",
+    "id": 3760,
+    "votos": 224,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 43.5
+  },
+  {
+    "parroquia": "YUNGANZA /EL ROSARIO",
+    "id": 4305,
+    "votos": 249,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 42.35
+  },
+  {
+    "parroquia": "GRAL. LEONIDAS PLAZA",
+    "id": 5390,
+    "votos": 1165,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 35.06
+  }
+]

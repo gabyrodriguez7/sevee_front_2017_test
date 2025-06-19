@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "PUJILI",
+    "id": 5820,
+    "votos": 91,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.52
+  },
+  {
+    "parroquia": "ZUMBAHUA",
+    "id": 4365,
+    "votos": 34,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.82
+  },
+  {
+    "parroquia": "TINGO",
+    "id": 4015,
+    "votos": 3,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.22
+  },
+  {
+    "parroquia": "PILALO",
+    "id": 2865,
+    "votos": 3,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.51
+  },
+  {
+    "parroquia": "LA VICTORIA",
+    "id": 2150,
+    "votos": 8,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.54
+  },
+  {
+    "parroquia": "GUANGAJE",
+    "id": 1430,
+    "votos": 41,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 1.37
+  },
+  {
+    "parroquia": "ANGAMARCA",
+    "id": 125,
+    "votos": 22,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 1.75
+  }
+]

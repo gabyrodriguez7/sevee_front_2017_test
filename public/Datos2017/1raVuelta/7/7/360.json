@@ -1,0 +1,72 @@
+[
+  {
+    "parroquia": "ABANIN",
+    "id": 5,
+    "votos": 31,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.44
+  },
+  {
+    "parroquia": "GUANAZAN",
+    "id": 1420,
+    "votos": 42,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.36
+  },
+  {
+    "parroquia": "GUIZHAGUIÑA",
+    "id": 1425,
+    "votos": 19,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.18
+  },
+  {
+    "parroquia": "HUERTAS",
+    "id": 1655,
+    "votos": 33,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.44
+  },
+  {
+    "parroquia": "SINSAO",
+    "id": 1700,
+    "votos": 18,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.67
+  },
+  {
+    "parroquia": "SALVIAS",
+    "id": 1750,
+    "votos": 13,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.79
+  },
+  {
+    "parroquia": "MALVAS",
+    "id": 2350,
+    "votos": 17,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.83
+  },
+  {
+    "parroquia": "ARCAPAMBA",
+    "id": 4445,
+    "votos": 12,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.7
+  },
+  {
+    "parroquia": "MULUNCAY GRANDE",
+    "id": 4450,
+    "votos": 5,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.91
+  },
+  {
+    "parroquia": "ZARUMA",
+    "id": 6310,
+    "votos": 266,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.06
+  }
+]

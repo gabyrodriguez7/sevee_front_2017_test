@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "CAPIRO",
+    "id": 505,
+    "votos": 2,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.23
+  },
+  {
+    "parroquia": "SARACAY",
+    "id": 1385,
+    "votos": 5,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.48
+  },
+  {
+    "parroquia": "LA BOCANA",
+    "id": 2230,
+    "votos": 4,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.48
+  },
+  {
+    "parroquia": "MOROMORO",
+    "id": 2465,
+    "votos": 1,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.1
+  },
+  {
+    "parroquia": "PIEDRAS",
+    "id": 2850,
+    "votos": 2,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.42
+  },
+  {
+    "parroquia": "SAN ROQUE",
+    "id": 3650,
+    "votos": 3,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.64
+  },
+  {
+    "parroquia": "PIÑAS",
+    "id": 5790,
+    "votos": 40,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.31
+  },
+  {
+    "parroquia": "PIÑAS GRANDE",
+    "id": 6675,
+    "votos": 0,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0
+  },
+  {
+    "parroquia": "LA SUSAYA",
+    "id": 6680,
+    "votos": 0,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0
+  }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "LA AURORA",
+        "id": 6850,
+        "votos": 2,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.14
+    },
+    {
+        "parroquia": "DAULE",
+        "id": 5275,
+        "votos": 115,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.23
+    },
+    {
+        "parroquia": "EL LAUREL",
+        "id": 4500,
+        "votos": 9,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.34
+    },
+    {
+        "parroquia": "LAS LOJAS",
+        "id": 2105,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.05
+    },
+    {
+        "parroquia": "JUAN BAUTISTA AGUIRRE",
+        "id": 1855,
+        "votos": 8,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.47
+    },
+    {
+        "parroquia": "LIMONAL",
+        "id": 260,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.32
+    }
+]

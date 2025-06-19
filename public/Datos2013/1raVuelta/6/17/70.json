@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "ALOAG",
+    "id": 55,
+    "votos": 1264,
+    "candidato": "Lasso Guillermo",
+    "value": 23.688
+  },
+  {
+    "parroquia": "ALOASI",
+    "id": 60,
+    "votos": 790,
+    "candidato": "Lasso Guillermo",
+    "value": 22.972
+  },
+  {
+    "parroquia": "CORNEJO ASTORGA /TANDAPI",
+    "id": 650,
+    "votos": 364,
+    "candidato": "Lasso Guillermo",
+    "value": 23.56
+  },
+  {
+    "parroquia": "CUTUGLAGUA",
+    "id": 755,
+    "votos": 1135,
+    "candidato": "Lasso Guillermo",
+    "value": 14.590564
+  },
+  {
+    "parroquia": "CHAUPI",
+    "id": 850,
+    "votos": 205,
+    "candidato": "Lasso Guillermo",
+    "value": 26.5544
+  },
+  {
+    "parroquia": "TAMBILLO",
+    "id": 3960,
+    "votos": 1316,
+    "candidato": "Lasso Guillermo",
+    "value": 22.6
+  },
+  {
+    "parroquia": "UYUMBICHO",
+    "id": 4155,
+    "votos": 556,
+    "candidato": "Lasso Guillermo",
+    "value": 22.0
+  },
+  {
+    "parroquia": "MACHACHI",
+    "id": 5620,
+    "votos": 5830,
+    "candidato": "Lasso Guillermo",
+    "value": 28.0
+  }
+]

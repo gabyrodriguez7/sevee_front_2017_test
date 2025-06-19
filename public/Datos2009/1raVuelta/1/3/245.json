@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "BIBLIAN",
+        "id": 5115,
+        "votos": 201,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.06
+    },
+    {
+        "parroquia": "TURUPAMBA",
+        "id": 4100,
+        "votos": 11,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.17
+    },
+    {
+        "parroquia": "SAN FCO. DE SAGEO",
+        "id": 3410,
+        "votos": 21,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.63
+    },
+    {
+        "parroquia": "NAZON",
+        "id": 2545,
+        "votos": 33,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.39
+    },
+    {
+        "parroquia": "JERUSALEN",
+        "id": 1085,
+        "votos": 7,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.19
+    }
+]

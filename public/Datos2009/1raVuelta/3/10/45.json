@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "ATUNTAQUI",
+    "id": 5050,
+    "votos": 62,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.61
+  },
+  {
+    "parroquia": "ANDRADE MARIN/LOURDES",
+    "id": 5025,
+    "votos": 13,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.58
+  },
+  {
+    "parroquia": "SAN ROQUE",
+    "id": 3640,
+    "votos": 7,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.15
+  },
+  {
+    "parroquia": "SAN JOSE DE CHALTURA",
+    "id": 3465,
+    "votos": 6,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.36
+  },
+  {
+    "parroquia": "SAN FCO.DE NATABUELA",
+    "id": 3400,
+    "votos": 17,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.67
+  },
+  {
+    "parroquia": "IMBAYA",
+    "id": 1715,
+    "votos": 0,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.0
+  }
+]

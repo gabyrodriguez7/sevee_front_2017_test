@@ -1,0 +1,79 @@
+[
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 750,
+        "votos": 836,
+        "votos1": 546,
+        "votos2": 290,
+        "fill": "#1eff00",
+        "porcentaje1": 65.31,
+        "porcentaje2": 34.69
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 1355,
+        "votos": 2263,
+        "votos1": 1533,
+        "votos2": 730,
+        "fill": "#1eff00",
+        "porcentaje1": 67.74,
+        "porcentaje2": 32.26
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 1490,
+        "votos": 849,
+        "votos1": 716,
+        "votos2": 133,
+        "fill": "#1eff00",
+        "porcentaje1": 84.33,
+        "porcentaje2": 15.67
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 2215,
+        "votos": 2036,
+        "votos1": 1282,
+        "votos2": 754,
+        "fill": "#1eff00",
+        "porcentaje1": 62.97,
+        "porcentaje2": 37.03
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 3360,
+        "votos": 2291,
+        "votos1": 1529,
+        "votos2": 762,
+        "fill": "#1eff00",
+        "porcentaje1": 66.74,
+        "porcentaje2": 33.26
+    },
+    {
+        "candidato1": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "candidato2": "MORENO GARCES LENIN BOLTAIRE",
+        "id": 3495,
+        "votos": 1249,
+        "votos1": 831,
+        "votos2": 418,
+        "fill": "#062e81",
+        "porcentaje1": 66.53,
+        "porcentaje2": 33.47
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 6085,
+        "votos": 8463,
+        "votos1": 5586,
+        "votos2": 2877,
+        "fill": "#1eff00",
+        "porcentaje1": 66,
+        "porcentaje2": 34
+    }
+]

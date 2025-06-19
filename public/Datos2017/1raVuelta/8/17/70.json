@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "ALOAG",
+    "id": 55,
+    "votos": 264,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.39
+  },
+  {
+    "parroquia": "ALOASI",
+    "id": 60,
+    "votos": 128,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.21
+  },
+  {
+    "parroquia": "CORNEJO ASTORGA /TANDAPI",
+    "id": 650,
+    "votos": 55,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.54
+  },
+  {
+    "parroquia": "CUTUGLAGUA",
+    "id": 755,
+    "votos": 534,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 6.10
+  },
+  {
+    "parroquia": "CHAUPI",
+    "id": 850,
+    "votos": 36,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.00
+  },
+  {
+    "parroquia": "TAMBILLO",
+    "id": 3960,
+    "votos": 303,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.59
+  },
+  {
+    "parroquia": "UYUMBICHO",
+    "id": 4155,
+    "votos": 114,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.21
+  },
+  {
+    "parroquia": "MACHACHI",
+    "id": 5620,
+    "votos": 1038,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.44
+  }
+]

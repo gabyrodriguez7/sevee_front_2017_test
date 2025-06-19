@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "PIARTAL",
+    "id": 250,
+    "votos": 27,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.78
+  },
+  {
+    "parroquia": "CRISTÓBAL COLÓN",
+    "id": 690,
+    "votos": 49,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.4
+  },
+  {
+    "parroquia": "CHITÁN DE NAVARRETES",
+    "id": 910,
+    "votos": 7,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.68
+  },
+  {
+    "parroquia": "FERNÁNDEZ SALVADOR",
+    "id": 1270,
+    "votos": 8,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.21
+  },
+  {
+    "parroquia": "LA PAZ",
+    "id": 2065,
+    "votos": 32,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.48
+  },
+  {
+    "parroquia": "GONZALEZ SUÁREZ",
+    "id": 5405,
+    "votos": 146,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.02
+  },
+  {
+    "parroquia": "SAN JOSÉ",
+    "id": 5970,
+    "votos": 160,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.16
+  }
+]

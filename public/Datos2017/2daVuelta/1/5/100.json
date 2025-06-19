@@ -1,0 +1,107 @@
+[
+  {
+    "parroquia": "ALAQUEZ",
+    "id": 35,
+    "votos": 2849,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 58.11
+  },
+  {
+    "parroquia": "BELISARIO QUEVEDO",
+    "id": 315,
+    "votos": 2114,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 59.32
+  },
+  {
+    "parroquia": "GUAYTACAMA",
+    "id": 1485,
+    "votos": 3549,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 56.22
+  },
+  {
+    "parroquia": "JOSEGUANGO BAJO",
+    "id": 1905,
+    "votos": 754,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 60.37
+  },
+  {
+    "parroquia": "MULALÓ",
+    "id": 2480,
+    "votos": 3168,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 51.71
+  },
+  {
+    "parroquia": "11 DE NOVIEMBRE",
+    "id": 2620,
+    "votos": 832,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 51.58
+  },
+  {
+    "parroquia": "POALO",
+    "id": 2920,
+    "votos": 2763,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 67.84
+  },
+  {
+    "parroquia": "SAN JUAN DE PASTOCALLE",
+    "id": 3530,
+    "votos": 3966,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 55.25
+  },
+  {
+    "parroquia": "TANICUCHÍ",
+    "id": 3965,
+    "votos": 4696,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 52.42
+  },
+  {
+    "parroquia": "TOACAZO",
+    "id": 4035,
+    "votos": 4804,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 65.45
+  },
+  {
+    "parroquia": "ELOY ALFÁRO / SAN FELIPE",
+    "id": 5310,
+    "votos": 13531,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 60.42
+  },
+  {
+    "parroquia": "IGNACIO FLORES",
+    "id": 5465,
+    "votos": 8027,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 65.43
+  },
+  {
+    "parroquia": "JUAN MONTALVO",
+    "id": 5500,
+    "votos": 7551,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 63.45
+  },
+  {
+    "parroquia": "LA MATRIZ",
+    "id": 5555,
+    "votos": 14018,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 65.33
+  },
+  {
+    "parroquia": "SAN BUENAVENTURA",
+    "id": 5940,
+    "votos": 2452,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 63.99
+  }
+]

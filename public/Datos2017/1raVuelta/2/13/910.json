@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "COJIMÍES",
+    "id": 580,
+    "votos": 57,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.34
+  },
+  {
+    "parroquia": "ATAHUALPA",
+    "id": 785,
+    "votos": 12,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 0.93
+  },
+  {
+    "parroquia": "10 DE AGOSTO",
+    "id": 1030,
+    "votos": 44,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.97
+  },
+  {
+    "parroquia": "PEDERNALES",
+    "id": 6430,
+    "votos": 417,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.84
+  }
+]

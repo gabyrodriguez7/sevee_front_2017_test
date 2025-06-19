@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "CAPIRO",
+    "id": 505,
+    "votos": 47,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.32
+  },
+  {
+    "parroquia": "SARACAY",
+    "id": 1385,
+    "votos": 40,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.86
+  },
+  {
+    "parroquia": "LA BOCANA",
+    "id": 2230,
+    "votos": 37,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.44
+  },
+  {
+    "parroquia": "MOROMORO",
+    "id": 2465,
+    "votos": 46,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.62
+  },
+  {
+    "parroquia": "PIEDRAS",
+    "id": 2850,
+    "votos": 27,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.71
+  },
+  {
+    "parroquia": "SAN ROQUE",
+    "id": 3650,
+    "votos": 35,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.43
+  },
+  {
+    "parroquia": "PIÑAS",
+    "id": 5790,
+    "votos": 806,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.17
+  },
+  {
+    "parroquia": "PIÑAS GRANDE",
+    "id": 6675,
+    "votos": 2,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.9
+  },
+  {
+    "parroquia": "LA SUSAYA",
+    "id": 6680,
+    "votos": 10,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.62
+  }
+]

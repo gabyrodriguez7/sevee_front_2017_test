@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "CUMBARATZA",
+        "id": 720,
+        "votos": 97,
+        "candidato": "Noboa Alvaro",
+        "value": 4.62
+    },
+    {
+        "parroquia": "GUADALUPE",
+        "id": 1390,
+        "votos": 24,
+        "candidato": "Noboa Alvaro",
+        "value": 1.376
+    },
+    {
+        "parroquia": "SAN CARLOS DE LAS MINAS",
+        "id": 1770,
+        "votos": 39,
+        "candidato": "Noboa Alvaro",
+        "value": 3.888
+    },
+    {
+        "parroquia": "LA VICTORIA DE IMBANA",
+        "id": 2155,
+        "votos": 23,
+        "candidato": "Noboa Alvaro",
+        "value": 4.04
+    },
+    {
+        "parroquia": "SABANILLA",
+        "id": 3260,
+        "votos": 4,
+        "candidato": "Noboa Alvaro",
+        "value": 0.9
+    },
+    {
+        "parroquia": "TIMBARA",
+        "id": 4010,
+        "votos": 11,
+        "candidato": "Noboa Alvaro",
+        "value": 1.4608
+    },
+    {
+        "parroquia": "ZAMORA",
+        "id": 6305,
+        "votos": 210,
+        "candidato": "Noboa Alvaro",
+        "value": 2.386
+    },
+    {
+        "parroquia": "EL LIMON",
+        "id": 6840,
+        "votos": 8,
+        "candidato": "Noboa Alvaro",
+        "value": 2.676
+    }
+]

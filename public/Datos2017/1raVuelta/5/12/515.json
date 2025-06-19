@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "CARACOL",
+    "id": 520,
+    "votos": 54,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.79
+  },
+  {
+    "parroquia": "FEBRES CORDERO",
+    "id": 1265,
+    "votos": 113,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.21
+  },
+  {
+    "parroquia": "LA UNIÓN",
+    "id": 1525,
+    "votos": 77,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.12
+  },
+  {
+    "parroquia": "PIMOCHA",
+    "id": 2875,
+    "votos": 81,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.96
+  },
+  {
+    "parroquia": "CLEMENTE BAQUERIZO",
+    "id": 5215,
+    "votos": 229,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.54
+  },
+  {
+    "parroquia": "DR. CAMILO PONCE E.",
+    "id": 5285,
+    "votos": 106,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.51
+  },
+  {
+    "parroquia": "BARREIRO /SANTA RITA",
+    "id": 6830,
+    "votos": 34,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.65
+  },
+  {
+    "parroquia": "EL SALTO",
+    "id": 6835,
+    "votos": 7,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.43
+  }
+]

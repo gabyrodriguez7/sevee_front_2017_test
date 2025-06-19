@@ -1,0 +1,38 @@
+[
+	{
+		"id": 30,
+		"candidato": "Lucio Gutierrez",
+		"votos": 14278,
+		"value": 14.94
+	},
+	{
+		"id": 35,
+		"candidato": "Lucio Gutierrez",
+		"votos": 6564,
+		"value": 13.49
+	},
+	{
+		"id": 40,
+		"candidato": "Lucio Gutierrez",
+		"votos": 2391,
+		"value": 12.31
+	},
+	{
+		"id": 45,
+		"candidato": "Lucio Gutierrez",
+		"votos": 3068,
+		"value": 14.25
+	},
+	{
+		"id": 50,
+		"candidato": "Lucio Gutierrez",
+		"votos": 1971,
+		"value": 23.7
+	},
+	{
+		"id": 55,
+		"candidato": "Lucio Gutierrez",
+		"votos": 1392,
+		"value": 16.43
+	}
+]

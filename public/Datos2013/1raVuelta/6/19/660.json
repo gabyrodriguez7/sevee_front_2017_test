@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "CHITO",
+    "id": 915,
+    "votos": 213,
+    "candidato": "Lasso Guillermo",
+    "value": 44.47
+  },
+  {
+    "parroquia": "EL CHORRO",
+    "id": 1145,
+    "votos": 126,
+    "candidato": "Lasso Guillermo",
+    "value": 56.3
+  },
+  {
+    "parroquia": "LA CHONTA",
+    "id": 2015,
+    "votos": 118,
+    "candidato": "Lasso Guillermo",
+    "value": 63.1
+  },
+  {
+    "parroquia": "SAN ANDRES",
+    "id": 2110,
+    "votos": 134,
+    "candidato": "Lasso Guillermo",
+    "value": 42.1384
+  },
+  {
+    "parroquia": "PUCAPAMBA",
+    "id": 2955,
+    "votos": 30,
+    "candidato": "Lasso Guillermo",
+    "value": 27.0
+  },
+  {
+    "parroquia": "ZUMBA",
+    "id": 6315,
+    "votos": 1541,
+    "candidato": "Lasso Guillermo",
+    "value": 44.0
+  }
+]

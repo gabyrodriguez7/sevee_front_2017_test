@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "CALCETA",
+        "id": 5150,
+        "votos": 64,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.36
+    },
+    {
+        "parroquia": "QUIROGA",
+        "id": 3110,
+        "votos": 10,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.52
+    },
+    {
+        "parroquia": "MEMBRILLO",
+        "id": 240,
+        "votos": 14,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.9
+    }
+]

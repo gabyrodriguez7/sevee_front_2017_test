@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CANI",
+        "id": 500,
+        "votos": 146,
+        "candidato": "Gutierrez Lucio",
+        "value": 27.547
+    },
+    {
+        "parroquia": "COLUMBE",
+        "id": 610,
+        "votos": 2355,
+        "candidato": "Gutierrez Lucio",
+        "value": 22.491
+    },
+    {
+        "parroquia": "JUAN DE VELASCO / PONGOR",
+        "id": 1865,
+        "votos": 308,
+        "candidato": "Gutierrez Lucio",
+        "value": 19.91
+    },
+    {
+        "parroquia": "SANTIAGO DE QUITO",
+        "id": 4430,
+        "votos": 148,
+        "candidato": "Gutierrez Lucio",
+        "value": 10.81
+    },
+    {
+        "parroquia": "CAJABAMBA",
+        "id": 5145,
+        "votos": 1204,
+        "candidato": "Gutierrez Lucio",
+        "value": 16.3
+    },
+    {
+        "parroquia": "SICALPA",
+        "id": 6080,
+        "votos": 1244,
+        "candidato": "Gutierrez Lucio",
+        "value": 20.2474
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "SANTA RITA",
+        "id": 6055,
+        "votos": 2640,
+        "candidato": "Rafael Correa Delgado",
+        "value": 39.3
+    },
+    {
+        "parroquia": "CHONE",
+        "id": 5250,
+        "votos": 13824,
+        "candidato": "Rafael Correa Delgado",
+        "value": 39.8
+    },
+    {
+        "parroquia": "SAN ANTONIO / DEL PELUDO",
+        "id": 3350,
+        "votos": 1830,
+        "candidato": "Rafael Correa Delgado",
+        "value": 52.72
+    },
+    {
+        "parroquia": "RICAURTE",
+        "id": 3170,
+        "votos": 768,
+        "candidato": "Rafael Correa Delgado",
+        "value": 36.91
+    },
+    {
+        "parroquia": "ELOY ALFARO",
+        "id": 1160,
+        "votos": 708,
+        "candidato": "Rafael Correa Delgado",
+        "value": 41.48
+    },
+    {
+        "parroquia": "CONVENTO",
+        "id": 640,
+        "votos": 1446,
+        "candidato": "Rafael Correa Delgado",
+        "value": 58.97
+    },
+    {
+        "parroquia": "CANUTO",
+        "id": 495,
+        "votos": 2587,
+        "candidato": "Rafael Correa Delgado",
+        "value": 51.25
+    },
+    {
+        "parroquia": "CHIBUNGA",
+        "id": 405,
+        "votos": 601,
+        "candidato": "Rafael Correa Delgado",
+        "value": 50.55
+    },
+    {
+        "parroquia": "BOYACA",
+        "id": 380,
+        "votos": 788,
+        "candidato": "Rafael Correa Delgado",
+        "value": 44.27
+    }
+]

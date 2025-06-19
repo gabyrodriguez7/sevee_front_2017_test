@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "CANCHAGUA",
+    "id": 465,
+    "votos": 17,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.4
+  },
+  {
+    "parroquia": "CHANTILIN",
+    "id": 830,
+    "votos": 7,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.21
+  },
+  {
+    "parroquia": "COCHAPAMBA",
+    "id": 990,
+    "votos": 23,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.34
+  },
+  {
+    "parroquia": "SAQUISILÍ",
+    "id": 6070,
+    "votos": 181,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.57
+  }
+]

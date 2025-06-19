@@ -1,0 +1,191 @@
+[
+  {
+    "parroquia": "AMBATILLO",
+    "id": 95,
+    "votos": 298,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.02
+  },
+  {
+    "parroquia": "ATAHUALPA /CHIPZALATA",
+    "id": 190,
+    "votos": 1018,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 16.66
+  },
+  {
+    "parroquia": "AUGUSTO N. MARTÍNEZ",
+    "id": 210,
+    "votos": 980,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 15.7
+  },
+  {
+    "parroquia": "CONSTANTINO FERNÁNDEZ",
+    "id": 635,
+    "votos": 298,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 17.46
+  },
+  {
+    "parroquia": "CUNCHIBAMBA",
+    "id": 800,
+    "votos": 311,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.81
+  },
+  {
+    "parroquia": "UNAMUNCHO",
+    "id": 810,
+    "votos": 222,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 14.22
+  },
+  {
+    "parroquia": "HUACHI GRANDE",
+    "id": 1625,
+    "votos": 846,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 14.82
+  },
+  {
+    "parroquia": "IZAMBA",
+    "id": 1745,
+    "votos": 1986,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 15.26
+  },
+  {
+    "parroquia": "JUAN BENIGNO VELA",
+    "id": 1860,
+    "votos": 584,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.16
+  },
+  {
+    "parroquia": "MONTALVO",
+    "id": 2435,
+    "votos": 329,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 14.41
+  },
+  {
+    "parroquia": "PASA",
+    "id": 2775,
+    "votos": 458,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.49
+  },
+  {
+    "parroquia": "PICAYHUA",
+    "id": 2830,
+    "votos": 1691,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 16.96
+  },
+  {
+    "parroquia": "PILAHUÍN",
+    "id": 2860,
+    "votos": 393,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.87
+  },
+  {
+    "parroquia": "QUISAPINCHA",
+    "id": 3120,
+    "votos": 627,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.25
+  },
+  {
+    "parroquia": "SAN BARTOLOMÉ",
+    "id": 3355,
+    "votos": 903,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 16.11
+  },
+  {
+    "parroquia": "SAN FERNANDO",
+    "id": 3380,
+    "votos": 132,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.74
+  },
+  {
+    "parroquia": "SANTA ROSA",
+    "id": 3730,
+    "votos": 1584,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 14.69
+  },
+  {
+    "parroquia": "TOTORAS",
+    "id": 4065,
+    "votos": 635,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 14.74
+  },
+  {
+    "parroquia": "ATOCHA FICOA",
+    "id": 5045,
+    "votos": 1682,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 17.03
+  },
+  {
+    "parroquia": "CELIANO MONGE",
+    "id": 5230,
+    "votos": 353,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 17.13
+  },
+  {
+    "parroquia": "HUACHI LORETO",
+    "id": 5445,
+    "votos": 6897,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 16.04
+  },
+  {
+    "parroquia": "HUACHI CHICO",
+    "id": 5455,
+    "votos": 3334,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 15.78
+  },
+  {
+    "parroquia": "LA MATRIZ",
+    "id": 5545,
+    "votos": 3868,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 16.87
+  },
+  {
+    "parroquia": "LA MERCED",
+    "id": 5560,
+    "votos": 3074,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 17.81
+  },
+  {
+    "parroquia": "LA PENINSULA",
+    "id": 5605,
+    "votos": 285,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 19.53
+  },
+  {
+    "parroquia": "PISHILATA",
+    "id": 5840,
+    "votos": 336,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 15.55
+  },
+  {
+    "parroquia": "SAN FRANCISCO",
+    "id": 5945,
+    "votos": 970,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 16.75
+  }
+]

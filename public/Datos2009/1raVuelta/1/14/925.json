@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "SAN JUAN BOSCO",
+    "id": 6445,
+    "votos": 36,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 3.09
+  },
+  {
+    "parroquia": "SAN CARLOS DE LIMON",
+    "id": 3920,
+    "votos": 17,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 9.04
+  },
+  {
+    "parroquia": "PAN DE AZUCAR",
+    "id": 2750,
+    "votos": 3,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.48
+  },
+  {
+    "parroquia": "SANTIAGO DE PANANZA",
+    "id": 1785,
+    "votos": 3,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.34
+  },
+  {
+    "parroquia": "SAN JACINTO DE WAKAMBEIS",
+    "id": 710,
+    "votos": 7,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 6.03
+  }
+]

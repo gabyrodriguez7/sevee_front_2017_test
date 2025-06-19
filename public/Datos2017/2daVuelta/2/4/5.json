@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "EL CARMELO/EL PUN/",
+    "id": 1125,
+    "votos": 1056,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 60.69
+  },
+  {
+    "parroquia": "EL CHICAL",
+    "id": 1195,
+    "votos": 1061,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 64.38
+  },
+  {
+    "parroquia": "SANTA MARTHA DE CUBA",
+    "id": 1765,
+    "votos": 1070,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 70.58
+  },
+  {
+    "parroquia": "JULIO ANDRADE",
+    "id": 1885,
+    "votos": 2845,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 43.97
+  },
+  {
+    "parroquia": "MALDONADO",
+    "id": 2340,
+    "votos": 618,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 58.75
+  },
+  {
+    "parroquia": "PIOTER",
+    "id": 2900,
+    "votos": 282,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 50.63
+  },
+  {
+    "parroquia": "TOBAR DONOSO",
+    "id": 4040,
+    "votos": 364,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 75.21
+  },
+  {
+    "parroquia": "TUFIÑO",
+    "id": 4070,
+    "votos": 1184,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 62.41
+  },
+  {
+    "parroquia": "URBINA",
+    "id": 4130,
+    "votos": 527,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 57.66
+  },
+  {
+    "parroquia": "GONZALEZ SUÁREZ",
+    "id": 5415,
+    "votos": 8200,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 41.47
+  },
+  {
+    "parroquia": "TULCÁN",
+    "id": 6165,
+    "votos": 10135,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 41.42
+  }
+]

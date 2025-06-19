@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "LA AURORA",
+        "id": 6850,
+        "votos": 65,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 4.86
+    },
+    {
+        "parroquia": "DAULE",
+        "id": 5275,
+        "votos": 1029,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.13
+    },
+    {
+        "parroquia": "EL LAUREL",
+        "id": 4500,
+        "votos": 41,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.57
+    },
+    {
+        "parroquia": "LAS LOJAS",
+        "id": 2105,
+        "votos": 24,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.42
+    },
+    {
+        "parroquia": "JUAN BAUTISTA AGUIRRE",
+        "id": 1855,
+        "votos": 28,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.67
+    },
+    {
+        "parroquia": "LIMONAL",
+        "id": 260,
+        "votos": 12,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.29
+    }
+]

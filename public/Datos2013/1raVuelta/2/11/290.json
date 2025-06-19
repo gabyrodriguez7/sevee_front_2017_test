@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "EL TAMBO",
+        "id": 1200,
+        "votos": 847,
+        "candidato": "Correa Delgado Rafael",
+        "value": 49.0
+    },
+    {
+        "parroquia": "GUAYQUICHUMA",
+        "id": 1480,
+        "votos": 152,
+        "candidato": "Correa Delgado Rafael",
+        "value": 66.376
+    },
+    {
+        "parroquia": "SAN PEDRO DE LA BENDITA",
+        "id": 3610,
+        "votos": 570,
+        "candidato": "Correa Delgado Rafael",
+        "value": 51.96
+    },
+    {
+        "parroquia": "ZAMBI",
+        "id": 4455,
+        "votos": 155,
+        "candidato": "Correa Delgado Rafael",
+        "value": 47.112
+    },
+    {
+        "parroquia": "CATAMAYO",
+        "id": 5270,
+        "votos": 7094,
+        "candidato": "Correa Delgado Rafael",
+        "value": 51.0
+    },
+    {
+        "parroquia": "SAN JOSE",
+        "id": 6825,
+        "votos": 219,
+        "candidato": "Correa Delgado Rafael",
+        "value": 57.3
+    }
+]

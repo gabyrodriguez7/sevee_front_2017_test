@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "SUCRE",
+        "id": 6105,
+        "votos": 4289,
+        "candidato": "Rafael Correa Delgado",
+        "value": 49.49
+    },
+    {
+        "parroquia": "NOBOA",
+        "id": 2555,
+        "votos": 1640,
+        "candidato": "Rafael Correa Delgado",
+        "value": 53.7
+    },
+    {
+        "parroquia": "ARQ.SIXTO DURAN BALLEN",
+        "id": 1570,
+        "votos": 309,
+        "candidato": "Rafael Correa Delgado",
+        "value": 54.31
+    },
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 330,
+        "votos": 1280,
+        "candidato": "Rafael Correa Delgado",
+        "value": 59.34
+    }
+]

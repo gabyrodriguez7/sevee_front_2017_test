@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "GONZALO DÍAZ DE PINEDA",
+    "id": 1020,
+    "votos": 12,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 2.91
+  },
+  {
+    "parroquia": "LINARES",
+    "id": 2180,
+    "votos": 5,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 2.72
+  },
+  {
+    "parroquia": "OYACACHI",
+    "id": 2640,
+    "votos": 3,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.71
+  },
+  {
+    "parroquia": "SANTA ROSA DE QUIJOS",
+    "id": 3745,
+    "votos": 22,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 2.85
+  },
+  {
+    "parroquia": "SARDINAS",
+    "id": 3790,
+    "votos": 9,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 2.69
+  },
+  {
+    "parroquia": "EL CHACO",
+    "id": 5510,
+    "votos": 108,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 3.07
+  }
+]

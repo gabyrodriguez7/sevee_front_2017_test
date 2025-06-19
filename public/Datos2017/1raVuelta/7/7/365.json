@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "BUENAVISTA",
+    "id": 390,
+    "votos": 227,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 5.82
+  },
+  {
+    "parroquia": "CAÑAQUEMADA",
+    "id": 775,
+    "votos": 54,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 9.75
+  },
+  {
+    "parroquia": "PROGRESO",
+    "id": 1225,
+    "votos": 117,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 6.29
+  },
+  {
+    "parroquia": "LA PEAÑA",
+    "id": 2075,
+    "votos": 170,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 7.5
+  },
+  {
+    "parroquia": "UZHCURRUMI",
+    "id": 4160,
+    "votos": 39,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 4.33
+  },
+  {
+    "parroquia": "CASACAY",
+    "id": 4495,
+    "votos": 33,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.78
+  },
+  {
+    "parroquia": "OCHOA LEÓN/MATRIZ",
+    "id": 5770,
+    "votos": 2645,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 7.28
+  },
+  {
+    "parroquia": "LOMA DE FRANCO",
+    "id": 6365,
+    "votos": 59,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 7.14
+  },
+  {
+    "parroquia": "BOLIVAR",
+    "id": 6370,
+    "votos": 35,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 6.04
+  },
+  {
+    "parroquia": "TRES CERRITOS",
+    "id": 6375,
+    "votos": 19,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 4.61
+  },
+  {
+    "parroquia": "PASAJE",
+    "id": 6940,
+    "votos": 72,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 7.61
+  }
+]

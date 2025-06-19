@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "PEDRO CARBO",
+        "id": 5735,
+        "votos": 341,
+        "candidato": "Melba Jacome",
+        "value": 1.74
+    },
+    {
+        "parroquia": "SABANILLA",
+        "id": 1670,
+        "votos": 4,
+        "candidato": "Melba Jacome",
+        "value": 0.38
+    },
+    {
+        "parroquia": "VALLE DE LA VIRGEN",
+        "id": 185,
+        "votos": 15,
+        "candidato": "Melba Jacome",
+        "value": 1.38
+    }
+]

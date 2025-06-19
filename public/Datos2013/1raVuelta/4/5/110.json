@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "ANTONIO J. HOLGUIN",
+        "id": 135,
+        "votos": 95,
+        "candidato": "Acosta Alberto",
+        "value": 6.0
+    },
+    {
+        "parroquia": "CUSUBAMBA",
+        "id": 745,
+        "votos": 337,
+        "candidato": "Acosta Alberto",
+        "value": 9.0
+    },
+    {
+        "parroquia": "MULALILLO",
+        "id": 2475,
+        "votos": 404,
+        "candidato": "Acosta Alberto",
+        "value": 10.3
+    },
+    {
+        "parroquia": "MULLIQUINDIL",
+        "id": 2490,
+        "votos": 227,
+        "candidato": "Acosta Alberto",
+        "value": 5.3
+    },
+    {
+        "parroquia": "PANZALEO",
+        "id": 2760,
+        "votos": 109,
+        "candidato": "Acosta Alberto",
+        "value": 5.51
+    },
+    {
+        "parroquia": "SAN MIGUEL DE SALCEDO",
+        "id": 6000,
+        "votos": 1044,
+        "candidato": "Acosta Alberto",
+        "value": 5.0
+    }
+]

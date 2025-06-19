@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "SHUSHUFINDI CENTRAL",
+        "id": 6140,
+        "votos": 5199,
+        "candidato": "Rafael Correa Delgado",
+        "value": 43.71
+    },
+    {
+        "parroquia": "SAN ROQUE",
+        "id": 3645,
+        "votos": 564,
+        "candidato": "Rafael Correa Delgado",
+        "value": 58.81
+    },
+    {
+        "parroquia": "PANACOCHA",
+        "id": 2765,
+        "votos": 25,
+        "candidato": "Rafael Correa Delgado",
+        "value": 13.37
+    },
+    {
+        "parroquia": "LIMONCOCHA",
+        "id": 2175,
+        "votos": 191,
+        "candidato": "Rafael Correa Delgado",
+        "value": 28.3
+    },
+    {
+        "parroquia": "SIETE DE JULIO",
+        "id": 780,
+        "votos": 524,
+        "candidato": "Rafael Correa Delgado",
+        "value": 43.74
+    },
+    {
+        "parroquia": "SAN PEDRO DE LOS COFANES",
+        "id": 600,
+        "votos": 411,
+        "candidato": "Rafael Correa Delgado",
+        "value": 31.74
+    }
+]

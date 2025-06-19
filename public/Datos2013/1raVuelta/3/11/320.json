@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "COLAIZACA",
+        "id": 590,
+        "votos": 17,
+        "candidato": "Wray Norman",
+        "value": 1.65
+    },
+    {
+        "parroquia": "EL LUCERO",
+        "id": 1230,
+        "votos": 14,
+        "candidato": "Wray Norman",
+        "value": 1.1
+    },
+    {
+        "parroquia": "SANGUILLIN",
+        "id": 1550,
+        "votos": 5,
+        "candidato": "Wray Norman",
+        "value": 1.33
+    },
+    {
+        "parroquia": "UTUANA",
+        "id": 4150,
+        "votos": 9,
+        "candidato": "Wray Norman",
+        "value": 2.0
+    },
+    {
+        "parroquia": "CARIAMANGA",
+        "id": 5175,
+        "votos": 90,
+        "candidato": "Wray Norman",
+        "value": 0.8
+    },
+    {
+        "parroquia": "CHILE",
+        "id": 5240,
+        "votos": 16,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "SAN VICENTE",
+        "id": 6025,
+        "votos": 5,
+        "candidato": "Wray Norman",
+        "value": 1.285347
+    }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "SAN PEDRO DE LOS COFANES",
+    "id": 600,
+    "votos": 44,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 2.7
+  },
+  {
+    "parroquia": "SIETE DE JULIO",
+    "id": 780,
+    "votos": 58,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 3.47
+  },
+  {
+    "parroquia": "LIMONCOCHA",
+    "id": 2175,
+    "votos": 18,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 1.317
+  },
+  {
+    "parroquia": "PANACOCHA",
+    "id": 2765,
+    "votos": 0,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 0.0
+  },
+  {
+    "parroquia": "SAN ROQUE",
+    "id": 3645,
+    "votos": 31,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 2.3
+  },
+  {
+    "parroquia": "SHUSHUFINDI CENTRAL",
+    "id": 6140,
+    "votos": 532,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 3.41
+  }
+]

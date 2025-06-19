@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "EL RETIRO",
+        "id": 255,
+        "votos": 12,
+        "candidato": "Acosta Alberto",
+        "value": 1.0
+    },
+    {
+        "parroquia": "LA PROVIDENCIA",
+        "id": 5565,
+        "votos": 115,
+        "candidato": "Acosta Alberto",
+        "value": 2.5
+    },
+    {
+        "parroquia": "MACHALA",
+        "id": 5625,
+        "votos": 2799,
+        "candidato": "Acosta Alberto",
+        "value": 2.4
+    },
+    {
+        "parroquia": "PUERTO BOLIVAR",
+        "id": 5805,
+        "votos": 214,
+        "candidato": "Acosta Alberto",
+        "value": 1.31
+    },
+    {
+        "parroquia": "9 DE MAYO",
+        "id": 6490,
+        "votos": 73,
+        "candidato": "Acosta Alberto",
+        "value": 2.4
+    },
+    {
+        "parroquia": "EL CAMBIO",
+        "id": 6795,
+        "votos": 75,
+        "candidato": "Acosta Alberto",
+        "value": 1.6
+    }
+]

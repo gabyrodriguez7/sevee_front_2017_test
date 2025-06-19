@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "GRAL. VERNAZA",
+        "id": 1350,
+        "votos": 64,
+        "candidato": "Zavala Nelson",
+        "value": 1.6
+    },
+    {
+        "parroquia": "JUNQUILLAL",
+        "id": 1595,
+        "votos": 334,
+        "candidato": "Zavala Nelson",
+        "value": 7.24
+    },
+    {
+        "parroquia": "VICTORIA",
+        "id": 4220,
+        "votos": 20,
+        "candidato": "Zavala Nelson",
+        "value": 0.85
+    },
+    {
+        "parroquia": "BOCANA",
+        "id": 5120,
+        "votos": 14,
+        "candidato": "Zavala Nelson",
+        "value": 5.38
+    },
+    {
+        "parroquia": "CANDILEJOS",
+        "id": 5155,
+        "votos": 14,
+        "candidato": "Zavala Nelson",
+        "value": 1.958
+    },
+    {
+        "parroquia": "SALITRE",
+        "id": 5200,
+        "votos": 418,
+        "candidato": "Zavala Nelson",
+        "value": 1.9764
+    },
+    {
+        "parroquia": "PARAISO",
+        "id": 5765,
+        "votos": 2,
+        "candidato": "Zavala Nelson",
+        "value": 1.5
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 5990,
+        "votos": 1,
+        "candidato": "Zavala Nelson",
+        "value": 0.8197
+    }
+]

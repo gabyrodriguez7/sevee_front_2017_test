@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "EL CARMELO/EL PUN/",
+        "id": 1125,
+        "votos": 508,
+        "candidato": "Lasso Guillermo",
+        "value": 31.46
+    },
+    {
+        "parroquia": "EL CHICAL",
+        "id": 1195,
+        "votos": 263,
+        "candidato": "Lasso Guillermo",
+        "value": 25.61
+    },
+    {
+        "parroquia": "SANTA MARTHA DE CUBA",
+        "id": 1765,
+        "votos": 296,
+        "candidato": "Lasso Guillermo",
+        "value": 22.964
+    },
+    {
+        "parroquia": "JULIO ANDRADE",
+        "id": 1885,
+        "votos": 1986,
+        "candidato": "Lasso Guillermo",
+        "value": 33.44
+    },
+    {
+        "parroquia": "MALDONADO",
+        "id": 2340,
+        "votos": 233,
+        "candidato": "Lasso Guillermo",
+        "value": 29.0
+    },
+    {
+        "parroquia": "PIOTER",
+        "id": 2900,
+        "votos": 150,
+        "candidato": "Lasso Guillermo",
+        "value": 28.7
+    },
+    {
+        "parroquia": "TOBAR DONOSO",
+        "id": 4040,
+        "votos": 16,
+        "candidato": "Lasso Guillermo",
+        "value": 8.6
+    },
+    {
+        "parroquia": "TUFIÑO",
+        "id": 4070,
+        "votos": 419,
+        "candidato": "Lasso Guillermo",
+        "value": 25.71
+    },
+    {
+        "parroquia": "URBINA",
+        "id": 4130,
+        "votos": 252,
+        "candidato": "Lasso Guillermo",
+        "value": 30.0
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 5415,
+        "votos": 6564,
+        "candidato": "Lasso Guillermo",
+        "value": 37.0
+    },
+    {
+        "parroquia": "TULCAN",
+        "id": 6165,
+        "votos": 8185,
+        "candidato": "Lasso Guillermo",
+        "value": 37.0
+    }
+]

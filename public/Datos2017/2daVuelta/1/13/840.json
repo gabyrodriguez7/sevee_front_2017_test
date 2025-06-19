@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "SAN SEBASTIÁN",
+        "id": 1060,
+        "votos": 567,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 15.69
+    },
+    {
+        "parroquia": "BARRAGANETE",
+        "id": 1065,
+        "votos": 1136,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 38.02
+    },
+    {
+        "parroquia": "PICHINCHA /GERMUD",
+        "id": 6550,
+        "votos": 3590,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 21.34
+    }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "EL CORAZON",
+    "id": 5305,
+    "votos": 19,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.58
+  },
+  {
+    "parroquia": "RAMON CAMPAÑA",
+    "id": 3155,
+    "votos": 2,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.4
+  },
+  {
+    "parroquia": "PINLLOPATA",
+    "id": 2890,
+    "votos": 2,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.54
+  },
+  {
+    "parroquia": "MORASPUNGO",
+    "id": 2460,
+    "votos": 15,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.34
+  }
+]

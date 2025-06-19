@@ -1,0 +1,44 @@
+[
+                {
+                    "parroquia": "ZUMBA",
+                    "id": 6315,
+                    "votos": 16,
+                    "candidato": "Melba Jacome",
+                    "value": 0.51
+                },
+                {
+                    "parroquia": "PUCAPAMBA",
+                    "id": 2955,
+                    "votos": 1,
+                    "candidato": "Melba Jacome",
+                    "value": 1.14
+                },
+                {
+                    "parroquia": "SAN ANDRES",
+                    "id": 2110,
+                    "votos": 3,
+                    "candidato": "Melba Jacome",
+                    "value": 1.15
+                },
+                {
+                    "parroquia": "LA CHONTA",
+                    "id": 2015,
+                    "votos": 1,
+                    "candidato": "Melba Jacome",
+                    "value": 0.54
+                },
+                {
+                    "parroquia": "EL CHORRO",
+                    "id": 1145,
+                    "votos": 1,
+                    "candidato": "Melba Jacome",
+                    "value": 0.4
+                },
+                {
+                    "parroquia": "CHITO",
+                    "id": 915,
+                    "votos": 2,
+                    "candidato": "Melba Jacome",
+                    "value": 0.5
+                }
+            ]

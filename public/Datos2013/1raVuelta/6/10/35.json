@@ -1,0 +1,80 @@
+[
+                {
+                    "parroquia": "DR MIGUEL EGAS/PEGUCHE",
+                    "id": 1040,
+                    "votos": 613,
+                    "candidato": "Lasso Guillermo",
+                    "value": 18.0082
+                },
+                {
+                    "parroquia": "EUGENIO ESPEJO",
+                    "id": 1215,
+                    "votos": 839,
+                    "candidato": "Lasso Guillermo",
+                    "value": 21.0592
+                },
+                {
+                    "parroquia": "GONZALEZ SUAREZ",
+                    "id": 1360,
+                    "votos": 622,
+                    "candidato": "Lasso Guillermo",
+                    "value": 17.7057
+                },
+                {
+                    "parroquia": "PATAQUI",
+                    "id": 2785,
+                    "votos": 50,
+                    "candidato": "Lasso Guillermo",
+                    "value": 18.0
+                },
+                {
+                    "parroquia": "SAN JOSE DE QUICHINCHE",
+                    "id": 3490,
+                    "votos": 1080,
+                    "candidato": "Lasso Guillermo",
+                    "value": 25.7941
+                },
+                {
+                    "parroquia": "SAN JUAN DE ILUMAN",
+                    "id": 3525,
+                    "votos": 1091,
+                    "candidato": "Lasso Guillermo",
+                    "value": 24.4017
+                },
+                {
+                    "parroquia": "SAN PABLO",
+                    "id": 3590,
+                    "votos": 1652,
+                    "candidato": "Lasso Guillermo",
+                    "value": 28.1623
+                },
+                {
+                    "parroquia": "SAN RAFAEL",
+                    "id": 3630,
+                    "votos": 517,
+                    "candidato": "Lasso Guillermo",
+                    "value": 17.0122
+                },
+                {
+                    "parroquia": "SELVA ALEGRE",
+                    "id": 3810,
+                    "votos": 143,
+                    "candidato": "Lasso Guillermo",
+                    "value": 15.0526
+                },
+                {
+                    "parroquia": "JORDAN",
+                    "id": 5490,
+                    "votos": 5885,
+                    "candidato": "Lasso Guillermo",
+                    "value": 30.503
+                },
+                {
+                    "parroquia": "SAN LUIS",
+                    "id": 5980,
+                    "votos": 3638,
+                    "candidato": "Lasso Guillermo",
+                    "value": 28.0
+                }
+            ]
+            

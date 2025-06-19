@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "ELOY ALFARO",
+        "id": 6745,
+        "votos": 5093,
+        "candidato": "Rafael Correa Delgado",
+        "value": 61.45
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 6155,
+        "votos": 26294,
+        "candidato": "Rafael Correa Delgado",
+        "value": 58.29
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 6135,
+        "votos": 1079,
+        "candidato": "Rafael Correa Delgado",
+        "value": 73.7
+    },
+    {
+        "parroquia": "MANTA",
+        "id": 5635,
+        "votos": 24790,
+        "candidato": "Rafael Correa Delgado",
+        "value": 52.32
+    },
+    {
+        "parroquia": "LOS ESTEROS",
+        "id": 5570,
+        "votos": 3782,
+        "candidato": "Rafael Correa Delgado",
+        "value": 57.42
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 3550,
+        "votos": 597,
+        "candidato": "Rafael Correa Delgado",
+        "value": 53.54
+    },
+    {
+        "parroquia": "SANTA MARIANITA",
+        "id": 1800,
+        "votos": 814,
+        "candidato": "Rafael Correa Delgado",
+        "value": 79.18
+    }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "CHARAPOTO",
+    "id": 840,
+    "votos": 80,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.6
+  },
+  {
+    "parroquia": "SAN ISIDRO",
+    "id": 3445,
+    "votos": 37,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.55
+  },
+  {
+    "parroquia": "BAHÍA DE CARÁQUEZ",
+    "id": 5095,
+    "votos": 32,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.25
+  },
+  {
+    "parroquia": "LEONIDAS PLAZA G.",
+    "id": 5580,
+    "votos": 7,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.19
+  }
+]

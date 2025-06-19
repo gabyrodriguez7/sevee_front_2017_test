@@ -1,0 +1,69 @@
+[
+            {
+                "candidato1": "CORREA DELGADO RAFAEL",
+                "candidato2": "LASSO  GUILLERMO",
+                "id": 225,
+                "votos": 1058,
+                "votos1": 499,
+                "votos2": 387,
+                "fill": "#02C01C",
+                "porcentaje1": 47.16,
+                "porcentaje2": 36.57
+            },
+            {
+                "candidato1": "CORREA DELGADO RAFAEL",
+                "candidato2": "LASSO  GUILLERMO",
+                "id": 375,
+                "votos": 325,
+                "votos1": 230,
+                "votos2": 63,
+                "fill": "#02C01C",
+                "porcentaje1": 70.76,
+                "porcentaje2": 19.38
+            },
+            {
+                "candidato1": "LASSO  GUILLERMO",
+                "candidato2": "CORREA DELGADO RAFAEL",
+                "id": 4480,
+                "votos": 558,
+                "votos1": 259,
+                "votos2": 240,
+                "fill": "#002CFF",
+                "porcentaje1": 46.4,
+                "porcentaje2": 43.0
+            },
+            {
+                "candidato1": "CORREA DELGADO RAFAEL",
+                "candidato2": "LASSO  GUILLERMO",
+                "id": 4530,
+                "votos": 265,
+                "votos1": 134,
+                "votos2": 98,
+                "fill": "#02C01C",
+                "porcentaje1": 50.57,
+                "porcentaje2": 36.98
+            },
+            {
+                "candidato1": "CORREA DELGADO RAFAEL",
+                "candidato2": "LASSO  GUILLERMO",
+                "id": 4535,
+                "votos": 229,
+                "votos1": 103,
+                "votos2": 91,
+                "fill": "#02C01C",
+                "porcentaje1": 44.98,
+                "porcentaje2": 39.74
+            },
+            {
+                "candidato1": "LASSO  GUILLERMO",
+                "candidato2": "CORREA DELGADO RAFAEL",
+                "id": 5745,
+                "votos": 1976,
+                "votos1": 960,
+                "votos2": 830,
+                "fill": "#002CFF",
+                "porcentaje1": 48.6,
+                "porcentaje2": 42.0
+            }
+        ]
+    

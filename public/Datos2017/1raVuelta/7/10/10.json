@@ -1,0 +1,44 @@
+[
+    {
+        "canton": 30,
+        "candidato": "BUCARAM PULLEY ABDALA JAIME",
+        "votos": 2166,
+        "value": 45.04
+    },
+    {
+        "canton": 35,
+        "candidato": "BUCARAM PULLEY ABDALA JAIME",
+        "votos": 1280,
+        "value": 26.62
+    },
+    {
+        "canton": 40,
+        "candidato": "BUCARAM PULLEY ABDALA JAIME",
+        "votos": 436,
+        "value": 9.07
+    },
+    {
+        "canton": 45,
+        "candidato": "BUCARAM PULLEY ABDALA JAIME",
+        "votos": 480,
+        "value": 9.98
+    },
+    {
+        "canton": 50,
+        "candidato": "BUCARAM PULLEY ABDALA JAIME",
+        "votos": 183,
+        "value": 3.81
+    },
+    {
+        "canton": 55,
+        "candidato": "BUCARAM PULLEY ABDALA JAIME",
+        "votos": 172,
+        "value": 3.58
+    },
+    {
+        "canton": 998,
+        "candidato": "BUCARAM PULLEY ABDALA JAIME",
+        "votos": 92,
+        "value": 1.91
+    }
+]

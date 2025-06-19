@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "ABDÓN CALDERñN / LA UNIñN",
+    "id": 15,
+    "votos": 8,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.45
+  },
+  {
+    "parroquia": "SHAGLLI",
+    "id": 3835,
+    "votos": 11,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.03
+  },
+  {
+    "parroquia": "SAN SALVADOR DE CAÑARIBAMBA",
+    "id": 4610,
+    "votos": 0,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0
+  },
+  {
+    "parroquia": "SANTA ISABEL",
+    "id": 6045,
+    "votos": 58,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.6
+  }
+]

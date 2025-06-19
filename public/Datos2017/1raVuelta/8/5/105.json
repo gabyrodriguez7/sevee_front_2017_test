@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "ANGAMARCA",
+    "id": 125,
+    "votos": 62,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.61
+  },
+  {
+    "parroquia": "GUANGAJE",
+    "id": 1430,
+    "votos": 55,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.16
+  },
+  {
+    "parroquia": "LA VICTORIA",
+    "id": 2150,
+    "votos": 55,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.98
+  },
+  {
+    "parroquia": "PILALÓ",
+    "id": 2865,
+    "votos": 9,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.91
+  },
+  {
+    "parroquia": "TINGO",
+    "id": 4015,
+    "votos": 49,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.66
+  },
+  {
+    "parroquia": "ZUMBÁHUA",
+    "id": 4365,
+    "votos": 121,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.67
+  },
+  {
+    "parroquia": "PUJILÍ",
+    "id": 5820,
+    "votos": 723,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.07
+  }
+]

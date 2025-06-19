@@ -1,0 +1,44 @@
+[
+                {
+                    "parroquia": "BAEZA",
+                    "id": 5090,
+                    "votos": 3,
+                    "candidato": "Melba Jacome",
+                    "value": 0.26
+                },
+                {
+                    "parroquia": "SUMACO",
+                    "id": 3890,
+                    "votos": 0,
+                    "candidato": "Melba Jacome",
+                    "value": 0.0
+                },
+                {
+                    "parroquia": "SAN FRANCISCO DE BORJA",
+                    "id": 3395,
+                    "votos": 4,
+                    "candidato": "Melba Jacome",
+                    "value": 0.39
+                },
+                {
+                    "parroquia": "PAPALLACTA",
+                    "id": 2770,
+                    "votos": 1,
+                    "candidato": "Melba Jacome",
+                    "value": 0.27
+                },
+                {
+                    "parroquia": "CUYUJA",
+                    "id": 765,
+                    "votos": 1,
+                    "candidato": "Melba Jacome",
+                    "value": 0.38
+                },
+                {
+                    "parroquia": "COSANGA",
+                    "id": 670,
+                    "votos": 2,
+                    "candidato": "Melba Jacome",
+                    "value": 0.61
+                }
+            ]

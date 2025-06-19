@@ -1,0 +1,100 @@
+[
+  {
+    "parroquia": "ALLURIQUÍN",
+    "id": 75,
+    "votos": 182,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.53
+  },
+  {
+    "parroquia": "VALLE HERMOSO",
+    "id": 305,
+    "votos": 187,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 4.53
+  },
+  {
+    "parroquia": "LUZ DE AMÉRICA",
+    "id": 1755,
+    "votos": 161,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 4.62
+  },
+  {
+    "parroquia": "SAN JACINTO DEL BÚA",
+    "id": 1970,
+    "votos": 260,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 4.74
+  },
+  {
+    "parroquia": "EL ESFUERZO",
+    "id": 1990,
+    "votos": 84,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.05
+  },
+  {
+    "parroquia": "SANTA MARÍA DEL TOACHI",
+    "id": 2045,
+    "votos": 72,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.45
+  },
+  {
+    "parroquia": "PUERTO LIMÓN",
+    "id": 4440,
+    "votos": 287,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 4.78
+  },
+  {
+    "parroquia": "ABRAHAM CALAZACÓN",
+    "id": 5730,
+    "votos": 1862,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 6.85
+  },
+  {
+    "parroquia": "BOMBOLÍ",
+    "id": 5860,
+    "votos": 2383,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 6.1
+  },
+  {
+    "parroquia": "RÍO VERDE",
+    "id": 5865,
+    "votos": 3206,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 6.59
+  },
+  {
+    "parroquia": "RÍO TOACHI",
+    "id": 5870,
+    "votos": 239,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 4.57
+  },
+  {
+    "parroquia": "SANTO DOMINGO",
+    "id": 6065,
+    "votos": 3614,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 6.63
+  },
+  {
+    "parroquia": "CHIGUILPE",
+    "id": 6175,
+    "votos": 1957,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 5.47
+  },
+  {
+    "parroquia": "ZARACAY",
+    "id": 6180,
+    "votos": 296,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 5.38
+  }
+]

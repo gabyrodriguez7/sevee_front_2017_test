@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CANCHAGUA",
+        "id": 465,
+        "votos": 387,
+        "candidato": "Correa Delgado Rafael",
+        "value": 41.0
+    },
+    {
+        "parroquia": "CHANTILIN",
+        "id": 830,
+        "votos": 214,
+        "candidato": "Correa Delgado Rafael",
+        "value": 43.943
+    },
+    {
+        "parroquia": "COCHAPAMBA",
+        "id": 990,
+        "votos": 140,
+        "candidato": "Correa Delgado Rafael",
+        "value": 12.0
+    },
+    {
+        "parroquia": "SAQUISILI",
+        "id": 6070,
+        "votos": 3071,
+        "candidato": "Correa Delgado Rafael",
+        "value": 30.235
+    }
+]

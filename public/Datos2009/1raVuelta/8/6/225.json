@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "PENIPE",
+    "id": 5740,
+    "votos": 585,
+    "candidato": "Lucio Gutierrez",
+    "value": 39.68
+  },
+  {
+    "parroquia": "SAN ANTONIO DE BAYUSHIG",
+    "id": 3335,
+    "votos": 567,
+    "candidato": "Lucio Gutierrez",
+    "value": 56.58
+  },
+  {
+    "parroquia": "PUELA",
+    "id": 2975,
+    "votos": 220,
+    "candidato": "Lucio Gutierrez",
+    "value": 45.26
+  },
+  {
+    "parroquia": "MATUS",
+    "id": 2400,
+    "votos": 318,
+    "candidato": "Lucio Gutierrez",
+    "value": 52.64
+  },
+  {
+    "parroquia": "BILBAO",
+    "id": 1325,
+    "votos": 69,
+    "candidato": "Lucio Gutierrez",
+    "value": 57.5
+  },
+  {
+    "parroquia": "EL ALTAR",
+    "id": 1110,
+    "votos": 316,
+    "candidato": "Lucio Gutierrez",
+    "value": 40.56
+  },
+  {
+    "parroquia": "LA CANDELARIA",
+    "id": 925,
+    "votos": 92,
+    "candidato": "Lucio Gutierrez",
+    "value": 51.39
+  }
+]

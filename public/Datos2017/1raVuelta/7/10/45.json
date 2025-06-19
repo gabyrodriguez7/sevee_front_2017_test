@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "IMBAYA",
+    "id": 1715,
+    "votos": 18,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.92
+  },
+  {
+    "parroquia": "SAN FCO.DE NATABUELA",
+    "id": 3400,
+    "votos": 39,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.09
+  },
+  {
+    "parroquia": "SAN JOSÉ DE CHALTURA",
+    "id": 3465,
+    "votos": 58,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.7
+  },
+  {
+    "parroquia": "SAN ROQUE",
+    "id": 3640,
+    "votos": 113,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.78
+  },
+  {
+    "parroquia": "ANDRADE MARÉN/LOURDES",
+    "id": 5025,
+    "votos": 54,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.72
+  },
+  {
+    "parroquia": "ATUNTAQUI",
+    "id": 5050,
+    "votos": 198,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.48
+  }
+]

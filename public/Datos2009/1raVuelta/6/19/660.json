@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "ZUMBA",
+    "id": 6315,
+    "votos": 26,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.83
+  },
+  {
+    "parroquia": "PUCAPAMBA",
+    "id": 2955,
+    "votos": 1,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.14
+  },
+  {
+    "parroquia": "SAN ANDRES",
+    "id": 2110,
+    "votos": 4,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.54
+  },
+  {
+    "parroquia": "LA CHONTA",
+    "id": 2015,
+    "votos": 2,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.09
+  },
+  {
+    "parroquia": "EL CHORRO",
+    "id": 1145,
+    "votos": 2,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.8
+  },
+  {
+    "parroquia": "CHITO",
+    "id": 915,
+    "votos": 2,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.5
+  }
+]

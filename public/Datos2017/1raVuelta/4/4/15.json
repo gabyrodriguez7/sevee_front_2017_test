@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "EL GOALTAL / LAS JUNTAS",
+    "id": 1150,
+    "votos": 62,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10
+  },
+  {
+    "parroquia": "LA LIBERTAD",
+    "id": 2040,
+    "votos": 347,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.82
+  },
+  {
+    "parroquia": "SAN ISIDRO",
+    "id": 3435,
+    "votos": 270,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.04
+  },
+  {
+    "parroquia": "EL ÁNGEL",
+    "id": 5295,
+    "votos": 617,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 16.93
+  },
+  {
+    "parroquia": "27 DE SEPTIEMBRE",
+    "id": 6250,
+    "votos": 160,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 14.86
+  }
+]

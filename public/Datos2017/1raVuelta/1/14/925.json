@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "SAN JACINTO DE WAKAMBEIS",
+    "id": 710,
+    "votos": 81,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 38.57
+  },
+  {
+    "parroquia": "SANTIAGO DE PANANZA",
+    "id": 1785,
+    "votos": 127,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 51.42
+  },
+  {
+    "parroquia": "PAN DE AZ\u00ef\u00bf\u00bdCAR",
+    "id": 2750,
+    "votos": 61,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 29.9
+  },
+  {
+    "parroquia": "SAN CARLOS DE LIM\u00ef\u00bf\u00bdN",
+    "id": 3920,
+    "votos": 288,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 68.57
+  },
+  {
+    "parroquia": "SAN JUAN BOSCO",
+    "id": 6445,
+    "votos": 665,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 42.74
+  }
+]

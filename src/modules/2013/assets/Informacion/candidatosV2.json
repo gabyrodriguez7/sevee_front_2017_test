@@ -1,0 +1,55 @@
+[
+    {
+        "partido": "",
+        "nombrePartido": "Resultados Generales",
+        "json": "1"
+    },
+    {
+        "partido": 1,
+        "nombre": "NOBOA  ALVARO",
+        "nombrePartido": "PARTIDO RENOVADOR INSTITUCIONAL ACCION NACIONAL",
+        "json": "1"
+    },
+    {
+        "partido": 2,
+        "nombre": "CORREA DELGADO RAFAEL",
+        "nombrePartido": "MOVIMIENTO ALIANZA PAIS PATRIA ALTIVA I SOBERANA",
+        "json": "2"
+    },
+    {
+        "partido": 3,
+        "nombre": "WRAY  NORMAN",
+        "nombrePartido": "MOVIMIENTO RUPTURA",
+        "json": "3"
+    },
+    {
+        "partido": 4,
+        "nombre": "ACOSTA  ALBERTO",
+        "nombrePartido": "ALIANZA UNIDAD PLURINACIONAL DE LAS IZQUIERDAS",
+        "json": "4"
+    },
+    {
+        "partido": 5,
+        "nombre": "GUTIERREZ  LUCIO",
+        "nombrePartido": "PARTIDO SOCIEDAD PATRIÓTICA",
+        "json": "5"
+    },
+    {
+        "partido": 6,
+        "nombre": "LASSO  GUILLERMO",
+        "nombrePartido": "MOVIMIENTO CREO CREANDO OPORTUNIDADES",
+        "json": "6"
+    },
+    {
+        "partido": 7,
+        "nombre": "ZAVALA  NELSON",
+        "nombrePartido": "PARTIDO ROLDOSISTA ECUATORIANO",
+        "json": "7"
+    },
+    {
+        "partido": 8,
+        "nombre": "RODAS ESPINEL MAURICIO ESTEBAN",
+        "nombrePartido": "MOVIMIENTO SUMA SOCIEDAD UNIDA MÁS ACCIÓN",
+        "json": "8"
+    }
+]

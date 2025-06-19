@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "ABDÓN CALDERÓN / LA UNIÓN",
+    "id": 15,
+    "votos": 146,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.23
+  },
+  {
+    "parroquia": "SHAGLLI",
+    "id": 3835,
+    "votos": 124,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.67
+  },
+  {
+    "parroquia": "SAN SALVADOR DE CAÑARIBAMBA",
+    "id": 4610,
+    "votos": 34,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.04
+  },
+  {
+    "parroquia": "SANTA ISABEL",
+    "id": 6045,
+    "votos": 907,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.46
+  }
+]

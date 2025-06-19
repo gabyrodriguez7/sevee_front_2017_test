@@ -1,0 +1,552 @@
+[
+    {
+        "id": "11",
+        "candidato": "Alvaro Noboa",
+        "votos": 20,
+        "value": "(13.6%)",
+        "aux": "votos"
+      },
+      {
+        "id": "31",
+        "candidato": "Alvaro Noboa",
+        "votos": 6,
+        "value": "(14.63%)",
+        "aux": "votos"
+      },
+      {
+        "id": "41",
+        "candidato": "Alvaro Noboa",
+        "votos": 11,
+        "value": "(11.34%)",
+        "aux": "votos"
+      },
+      {
+        "id": "51",
+        "candidato": "Alvaro Noboa",
+        "votos": 26,
+        "value": "(6.7%)",
+        "aux": "votos"
+      },
+      {
+        "id": "101",
+        "candidato": "Alvaro Noboa",
+        "votos": 2,
+        "value": "(33.33%)",
+        "aux": "votos"
+      },
+      {
+        "id": "141",
+        "candidato": "Alvaro Noboa",
+        "votos": 3,
+        "value": "(11.11%)",
+        "aux": "votos"
+      },
+      {
+        "id": "171",
+        "candidato": "Alvaro Noboa",
+        "votos": 6095,
+        "value": "(17.62%)",
+        "aux": "votos"
+      },
+      {
+        "id": "191",
+        "candidato": "Alvaro Noboa",
+        "votos": 39,
+        "value": "(14.77%)",
+        "aux": "votos"
+      },
+      {
+        "id": "201",
+        "candidato": "Alvaro Noboa",
+        "votos": 37,
+        "value": "(8.68%)",
+        "aux": "votos"
+      },
+      {
+        "id": "231",
+        "candidato": "Alvaro Noboa",
+        "votos": 1,
+        "value": "(4.34%)",
+        "aux": "votos"
+      },
+      {
+        "id": "242",
+        "candidato": "Alvaro Noboa",
+        "votos": 5,
+        "value": "(38.46%)",
+        "aux": "votos"
+      },
+      {
+        "id": "251",
+        "candidato": "Alvaro Noboa",
+        "votos": 7,
+        "value": "(24.13%)",
+        "aux": "votos"
+      },
+      {
+        "id": "261",
+        "candidato": "Alvaro Noboa",
+        "votos": 2082,
+        "value": "(20.32%)",
+        "aux": "votos"
+      },
+      {
+        "id": "271",
+        "candidato": "Alvaro Noboa",
+        "votos": 1,
+        "value": "(12.5%)",
+        "aux": "votos"
+      },
+      {
+        "id": "301",
+        "candidato": "Alvaro Noboa",
+        "votos": 5,
+        "value": "(9.61%)",
+        "aux": "votos"
+      },
+      {
+        "id": "361",
+        "candidato": "Alvaro Noboa",
+        "votos": 17,
+        "value": "(14.28%)",
+        "aux": "votos"
+      },
+      {
+        "id": "371",
+        "candidato": "Alvaro Noboa",
+        "votos": 35,
+        "value": "(9.74%)",
+        "aux": "votos"
+      },
+      {
+        "id": "381",
+        "candidato": "Alvaro Noboa",
+        "votos": 5,
+        "value": "(4.54%)",
+        "aux": "votos"
+      },
+      {
+        "id": "411",
+        "candidato": "Alvaro Noboa",
+        "votos": 2,
+        "value": "(33.33%)",
+        "aux": "votos"
+      },
+      {
+        "id": "421",
+        "candidato": "Alvaro Noboa",
+        "votos": 0,
+        "value": "(0.0%)",
+        "aux": "votos"
+      },
+      {
+        "id": "431",
+        "candidato": "Alvaro Noboa",
+        "votos": 3,
+        "value": "(23.07%)",
+        "aux": "votos"
+      },
+      {
+        "id": "81",
+        "candidato": "Alvaro Noboa",
+        "votos": 139,
+        "value": "(12.83%)",
+        "aux": "votos"
+      },
+      {
+        "id": "181",
+        "candidato": "Alvaro Noboa",
+        "votos": 1462,
+        "value": "(12.67%)",
+        "aux": "votos"
+      },
+      {
+        "id": "21",
+        "candidato": "Alvaro Noboa",
+        "votos": 64,
+        "value": "(14.51%)",
+        "aux": "votos"
+      },
+      {
+        "id": "61",
+        "candidato": "Alvaro Noboa",
+        "votos": 12,
+        "value": "(22.22%)",
+        "aux": "votos"
+      },
+      {
+        "id": "71",
+        "candidato": "Alvaro Noboa",
+        "votos": 10,
+        "value": "(30.3%)",
+        "aux": "votos"
+      },
+      {
+        "id": "91",
+        "candidato": "Alvaro Noboa",
+        "votos": 49,
+        "value": "(13.76%)",
+        "aux": "votos"
+      },
+      {
+        "id": "111",
+        "candidato": "Alvaro Noboa",
+        "votos": 14,
+        "value": "(15.05%)",
+        "aux": "votos"
+      },
+      {
+        "id": "121",
+        "candidato": "Alvaro Noboa",
+        "votos": 37,
+        "value": "(2.51%)",
+        "aux": "votos"
+      },
+      {
+        "id": "131",
+        "candidato": "Alvaro Noboa",
+        "votos": 346,
+        "value": "(23.56%)",
+        "aux": "votos"
+      },
+      {
+        "id": "161",
+        "candidato": "Alvaro Noboa",
+        "votos": 6,
+        "value": "(22.22%)",
+        "aux": "votos"
+      },
+      {
+        "id": "211",
+        "candidato": "Alvaro Noboa",
+        "votos": 12,
+        "value": "(40.0%)",
+        "aux": "votos"
+      },
+      {
+        "id": "221",
+        "candidato": "Alvaro Noboa",
+        "votos": 19,
+        "value": "(28.78%)",
+        "aux": "votos"
+      },
+      {
+        "id": "281",
+        "candidato": "Alvaro Noboa",
+        "votos": 24,
+        "value": "(21.42%)",
+        "aux": "votos"
+      },
+      {
+        "id": "291",
+        "candidato": "Alvaro Noboa",
+        "votos": 2,
+        "value": "(7.69%)",
+        "aux": "votos"
+      },
+      {
+        "id": "312",
+        "candidato": "Alvaro Noboa",
+        "votos": 19,
+        "value": "(23.17%)",
+        "aux": "votos"
+      },
+      {
+        "id": "321",
+        "candidato": "Alvaro Noboa",
+        "votos": 3,
+        "value": "(20.0%)",
+        "aux": "votos"
+      },
+      {
+        "id": "331",
+        "candidato": "Alvaro Noboa",
+        "votos": 66,
+        "value": "(25.78%)",
+        "aux": "votos"
+      },
+      {
+        "id": "341",
+        "candidato": "Alvaro Noboa",
+        "votos": 0,
+        "value": "(0.0%)",
+        "aux": "votos"
+      },
+      {
+        "id": "351",
+        "candidato": "Alvaro Noboa",
+        "votos": 8,
+        "value": "(10.81%)",
+        "aux": "votos"
+      },
+      {
+        "id": "391",
+        "candidato": "Alvaro Noboa",
+        "votos": 4,
+        "value": "(16.0%)",
+        "aux": "votos"
+      },
+      {
+        "id": "401",
+        "candidato": "Alvaro Noboa",
+        "votos": 900,
+        "value": "(26.09%)",
+        "aux": "votos"
+      },
+    {
+        "id": "EC",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "SR",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "PR",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "NI",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "JM",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "HT",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "GY",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "GF",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "BZ",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "YE",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "VN",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "UZ",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "UA",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "TM",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "TH",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "SY",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "SG",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "RS",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "RO",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "CZ",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "PT",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "PL",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "PS",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "PK",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "OM",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "NO",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "MM",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "ME",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "RO",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "MN",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "MY",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "MK",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "LU",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "LT",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "LB",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "LV",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "LA",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "KW",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "KG",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "KZ",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "JO",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "JE",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "IE",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "IR",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "IQ",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "FI",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "PH",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "EE",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "SI",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "SK",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "AE",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "DK",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "HR",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "KP",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "KH",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "BA",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "AZ",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "AM",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "SA",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "AL",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "AF",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "MD",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "GR",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "BY",
+        "fill": "#ced4da"
+    }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "parroquia": "ALLURIQUÍN",
+    "id": 75,
+    "votos": 3109,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 55.37
+  },
+  {
+    "parroquia": "VALLE HERMOSO",
+    "id": 305,
+    "votos": 1790,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 39.98
+  },
+  {
+    "parroquia": "LUZ DE AMÉRICA",
+    "id": 1755,
+    "votos": 1507,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 39.98
+  },
+  {
+    "parroquia": "SAN JACINTO DEL BÚA",
+    "id": 1970,
+    "votos": 2399,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 39.02
+  },
+  {
+    "parroquia": "EL ESFUERZO",
+    "id": 1990,
+    "votos": 1565,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 51.98
+  },
+  {
+    "parroquia": "SANTA MARÍA DEL TOACHI",
+    "id": 2045,
+    "votos": 1145,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 48.17
+  },
+  {
+    "parroquia": "PUERTO LIMÓN",
+    "id": 4440,
+    "votos": 2893,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 44.09
+  },
+  {
+    "parroquia": "ABRAHAM CALAZACÓN",
+    "id": 5730,
+    "votos": 12961,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 45.28
+  },
+  {
+    "parroquia": "BOMBOLÍ",
+    "id": 5860,
+    "votos": 19598,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 48.15
+  },
+  {
+    "parroquia": "RÍO VERDE",
+    "id": 5865,
+    "votos": 23981,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 47.07
+  },
+  {
+    "parroquia": "RÍO TOACHI",
+    "id": 5870,
+    "votos": 2717,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 49
+  },
+  {
+    "parroquia": "SANTO DOMINGO",
+    "id": 6065,
+    "votos": 28837,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 49.85
+  },
+  {
+    "parroquia": "CHIGUILPE",
+    "id": 6175,
+    "votos": 19216,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 51.4
+  },
+  {
+    "parroquia": "ZARACAY",
+    "id": 6180,
+    "votos": 3166,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 56.35
+  }
+]

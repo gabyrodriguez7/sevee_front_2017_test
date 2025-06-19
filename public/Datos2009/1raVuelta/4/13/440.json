@@ -1,0 +1,114 @@
+[
+    {
+        "parroquia": "SIMON BOLIVAR",
+        "id": 6910,
+        "votos": 333,
+        "candidato": "Rafael Correa Delgado",
+        "value": 53.88
+    },
+    {
+        "parroquia": "FRANCISCO PACHECO",
+        "id": 6775,
+        "votos": 347,
+        "candidato": "Rafael Correa Delgado",
+        "value": 50.73
+    },
+    {
+        "parroquia": "18 DE OCTUBRE",
+        "id": 6770,
+        "votos": 124,
+        "candidato": "Rafael Correa Delgado",
+        "value": 40.66
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 6585,
+        "votos": 1802,
+        "candidato": "Rafael Correa Delgado",
+        "value": 53.19
+    },
+    {
+        "parroquia": "PICOAZA",
+        "id": 5845,
+        "votos": 4713,
+        "candidato": "Rafael Correa Delgado",
+        "value": 48.14
+    },
+    {
+        "parroquia": "PORTOVIEJO",
+        "id": 5795,
+        "votos": 11596,
+        "candidato": "Rafael Correa Delgado",
+        "value": 49.2
+    },
+    {
+        "parroquia": "12 DE MARZO",
+        "id": 5280,
+        "votos": 13591,
+        "candidato": "Rafael Correa Delgado",
+        "value": 47.88
+    },
+    {
+        "parroquia": "COLON",
+        "id": 5265,
+        "votos": 5109,
+        "candidato": "Rafael Correa Delgado",
+        "value": 54.83
+    },
+    {
+        "parroquia": "ANDRES DE VERA",
+        "id": 5030,
+        "votos": 17781,
+        "candidato": "Rafael Correa Delgado",
+        "value": 50.48
+    },
+    {
+        "parroquia": "SAN PLACIDO",
+        "id": 3625,
+        "votos": 2417,
+        "candidato": "Rafael Correa Delgado",
+        "value": 53.43
+    },
+    {
+        "parroquia": "RIO CHICO",
+        "id": 3185,
+        "votos": 3590,
+        "candidato": "Rafael Correa Delgado",
+        "value": 61.5
+    },
+    {
+        "parroquia": "PUEBLO NUEVO",
+        "id": 2970,
+        "votos": 1051,
+        "candidato": "Rafael Correa Delgado",
+        "value": 63.58
+    },
+    {
+        "parroquia": "CHIRIJOS",
+        "id": 1925,
+        "votos": 359,
+        "candidato": "Rafael Correa Delgado",
+        "value": 57.72
+    },
+    {
+        "parroquia": "CRUCITA",
+        "id": 770,
+        "votos": 2689,
+        "candidato": "Rafael Correa Delgado",
+        "value": 51.86
+    },
+    {
+        "parroquia": "ALHAJUELA /BAJO GRANDE",
+        "id": 50,
+        "votos": 1745,
+        "candidato": "Rafael Correa Delgado",
+        "value": 59.66
+    },
+    {
+        "parroquia": "ABDON CALDERON",
+        "id": 10,
+        "votos": 4422,
+        "candidato": "Rafael Correa Delgado",
+        "value": 60.04
+    }
+]

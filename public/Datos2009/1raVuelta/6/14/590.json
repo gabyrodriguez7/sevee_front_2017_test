@@ -1,0 +1,65 @@
+[
+                {
+                    "parroquia": "MACAS",
+                    "id": 5615,
+                    "votos": 74,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 0.78
+                },
+                {
+                    "parroquia": "SINAI",
+                    "id": 4485,
+                    "votos": 1,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 0.25
+                },
+                {
+                    "parroquia": "ZUNAC",
+                    "id": 4360,
+                    "votos": 1,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 1.27
+                },
+                {
+                    "parroquia": "SEVILLA DON BOSCO",
+                    "id": 3830,
+                    "votos": 25,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 0.78
+                },
+                {
+                    "parroquia": "SAN ISIDRO",
+                    "id": 3440,
+                    "votos": 1,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 0.28
+                },
+                {
+                    "parroquia": "RIO BLANCO",
+                    "id": 1730,
+                    "votos": 4,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 0.94
+                },
+                {
+                    "parroquia": "GRAL. PROA O",
+                    "id": 1345,
+                    "votos": 4,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 0.7
+                },
+                {
+                    "parroquia": "CUCHAENTZA",
+                    "id": 1250,
+                    "votos": 0,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 0.0
+                },
+                {
+                    "parroquia": "ALSHI /9 DE OCTUBRE",
+                    "id": 65,
+                    "votos": 1,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 0.52
+                }
+            ]

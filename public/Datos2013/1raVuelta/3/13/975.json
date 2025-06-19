@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "SALANGO",
+        "id": 1920,
+        "votos": 20,
+        "candidato": "Wray Norman",
+        "value": 1.214
+    },
+    {
+        "parroquia": "MACHALILLA",
+        "id": 2305,
+        "votos": 20,
+        "candidato": "Wray Norman",
+        "value": 0.7018
+    },
+    {
+        "parroquia": "PUERTO LOPEZ",
+        "id": 6575,
+        "votos": 50,
+        "candidato": "Wray Norman",
+        "value": 0.62
+    }
+]

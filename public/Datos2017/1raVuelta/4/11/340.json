@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "BELLAVISTA",
+    "id": 320,
+    "votos": 78,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.84
+  },
+  {
+    "parroquia": "EL INGENIO",
+    "id": 790,
+    "votos": 44,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 4.4
+  },
+  {
+    "parroquia": "EL AIRO",
+    "id": 1645,
+    "votos": 18,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 3.69
+  },
+  {
+    "parroquia": "JIMBURA",
+    "id": 1845,
+    "votos": 132,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.68
+  },
+  {
+    "parroquia": "SANTA TERESITA",
+    "id": 3765,
+    "votos": 70,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.83
+  },
+  {
+    "parroquia": "27 DE ABRIL /LA NARANJA",
+    "id": 4460,
+    "votos": 73,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.78
+  },
+  {
+    "parroquia": "AMALUZA",
+    "id": 5020,
+    "votos": 379,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.56
+  }
+]

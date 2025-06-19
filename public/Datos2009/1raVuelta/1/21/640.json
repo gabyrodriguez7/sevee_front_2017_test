@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "LA BONITA",
+    "id": 5525,
+    "votos": 8,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.74
+  },
+  {
+    "parroquia": "SANTA BARBARA",
+    "id": 3690,
+    "votos": 12,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.48
+  },
+  {
+    "parroquia": "ROSA FLORIDA",
+    "id": 3220,
+    "votos": 2,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 0.8
+  },
+  {
+    "parroquia": "LA SOFIA",
+    "id": 2095,
+    "votos": 10,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 17.54
+  },
+  {
+    "parroquia": "EL PLAYON DE SN. FRANCISCO",
+    "id": 1170,
+    "votos": 15,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.65
+  }
+]

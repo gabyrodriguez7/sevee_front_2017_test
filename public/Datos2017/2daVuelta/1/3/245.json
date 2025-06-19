@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "JERUSALÉN",
+    "id": 1085,
+    "votos": 184,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 46.82
+  },
+  {
+    "parroquia": "NAZÓN",
+    "id": 2545,
+    "votos": 1233,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 66.72
+  },
+  {
+    "parroquia": "SAN FCO. DE SAGEO",
+    "id": 3410,
+    "votos": 421,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 56.97
+  },
+  {
+    "parroquia": "TURUPAMBA",
+    "id": 4100,
+    "votos": 152,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 37.35
+  },
+  {
+    "parroquia": "BIBLIÁN",
+    "id": 5115,
+    "votos": 4771,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 55.25
+  }
+]

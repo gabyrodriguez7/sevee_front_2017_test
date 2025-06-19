@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "SAN VICENTE",
+        "id": 6025,
+        "votos": 12,
+        "candidato": "Alvaro Noboa",
+        "value": 3.73
+    },
+    {
+        "parroquia": "CHILE",
+        "id": 5240,
+        "votos": 53,
+        "candidato": "Alvaro Noboa",
+        "value": 4.13
+    },
+    {
+        "parroquia": "CARIAMANGA",
+        "id": 5175,
+        "votos": 483,
+        "candidato": "Alvaro Noboa",
+        "value": 5.63
+    },
+    {
+        "parroquia": "UTUANA",
+        "id": 4150,
+        "votos": 11,
+        "candidato": "Alvaro Noboa",
+        "value": 2.9
+    },
+    {
+        "parroquia": "SANGUILLIN",
+        "id": 1550,
+        "votos": 7,
+        "candidato": "Alvaro Noboa",
+        "value": 2.75
+    },
+    {
+        "parroquia": "EL LUCERO",
+        "id": 1230,
+        "votos": 21,
+        "candidato": "Alvaro Noboa",
+        "value": 2.38
+    },
+    {
+        "parroquia": "COLAIZACA",
+        "id": 590,
+        "votos": 18,
+        "candidato": "Alvaro Noboa",
+        "value": 2.0
+    }
+]

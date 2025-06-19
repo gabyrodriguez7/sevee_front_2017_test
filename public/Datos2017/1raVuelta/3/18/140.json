@@ -1,0 +1,72 @@
+[
+  {
+    "parroquia": "BENÍTEZ /PACHANLICA",
+    "id": 335,
+    "votos": 478,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 29.49
+  },
+  {
+    "parroquia": "BOLÍVAR",
+    "id": 365,
+    "votos": 453,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 26.62
+  },
+  {
+    "parroquia": "COTALO",
+    "id": 675,
+    "votos": 592,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 43.24
+  },
+  {
+    "parroquia": "CHIQUICHA",
+    "id": 900,
+    "votos": 432,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 30.86
+  },
+  {
+    "parroquia": "EL ROSARIO /RUMICHACA",
+    "id": 1185,
+    "votos": 541,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 32.32
+  },
+  {
+    "parroquia": "GARCÍA MORENO",
+    "id": 1320,
+    "votos": 646,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 28.92
+  },
+  {
+    "parroquia": "HUAMBALO",
+    "id": 1630,
+    "votos": 1706,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 33.43
+  },
+  {
+    "parroquia": "SALASACA",
+    "id": 3905,
+    "votos": 596,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 17.72
+  },
+  {
+    "parroquia": "PELILEO",
+    "id": 5780,
+    "votos": 4748,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 25.92
+  },
+  {
+    "parroquia": "PELILÉO GRANDE /R. MINO",
+    "id": 5900,
+    "votos": 204,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 25.89
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "candidato": "MARTHA ROLDOS BUCARAM",
+    "partido": "ALIANZA IZQUIERDA UNIDA",
+    "value": 6.22,
+    "fill": "#FF0000"
+  },
+  {
+    "candidato": "DIEGO DELGADO JARA",
+    "partido": "MOVIMIENTO DE INTEGRACION Y TRANSFORMACION SOCIAL",
+    "value": 0.54,
+    "fill": "#DF3CB7"
+  },
+  {
+    "candidato": "CARLOS GONZALEZ ALBORNOZ",
+    "partido": "MOVIMIENTO INDEPENDIENTE JUSTO Y SOLIDARIO",
+    "value": 0.55,
+    "fill": "#FF8C00"
+  },
+  {
+    "candidato": "RAFAEL CORREA DELGADO",
+    "partido": "MOVIMIENTO PATRIA ALTIVA I SOBERANA",
+    "value": 62.57,
+    "fill": "#02C01C"
+  },
+  {
+    "candidato": "MELBA JACOME",
+    "partido": "MOVIMIENTO TIERRA FERTIL",
+    "value": 1.19,
+    "fill": "#ABAB01"
+  },
+  {
+    "candidato": "CARLOS SAGNAY DE LA BASTIDA",
+    "partido": "MOVIMIENTO TRIUNFO MIL",
+    "value": 0.75,
+    "fill": "#03CEAD"
+  },
+  {
+    "candidato": "ALVARO NOBOA",
+    "partido": "PARTIDO RENOVADOR INSTITUCIONAL ACCION NACIONAL",
+    "value": 17.14,
+    "fill": "#CACE03"
+  },
+  {
+    "candidato": "LUCIO GUTIERREZ",
+    "partido": "PARTIDO SOCIEDAD PATRIOTICA 21 DE ENERO",
+    "value": 10.99,
+    "fill": "#455709"
+  }
+]

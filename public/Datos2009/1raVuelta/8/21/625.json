@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "NUEVA LOJA",
+    "id": 5710,
+    "votos": 9999,
+    "candidato": "Lucio Gutierrez",
+    "value": 38.26
+  },
+  {
+    "parroquia": "JAMBELI",
+    "id": 1795,
+    "votos": 382,
+    "candidato": "Lucio Gutierrez",
+    "value": 51.76
+  },
+  {
+    "parroquia": "SANTA CECILIA",
+    "id": 1790,
+    "votos": 652,
+    "candidato": "Lucio Gutierrez",
+    "value": 50.43
+  },
+  {
+    "parroquia": "GENERAL FARFAN",
+    "id": 1330,
+    "votos": 304,
+    "candidato": "Lucio Gutierrez",
+    "value": 25.08
+  },
+  {
+    "parroquia": "PACAYACU",
+    "id": 1290,
+    "votos": 579,
+    "candidato": "Lucio Gutierrez",
+    "value": 24.13
+  },
+  {
+    "parroquia": "EL ENO",
+    "id": 1285,
+    "votos": 1278,
+    "candidato": "Lucio Gutierrez",
+    "value": 61.98
+  },
+  {
+    "parroquia": "DURENO",
+    "id": 1045,
+    "votos": 454,
+    "candidato": "Lucio Gutierrez",
+    "value": 36.26
+  }
+]

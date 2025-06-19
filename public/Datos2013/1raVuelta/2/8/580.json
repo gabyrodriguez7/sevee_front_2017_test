@@ -1,0 +1,93 @@
+[
+    {
+        "parroquia": "ALTO TAMBO/GUADAL",
+        "id": 70,
+        "votos": 233,
+        "candidato": "Correa Delgado Rafael",
+        "value": 48.24
+    },
+    {
+        "parroquia": "ANCON/PALMA REAL",
+        "id": 110,
+        "votos": 444,
+        "candidato": "Correa Delgado Rafael",
+        "value": 75.3
+    },
+    {
+        "parroquia": "CALDERON",
+        "id": 435,
+        "votos": 263,
+        "candidato": "Correa Delgado Rafael",
+        "value": 74.29
+    },
+    {
+        "parroquia": "CARONDELET",
+        "id": 535,
+        "votos": 267,
+        "candidato": "Correa Delgado Rafael",
+        "value": 62.0
+    },
+    {
+        "parroquia": "5 DE JUNIO/HUIMBI",
+        "id": 570,
+        "votos": 108,
+        "candidato": "Correa Delgado Rafael",
+        "value": 77.0
+    },
+    {
+        "parroquia": "CONCEPCION",
+        "id": 620,
+        "votos": 343,
+        "candidato": "Correa Delgado Rafael",
+        "value": 67.79
+    },
+    {
+        "parroquia": "MATAJE",
+        "id": 2395,
+        "votos": 200,
+        "candidato": "Correa Delgado Rafael",
+        "value": 80.321
+    },
+    {
+        "parroquia": "SAN JAVIER DE CACHABI",
+        "id": 3455,
+        "votos": 218,
+        "candidato": "Correa Delgado Rafael",
+        "value": 68.1
+    },
+    {
+        "parroquia": "SANTA RITA",
+        "id": 3725,
+        "votos": 447,
+        "candidato": "Correa Delgado Rafael",
+        "value": 84.5
+    },
+    {
+        "parroquia": "TAMBILLO",
+        "id": 3955,
+        "votos": 411,
+        "candidato": "Correa Delgado Rafael",
+        "value": 75.0
+    },
+    {
+        "parroquia": "TULULBI /RICAURTE",
+        "id": 4075,
+        "votos": 355,
+        "candidato": "Correa Delgado Rafael",
+        "value": 58.197
+    },
+    {
+        "parroquia": "URBINA",
+        "id": 4125,
+        "votos": 201,
+        "candidato": "Correa Delgado Rafael",
+        "value": 51.145
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 6130,
+        "votos": 6003,
+        "candidato": "Correa Delgado Rafael",
+        "value": 62.73
+    }
+]

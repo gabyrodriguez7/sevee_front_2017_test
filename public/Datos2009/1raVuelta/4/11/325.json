@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "MACARA",
+        "id": 5680,
+        "votos": 4025,
+        "candidato": "Rafael Correa Delgado",
+        "value": 61.38
+    },
+    {
+        "parroquia": "GRAL.ELOY ALFARO",
+        "id": 5385,
+        "votos": 473,
+        "candidato": "Rafael Correa Delgado",
+        "value": 58.46
+    },
+    {
+        "parroquia": "SABIANGO",
+        "id": 3265,
+        "votos": 299,
+        "candidato": "Rafael Correa Delgado",
+        "value": 78.27
+    },
+    {
+        "parroquia": "LA VICTORIA",
+        "id": 2145,
+        "votos": 263,
+        "candidato": "Rafael Correa Delgado",
+        "value": 55.02
+    },
+    {
+        "parroquia": "LA RAMA",
+        "id": 2085,
+        "votos": 313,
+        "candidato": "Rafael Correa Delgado",
+        "value": 77.66
+    }
+]

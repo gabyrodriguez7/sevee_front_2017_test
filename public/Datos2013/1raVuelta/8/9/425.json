@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "TARIFA",
+        "id": 3975,
+        "votos": 57,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.2795
+    },
+    {
+        "parroquia": "SAMBORONDON",
+        "id": 5925,
+        "votos": 293,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.3954
+    },
+    {
+        "parroquia": "LA PUNTILLA(SATELITE)",
+        "id": 7445,
+        "votos": 654,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.634
+    }
+]

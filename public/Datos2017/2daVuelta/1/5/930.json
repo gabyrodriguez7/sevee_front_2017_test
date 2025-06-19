@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "PALO QUEMADO",
+        "id": 815,
+        "votos": 309,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 56.39
+    },
+    {
+        "parroquia": "CHUGCHILAN",
+        "id": 960,
+        "votos": 1868,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 45.09
+    },
+    {
+        "parroquia": "ISINLIVI",
+        "id": 1735,
+        "votos": 900,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 46.85
+    },
+    {
+        "parroquia": "LAS PAMPAS",
+        "id": 2115,
+        "votos": 477,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 35.1
+    },
+    {
+        "parroquia": "SIGCHOS",
+        "id": 6450,
+        "votos": 2982,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 48.12
+    }
+]

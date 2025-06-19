@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "ANGAMARCA",
+    "id": 125,
+    "votos": 760,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 31.97
+  },
+  {
+    "parroquia": "GUANGAJE",
+    "id": 1430,
+    "votos": 1183,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 24.99
+  },
+  {
+    "parroquia": "LA VICTORIA",
+    "id": 2150,
+    "votos": 598,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 32.41
+  },
+  {
+    "parroquia": "PILALÓ",
+    "id": 2865,
+    "votos": 359,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 36.45
+  },
+  {
+    "parroquia": "TINGO",
+    "id": 4015,
+    "votos": 591,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 32.03
+  },
+  {
+    "parroquia": "ZUMBÁHUA",
+    "id": 4365,
+    "votos": 2079,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 28.74
+  },
+  {
+    "parroquia": "PUJILÍ",
+    "id": 5820,
+    "votos": 6647,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 28.24
+  }
+]

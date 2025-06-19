@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "LA PAZ",
+    "id": 2070,
+    "votos": 202,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 18.26
+  },
+  {
+    "parroquia": "TUTUPALI",
+    "id": 4105,
+    "votos": 187,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 38.64
+  },
+  {
+    "parroquia": "28 DE MAYO",
+    "id": 6215,
+    "votos": 620,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 28.66
+  }
+]

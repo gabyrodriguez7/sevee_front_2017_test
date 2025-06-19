@@ -1,0 +1,93 @@
+[
+  {
+    "parroquia": "CAMARONES",
+    "id": 450,
+    "votos": 645,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 42.49
+  },
+  {
+    "parroquia": "CRNL.CARLOS CONCHA TORRES",
+    "id": 655,
+    "votos": 498,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 48.73
+  },
+  {
+    "parroquia": "CHINCA",
+    "id": 895,
+    "votos": 1079,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 50.92
+  },
+  {
+    "parroquia": "MAJUA",
+    "id": 2320,
+    "votos": 622,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 45.9
+  },
+  {
+    "parroquia": "SAN MATEO",
+    "id": 3570,
+    "votos": 1416,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 43.62
+  },
+  {
+    "parroquia": "TABIAZO",
+    "id": 3930,
+    "votos": 747,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 42.04
+  },
+  {
+    "parroquia": "TACHINA",
+    "id": 3940,
+    "votos": 1064,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 42.06
+  },
+  {
+    "parroquia": "VUELTA LARGA",
+    "id": 4240,
+    "votos": 8181,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 51.16
+  },
+  {
+    "parroquia": "BARTOLOMÉ RUÍZ",
+    "id": 5205,
+    "votos": 9879,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 54.1
+  },
+  {
+    "parroquia": "5 DE AGOSTO",
+    "id": 5210,
+    "votos": 16593,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 57.93
+  },
+  {
+    "parroquia": "ESMERALDAS",
+    "id": 5335,
+    "votos": 18227,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 56.31
+  },
+  {
+    "parroquia": "LUIS TELLO / LAS PALMAS /",
+    "id": 5600,
+    "votos": 3693,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 52.97
+  },
+  {
+    "parroquia": "SIMÓN PLATA TORRES",
+    "id": 6905,
+    "votos": 3709,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 49.49
+  }
+]

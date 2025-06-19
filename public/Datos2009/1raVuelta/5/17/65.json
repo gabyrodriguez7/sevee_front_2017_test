@@ -1,0 +1,58 @@
+[
+                {
+                    "parroquia": "JUAN MONTALVO",
+                    "id": 5495,
+                    "votos": 18,
+                    "candidato": "Melba Jacome",
+                    "value": 1.41
+                },
+                {
+                    "parroquia": "CAYAMBE",
+                    "id": 5190,
+                    "votos": 139,
+                    "candidato": "Melba Jacome",
+                    "value": 0.62
+                },
+                {
+                    "parroquia": "AYORA",
+                    "id": 5060,
+                    "votos": 28,
+                    "candidato": "Melba Jacome",
+                    "value": 1.19
+                },
+                {
+                    "parroquia": "STA.ROSA DE CUSUBAMBA",
+                    "id": 3735,
+                    "votos": 6,
+                    "candidato": "Melba Jacome",
+                    "value": 0.38
+                },
+                {
+                    "parroquia": "OTON",
+                    "id": 2635,
+                    "votos": 9,
+                    "candidato": "Melba Jacome",
+                    "value": 0.71
+                },
+                {
+                    "parroquia": "OLMEDO/PESILLO",
+                    "id": 2600,
+                    "votos": 38,
+                    "candidato": "Melba Jacome",
+                    "value": 1.06
+                },
+                {
+                    "parroquia": "CANGAHUA",
+                    "id": 480,
+                    "votos": 57,
+                    "candidato": "Melba Jacome",
+                    "value": 1.23
+                },
+                {
+                    "parroquia": "ASCAZUBI",
+                    "id": 165,
+                    "votos": 7,
+                    "candidato": "Melba Jacome",
+                    "value": 0.35
+                }
+            ]

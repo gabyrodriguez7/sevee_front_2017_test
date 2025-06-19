@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "MANUEL J. CALLE",
+    "id": 2365,
+    "votos": 28,
+    "candidato": "Zavala Nelson",
+    "value": 1.2
+  },
+  {
+    "parroquia": "PANCHO NEGRO",
+    "id": 2745,
+    "votos": 26,
+    "candidato": "Zavala Nelson",
+    "value": 0.96
+  },
+  {
+    "parroquia": "LA TRONCAL",
+    "id": 5610,
+    "votos": 354,
+    "candidato": "Zavala Nelson",
+    "value": 1.47
+  }
+]

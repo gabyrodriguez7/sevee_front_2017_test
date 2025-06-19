@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "SHIMPIS",
+    "id": 525,
+    "votos": 742,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 80.04
+  },
+  {
+    "parroquia": "YAUPI",
+    "id": 4300,
+    "votos": 594,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 74.72
+  },
+  {
+    "parroquia": "LOGROÑO",
+    "id": 6735,
+    "votos": 989,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 59.58
+  }
+]

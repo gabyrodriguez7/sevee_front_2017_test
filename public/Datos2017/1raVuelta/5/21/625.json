@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "DURENO",
+    "id": 1045,
+    "votos": 123,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 7.31
+  },
+  {
+    "parroquia": "EL ENO",
+    "id": 1285,
+    "votos": 130,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 3.73
+  },
+  {
+    "parroquia": "PACAYÁCU",
+    "id": 1290,
+    "votos": 215,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 5.51
+  },
+  {
+    "parroquia": "GENERAL FARFÁN",
+    "id": 1330,
+    "votos": 118,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 4.44
+  },
+  {
+    "parroquia": "SANTA CECILIA",
+    "id": 1790,
+    "votos": 78,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 3.33
+  },
+  {
+    "parroquia": "JAMBELÍ",
+    "id": 1795,
+    "votos": 64,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 4.66
+  },
+  {
+    "parroquia": "10 DE AGOSTO",
+    "id": 4625,
+    "votos": 26,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 4.96
+  },
+  {
+    "parroquia": "NUEVA LOJA",
+    "id": 5710,
+    "votos": 1007,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 2.69
+  }
+]

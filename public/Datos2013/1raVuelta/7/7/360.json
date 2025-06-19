@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "ABANIN",
+        "id": 5,
+        "votos": 17,
+        "candidato": "Zavala Nelson",
+        "value": 2.0408
+    },
+    {
+        "parroquia": "GUANAZAN",
+        "id": 1420,
+        "votos": 23,
+        "candidato": "Zavala Nelson",
+        "value": 1.405
+    },
+    {
+        "parroquia": "GUIZHAGUIÑA",
+        "id": 1425,
+        "votos": 6,
+        "candidato": "Zavala Nelson",
+        "value": 0.821
+    },
+    {
+        "parroquia": "HUERTAS",
+        "id": 1655,
+        "votos": 8,
+        "candidato": "Zavala Nelson",
+        "value": 0.616
+    },
+    {
+        "parroquia": "SINSAO",
+        "id": 1700,
+        "votos": 11,
+        "candidato": "Zavala Nelson",
+        "value": 2.0258
+    },
+    {
+        "parroquia": "SALVIAS",
+        "id": 1750,
+        "votos": 3,
+        "candidato": "Zavala Nelson",
+        "value": 0.804
+    },
+    {
+        "parroquia": "MALVAS",
+        "id": 2350,
+        "votos": 6,
+        "candidato": "Zavala Nelson",
+        "value": 1.0327
+    },
+    {
+        "parroquia": "ARCAPAMBA",
+        "id": 4445,
+        "votos": 3,
+        "candidato": "Zavala Nelson",
+        "value": 0.443786982
+    },
+    {
+        "parroquia": "MULUNCAY GRANDE",
+        "id": 4450,
+        "votos": 1,
+        "candidato": "Zavala Nelson",
+        "value": 0.2062
+    },
+    {
+        "parroquia": "ZARUMA",
+        "id": 6310,
+        "votos": 64,
+        "candidato": "Zavala Nelson",
+        "value": 0.79
+    }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "CHOBO",
+    "id": 920,
+    "votos": 84,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.85
+  },
+  {
+    "parroquia": "MARISCAL SUCRE/HUAQUES",
+    "id": 2390,
+    "votos": 452,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 16.26
+  },
+  {
+    "parroquia": "ROBERTO ASTUDILLO",
+    "id": 3235,
+    "votos": 703,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 17.15
+  },
+  {
+    "parroquia": "MILAGRO",
+    "id": 5660,
+    "votos": 20940,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 19.61
+  }
+]

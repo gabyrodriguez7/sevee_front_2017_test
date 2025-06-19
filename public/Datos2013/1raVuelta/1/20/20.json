@@ -1,0 +1,20 @@
+[
+    {
+        "id": 800,
+        "candidato": "Noboa Alvaro",
+        "votos": 76,
+        "value": 1.8
+    },
+    {
+        "id": 805,
+        "candidato": "Noboa Alvaro",
+        "votos": 157,
+        "value": 2.1
+    },
+    {
+        "id": 810,
+        "candidato": "Noboa Alvaro",
+        "votos": 24,
+        "value": 1.843
+    }
+]

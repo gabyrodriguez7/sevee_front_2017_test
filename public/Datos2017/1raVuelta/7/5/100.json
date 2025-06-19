@@ -1,0 +1,107 @@
+[
+  {
+    "parroquia": "ALAQUEZ",
+    "id": 35,
+    "votos": 87,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.89
+  },
+  {
+    "parroquia": "BELISARIO QUEVEDO",
+    "id": 315,
+    "votos": 61,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.77
+  },
+  {
+    "parroquia": "GUAYTACAMA",
+    "id": 1485,
+    "votos": 98,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.62
+  },
+  {
+    "parroquia": "JOSEGUANGO BAJO",
+    "id": 1905,
+    "votos": 20,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.66
+  },
+  {
+    "parroquia": "MULALÓI",
+    "id": 2480,
+    "votos": 92,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.57
+  },
+  {
+    "parroquia": "11 DE NOVIEMBRE",
+    "id": 2620,
+    "votos": 23,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.51
+  },
+  {
+    "parroquia": "POALO",
+    "id": 2920,
+    "votos": 55,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.48
+  },
+  {
+    "parroquia": "SAN JUAN DE PASTOCALLE",
+    "id": 3530,
+    "votos": 107,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.55
+  },
+  {
+    "parroquia": "TANICUCHÍ",
+    "id": 3965,
+    "votos": 161,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.88
+  },
+  {
+    "parroquia": "TOACAZO",
+    "id": 4035,
+    "votos": 95,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.42
+  },
+  {
+    "parroquia": "ELOY ALFÁRO / SAN FELIPE",
+    "id": 5310,
+    "votos": 477,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.23
+  },
+  {
+    "parroquia": "IGNACIO FLORES",
+    "id": 5465,
+    "votos": 232,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.96
+  },
+  {
+    "parroquia": "JUAN MONTALVO",
+    "id": 5500,
+    "votos": 202,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.75
+  },
+  {
+    "parroquia": "LA MATRIZ",
+    "id": 5555,
+    "votos": 354,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.66
+  },
+  {
+    "parroquia": "SAN BUENAVENTURA",
+    "id": 5940,
+    "votos": 69,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.85
+  }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "PAUTE",
+        "id": 5775,
+        "votos": 4338,
+        "candidato": "Rafael Correa Delgado",
+        "value": 61.97
+    },
+    {
+        "parroquia": "EL CABO",
+        "id": 4565,
+        "votos": 478,
+        "candidato": "Rafael Correa Delgado",
+        "value": 75.99
+    },
+    {
+        "parroquia": "TOMEBAMBA",
+        "id": 4050,
+        "votos": 300,
+        "candidato": "Rafael Correa Delgado",
+        "value": 62.63
+    },
+    {
+        "parroquia": "SAN CRISTOBAL",
+        "id": 3375,
+        "votos": 457,
+        "candidato": "Rafael Correa Delgado",
+        "value": 61.92
+    },
+    {
+        "parroquia": "GUARAINAC",
+        "id": 1455,
+        "votos": 300,
+        "candidato": "Rafael Correa Delgado",
+        "value": 58.82
+    },
+    {
+        "parroquia": "DUG-DUG",
+        "id": 890,
+        "votos": 244,
+        "candidato": "Rafael Correa Delgado",
+        "value": 65.24
+    },
+    {
+        "parroquia": "CHICAN / GUILLERMO ORTEGA",
+        "id": 870,
+        "votos": 592,
+        "candidato": "Rafael Correa Delgado",
+        "value": 65.19
+    },
+    {
+        "parroquia": "BULAN / J. VICTOR IZQUIERDO",
+        "id": 395,
+        "votos": 479,
+        "candidato": "Rafael Correa Delgado",
+        "value": 67.46
+    }
+]

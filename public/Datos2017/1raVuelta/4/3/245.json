@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "JERUSALÉN",
+    "id": 1085,
+    "votos": 43,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.85
+  },
+  {
+    "parroquia": "NAZÓN",
+    "id": 2545,
+    "votos": 368,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 21.16
+  },
+  {
+    "parroquia": "SAN FCO. DE SAGEO",
+    "id": 3410,
+    "votos": 137,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 19.35
+  },
+  {
+    "parroquia": "TURUPAMBA",
+    "id": 4100,
+    "votos": 53,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 14.52
+  },
+  {
+    "parroquia": "BIBLIÁN",
+    "id": 5115,
+    "votos": 1600,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 19.22
+  }
+]

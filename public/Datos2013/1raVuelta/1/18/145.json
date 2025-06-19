@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "BAQUERIZO MORENO",
+        "id": 295,
+        "votos": 4,
+        "candidato": "Noboa Alvaro",
+        "value": 1.639
+    },
+    {
+        "parroquia": "EMILIO MARIA TERAN",
+        "id": 1210,
+        "votos": 21,
+        "candidato": "Noboa Alvaro",
+        "value": 2.46
+    },
+    {
+        "parroquia": "MARCOS ESPINEL",
+        "id": 2375,
+        "votos": 35,
+        "candidato": "Noboa Alvaro",
+        "value": 2.4
+    },
+    {
+        "parroquia": "PRESIDENTE URBINA",
+        "id": 2945,
+        "votos": 45,
+        "candidato": "Noboa Alvaro",
+        "value": 4.634
+    },
+    {
+        "parroquia": "SAN ANDRES",
+        "id": 3300,
+        "votos": 281,
+        "candidato": "Noboa Alvaro",
+        "value": 4.2
+    },
+    {
+        "parroquia": "SAN JOSE DE POALO",
+        "id": 3485,
+        "votos": 46,
+        "candidato": "Noboa Alvaro",
+        "value": 3.1
+    },
+    {
+        "parroquia": "SAN MIGUELITO",
+        "id": 3585,
+        "votos": 86,
+        "candidato": "Noboa Alvaro",
+        "value": 2.6
+    },
+    {
+        "parroquia": "CIUDAD NUEVA",
+        "id": 5225,
+        "votos": 37,
+        "candidato": "Noboa Alvaro",
+        "value": 4.195
+    },
+    {
+        "parroquia": "PILLARO",
+        "id": 5785,
+        "votos": 293,
+        "candidato": "Noboa Alvaro",
+        "value": 2.9
+    }
+]

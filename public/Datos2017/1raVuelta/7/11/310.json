@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "CANGONAMÁ",
+    "id": 485,
+    "votos": 8,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.32
+  },
+  {
+    "parroquia": "SAN ANTONIO",
+    "id": 545,
+    "votos": 10,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.52
+  },
+  {
+    "parroquia": "CASANGA",
+    "id": 995,
+    "votos": 17,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.49
+  },
+  {
+    "parroquia": "YAMANA",
+    "id": 1000,
+    "votos": 9,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.59
+  },
+  {
+    "parroquia": "GUACHANAMA",
+    "id": 1380,
+    "votos": 6,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.88
+  },
+  {
+    "parroquia": "LAURO GUERRERO",
+    "id": 2140,
+    "votos": 13,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.32
+  },
+  {
+    "parroquia": "ORIANGA",
+    "id": 2630,
+    "votos": 6,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.6
+  },
+  {
+    "parroquia": "CATACOCHA",
+    "id": 5180,
+    "votos": 187,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.13
+  },
+  {
+    "parroquia": "LOURDES",
+    "id": 5595,
+    "votos": 21,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.84
+  }
+]

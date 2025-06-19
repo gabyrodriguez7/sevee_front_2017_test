@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "SALANGO",
+        "id": 1920,
+        "votos": 33,
+        "candidato": "Acosta Alberto",
+        "value": 2.004
+    },
+    {
+        "parroquia": "MACHALILLA",
+        "id": 2305,
+        "votos": 47,
+        "candidato": "Acosta Alberto",
+        "value": 1.6491
+    },
+    {
+        "parroquia": "PUERTO LOPEZ",
+        "id": 6575,
+        "votos": 113,
+        "candidato": "Acosta Alberto",
+        "value": 1.41
+    }
+]

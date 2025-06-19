@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "NUEVA LOJA",
+        "id": 5710,
+        "votos": 12789,
+        "candidato": "Rafael Correa Delgado",
+        "value": 48.94
+    },
+    {
+        "parroquia": "JAMBELI",
+        "id": 1795,
+        "votos": 295,
+        "candidato": "Rafael Correa Delgado",
+        "value": 39.97
+    },
+    {
+        "parroquia": "SANTA CECILIA",
+        "id": 1790,
+        "votos": 559,
+        "candidato": "Rafael Correa Delgado",
+        "value": 43.23
+    },
+    {
+        "parroquia": "GENERAL FARFAN",
+        "id": 1330,
+        "votos": 830,
+        "candidato": "Rafael Correa Delgado",
+        "value": 68.48
+    },
+    {
+        "parroquia": "PACAYACU",
+        "id": 1290,
+        "votos": 1644,
+        "candidato": "Rafael Correa Delgado",
+        "value": 68.5
+    },
+    {
+        "parroquia": "EL ENO",
+        "id": 1285,
+        "votos": 647,
+        "candidato": "Rafael Correa Delgado",
+        "value": 31.38
+    },
+    {
+        "parroquia": "DURENO",
+        "id": 1045,
+        "votos": 728,
+        "candidato": "Rafael Correa Delgado",
+        "value": 58.15
+    }
+]

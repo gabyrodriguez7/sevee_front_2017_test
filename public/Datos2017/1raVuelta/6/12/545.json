@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "ZAPOTAL",
+    "id": 4330,
+    "votos": 37,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.84
+  },
+  {
+    "parroquia": "LOS ÁNGELES",
+    "id": 4585,
+    "votos": 8,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.04
+  },
+  {
+    "parroquia": "CHACARITA",
+    "id": 4590,
+    "votos": 4,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.53
+  },
+  {
+    "parroquia": "VENTANAS",
+    "id": 6235,
+    "votos": 209,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.62
+  },
+  {
+    "parroquia": "10 DE NOVIEMBRE",
+    "id": 7480,
+    "votos": 5,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.41
+  }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "FUNDOCHAMBA",
+        "id": 360,
+        "votos": 2,
+        "candidato": "Zavala Nelson",
+        "value": 0.709
+    },
+    {
+        "parroquia": "SAN ANTONIO DE LAS ARADAS",
+        "id": 3345,
+        "votos": 7,
+        "candidato": "Zavala Nelson",
+        "value": 1.2195
+    },
+    {
+        "parroquia": "QUILANGA /LA PAZ",
+        "id": 6260,
+        "votos": 10,
+        "candidato": "Zavala Nelson",
+        "value": 0.52
+    }
+]

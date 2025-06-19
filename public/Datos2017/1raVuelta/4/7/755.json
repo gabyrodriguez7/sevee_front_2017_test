@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "SAN ISIDRO",
+    "id": 1075,
+    "votos": 59,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 14.68
+  },
+  {
+    "parroquia": "EL PARAÍSO",
+    "id": 1080,
+    "votos": 70,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.75
+  },
+  {
+    "parroquia": "LA LIBERTAD",
+    "id": 1100,
+    "votos": 103,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 17.11
+  },
+  {
+    "parroquia": "LA VICTORIA/LAS LAJAS",
+    "id": 6335,
+    "votos": 359,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 17.38
+  },
+  {
+    "parroquia": "PLATANILLOS",
+    "id": 6950,
+    "votos": 49,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.5
+  }
+]

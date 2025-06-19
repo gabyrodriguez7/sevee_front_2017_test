@@ -1,0 +1,114 @@
+[
+  {
+    "parroquia": "YARUQUIES",
+    "id": 6290,
+    "votos": 22,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.65
+  },
+  {
+    "parroquia": "VELOZ",
+    "id": 6230,
+    "votos": 39,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.33
+  },
+  {
+    "parroquia": "VELASCO",
+    "id": 6220,
+    "votos": 103,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.49
+  },
+  {
+    "parroquia": "MALDONADO",
+    "id": 5630,
+    "votos": 63,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.32
+  },
+  {
+    "parroquia": "LIZARZABURU",
+    "id": 5590,
+    "votos": 129,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.45
+  },
+  {
+    "parroquia": "SAN LUIS",
+    "id": 3560,
+    "votos": 13,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.4
+  },
+  {
+    "parroquia": "SAN JUAN",
+    "id": 3515,
+    "votos": 12,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.28
+  },
+  {
+    "parroquia": "QUIMIAG",
+    "id": 3095,
+    "votos": 16,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.54
+  },
+  {
+    "parroquia": "PUNIN",
+    "id": 3040,
+    "votos": 29,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.89
+  },
+  {
+    "parroquia": "PUNGALA",
+    "id": 3035,
+    "votos": 27,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 1.0
+  },
+  {
+    "parroquia": "LICTO",
+    "id": 2165,
+    "votos": 30,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.7
+  },
+  {
+    "parroquia": "LICAN",
+    "id": 2160,
+    "votos": 4,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.15
+  },
+  {
+    "parroquia": "FLORES",
+    "id": 1280,
+    "votos": 25,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.94
+  },
+  {
+    "parroquia": "CUBIJIES",
+    "id": 705,
+    "votos": 9,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.73
+  },
+  {
+    "parroquia": "CALPI",
+    "id": 445,
+    "votos": 18,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.5
+  },
+  {
+    "parroquia": "CACHA",
+    "id": 420,
+    "votos": 23,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 1.42
+  }
+]

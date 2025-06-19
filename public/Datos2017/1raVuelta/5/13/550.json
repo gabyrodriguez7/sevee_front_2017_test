@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "BACHILLERO",
+    "id": 265,
+    "votos": 13,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.61
+  },
+  {
+    "parroquia": "ANGEL PEDRO GILER",
+    "id": 2030,
+    "votos": 28,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.98
+  },
+  {
+    "parroquia": "TOSAGUA",
+    "id": 6170,
+    "votos": 118,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.59
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "TARIFA",
+    "id": 3975,
+    "votos": 54,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.07
+  },
+  {
+    "parroquia": "SAMBORONDÓN",
+    "id": 5925,
+    "votos": 263,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.16
+  },
+  {
+    "parroquia": "LA PUNTILLA(SATELITE)",
+    "id": 7445,
+    "votos": 248,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.36
+  }
+]

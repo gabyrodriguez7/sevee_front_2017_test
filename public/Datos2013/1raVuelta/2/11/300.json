@@ -1,0 +1,121 @@
+[
+    {
+        "parroquia": "CHUQUIRIBAMBA",
+        "id": 975,
+        "votos": 659,
+        "candidato": "Correa Delgado Rafael",
+        "value": 43.3553
+    },
+    {
+        "parroquia": "EL CISNE",
+        "id": 1135,
+        "votos": 456,
+        "candidato": "Correa Delgado Rafael",
+        "value": 50.0
+    },
+    {
+        "parroquia": "GUALEL",
+        "id": 1405,
+        "votos": 460,
+        "candidato": "Correa Delgado Rafael",
+        "value": 42.95051
+    },
+    {
+        "parroquia": "QUINARA",
+        "id": 1780,
+        "votos": 349,
+        "candidato": "Correa Delgado Rafael",
+        "value": 48.607
+    },
+    {
+        "parroquia": "JIMBILLA",
+        "id": 1840,
+        "votos": 176,
+        "candidato": "Correa Delgado Rafael",
+        "value": 25.5
+    },
+    {
+        "parroquia": "MALACATOS/VALLADOLID",
+        "id": 2325,
+        "votos": 2216,
+        "candidato": "Correa Delgado Rafael",
+        "value": 52.178
+    },
+    {
+        "parroquia": "SAN LUCAS",
+        "id": 3555,
+        "votos": 438,
+        "candidato": "Correa Delgado Rafael",
+        "value": 17.885
+    },
+    {
+        "parroquia": "SANTIAGO",
+        "id": 3770,
+        "votos": 388,
+        "candidato": "Correa Delgado Rafael",
+        "value": 45.0
+    },
+    {
+        "parroquia": "TAQUIL /MIGUEL RIOFRIO",
+        "id": 3970,
+        "votos": 860,
+        "candidato": "Correa Delgado Rafael",
+        "value": 50.6
+    },
+    {
+        "parroquia": "VILCABAMBA/VICTORIA",
+        "id": 4235,
+        "votos": 1883,
+        "candidato": "Correa Delgado Rafael",
+        "value": 63.5934
+    },
+    {
+        "parroquia": "YANGANA / ARSENIO CASTILLO",
+        "id": 4280,
+        "votos": 463,
+        "candidato": "Correa Delgado Rafael",
+        "value": 48.532
+    },
+    {
+        "parroquia": "CHANTACO",
+        "id": 4475,
+        "votos": 273,
+        "candidato": "Correa Delgado Rafael",
+        "value": 38.7
+    },
+    {
+        "parroquia": "SAN PEDRO DE VILCABAMBA",
+        "id": 4540,
+        "votos": 358,
+        "candidato": "Correa Delgado Rafael",
+        "value": 56.0
+    },
+    {
+        "parroquia": "EL SAGRARIO",
+        "id": 5320,
+        "votos": 6774,
+        "candidato": "Correa Delgado Rafael",
+        "value": 39.9835
+    },
+    {
+        "parroquia": "SAN SEBASTIAN",
+        "id": 6015,
+        "votos": 9974,
+        "candidato": "Correa Delgado Rafael",
+        "value": 43.3
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 6100,
+        "votos": 19281,
+        "candidato": "Correa Delgado Rafael",
+        "value": 44.0
+    },
+    {
+        "parroquia": "VALLE",
+        "id": 6210,
+        "votos": 10985,
+        "candidato": "Correa Delgado Rafael",
+        "value": 39.5
+    }
+]

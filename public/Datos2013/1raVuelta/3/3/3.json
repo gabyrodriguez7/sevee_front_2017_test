@@ -1,0 +1,44 @@
+[
+    {
+        "id": 235,
+        "candidato": "Wray Norman",
+        "votos": 624,
+        "value": 1.4704
+    },
+    {
+        "id": 240,
+        "candidato": "Wray Norman",
+        "votos": 313,
+        "value": 1.0691
+    },
+    {
+        "id": 241,
+        "candidato": "Wray Norman",
+        "votos": 26,
+        "value": 0.8895
+    },
+    {
+        "id": 245,
+        "candidato": "Wray Norman",
+        "votos": 161,
+        "value": 1.4789
+    },
+    {
+        "id": 250,
+        "candidato": "Wray Norman",
+        "votos": 177,
+        "value": 0.61
+    },
+    {
+        "id": 765,
+        "candidato": "Wray Norman",
+        "votos": 52,
+        "value": 1.0
+    },
+    {
+        "id": 905,
+        "candidato": "Wray Norman",
+        "votos": 32,
+        "value": 1.1
+    }
+]

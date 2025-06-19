@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "PINGUILI",
+        "id": 4555,
+        "votos": 8,
+        "candidato": "Acosta Alberto",
+        "value": 1.6
+    },
+    {
+        "parroquia": "MOCHA",
+        "id": 6560,
+        "votos": 79,
+        "candidato": "Acosta Alberto",
+        "value": 1.76
+    }
+]

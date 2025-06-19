@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "COTOGCHOA",
+    "id":   ,
+    "votos": 25,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.41
+  },
+  {
+    "parroquia": "RUMIPAMBA",
+    "id": 3230,
+    "votos": 6,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.67
+  },
+  {
+    "parroquia": "SANGOLQUÍ",
+    "id": 5965,
+    "votos": 472,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.95
+  },
+  {
+    "parroquia": "SAN RAFAEL",
+    "id": 6600,
+    "votos": 98,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.71
+  },
+  {
+    "parroquia": "SAN PEDRO DE TABOADA",
+    "id": 6605,
+    "votos": 93,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.56
+  }
+]

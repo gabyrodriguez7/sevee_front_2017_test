@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "LOURDES",
+        "id": 5595,
+        "votos": 6,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.01
+    },
+    {
+        "parroquia": "CATACOCHA",
+        "id": 5180,
+        "votos": 78,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.07
+    },
+    {
+        "parroquia": "ORIANGA",
+        "id": 2630,
+        "votos": 3,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.41
+    },
+    {
+        "parroquia": "LAURO GUERRERO",
+        "id": 2140,
+        "votos": 8,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.16
+    },
+    {
+        "parroquia": "GUACHANAMA",
+        "id": 1380,
+        "votos": 5,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.6
+    },
+    {
+        "parroquia": "YAMANA",
+        "id": 1000,
+        "votos": 1,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.24
+    },
+    {
+        "parroquia": "CASANGA",
+        "id": 995,
+        "votos": 1,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.33
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 545,
+        "votos": 1,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.35
+    },
+    {
+        "parroquia": "CANGONAMA",
+        "id": 485,
+        "votos": 8,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.78
+    }
+]

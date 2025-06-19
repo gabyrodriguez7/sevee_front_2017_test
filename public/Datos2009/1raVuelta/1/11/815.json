@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "CHAGUARPAMBA",
+    "id": 6530,
+    "votos": 22,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 0.99
+  },
+  {
+    "parroquia": "SANTA RUFINA",
+    "id": 3755,
+    "votos": 11,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.35
+  },
+  {
+    "parroquia": "AMARILLOS",
+    "id": 1450,
+    "votos": 0,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 0.0
+  },
+  {
+    "parroquia": "EL ROSARIO",
+    "id": 1180,
+    "votos": 5,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.32
+  },
+  {
+    "parroquia": "BUENAVISTA",
+    "id": 385,
+    "votos": 6,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 0.96
+  }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "COPAL",
+        "id": 645,
+        "votos": 21,
+        "candidato": "Acosta Alberto",
+        "value": 9.7222222
+    },
+    {
+        "parroquia": "CHUPIANZA",
+        "id": 970,
+        "votos": 26,
+        "candidato": "Acosta Alberto",
+        "value": 8.41
+    },
+    {
+        "parroquia": "SAN FCO. DE CHINIMBIMI",
+        "id": 1365,
+        "votos": 173,
+        "candidato": "Acosta Alberto",
+        "value": 36.7
+    },
+    {
+        "parroquia": "PATUCA",
+        "id": 2795,
+        "votos": 195,
+        "candidato": "Acosta Alberto",
+        "value": 29.5
+    },
+    {
+        "parroquia": "SAN LUIS DEL ACHO",
+        "id": 3565,
+        "votos": 32,
+        "candidato": "Acosta Alberto",
+        "value": 10.0
+    },
+    {
+        "parroquia": "TAYUZA",
+        "id": 4115,
+        "votos": 113,
+        "candidato": "Acosta Alberto",
+        "value": 16.6421208
+    },
+    {
+        "parroquia": "MENDEZ",
+        "id": 5645,
+        "votos": 273,
+        "candidato": "Acosta Alberto",
+        "value": 11.37
+    }
+]

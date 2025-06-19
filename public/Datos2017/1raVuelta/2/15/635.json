@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "COSANGA",
+    "id": 670,
+    "votos": 12,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.31
+  },
+  {
+    "parroquia": "CUYUJA",
+    "id": 765,
+    "votos": 10,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.79
+  },
+  {
+    "parroquia": "PAPALLACTA",
+    "id": 2770,
+    "votos": 27,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.99
+  },
+  {
+    "parroquia": "SAN FRANCISCO DE BORJA",
+    "id": 3395,
+    "votos": 55,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.01
+  },
+  {
+    "parroquia": "SUMACO",
+    "id": 3890,
+    "votos": 4,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.48
+  },
+  {
+    "parroquia": "BAEZA",
+    "id": 5090,
+    "votos": 83,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.51
+  }
+]

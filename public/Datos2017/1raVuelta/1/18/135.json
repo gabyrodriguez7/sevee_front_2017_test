@@ -1,0 +1,191 @@
+[
+  {
+    "parroquia": "AMBATILLO",
+    "id": 95,
+    "votos": 766,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 25.75
+  },
+  {
+    "parroquia": "ATAHUALPA /CHIPZALATA",
+    "id": 190,
+    "votos": 1911,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 31.28
+  },
+  {
+    "parroquia": "AUGUSTO N. MARTÍNEZ",
+    "id": 210,
+    "votos": 2023,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 32.40
+  },
+  {
+    "parroquia": "CONSTANTINO FERNÁNDEZ",
+    "id": 635,
+    "votos": 548,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 32.10
+  },
+  {
+    "parroquia": "CUNCHIBAMBA",
+    "id": 800,
+    "votos": 710,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 29.25
+  },
+  {
+    "parroquia": "UNAMUNCHO",
+    "id": 810,
+    "votos": 512,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 32.8
+  },
+  {
+    "parroquia": "HUACHI GRANDE",
+    "id": 1625,
+    "votos": 2008,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 35.17
+  },
+  {
+    "parroquia": "IZAMBA",
+    "id": 1745,
+    "votos": 4534,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 34.83
+  },
+  {
+    "parroquia": "JUAN BENIGNO VELA",
+    "id": 1860,
+    "votos": 1718,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 35.76
+  },
+  {
+    "parroquia": "MONTALVO",
+    "id": 2435,
+    "votos": 571,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 25.01
+  },
+  {
+    "parroquia": "PASA",
+    "id": 2775,
+    "votos": 1355,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 33.99
+  },
+  {
+    "parroquia": "PICAYHUA",
+    "id": 2830,
+    "votos": 3322,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 33.32
+  },
+  {
+    "parroquia": "PILAHUÍN",
+    "id": 2860,
+    "votos": 3197,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 47.78
+  },
+  {
+    "parroquia": "QUISAPINCHA",
+    "id": 3120,
+    "votos": 2487,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 36.69
+  },
+  {
+    "parroquia": "SAN BARTOLOMÉ",
+    "id": 3355,
+    "votos": 1870,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 33.36
+  },
+  {
+    "parroquia": "SAN FERNANDO",
+    "id": 3380,
+    "votos": 552,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 36.56
+  },
+  {
+    "parroquia": "SANTA ROSA",
+    "id": 3730,
+    "votos": 3722,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 34.52
+  },
+  {
+    "parroquia": "TOTORAS",
+    "id": 4065,
+    "votos": 1381,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 32.05
+  },
+  {
+    "parroquia": "ATOCHA FICOA",
+    "id": 5045,
+    "votos": 4569,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 46.26
+  },
+  {
+    "parroquia": "CELIANO MONGE",
+    "id": 5230,
+    "votos": 705,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 34.21
+  },
+  {
+    "parroquia": "HUACHI LORETO",
+    "id": 5445,
+    "votos": 15492,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 36.03
+  },
+  {
+    "parroquia": "HUACHI CHICO",
+    "id": 5455,
+    "votos": 8055,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 38.13
+  },
+  {
+    "parroquia": "LA MATRIZ",
+    "id": 5545,
+    "votos": 9458,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 41.25
+  },
+  {
+    "parroquia": "LA MERCED",
+    "id": 5560,
+    "votos": 6790,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 39.34
+  },
+  {
+    "parroquia": "LA PENINSULA",
+    "id": 5605,
+    "votos": 487,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 33.38
+  },
+  {
+    "parroquia": "PISHILATA",
+    "id": 5840,
+    "votos": 702,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 32.48
+  },
+  {
+    "parroquia": "SAN FRANCISCO",
+    "id": 5945,
+    "votos": 2431,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 41.98
+  }
+]

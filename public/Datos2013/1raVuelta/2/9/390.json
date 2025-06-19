@@ -1,0 +1,142 @@
+[
+    {
+        "parroquia": "FEBRES CORDERO",
+        "id": 5355,
+        "votos": 159984,
+        "candidato": "Correa Delgado Rafael",
+        "value": 64.221
+    },
+    {
+        "parroquia": "XIMENA",
+        "id": 6265,
+        "votos": 194785,
+        "candidato": "Correa Delgado Rafael",
+        "value": 64.229
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 6150,
+        "votos": 225977,
+        "candidato": "Correa Delgado Rafael",
+        "value": 57.3
+    },
+    {
+        "parroquia": "PASCUALES",
+        "id": 6405,
+        "votos": 93512,
+        "candidato": "Correa Delgado Rafael",
+        "value": 72.36
+    },
+    {
+        "parroquia": "JUAN GOMEZ RENDON",
+        "id": 1870,
+        "votos": 3292,
+        "candidato": "Correa Delgado Rafael",
+        "value": 63.1
+    },
+    {
+        "parroquia": "MORRO",
+        "id": 2470,
+        "votos": 1220,
+        "candidato": "Correa Delgado Rafael",
+        "value": 60.0
+    },
+    {
+        "parroquia": "POSORJA",
+        "id": 2940,
+        "votos": 7923,
+        "candidato": "Correa Delgado Rafael",
+        "value": 71.4
+    },
+    {
+        "parroquia": "PUNA",
+        "id": 3030,
+        "votos": 3184,
+        "candidato": "Correa Delgado Rafael",
+        "value": 79.5
+    },
+    {
+        "parroquia": "TENGUEL",
+        "id": 4120,
+        "votos": 3851,
+        "candidato": "Correa Delgado Rafael",
+        "value": 67.0
+    },
+    {
+        "parroquia": "AYACUCHO",
+        "id": 5055,
+        "votos": 6895,
+        "candidato": "Correa Delgado Rafael",
+        "value": 49.0
+    },
+    {
+        "parroquia": "BOLIVAR/SAGRARIO",
+        "id": 5125,
+        "votos": 6341,
+        "candidato": "Correa Delgado Rafael",
+        "value": 54.0
+    },
+    {
+        "parroquia": "CARBO/CONCEPCION",
+        "id": 5170,
+        "votos": 12674,
+        "candidato": "Correa Delgado Rafael",
+        "value": 54.0
+    },
+    {
+        "parroquia": "GARCIA MORENO",
+        "id": 5380,
+        "votos": 25227,
+        "candidato": "Correa Delgado Rafael",
+        "value": 52.0
+    },
+    {
+        "parroquia": "LETAMENDI",
+        "id": 5585,
+        "votos": 42658,
+        "candidato": "Correa Delgado Rafael",
+        "value": 57.2
+    },
+    {
+        "parroquia": "9 DE OCTUBRE",
+        "id": 5695,
+        "votos": 4730,
+        "candidato": "Correa Delgado Rafael",
+        "value": 48.0
+    },
+    {
+        "parroquia": "OLMEDO/SAN ALEJO",
+        "id": 5720,
+        "votos": 6534,
+        "candidato": "Correa Delgado Rafael",
+        "value": 52.0
+    },
+    {
+        "parroquia": "ROCA",
+        "id": 5880,
+        "votos": 5737,
+        "candidato": "Correa Delgado Rafael",
+        "value": 49.0
+    },
+    {
+        "parroquia": "ROCAFUERTE",
+        "id": 5890,
+        "votos": 5340,
+        "candidato": "Correa Delgado Rafael",
+        "value": 46.0
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 6095,
+        "votos": 7131,
+        "candidato": "Correa Delgado Rafael",
+        "value": 52.11
+    },
+    {
+        "parroquia": "URDANETA",
+        "id": 6185,
+        "votos": 12102,
+        "candidato": "Correa Delgado Rafael",
+        "value": 51.05
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "FLAVIO ALFARO",
+        "id": 5480,
+        "votos": 5871,
+        "candidato": "Rafael Correa Delgado",
+        "value": 63.05
+    },
+    {
+        "parroquia": "ZAPALLO",
+        "id": 1620,
+        "votos": 494,
+        "candidato": "Rafael Correa Delgado",
+        "value": 50.0
+    },
+    {
+        "parroquia": "NOVILLO",
+        "id": 1600,
+        "votos": 355,
+        "candidato": "Rafael Correa Delgado",
+        "value": 70.3
+    }
+]

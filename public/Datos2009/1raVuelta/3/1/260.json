@@ -1,0 +1,254 @@
+[
+    {
+        "parroquia": "HERMANO MIGUEL",
+        "id": 6865,
+        "votos": 30,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.78
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 6090,
+        "votos": 153,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 1.05
+    },
+    {
+        "parroquia": "SAN SEBASTIAN",
+        "id": 6010,
+        "votos": 246,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 1.22
+    },
+    {
+        "parroquia": "SAN BLAS",
+        "id": 5930,
+        "votos": 184,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 1.13
+    },
+    {
+        "parroquia": "SAGRARIO",
+        "id": 5905,
+        "votos": 173,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 1.04
+    },
+    {
+        "parroquia": "RAMIREZ DAVALOS",
+        "id": 5875,
+        "votos": 86,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.99
+    },
+    {
+        "parroquia": "HUAYNACAPAC",
+        "id": 5450,
+        "votos": 109,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 1.03
+    },
+    {
+        "parroquia": "YANUNCAY",
+        "id": 5370,
+        "votos": 90,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.88
+    },
+    {
+        "parroquia": "TOTORACOCHA",
+        "id": 5360,
+        "votos": 117,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.97
+    },
+    {
+        "parroquia": "EL VECINO",
+        "id": 5330,
+        "votos": 304,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 1.19
+    },
+    {
+        "parroquia": "MONAY",
+        "id": 5290,
+        "votos": 66,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 1.05
+    },
+    {
+        "parroquia": "MACHANGARA",
+        "id": 5140,
+        "votos": 39,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.99
+    },
+    {
+        "parroquia": "EL BATAN",
+        "id": 5135,
+        "votos": 42,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.67
+    },
+    {
+        "parroquia": "CA�ARIBAMBA",
+        "id": 5080,
+        "votos": 72,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 1.24
+    },
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 5075,
+        "votos": 95,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 1.08
+    },
+    {
+        "parroquia": "VICTORIA DEL PORTETE",
+        "id": 4225,
+        "votos": 21,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 1.05
+    },
+    {
+        "parroquia": "VALLE",
+        "id": 4200,
+        "votos": 93,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 1.22
+    },
+    {
+        "parroquia": "TURI",
+        "id": 4095,
+        "votos": 10,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.36
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 3980,
+        "votos": 53,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 1.24
+    },
+    {
+        "parroquia": "SININCAY",
+        "id": 3870,
+        "votos": 97,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 2.0
+    },
+    {
+        "parroquia": "SIDCAY",
+        "id": 3850,
+        "votos": 16,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.84
+    },
+    {
+        "parroquia": "SAYAUSI",
+        "id": 3795,
+        "votos": 60,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 1.16
+    },
+    {
+        "parroquia": "SANTA ANA",
+        "id": 3685,
+        "votos": 32,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 1.12
+    },
+    {
+        "parroquia": "SAN JOAQUIN",
+        "id": 3460,
+        "votos": 59,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 1.52
+    },
+    {
+        "parroquia": "RICAURTE",
+        "id": 3165,
+        "votos": 102,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 1.25
+    },
+    {
+        "parroquia": "QUINGEO",
+        "id": 3105,
+        "votos": 26,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 1.04
+    },
+    {
+        "parroquia": "PACCHA",
+        "id": 2680,
+        "votos": 40,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 1.77
+    },
+    {
+        "parroquia": "OCTAVIO CORDERO PALACIOS",
+        "id": 2595,
+        "votos": 12,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 1.2
+    },
+    {
+        "parroquia": "MULTI /  NULTI",
+        "id": 2570,
+        "votos": 16,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.71
+    },
+    {
+        "parroquia": "MOLLETURO",
+        "id": 2430,
+        "votos": 12,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.42
+    },
+    {
+        "parroquia": "LLACAO",
+        "id": 2255,
+        "votos": 25,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 1.28
+    },
+    {
+        "parroquia": "CHIQUINTAD",
+        "id": 905,
+        "votos": 23,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 1.1
+    },
+    {
+        "parroquia": "CHECA JIDCAY",
+        "id": 860,
+        "votos": 14,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 1.09
+    },
+    {
+        "parroquia": "CHAUCHA / ANGAS",
+        "id": 845,
+        "votos": 2,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.35
+    },
+    {
+        "parroquia": "CUMBE",
+        "id": 730,
+        "votos": 35,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 1.23
+    },
+    {
+        "parroquia": "BA�OS",
+        "id": 285,
+        "votos": 110,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 1.08
+    }
+]

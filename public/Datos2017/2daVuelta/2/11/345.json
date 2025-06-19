@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "NUEVA FATIMA",
+    "id": 2575,
+    "votos": 239,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 40.3
+  },
+  {
+    "parroquia": "TACAMOROS",
+    "id": 3935,
+    "votos": 627,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 39.94
+  },
+  {
+    "parroquia": "SOZORANGA",
+    "id": 6120,
+    "votos": 710,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 38.03
+  }
+]

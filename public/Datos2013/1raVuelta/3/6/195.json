@@ -1,0 +1,114 @@
+[
+    {
+        "parroquia": "CACHA",
+        "id": 420,
+        "votos": 26,
+        "candidato": "Wray Norman",
+        "value": 1.26
+    },
+    {
+        "parroquia": "CALPI",
+        "id": 445,
+        "votos": 60,
+        "candidato": "Wray Norman",
+        "value": 1.45
+    },
+    {
+        "parroquia": "CUBIJIES",
+        "id": 705,
+        "votos": 27,
+        "candidato": "Wray Norman",
+        "value": 1.8
+    },
+    {
+        "parroquia": "FLORES",
+        "id": 1280,
+        "votos": 37,
+        "candidato": "Wray Norman",
+        "value": 1.11
+    },
+    {
+        "parroquia": "LICTO",
+        "id": 2165,
+        "votos": 77,
+        "candidato": "Wray Norman",
+        "value": 1.4
+    },
+    {
+        "parroquia": "PUNGALA",
+        "id": 3035,
+        "votos": 39,
+        "candidato": "Wray Norman",
+        "value": 1.16
+    },
+    {
+        "parroquia": "PUNIN",
+        "id": 3040,
+        "votos": 52,
+        "candidato": "Wray Norman",
+        "value": 1.29
+    },
+    {
+        "parroquia": "QUIMIAG",
+        "id": 3095,
+        "votos": 39,
+        "candidato": "Wray Norman",
+        "value": 1.14
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3515,
+        "votos": 55,
+        "candidato": "Wray Norman",
+        "value": 1.13
+    },
+    {
+        "parroquia": "SAN LUIS",
+        "id": 3560,
+        "votos": 41,
+        "candidato": "Wray Norman",
+        "value": 1.03
+    },
+    {
+        "parroquia": "LIZARZABURU",
+        "id": 5590,
+        "votos": 716,
+        "candidato": "Wray Norman",
+        "value": 2.13
+    },
+    {
+        "parroquia": "MALDONADO",
+        "id": 5630,
+        "votos": 459,
+        "candidato": "Wray Norman",
+        "value": 2.0
+    },
+    {
+        "parroquia": "VELASCO",
+        "id": 6220,
+        "votos": 570,
+        "candidato": "Wray Norman",
+        "value": 2.34
+    },
+    {
+        "parroquia": "VELOZ",
+        "id": 6230,
+        "votos": 266,
+        "candidato": "Wray Norman",
+        "value": 2.0
+    },
+    {
+        "parroquia": "YARUQUIES",
+        "id": 6290,
+        "votos": 75,
+        "candidato": "Wray Norman",
+        "value": 2.0
+    },
+    {
+        "parroquia": "LICAN",
+        "id": 6960,
+        "votos": 62,
+        "candidato": "Wray Norman",
+        "value": 1.9
+    }
+]

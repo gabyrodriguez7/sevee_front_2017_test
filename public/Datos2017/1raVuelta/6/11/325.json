@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "LA RAMA",
+    "id": 2085,
+    "votos": 7,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 1.36
+  },
+  {
+    "parroquia": "LA VICTORIA",
+    "id": 2145,
+    "votos": 2,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.3
+  },
+  {
+    "parroquia": "SABIANGO",
+    "id": 3265,
+    "votos": 4,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.9
+  },
+  {
+    "parroquia": "GRAL.ELOY ALFARO",
+    "id": 5385,
+    "votos": 1,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.11
+  },
+  {
+    "parroquia": "MACARÁ",
+    "id": 5680,
+    "votos": 35,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.4
+  }
+]

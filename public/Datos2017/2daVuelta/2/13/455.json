@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "AMÉRICA /LA CERA",
+    "id": 105,
+    "votos": 1416,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 61.51
+  },
+  {
+    "parroquia": "LA UNIÓN",
+    "id": 560,
+    "votos": 650,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 71.98
+  },
+  {
+    "parroquia": "EL ANEGADO",
+    "id": 1115,
+    "votos": 2462,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 64.11
+  },
+  {
+    "parroquia": "JULCUY",
+    "id": 1880,
+    "votos": 862,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 65.3
+  },
+  {
+    "parroquia": "PEDRO PABLO GÓMEZ",
+    "id": 2810,
+    "votos": 1665,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 56.88
+  },
+  {
+    "parroquia": "PUERTO CAYO",
+    "id": 2990,
+    "votos": 1742,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 77.66
+  },
+  {
+    "parroquia": "MEMBRILLAL",
+    "id": 4490,
+    "votos": 493,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 64.87
+  },
+  {
+    "parroquia": "JIPIJAPA",
+    "id": 5485,
+    "votos": 14210,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 53.49
+  },
+  {
+    "parroquia": "DR. MIGUEL MORÁN LUCIO",
+    "id": 7465,
+    "votos": 2086,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 52.98
+  },
+  {
+    "parroquia": "MANUEL INOCENCIO PARRALES",
+    "id": 7470,
+    "votos": 989,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 48.77
+  },
+  {
+    "parroquia": "SAN LORENZO DE JIPIJAPA",
+    "id": 7475,
+    "votos": 2947,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 46.43
+  }
+]

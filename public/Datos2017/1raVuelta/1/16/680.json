@@ -1,0 +1,100 @@
+[
+  {
+    "parroquia": "CANELOS",
+    "id": 475,
+    "votos": 482,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 46.4354528
+  },
+  {
+    "parroquia": "10 DE AGOSTO",
+    "id": 1025,
+    "votos": 497,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 47.8805395
+  },
+  {
+    "parroquia": "FÁTIMA",
+    "id": 1260,
+    "votos": 380,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 42.3634337
+  },
+  {
+    "parroquia": "EL TRIUNFO",
+    "id": 1275,
+    "votos": 444,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 46.0580913
+  },
+  {
+    "parroquia": "MONTALVO/ANDOAS",
+    "id": 2450,
+    "votos": 328,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 31.5384615
+  },
+  {
+    "parroquia": "POMONA",
+    "id": 3055,
+    "votos": 178,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 71.4859438
+  },
+  {
+    "parroquia": "RÍO CORRIENTES",
+    "id": 3180,
+    "votos": 36,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 27.480916
+  },
+  {
+    "parroquia": "RÍO TIGRE",
+    "id": 3195,
+    "votos": 117,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 35.4545455
+  },
+  {
+    "parroquia": "ZARAYACU",
+    "id": 3785,
+    "votos": 334,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 24.9439881
+  },
+  {
+    "parroquia": "TARQUI",
+    "id": 3985,
+    "votos": 739,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 47.8937135
+  },
+  {
+    "parroquia": "TNTE. HUGO ORTIZ",
+    "id": 4005,
+    "votos": 276,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 44.5880452
+  },
+  {
+    "parroquia": "VERACRUZ",
+    "id": 4205,
+    "votos": 694,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 48.0942481
+  },
+  {
+    "parroquia": "SIMÓN BOLÍVAR",
+    "id": 4510,
+    "votos": 1752,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 63.9416058
+  },
+  {
+    "parroquia": "PUYO",
+    "id": 5825,
+    "votos": 11931,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 46.7570639
+  }
+]

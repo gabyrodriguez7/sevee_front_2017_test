@@ -1,0 +1,24 @@
+[
+                {
+                    "parroquia": "PUERTO PECHICHE",
+                    "id": 3015,
+                    "votos": 200,
+                    "candidato": "Lasso Guillermo",
+                    "value": 8.244
+                },
+                {
+                    "parroquia": "SAN JUAN",
+                    "id": 3510,
+                    "votos": 1691,
+                    "candidato": "Lasso Guillermo",
+                    "value": 18.41647
+                },
+                {
+                    "parroquia": "PUEBLO VIEJO",
+                    "id": 5800,
+                    "votos": 1804,
+                    "candidato": "Lasso Guillermo",
+                    "value": 21.615
+                }
+            ]
+            

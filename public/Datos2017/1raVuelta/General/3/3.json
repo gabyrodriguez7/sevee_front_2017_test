@@ -1,0 +1,79 @@
+[
+    {
+        "candidato1": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "candidato2": "MORENO GARCES LENIN BOLTAIRE",
+        "id": 235,
+        "votos": 133064,
+        "votos1": 15388,
+        "votos2": 13811,
+        "fill": "#062e81",
+        "porcentaje1": 39.44,
+        "porcentaje2": 29.89
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 240,
+        "votos": 133064,
+        "votos1": 11088,
+        "votos2": 10432,
+        "fill": "#1eff00",
+        "porcentaje1": 23.99,
+        "porcentaje2": 26.74
+    },
+    {
+        "candidato1": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "candidato2": "MORENO GARCES LENIN BOLTAIRE",
+        "id": 241,
+        "votos": 133064,
+        "votos1": 1074,
+        "votos2": 964,
+        "fill": "#062e81",
+        "porcentaje1": 2.75,
+        "porcentaje2": 2.09
+    },
+    {
+        "candidato1": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "candidato2": "MORENO GARCES LENIN BOLTAIRE",
+        "id": 245,
+        "votos": 133064,
+        "votos1": 3710,
+        "votos2": 3588,
+        "fill": "#062e81",
+        "porcentaje1": 9.51,
+        "porcentaje2": 7.76
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "VITERI JIMENEZ CYNTHIA FERNANDA",
+        "id": 250,
+        "votos": 133064,
+        "votos1": 13111,
+        "votos2": 6843,
+        "fill": "#1eff00",
+        "porcentaje1": 28.37,
+        "porcentaje2": 28.9
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 765,
+        "votos": 133064,
+        "votos1": 2118,
+        "votos2": 1953,
+        "fill": "#1eff00",
+        "porcentaje1": 4.58,
+        "porcentaje2": 5.01
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 905,
+        "votos": 133064,
+        "votos1": 1531,
+        "votos2": 834,
+        "fill": "#1eff00",
+        "porcentaje1": 3.31,
+        "porcentaje2": 2.14
+    }
+]

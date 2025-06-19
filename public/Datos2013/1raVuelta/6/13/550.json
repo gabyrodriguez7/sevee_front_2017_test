@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "BACHILLERO",
+    "id": 265,
+    "votos": 476,
+    "candidato": "Lasso Guillermo",
+    "value": 24.2
+  },
+  {
+    "parroquia": "ANGEL PEDRO GILER",
+    "id": 2030,
+    "votos": 556,
+    "candidato": "Lasso Guillermo",
+    "value": 21.0
+  },
+  {
+    "parroquia": "TOSAGUA",
+    "id": 6170,
+    "votos": 3629,
+    "candidato": "Lasso Guillermo",
+    "value": 18.84
+  }
+]

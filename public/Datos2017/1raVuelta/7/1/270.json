@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "ASUNCIÓN",
+    "id": 175,
+    "votos": 24,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.55
+  },
+  {
+    "parroquia": "SAN GERARDO",
+    "id": 885,
+    "votos": 1,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.31
+  },
+  {
+    "parroquia": "GIRÓN",
+    "id": 5395,
+    "votos": 100,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.63
+  }
+]

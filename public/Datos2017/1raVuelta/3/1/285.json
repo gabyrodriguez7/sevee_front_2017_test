@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "ABDÓN CALDERÓN / LA UNIÓN",
+    "id": 15,
+    "votos": 765,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 43.12
+  },
+  {
+    "parroquia": "SHAGLLI",
+    "id": 3835,
+    "votos": 492,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 46.28
+  },
+  {
+    "parroquia": "SAN SALVADOR DE CAÑARIBAMBA",
+    "id": 4610,
+    "votos": 51,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 16.56
+  },
+  {
+    "parroquia": "SANTA ISABEL",
+    "id": 6045,
+    "votos": 3196,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 33.34
+  }
+]

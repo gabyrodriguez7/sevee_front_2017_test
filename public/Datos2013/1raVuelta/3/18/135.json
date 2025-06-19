@@ -1,0 +1,191 @@
+[
+    {
+        "parroquia": "AMBATILLO",
+        "id": 95,
+        "votos": 42,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "ATAHUALPA /CHIPZALATA",
+        "id": 190,
+        "votos": 115,
+        "candidato": "Wray Norman",
+        "value": 2.0
+    },
+    {
+        "parroquia": "AUGUSTO N MARTINEZ",
+        "id": 210,
+        "votos": 108,
+        "candidato": "Wray Norman",
+        "value": 2.0
+    },
+    {
+        "parroquia": "CONSTANTINO FERNANDEZ",
+        "id": 635,
+        "votos": 23,
+        "candidato": "Wray Norman",
+        "value": 1.4
+    },
+    {
+        "parroquia": "CUNCHIBAMBA",
+        "id": 800,
+        "votos": 29,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "UNAMUNCHO",
+        "id": 810,
+        "votos": 16,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "HUACHI GRANDE",
+        "id": 1625,
+        "votos": 78,
+        "candidato": "Wray Norman",
+        "value": 2.0
+    },
+    {
+        "parroquia": "IZAMBA",
+        "id": 1745,
+        "votos": 251,
+        "candidato": "Wray Norman",
+        "value": 2.0
+    },
+    {
+        "parroquia": "JUAN BENIGNO VELA",
+        "id": 1860,
+        "votos": 64,
+        "candidato": "Wray Norman",
+        "value": 1.4
+    },
+    {
+        "parroquia": "MONTALVO",
+        "id": 2435,
+        "votos": 36,
+        "candidato": "Wray Norman",
+        "value": 1.7
+    },
+    {
+        "parroquia": "PASA",
+        "id": 2775,
+        "votos": 50,
+        "candidato": "Wray Norman",
+        "value": 1.2
+    },
+    {
+        "parroquia": "PICAYHUA",
+        "id": 2830,
+        "votos": 215,
+        "candidato": "Wray Norman",
+        "value": 2.3
+    },
+    {
+        "parroquia": "PILAHUIN",
+        "id": 2860,
+        "votos": 65,
+        "candidato": "Wray Norman",
+        "value": 1.12
+    },
+    {
+        "parroquia": "QUISAPINCHA",
+        "id": 3120,
+        "votos": 82,
+        "candidato": "Wray Norman",
+        "value": 1.33
+    },
+    {
+        "parroquia": "SAN BARTOLOME",
+        "id": 3355,
+        "votos": 96,
+        "candidato": "Wray Norman",
+        "value": 1.8954
+    },
+    {
+        "parroquia": "SAN FERNANDO",
+        "id": 3380,
+        "votos": 15,
+        "candidato": "Wray Norman",
+        "value": 1.03
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 3730,
+        "votos": 220,
+        "candidato": "Wray Norman",
+        "value": 2.3
+    },
+    {
+        "parroquia": "TOTORAS",
+        "id": 4065,
+        "votos": 96,
+        "candidato": "Wray Norman",
+        "value": 2.414
+    },
+    {
+        "parroquia": "ATOCHA FICOA",
+        "id": 5045,
+        "votos": 173,
+        "candidato": "Wray Norman",
+        "value": 1.9
+    },
+    {
+        "parroquia": "CELIANO MONGE",
+        "id": 5230,
+        "votos": 38,
+        "candidato": "Wray Norman",
+        "value": 1.993704
+    },
+    {
+        "parroquia": "HUACHI LORETO",
+        "id": 5445,
+        "votos": 967,
+        "candidato": "Wray Norman",
+        "value": 2.0
+    },
+    {
+        "parroquia": "HUACHI CHICO",
+        "id": 5455,
+        "votos": 426,
+        "candidato": "Wray Norman",
+        "value": 2.0
+    },
+    {
+        "parroquia": "LA MATRIZ",
+        "id": 5545,
+        "votos": 562,
+        "candidato": "Wray Norman",
+        "value": 2.6
+    },
+    {
+        "parroquia": "LA MERCED",
+        "id": 5560,
+        "votos": 389,
+        "candidato": "Wray Norman",
+        "value": 2.43
+    },
+    {
+        "parroquia": "LA PENINSULA",
+        "id": 5605,
+        "votos": 33,
+        "candidato": "Wray Norman",
+        "value": 2.6
+    },
+    {
+        "parroquia": "PISHILATA",
+        "id": 5840,
+        "votos": 42,
+        "candidato": "Wray Norman",
+        "value": 2.0
+    },
+    {
+        "parroquia": "SAN FRANCISCO",
+        "id": 5945,
+        "votos": 125,
+        "candidato": "Wray Norman",
+        "value": 2.0
+    }
+]

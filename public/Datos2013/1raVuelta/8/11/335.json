@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CHANGAIMINA /LA LIBERTAD",
+        "id": 825,
+        "votos": 50,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.608
+    },
+    {
+        "parroquia": "NAMBACOLA",
+        "id": 2520,
+        "votos": 66,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.178
+    },
+    {
+        "parroquia": "PURUNUMA /EGUIGUREN",
+        "id": 3045,
+        "votos": 21,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.1
+    },
+    {
+        "parroquia": "SACAPALCA",
+        "id": 3270,
+        "votos": 42,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.4
+    },
+    {
+        "parroquia": "GONZANAMA",
+        "id": 5400,
+        "votos": 99,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.0179
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "LIMONAL",
+        "id": 260,
+        "votos": 19,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.253
+    },
+    {
+        "parroquia": "JUAN BAUTISTA AGUIRRE",
+        "id": 1855,
+        "votos": 37,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.48
+    },
+    {
+        "parroquia": "LAS LOJAS",
+        "id": 2105,
+        "votos": 61,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.18
+    },
+    {
+        "parroquia": "EL LAUREL",
+        "id": 4500,
+        "votos": 56,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.45682
+    },
+    {
+        "parroquia": "DAULE",
+        "id": 5275,
+        "votos": 813,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.5
+    },
+    {
+        "parroquia": "LA AURORA",
+        "id": 6850,
+        "votos": 300,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.6
+    },
+    {
+        "parroquia": "MAGRO",
+        "id": 7425,
+        "votos": 5,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.4
+    }
+]

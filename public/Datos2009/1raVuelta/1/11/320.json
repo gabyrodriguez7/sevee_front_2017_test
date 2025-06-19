@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "SAN VICENTE",
+        "id": 6025,
+        "votos": 12,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.73
+    },
+    {
+        "parroquia": "CHILE",
+        "id": 5240,
+        "votos": 22,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.71
+    },
+    {
+        "parroquia": "CARIAMANGA",
+        "id": 5175,
+        "votos": 205,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.39
+    },
+    {
+        "parroquia": "UTUANA",
+        "id": 4150,
+        "votos": 3,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 0.79
+    },
+    {
+        "parroquia": "SANGUILLIN",
+        "id": 1550,
+        "votos": 3,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.18
+    },
+    {
+        "parroquia": "EL LUCERO",
+        "id": 1230,
+        "votos": 11,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.24
+    },
+    {
+        "parroquia": "COLAIZACA",
+        "id": 590,
+        "votos": 8,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 0.89
+    }
+]

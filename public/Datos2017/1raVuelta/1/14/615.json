@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "ARAPICOS",
+    "id": 155,
+    "votos": 169,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 52.65
+  },
+  {
+    "parroquia": "CUMANDÁ",
+    "id": 715,
+    "votos": 141,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 36.43
+  },
+  {
+    "parroquia": "16 DE AGOSTO",
+    "id": 1685,
+    "votos": 336,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 62.92
+  },
+  {
+    "parroquia": "SANGAY",
+    "id": 3420,
+    "votos": 468,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 65.09
+  },
+  {
+    "parroquia": "PALORA",
+    "id": 5760,
+    "votos": 1476,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 53.3
+  }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "CHIGUAZA",
+        "id": 875,
+        "votos": 783,
+        "candidato": "Acosta Alberto",
+        "value": 40.0
+    },
+    {
+        "parroquia": "HUAMBOYA",
+        "id": 6390,
+        "votos": 462,
+        "candidato": "Acosta Alberto",
+        "value": 32.5
+    }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "NOVILLO",
+    "id": 1600,
+    "votos": 28,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.55
+  },
+  {
+    "parroquia": "ZAPALLO",
+    "id": 1620,
+    "votos": 46,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.6
+  },
+  {
+    "parroquia": "FLAVIO ALFARO",
+    "id": 5480,
+    "votos": 360,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.59
+  }
+]

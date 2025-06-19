@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "DR MIGUEL EGAS/PEGUCHE",
+    "id": 1040,
+    "votos": 333,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.88
+  },
+  {
+    "parroquia": "EUGENIO ESPEJO",
+    "id": 1215,
+    "votos": 426,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.03
+  },
+  {
+    "parroquia": "GONZALEZ SUÁREZ",
+    "id": 1360,
+    "votos": 733,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 18.85
+  },
+  {
+    "parroquia": "PATAQUI",
+    "id": 2785,
+    "votos": 39,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 13.68
+  },
+  {
+    "parroquia": "SAN JOSÉ DE QUICHINCHE",
+    "id": 3490,
+    "votos": 568,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 12.01
+  },
+  {
+    "parroquia": "SAN JUAN DE ILUMÁN",
+    "id": 3525,
+    "votos": 520,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.94
+  },
+  {
+    "parroquia": "SAN PABLO",
+    "id": 3590,
+    "votos": 998,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 15.33
+  },
+  {
+    "parroquia": "SAN RAFAEL",
+    "id": 3630,
+    "votos": 289,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.47
+  },
+  {
+    "parroquia": "SELVA ALEGRE",
+    "id": 3810,
+    "votos": 105,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.37
+  },
+  {
+    "parroquia": "JORDÁN",
+    "id": 5490,
+    "votos": 1862,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.66
+  },
+  {
+    "parroquia": "SAN LUIS",
+    "id": 5980,
+    "votos": 1275,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.19
+  }
+]

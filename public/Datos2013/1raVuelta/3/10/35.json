@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "DR MIGUEL EGAS/PEGUCHE",
+        "id": 1040,
+        "votos": 37,
+        "candidato": "Wray Norman",
+        "value": 1.087
+    },
+    {
+        "parroquia": "EUGENIO ESPEJO",
+        "id": 1215,
+        "votos": 188,
+        "candidato": "Wray Norman",
+        "value": 4.7189
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 1360,
+        "votos": 51,
+        "candidato": "Wray Norman",
+        "value": 1.4518
+    },
+    {
+        "parroquia": "PATAQUI",
+        "id": 2785,
+        "votos": 0,
+        "candidato": "Wray Norman",
+        "value": 0.0
+    },
+    {
+        "parroquia": "SAN JOSE DE QUICHINCHE",
+        "id": 3490,
+        "votos": 44,
+        "candidato": "Wray Norman",
+        "value": 1.0509
+    },
+    {
+        "parroquia": "SAN JUAN DE ILUMAN",
+        "id": 3525,
+        "votos": 67,
+        "candidato": "Wray Norman",
+        "value": 1.4985
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 3590,
+        "votos": 71,
+        "candidato": "Wray Norman",
+        "value": 1.2104
+    },
+    {
+        "parroquia": "SAN RAFAEL",
+        "id": 3630,
+        "votos": 23,
+        "candidato": "Wray Norman",
+        "value": 0.7568
+    },
+    {
+        "parroquia": "SELVA ALEGRE",
+        "id": 3810,
+        "votos": 2,
+        "candidato": "Wray Norman",
+        "value": 0.2105
+    },
+    {
+        "parroquia": "JORDAN",
+        "id": 5490,
+        "votos": 391,
+        "candidato": "Wray Norman",
+        "value": 2.0266
+    },
+    {
+        "parroquia": "SAN LUIS",
+        "id": 5980,
+        "votos": 221,
+        "candidato": "Wray Norman",
+        "value": 2.0
+    }
+]

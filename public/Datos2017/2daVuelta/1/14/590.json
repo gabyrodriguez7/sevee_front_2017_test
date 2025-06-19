@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "ALSHI /9 DE OCTUBRE",
+    "id": 65,
+    "votos": 176,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 60.27
+  },
+  {
+    "parroquia": "CUCHAENTZA",
+    "id": 1250,
+    "votos": 875,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 81.4
+  },
+  {
+    "parroquia": "GRAL. PROAÑO",
+    "id": 1345,
+    "votos": 663,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 56.19
+  },
+  {
+    "parroquia": "RÍO BLANCO",
+    "id": 1730,
+    "votos": 518,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 54.01
+  },
+  {
+    "parroquia": "SAN ISIDRO",
+    "id": 3440,
+    "votos": 338,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 54.52
+  },
+  {
+    "parroquia": "SEVILLA DON BOSCO",
+    "id": 3830,
+    "votos": 5089,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 77.51
+  },
+  {
+    "parroquia": "ZUNAC",
+    "id": 4360,
+    "votos": 99,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 70.21
+  },
+  {
+    "parroquia": "SINAI",
+    "id": 4485,
+    "votos": 356,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 51.37
+  },
+  {
+    "parroquia": "MACAS",
+    "id": 5615,
+    "votos": 8101,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 56.72
+  }
+]

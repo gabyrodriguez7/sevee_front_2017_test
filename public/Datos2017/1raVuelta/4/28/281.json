@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "C. E. EN MÉXICO",
+    "id": 9047,
+    "votos": 34,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.41
+  },
+  {
+    "parroquia": "C. E. EN TAPACHULA",
+    "id": 9082,
+    "votos": 0,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 0
+  },
+  {
+    "parroquia": "C. E. EN MONTERREY",
+    "id": 9086,
+    "votos": 2,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 4.17
+  }
+]

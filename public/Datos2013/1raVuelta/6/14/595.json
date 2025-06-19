@@ -1,0 +1,72 @@
+[
+  {
+    "parroquia": "AMAZONAS",
+    "id": 90,
+    "votos": 6,
+    "candidato": "Lasso Guillermo",
+    "value": 4.3
+  },
+  {
+    "parroquia": "BERMEJOS",
+    "id": 340,
+    "votos": 49,
+    "candidato": "Lasso Guillermo",
+    "value": 29.0
+  },
+  {
+    "parroquia": "BOMBOIZA",
+    "id": 350,
+    "votos": 126,
+    "candidato": "Lasso Guillermo",
+    "value": 8.0
+  },
+  {
+    "parroquia": "CHIGUINDA",
+    "id": 880,
+    "votos": 69,
+    "candidato": "Lasso Guillermo",
+    "value": 22.0
+  },
+  {
+    "parroquia": "EL IDEAL",
+    "id": 1910,
+    "votos": 58,
+    "candidato": "Lasso Guillermo",
+    "value": 18.3
+  },
+  {
+    "parroquia": "NUEVA TARQUI",
+    "id": 2565,
+    "votos": 84,
+    "candidato": "Lasso Guillermo",
+    "value": 17.8
+  },
+  {
+    "parroquia": "ROSARIO",
+    "id": 3225,
+    "votos": 70,
+    "candidato": "Lasso Guillermo",
+    "value": 20.77
+  },
+  {
+    "parroquia": "SAN MIGUEL DE CUYES",
+    "id": 3580,
+    "votos": 9,
+    "candidato": "Lasso Guillermo",
+    "value": 8.3
+  },
+  {
+    "parroquia": "GUALAQUIZA",
+    "id": 5425,
+    "votos": 1324,
+    "candidato": "Lasso Guillermo",
+    "value": 24.8
+  },
+  {
+    "parroquia": "MERCEDES MOLINA",
+    "id": 5655,
+    "votos": 56,
+    "candidato": "Lasso Guillermo",
+    "value": 21.8
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "LOS ANDES",
+    "id": 2210,
+    "votos": 28,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.7
+  },
+  {
+    "parroquia": "SUCRE",
+    "id": 3885,
+    "votos": 26,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.95
+  },
+  {
+    "parroquia": "EL TRIUNFO",
+    "id": 4110,
+    "votos": 11,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.37
+  },
+  {
+    "parroquia": "PATATE",
+    "id": 5830,
+    "votos": 243,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.05
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "CHACRAS",
+    "id": 805,
+    "votos": 242,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 28.67
+  },
+  {
+    "parroquia": "CARCABÓN",
+    "id": 1695,
+    "votos": 136,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 33.01
+  },
+  {
+    "parroquia": "PALMALES",
+    "id": 2715,
+    "votos": 487,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 29.86
+  },
+  {
+    "parroquia": "ARENILLAS",
+    "id": 5040,
+    "votos": 5643,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 37.98
+  }
+]

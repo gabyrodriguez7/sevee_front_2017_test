@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "BULAN / J. VICTOR IZQUIERDO",
+        "id": 395,
+        "votos": 12,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "CHICAN / GUILLERMO ORTEGA",
+        "id": 870,
+        "votos": 15,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "DUG-DUG",
+        "id": 890,
+        "votos": 6,
+        "candidato": "Wray Norman",
+        "value": 0.9
+    },
+    {
+        "parroquia": "GUARAINAC",
+        "id": 1455,
+        "votos": 5,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "SAN CRISTOBAL",
+        "id": 3375,
+        "votos": 31,
+        "candidato": "Wray Norman",
+        "value": 2.7
+    },
+    {
+        "parroquia": "TOMEBAMBA",
+        "id": 4050,
+        "votos": 6,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "EL CABO",
+        "id": 4565,
+        "votos": 12,
+        "candidato": "Wray Norman",
+        "value": 1.53453
+    },
+    {
+        "parroquia": "PAUTE",
+        "id": 5775,
+        "votos": 103,
+        "candidato": "Wray Norman",
+        "value": 1.16
+    }
+]

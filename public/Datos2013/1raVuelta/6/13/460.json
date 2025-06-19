@@ -1,0 +1,31 @@
+[
+                {
+                    "parroquia": "BELLAVISTA",
+                    "id": 330,
+                    "votos": 321,
+                    "candidato": "Lasso Guillermo",
+                    "value": 11.982
+                },
+                {
+                    "parroquia": "ARQ.SIXTO DURAN BALLEN",
+                    "id": 1570,
+                    "votos": 143,
+                    "candidato": "Lasso Guillermo",
+                    "value": 12.871287
+                },
+                {
+                    "parroquia": "NOBOA",
+                    "id": 2555,
+                    "votos": 587,
+                    "candidato": "Lasso Guillermo",
+                    "value": 15.65
+                },
+                {
+                    "parroquia": "SUCRE",
+                    "id": 6105,
+                    "votos": 1883,
+                    "candidato": "Lasso Guillermo",
+                    "value": 18.54
+                }
+            ]
+            

@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "GRAL.PEDRO MONTERO",
+        "id": 1340,
+        "votos": 69,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.48
+    },
+    {
+        "parroquia": "VIRGEN DE FATIMA",
+        "id": 1915,
+        "votos": 82,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.56
+    },
+    {
+        "parroquia": "YAGUACHI VIEJO/CONE",
+        "id": 4275,
+        "votos": 58,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.6
+    },
+    {
+        "parroquia": "YAGUACHI NUEVO",
+        "id": 6285,
+        "votos": 281,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.712
+    }
+]

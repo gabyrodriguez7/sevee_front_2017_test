@@ -1,0 +1,100 @@
+[
+  {
+    "parroquia": "ZARACAY",
+    "id": 6180,
+    "votos": 106,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 4.07
+  },
+  {
+    "parroquia": "CHIGUILPE",
+    "id": 6175,
+    "votos": 247,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 3.39
+  },
+  {
+    "parroquia": "SANTO DOMINGO",
+    "id": 6065,
+    "votos": 3522,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 3.41
+  },
+  {
+    "parroquia": "RIO TOACHI",
+    "id": 5870,
+    "votos": 42,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.05
+  },
+  {
+    "parroquia": "RIO VERDE",
+    "id": 5865,
+    "votos": 375,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.41
+  },
+  {
+    "parroquia": "BOMBOLI",
+    "id": 5860,
+    "votos": 446,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 3.23
+  },
+  {
+    "parroquia": "ABRAHAM CALAZACON",
+    "id": 5730,
+    "votos": 283,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.44
+  },
+  {
+    "parroquia": "PUERTO LIMON",
+    "id": 4440,
+    "votos": 61,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.51
+  },
+  {
+    "parroquia": "SANTA MARIA DEL TOACHI",
+    "id": 2045,
+    "votos": 14,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.13
+  },
+  {
+    "parroquia": "EL ESFUERZO",
+    "id": 1990,
+    "votos": 36,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.06
+  },
+  {
+    "parroquia": "SAN JACINTO DEL BUA",
+    "id": 1970,
+    "votos": 50,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.5
+  },
+  {
+    "parroquia": "LUZ DE AMERICA",
+    "id": 1755,
+    "votos": 26,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.41
+  },
+  {
+    "parroquia": "VALLE HERMOSO",
+    "id": 305,
+    "votos": 54,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.16
+  },
+  {
+    "parroquia": "ALLURIQUIN",
+    "id": 75,
+    "votos": 84,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.2
+  }
+]

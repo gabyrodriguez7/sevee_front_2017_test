@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "SHIMPIS",
+    "id": 525,
+    "votos": 67,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.23
+  },
+  {
+    "parroquia": "YAUPI",
+    "id": 4300,
+    "votos": 42,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.28
+  },
+  {
+    "parroquia": "LOGROÑO",
+    "id": 6735,
+    "votos": 75,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.52
+  }
+]

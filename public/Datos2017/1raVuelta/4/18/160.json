@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "YANAYACU MOCHAPATA",
+    "id": 4310,
+    "votos": 103,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.33
+  },
+  {
+    "parroquia": "RUMIPAMBA",
+    "id": 4550,
+    "votos": 87,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.69
+  },
+  {
+    "parroquia": "QUERO",
+    "id": 5835,
+    "votos": 1374,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.77
+  }
+]

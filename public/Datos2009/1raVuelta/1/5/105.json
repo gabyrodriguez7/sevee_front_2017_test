@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "PUJILI",
+        "id": 5820,
+        "votos": 414,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.37
+    },
+    {
+        "parroquia": "ZUMBAHUA",
+        "id": 4365,
+        "votos": 96,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.31
+    },
+    {
+        "parroquia": "TINGO",
+        "id": 4015,
+        "votos": 9,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 0.66
+    },
+    {
+        "parroquia": "PILALO",
+        "id": 2865,
+        "votos": 20,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.42
+    },
+    {
+        "parroquia": "LA VICTORIA",
+        "id": 2150,
+        "votos": 45,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.09
+    },
+    {
+        "parroquia": "GUANGAJE",
+        "id": 1430,
+        "votos": 124,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 4.15
+    },
+    {
+        "parroquia": "ANGAMARCA",
+        "id": 125,
+        "votos": 62,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 4.93
+    }
+]

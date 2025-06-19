@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "LA PAZ",
+    "id": 2070,
+    "votos": 275,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 24.86
+  },
+  {
+    "parroquia": "TUTUPALI",
+    "id": 4105,
+    "votos": 149,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 30.79
+  },
+  {
+    "parroquia": "28 DE MAYO",
+    "id": 6215,
+    "votos": 516,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 23.86
+  }
+]

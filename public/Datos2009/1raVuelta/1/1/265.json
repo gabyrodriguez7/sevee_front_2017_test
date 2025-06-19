@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "GUALACEO",
+        "id": 5420,
+        "votos": 395,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.69
+    },
+    {
+        "parroquia": "ZHIDMAD",
+        "id": 4340,
+        "votos": 17,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.74
+    },
+    {
+        "parroquia": "SIMON BOLIVAR",
+        "id": 3780,
+        "votos": 1,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 0.3
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3505,
+        "votos": 226,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 14.08
+    },
+    {
+        "parroquia": "REMIGIO CRESPO TORAL",
+        "id": 3160,
+        "votos": 5,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.34
+    },
+    {
+        "parroquia": "MARIANO MORENO/CALLASAY",
+        "id": 2385,
+        "votos": 13,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.56
+    },
+    {
+        "parroquia": "JADAN",
+        "id": 1805,
+        "votos": 125,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 7.3
+    },
+    {
+        "parroquia": "LUIS CORDERO VEGA",
+        "id": 1760,
+        "votos": 4,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.13
+    },
+    {
+        "parroquia": "DANIEL CORDOVA TORAL",
+        "id": 1005,
+        "votos": 89,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 10.26
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "NUEVA FATIMA",
+        "id": 2575,
+        "votos": 32,
+        "candidato": "Gutierrez Lucio",
+        "value": 6.2
+    },
+    {
+        "parroquia": "TACAMOROS",
+        "id": 3935,
+        "votos": 125,
+        "candidato": "Gutierrez Lucio",
+        "value": 9.0
+    },
+    {
+        "parroquia": "SOZORANGA",
+        "id": 6120,
+        "votos": 136,
+        "candidato": "Gutierrez Lucio",
+        "value": 7.763
+    }
+]

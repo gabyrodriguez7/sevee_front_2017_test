@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "ABDON CALDERON / LA UNION",
+        "id": 15,
+        "votos": 1072,
+        "candidato": "Correa Delgado Rafael",
+        "value": 68.0
+    },
+    {
+        "parroquia": "SHAGLLI",
+        "id": 3835,
+        "votos": 564,
+        "candidato": "Correa Delgado Rafael",
+        "value": 54.0
+    },
+    {
+        "parroquia": "SAN SALVADOR DE CA�ARIBAMBA",
+        "id": 4610,
+        "votos": 63,
+        "candidato": "Correa Delgado Rafael",
+        "value": 19.0
+    },
+    {
+        "parroquia": "SANTA ISABEL",
+        "id": 6045,
+        "votos": 4378,
+        "candidato": "Correa Delgado Rafael",
+        "value": 50.0
+    }
+]

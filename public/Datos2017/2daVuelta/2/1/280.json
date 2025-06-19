@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "CUTCHIL",
+    "id": 750,
+    "votos": 546,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 65.31
+  },
+  {
+    "parroquia": "GIMA",
+    "id": 1355,
+    "votos": 1533,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 67.74
+  },
+  {
+    "parroquia": "GUEL",
+    "id": 1490,
+    "votos": 716,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 84.33
+  },
+  {
+    "parroquia": "LUDO",
+    "id": 2215,
+    "votos": 1282,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 62.97
+  },
+  {
+    "parroquia": "SAN BARTOLOMÉ",
+    "id": 3360,
+    "votos": 1529,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 66.74
+  },
+  {
+    "parroquia": "SAN JOSÉ DE RARANGA",
+    "id": 3495,
+    "votos": 418,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 33.47
+  },
+  {
+    "parroquia": "SIGSIG",
+    "id": 6085,
+    "votos": 5586,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 66
+  }
+]

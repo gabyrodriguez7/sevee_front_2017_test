@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "BELLAVISTA",
+    "id": 320,
+    "votos": 12,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.05
+  },
+  {
+    "parroquia": "EL INGENIO",
+    "id": 790,
+    "votos": 6,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.6
+  },
+  {
+    "parroquia": "EL AIRO",
+    "id": 1645,
+    "votos": 3,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.61
+  },
+  {
+    "parroquia": "JIMBURA",
+    "id": 1845,
+    "votos": 14,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.24
+  },
+  {
+    "parroquia": "SANTA TERESITA",
+    "id": 3765,
+    "votos": 5,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.56
+  },
+  {
+    "parroquia": "27 DE ABRIL /LA NARANJA",
+    "id": 4460,
+    "votos": 19,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.76
+  },
+  {
+    "parroquia": "AMALUZA",
+    "id": 5020,
+    "votos": 36,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.1
+  }
+]

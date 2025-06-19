@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "AYAPAMBA",
+        "id": 225,
+        "votos": 18,
+        "candidato": "Gutierrez Lucio",
+        "value": 1.7013233
+    },
+    {
+        "parroquia": "SAN JUAN DE CERRO AZUL",
+        "id": 375,
+        "votos": 6,
+        "candidato": "Gutierrez Lucio",
+        "value": 1.8461538
+    },
+    {
+        "parroquia": "CORDONCILLO",
+        "id": 4480,
+        "votos": 12,
+        "candidato": "Gutierrez Lucio",
+        "value": 2.2
+    },
+    {
+        "parroquia": "SAN JOSE",
+        "id": 4530,
+        "votos": 3,
+        "candidato": "Gutierrez Lucio",
+        "value": 1.13
+    },
+    {
+        "parroquia": "MILAGRO",
+        "id": 4535,
+        "votos": 3,
+        "candidato": "Gutierrez Lucio",
+        "value": 1.31
+    },
+    {
+        "parroquia": "PACCHA",
+        "id": 5745,
+        "votos": 33,
+        "candidato": "Gutierrez Lucio",
+        "value": 1.7
+    }
+]

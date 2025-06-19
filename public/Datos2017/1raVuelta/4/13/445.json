@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "LA PILA",
+    "id": 1545,
+    "votos": 136,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.48
+  },
+  {
+    "parroquia": "MONTECRISTI",
+    "id": 5665,
+    "votos": 2506,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.57
+  },
+  {
+    "parroquia": "ANIBAL SAN ANDRÉS",
+    "id": 7460,
+    "votos": 69,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.39
+  },
+  {
+    "parroquia": "COLORADO",
+    "id": 7490,
+    "votos": 55,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.29
+  },
+  {
+    "parroquia": "LEONIDAS PROAÑO",
+    "id": 7495,
+    "votos": 318,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 4.29
+  },
+  {
+    "parroquia": "GENERAL ELOY ALFARO DELGA",
+    "id": 7500,
+    "votos": 62,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.47
+  }
+]

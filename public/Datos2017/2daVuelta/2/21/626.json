@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "CUYABENO",
+    "id": 760,
+    "votos": 195,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 60.94
+  },
+  {
+    "parroquia": "AGUAS NEGRAS",
+    "id": 1555,
+    "votos": 469,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 57.41
+  },
+  {
+    "parroquia": "TARAPOA",
+    "id": 6765,
+    "votos": 2188,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 55.55
+  }
+]

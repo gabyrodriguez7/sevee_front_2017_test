@@ -1,0 +1,86 @@
+[
+  {
+    "parroquia": "BELLAVISTA",
+    "id": 325,
+    "votos": 247,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 15.02
+  },
+  {
+    "parroquia": "BELLAMARÍA",
+    "id": 1665,
+    "votos": 105,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.76
+  },
+  {
+    "parroquia": "JAMBELÍ",
+    "id": 1815,
+    "votos": 48,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.46
+  },
+  {
+    "parroquia": "LA AVANZADA",
+    "id": 2005,
+    "votos": 243,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 17.49
+  },
+  {
+    "parroquia": "SAN ANTONIO",
+    "id": 3330,
+    "votos": 118,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 16.3
+  },
+  {
+    "parroquia": "VICTORIA",
+    "id": 4215,
+    "votos": 131,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.95
+  },
+  {
+    "parroquia": "TORATA",
+    "id": 4525,
+    "votos": 262,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 23.41
+  },
+  {
+    "parroquia": "SANTA ROSA",
+    "id": 6060,
+    "votos": 5972,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 16.2
+  },
+  {
+    "parroquia": "PUERTO JELI",
+    "id": 6670,
+    "votos": 68,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 14.32
+  },
+  {
+    "parroquia": "BALNEARIO JAMBELÍ",
+    "id": 6900,
+    "votos": 14,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.29
+  },
+  {
+    "parroquia": "JUMON",
+    "id": 6985,
+    "votos": 38,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.9
+  },
+  {
+    "parroquia": "NUEVO SANTA ROSA",
+    "id": 6990,
+    "votos": 93,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 14.33
+  }
+]

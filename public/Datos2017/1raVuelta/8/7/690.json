@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "CURTINCAPAC",
+    "id": 740,
+    "votos": 15,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.91
+  },
+  {
+    "parroquia": "SALATI",
+    "id": 3275,
+    "votos": 9,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.47
+  },
+  {
+    "parroquia": "MORALES",
+    "id": 4520,
+    "votos": 11,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.35
+  },
+  {
+    "parroquia": "PORTOVELO",
+    "id": 5850,
+    "votos": 146,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.1
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "SALANGO",
+    "id": 1920,
+    "votos": 1358,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 68.24
+  },
+  {
+    "parroquia": "MACHALILLA",
+    "id": 2305,
+    "votos": 2311,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 70.89
+  },
+  {
+    "parroquia": "PUERTO LÓPEZ",
+    "id": 6575,
+    "votos": 6789,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 73.91
+  }
+]

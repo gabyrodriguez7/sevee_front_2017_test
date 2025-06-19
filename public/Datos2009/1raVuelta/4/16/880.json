@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SANTA CLARA",
+        "id": 6395,
+        "votos": 567,
+        "candidato": "Rafael Correa Delgado",
+        "value": 30.34
+    },
+    {
+        "parroquia": "SAN JOSE",
+        "id": 2100,
+        "votos": 82,
+        "candidato": "Rafael Correa Delgado",
+        "value": 19.11
+    }
+]

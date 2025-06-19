@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "GUASAGANDA",
+    "id": 1500,
+    "votos": 496,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 27.72
+  },
+  {
+    "parroquia": "PUCAYACO",
+    "id": 2965,
+    "votos": 686,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 41.28
+  },
+  {
+    "parroquia": "LA MANÁ",
+    "id": 6535,
+    "votos": 6656,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 32.61
+  },
+  {
+    "parroquia": "EL CARMEN",
+    "id": 6880,
+    "votos": 494,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 25.46
+  },
+  {
+    "parroquia": "EL TRIUNFO",
+    "id": 6895,
+    "votos": 550,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 26.18
+  }
+]

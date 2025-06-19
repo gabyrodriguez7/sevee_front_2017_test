@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "NUEVA FATIMA",
+        "id": 2575,
+        "votos": 1,
+        "candidato": "Zavala Nelson",
+        "value": 0.2
+    },
+    {
+        "parroquia": "TACAMOROS",
+        "id": 3935,
+        "votos": 6,
+        "candidato": "Zavala Nelson",
+        "value": 0.4
+    },
+    {
+        "parroquia": "SOZORANGA",
+        "id": 6120,
+        "votos": 12,
+        "candidato": "Zavala Nelson",
+        "value": 0.685
+    }
+]

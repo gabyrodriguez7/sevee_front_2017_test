@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "SUMAYPAMBA",
+    "id": 310,
+    "votos": 256,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 43.1
+  },
+  {
+    "parroquia": "EL PARAÍSO DE CELÉN",
+    "id": 1165,
+    "votos": 407,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 31.92
+  },
+  {
+    "parroquia": "EL TABLÓN",
+    "id": 1190,
+    "votos": 148,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 36.91
+  },
+  {
+    "parroquia": "LLUZHAPA",
+    "id": 2280,
+    "votos": 303,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 34.35
+  },
+  {
+    "parroquia": "MANÚ",
+    "id": 2360,
+    "votos": 541,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 31.11
+  },
+  {
+    "parroquia": "SAN ANTONIO DE CUMBE",
+    "id": 3340,
+    "votos": 231,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 32.54
+  },
+  {
+    "parroquia": "SAN PABLO DE TENTA",
+    "id": 3600,
+    "votos": 352,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 19.38
+  },
+  {
+    "parroquia": "SAN SEBASTIÁN DE YULOG",
+    "id": 3665,
+    "votos": 214,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 42.71
+  },
+  {
+    "parroquia": "SELVA ALEGRE",
+    "id": 3815,
+    "votos": 312,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 28.62
+  },
+  {
+    "parroquia": "URDANETA/PAQUISHAPA",
+    "id": 4145,
+    "votos": 793,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 38.02
+  },
+  {
+    "parroquia": "SARAGURO",
+    "id": 6075,
+    "votos": 1530,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 24.33
+  }
+]

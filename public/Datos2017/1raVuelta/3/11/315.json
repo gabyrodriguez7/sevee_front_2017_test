@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "CRUZPAMBA/BUSTAMANTE",
+    "id": 695,
+    "votos": 325,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 46.36
+  },
+  {
+    "parroquia": "TNTE M.RODRÍGUEZ LOAYZA",
+    "id": 1495,
+    "votos": 132,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 57.14
+  },
+  {
+    "parroquia": "SABANILLA",
+    "id": 3255,
+    "votos": 508,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 41.27
+  },
+  {
+    "parroquia": "SAN JUAN DE POZUL",
+    "id": 3535,
+    "votos": 956,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 59.23
+  },
+  {
+    "parroquia": "CELICA",
+    "id": 5195,
+    "votos": 1532,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 36.91
+  }
+]

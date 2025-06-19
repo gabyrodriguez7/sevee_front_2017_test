@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "ATAHUALPA",
+    "id": 205,
+    "votos": 70,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.13620072
+  },
+  {
+    "parroquia": "COLONCHE",
+    "id": 605,
+    "votos": 410,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.20086961
+  },
+  {
+    "parroquia": "CHANDUY",
+    "id": 820,
+    "votos": 233,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.52738909
+  },
+  {
+    "parroquia": "SAN JOSÉ DE ANCÓN",
+    "id": 1300,
+    "votos": 120,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.46320346
+  },
+  {
+    "parroquia": "MANGLARALTO",
+    "id": 2355,
+    "votos": 851,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.66480294
+  },
+  {
+    "parroquia": "SIMÓN BOLÍVAR",
+    "id": 3915,
+    "votos": 53,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.92011019
+  },
+  {
+    "parroquia": "BALLENITA",
+    "id": 5130,
+    "votos": 38,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.55720054
+  },
+  {
+    "parroquia": "SANTA ELENA",
+    "id": 6040,
+    "votos": 1687,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.42282988
+  }
+]

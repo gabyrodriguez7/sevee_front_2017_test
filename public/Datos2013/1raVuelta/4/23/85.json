@@ -1,0 +1,100 @@
+[
+    {
+        "parroquia": "ALLURIQUIN",
+        "id": 75,
+        "votos": 86,
+        "candidato": "Acosta Alberto",
+        "value": 1.735
+    },
+    {
+        "parroquia": "VALLE HERMOSO",
+        "id": 305,
+        "votos": 62,
+        "candidato": "Acosta Alberto",
+        "value": 1.691
+    },
+    {
+        "parroquia": "LUZ DE AMERICA",
+        "id": 1755,
+        "votos": 40,
+        "candidato": "Acosta Alberto",
+        "value": 1.38
+    },
+    {
+        "parroquia": "SAN JACINTO DEL BUA",
+        "id": 1970,
+        "votos": 65,
+        "candidato": "Acosta Alberto",
+        "value": 1.351
+    },
+    {
+        "parroquia": "EL ESFUERZO",
+        "id": 1990,
+        "votos": 32,
+        "candidato": "Acosta Alberto",
+        "value": 1.3
+    },
+    {
+        "parroquia": "SANTA MARIA DEL TOACHI",
+        "id": 2045,
+        "votos": 52,
+        "candidato": "Acosta Alberto",
+        "value": 2.9
+    },
+    {
+        "parroquia": "PUERTO LIMON",
+        "id": 4440,
+        "votos": 78,
+        "candidato": "Acosta Alberto",
+        "value": 1.0
+    },
+    {
+        "parroquia": "ABRAHAM CALAZACON",
+        "id": 5730,
+        "votos": 213,
+        "candidato": "Acosta Alberto",
+        "value": 1.0
+    },
+    {
+        "parroquia": "BOMBOLI",
+        "id": 5860,
+        "votos": 309,
+        "candidato": "Acosta Alberto",
+        "value": 1.61924
+    },
+    {
+        "parroquia": "RIO VERDE",
+        "id": 5865,
+        "votos": 330,
+        "candidato": "Acosta Alberto",
+        "value": 2.0
+    },
+    {
+        "parroquia": "RIO TOACHI",
+        "id": 5870,
+        "votos": 58,
+        "candidato": "Acosta Alberto",
+        "value": 2.0
+    },
+    {
+        "parroquia": "SANTO DOMINGO",
+        "id": 6065,
+        "votos": 1839,
+        "candidato": "Acosta Alberto",
+        "value": 1.5
+    },
+    {
+        "parroquia": "CHIGUILPE",
+        "id": 6175,
+        "votos": 206,
+        "candidato": "Acosta Alberto",
+        "value": 2.0
+    },
+    {
+        "parroquia": "ZARACAY",
+        "id": 6180,
+        "votos": 93,
+        "candidato": "Acosta Alberto",
+        "value": 2.4
+    }
+]

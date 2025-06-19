@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "EL PORVENIR DEL CARMEN",
+    "id": 1240,
+    "votos": 4,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.58
+  },
+  {
+    "parroquia": "LA CANELA",
+    "id": 2170,
+    "votos": 1,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.46
+  },
+  {
+    "parroquia": "VALLADOLID",
+    "id": 4195,
+    "votos": 2,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.2
+  },
+  {
+    "parroquia": "SAN FRANCISCO DEL VERGEL",
+    "id": 4505,
+    "votos": 4,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.55
+  },
+  {
+    "parroquia": "PALANDA",
+    "id": 6740,
+    "votos": 11,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.42
+  }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "FLAVIO ALFARO",
+        "id": 5480,
+        "votos": 77,
+        "candidato": "Melba Jacome",
+        "value": 0.83
+    },
+    {
+        "parroquia": "ZAPALLO",
+        "id": 1620,
+        "votos": 9,
+        "candidato": "Melba Jacome",
+        "value": 0.91
+    },
+    {
+        "parroquia": "NOVILLO",
+        "id": 1600,
+        "votos": 5,
+        "candidato": "Melba Jacome",
+        "value": 0.99
+    }
+]

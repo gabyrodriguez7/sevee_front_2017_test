@@ -1,0 +1,191 @@
+[
+    {
+        "parroquia": "AMBATILLO",
+        "id": 95,
+        "votos": 74,
+        "candidato": "Acosta Alberto",
+        "value": 3.0
+    },
+    {
+        "parroquia": "ATAHUALPA /CHIPZALATA",
+        "id": 190,
+        "votos": 99,
+        "candidato": "Acosta Alberto",
+        "value": 2.0
+    },
+    {
+        "parroquia": "AUGUSTO N MARTINEZ",
+        "id": 210,
+        "votos": 125,
+        "candidato": "Acosta Alberto",
+        "value": 2.0
+    },
+    {
+        "parroquia": "CONSTANTINO FERNANDEZ",
+        "id": 635,
+        "votos": 22,
+        "candidato": "Acosta Alberto",
+        "value": 1.4
+    },
+    {
+        "parroquia": "CUNCHIBAMBA",
+        "id": 800,
+        "votos": 23,
+        "candidato": "Acosta Alberto",
+        "value": 1.0
+    },
+    {
+        "parroquia": "UNAMUNCHO",
+        "id": 810,
+        "votos": 35,
+        "candidato": "Acosta Alberto",
+        "value": 3.0
+    },
+    {
+        "parroquia": "HUACHI GRANDE",
+        "id": 1625,
+        "votos": 89,
+        "candidato": "Acosta Alberto",
+        "value": 2.0
+    },
+    {
+        "parroquia": "IZAMBA",
+        "id": 1745,
+        "votos": 256,
+        "candidato": "Acosta Alberto",
+        "value": 2.0
+    },
+    {
+        "parroquia": "JUAN BENIGNO VELA",
+        "id": 1860,
+        "votos": 223,
+        "candidato": "Acosta Alberto",
+        "value": 4.88
+    },
+    {
+        "parroquia": "MONTALVO",
+        "id": 2435,
+        "votos": 39,
+        "candidato": "Acosta Alberto",
+        "value": 1.9
+    },
+    {
+        "parroquia": "PASA",
+        "id": 2775,
+        "votos": 125,
+        "candidato": "Acosta Alberto",
+        "value": 3.0
+    },
+    {
+        "parroquia": "PICAYHUA",
+        "id": 2830,
+        "votos": 163,
+        "candidato": "Acosta Alberto",
+        "value": 1.8
+    },
+    {
+        "parroquia": "PILAHUIN",
+        "id": 2860,
+        "votos": 487,
+        "candidato": "Acosta Alberto",
+        "value": 8.36
+    },
+    {
+        "parroquia": "QUISAPINCHA",
+        "id": 3120,
+        "votos": 219,
+        "candidato": "Acosta Alberto",
+        "value": 3.55
+    },
+    {
+        "parroquia": "SAN BARTOLOME",
+        "id": 3355,
+        "votos": 118,
+        "candidato": "Acosta Alberto",
+        "value": 2.3297
+    },
+    {
+        "parroquia": "SAN FERNANDO",
+        "id": 3380,
+        "votos": 40,
+        "candidato": "Acosta Alberto",
+        "value": 2.75
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 3730,
+        "votos": 216,
+        "candidato": "Acosta Alberto",
+        "value": 2.2
+    },
+    {
+        "parroquia": "TOTORAS",
+        "id": 4065,
+        "votos": 50,
+        "candidato": "Acosta Alberto",
+        "value": 1.257
+    },
+    {
+        "parroquia": "ATOCHA FICOA",
+        "id": 5045,
+        "votos": 187,
+        "candidato": "Acosta Alberto",
+        "value": 2.1
+    },
+    {
+        "parroquia": "CELIANO MONGE",
+        "id": 5230,
+        "votos": 48,
+        "candidato": "Acosta Alberto",
+        "value": 2.518363
+    },
+    {
+        "parroquia": "HUACHI LORETO",
+        "id": 5445,
+        "votos": 770,
+        "candidato": "Acosta Alberto",
+        "value": 2.0
+    },
+    {
+        "parroquia": "HUACHI CHICO",
+        "id": 5455,
+        "votos": 334,
+        "candidato": "Acosta Alberto",
+        "value": 2.0
+    },
+    {
+        "parroquia": "LA MATRIZ",
+        "id": 5545,
+        "votos": 437,
+        "candidato": "Acosta Alberto",
+        "value": 2.1
+    },
+    {
+        "parroquia": "LA MERCED",
+        "id": 5560,
+        "votos": 323,
+        "candidato": "Acosta Alberto",
+        "value": 2.02
+    },
+    {
+        "parroquia": "LA PENINSULA",
+        "id": 5605,
+        "votos": 19,
+        "candidato": "Acosta Alberto",
+        "value": 1.5
+    },
+    {
+        "parroquia": "PISHILATA",
+        "id": 5840,
+        "votos": 32,
+        "candidato": "Acosta Alberto",
+        "value": 2.0
+    },
+    {
+        "parroquia": "SAN FRANCISCO",
+        "id": 5945,
+        "votos": 134,
+        "candidato": "Acosta Alberto",
+        "value": 2.0
+    }
+]

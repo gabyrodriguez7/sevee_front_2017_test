@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "ZAPOTILLO",
+        "id": 6320,
+        "votos": 50,
+        "candidato": "Alvaro Noboa",
+        "value": 1.92
+    },
+    {
+        "parroquia": "PALETILLAS",
+        "id": 2710,
+        "votos": 22,
+        "candidato": "Alvaro Noboa",
+        "value": 2.08
+    },
+    {
+        "parroquia": "BOLASPAMBA",
+        "id": 2000,
+        "votos": 30,
+        "candidato": "Alvaro Noboa",
+        "value": 10.16
+    },
+    {
+        "parroquia": "CAZADEROS",
+        "id": 550,
+        "votos": 12,
+        "candidato": "Alvaro Noboa",
+        "value": 2.1
+    },
+    {
+        "parroquia": "GARZAREAL",
+        "id": 290,
+        "votos": 11,
+        "candidato": "Alvaro Noboa",
+        "value": 2.56
+    },
+    {
+        "parroquia": "LIMONES",
+        "id": 280,
+        "votos": 15,
+        "candidato": "Alvaro Noboa",
+        "value": 4.01
+    }
+]

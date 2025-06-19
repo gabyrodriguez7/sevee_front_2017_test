@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "LA IBERIA",
+        "id": 245,
+        "votos": 938,
+        "candidato": "Correa Delgado Rafael",
+        "value": 60.051216
+    },
+    {
+        "parroquia": "BARBONES",
+        "id": 300,
+        "votos": 2326,
+        "candidato": "Correa Delgado Rafael",
+        "value": 71.371586
+    },
+    {
+        "parroquia": "RIO BONITO",
+        "id": 2050,
+        "votos": 1202,
+        "candidato": "Correa Delgado Rafael",
+        "value": 74.0
+    },
+    {
+        "parroquia": "TENDALES",
+        "id": 4000,
+        "votos": 1163,
+        "candidato": "Correa Delgado Rafael",
+        "value": 68.1
+    },
+    {
+        "parroquia": "EL GUABO",
+        "id": 5340,
+        "votos": 11917,
+        "candidato": "Correa Delgado Rafael",
+        "value": 59.214907
+    }
+]

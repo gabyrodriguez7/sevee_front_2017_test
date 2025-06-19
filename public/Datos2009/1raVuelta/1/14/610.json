@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "SUCUA",
+    "id": 6110,
+    "votos": 281,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 4.91
+  },
+  {
+    "parroquia": "HUAMBI",
+    "id": 1635,
+    "votos": 20,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.82
+  },
+  {
+    "parroquia": "SANTA MARIANITA DE JESUS",
+    "id": 1140,
+    "votos": 16,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 7.14
+  },
+  {
+    "parroquia": "ASUNCION",
+    "id": 180,
+    "votos": 15,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.64
+  }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "CUTCHIL",
+        "id": 750,
+        "votos": 423,
+        "candidato": "Correa Delgado Rafael",
+        "value": 61.0
+    },
+    {
+        "parroquia": "GIMA",
+        "id": 1355,
+        "votos": 1251,
+        "candidato": "Correa Delgado Rafael",
+        "value": 65.566
+    },
+    {
+        "parroquia": "GUEL",
+        "id": 1490,
+        "votos": 535,
+        "candidato": "Correa Delgado Rafael",
+        "value": 73.0
+    },
+    {
+        "parroquia": "LUDO",
+        "id": 2215,
+        "votos": 852,
+        "candidato": "Correa Delgado Rafael",
+        "value": 51.79
+    },
+    {
+        "parroquia": "SAN BARTOLOME",
+        "id": 3360,
+        "votos": 1354,
+        "candidato": "Correa Delgado Rafael",
+        "value": 69.69
+    },
+    {
+        "parroquia": "SAN JOSE DE RARANGA",
+        "id": 3495,
+        "votos": 315,
+        "candidato": "Correa Delgado Rafael",
+        "value": 34.0
+    },
+    {
+        "parroquia": "SIGSIG",
+        "id": 6085,
+        "votos": 4811,
+        "candidato": "Correa Delgado Rafael",
+        "value": 64.0
+    }
+]

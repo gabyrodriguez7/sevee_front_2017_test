@@ -1,0 +1,108 @@
+[
+	{
+		"parroquia": "ALAQUEZ",
+		"id": 35,
+		"votos": 783,
+		"candidato": "Lasso Guillermo",
+		"value": 18.3
+	},
+	{
+		"parroquia": "BELISARIO QUEVEDO",
+		"id": 315,
+		"votos": 570,
+		"candidato": "Lasso Guillermo",
+		"value": 18.4
+	},
+	{
+		"parroquia": "GUAYTACAMA",
+		"id": 1485,
+		"votos": 1411,
+		"candidato": "Lasso Guillermo",
+		"value": 25.885159
+	},
+	{
+		"parroquia": "JOSEGUANGO BAJO",
+		"id": 1905,
+		"votos": 237,
+		"candidato": "Lasso Guillermo",
+		"value": 23.3
+	},
+	{
+		"parroquia": "MULALO",
+		"id": 2480,
+		"votos": 1302,
+		"candidato": "Lasso Guillermo",
+		"value": 24.0
+	},
+	{
+		"parroquia": "11 DE NOVIEMBRE",
+		"id": 2620,
+		"votos": 241,
+	"candidato": "Lasso Guillermo",
+	"value": 17.04
+	},
+	{
+	"parroquia": "POALO",
+	"id": 2920,
+	"votos": 703,
+	"candidato": "Lasso Guillermo",
+	"value": 21.0
+	},
+	{
+	"parroquia": "SAN JUAN DE PASTOCALLE",
+	"id": 3530,
+	"votos": 1422,
+	"candidato": "Lasso Guillermo",
+	"value": 23.0
+	},
+	{
+	"parroquia": "TANICUCHI",
+	"id": 3965,
+	"votos": 1727,
+	"candidato": "Lasso Guillermo",
+	"value": 22.26
+	},
+	{
+	"parroquia": "TOACAZO",
+	"id": 4035,
+	"votos": 1312,
+	"candidato": "Lasso Guillermo",
+	"value": 23.12
+	},
+	{
+	"parroquia": "ELOY ALFARO / SAN FELIPE",
+	"id": 5310,
+	"votos": 4126,
+	"candidato": "Lasso Guillermo",
+	"value": 21.91
+	},
+	{
+	"parroquia": "IGNACIO FLORES",
+	"id": 5465,
+	"votos": 2158,
+	"candidato": "Lasso Guillermo",
+	"value": 21.95
+	},
+	{
+	"parroquia": "JUAN MONTALVO",
+	"id": 5500,
+	"votos": 2007,
+	"candidato": "Lasso Guillermo",
+	"value": 19.81
+	},
+	{
+	"parroquia": "LA MATRIZ",
+	"id": 5555,
+	"votos": 5844,
+	"candidato": "Lasso Guillermo",
+	"value": 29.7
+	},
+	{
+	"parroquia": "SAN BUENAVENTURA",
+	"id": 5940,
+	"votos": 669,
+	"candidato": "Lasso Guillermo",
+	"value": 21.2
+	}
+	]
+		

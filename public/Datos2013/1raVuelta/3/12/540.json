@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "LA ESPERANZA",
+        "id": 4420,
+        "votos": 6,
+        "candidato": "Wray Norman",
+        "value": 0.3741
+    },
+    {
+        "parroquia": "SAN CARLOS",
+        "id": 4425,
+        "votos": 28,
+        "candidato": "Wray Norman",
+        "value": 0.4627
+    },
+    {
+        "parroquia": "QUEVEDO",
+        "id": 5855,
+        "votos": 288,
+        "candidato": "Wray Norman",
+        "value": 0.4464
+    },
+    {
+        "parroquia": "SAN CAMILO",
+        "id": 6115,
+        "votos": 230,
+        "candidato": "Wray Norman",
+        "value": 1.33674
+    },
+    {
+        "parroquia": "SAN CRISTOBAL",
+        "id": 6635,
+        "votos": 3,
+        "candidato": "Wray Norman",
+        "value": 0.3778
+    },
+    {
+        "parroquia": "VENUS DEL RIO QUEVEDO",
+        "id": 6640,
+        "votos": 18,
+        "candidato": "Wray Norman",
+        "value": 0.37152
+    },
+    {
+        "parroquia": "NICOLAS INFANTE DIAZ",
+        "id": 6645,
+        "votos": 5,
+        "candidato": "Wray Norman",
+        "value": 0.2395
+    },
+    {
+        "parroquia": "GUAYACAN",
+        "id": 6650,
+        "votos": 9,
+        "candidato": "Wray Norman",
+        "value": 0.32491
+    },
+    {
+        "parroquia": "SIETE DE OCTUBRE",
+        "id": 6655,
+        "votos": 14,
+        "candidato": "Wray Norman",
+        "value": 0.402
+    },
+    {
+        "parroquia": "VIVA ALFARO",
+        "id": 6660,
+        "votos": 7,
+        "candidato": "Wray Norman",
+        "value": 0.33349
+    },
+    {
+        "parroquia": "24 DE MAYO",
+        "id": 6690,
+        "votos": 7,
+        "candidato": "Wray Norman",
+        "value": 0.39818
+    }
+]

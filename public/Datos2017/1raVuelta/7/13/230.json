@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "NOVILLO",
+    "id": 1600,
+    "votos": 21,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.91
+  },
+  {
+    "parroquia": "ZAPALLO",
+    "id": 1620,
+    "votos": 65,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.68
+  },
+  {
+    "parroquia": "FLAVIO ALFARO",
+    "id": 5480,
+    "votos": 594,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 4.28
+  }
+]

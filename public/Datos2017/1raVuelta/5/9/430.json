@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "GRAL. VERNAZA",
+    "id": 1350,
+    "votos": 77,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.77
+  },
+  {
+    "parroquia": "JUNQUILLAL",
+    "id": 1595,
+    "votos": 78,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.62
+  },
+  {
+    "parroquia": "VICTORIA",
+    "id": 4220,
+    "votos": 53,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 2.11
+  },
+  {
+    "parroquia": "BOCANA",
+    "id": 5120,
+    "votos": 0,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0
+  },
+  {
+    "parroquia": "CANDILEJOS",
+    "id": 5155,
+    "votos": 13,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 2.25
+  },
+  {
+    "parroquia": "SALITRE",
+    "id": 5200,
+    "votos": 280,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.24
+  },
+  {
+    "parroquia": "PARAÍSO",
+    "id": 5765,
+    "votos": 1,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.82
+  },
+  {
+    "parroquia": "SAN MATEO",
+    "id": 5990,
+    "votos": 1,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.88
+  }
+]

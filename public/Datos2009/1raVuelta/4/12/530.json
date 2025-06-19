@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "PUEBLO VIEJO",
+        "id": 5800,
+        "votos": 3329,
+        "candidato": "Rafael Correa Delgado",
+        "value": 47.22
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3510,
+        "votos": 3598,
+        "candidato": "Rafael Correa Delgado",
+        "value": 52.88
+    },
+    {
+        "parroquia": "PUERTO PECHICHE",
+        "id": 3015,
+        "votos": 850,
+        "candidato": "Rafael Correa Delgado",
+        "value": 45.11
+    }
+]

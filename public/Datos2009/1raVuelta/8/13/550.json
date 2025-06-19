@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "TOSAGUA",
+    "id": 6170,
+    "votos": 6089,
+    "candidato": "Lucio Gutierrez",
+    "value": 37.86
+  },
+  {
+    "parroquia": "ANGEL PEDRO GILER",
+    "id": 2030,
+    "votos": 849,
+    "candidato": "Lucio Gutierrez",
+    "value": 41.03
+  },
+  {
+    "parroquia": "BACHILLERO",
+    "id": 265,
+    "votos": 640,
+    "candidato": "Lucio Gutierrez",
+    "value": 39.43
+  }
+]

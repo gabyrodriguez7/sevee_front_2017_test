@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "LLIGUA",
+        "id": 2270,
+        "votos": 0,
+        "candidato": "Zavala Nelson",
+        "value": 0.0
+    },
+    {
+        "parroquia": "RIO NEGRO",
+        "id": 3190,
+        "votos": 14,
+        "candidato": "Zavala Nelson",
+        "value": 1.89
+    },
+    {
+        "parroquia": "RIO VERDE",
+        "id": 3200,
+        "votos": 10,
+        "candidato": "Zavala Nelson",
+        "value": 1.0
+    },
+    {
+        "parroquia": "ULBA",
+        "id": 4135,
+        "votos": 13,
+        "candidato": "Zavala Nelson",
+        "value": 1.0
+    },
+    {
+        "parroquia": "BAÑOS",
+        "id": 5105,
+        "votos": 61,
+        "candidato": "Zavala Nelson",
+        "value": 0.5794
+    }
+]

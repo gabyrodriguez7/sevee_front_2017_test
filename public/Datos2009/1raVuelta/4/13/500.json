@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "4 DE DICIEMBRE",
+        "id": 6195,
+        "votos": 496,
+        "candidato": "Rafael Correa Delgado",
+        "value": 49.8
+    },
+    {
+        "parroquia": "EL CARMEN",
+        "id": 5300,
+        "votos": 20788,
+        "candidato": "Rafael Correa Delgado",
+        "value": 54.97
+    },
+    {
+        "parroquia": "SAN PEDRO DE SUMA",
+        "id": 1980,
+        "votos": 314,
+        "candidato": "Rafael Correa Delgado",
+        "value": 41.87
+    },
+    {
+        "parroquia": "WILFRIDO LOOR MOREIRA",
+        "id": 1070,
+        "votos": 334,
+        "candidato": "Rafael Correa Delgado",
+        "value": 61.17
+    }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "GUANUJO",
+    "id": 6630,
+    "votos": 5466,
+    "candidato": "Lucio Gutierrez",
+    "value": 51.5
+  },
+  {
+    "parroquia": "GABRIEL I VEINTIMILLA",
+    "id": 5375,
+    "votos": 4356,
+    "candidato": "Lucio Gutierrez",
+    "value": 42.55
+  },
+  {
+    "parroquia": "ANGEL POLIVIO CHAVEZ",
+    "id": 5035,
+    "votos": 2951,
+    "candidato": "Lucio Gutierrez",
+    "value": 39.48
+  },
+  {
+    "parroquia": "SIMIATUG",
+    "id": 3860,
+    "votos": 791,
+    "candidato": "Lucio Gutierrez",
+    "value": 23.98
+  },
+  {
+    "parroquia": "SANTA FE",
+    "id": 3710,
+    "votos": 643,
+    "candidato": "Lucio Gutierrez",
+    "value": 60.83
+  },
+  {
+    "parroquia": "SAN SIMON",
+    "id": 3670,
+    "votos": 739,
+    "candidato": "Lucio Gutierrez",
+    "value": 48.49
+  },
+  {
+    "parroquia": "SAN LORENZO",
+    "id": 3545,
+    "votos": 671,
+    "candidato": "Lucio Gutierrez",
+    "value": 63.42
+  },
+  {
+    "parroquia": "SALINAS",
+    "id": 3285,
+    "votos": 634,
+    "candidato": "Lucio Gutierrez",
+    "value": 39.94
+  },
+  {
+    "parroquia": "JULIO E MORENO",
+    "id": 1890,
+    "votos": 445,
+    "candidato": "Lucio Gutierrez",
+    "value": 62.5
+  },
+  {
+    "parroquia": "FACUNDO VELA",
+    "id": 1255,
+    "votos": 409,
+    "candidato": "Lucio Gutierrez",
+    "value": 54.46
+  },
+  {
+    "parroquia": "SAN LUIS DE PAMBIL",
+    "id": 795,
+    "votos": 1467,
+    "candidato": "Lucio Gutierrez",
+    "value": 68.07
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "LODANA",
+    "id": 6725,
+    "votos": 202,
+    "candidato": "Lucio Gutierrez",
+    "value": 39.22
+  },
+  {
+    "parroquia": "SANTA ANA",
+    "id": 6030,
+    "votos": 4707,
+    "candidato": "Lucio Gutierrez",
+    "value": 35.52
+  },
+  {
+    "parroquia": "LA UNION",
+    "id": 2135,
+    "votos": 527,
+    "candidato": "Lucio Gutierrez",
+    "value": 24.89
+  },
+  {
+    "parroquia": "HONORATO VASQUEZ",
+    "id": 1610,
+    "votos": 526,
+    "candidato": "Lucio Gutierrez",
+    "value": 22.43
+  },
+  {
+    "parroquia": "SAN PABLO",
+    "id": 1105,
+    "votos": 296,
+    "candidato": "Lucio Gutierrez",
+    "value": 23.78
+  },
+  {
+    "parroquia": "AYACUCHO",
+    "id": 220,
+    "votos": 964,
+    "candidato": "Lucio Gutierrez",
+    "value": 27.4
+  }
+]

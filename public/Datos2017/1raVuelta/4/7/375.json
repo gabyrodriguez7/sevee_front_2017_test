@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "CHACRAS",
+    "id": 805,
+    "votos": 54,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.4
+  },
+  {
+    "parroquia": "CARCABÓN",
+    "id": 1695,
+    "votos": 27,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.55
+  },
+  {
+    "parroquia": "PALMALES",
+    "id": 2715,
+    "votos": 168,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.3
+  },
+  {
+    "parroquia": "ARENILLAS",
+    "id": 5040,
+    "votos": 1698,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.43
+  }
+]

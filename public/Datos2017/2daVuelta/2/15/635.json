@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "COSANGA",
+    "id": 670,
+    "votos": 194,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 52.29
+  },
+  {
+    "parroquia": "CUYUJA",
+    "id": 765,
+    "votos": 203,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 55.31
+  },
+  {
+    "parroquia": "PAPALLACTA",
+    "id": 2770,
+    "votos": 278,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 58.77
+  },
+  {
+    "parroquia": "SAN FRANCISCO DE BORJA",
+    "id": 3395,
+    "votos": 645,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 44.42
+  },
+  {
+    "parroquia": "SUMACO",
+    "id": 3890,
+    "votos": 77,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 48.13
+  },
+  {
+    "parroquia": "BAEZA",
+    "id": 5090,
+    "votos": 685,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 43.49
+  }
+]

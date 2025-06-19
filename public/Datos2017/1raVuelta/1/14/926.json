@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "HUASAGA /WAMPUIK",
+    "id": 595,
+    "votos": 242,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 32.44
+  },
+  {
+    "parroquia": "TUTINENTZA",
+    "id": 1205,
+    "votos": 1489,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 78
+  },
+  {
+    "parroquia": "MACUMA",
+    "id": 2285,
+    "votos": 1473,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 77.65
+  },
+  {
+    "parroquia": "PUMPUENTSA",
+    "id": 4575,
+    "votos": 643,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 72.41
+  },
+  {
+    "parroquia": "TAISHA",
+    "id": 6700,
+    "votos": 1832,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 70.25
+  }
+]

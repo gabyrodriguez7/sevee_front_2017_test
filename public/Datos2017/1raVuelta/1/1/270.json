@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "ASUNCIÓN",
+    "id": 175,
+    "votos": 689,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 44.48
+  },
+  {
+    "parroquia": "SAN GERARDO",
+    "id": 885,
+    "votos": 129,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 40.57
+  },
+  {
+    "parroquia": "GIRÓN",
+    "id": 5395,
+    "votos": 3194,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 52.21
+  }
+]

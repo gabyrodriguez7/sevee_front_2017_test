@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "TARIFA",
+    "id": 3975,
+    "votos": 92,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.82
+  },
+  {
+    "parroquia": "SAMBORONDÓN",
+    "id": 5925,
+    "votos": 476,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.1
+  },
+  {
+    "parroquia": "LA PUNTILLA(SATELITE)",
+    "id": 7445,
+    "votos": 61,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.34
+  }
+]

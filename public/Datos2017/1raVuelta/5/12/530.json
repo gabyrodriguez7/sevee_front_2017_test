@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "PUERTO PECHICHE",
+    "id": 3015,
+    "votos": 212,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 7.93
+  },
+  {
+    "parroquia": "SAN JUAN",
+    "id": 3510,
+    "votos": 138,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.33
+  },
+  {
+    "parroquia": "PUEBLO VIEJO",
+    "id": 5800,
+    "votos": 128,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.45
+  }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "LA RAMA",
+        "id": 2085,
+        "votos": 19,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.7
+    },
+    {
+        "parroquia": "LA VICTORIA",
+        "id": 2145,
+        "votos": 14,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.2
+    },
+    {
+        "parroquia": "SABIANGO",
+        "id": 3265,
+        "votos": 6,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.2
+    },
+    {
+        "parroquia": "GRAL.ELOY ALFARO",
+        "id": 5385,
+        "votos": 21,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.3891
+    },
+    {
+        "parroquia": "MACARA",
+        "id": 5680,
+        "votos": 226,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.759
+    }
+]

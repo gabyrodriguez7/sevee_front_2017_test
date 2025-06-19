@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "ALOAG",
+        "id": 55,
+        "votos": 136,
+        "candidato": "Acosta Alberto",
+        "value": 2.549
+    },
+    {
+        "parroquia": "ALOASI",
+        "id": 60,
+        "votos": 74,
+        "candidato": "Acosta Alberto",
+        "value": 2.152
+    },
+    {
+        "parroquia": "CORNEJO ASTORGA /TANDAPI",
+        "id": 650,
+        "votos": 41,
+        "candidato": "Acosta Alberto",
+        "value": 2.654
+    },
+    {
+        "parroquia": "CUTUGLAGUA",
+        "id": 755,
+        "votos": 156,
+        "candidato": "Acosta Alberto",
+        "value": 2.005399
+    },
+    {
+        "parroquia": "CHAUPI",
+        "id": 850,
+        "votos": 19,
+        "candidato": "Acosta Alberto",
+        "value": 2.4611
+    },
+    {
+        "parroquia": "TAMBILLO",
+        "id": 3960,
+        "votos": 197,
+        "candidato": "Acosta Alberto",
+        "value": 3.4
+    },
+    {
+        "parroquia": "UYUMBICHO",
+        "id": 4155,
+        "votos": 118,
+        "candidato": "Acosta Alberto",
+        "value": 5.0
+    },
+    {
+        "parroquia": "MACHACHI",
+        "id": 5620,
+        "votos": 507,
+        "candidato": "Acosta Alberto",
+        "value": 2.0
+    }
+]

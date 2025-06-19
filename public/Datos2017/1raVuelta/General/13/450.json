@@ -1,0 +1,79 @@
+[
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 1800,
+        "votos": 1617,
+        "votos1": 1327,
+        "votos2": 143,
+        "fill": "#1eff00",
+        "porcentaje1": "82,07",
+        "porcentaje2": "8,84"
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 3550,
+        "votos": 1924,
+        "votos1": 1460,
+        "votos2": 208,
+        "fill": "#1eff00",
+        "porcentaje1": "75,88",
+        "porcentaje2": "10,81"
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 5570,
+        "votos": 19805,
+        "votos1": 12490,
+        "votos2": 2286,
+        "fill": "#1eff00",
+        "porcentaje1": 63.06,
+        "porcentaje2": 11.54
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 5635,
+        "votos": 53810,
+        "votos1": 29237,
+        "votos2": 10806,
+        "fill": "#1eff00",
+        "porcentaje1": 54.33,
+        "porcentaje2": 20.08
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 6135,
+        "votos": 2322,
+        "votos1": 1789,
+        "votos2": 170,
+        "fill": "#1eff00",
+        "porcentaje1": 77.05,
+        "porcentaje2": 7.32
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 6155,
+        "votos": 52649,
+        "votos1": 32971,
+        "votos2": 7133,
+        "fill": "#1eff00",
+        "porcentaje1": 62.62,
+        "porcentaje2": 13.55
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 6745,
+        "votos": 20568,
+        "votos1": 14315,
+        "votos2": 1914,
+        "fill": "#1eff00",
+        "porcentaje1": 69.6,
+        "porcentaje2": 9.31
+    }
+]

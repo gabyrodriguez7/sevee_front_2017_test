@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "IMBAYA",
+        "id": 1715,
+        "votos": 492,
+        "candidato": "Correa Delgado Rafael",
+        "value": 63.3
+    },
+    {
+        "parroquia": "SAN FCO.DE NATABUELA",
+        "id": 3400,
+        "votos": 1821,
+        "candidato": "Correa Delgado Rafael",
+        "value": 56.977
+    },
+    {
+        "parroquia": "SAN JOSE DE CHALTURA",
+        "id": 3465,
+        "votos": 1207,
+        "candidato": "Correa Delgado Rafael",
+        "value": 60.93
+    },
+    {
+        "parroquia": "SAN ROQUE",
+        "id": 3640,
+        "votos": 3450,
+        "candidato": "Correa Delgado Rafael",
+        "value": 59.0
+    },
+    {
+        "parroquia": "ANDRADE MARIN/LOURDES",
+        "id": 5025,
+        "votos": 1788,
+        "candidato": "Correa Delgado Rafael",
+        "value": 62.5
+    },
+    {
+        "parroquia": "ATUNTAQUI",
+        "id": 5050,
+        "votos": 6825,
+        "candidato": "Correa Delgado Rafael",
+        "value": 56.2
+    }
+]

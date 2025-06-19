@@ -1,0 +1,86 @@
+[
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 325,
+        "votos": 12,
+        "candidato": "Wray Norman",
+        "value": 0.8
+    },
+    {
+        "parroquia": "BELLAMARIA",
+        "id": 1665,
+        "votos": 6,
+        "candidato": "Wray Norman",
+        "value": 0.8
+    },
+    {
+        "parroquia": "JAMBELI",
+        "id": 1815,
+        "votos": 2,
+        "candidato": "Wray Norman",
+        "value": 0.630914826
+    },
+    {
+        "parroquia": "LA AVANZADA",
+        "id": 2005,
+        "votos": 11,
+        "candidato": "Wray Norman",
+        "value": 0.836
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3330,
+        "votos": 0,
+        "candidato": "Wray Norman",
+        "value": 0.0
+    },
+    {
+        "parroquia": "VICTORIA",
+        "id": 4215,
+        "votos": 3,
+        "candidato": "Wray Norman",
+        "value": 0.277
+    },
+    {
+        "parroquia": "TORATA",
+        "id": 4525,
+        "votos": 3,
+        "candidato": "Wray Norman",
+        "value": 0.3
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 6060,
+        "votos": 220,
+        "candidato": "Wray Norman",
+        "value": 0.649
+    },
+    {
+        "parroquia": "PUERTO JELI",
+        "id": 6670,
+        "votos": 4,
+        "candidato": "Wray Norman",
+        "value": 1.15606936
+    },
+    {
+        "parroquia": "BALNEARIO JAMBELI",
+        "id": 6900,
+        "votos": 0,
+        "candidato": "Wray Norman",
+        "value": 0.0
+    },
+    {
+        "parroquia": "JUMON",
+        "id": 6985,
+        "votos": 2,
+        "candidato": "Wray Norman",
+        "value": 0.54
+    },
+    {
+        "parroquia": "NUEVO SANTA ROSA",
+        "id": 6990,
+        "votos": 4,
+        "candidato": "Wray Norman",
+        "value": 0.73
+    }
+]

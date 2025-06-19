@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "SANTA ISABEL",
+        "id": 6045,
+        "votos": 129,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.97
+    },
+    {
+        "parroquia": "SHAGLLI",
+        "id": 3835,
+        "votos": 16,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.92
+    },
+    {
+        "parroquia": "EL CARMEN DE PIJILI",
+        "id": 1130,
+        "votos": 0,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.0
+    },
+    {
+        "parroquia": "ABDON CALDERON / LA UNION",
+        "id": 15,
+        "votos": 12,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.94
+    }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "LA IBERIA",
+    "id": 245,
+    "votos": 1223,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 65.12
+  },
+  {
+    "parroquia": "BARBONES",
+    "id": 300,
+    "votos": 3218,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 81.63
+  },
+  {
+    "parroquia": "RÍO BONITO",
+    "id": 2050,
+    "votos": 1665,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 76.31
+  },
+  {
+    "parroquia": "TENDALES",
+    "id": 4000,
+    "votos": 1559,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 77.14
+  },
+  {
+    "parroquia": "EL GUABO",
+    "id": 5340,
+    "votos": 15358,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 65.92
+  }
+]

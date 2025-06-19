@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "SANTA RITA",
+        "id": 6055,
+        "votos": 803,
+        "candidato": "Alvaro Noboa",
+        "value": 11.95
+    },
+    {
+        "parroquia": "CHONE",
+        "id": 5250,
+        "votos": 3708,
+        "candidato": "Alvaro Noboa",
+        "value": 10.68
+    },
+    {
+        "parroquia": "SAN ANTONIO / DEL PELUDO",
+        "id": 3350,
+        "votos": 294,
+        "candidato": "Alvaro Noboa",
+        "value": 8.47
+    },
+    {
+        "parroquia": "RICAURTE",
+        "id": 3170,
+        "votos": 308,
+        "candidato": "Alvaro Noboa",
+        "value": 14.8
+    },
+    {
+        "parroquia": "ELOY ALFARO",
+        "id": 1160,
+        "votos": 189,
+        "candidato": "Alvaro Noboa",
+        "value": 11.07
+    },
+    {
+        "parroquia": "CONVENTO",
+        "id": 640,
+        "votos": 137,
+        "candidato": "Alvaro Noboa",
+        "value": 5.59
+    },
+    {
+        "parroquia": "CANUTO",
+        "id": 495,
+        "votos": 387,
+        "candidato": "Alvaro Noboa",
+        "value": 7.67
+    },
+    {
+        "parroquia": "CHIBUNGA",
+        "id": 405,
+        "votos": 101,
+        "candidato": "Alvaro Noboa",
+        "value": 8.49
+    },
+    {
+        "parroquia": "BOYACA",
+        "id": 380,
+        "votos": 279,
+        "candidato": "Alvaro Noboa",
+        "value": 15.67
+    }
+]

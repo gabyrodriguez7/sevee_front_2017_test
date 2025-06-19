@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "PIARTAL",
+    "id": 250,
+    "votos": 2,
+    "candidato": "Zavala Nelson",
+    "value": 0.2817
+  },
+  {
+    "parroquia": "CRISTOBAL COLON",
+    "id": 690,
+    "votos": 28,
+    "candidato": "Zavala Nelson",
+    "value": 1.4
+  },
+  {
+    "parroquia": "CHITAN DE NAVARRETES",
+    "id": 910,
+    "votos": 3,
+    "candidato": "Zavala Nelson",
+    "value": 1.0
+  },
+  {
+    "parroquia": "FERNANDEZ SALVADOR",
+    "id": 1270,
+    "votos": 3,
+    "candidato": "Zavala Nelson",
+    "value": 0.5
+  },
+  {
+    "parroquia": "LA PAZ",
+    "id": 2065,
+    "votos": 3,
+    "candidato": "Zavala Nelson",
+    "value": 0.15
+  },
+  {
+    "parroquia": "GONZALEZ SUAREZ",
+    "id": 5405,
+    "votos": 42,
+    "candidato": "Zavala Nelson",
+    "value": 0.6
+  },
+  {
+    "parroquia": "SAN JOSE",
+    "id": 5970,
+    "votos": 29,
+    "candidato": "Zavala Nelson",
+    "value": 0.42
+  }
+]

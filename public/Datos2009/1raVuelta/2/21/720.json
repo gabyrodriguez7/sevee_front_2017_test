@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "SHUSHUFINDI CENTRAL",
+        "id": 6140,
+        "votos": 33,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.28
+    },
+    {
+        "parroquia": "SAN ROQUE",
+        "id": 3645,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.31
+    },
+    {
+        "parroquia": "PANACOCHA",
+        "id": 2765,
+        "votos": 0,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.0
+    },
+    {
+        "parroquia": "LIMONCOCHA",
+        "id": 2175,
+        "votos": 0,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.0
+    },
+    {
+        "parroquia": "SIETE DE JULIO",
+        "id": 780,
+        "votos": 5,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.42
+    },
+    {
+        "parroquia": "SAN PEDRO DE LOS COFANES",
+        "id": 600,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.23
+    }
+]

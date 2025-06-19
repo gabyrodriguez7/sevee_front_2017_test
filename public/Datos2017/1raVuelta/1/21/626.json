@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "CUYABENO",
+    "id": 760,
+    "votos": 93,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 29.43
+  },
+  {
+    "parroquia": "AGUAS NEGRAS",
+    "id": 1555,
+    "votos": 209,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 27.79
+  },
+  {
+    "parroquia": "TARAPOA",
+    "id": 6765,
+    "votos": 937,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 26.48
+  }
+]

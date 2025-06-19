@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "PICHINCHA /GERMUD",
+        "id": 6550,
+        "votos": 473,
+        "candidato": "Alvaro Noboa",
+        "value": 3.73
+    },
+    {
+        "parroquia": "BARRAGANETE",
+        "id": 1065,
+        "votos": 27,
+        "candidato": "Alvaro Noboa",
+        "value": 3.68
+    },
+    {
+        "parroquia": "SAN SEBASTIAN",
+        "id": 1060,
+        "votos": 99,
+        "candidato": "Alvaro Noboa",
+        "value": 4.65
+    }
+]

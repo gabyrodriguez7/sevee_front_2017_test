@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "GONZALO DIAZ DE PINEDA",
+        "id": 1020,
+        "votos": 5,
+        "candidato": "Acosta Alberto",
+        "value": 1.6
+    },
+    {
+        "parroquia": "LINARES",
+        "id": 2180,
+        "votos": 5,
+        "candidato": "Acosta Alberto",
+        "value": 3.0
+    },
+    {
+        "parroquia": "OYACACHI",
+        "id": 2640,
+        "votos": 5,
+        "candidato": "Acosta Alberto",
+        "value": 1.3888889
+    },
+    {
+        "parroquia": "SANTA ROSA DE QUIJOS",
+        "id": 3745,
+        "votos": 18,
+        "candidato": "Acosta Alberto",
+        "value": 2.4623803
+    },
+    {
+        "parroquia": "SARDINAS",
+        "id": 3790,
+        "votos": 26,
+        "candidato": "Acosta Alberto",
+        "value": 9.03
+    },
+    {
+        "parroquia": "EL CHACO",
+        "id": 5510,
+        "votos": 62,
+        "candidato": "Acosta Alberto",
+        "value": 1.99
+    }
+]

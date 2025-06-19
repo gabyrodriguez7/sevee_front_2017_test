@@ -1,0 +1,86 @@
+[
+  {
+    "parroquia": "AMBUQUÍ/CHOTA",
+    "id": 100,
+    "votos": 618,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 17.74
+  },
+  {
+    "parroquia": "ANGOCHAGUA",
+    "id": 130,
+    "votos": 701,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 27.84
+  },
+  {
+    "parroquia": "CAROLINA /GUALLUPI",
+    "id": 530,
+    "votos": 344,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 21.42
+  },
+  {
+    "parroquia": "LA ESPERANZA",
+    "id": 2020,
+    "votos": 1158,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 23.05
+  },
+  {
+    "parroquia": "LITA",
+    "id": 2185,
+    "votos": 508,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 28.7
+  },
+  {
+    "parroquia": "SALINAS",
+    "id": 3290,
+    "votos": 160,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 12.91
+  },
+  {
+    "parroquia": "SAN ANTONIO",
+    "id": 3315,
+    "votos": 2687,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 23.42
+  },
+  {
+    "parroquia": "CARANQUI",
+    "id": 5165,
+    "votos": 2765,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 26.71
+  },
+  {
+    "parroquia": "GUAYAQUIL DE ALPACHACA",
+    "id": 5440,
+    "votos": 1356,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 20.65
+  },
+  {
+    "parroquia": "SAGRARIO",
+    "id": 5915,
+    "votos": 11174,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 28.01
+  },
+  {
+    "parroquia": "SAN FRANCISCO",
+    "id": 5960,
+    "votos": 12339,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 31.46
+  },
+  {
+    "parroquia": "LA DOLOROSA DEL PRIORATO",
+    "id": 6780,
+    "votos": 421,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 22.16
+  }
+]

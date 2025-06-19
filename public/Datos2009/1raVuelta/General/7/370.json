@@ -1,0 +1,99 @@
+[{
+    "candidato1": "RAFAEL CORREA DELGADO",
+    "candidato2": "LUCIO GUTIERREZ",
+    "id": 505,
+    "votos": 563,
+    "votos1": 501,
+    "votos2": 34,
+    "fill": "#02C01C",
+    "porcentaje1": 88.99,
+    "porcentaje2": 6.04
+},
+{
+    "candidato1": "RAFAEL CORREA DELGADO",
+    "candidato2": "LUCIO GUTIERREZ",
+    "id": 1385,
+    "votos": 504,
+    "votos1": 363,
+    "votos2": 91,
+    "fill": "#02C01C",
+    "porcentaje1": 72.02,
+    "porcentaje2": 18.06
+},
+{
+    "candidato1": "RAFAEL CORREA DELGADO",
+    "candidato2": "LUCIO GUTIERREZ",
+    "id": 2230,
+    "votos": 560,
+    "votos1": 451,
+    "votos2": 55,
+    "fill": "#02C01C",
+    "porcentaje1": 80.54,
+    "porcentaje2": 9.82
+},
+{
+    "candidato1": "RAFAEL CORREA DELGADO",
+    "candidato2": "LUCIO GUTIERREZ",
+    "id": 2465,
+    "votos": 743,
+    "votos1": 608,
+    "votos2": 71,
+    "fill": "#02C01C",
+    "porcentaje1": 81.83,
+    "porcentaje2": 956.0
+},
+{
+    "candidato1": "RAFAEL CORREA DELGADO",
+    "candidato2": "LUCIO GUTIERREZ",
+    "id": 2850,
+    "votos": 357,
+    "votos1": 276,
+    "votos2": 55,
+    "fill": "#02C01C",
+    "porcentaje1": 77.31,
+    "porcentaje2": 15.41
+},
+{
+    "candidato1": "RAFAEL CORREA DELGADO",
+    "candidato2": "LUCIO GUTIERREZ",
+    "id": 3650,
+    "votos": 347,
+    "votos1": 302,
+    "votos2": 14,
+    "fill": "#02C01C",
+    "porcentaje1": 87.03,
+    "porcentaje2": 4.03
+},
+{
+    "candidato1": "RAFAEL CORREA DELGADO",
+    "candidato2": "LUCIO GUTIERREZ",
+    "id": 5790,
+    "votos": 9583,
+    "votos1": 7155,
+    "votos2": 1016,
+    "fill": "#02C01C",
+    "porcentaje1": 74.66,
+    "porcentaje2": 10.6
+},
+{
+    "candidato1": "RAFAEL CORREA DELGADO",
+    "candidato2": "LUCIO GUTIERREZ",
+    "id": 6675,
+    "votos": 17,
+    "votos1": 14,
+    "votos2": 2,
+    "fill": "#02C01C",
+    "porcentaje1": 82.35,
+    "porcentaje2": 11.76
+},
+{
+    "candidato1": "RAFAEL CORREA DELGADO",
+    "candidato2": "LUCIO GUTIERREZ",
+    "id": 6680,
+    "votos": 67,
+    "votos1": 50,
+    "votos2": 7,
+    "fill": "#02C01C",
+    "porcentaje1": 74.63,
+    "porcentaje2": 10.45
+}]

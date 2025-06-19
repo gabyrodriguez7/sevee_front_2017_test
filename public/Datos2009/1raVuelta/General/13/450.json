@@ -1,0 +1,79 @@
+[
+    {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "ALVARO NOBOA",
+        "id": 1800,
+        "votos": 1028,
+        "votos1": 814,
+        "votos2": 123,
+        "fill": "#02C01C",
+        "porcentaje1": 79.18,
+        "porcentaje2": 11.96
+    },
+    {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "ALVARO NOBOA",
+        "id": 3550,
+        "votos": 1115,
+        "votos1": 597,
+        "votos2": 379,
+        "fill": "#02C01C",
+        "porcentaje1": 53.54,
+        "porcentaje2": 33.99
+    },
+    {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "ALVARO NOBOA",
+        "id": 5570,
+        "votos": 6587,
+        "votos1": 3782,
+        "votos2": 1428,
+        "fill": "#02C01C",
+        "porcentaje1": 57.42,
+        "porcentaje2": 21.68
+    },
+    {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "ALVARO NOBOA",
+        "id": 5635,
+        "votos": 47377,
+        "votos1": 24790,
+        "votos2": 9589,
+        "fill": "#02C01C",
+        "porcentaje1": 52.32,
+        "porcentaje2": 20.24
+    },
+    {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "ALVARO NOBOA",
+        "id": 6135,
+        "votos": 1464,
+        "votos1": 1079,
+        "votos2": 268,
+        "fill": "#02C01C",
+        "porcentaje1": 73.7,
+        "porcentaje2": 18.31
+    },
+    {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "ALVARO NOBOA",
+        "id": 6155,
+        "votos": 45108,
+        "votos1": 26294,
+        "votos2": 7902,
+        "fill": "#02C01C",
+        "porcentaje1": 58.29,
+        "porcentaje2": 17.52
+    },
+    {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "ALVARO NOBOA",
+        "id": 6745,
+        "votos": 8288,
+        "votos1": 5093,
+        "votos2": 1479,
+        "fill": "#02C01C",
+        "porcentaje1": 61.45,
+        "porcentaje2": 17.85
+    }
+]

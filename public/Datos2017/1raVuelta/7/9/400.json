@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "LIMONAL",
+    "id": 260,
+    "votos": 97,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 5.55
+  },
+  {
+    "parroquia": "JUAN BAUTISTA AGUIRRE",
+    "id": 1855,
+    "votos": 143,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 5.36
+  },
+  {
+    "parroquia": "LAS LOJAS",
+    "id": 2105,
+    "votos": 207,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 6.94
+  },
+  {
+    "parroquia": "EL LAUREL",
+    "id": 4500,
+    "votos": 277,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 6.6
+  },
+  {
+    "parroquia": "DAULE",
+    "id": 5275,
+    "votos": 4043,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 7.17
+  },
+  {
+    "parroquia": "LA AURORA",
+    "id": 6850,
+    "votos": 629,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 4.86
+  },
+  {
+    "parroquia": "MAGRO",
+    "id": 7425,
+    "votos": 14,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 5.81
+  }
+]

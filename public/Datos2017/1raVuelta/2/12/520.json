@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "GUARE",
+    "id": 1460,
+    "votos": 101,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.6
+  },
+  {
+    "parroquia": "ISLA DE BEJUCAL",
+    "id": 1740,
+    "votos": 80,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.81
+  },
+  {
+    "parroquia": "BABA",
+    "id": 5085,
+    "votos": 173,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.18
+  }
+]

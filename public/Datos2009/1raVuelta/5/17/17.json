@@ -1,0 +1,50 @@
+[
+                {
+                    "id": 60,
+                    "candidato": "Melba Jacome",
+                    "votos": 9695,
+                    "value": 0.85
+                },
+                {
+                    "id": 65,
+                    "candidato": "Melba Jacome",
+                    "votos": 302,
+                    "value": 0.77
+                },
+                {
+                    "id": 70,
+                    "candidato": "Melba Jacome",
+                    "votos": 257,
+                    "value": 0.68
+                },
+                {
+                    "id": 75,
+                    "candidato": "Melba Jacome",
+                    "votos": 71,
+                    "value": 0.52
+                },
+                {
+                    "id": 80,
+                    "candidato": "Melba Jacome",
+                    "votos": 363,
+                    "value": 0.74
+                },
+                {
+                    "id": 770,
+                    "candidato": "Melba Jacome",
+                    "votos": 60,
+                    "value": 1.06
+                },
+                {
+                    "id": 895,
+                    "candidato": "Melba Jacome",
+                    "votos": 31,
+                    "value": 0.53
+                },
+                {
+                    "id": 896,
+                    "candidato": "Melba Jacome",
+                    "votos": 30,
+                    "value": 0.43
+                }
+            ]

@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "SICALPA",
+        "id": 6080,
+        "votos": 127,
+        "candidato": "Melba Jacome",
+        "value": 2.58
+    },
+    {
+        "parroquia": "CAJABAMBA",
+        "id": 5145,
+        "votos": 126,
+        "candidato": "Melba Jacome",
+        "value": 2.13
+    },
+    {
+        "parroquia": "SANTIAGO DE QUITO",
+        "id": 4430,
+        "votos": 27,
+        "candidato": "Melba Jacome",
+        "value": 3.17
+    },
+    {
+        "parroquia": "JUAN DE VELASCO / PONGOR",
+        "id": 1865,
+        "votos": 20,
+        "candidato": "Melba Jacome",
+        "value": 1.78
+    },
+    {
+        "parroquia": "COLUMBE",
+        "id": 610,
+        "votos": 201,
+        "candidato": "Melba Jacome",
+        "value": 2.38
+    },
+    {
+        "parroquia": "CANI",
+        "id": 500,
+        "votos": 8,
+        "candidato": "Melba Jacome",
+        "value": 2.26
+    }
+]

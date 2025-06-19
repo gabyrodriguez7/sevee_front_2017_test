@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "BENITEZ /PACHANLICA",
+        "id": 335,
+        "votos": 37,
+        "candidato": "Wray Norman",
+        "value": 2.5
+    },
+    {
+        "parroquia": "BOLIVAR",
+        "id": 365,
+        "votos": 38,
+        "candidato": "Wray Norman",
+        "value": 2.33
+    },
+    {
+        "parroquia": "COTALO",
+        "id": 675,
+        "votos": 12,
+        "candidato": "Wray Norman",
+        "value": 0.9
+    },
+    {
+        "parroquia": "CHIQUICHA",
+        "id": 900,
+        "votos": 25,
+        "candidato": "Wray Norman",
+        "value": 2.0
+    },
+    {
+        "parroquia": "EL ROSARIO /RUMICHACA",
+        "id": 1185,
+        "votos": 33,
+        "candidato": "Wray Norman",
+        "value": 2.19
+    },
+    {
+        "parroquia": "GARCIA MORENO",
+        "id": 1320,
+        "votos": 22,
+        "candidato": "Wray Norman",
+        "value": 1.0377
+    },
+    {
+        "parroquia": "HUAMBALO",
+        "id": 1630,
+        "votos": 98,
+        "candidato": "Wray Norman",
+        "value": 2.03
+    },
+    {
+        "parroquia": "SALASACA",
+        "id": 3905,
+        "votos": 72,
+        "candidato": "Wray Norman",
+        "value": 2.472
+    },
+    {
+        "parroquia": "PELILEO",
+        "id": 5780,
+        "votos": 279,
+        "candidato": "Wray Norman",
+        "value": 1.7
+    },
+    {
+        "parroquia": "PELILEO GRANDE /R. MINO",
+        "id": 5900,
+        "votos": 9,
+        "candidato": "Wray Norman",
+        "value": 1.4
+    }
+]

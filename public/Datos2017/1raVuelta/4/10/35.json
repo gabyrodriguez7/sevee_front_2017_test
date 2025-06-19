@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "DR MIGUEL EGAS/PEGUCHE",
+    "id": 1040,
+    "votos": 261,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.96
+  },
+  {
+    "parroquia": "EUGENIO ESPEJO",
+    "id": 1215,
+    "votos": 312,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.35
+  },
+  {
+    "parroquia": "GONZALEZ SÚAREZ",
+    "id": 1360,
+    "votos": 379,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.75
+  },
+  {
+    "parroquia": "PATAQUI",
+    "id": 2785,
+    "votos": 21,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.37
+  },
+  {
+    "parroquia": "SAN JOSÉ DE QUICHINCHE",
+    "id": 3490,
+    "votos": 523,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.06
+  },
+  {
+    "parroquia": "SAN JUAN DE ILUMÁN",
+    "id": 3525,
+    "votos": 576,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.11
+  },
+  {
+    "parroquia": "SAN PABLO",
+    "id": 3590,
+    "votos": 909,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.97
+  },
+  {
+    "parroquia": "SAN RAFAEL",
+    "id": 3630,
+    "votos": 267,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.75
+  },
+  {
+    "parroquia": "SELVA ALEGRE",
+    "id": 3810,
+    "votos": 122,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.88
+  },
+  {
+    "parroquia": "JORDÁN",
+    "id": 5490,
+    "votos": 3366,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 15.66
+  },
+  {
+    "parroquia": "SAN LUIS",
+    "id": 5980,
+    "votos": 2082,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 15.01
+  }
+]

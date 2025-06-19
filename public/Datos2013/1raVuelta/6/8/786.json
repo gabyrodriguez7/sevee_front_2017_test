@@ -1,0 +1,31 @@
+[
+                {
+                    "parroquia": "MONTERREY",
+                    "id": 4370,
+                    "votos": 350,
+                    "candidato": "Lasso Guillermo",
+                    "value": 21.0
+                },
+                {
+                    "parroquia": "LA VILLEGAS",
+                    "id": 4375,
+                    "votos": 257,
+                    "candidato": "Lasso Guillermo",
+                    "value": 19.8
+                },
+                {
+                    "parroquia": "PLAN PILOTO",
+                    "id": 4380,
+                    "votos": 20,
+                    "candidato": "Lasso Guillermo",
+                    "value": 7.02
+                },
+                {
+                    "parroquia": "LA CONCORDIA",
+                    "id": 6920,
+                    "votos": 4796,
+                    "candidato": "Lasso Guillermo",
+                    "value": 22.76
+                }
+            ]
+            

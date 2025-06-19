@@ -1,0 +1,93 @@
+[
+  {
+    "parroquia": "SAN LORENZO",
+    "id": 6130,
+    "votos": 1030,
+    "candidato": "Lucio Gutierrez",
+    "value": 14.31
+  },
+  {
+    "parroquia": "URBINA",
+    "id": 4125,
+    "votos": 46,
+    "candidato": "Lucio Gutierrez",
+    "value": 13.93
+  },
+  {
+    "parroquia": "TULULBI /RICAURTE",
+    "id": 4075,
+    "votos": 105,
+    "candidato": "Lucio Gutierrez",
+    "value": 21.87
+  },
+  {
+    "parroquia": "TAMBILLO",
+    "id": 3955,
+    "votos": 38,
+    "candidato": "Lucio Gutierrez",
+    "value": 9.59
+  },
+  {
+    "parroquia": "SANTA RITA",
+    "id": 3725,
+    "votos": 51,
+    "candidato": "Lucio Gutierrez",
+    "value": 11.8
+  },
+  {
+    "parroquia": "SAN JAVIER DE CACHABI",
+    "id": 3455,
+    "votos": 16,
+    "candidato": "Lucio Gutierrez",
+    "value": 8.74
+  },
+  {
+    "parroquia": "MATAJE",
+    "id": 2395,
+    "votos": 38,
+    "candidato": "Lucio Gutierrez",
+    "value": 21.11
+  },
+  {
+    "parroquia": "CONCEPCION",
+    "id": 620,
+    "votos": 131,
+    "candidato": "Lucio Gutierrez",
+    "value": 32.99
+  },
+  {
+    "parroquia": "5 DE JUNIO/HUIMBI",
+    "id": 570,
+    "votos": 26,
+    "candidato": "Lucio Gutierrez",
+    "value": 24.52
+  },
+  {
+    "parroquia": "CARONDELET",
+    "id": 535,
+    "votos": 93,
+    "candidato": "Lucio Gutierrez",
+    "value": 27.84
+  },
+  {
+    "parroquia": "CALDERON",
+    "id": 435,
+    "votos": 58,
+    "candidato": "Lucio Gutierrez",
+    "value": 19.2
+  },
+  {
+    "parroquia": "ANCON/PALMA REAL",
+    "id": 110,
+    "votos": 32,
+    "candidato": "Lucio Gutierrez",
+    "value": 7.9
+  },
+  {
+    "parroquia": "ALTO TAMBO/GUADAL",
+    "id": 70,
+    "votos": 46,
+    "candidato": "Lucio Gutierrez",
+    "value": 11.03
+  }
+]

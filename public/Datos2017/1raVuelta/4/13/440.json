@@ -1,0 +1,114 @@
+[
+  {
+    "parroquia": "ABDÓN CALDERÓN",
+    "id": 10,
+    "votos": 534,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.71
+  },
+  {
+    "parroquia": "ALHAJUELA /BAJO GRANDE",
+    "id": 50,
+    "votos": 245,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.31
+  },
+  {
+    "parroquia": "CRUCITA",
+    "id": 770,
+    "votos": 407,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.4
+  },
+  {
+    "parroquia": "CHIRIJOS",
+    "id": 1925,
+    "votos": 56,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 4.27
+  },
+  {
+    "parroquia": "PUEBLO NUEVO",
+    "id": 2970,
+    "votos": 106,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 4.4
+  },
+  {
+    "parroquia": "RÍO CHICO",
+    "id": 3185,
+    "votos": 410,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.21
+  },
+  {
+    "parroquia": "SAN PLÁCIDO",
+    "id": 3625,
+    "votos": 315,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.65
+  },
+  {
+    "parroquia": "ANDRÉS DE VERA",
+    "id": 5030,
+    "votos": 3408,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.94
+  },
+  {
+    "parroquia": "COLÓN",
+    "id": 5265,
+    "votos": 627,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 4.94
+  },
+  {
+    "parroquia": "12 DE MARZO",
+    "id": 5280,
+    "votos": 2554,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.06
+  },
+  {
+    "parroquia": "PORTOVIEJO",
+    "id": 5795,
+    "votos": 1802,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.86
+  },
+  {
+    "parroquia": "PICOAZA",
+    "id": 5845,
+    "votos": 655,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 4.93
+  },
+  {
+    "parroquia": "SAN PABLO",
+    "id": 6585,
+    "votos": 257,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.05
+  },
+  {
+    "parroquia": "18 DE OCTUBRE",
+    "id": 6770,
+    "votos": 605,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.4
+  },
+  {
+    "parroquia": "FRANCISCO PACHECO",
+    "id": 6775,
+    "votos": 320,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.37
+  },
+  {
+    "parroquia": "SIMÓN BOLÍVAR",
+    "id": 6910,
+    "votos": 120,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.15
+  }
+]

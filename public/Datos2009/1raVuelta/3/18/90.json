@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "TISALEO",
+        "id": 5515,
+        "votos": 20,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.34
+    },
+    {
+        "parroquia": "QUINCHICOTO",
+        "id": 1375,
+        "votos": 0,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.0
+    }
+]

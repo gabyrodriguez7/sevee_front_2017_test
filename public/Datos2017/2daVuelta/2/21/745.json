@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "SEVILLA",
+    "id": 1095,
+    "votos": 709,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 44.26
+  },
+  {
+    "parroquia": "SANTA ROSA DE SUCUMBIOS",
+    "id": 3750,
+    "votos": 223,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 38.99
+  },
+  {
+    "parroquia": "EL DORADO DE CASCALES",
+    "id": 6325,
+    "votos": 1812,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 39.3
+  }
+]

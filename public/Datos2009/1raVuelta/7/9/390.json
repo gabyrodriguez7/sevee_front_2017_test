@@ -1,0 +1,149 @@
+[
+    {
+        "parroquia": "PASCUALES",
+        "id": 6405,
+        "votos": 4523,
+        "candidato": "Alvaro Noboa",
+        "value": 21.94
+    },
+    {
+        "parroquia": "CHONGON",
+        "id": 6400,
+        "votos": 1121,
+        "candidato": "Alvaro Noboa",
+        "value": 21.74
+    },
+    {
+        "parroquia": "XIMENA",
+        "id": 6265,
+        "votos": 50285,
+        "candidato": "Alvaro Noboa",
+        "value": 20.23
+    },
+    {
+        "parroquia": "URDANETA",
+        "id": 6185,
+        "votos": 5088,
+        "candidato": "Alvaro Noboa",
+        "value": 21.47
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 6150,
+        "votos": 54844,
+        "candidato": "Alvaro Noboa",
+        "value": 16.87
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 6095,
+        "votos": 2772,
+        "candidato": "Alvaro Noboa",
+        "value": 18.64
+    },
+    {
+        "parroquia": "ROCAFUERTE",
+        "id": 5890,
+        "votos": 1891,
+        "candidato": "Alvaro Noboa",
+        "value": 15.51
+    },
+    {
+        "parroquia": "ROCA",
+        "id": 5880,
+        "votos": 2035,
+        "candidato": "Alvaro Noboa",
+        "value": 17.32
+    },
+    {
+        "parroquia": "OLMEDO/SAN ALEJO",
+        "id": 5720,
+        "votos": 2265,
+        "candidato": "Alvaro Noboa",
+        "value": 17.24
+    },
+    {
+        "parroquia": "9 DE OCTUBRE",
+        "id": 5695,
+        "votos": 1798,
+        "candidato": "Alvaro Noboa",
+        "value": 17.5
+    },
+    {
+        "parroquia": "LETAMENDI",
+        "id": 5585,
+        "votos": 15947,
+        "candidato": "Alvaro Noboa",
+        "value": 22.89
+    },
+    {
+        "parroquia": "GARCIA MORENO",
+        "id": 5380,
+        "votos": 10069,
+        "candidato": "Alvaro Noboa",
+        "value": 20.87
+    },
+    {
+        "parroquia": "FEBRES CORDERO",
+        "id": 5355,
+        "votos": 50481,
+        "candidato": "Alvaro Noboa",
+        "value": 22.05
+    },
+    {
+        "parroquia": "CARBO/CONCEPCION",
+        "id": 5170,
+        "votos": 4788,
+        "candidato": "Alvaro Noboa",
+        "value": 18.5
+    },
+    {
+        "parroquia": "BOLIVAR/SAGRARIO",
+        "id": 5125,
+        "votos": 2353,
+        "candidato": "Alvaro Noboa",
+        "value": 19.42
+    },
+    {
+        "parroquia": "AYACUCHO",
+        "id": 5055,
+        "votos": 2691,
+        "candidato": "Alvaro Noboa",
+        "value": 18.98
+    },
+    {
+        "parroquia": "TENGUEL",
+        "id": 4120,
+        "votos": 544,
+        "candidato": "Alvaro Noboa",
+        "value": 12.07
+    },
+    {
+        "parroquia": "PUNA",
+        "id": 3030,
+        "votos": 316,
+        "candidato": "Alvaro Noboa",
+        "value": 13.27
+    },
+    {
+        "parroquia": "POSORJA",
+        "id": 2940,
+        "votos": 2214,
+        "candidato": "Alvaro Noboa",
+        "value": 26.84
+    },
+    {
+        "parroquia": "MORRO",
+        "id": 2470,
+        "votos": 605,
+        "candidato": "Alvaro Noboa",
+        "value": 38.93
+    },
+    {
+        "parroquia": "JUAN GOMEZ RENDON",
+        "id": 1870,
+        "votos": 1199,
+        "candidato": "Alvaro Noboa",
+        "value": 30.14
+    }
+]

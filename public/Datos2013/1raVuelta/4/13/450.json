@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "SANTA MARIANITA",
+        "id": 1800,
+        "votos": 9,
+        "candidato": "Acosta Alberto",
+        "value": 0.64378
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 3550,
+        "votos": 11,
+        "candidato": "Acosta Alberto",
+        "value": 0.63731
+    },
+    {
+        "parroquia": "LOS ESTEROS",
+        "id": 5570,
+        "votos": 139,
+        "candidato": "Acosta Alberto",
+        "value": 0.924
+    },
+    {
+        "parroquia": "MANTA",
+        "id": 5635,
+        "votos": 662,
+        "candidato": "Acosta Alberto",
+        "value": 1.3
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 6135,
+        "votos": 10,
+        "candidato": "Acosta Alberto",
+        "value": 0.46
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 6155,
+        "votos": 591,
+        "candidato": "Acosta Alberto",
+        "value": 1.2
+    },
+    {
+        "parroquia": "ELOY ALFARO",
+        "id": 6745,
+        "votos": 96,
+        "candidato": "Acosta Alberto",
+        "value": 0.59
+    }
+]

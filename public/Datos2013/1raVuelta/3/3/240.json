@@ -1,0 +1,86 @@
+[
+    {
+        "parroquia": "CHONTAMARCA",
+        "id": 935,
+        "votos": 17,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "CHOROCOPTE",
+        "id": 950,
+        "votos": 13,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "GRAL.MORALES / SOCARTE",
+        "id": 1335,
+        "votos": 10,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "GUALLETURO",
+        "id": 1410,
+        "votos": 6,
+        "candidato": "Wray Norman",
+        "value": 0.0
+    },
+    {
+        "parroquia": "HONORATO VASQUEZ",
+        "id": 1605,
+        "votos": 28,
+        "candidato": "Wray Norman",
+        "value": 1.1
+    },
+    {
+        "parroquia": "INGAPIRCA",
+        "id": 1725,
+        "votos": 41,
+        "candidato": "Wray Norman",
+        "value": 1.1738
+    },
+    {
+        "parroquia": "VENTURA",
+        "id": 1775,
+        "votos": 4,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "DUCUR",
+        "id": 1895,
+        "votos": 12,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "JUNCAL",
+        "id": 1900,
+        "votos": 10,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3305,
+        "votos": 4,
+        "candidato": "Wray Norman",
+        "value": 0.0
+    },
+    {
+        "parroquia": "ZHUD",
+        "id": 4345,
+        "votos": 8,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "CAÑAR",
+        "id": 5160,
+        "votos": 160,
+        "candidato": "Wray Norman",
+        "value": 1.18
+    }
+]

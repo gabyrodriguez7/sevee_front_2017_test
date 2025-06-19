@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "PUEBLO VIEJO",
+        "id": 5800,
+        "votos": 432,
+        "candidato": "Alvaro Noboa",
+        "value": 6.12
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3510,
+        "votos": 325,
+        "candidato": "Alvaro Noboa",
+        "value": 4.77
+    },
+    {
+        "parroquia": "PUERTO PECHICHE",
+        "id": 3015,
+        "votos": 27,
+        "candidato": "Alvaro Noboa",
+        "value": 1.43
+    }
+]

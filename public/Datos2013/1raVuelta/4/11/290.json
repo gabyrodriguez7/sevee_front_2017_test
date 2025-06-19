@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "EL TAMBO",
+        "id": 1200,
+        "votos": 113,
+        "candidato": "Acosta Alberto",
+        "value": 7.0
+    },
+    {
+        "parroquia": "GUAYQUICHUMA",
+        "id": 1480,
+        "votos": 14,
+        "candidato": "Acosta Alberto",
+        "value": 6.114
+    },
+    {
+        "parroquia": "SAN PEDRO DE LA BENDITA",
+        "id": 3610,
+        "votos": 26,
+        "candidato": "Acosta Alberto",
+        "value": 2.37
+    },
+    {
+        "parroquia": "ZAMBI",
+        "id": 4455,
+        "votos": 10,
+        "candidato": "Acosta Alberto",
+        "value": 3.04
+    },
+    {
+        "parroquia": "CATAMAYO",
+        "id": 5270,
+        "votos": 848,
+        "candidato": "Acosta Alberto",
+        "value": 6.0
+    },
+    {
+        "parroquia": "SAN JOSE",
+        "id": 6825,
+        "votos": 15,
+        "candidato": "Acosta Alberto",
+        "value": 3.9
+    }
+]

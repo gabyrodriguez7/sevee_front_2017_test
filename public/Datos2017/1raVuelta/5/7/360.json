@@ -1,0 +1,72 @@
+[
+  {
+    "parroquia": "ABANIN",
+    "id": 5,
+    "votos": 7,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.78
+  },
+  {
+    "parroquia": "GUANAZAN",
+    "id": 1420,
+    "votos": 9,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.51
+  },
+  {
+    "parroquia": "GUIZHAGUIÑA",
+    "id": 1425,
+    "votos": 3,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.34
+  },
+  {
+    "parroquia": "HUERTAS",
+    "id": 1655,
+    "votos": 1,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.07
+  },
+  {
+    "parroquia": "SINSAO",
+    "id": 1700,
+    "votos": 1,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.15
+  },
+  {
+    "parroquia": "SALVIAS",
+    "id": 1750,
+    "votos": 2,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.43
+  },
+  {
+    "parroquia": "MALVAS",
+    "id": 2350,
+    "votos": 0,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0
+  },
+  {
+    "parroquia": "ARCAPAMBA",
+    "id": 4445,
+    "votos": 0,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0
+  },
+  {
+    "parroquia": "MULUNCAY GRANDE",
+    "id": 4450,
+    "votos": 2,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.37
+  },
+  {
+    "parroquia": "ZARUMA",
+    "id": 6310,
+    "votos": 23,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.26
+  }
+]

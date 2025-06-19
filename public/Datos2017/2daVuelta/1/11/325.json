@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "LA RAMA",
+    "id": 2085,
+    "votos": 282,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 51.46
+  },
+  {
+    "parroquia": "LA VICTORIA",
+    "id": 2145,
+    "votos": 477,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 65.98
+  },
+  {
+    "parroquia": "SABIANGO",
+    "id": 3265,
+    "votos": 271,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 56.93
+  },
+  {
+    "parroquia": "GRAL.ELOY ALFARO",
+    "id": 5385,
+    "votos": 633,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 62.24
+  },
+  {
+    "parroquia": "MACARÁ",
+    "id": 5680,
+    "votos": 5569,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 61.09
+  }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "ROSA ZARATE",
+        "id": 5895,
+        "votos": 3982,
+        "candidato": "Alvaro Noboa",
+        "value": 13.25
+    },
+    {
+        "parroquia": "VICHE",
+        "id": 4230,
+        "votos": 392,
+        "candidato": "Alvaro Noboa",
+        "value": 15.25
+    },
+    {
+        "parroquia": "MALIMPIA / GUAYLLABAMBA",
+        "id": 2345,
+        "votos": 214,
+        "candidato": "Alvaro Noboa",
+        "value": 8.5
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 1530,
+        "votos": 554,
+        "candidato": "Alvaro Noboa",
+        "value": 8.36
+    },
+    {
+        "parroquia": "CHURA",
+        "id": 980,
+        "votos": 26,
+        "candidato": "Alvaro Noboa",
+        "value": 9.28
+    },
+    {
+        "parroquia": "CUBE / CHANCAMA",
+        "id": 700,
+        "votos": 74,
+        "candidato": "Alvaro Noboa",
+        "value": 9.97
+    }
+]

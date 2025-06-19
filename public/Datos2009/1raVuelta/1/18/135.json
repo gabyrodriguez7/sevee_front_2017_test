@@ -1,0 +1,191 @@
+[
+  {
+    "parroquia": "SAN FRANCISCO",
+    "id": 5945,
+    "votos": 376,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 7.14
+  },
+  {
+    "parroquia": "PISHILATA",
+    "id": 5840,
+    "votos": 64,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 4.53
+  },
+  {
+    "parroquia": "LA PENINSULA",
+    "id": 5605,
+    "votos": 54,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 5.71
+  },
+  {
+    "parroquia": "LA MERCED",
+    "id": 5560,
+    "votos": 931,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 6.6
+  },
+  {
+    "parroquia": "LA MATRIZ",
+    "id": 5545,
+    "votos": 1265,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 6.83
+  },
+  {
+    "parroquia": "HUACHI CHICO",
+    "id": 5455,
+    "votos": 702,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 4.87
+  },
+  {
+    "parroquia": "HUACHI LORETO",
+    "id": 5445,
+    "votos": 2100,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 5.96
+  },
+  {
+    "parroquia": "CELIANO MONGE",
+    "id": 5230,
+    "votos": 111,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 6.93
+  },
+  {
+    "parroquia": "ATOCHA FICOA",
+    "id": 5045,
+    "votos": 492,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 6.28
+  },
+  {
+    "parroquia": "TOTORAS",
+    "id": 4065,
+    "votos": 141,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 4.31
+  },
+  {
+    "parroquia": "SANTA ROSA",
+    "id": 3730,
+    "votos": 297,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 3.84
+  },
+  {
+    "parroquia": "SAN FERNANDO",
+    "id": 3380,
+    "votos": 21,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.8
+  },
+  {
+    "parroquia": "SAN BARTOLOME",
+    "id": 3355,
+    "votos": 186,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 4.41
+  },
+  {
+    "parroquia": "QUISAPINCHA",
+    "id": 3120,
+    "votos": 154,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.95
+  },
+  {
+    "parroquia": "PILAHUIN",
+    "id": 2860,
+    "votos": 118,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.37
+  },
+  {
+    "parroquia": "PICAYHUA",
+    "id": 2830,
+    "votos": 466,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 6.12
+  },
+  {
+    "parroquia": "PASA",
+    "id": 2775,
+    "votos": 56,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.78
+  },
+  {
+    "parroquia": "MONTALVO",
+    "id": 2435,
+    "votos": 57,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 3.32
+  },
+  {
+    "parroquia": "JUAN BENIGNO VELA",
+    "id": 1860,
+    "votos": 161,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 4.35
+  },
+  {
+    "parroquia": "IZAMBA",
+    "id": 1745,
+    "votos": 365,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 3.85
+  },
+  {
+    "parroquia": "HUACHI GRANDE",
+    "id": 1625,
+    "votos": 135,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 3.38
+  },
+  {
+    "parroquia": "UNAMUNCHO",
+    "id": 810,
+    "votos": 23,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.53
+  },
+  {
+    "parroquia": "CUNCHIBAMBA",
+    "id": 800,
+    "votos": 53,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 3.27
+  },
+  {
+    "parroquia": "CONSTANTINO FERNANDEZ",
+    "id": 635,
+    "votos": 23,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.7
+  },
+  {
+    "parroquia": "AUGUSTO N MARTINEZ",
+    "id": 210,
+    "votos": 188,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 3.84
+  },
+  {
+    "parroquia": "ATAHUALPA /CHIPZALATA",
+    "id": 190,
+    "votos": 179,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 4.11
+  },
+  {
+    "parroquia": "AMBATILLO",
+    "id": 95,
+    "votos": 80,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 3.33
+  }
+]

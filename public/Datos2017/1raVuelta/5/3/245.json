@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "JERUSALÉN",
+    "id": 1085,
+    "votos": 5,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.38
+  },
+  {
+    "parroquia": "NAZÓN",
+    "id": 2545,
+    "votos": 29,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.67
+  },
+  {
+    "parroquia": "SAN FCO. DE SAGEO",
+    "id": 3410,
+    "votos": 8,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.13
+  },
+  {
+    "parroquia": "TURUPAMBA",
+    "id": 4100,
+    "votos": 3,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.82
+  },
+  {
+    "parroquia": "BIBLIÁN",
+    "id": 5115,
+    "votos": 81,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.97
+  }
+]

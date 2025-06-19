@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "PAQUISHA",
+    "id": 6885,
+    "votos": 476,
+    "candidato": "Lucio Gutierrez",
+    "value": 45.95
+  },
+  {
+    "parroquia": "NUEVO QUITO",
+    "id": 1120,
+    "votos": 230,
+    "candidato": "Lucio Gutierrez",
+    "value": 46.75
+  },
+  {
+    "parroquia": "BELLAVISTA",
+    "id": 455,
+    "votos": 91,
+    "candidato": "Lucio Gutierrez",
+    "value": 45.73
+  }
+]

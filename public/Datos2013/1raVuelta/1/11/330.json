@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "EL ARENAL",
+        "id": 270,
+        "votos": 8,
+        "candidato": "Noboa Alvaro",
+        "value": 1.9
+    },
+    {
+        "parroquia": "CIANO",
+        "id": 565,
+        "votos": 13,
+        "candidato": "Noboa Alvaro",
+        "value": 2.0
+    },
+    {
+        "parroquia": "EL LIMO /MARIANA DE JESUS",
+        "id": 1155,
+        "votos": 32,
+        "candidato": "Noboa Alvaro",
+        "value": 2.4
+    },
+    {
+        "parroquia": "MERCADILLO",
+        "id": 2405,
+        "votos": 14,
+        "candidato": "Noboa Alvaro",
+        "value": 1.681
+    },
+    {
+        "parroquia": "VICENTINO",
+        "id": 4210,
+        "votos": 25,
+        "candidato": "Noboa Alvaro",
+        "value": 3.259
+    },
+    {
+        "parroquia": "ALAMOR",
+        "id": 5005,
+        "votos": 124,
+        "candidato": "Noboa Alvaro",
+        "value": 2.0
+    }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "SAN ISIDRO",
+    "id": 1075,
+    "votos": 3,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.75
+  },
+  {
+    "parroquia": "EL PARAÍSO",
+    "id": 1080,
+    "votos": 10,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.96
+  },
+  {
+    "parroquia": "LA LIBERTAD",
+    "id": 1100,
+    "votos": 3,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.5
+  },
+  {
+    "parroquia": "LA VICTORIA/LAS LAJAS",
+    "id": 6335,
+    "votos": 31,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.5
+  },
+  {
+    "parroquia": "PLATANILLOS",
+    "id": 6950,
+    "votos": 1,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.28
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "COTUNDO",
+    "id": 685,
+    "votos": 107,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 3.12
+  },
+  {
+    "parroquia": "SAN PABLO DE USHPAYACU",
+    "id": 3605,
+    "votos": 41,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 2.51
+  },
+  {
+    "parroquia": "HATUN SUMAKU",
+    "id": 4630,
+    "votos": 21,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 1.53
+  },
+  {
+    "parroquia": "ARCHIDONA",
+    "id": 5070,
+    "votos": 533,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.66
+  }
+]

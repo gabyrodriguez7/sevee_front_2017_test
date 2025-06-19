@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "CHICANA",
+        "id": 985,
+        "votos": 928,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 65.91
+    },
+    {
+        "parroquia": "LOS ENCUENTROS",
+        "id": 2240,
+        "votos": 1114,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 52.77
+    },
+    {
+        "parroquia": "YANZATZA",
+        "id": 6295,
+        "votos": 5814,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 64.47
+    }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "COLAIZACA",
+    "id": 590,
+    "votos": 20,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.98
+  },
+  {
+    "parroquia": "EL LUCERO",
+    "id": 1230,
+    "votos": 30,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.22
+  },
+  {
+    "parroquia": "SANGUILLIN",
+    "id": 1550,
+    "votos": 7,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.63
+  },
+  {
+    "parroquia": "UTUANA",
+    "id": 4150,
+    "votos": 17,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.87
+  },
+  {
+    "parroquia": "CARIAMANGA",
+    "id": 5175,
+    "votos": 228,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.1
+  },
+  {
+    "parroquia": "CHILE",
+    "id": 5240,
+    "votos": 40,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.24
+  },
+  {
+    "parroquia": "SAN VICENTE",
+    "id": 6025,
+    "votos": 4,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.94
+  }
+]

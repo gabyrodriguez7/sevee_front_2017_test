@@ -1,0 +1,86 @@
+[
+  {
+    "parroquia": "PTO. FCO. DE ORELLANA",
+    "id": 5815,
+    "votos": 636,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 3.33
+  },
+  {
+    "parroquia": "SAN JOSE DE GUAYUSA",
+    "id": 1945,
+    "votos": 7,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.46
+  },
+  {
+    "parroquia": "NUEVO PARAISO",
+    "id": 1940,
+    "votos": 14,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.82
+  },
+  {
+    "parroquia": "SAN LUIS DE ARMENIA",
+    "id": 1935,
+    "votos": 37,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 6.02
+  },
+  {
+    "parroquia": "LA BELLEZA",
+    "id": 1820,
+    "votos": 12,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.01
+  },
+  {
+    "parroquia": "GARCIA MORENO",
+    "id": 1810,
+    "votos": 10,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.04
+  },
+  {
+    "parroquia": "EL EDEN",
+    "id": 1590,
+    "votos": 2,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 0.79
+  },
+  {
+    "parroquia": "ALEJANDRO",
+    "id": 1580,
+    "votos": 3,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 0.83
+  },
+  {
+    "parroquia": "INES ARANGO",
+    "id": 1565,
+    "votos": 14,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.47
+  },
+  {
+    "parroquia": "EL DORADO",
+    "id": 1560,
+    "votos": 20,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.84
+  },
+  {
+    "parroquia": "TARACOA",
+    "id": 1245,
+    "votos": 15,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.49
+  },
+  {
+    "parroquia": "DAYUMA",
+    "id": 1235,
+    "votos": 73,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 3.31
+  }
+]

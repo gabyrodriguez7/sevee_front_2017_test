@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "SAN FRANCISCO",
+        "id": 5955,
+        "votos": 2028,
+        "candidato": "Rafael Correa Delgado",
+        "value": 69.93
+    },
+    {
+        "parroquia": "SAGRARIO",
+        "id": 5910,
+        "votos": 3819,
+        "candidato": "Rafael Correa Delgado",
+        "value": 72.86
+    },
+    {
+        "parroquia": "VACAS GALINDO",
+        "id": 4185,
+        "votos": 201,
+        "candidato": "Rafael Correa Delgado",
+        "value": 72.04
+    },
+    {
+        "parroquia": "6 DE JULIO DE CUELLAJE",
+        "id": 3800,
+        "votos": 552,
+        "candidato": "Rafael Correa Delgado",
+        "value": 69.0
+    },
+    {
+        "parroquia": "QUIROGA",
+        "id": 3115,
+        "votos": 2596,
+        "candidato": "Rafael Correa Delgado",
+        "value": 76.48
+    },
+    {
+        "parroquia": "PLAZA GUTIERREZ/CALVARIO",
+        "id": 2915,
+        "votos": 168,
+        "candidato": "Rafael Correa Delgado",
+        "value": 70.58
+    },
+    {
+        "parroquia": "PE�AHERRERA",
+        "id": 2820,
+        "votos": 550,
+        "candidato": "Rafael Correa Delgado",
+        "value": 70.15
+    },
+    {
+        "parroquia": "IMANTAG",
+        "id": 1710,
+        "votos": 1745,
+        "candidato": "Rafael Correa Delgado",
+        "value": 81.58
+    },
+    {
+        "parroquia": "GARCIA MORENO / LLURIMAGUA",
+        "id": 1310,
+        "votos": 2048,
+        "candidato": "Rafael Correa Delgado",
+        "value": 73.11
+    },
+    {
+        "parroquia": "APUELA",
+        "id": 145,
+        "votos": 608,
+        "candidato": "Rafael Correa Delgado",
+        "value": 72.46
+    }
+]

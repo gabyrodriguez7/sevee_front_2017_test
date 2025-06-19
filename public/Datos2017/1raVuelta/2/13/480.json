@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "BOYACÁ",
+    "id": 380,
+    "votos": 91,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.58
+  },
+  {
+    "parroquia": "CHIBUNGA",
+    "id": 405,
+    "votos": 77,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.84
+  },
+  {
+    "parroquia": "CANUTO",
+    "id": 495,
+    "votos": 333,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.15
+  },
+  {
+    "parroquia": "CONVENTO",
+    "id": 640,
+    "votos": 153,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.57
+  },
+  {
+    "parroquia": "ELOY ALFARO",
+    "id": 1160,
+    "votos": 98,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.01
+  },
+  {
+    "parroquia": "RICAURTE",
+    "id": 3170,
+    "votos": 134,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.92
+  },
+  {
+    "parroquia": "SAN ANTONIO / DEL PELUDO",
+    "id": 3350,
+    "votos": 138,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.85
+  },
+  {
+    "parroquia": "CHONE",
+    "id": 5250,
+    "votos": 1512,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.71
+  },
+  {
+    "parroquia": "SANTA RITA",
+    "id": 6055,
+    "votos": 330,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.57
+  }
+]

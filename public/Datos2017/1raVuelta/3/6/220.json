@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "CAPZOL",
+    "id": 515,
+    "votos": 130,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 38.12
+  },
+  {
+    "parroquia": "COMPUD",
+    "id": 615,
+    "votos": 136,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 39.42
+  },
+  {
+    "parroquia": "GONZOL",
+    "id": 1370,
+    "votos": 268,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 49.72
+  },
+  {
+    "parroquia": "LLAGOS",
+    "id": 2260,
+    "votos": 231,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 36.32
+  },
+  {
+    "parroquia": "CHUNCHI",
+    "id": 5255,
+    "votos": 1775,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 34.77
+  }
+]

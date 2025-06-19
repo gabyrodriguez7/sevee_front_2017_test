@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "NOVILLO",
+    "id": 1600,
+    "votos": 572,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 52.14
+  },
+  {
+    "parroquia": "ZAPALLO",
+    "id": 1620,
+    "votos": 756,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 42.78
+  },
+  {
+    "parroquia": "FLAVIO ALFARO",
+    "id": 5480,
+    "votos": 5655,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 40.73
+  }
+]

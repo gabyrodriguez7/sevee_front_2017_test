@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "MONTERREY",
+    "id": 4635,
+    "votos": 43,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.79
+  },
+  {
+    "parroquia": "LA VILLEGAS",
+    "id": 4640,
+    "votos": 39,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.54
+  },
+  {
+    "parroquia": "PLAN PILOTO",
+    "id": 4645,
+    "votos": 12,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.31
+  },
+  {
+    "parroquia": "LA CONCORDIA",
+    "id": 7520,
+    "votos": 592,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.42
+  }
+]

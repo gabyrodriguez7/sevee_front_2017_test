@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "ASUNCION",
+        "id": 180,
+        "votos": 10,
+        "candidato": "Noboa Alvaro",
+        "value": 1.5
+    },
+    {
+        "parroquia": "SANTA MARIANITA DE JESUS",
+        "id": 1140,
+        "votos": 2,
+        "candidato": "Noboa Alvaro",
+        "value": 0.6451613
+    },
+    {
+        "parroquia": "HUAMBI",
+        "id": 1635,
+        "votos": 21,
+        "candidato": "Noboa Alvaro",
+        "value": 1.4
+    },
+    {
+        "parroquia": "SUCUA",
+        "id": 6110,
+        "votos": 104,
+        "candidato": "Noboa Alvaro",
+        "value": 1.431
+    }
+]

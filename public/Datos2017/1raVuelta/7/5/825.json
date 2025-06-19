@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "GUASAGANDA",
+    "id": 1500,
+    "votos": 25,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.4
+  },
+  {
+    "parroquia": "PUCAYACO",
+    "id": 2965,
+    "votos": 17,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.02
+  },
+  {
+    "parroquia": "LA MANÁ",
+    "id": 6535,
+    "votos": 613,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3
+  },
+  {
+    "parroquia": "EL CARMEN",
+    "id": 6880,
+    "votos": 52,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.68
+  },
+  {
+    "parroquia": "EL TRIUNFO",
+    "id": 6895,
+    "votos": 64,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.05
+  }
+]

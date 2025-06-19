@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "CELICA",
+    "id": 5195,
+    "votos": 1050,
+    "candidato": "Lucio Gutierrez",
+    "value": 31.6
+  },
+  {
+    "parroquia": "SAN JUAN DE POZUL",
+    "id": 3535,
+    "votos": 151,
+    "candidato": "Lucio Gutierrez",
+    "value": 12.63
+  },
+  {
+    "parroquia": "SABANILLA",
+    "id": 3255,
+    "votos": 222,
+    "candidato": "Lucio Gutierrez",
+    "value": 22.81
+  },
+  {
+    "parroquia": "TNTE M.RODRIGUEZ LOAYZA",
+    "id": 1495,
+    "votos": 57,
+    "candidato": "Lucio Gutierrez",
+    "value": 26.02
+  },
+  {
+    "parroquia": "CRUZPAMBA/BUSTAMANTE",
+    "id": 695,
+    "votos": 109,
+    "candidato": "Lucio Gutierrez",
+    "value": 23.85
+  }
+]

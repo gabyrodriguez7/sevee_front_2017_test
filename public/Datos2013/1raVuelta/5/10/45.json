@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "IMBAYA",
+        "id": 1715,
+        "votos": 9,
+        "candidato": "Gutierrez Lucio",
+        "value": 1.2
+    },
+    {
+        "parroquia": "SAN FCO.DE NATABUELA",
+        "id": 3400,
+        "votos": 137,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.287
+    },
+    {
+        "parroquia": "SAN JOSE DE CHALTURA",
+        "id": 3465,
+        "votos": 58,
+        "candidato": "Gutierrez Lucio",
+        "value": 2.93
+    },
+    {
+        "parroquia": "SAN ROQUE",
+        "id": 3640,
+        "votos": 165,
+        "candidato": "Gutierrez Lucio",
+        "value": 3.0
+    },
+    {
+        "parroquia": "ANDRADE MARIN/LOURDES",
+        "id": 5025,
+        "votos": 120,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.2
+    },
+    {
+        "parroquia": "ATUNTAQUI",
+        "id": 5050,
+        "votos": 353,
+        "candidato": "Gutierrez Lucio",
+        "value": 2.9
+    }
+]

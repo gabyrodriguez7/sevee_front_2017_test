@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "CAHUASQUÍ",
+    "id": 425,
+    "votos": 687,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 52.36
+  },
+  {
+    "parroquia": "LA MERCED DE BUENOS AIRES",
+    "id": 2060,
+    "votos": 469,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 43.87
+  },
+  {
+    "parroquia": "PABLO ARENAS",
+    "id": 2675,
+    "votos": 840,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 59.87
+  },
+  {
+    "parroquia": "SAN BLAS",
+    "id": 3365,
+    "votos": 1005,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 52.34
+  },
+  {
+    "parroquia": "TUMBABIRO",
+    "id": 4080,
+    "votos": 616,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 58.44
+  },
+  {
+    "parroquia": "URCUQUÍ",
+    "id": 6190,
+    "votos": 2300,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 52.67
+  }
+]

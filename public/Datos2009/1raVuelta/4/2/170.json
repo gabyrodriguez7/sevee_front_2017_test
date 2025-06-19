@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "SAN JOSE DE CHIMBO",
+        "id": 5975,
+        "votos": 1399,
+        "candidato": "Rafael Correa Delgado",
+        "value": 36.08
+    },
+    {
+        "parroquia": "TELIMBELA",
+        "id": 3995,
+        "votos": 192,
+        "candidato": "Rafael Correa Delgado",
+        "value": 28.87
+    },
+    {
+        "parroquia": "SAN SEBASTIAN",
+        "id": 3655,
+        "votos": 128,
+        "candidato": "Rafael Correa Delgado",
+        "value": 30.91
+    },
+    {
+        "parroquia": "MAGDALENA/CHAPACOTO",
+        "id": 2315,
+        "votos": 713,
+        "candidato": "Rafael Correa Delgado",
+        "value": 45.94
+    },
+    {
+        "parroquia": "ASUNCION",
+        "id": 170,
+        "votos": 563,
+        "candidato": "Rafael Correa Delgado",
+        "value": 42.2
+    }
+]

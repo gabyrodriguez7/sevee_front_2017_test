@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "TENA",
+    "id": 6160,
+    "votos": 98,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.63
+  },
+  {
+    "parroquia": "PUERTO NAPO",
+    "id": 3050,
+    "votos": 4,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.19
+  },
+  {
+    "parroquia": "PUERTO MISAHUALLI",
+    "id": 3000,
+    "votos": 9,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.47
+  },
+  {
+    "parroquia": "PANO",
+    "id": 2755,
+    "votos": 2,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.26
+  },
+  {
+    "parroquia": "TALAG",
+    "id": 1930,
+    "votos": 3,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.26
+  },
+  {
+    "parroquia": "CHONTAPUNTA",
+    "id": 940,
+    "votos": 5,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.22
+  },
+  {
+    "parroquia": "AHUANO",
+    "id": 25,
+    "votos": 9,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.4
+  }
+]

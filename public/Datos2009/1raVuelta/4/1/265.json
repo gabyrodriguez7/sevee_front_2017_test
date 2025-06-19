@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "GUALACEO",
+        "id": 5420,
+        "votos": 7024,
+        "candidato": "Rafael Correa Delgado",
+        "value": 65.73
+    },
+    {
+        "parroquia": "ZHIDMAD",
+        "id": 4340,
+        "votos": 676,
+        "candidato": "Rafael Correa Delgado",
+        "value": 69.54
+    },
+    {
+        "parroquia": "SIMON BOLIVAR",
+        "id": 3780,
+        "votos": 157,
+        "candidato": "Rafael Correa Delgado",
+        "value": 47.57
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3505,
+        "votos": 740,
+        "candidato": "Rafael Correa Delgado",
+        "value": 46.13
+    },
+    {
+        "parroquia": "REMIGIO CRESPO TORAL",
+        "id": 3160,
+        "votos": 231,
+        "candidato": "Rafael Correa Delgado",
+        "value": 62.09
+    },
+    {
+        "parroquia": "MARIANO MORENO/CALLASAY",
+        "id": 2385,
+        "votos": 540,
+        "candidato": "Rafael Correa Delgado",
+        "value": 65.13
+    },
+    {
+        "parroquia": "JADAN",
+        "id": 1805,
+        "votos": 1044,
+        "candidato": "Rafael Correa Delgado",
+        "value": 61.01
+    },
+    {
+        "parroquia": "LUIS CORDERO VEGA",
+        "id": 1760,
+        "votos": 122,
+        "candidato": "Rafael Correa Delgado",
+        "value": 65.24
+    },
+    {
+        "parroquia": "DANIEL CORDOVA TORAL",
+        "id": 1005,
+        "votos": 532,
+        "candidato": "Rafael Correa Delgado",
+        "value": 61.36
+    }
+]

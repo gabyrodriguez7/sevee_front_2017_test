@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "SAN FRANCISCO",
+        "id": 5955,
+        "votos": 232,
+        "candidato": "Alvaro Noboa",
+        "value": 8.0
+    },
+    {
+        "parroquia": "SAGRARIO",
+        "id": 5910,
+        "votos": 417,
+        "candidato": "Alvaro Noboa",
+        "value": 7.95
+    },
+    {
+        "parroquia": "VACAS GALINDO",
+        "id": 4185,
+        "votos": 28,
+        "candidato": "Alvaro Noboa",
+        "value": 10.03
+    },
+    {
+        "parroquia": "6 DE JULIO DE CUELLAJE",
+        "id": 3800,
+        "votos": 32,
+        "candidato": "Alvaro Noboa",
+        "value": 4.0
+    },
+    {
+        "parroquia": "QUIROGA",
+        "id": 3115,
+        "votos": 227,
+        "candidato": "Alvaro Noboa",
+        "value": 6.68
+    },
+    {
+        "parroquia": "PLAZA GUTIERREZ/CALVARIO",
+        "id": 2915,
+        "votos": 11,
+        "candidato": "Alvaro Noboa",
+        "value": 4.62
+    },
+    {
+        "parroquia": "PEÑAHERRERA",
+        "id": 2820,
+        "votos": 30,
+        "candidato": "Alvaro Noboa",
+        "value": 3.82
+    },
+    {
+        "parroquia": "IMANTAG",
+        "id": 1710,
+        "votos": 91,
+        "candidato": "Alvaro Noboa",
+        "value": 4.25
+    },
+    {
+        "parroquia": "GARCIA MORENO / LLURIMAGUA",
+        "id": 1310,
+        "votos": 156,
+        "candidato": "Alvaro Noboa",
+        "value": 5.56
+    },
+    {
+        "parroquia": "APUELA",
+        "id": 145,
+        "votos": 44,
+        "candidato": "Alvaro Noboa",
+        "value": 5.24
+    }
+]

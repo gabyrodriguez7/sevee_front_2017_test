@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "DANIEL CORDOVA TORAL",
+        "id": 1005,
+        "votos": 67,
+        "candidato": "Acosta Alberto",
+        "value": 6.0
+    },
+    {
+        "parroquia": "LUIS CORDERO VEGA",
+        "id": 1760,
+        "votos": 16,
+        "candidato": "Acosta Alberto",
+        "value": 5.755396
+    },
+    {
+        "parroquia": "JADAN",
+        "id": 1805,
+        "votos": 74,
+        "candidato": "Acosta Alberto",
+        "value": 3.0
+    },
+    {
+        "parroquia": "MARIANO MORENO/CALLASAY",
+        "id": 2385,
+        "votos": 83,
+        "candidato": "Acosta Alberto",
+        "value": 8.0
+    },
+    {
+        "parroquia": "REMIGIO CRESPO TORAL",
+        "id": 3160,
+        "votos": 40,
+        "candidato": "Acosta Alberto",
+        "value": 8.03
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3505,
+        "votos": 395,
+        "candidato": "Acosta Alberto",
+        "value": 16.7
+    },
+    {
+        "parroquia": "SIMON BOLIVAR",
+        "id": 3780,
+        "votos": 38,
+        "candidato": "Acosta Alberto",
+        "value": 10.55555556
+    },
+    {
+        "parroquia": "ZHIDMAD",
+        "id": 4340,
+        "votos": 64,
+        "candidato": "Acosta Alberto",
+        "value": 5.0
+    },
+    {
+        "parroquia": "GUALACEO",
+        "id": 5420,
+        "votos": 881,
+        "candidato": "Acosta Alberto",
+        "value": 6.0
+    }
+]

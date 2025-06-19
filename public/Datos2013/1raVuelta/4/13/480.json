@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "BOYACA",
+        "id": 380,
+        "votos": 30,
+        "candidato": "Acosta Alberto",
+        "value": 1.26
+    },
+    {
+        "parroquia": "CHIBUNGA",
+        "id": 405,
+        "votos": 31,
+        "candidato": "Acosta Alberto",
+        "value": 1.3864
+    },
+    {
+        "parroquia": "CANUTO",
+        "id": 495,
+        "votos": 95,
+        "candidato": "Acosta Alberto",
+        "value": 1.48
+    },
+    {
+        "parroquia": "CONVENTO",
+        "id": 640,
+        "votos": 48,
+        "candidato": "Acosta Alberto",
+        "value": 1.4
+    },
+    {
+        "parroquia": "ELOY ALFARO",
+        "id": 1160,
+        "votos": 55,
+        "candidato": "Acosta Alberto",
+        "value": 2.0
+    },
+    {
+        "parroquia": "RICAURTE",
+        "id": 3170,
+        "votos": 23,
+        "candidato": "Acosta Alberto",
+        "value": 0.7
+    },
+    {
+        "parroquia": "SAN ANTONIO / DEL PELUDO",
+        "id": 3350,
+        "votos": 47,
+        "candidato": "Acosta Alberto",
+        "value": 1.0
+    },
+    {
+        "parroquia": "CHONE",
+        "id": 5250,
+        "votos": 907,
+        "candidato": "Acosta Alberto",
+        "value": 2.246
+    },
+    {
+        "parroquia": "SANTA RITA",
+        "id": 6055,
+        "votos": 198,
+        "candidato": "Acosta Alberto",
+        "value": 2.198
+    }
+]

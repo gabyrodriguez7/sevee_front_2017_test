@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "SIGSIG",
+        "id": 6085,
+        "votos": 42,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.73
+    },
+    {
+        "parroquia": "SAN JOSE DE RARANGA",
+        "id": 3495,
+        "votos": 5,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.77
+    },
+    {
+        "parroquia": "SAN BARTOLOME",
+        "id": 3360,
+        "votos": 5,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.35
+    },
+    {
+        "parroquia": "LUDO",
+        "id": 2215,
+        "votos": 6,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.55
+    },
+    {
+        "parroquia": "GUEL",
+        "id": 1490,
+        "votos": 3,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.55
+    },
+    {
+        "parroquia": "GIMA",
+        "id": 1355,
+        "votos": 16,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 1.08
+    },
+    {
+        "parroquia": "CUTCHIL",
+        "id": 750,
+        "votos": 4,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.69
+    }
+]

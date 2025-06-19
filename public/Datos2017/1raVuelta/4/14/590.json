@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "ALSHI /9 DE OCTUBRE",
+    "id": 65,
+    "votos": 16,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.84
+  },
+  {
+    "parroquia": "CUCHAENTZA",
+    "id": 1250,
+    "votos": 19,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 2.16
+  },
+  {
+    "parroquia": "GRAL. PROAÑO",
+    "id": 1345,
+    "votos": 84,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.77
+  },
+  {
+    "parroquia": "RÍO BLANCO",
+    "id": 1730,
+    "votos": 77,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.56
+  },
+  {
+    "parroquia": "SAN ISIDRO",
+    "id": 3440,
+    "votos": 55,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.4
+  },
+  {
+    "parroquia": "SEVILLA DON BOSCO",
+    "id": 3830,
+    "votos": 172,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 3.04
+  },
+  {
+    "parroquia": "ZUNAC",
+    "id": 4360,
+    "votos": 7,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5
+  },
+  {
+    "parroquia": "SINAI",
+    "id": 4485,
+    "votos": 29,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 4.57
+  },
+  {
+    "parroquia": "MACAS",
+    "id": 5615,
+    "votos": 1231,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.01
+  }
+]

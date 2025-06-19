@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "MUISNE",
+        "id": 5670,
+        "votos": 27,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.54
+    },
+    {
+        "parroquia": "SAN JOSE DE CHAMANGA",
+        "id": 3470,
+        "votos": 6,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.46
+    },
+    {
+        "parroquia": "SAN GREGORIO",
+        "id": 3430,
+        "votos": 7,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.59
+    },
+    {
+        "parroquia": "SAN FRANCISCO",
+        "id": 3390,
+        "votos": 4,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.54
+    },
+    {
+        "parroquia": "SALIMA",
+        "id": 3280,
+        "votos": 2,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.53
+    },
+    {
+        "parroquia": "QUINGUE",
+        "id": 3125,
+        "votos": 0,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.0
+    },
+    {
+        "parroquia": "GALERA",
+        "id": 1305,
+        "votos": 0,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.0
+    },
+    {
+        "parroquia": "DAULE",
+        "id": 1010,
+        "votos": 2,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.52
+    },
+    {
+        "parroquia": "BOLIVAR",
+        "id": 355,
+        "votos": 2,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.59
+    }
+]

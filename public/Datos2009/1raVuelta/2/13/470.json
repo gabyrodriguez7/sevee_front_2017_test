@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "LODANA",
+        "id": 6725,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.58
+    },
+    {
+        "parroquia": "SANTA ANA",
+        "id": 6030,
+        "votos": 43,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.32
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 2135,
+        "votos": 14,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.66
+    },
+    {
+        "parroquia": "HONORATO VASQUEZ",
+        "id": 1610,
+        "votos": 6,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.26
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 1105,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.24
+    },
+    {
+        "parroquia": "AYACUCHO",
+        "id": 220,
+        "votos": 15,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.43
+    }
+]

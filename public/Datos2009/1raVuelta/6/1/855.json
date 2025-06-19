@@ -1,0 +1,16 @@
+[
+                {
+                    "parroquia": "SAN FERNANDO",
+                    "id": 6565,
+                    "votos": 28,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 1.42
+                },
+                {
+                    "parroquia": "CHUMBLIN",
+                    "id": 4560,
+                    "votos": 0,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 0.0
+                }
+            ]

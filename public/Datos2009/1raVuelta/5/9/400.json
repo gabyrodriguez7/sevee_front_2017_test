@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "LA AURORA",
+        "id": 6850,
+        "votos": 11,
+        "candidato": "Melba Jacome",
+        "value": 0.82
+    },
+    {
+        "parroquia": "DAULE",
+        "id": 5275,
+        "votos": 786,
+        "candidato": "Melba Jacome",
+        "value": 1.63
+    },
+    {
+        "parroquia": "EL LAUREL",
+        "id": 4500,
+        "votos": 21,
+        "candidato": "Melba Jacome",
+        "value": 0.8
+    },
+    {
+        "parroquia": "LAS LOJAS",
+        "id": 2105,
+        "votos": 30,
+        "candidato": "Melba Jacome",
+        "value": 1.77
+    },
+    {
+        "parroquia": "JUAN BAUTISTA AGUIRRE",
+        "id": 1855,
+        "votos": 25,
+        "candidato": "Melba Jacome",
+        "value": 1.49
+    },
+    {
+        "parroquia": "LIMONAL",
+        "id": 260,
+        "votos": 44,
+        "candidato": "Melba Jacome",
+        "value": 4.74
+    }
+]

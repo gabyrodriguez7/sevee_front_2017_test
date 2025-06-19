@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "SOZORANGA",
+        "id": 6120,
+        "votos": 20,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.36
+    },
+    {
+        "parroquia": "TACAMOROS",
+        "id": 3935,
+        "votos": 8,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.74
+    },
+    {
+        "parroquia": "NUEVA FATIMA",
+        "id": 2575,
+        "votos": 1,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.24
+    }
+]

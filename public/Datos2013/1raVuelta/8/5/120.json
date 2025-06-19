@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "MORASPUNGO",
+        "id": 2460,
+        "votos": 191,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.388
+    },
+    {
+        "parroquia": "PINLLOPATA",
+        "id": 2890,
+        "votos": 7,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.0
+    },
+    {
+        "parroquia": "RAMON CAMPAÑA",
+        "id": 3155,
+        "votos": 13,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.87
+    },
+    {
+        "parroquia": "EL CORAZON",
+        "id": 5305,
+        "votos": 149,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.65
+    }
+]

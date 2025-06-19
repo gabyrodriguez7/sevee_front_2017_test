@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SANTIAGO",
+        "id": 6890,
+        "votos": 213,
+        "candidato": "Rafael Correa Delgado",
+        "value": 17.55
+    },
+    {
+        "parroquia": "SAN JOSE DE MORONA",
+        "id": 1295,
+        "votos": 250,
+        "candidato": "Rafael Correa Delgado",
+        "value": 32.47
+    }
+]

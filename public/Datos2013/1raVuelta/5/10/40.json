@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "APUELA",
+        "id": 145,
+        "votos": 72,
+        "candidato": "Gutierrez Lucio",
+        "value": 6.8
+    },
+    {
+        "parroquia": "GARCIA MORENO / LLURIMAGUA",
+        "id": 1310,
+        "votos": 204,
+        "candidato": "Gutierrez Lucio",
+        "value": 6.3
+    },
+    {
+        "parroquia": "IMANTAG",
+        "id": 1710,
+        "votos": 97,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.0
+    },
+    {
+        "parroquia": "PEÑAHERRERA",
+        "id": 2820,
+        "votos": 73,
+        "candidato": "Gutierrez Lucio",
+        "value": 7.0
+    },
+    {
+        "parroquia": "PLAZA GUTIERREZ/CALVARIO",
+        "id": 2915,
+        "votos": 19,
+        "candidato": "Gutierrez Lucio",
+        "value": 6.1
+    },
+    {
+        "parroquia": "QUIROGA",
+        "id": 3115,
+        "votos": 136,
+        "candidato": "Gutierrez Lucio",
+        "value": 3.2
+    },
+    {
+        "parroquia": "6 DE JULIO DE CUELLAJE",
+        "id": 3800,
+        "votos": 130,
+        "candidato": "Gutierrez Lucio",
+        "value": 12.8
+    },
+    {
+        "parroquia": "VACAS GALINDO",
+        "id": 4185,
+        "votos": 20,
+        "candidato": "Gutierrez Lucio",
+        "value": 5.7
+    },
+    {
+        "parroquia": "SAGRARIO",
+        "id": 5910,
+        "votos": 132,
+        "candidato": "Gutierrez Lucio",
+        "value": 2.0
+    },
+    {
+        "parroquia": "SAN FRANCISCO",
+        "id": 5955,
+        "votos": 95,
+        "candidato": "Gutierrez Lucio",
+        "value": 2.6
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "LA MATRIZ",
+        "id": 5550,
+        "votos": 204,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.79
+    },
+    {
+        "parroquia": "EL ROSARIO",
+        "id": 5315,
+        "votos": 24,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.4
+    },
+    {
+        "parroquia": "SAN ISIDRO DE PATULU",
+        "id": 3450,
+        "votos": 35,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.85
+    },
+    {
+        "parroquia": "SAN GERARDO / PAQUICAHUAN",
+        "id": 3425,
+        "votos": 15,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.42
+    },
+    {
+        "parroquia": "SAN ANDRES",
+        "id": 3295,
+        "votos": 155,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.47
+    },
+    {
+        "parroquia": "LA PROVIDENCIA",
+        "id": 2080,
+        "votos": 7,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.08
+    },
+    {
+        "parroquia": "ILAPO",
+        "id": 1705,
+        "votos": 68,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 5.46
+    },
+    {
+        "parroquia": "GUANANDO",
+        "id": 1415,
+        "votos": 6,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.73
+    },
+    {
+        "parroquia": "VALPARAISO",
+        "id": 410,
+        "votos": 9,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.82
+    },
+    {
+        "parroquia": "SAN JOSE DEL CHAZO",
+        "id": 45,
+        "votos": 2,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 0.35
+    },
+    {
+        "parroquia": "SANTA FE DE GALAN",
+        "id": 40,
+        "votos": 2,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 0.38
+    }
+]

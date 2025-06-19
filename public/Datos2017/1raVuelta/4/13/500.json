@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "WILFRIDO LOOR MOREIRA",
+    "id": 1070,
+    "votos": 107,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.08
+  },
+  {
+    "parroquia": "SAN PEDRO DE SUMA",
+    "id": 1980,
+    "votos": 249,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 15.72
+  },
+  {
+    "parroquia": "EL CARMEN",
+    "id": 5300,
+    "votos": 7049,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 14.53
+  },
+  {
+    "parroquia": "4 DE DICIEMBRE",
+    "id": 6195,
+    "votos": 226,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.18
+  }
+]

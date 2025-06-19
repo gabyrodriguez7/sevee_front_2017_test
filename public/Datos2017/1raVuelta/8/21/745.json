@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "SEVILLA",
+    "id": 1095,
+    "votos": 25,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.73
+  },
+  {
+    "parroquia": "SANTA ROSA DE SUCUMBIOS",
+    "id": 3750,
+    "votos": 9,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.8
+  },
+  {
+    "parroquia": "EL DORADO DE CASCALES",
+    "id": 6325,
+    "votos": 60,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.44
+  }
+]

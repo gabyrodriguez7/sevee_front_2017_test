@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "CAMPOZANO",
+    "id": 460,
+    "votos": 531,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 16.99
+  },
+  {
+    "parroquia": "CASCOL",
+    "id": 540,
+    "votos": 577,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.27
+  },
+  {
+    "parroquia": "GUALE/STO.DOMINGO",
+    "id": 1395,
+    "votos": 383,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.08
+  },
+  {
+    "parroquia": "LASCANO",
+    "id": 2090,
+    "votos": 210,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10
+  },
+  {
+    "parroquia": "PAJÁN",
+    "id": 5755,
+    "votos": 1786,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 14
+  }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": 255,
+        "candidato": "Martha Roldos Bucaram",
+        "votos": 38,
+        "value": 0.95
+    },
+    {
+        "id": 620,
+        "candidato": "Martha Roldos Bucaram",
+        "votos": 540,
+        "value": 2.07
+    },
+    {
+        "id": 621,
+        "candidato": "Martha Roldos Bucaram",
+        "votos": 40,
+        "value": 1.97
+    },
+    {
+        "id": 635,
+        "candidato": "Martha Roldos Bucaram",
+        "votos": 52,
+        "value": 1.58
+    },
+    {
+        "id": 700,
+        "candidato": "Martha Roldos Bucaram",
+        "votos": 206,
+        "value": 1.83
+    }
+]

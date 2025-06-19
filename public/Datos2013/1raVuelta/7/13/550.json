@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "BACHILLERO",
+        "id": 265,
+        "votos": 16,
+        "candidato": "Zavala Nelson",
+        "value": 0.8
+    },
+    {
+        "parroquia": "ANGEL PEDRO GILER",
+        "id": 2030,
+        "votos": 26,
+        "candidato": "Zavala Nelson",
+        "value": 1.0
+    },
+    {
+        "parroquia": "TOSAGUA",
+        "id": 6170,
+        "votos": 153,
+        "candidato": "Zavala Nelson",
+        "value": 0.79
+    }
+]

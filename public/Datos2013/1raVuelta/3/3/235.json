@@ -1,0 +1,86 @@
+[
+    {
+        "parroquia": "COJITAMBO",
+        "id": 585,
+        "votos": 20,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "GUAPAN",
+        "id": 1445,
+        "votos": 65,
+        "candidato": "Wray Norman",
+        "value": 1.5
+    },
+    {
+        "parroquia": "JAVIER LOYOLA / CHUQUIPATA",
+        "id": 1825,
+        "votos": 42,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "LUIS CORDERO",
+        "id": 2220,
+        "votos": 25,
+        "candidato": "Wray Norman",
+        "value": 1.4
+    },
+    {
+        "parroquia": "PINDILIG",
+        "id": 2885,
+        "votos": 13,
+        "candidato": "Wray Norman",
+        "value": 1.2833
+    },
+    {
+        "parroquia": "RIVERA",
+        "id": 3210,
+        "votos": 6,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "SAN MIGUEL",
+        "id": 3575,
+        "votos": 54,
+        "candidato": "Wray Norman",
+        "value": 2.9
+    },
+    {
+        "parroquia": "TADAY",
+        "id": 3945,
+        "votos": 4,
+        "candidato": "Wray Norman",
+        "value": 0.5
+    },
+    {
+        "parroquia": "AZOGUES",
+        "id": 5065,
+        "votos": 318,
+        "candidato": "Wray Norman",
+        "value": 1.51
+    },
+    {
+        "parroquia": "SAN FRANCISCO",
+        "id": 5950,
+        "votos": 5,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "BORRERO",
+        "id": 6790,
+        "votos": 45,
+        "candidato": "Wray Norman",
+        "value": 2.0
+    },
+    {
+        "parroquia": "AURELIO BAYAS MARTINEZ",
+        "id": 6845,
+        "votos": 27,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    }
+]

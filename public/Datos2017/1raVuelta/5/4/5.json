@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "EL CARMELO/EL PUN/",
+    "id": 1125,
+    "votos": 12,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.73
+  },
+  {
+    "parroquia": "EL CHICAL",
+    "id": 1195,
+    "votos": 16,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.25
+  },
+  {
+    "parroquia": "SANTA MARTHA DE CUBA",
+    "id": 1765,
+    "votos": 3,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.2
+  },
+  {
+    "parroquia": "JULIO ANDRADE",
+    "id": 1885,
+    "votos": 48,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.77
+  },
+  {
+    "parroquia": "MALDONADO",
+    "id": 2340,
+    "votos": 2,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.22
+  },
+  {
+    "parroquia": "PIOTER",
+    "id": 2900,
+    "votos": 3,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.57
+  },
+  {
+    "parroquia": "TOBAR DONOSO",
+    "id": 4040,
+    "votos": 10,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 2.46
+  },
+  {
+    "parroquia": "TUFIÑO",
+    "id": 4070,
+    "votos": 1,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.06
+  },
+  {
+    "parroquia": "URBINA",
+    "id": 4130,
+    "votos": 3,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.35
+  },
+  {
+    "parroquia": "GONZALEZ SUÁREZ",
+    "id": 5415,
+    "votos": 103,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.54
+  },
+  {
+    "parroquia": "TULCÁN",
+    "id": 6165,
+    "votos": 110,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.46
+  }
+]

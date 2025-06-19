@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "ABDÓN CALDERÓN / LA UNIÓN",
+    "id": 15,
+    "votos": 176,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.92
+  },
+  {
+    "parroquia": "SHAGLLI",
+    "id": 3835,
+    "votos": 113,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.63
+  },
+  {
+    "parroquia": "SAN SALVADOR DE CAÑARIBAMBA",
+    "id": 4610,
+    "votos": 109,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 35.39
+  },
+  {
+    "parroquia": "SANTA ISABEL",
+    "id": 6045,
+    "votos": 1171,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 12.21
+  }
+]

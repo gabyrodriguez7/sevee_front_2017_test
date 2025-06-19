@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "ALSHI /9 DE OCTUBRE",
+        "id": 65,
+        "votos": 32,
+        "candidato": "Acosta Alberto",
+        "value": 14.035
+    },
+    {
+        "parroquia": "CUCHAENTZA",
+        "id": 1250,
+        "votos": 322,
+        "candidato": "Acosta Alberto",
+        "value": 46.0
+    },
+    {
+        "parroquia": "GRAL. PROAÑO",
+        "id": 1345,
+        "votos": 94,
+        "candidato": "Acosta Alberto",
+        "value": 11.3
+    },
+    {
+        "parroquia": "RIO BLANCO",
+        "id": 1730,
+        "votos": 135,
+        "candidato": "Acosta Alberto",
+        "value": 20.301
+    },
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 3440,
+        "votos": 46,
+        "candidato": "Acosta Alberto",
+        "value": 9.426
+    },
+    {
+        "parroquia": "SEVILLA DON BOSCO",
+        "id": 3830,
+        "votos": 1811,
+        "candidato": "Acosta Alberto",
+        "value": 40.0
+    },
+    {
+        "parroquia": "ZUNAC",
+        "id": 4360,
+        "votos": 15,
+        "candidato": "Acosta Alberto",
+        "value": 12.0
+    },
+    {
+        "parroquia": "SINAI",
+        "id": 4485,
+        "votos": 85,
+        "candidato": "Acosta Alberto",
+        "value": 17.0
+    },
+    {
+        "parroquia": "MACAS",
+        "id": 5615,
+        "votos": 1535,
+        "candidato": "Acosta Alberto",
+        "value": 12.6
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "GUALACEO",
+        "id": 5420,
+        "votos": 207,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.93
+    },
+    {
+        "parroquia": "ZHIDMAD",
+        "id": 4340,
+        "votos": 15,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.54
+    },
+    {
+        "parroquia": "SIMON BOLIVAR",
+        "id": 3780,
+        "votos": 4,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.21
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3505,
+        "votos": 13,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.81
+    },
+    {
+        "parroquia": "REMIGIO CRESPO TORAL",
+        "id": 3160,
+        "votos": 4,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.07
+    },
+    {
+        "parroquia": "MARIANO MORENO/CALLASAY",
+        "id": 2385,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.36
+    },
+    {
+        "parroquia": "JADAN",
+        "id": 1805,
+        "votos": 13,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.75
+    },
+    {
+        "parroquia": "LUIS CORDERO VEGA",
+        "id": 1760,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.53
+    },
+    {
+        "parroquia": "DANIEL CORDOVA TORAL",
+        "id": 1005,
+        "votos": 9,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.03
+    }
+]

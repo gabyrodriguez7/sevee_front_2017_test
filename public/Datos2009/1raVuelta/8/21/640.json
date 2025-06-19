@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "LA BONITA",
+    "id": 5525,
+    "votos": 154,
+    "candidato": "Lucio Gutierrez",
+    "value": 33.48
+  },
+  {
+    "parroquia": "SANTA BARBARA",
+    "id": 3690,
+    "votos": 184,
+    "candidato": "Lucio Gutierrez",
+    "value": 38.02
+  },
+  {
+    "parroquia": "ROSA FLORIDA",
+    "id": 3220,
+    "votos": 91,
+    "candidato": "Lucio Gutierrez",
+    "value": 36.25
+  },
+  {
+    "parroquia": "LA SOFIA",
+    "id": 2095,
+    "votos": 21,
+    "candidato": "Lucio Gutierrez",
+    "value": 36.84
+  },
+  {
+    "parroquia": "EL PLAYON DE SN. FRANCISCO",
+    "id": 1170,
+    "votos": 311,
+    "candidato": "Lucio Gutierrez",
+    "value": 34.21
+  }
+]

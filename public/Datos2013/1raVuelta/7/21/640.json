@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "EL PLAYON DE SN. FRANCISCO",
+        "id": 1170,
+        "votos": 3,
+        "candidato": "Zavala Nelson",
+        "value": 0.250417
+    },
+    {
+        "parroquia": "LA SOFIA",
+        "id": 2095,
+        "votos": 0,
+        "candidato": "Zavala Nelson",
+        "value": 0.0
+    },
+    {
+        "parroquia": "ROSA FLORIDA",
+        "id": 3220,
+        "votos": 0,
+        "candidato": "Zavala Nelson",
+        "value": 0.0
+    },
+    {
+        "parroquia": "SANTA BARBARA",
+        "id": 3690,
+        "votos": 3,
+        "candidato": "Zavala Nelson",
+        "value": 0.53
+    },
+    {
+        "parroquia": "LA BONITA",
+        "id": 5525,
+        "votos": 0,
+        "candidato": "Zavala Nelson",
+        "value": 0.0
+    }
+]

@@ -1,0 +1,58 @@
+[
+                {
+                    "parroquia": "MACHACHI",
+                    "id": 5620,
+                    "votos": 116,
+                    "candidato": "Melba Jacome",
+                    "value": 0.66
+                },
+                {
+                    "parroquia": "UYUMBICHO",
+                    "id": 4155,
+                    "votos": 8,
+                    "candidato": "Melba Jacome",
+                    "value": 0.36
+                },
+                {
+                    "parroquia": "TAMBILLO",
+                    "id": 3960,
+                    "votos": 32,
+                    "candidato": "Melba Jacome",
+                    "value": 0.66
+                },
+                {
+                    "parroquia": "CHAUPI",
+                    "id": 850,
+                    "votos": 3,
+                    "candidato": "Melba Jacome",
+                    "value": 0.47
+                },
+                {
+                    "parroquia": "CUTUGLAGUA",
+                    "id": 755,
+                    "votos": 54,
+                    "candidato": "Melba Jacome",
+                    "value": 1.23
+                },
+                {
+                    "parroquia": "CORNEJO ASTORGA /TANDAPI",
+                    "id": 650,
+                    "votos": 9,
+                    "candidato": "Melba Jacome",
+                    "value": 0.84
+                },
+                {
+                    "parroquia": "ALOASI",
+                    "id": 60,
+                    "votos": 10,
+                    "candidato": "Melba Jacome",
+                    "value": 0.4
+                },
+                {
+                    "parroquia": "ALOAG",
+                    "id": 55,
+                    "votos": 25,
+                    "candidato": "Melba Jacome",
+                    "value": 0.57
+                }
+            ]

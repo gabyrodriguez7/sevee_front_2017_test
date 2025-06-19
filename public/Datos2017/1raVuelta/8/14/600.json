@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "INDANZA",
+    "id": 1720,
+    "votos": 9,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.26
+  },
+  {
+    "parroquia": "SAN MIGUEL DE CONCHAY",
+    "id": 3250,
+    "votos": 3,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.18
+  },
+  {
+    "parroquia": "SAN ANTONIO",
+    "id": 3320,
+    "votos": 5,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.73
+  },
+  {
+    "parroquia": "SANTA SUSANA DE CHIVIAZA",
+    "id": 3760,
+    "votos": 7,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.49
+  },
+  {
+    "parroquia": "YUNGANZA /EL ROSARIO",
+    "id": 4305,
+    "votos": 6,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.12
+  },
+  {
+    "parroquia": "GRAL. LEONIDAS PLAZA",
+    "id": 5390,
+    "votos": 38,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.21
+  }
+]

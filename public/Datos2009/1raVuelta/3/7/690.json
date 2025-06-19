@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "PORTOVELO",
+    "id": 5850,
+    "votos": 30,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.57
+  },
+  {
+    "parroquia": "MORALES",
+    "id": 4520,
+    "votos": 1,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.3
+  },
+  {
+    "parroquia": "SALATI",
+    "id": 3275,
+    "votos": 3,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.75
+  },
+  {
+    "parroquia": "CURTINCAPAC",
+    "id": 740,
+    "votos": 1,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.34
+  }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "LA BONITA",
+        "id": 5525,
+        "votos": 270,
+        "candidato": "Rafael Correa Delgado",
+        "value": 58.7
+    },
+    {
+        "parroquia": "SANTA BARBARA",
+        "id": 3690,
+        "votos": 236,
+        "candidato": "Rafael Correa Delgado",
+        "value": 48.76
+    },
+    {
+        "parroquia": "ROSA FLORIDA",
+        "id": 3220,
+        "votos": 149,
+        "candidato": "Rafael Correa Delgado",
+        "value": 59.36
+    },
+    {
+        "parroquia": "LA SOFIA",
+        "id": 2095,
+        "votos": 26,
+        "candidato": "Rafael Correa Delgado",
+        "value": 45.61
+    },
+    {
+        "parroquia": "EL PLAYON DE SN. FRANCISCO",
+        "id": 1170,
+        "votos": 535,
+        "candidato": "Rafael Correa Delgado",
+        "value": 58.86
+    }
+]

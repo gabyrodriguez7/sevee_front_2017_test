@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "MONTERREY",
+    "id": 4635,
+    "votos": 1158,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 48.31
+  },
+  {
+    "parroquia": "LA VILLEGAS",
+    "id": 4640,
+    "votos": 729,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 47.52
+  },
+  {
+    "parroquia": "PLAN PILOTO",
+    "id": 4645,
+    "votos": 339,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 65.19
+  },
+  {
+    "parroquia": "LA CONCORDIA",
+    "id": 7520,
+    "votos": 10437,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 42.75
+  }
+]

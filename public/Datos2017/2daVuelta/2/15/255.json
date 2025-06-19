@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "GONZALO DÍAZ DE PINEDA",
+    "id": 1020,
+    "votos": 264,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 60.69
+  },
+  {
+    "parroquia": "LINARES",
+    "id": 2180,
+    "votos": 146,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 76.44
+  },
+  {
+    "parroquia": "OYACACHI",
+    "id": 2640,
+    "votos": 410,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 96.02
+  },
+  {
+    "parroquia": "SANTA ROSA DE QUIJOS",
+    "id": 3745,
+    "votos": 457,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 55.46
+  },
+  {
+    "parroquia": "SARDINAS",
+    "id": 3790,
+    "votos": 178,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 52.05
+  },
+  {
+    "parroquia": "EL CHACO",
+    "id": 5510,
+    "votos": 1903,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 52.07
+  }
+]

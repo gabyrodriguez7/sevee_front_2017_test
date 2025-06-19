@@ -1,0 +1,72 @@
+[
+  {
+    "parroquia": "ABANIN",
+    "id": 5,
+    "votos": 190,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 21.11
+  },
+  {
+    "parroquia": "GUANAZAN",
+    "id": 1420,
+    "votos": 415,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 23.3
+  },
+  {
+    "parroquia": "GUIZHAGUIÑA",
+    "id": 1425,
+    "votos": 282,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 32.38
+  },
+  {
+    "parroquia": "HUERTAS",
+    "id": 1655,
+    "votos": 329,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 24.28
+  },
+  {
+    "parroquia": "SINSAO",
+    "id": 1700,
+    "votos": 206,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 30.52
+  },
+  {
+    "parroquia": "SALVIAS",
+    "id": 1750,
+    "votos": 142,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 30.47
+  },
+  {
+    "parroquia": "MALVAS",
+    "id": 2350,
+    "votos": 165,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 27.5
+  },
+  {
+    "parroquia": "ARCAPAMBA",
+    "id": 4445,
+    "votos": 194,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 27.44
+  },
+  {
+    "parroquia": "MULUNCAY GRANDE",
+    "id": 4450,
+    "votos": 145,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 26.51
+  },
+  {
+    "parroquia": "ZARUMA",
+    "id": 6310,
+    "votos": 2720,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 31.32
+  }
+]

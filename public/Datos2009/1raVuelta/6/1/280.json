@@ -1,0 +1,51 @@
+[
+                {
+                    "parroquia": "SIGSIG",
+                    "id": 6085,
+                    "votos": 38,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 0.66
+                },
+                {
+                    "parroquia": "SAN JOSE DE RARANGA",
+                    "id": 3495,
+                    "votos": 7,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 1.07
+                },
+                {
+                    "parroquia": "SAN BARTOLOME",
+                    "id": 3360,
+                    "votos": 11,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 0.77
+                },
+                {
+                    "parroquia": "LUDO",
+                    "id": 2215,
+                    "votos": 4,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 0.36
+                },
+                {
+                    "parroquia": "GUEL",
+                    "id": 1490,
+                    "votos": 1,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 0.18
+                },
+                {
+                    "parroquia": "GIMA",
+                    "id": 1355,
+                    "votos": 11,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 0.74
+                },
+                {
+                    "parroquia": "CUTCHIL",
+                    "id": 750,
+                    "votos": 2,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 0.34
+                }
+            ]

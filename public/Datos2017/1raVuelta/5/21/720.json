@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "SAN PEDRO DE LOS COFANES",
+    "id": 600,
+    "votos": 123,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 7.27
+  },
+  {
+    "parroquia": "SIETE DE JULIO",
+    "id": 780,
+    "votos": 193,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 9.96
+  },
+  {
+    "parroquia": "LIMONCOCHA",
+    "id": 2175,
+    "votos": 96,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 5.14
+  },
+  {
+    "parroquia": "PANACOCHA",
+    "id": 2765,
+    "votos": 27,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 7.87
+  },
+  {
+    "parroquia": "SAN ROQUE",
+    "id": 3645,
+    "votos": 122,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 7.41
+  },
+  {
+    "parroquia": "SHUSHUFINDI CENTRAL",
+    "id": 6140,
+    "votos": 757,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 4.48
+  }
+]

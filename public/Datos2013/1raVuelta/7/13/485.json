@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "MEMBRILLO",
+        "id": 240,
+        "votos": 23,
+        "candidato": "Zavala Nelson",
+        "value": 1.036
+    },
+    {
+        "parroquia": "QUIROGA",
+        "id": 3110,
+        "votos": 15,
+        "candidato": "Zavala Nelson",
+        "value": 0.61
+    },
+    {
+        "parroquia": "CALCETA",
+        "id": 5150,
+        "votos": 115,
+        "candidato": "Zavala Nelson",
+        "value": 0.51
+    }
+]

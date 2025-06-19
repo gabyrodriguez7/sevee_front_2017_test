@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "EL REVENTADOR",
+    "id": 230,
+    "votos": 89,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.88
+  },
+  {
+    "parroquia": "GONZALO PIZARRO",
+    "id": 1090,
+    "votos": 256,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.43
+  },
+  {
+    "parroquia": "PUERTO LIBRE",
+    "id": 3615,
+    "votos": 34,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.12
+  },
+  {
+    "parroquia": "LUMBAQUÍ",
+    "id": 6300,
+    "votos": 337,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.22
+  }
+]

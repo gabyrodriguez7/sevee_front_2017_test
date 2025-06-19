@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "LA PILA",
+        "id": 1545,
+        "votos": 70,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.4913
+    },
+    {
+        "parroquia": "MONTECRISTI",
+        "id": 5665,
+        "votos": 1134,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.5736
+    },
+    {
+        "parroquia": "ANIBAL SAN ANDRES",
+        "id": 7460,
+        "votos": 12,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.56274
+    }
+]

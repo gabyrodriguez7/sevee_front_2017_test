@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "LOS ANDES",
+        "id": 2210,
+        "votos": 7,
+        "candidato": "Acosta Alberto",
+        "value": 0.99
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 3885,
+        "votos": 15,
+        "candidato": "Acosta Alberto",
+        "value": 1.3
+    },
+    {
+        "parroquia": "EL TRIUNFO",
+        "id": 4110,
+        "votos": 25,
+        "candidato": "Acosta Alberto",
+        "value": 4.0
+    },
+    {
+        "parroquia": "PATATE",
+        "id": 5830,
+        "votos": 81,
+        "candidato": "Acosta Alberto",
+        "value": 1.4789
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "EL REVENTADOR",
+        "id": 230,
+        "votos": 189,
+        "candidato": "Gutierrez Lucio",
+        "value": 25.0
+    },
+    {
+        "parroquia": "GONZALO PIZARRO",
+        "id": 1090,
+        "votos": 466,
+        "candidato": "Gutierrez Lucio",
+        "value": 30.299
+    },
+    {
+        "parroquia": "PUERTO LIBRE",
+        "id": 3615,
+        "votos": 79,
+        "candidato": "Gutierrez Lucio",
+        "value": 15.048
+    },
+    {
+        "parroquia": "LUMBAQUI",
+        "id": 6300,
+        "votos": 371,
+        "candidato": "Gutierrez Lucio",
+        "value": 15.081
+    }
+]

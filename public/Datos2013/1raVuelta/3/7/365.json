@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "BUENAVISTA",
+        "id": 390,
+        "votos": 15,
+        "candidato": "Wray Norman",
+        "value": 0.416
+    },
+    {
+        "parroquia": "CAÑAQUEMADA",
+        "id": 775,
+        "votos": 0,
+        "candidato": "Wray Norman",
+        "value": 0.0
+    },
+    {
+        "parroquia": "PROGRESO",
+        "id": 1225,
+        "votos": 16,
+        "candidato": "Wray Norman",
+        "value": 1.063
+    },
+    {
+        "parroquia": "LA PEAÑA",
+        "id": 2075,
+        "votos": 16,
+        "candidato": "Wray Norman",
+        "value": 0.8
+    },
+    {
+        "parroquia": "UZHCURRUMI",
+        "id": 4160,
+        "votos": 7,
+        "candidato": "Wray Norman",
+        "value": 0.8353
+    },
+    {
+        "parroquia": "CASACAY",
+        "id": 4495,
+        "votos": 6,
+        "candidato": "Wray Norman",
+        "value": 0.5952
+    },
+    {
+        "parroquia": "OCHOA LEON/MATRIZ",
+        "id": 5770,
+        "votos": 265,
+        "candidato": "Wray Norman",
+        "value": 0.76178
+    },
+    {
+        "parroquia": "LOMA DE FRANCO",
+        "id": 6365,
+        "votos": 3,
+        "candidato": "Wray Norman",
+        "value": 0.50336
+    },
+    {
+        "parroquia": "BOLIVAR",
+        "id": 6370,
+        "votos": 2,
+        "candidato": "Wray Norman",
+        "value": 0.5
+    },
+    {
+        "parroquia": "TRES CERRITOS",
+        "id": 6375,
+        "votos": 5,
+        "candidato": "Wray Norman",
+        "value": 1.567398
+    },
+    {
+        "parroquia": "PASAJE",
+        "id": 6940,
+        "votos": 3,
+        "candidato": "Wray Norman",
+        "value": 1.15
+    }
+]

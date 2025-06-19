@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "CHOBO",
+    "id": 920,
+    "votos": 5,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.53
+  },
+  {
+    "parroquia": "MARISCAL SUCRE/HUAQUES",
+    "id": 2390,
+    "votos": 7,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.25
+  },
+  {
+    "parroquia": "ROBERTO ASTUDILLO",
+    "id": 3235,
+    "votos": 22,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.54
+  },
+  {
+    "parroquia": "MILAGRO",
+    "id": 5660,
+    "votos": 525,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.49
+  }
+]

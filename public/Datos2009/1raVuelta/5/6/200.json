@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "LA MATRIZ",
+        "id": 5550,
+        "votos": 58,
+        "candidato": "Melba Jacome",
+        "value": 0.79
+    },
+    {
+        "parroquia": "EL ROSARIO",
+        "id": 5315,
+        "votos": 13,
+        "candidato": "Melba Jacome",
+        "value": 1.3
+    },
+    {
+        "parroquia": "SAN ISIDRO DE PATULU",
+        "id": 3450,
+        "votos": 9,
+        "candidato": "Melba Jacome",
+        "value": 0.47
+    },
+    {
+        "parroquia": "SAN GERARDO / PAQUICAHUAN",
+        "id": 3425,
+        "votos": 4,
+        "candidato": "Melba Jacome",
+        "value": 0.38
+    },
+    {
+        "parroquia": "SAN ANDRES",
+        "id": 3295,
+        "votos": 57,
+        "candidato": "Melba Jacome",
+        "value": 0.91
+    },
+    {
+        "parroquia": "LA PROVIDENCIA",
+        "id": 2080,
+        "votos": 3,
+        "candidato": "Melba Jacome",
+        "value": 0.89
+    },
+    {
+        "parroquia": "ILAPO",
+        "id": 1705,
+        "votos": 7,
+        "candidato": "Melba Jacome",
+        "value": 0.56
+    },
+    {
+        "parroquia": "GUANANDO",
+        "id": 1415,
+        "votos": 7,
+        "candidato": "Melba Jacome",
+        "value": 2.02
+    },
+    {
+        "parroquia": "VALPARAISO",
+        "id": 410,
+        "votos": 1,
+        "candidato": "Melba Jacome",
+        "value": 0.42
+    },
+    {
+        "parroquia": "SAN JOSE DEL CHAZO",
+        "id": 45,
+        "votos": 6,
+        "candidato": "Melba Jacome",
+        "value": 1.05
+    },
+    {
+        "parroquia": "SANTA FE DE GALAN",
+        "id": 40,
+        "votos": 3,
+        "candidato": "Melba Jacome",
+        "value": 0.57
+    }
+]

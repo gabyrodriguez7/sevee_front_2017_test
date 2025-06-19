@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "BAQUERIZO MORENO",
+    "id": 295,
+    "votos": 120,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 50.85
+  },
+  {
+    "parroquia": "EMILIO MARÍA TERÁN",
+    "id": 1210,
+    "votos": 451,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 47.83
+  },
+  {
+    "parroquia": "MARCOS ESPINEL",
+    "id": 2375,
+    "votos": 747,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 49.11
+  },
+  {
+    "parroquia": "PRESIDENTE URBINA",
+    "id": 2945,
+    "votos": 465,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 42.47
+  },
+  {
+    "parroquia": "SAN ANDRÉS",
+    "id": 3300,
+    "votos": 3280,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 44.74
+  },
+  {
+    "parroquia": "SAN JOSÉ DE POALO",
+    "id": 3485,
+    "votos": 569,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 36.64
+  },
+  {
+    "parroquia": "SAN MIGUELITO",
+    "id": 3585,
+    "votos": 1561,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 46.09
+  },
+  {
+    "parroquia": "CIUDAD NUEVA",
+    "id": 5225,
+    "votos": 465,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 44.03
+  },
+  {
+    "parroquia": "PÍLLARO",
+    "id": 5785,
+    "votos": 5206,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 48.36
+  }
+]

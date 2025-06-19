@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "BACHILLERO",
+    "id": 265,
+    "votos": 46,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.17
+  },
+  {
+    "parroquia": "ANGEL PEDRO GILER",
+    "id": 2030,
+    "votos": 52,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.82
+  },
+  {
+    "parroquia": "TOSAGUA",
+    "id": 6170,
+    "votos": 504,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.5
+  }
+]

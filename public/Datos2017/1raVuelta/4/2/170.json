@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "ASUNCIÓN",
+    "id": 170,
+    "votos": 354,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 22.45
+  },
+  {
+    "parroquia": "MAGDALENA/CHAPACOTO",
+    "id": 2315,
+    "votos": 262,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 14.36
+  },
+  {
+    "parroquia": "SAN SEBASTIÁN",
+    "id": 3655,
+    "votos": 75,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 14.45
+  },
+  {
+    "parroquia": "TELIMBELA",
+    "id": 3995,
+    "votos": 114,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 14.58
+  },
+  {
+    "parroquia": "SAN JOSÉ DE CHIMBO",
+    "id": 5975,
+    "votos": 1016,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 22.24
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "GRAL.PEDRO MONTERO",
+    "id": 1340,
+    "votos": 263,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 5.6
+  },
+  {
+    "parroquia": "VIRGEN DE FÁTIMA",
+    "id": 1915,
+    "votos": 444,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 6.39
+  },
+  {
+    "parroquia": "YAGUACHI VIEJO/CONE",
+    "id": 4275,
+    "votos": 296,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 7.29
+  },
+  {
+    "parroquia": "YAGUACHI NUEVO",
+    "id": 6285,
+    "votos": 1288,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 7.13
+  }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "parroquia": "ABDON CALDERON",
+        "id": 10,
+        "votos": 74,
+        "candidato": "Acosta Alberto",
+        "value": 0.8222
+    },
+    {
+        "parroquia": "ALHAJUELA /BAJO GRANDE",
+        "id": 50,
+        "votos": 42,
+        "candidato": "Acosta Alberto",
+        "value": 1.2382
+    },
+    {
+        "parroquia": "CRUCITA",
+        "id": 770,
+        "votos": 67,
+        "candidato": "Acosta Alberto",
+        "value": 1.0
+    },
+    {
+        "parroquia": "CHIRIJOS",
+        "id": 1925,
+        "votos": 5,
+        "candidato": "Acosta Alberto",
+        "value": 0.5051
+    },
+    {
+        "parroquia": "PUEBLO NUEVO",
+        "id": 2970,
+        "votos": 27,
+        "candidato": "Acosta Alberto",
+        "value": 1.230629
+    },
+    {
+        "parroquia": "RIO CHICO",
+        "id": 3185,
+        "votos": 77,
+        "candidato": "Acosta Alberto",
+        "value": 1.019
+    },
+    {
+        "parroquia": "SAN PLACIDO",
+        "id": 3625,
+        "votos": 54,
+        "candidato": "Acosta Alberto",
+        "value": 0.967
+    },
+    {
+        "parroquia": "ANDRES DE VERA",
+        "id": 5030,
+        "votos": 874,
+        "candidato": "Acosta Alberto",
+        "value": 1.99781
+    },
+    {
+        "parroquia": "COLON",
+        "id": 5265,
+        "votos": 123,
+        "candidato": "Acosta Alberto",
+        "value": 1.0
+    },
+    {
+        "parroquia": "12 DE MARZO",
+        "id": 5280,
+        "votos": 795,
+        "candidato": "Acosta Alberto",
+        "value": 2.8488
+    },
+    {
+        "parroquia": "PORTOVIEJO",
+        "id": 5795,
+        "votos": 502,
+        "candidato": "Acosta Alberto",
+        "value": 2.2521
+    },
+    {
+        "parroquia": "PICOAZA",
+        "id": 5845,
+        "votos": 141,
+        "candidato": "Acosta Alberto",
+        "value": 1.1479
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 6585,
+        "votos": 60,
+        "candidato": "Acosta Alberto",
+        "value": 1.3399
+    },
+    {
+        "parroquia": "18 DE OCTUBRE",
+        "id": 6770,
+        "votos": 175,
+        "candidato": "Acosta Alberto",
+        "value": 3.493
+    },
+    {
+        "parroquia": "FRANCISCO PACHECO",
+        "id": 6775,
+        "votos": 83,
+        "candidato": "Acosta Alberto",
+        "value": 2.01
+    },
+    {
+        "parroquia": "SIMON BOLIVAR",
+        "id": 6910,
+        "votos": 37,
+        "candidato": "Acosta Alberto",
+        "value": 2.458
+    }
+]

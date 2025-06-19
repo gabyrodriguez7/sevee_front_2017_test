@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "SUMAYPAMBA",
+    "id": 310,
+    "votos": 5,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.84
+  },
+  {
+    "parroquia": "EL PARAÍSO DE CELÉN",
+    "id": 1165,
+    "votos": 18,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 1.41
+  },
+  {
+    "parroquia": "EL TABLÓN",
+    "id": 1190,
+    "votos": 2,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.5
+  },
+  {
+    "parroquia": "LLUZHAPA",
+    "id": 2280,
+    "votos": 4,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.45
+  },
+  {
+    "parroquia": "MANÚ",
+    "id": 2360,
+    "votos": 12,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.69
+  },
+  {
+    "parroquia": "SAN ANTONIO DE CUMBE",
+    "id": 3340,
+    "votos": 1,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.14
+  },
+  {
+    "parroquia": "SAN PABLO DE TENTA",
+    "id": 3600,
+    "votos": 16,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.88
+  },
+  {
+    "parroquia": "SAN SEBASTIÁN DE YULOG",
+    "id": 3665,
+    "votos": 0,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0
+  },
+  {
+    "parroquia": "SELVA ALEGRE",
+    "id": 3815,
+    "votos": 10,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.92
+  },
+  {
+    "parroquia": "URDANETA/PAQUISHAPA",
+    "id": 4145,
+    "votos": 18,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.86
+  },
+  {
+    "parroquia": "SARAGURO",
+    "id": 6075,
+    "votos": 42,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.67
+  }
+]

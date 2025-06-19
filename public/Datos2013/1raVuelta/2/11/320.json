@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "COLAIZACA",
+        "id": 590,
+        "votos": 462,
+        "candidato": "Correa Delgado Rafael",
+        "value": 44.72
+    },
+    {
+        "parroquia": "EL LUCERO",
+        "id": 1230,
+        "votos": 784,
+        "candidato": "Correa Delgado Rafael",
+        "value": 61.5
+    },
+    {
+        "parroquia": "SANGUILLIN",
+        "id": 1550,
+        "votos": 260,
+        "candidato": "Correa Delgado Rafael",
+        "value": 69.15
+    },
+    {
+        "parroquia": "UTUANA",
+        "id": 4150,
+        "votos": 209,
+        "candidato": "Correa Delgado Rafael",
+        "value": 45.0
+    },
+    {
+        "parroquia": "CARIAMANGA",
+        "id": 5175,
+        "votos": 4464,
+        "candidato": "Correa Delgado Rafael",
+        "value": 41.1
+    },
+    {
+        "parroquia": "CHILE",
+        "id": 5240,
+        "votos": 709,
+        "candidato": "Correa Delgado Rafael",
+        "value": 44.0
+    },
+    {
+        "parroquia": "SAN VICENTE",
+        "id": 6025,
+        "votos": 163,
+        "candidato": "Correa Delgado Rafael",
+        "value": 41.902314
+    }
+]

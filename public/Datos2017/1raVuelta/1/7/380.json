@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "LA IBERIA",
+    "id": 245,
+    "votos": 340,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 18.63
+  },
+  {
+    "parroquia": "BARBONES",
+    "id": 300,
+    "votos": 437,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 11.63
+  },
+  {
+    "parroquia": "RÍO BONITO",
+    "id": 2050,
+    "votos": 322,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 15.85
+  },
+  {
+    "parroquia": "TENDALES",
+    "id": 4000,
+    "votos": 253,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 13.2
+  },
+  {
+    "parroquia": "EL GUABO",
+    "id": 5340,
+    "votos": 4472,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 19.81
+  }
+]

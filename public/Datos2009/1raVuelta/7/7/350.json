@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "EL CAMBIO",
+        "id": 6795,
+        "votos": 309,
+        "candidato": "Alvaro Noboa",
+        "value": 8.31
+    },
+    {
+        "parroquia": "9 DE MAYO",
+        "id": 6490,
+        "votos": 219,
+        "candidato": "Alvaro Noboa",
+        "value": 10.14
+    },
+    {
+        "parroquia": "PUERTO BOLIVAR",
+        "id": 5805,
+        "votos": 2277,
+        "candidato": "Alvaro Noboa",
+        "value": 17.05
+    },
+    {
+        "parroquia": "MACHALA",
+        "id": 5625,
+        "votos": 14536,
+        "candidato": "Alvaro Noboa",
+        "value": 14.52
+    },
+    {
+        "parroquia": "LA PROVIDENCIA",
+        "id": 5565,
+        "votos": 174,
+        "candidato": "Alvaro Noboa",
+        "value": 10.95
+    },
+    {
+        "parroquia": "EL RETIRO",
+        "id": 255,
+        "votos": 89,
+        "candidato": "Alvaro Noboa",
+        "value": 8.43
+    }
+]

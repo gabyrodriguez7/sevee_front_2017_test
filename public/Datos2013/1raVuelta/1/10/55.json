@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CAHUASQUI",
+        "id": 425,
+        "votos": 32,
+        "candidato": "Noboa Alvaro",
+        "value": 2.5
+    },
+    {
+        "parroquia": "LA MERCED DE BUENOS AIRES",
+        "id": 2060,
+        "votos": 8,
+        "candidato": "Noboa Alvaro",
+        "value": 0.77295
+    },
+    {
+        "parroquia": "PABLO ARENAS",
+        "id": 2675,
+        "votos": 39,
+        "candidato": "Noboa Alvaro",
+        "value": 2.9
+    },
+    {
+        "parroquia": "SAN BLAS",
+        "id": 3365,
+        "votos": 54,
+        "candidato": "Noboa Alvaro",
+        "value": 2.7
+    },
+    {
+        "parroquia": "TUMBABIRO",
+        "id": 4080,
+        "votos": 12,
+        "candidato": "Noboa Alvaro",
+        "value": 1.274
+    },
+    {
+        "parroquia": "URCUQUI",
+        "id": 6190,
+        "votos": 106,
+        "candidato": "Noboa Alvaro",
+        "value": 3.0
+    }
+]

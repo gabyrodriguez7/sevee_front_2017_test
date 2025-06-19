@@ -1,0 +1,93 @@
+[
+    {
+        "parroquia": "SIMON PLATA TORRES",
+        "id": 6905,
+        "votos": 4,
+        "candidato": "Melba Jacome",
+        "value": 0.95
+    },
+    {
+        "parroquia": "LUIS TELLO / LAS PALMAS /",
+        "id": 5600,
+        "votos": 88,
+        "candidato": "Melba Jacome",
+        "value": 1.64
+    },
+    {
+        "parroquia": "ESMERALDAS",
+        "id": 5335,
+        "votos": 427,
+        "candidato": "Melba Jacome",
+        "value": 1.81
+    },
+    {
+        "parroquia": "5 DE AGOSTO",
+        "id": 5210,
+        "votos": 304,
+        "candidato": "Melba Jacome",
+        "value": 1.43
+    },
+    {
+        "parroquia": "BARTOLOME RUIZ",
+        "id": 5205,
+        "votos": 250,
+        "candidato": "Melba Jacome",
+        "value": 1.79
+    },
+    {
+        "parroquia": "VUELTA LARGA",
+        "id": 4240,
+        "votos": 143,
+        "candidato": "Melba Jacome",
+        "value": 1.3
+    },
+    {
+        "parroquia": "TACHINA",
+        "id": 3940,
+        "votos": 9,
+        "candidato": "Melba Jacome",
+        "value": 0.58
+    },
+    {
+        "parroquia": "TABIAZO",
+        "id": 3930,
+        "votos": 11,
+        "candidato": "Melba Jacome",
+        "value": 1.08
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 3570,
+        "votos": 11,
+        "candidato": "Melba Jacome",
+        "value": 0.63
+    },
+    {
+        "parroquia": "MAJUA",
+        "id": 2320,
+        "votos": 10,
+        "candidato": "Melba Jacome",
+        "value": 1.67
+    },
+    {
+        "parroquia": "CHINCA",
+        "id": 895,
+        "votos": 24,
+        "candidato": "Melba Jacome",
+        "value": 2.25
+    },
+    {
+        "parroquia": "CRNL.CARLOS CONCHA TORRES",
+        "id": 655,
+        "votos": 4,
+        "candidato": "Melba Jacome",
+        "value": 0.85
+    },
+    {
+        "parroquia": "CAMARONES",
+        "id": 450,
+        "votos": 5,
+        "candidato": "Melba Jacome",
+        "value": 0.65
+    }
+]

@@ -1,0 +1,30 @@
+[
+	{
+		"parroquia": "MORASPUNGO",
+		"id": 2460,
+		"votos": 1119,
+		"candidato": "Lasso Guillermo",
+		"value": 19.847
+	},
+	{
+		"parroquia": "PINLLOPATA",
+		"id": 2890,
+		"votos": 63,
+		"candidato": "Lasso Guillermo",
+		"value": 13.0
+	},
+	{
+		"parroquia": "RAMON CAMPAÑA",
+		"id": 3155,
+		"votos": 214,
+		"candidato": "Lasso Guillermo",
+		"value": 30.7
+	},
+	{
+		"parroquia": "EL CORAZON",
+		"id": 5305,
+		"votos": 1119,
+		"candidato": "Lasso Guillermo",
+		"value": 27.39
+	}
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "BELLAVISTA",
+    "id": 320,
+    "votos": 720,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 63.16
+  },
+  {
+    "parroquia": "EL INGENIO",
+    "id": 790,
+    "votos": 701,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 70.03
+  },
+  {
+    "parroquia": "EL AIRO",
+    "id": 1645,
+    "votos": 297,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 60.86
+  },
+  {
+    "parroquia": "JIMBURA",
+    "id": 1845,
+    "votos": 460,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 40.71
+  },
+  {
+    "parroquia": "SANTA TERESITA",
+    "id": 3765,
+    "votos": 553,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 61.86
+  },
+  {
+    "parroquia": "27 DE ABRIL /LA NARANJA",
+    "id": 4460,
+    "votos": 405,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 37.6
+  },
+  {
+    "parroquia": "AMALUZA",
+    "id": 5020,
+    "votos": 1584,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 48.31
+  }
+]

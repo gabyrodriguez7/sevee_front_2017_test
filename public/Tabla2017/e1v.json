@@ -1,0 +1,324 @@
+[
+    {
+        "candidato_tabla": "MORENO GARCES LENIN BOLTAIRE",
+        "id_tabla": 11,
+        "porcentaje": 0.78,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS; PATRIA  ALTIVA I SOBERANA",
+        "prov_tabla": "ALEMANIA"
+    },
+    {
+        "candidato_tabla": "MORENO GARCES LENIN BOLTAIRE",
+        "id_tabla": 31,
+        "porcentaje": 0.13,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS; PATRIA  ALTIVA I SOBERANA",
+        "prov_tabla": "AUSTRALIA"
+    },
+    {
+        "candidato_tabla": "MORENO GARCES LENIN BOLTAIRE",
+        "id_tabla": 41,
+        "porcentaje": 0.21,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS; PATRIA  ALTIVA I SOBERANA",
+        "prov_tabla": "AUSTRIA"
+    },
+    {
+        "candidato_tabla": "MORENO GARCES LENIN BOLTAIRE",
+        "id_tabla": 51,
+        "porcentaje": 1.96,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS; PATRIA  ALTIVA I SOBERANA",
+        "prov_tabla": "BÉLGICA"
+    },
+    {
+        "candidato_tabla": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id_tabla": 101,
+        "porcentaje": 0.25,
+        "partido_pol": "ALIANZA CREO  - SUMA",
+        "prov_tabla": "REPÚBLICA DE COREA (SUR)"
+    },
+    {
+        "candidato_tabla": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id_tabla": 141,
+        "porcentaje": 0.39,
+        "partido_pol": "ALIANZA CREO  - SUMA",
+        "prov_tabla": "CHINA"
+    },
+    {
+        "candidato_tabla": "MORENO GARCES LENIN BOLTAIRE",
+        "id_tabla": 171,
+        "porcentaje": 68.36,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS; PATRIA  ALTIVA I SOBERANA",
+        "prov_tabla": "ESPAÑA"
+    },
+    {
+        "candidato_tabla": "MORENO GARCES LENIN BOLTAIRE",
+        "id_tabla": 191,
+        "porcentaje": 1.05,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS; PATRIA  ALTIVA I SOBERANA",
+        "prov_tabla": "FRANCIA"
+    },
+    {
+        "candidato_tabla": "MORENO GARCES LENIN BOLTAIRE",
+        "id_tabla": 201,
+        "porcentaje": 3.58,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS; PATRIA  ALTIVA I SOBERANA",
+        "prov_tabla": "REINO UNIDO DE GRAN BRETAÑA E IRLANDA DEL NORTE"
+    },
+    {
+        "candidato_tabla": "MORENO GARCES LENIN BOLTAIRE",
+        "id_tabla": 231,
+        "porcentaje": 0.09,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS; PATRIA  ALTIVA I SOBERANA",
+        "prov_tabla": "HUNGRÍA"
+    },
+    {
+        "candidato_tabla": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id_tabla": 242,
+        "porcentaje": 0.05,
+        "partido_pol": "ALIANZA CREO  - SUMA",
+        "prov_tabla": "INDIA"
+    },
+    {
+        "candidato_tabla": "VITERI JIMENEZ CYNTHIA FERNANDA",
+        "id_tabla": 251,
+        "porcentaje": 0.15,
+        "partido_pol": "PARTIDO SOCIAL CRISTIANO",
+        "prov_tabla": "ISRAEL"
+    },
+    {
+        "candidato_tabla": "MORENO GARCES LENIN BOLTAIRE",
+        "id_tabla": 261,
+        "porcentaje": 21.32,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS; PATRIA  ALTIVA I SOBERANA",
+        "prov_tabla": "ITALIA"
+    },
+    {
+        "candidato_tabla": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id_tabla": 271,
+        "porcentaje": 0.09,
+        "partido_pol": "ALIANZA CREO  - SUMA",
+        "prov_tabla": "JAPÓN"
+    },
+    {
+        "candidato_tabla": "MORENO GARCES LENIN BOLTAIRE",
+        "id_tabla": 301,
+        "porcentaje": 0.36,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS; PATRIA  ALTIVA I SOBERANA",
+        "prov_tabla": "PAÍSES BAJOS (HOLANDA)"
+    },
+    {
+        "candidato_tabla": "MORENO GARCES LENIN BOLTAIRE",
+        "id_tabla": 361,
+        "porcentaje": 0.52,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS; PATRIA  ALTIVA I SOBERANA",
+        "prov_tabla": "SUECIA"
+    },
+    {
+        "candidato_tabla": "MORENO GARCES LENIN BOLTAIRE",
+        "id_tabla": 371,
+        "porcentaje": 1.1,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS; PATRIA  ALTIVA I SOBERANA",
+        "prov_tabla": "SUIZA"
+    },
+    {
+        "candidato_tabla": "MORENO GARCES LENIN BOLTAIRE",
+        "id_tabla": 381,
+        "porcentaje": 0.23,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS; PATRIA  ALTIVA I SOBERANA",
+        "prov_tabla": "FEDERACIÓN DE RUSIA"
+    },
+    {
+        "candidato_tabla": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id_tabla": 411,
+        "porcentaje": 0.01,
+        "partido_pol": "ALIANZA CREO  - SUMA",
+        "prov_tabla": "INDONESIA"
+    },
+    {
+        "candidato_tabla": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id_tabla": 421,
+        "porcentaje": 0.02,
+        "partido_pol": "ALIANZA CREO  - SUMA",
+        "prov_tabla": "MALASIA"
+    },
+    {
+        "candidato_tabla": "BUCARAM PULLEY ABDALA JAIME",
+        "id_tabla": 451,
+        "porcentaje": 0.0,
+        "partido_pol": "FUERZA.EC",
+        "prov_tabla": "TURQUÍA"
+    },
+    {
+        "candidato_tabla": "MORENO GARCES LENIN BOLTAIRE",
+        "id_tabla": 461,
+        "porcentaje": 0.0,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS; PATRIA  ALTIVA I SOBERANA",
+        "prov_tabla": "IRÁN"
+    },
+    {
+        "candidato_tabla": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id_tabla": 471,
+        "porcentaje": 0.08,
+        "partido_pol": "ALIANZA CREO  - SUMA",
+        "prov_tabla": "QATAR"
+    },
+    {
+        "candidato_tabla": "VITERI JIMENEZ CYNTHIA FERNANDA",
+        "id_tabla": 491,
+        "porcentaje": 0.09,
+        "partido_pol": "PARTIDO SOCIAL CRISTIANO",
+        "prov_tabla": "BELARÚS"
+    },
+    {
+        "candidato_tabla": "MORENO GARCES LENIN BOLTAIRE",
+        "id_tabla": 81,
+        "porcentaje": 8.67,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS; PATRIA  ALTIVA I SOBERANA",
+        "prov_tabla": "CANADÁ"
+    },
+    {
+        "candidato_tabla": "MORENO GARCES LENIN BOLTAIRE",
+        "id_tabla": 181,
+        "porcentaje": 91.33,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS; PATRIA  ALTIVA I SOBERANA",
+        "prov_tabla": "ESTADOS UNIDOS DE AMÉRICA"
+    },
+    {
+        "candidato_tabla": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id_tabla": 21,
+        "porcentaje": 6.05,
+        "partido_pol": "ALIANZA CREO  - SUMA",
+        "prov_tabla": "ARGENTINA"
+    },
+    {
+        "candidato_tabla": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id_tabla": 61,
+        "porcentaje": 0.77,
+        "partido_pol": "ALIANZA CREO  - SUMA",
+        "prov_tabla": "BOLIVIA"
+    },
+    {
+        "candidato_tabla": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id_tabla": 71,
+        "porcentaje": 2.32,
+        "partido_pol": "ALIANZA CREO  - SUMA",
+        "prov_tabla": "BRASIL"
+    },
+    {
+        "candidato_tabla": "MORENO GARCES LENIN BOLTAIRE",
+        "id_tabla": 91,
+        "porcentaje": 10.91,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS; PATRIA  ALTIVA I SOBERANA",
+        "prov_tabla": "COLOMBIA"
+    },
+    {
+        "candidato_tabla": "MORENO GARCES LENIN BOLTAIRE",
+        "id_tabla": 111,
+        "porcentaje": 3.2,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS; PATRIA  ALTIVA I SOBERANA",
+        "prov_tabla": "COSTA RICA"
+    },
+    {
+        "candidato_tabla": "MORENO GARCES LENIN BOLTAIRE",
+        "id_tabla": 121,
+        "porcentaje": 2.4,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS; PATRIA  ALTIVA I SOBERANA",
+        "prov_tabla": "CUBA"
+    },
+    {
+        "candidato_tabla": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id_tabla": 131,
+        "porcentaje": 14.74,
+        "partido_pol": "ALIANZA CREO  - SUMA",
+        "prov_tabla": "CHILE"
+    },
+    {
+        "candidato_tabla": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id_tabla": 161,
+        "porcentaje": 0.31,
+        "partido_pol": "ALIANZA CREO  - SUMA",
+        "prov_tabla": "EL SALVADOR"
+    },
+    {
+        "candidato_tabla": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id_tabla": 211,
+        "porcentaje": 1.04,
+        "partido_pol": "ALIANZA CREO  - SUMA",
+        "prov_tabla": "GUATEMALA"
+    },
+    {
+        "candidato_tabla": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id_tabla": 221,
+        "porcentaje": 1.84,
+        "partido_pol": "ALIANZA CREO  - SUMA",
+        "prov_tabla": "HONDURAS"
+    },
+    {
+        "candidato_tabla": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id_tabla": 281,
+        "porcentaje": 4.67,
+        "partido_pol": "ALIANZA CREO  - SUMA",
+        "prov_tabla": "MÉXICO"
+    },
+    {
+        "candidato_tabla": "MORENO GARCES LENIN BOLTAIRE",
+        "id_tabla": 291,
+        "porcentaje": 0.29,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS; PATRIA  ALTIVA I SOBERANA",
+        "prov_tabla": "NICARAGUA"
+    },
+    {
+        "candidato_tabla": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id_tabla": 312,
+        "porcentaje": 3.73,
+        "partido_pol": "ALIANZA CREO  - SUMA",
+        "prov_tabla": "PANAMÁ"
+    },
+    {
+        "candidato_tabla": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id_tabla": 321,
+        "porcentaje": 0.53,
+        "partido_pol": "ALIANZA CREO  - SUMA",
+        "prov_tabla": "PARAGUAY"
+    },
+    {
+        "candidato_tabla": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id_tabla": 331,
+        "porcentaje": 5.95,
+        "partido_pol": "ALIANZA CREO  - SUMA",
+        "prov_tabla": "PERÚ"
+    },
+    {
+        "candidato_tabla": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id_tabla": 341,
+        "porcentaje": 0.29,
+        "partido_pol": "ALIANZA CREO  - SUMA",
+        "prov_tabla": "EGIPTO"
+    },
+    {
+        "candidato_tabla": "MORENO GARCES LENIN BOLTAIRE",
+        "id_tabla": 351,
+        "porcentaje": 1.13,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS; PATRIA  ALTIVA I SOBERANA",
+        "prov_tabla": "REPÚBLICA DOMINICANA"
+    },
+    {
+        "candidato_tabla": "MORENO GARCES LENIN BOLTAIRE",
+        "id_tabla": 391,
+        "porcentaje": 0.57,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS; PATRIA  ALTIVA I SOBERANA",
+        "prov_tabla": "URUGUAY"
+    },
+    {
+        "candidato_tabla": "MORENO GARCES LENIN BOLTAIRE",
+        "id_tabla": 401,
+        "porcentaje": 63.45,
+        "partido_pol": "MOVIMIENTO ALIANZA PAIS; PATRIA  ALTIVA I SOBERANA",
+        "prov_tabla": "VENEZUELA"
+    },
+    {
+        "candidato_tabla": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id_tabla": 441,
+        "porcentaje": 0.19,
+        "partido_pol": "ALIANZA CREO  - SUMA",
+        "prov_tabla": "SUDÁFRICA"
+    }
+]

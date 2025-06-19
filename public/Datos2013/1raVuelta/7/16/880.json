@@ -1,0 +1,16 @@
+[
+                {
+                    "parroquia": "SAN JOSE",
+                    "id": 2100,
+                    "votos": 5,
+                    "candidato": "Zavala Nelson",
+                    "value": 1.0
+                },
+                {
+                    "parroquia": "SANTA CLARA",
+                    "id": 6395,
+                    "votos": 12,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.5
+                }
+            ]

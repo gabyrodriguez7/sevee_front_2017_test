@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "ANTONIO J. HOLGUÍN",
+    "id": 135,
+    "votos": 795,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 42.81
+  },
+  {
+    "parroquia": "CUSUBAMBA",
+    "id": 745,
+    "votos": 2092,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 44.55
+  },
+  {
+    "parroquia": "MULALILLO",
+    "id": 2475,
+    "votos": 1608,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 34.88
+  },
+  {
+    "parroquia": "MULLIQUINDIL",
+    "id": 2490,
+    "votos": 1981,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 40.96
+  },
+  {
+    "parroquia": "PANZALEO",
+    "id": 2760,
+    "votos": 1073,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 47.69
+  },
+  {
+    "parroquia": "SAN MIGUEL DE SALCEDO",
+    "id": 6000,
+    "votos": 9638,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 39.25
+  }
+]

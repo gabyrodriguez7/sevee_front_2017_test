@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "LLIGUA",
+    "id": 2270,
+    "votos": 1,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.33
+  },
+  {
+    "parroquia": "RÍO NEGRO",
+    "id": 3190,
+    "votos": 3,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.38
+  },
+  {
+    "parroquia": "RÍO VERDE",
+    "id": 3200,
+    "votos": 6,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.72
+  },
+  {
+    "parroquia": "ULBA",
+    "id": 4135,
+    "votos": 10,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.81
+  },
+  {
+    "parroquia": "BAñOS",
+    "id": 5105,
+    "votos": 71,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.62
+  }
+]

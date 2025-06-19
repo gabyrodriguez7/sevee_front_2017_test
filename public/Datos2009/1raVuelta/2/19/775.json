@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "EL PANGUI",
+        "id": 6355,
+        "votos": 17,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.66
+    },
+    {
+        "parroquia": "PACHICUTZA",
+        "id": 1015,
+        "votos": 4,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.92
+    },
+    {
+        "parroquia": "TUNDAYME",
+        "id": 945,
+        "votos": 0,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.0
+    },
+    {
+        "parroquia": "EL GUISMI",
+        "id": 665,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.57
+    }
+]

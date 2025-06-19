@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "PAJAN",
+        "id": 5755,
+        "votos": 5532,
+        "candidato": "Rafael Correa Delgado",
+        "value": 44.62
+    },
+    {
+        "parroquia": "LASCANO",
+        "id": 2090,
+        "votos": 713,
+        "candidato": "Rafael Correa Delgado",
+        "value": 48.5
+    },
+    {
+        "parroquia": "GUALE/STO.DOMINGO",
+        "id": 1395,
+        "votos": 1448,
+        "candidato": "Rafael Correa Delgado",
+        "value": 59.03
+    },
+    {
+        "parroquia": "CASCOL",
+        "id": 540,
+        "votos": 2053,
+        "candidato": "Rafael Correa Delgado",
+        "value": 51.03
+    },
+    {
+        "parroquia": "CAMPOZANO",
+        "id": 460,
+        "votos": 1071,
+        "candidato": "Rafael Correa Delgado",
+        "value": 44.22
+    }
+]

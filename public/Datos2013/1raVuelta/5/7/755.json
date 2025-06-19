@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 1075,
+        "votos": 41,
+        "candidato": "Gutierrez Lucio",
+        "value": 12.0588235
+    },
+    {
+        "parroquia": "EL PARAISO",
+        "id": 1080,
+        "votos": 19,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.4
+    },
+    {
+        "parroquia": "LA LIBERTAD",
+        "id": 1100,
+        "votos": 17,
+        "candidato": "Gutierrez Lucio",
+        "value": 3.25048
+    },
+    {
+        "parroquia": "LA VICTORIA/LAS LAJAS",
+        "id": 6335,
+        "votos": 100,
+        "candidato": "Gutierrez Lucio",
+        "value": 5.1
+    },
+    {
+        "parroquia": "PLATANILLOS",
+        "id": 6950,
+        "votos": 6,
+        "candidato": "Gutierrez Lucio",
+        "value": 1.7
+    }
+]

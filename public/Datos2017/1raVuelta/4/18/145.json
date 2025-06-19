@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "BAQUERIZO MORENO",
+    "id": 295,
+    "votos": 28,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.86
+  },
+  {
+    "parroquia": "EMILIO MARÍA TERÁN",
+    "id": 1210,
+    "votos": 110,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.66
+  },
+  {
+    "parroquia": "MARCOS ESPINEL",
+    "id": 2375,
+    "votos": 165,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.85
+  },
+  {
+    "parroquia": "PRESIDENTE URBINA",
+    "id": 2945,
+    "votos": 134,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.24
+  },
+  {
+    "parroquia": "SAN ANDRÉS",
+    "id": 3300,
+    "votos": 707,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.64
+  },
+  {
+    "parroquia": "SAN JOSÉ DE POALO",
+    "id": 3485,
+    "votos": 159,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.24
+  },
+  {
+    "parroquia": "SAN MIGUELITO",
+    "id": 3585,
+    "votos": 421,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.43
+  },
+  {
+    "parroquia": "CIUDAD NUEVA",
+    "id": 5225,
+    "votos": 159,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 15.06
+  },
+  {
+    "parroquia": "PÍLLARO",
+    "id": 5785,
+    "votos": 1482,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.77
+  }
+]

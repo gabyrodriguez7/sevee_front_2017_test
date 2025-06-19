@@ -1,0 +1,763 @@
+[
+    {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "ALVARO NOBOA",
+        "id": "11",
+        "votos": 147,
+        "votos1": 89,
+        "votos2": 20,
+        "fill": "#02C01C",
+        "porcentaje1": "(60.54%)",
+        "porcentaje2": "(13.61%)",
+        "aux": "votos"
+      },
+      {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "ALVARO NOBOA",
+        "id": "31",
+        "votos": 41,
+        "votos1": 27,
+        "votos2": 6,
+        "fill": "#02C01C",
+        "porcentaje1": "(65.85%)",
+        "porcentaje2": "(14.63%)",
+        "aux": "votos"
+      },
+      {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "ALVARO NOBOA",
+        "id": "41",
+        "votos": 97,
+        "votos1": 67,
+        "votos2": 11,
+        "fill": "#02C01C",
+        "porcentaje1": "(69.07%)",
+        "porcentaje2": "(11.34%)",
+        "aux": "votos"
+      },
+      {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "ALVARO NOBOA",
+        "id": "51",
+        "votos": 388,
+        "votos1": 309,
+        "votos2": 26,
+        "fill": "#02C01C",
+        "porcentaje1": "(79.64%)",
+        "porcentaje2": "(6.7%)",
+        "aux": "votos"
+      },
+      {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "ALVARO NOBOA",
+        "id": "101",
+        "votos": 6,
+        "votos1": 3,
+        "votos2": 2,
+        "fill": "#02C01C",
+        "porcentaje1": "(50.0%)",
+        "porcentaje2": "(33.33%)",
+        "aux": "votos"
+      },
+      {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "MARTHA ROLDOS BUCARAM",
+        "id": "141",
+        "votos": 27,
+        "votos1": 16,
+        "votos2": 5,
+        "fill": "#02C01C",
+        "porcentaje1": "(59.26%)",
+        "porcentaje2": "(18.52%)",
+        "aux": "votos"
+      },
+      {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "ALVARO NOBOA",
+        "id": "171",
+        "votos": 34572,
+        "votos1": 22320,
+        "votos2": 6095,
+        "fill": "#02C01C",
+        "porcentaje1": "(64.56%)",
+        "porcentaje2": "(17.63%)",
+        "aux": "votos"
+      },
+      {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "ALVARO NOBOA",
+        "id": "191",
+        "votos": 264,
+        "votos1": 165,
+        "votos2": 39,
+        "fill": "#02C01C",
+        "porcentaje1": "(62.5%)",
+        "porcentaje2": "(14.77%)",
+        "aux": "votos"
+      },
+      {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "ALVARO NOBOA",
+        "id": "201",
+        "votos": 426,
+        "votos1": 322,
+        "votos2": 37,
+        "fill": "#02C01C",
+        "porcentaje1": "(75.59%)",
+        "porcentaje2": "(8.69%)",
+        "aux": "votos"
+      },
+      {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "MARTHA ROLDOS BUCARAM",
+        "id": "231",
+        "votos": 23,
+        "votos1": 14,
+        "votos2": 3,
+        "fill": "#02C01C",
+        "porcentaje1": "(60.87%)",
+        "porcentaje2": "(13.04%)",
+        "aux": "votos"
+      },
+      {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "ALVARO NOBOA",
+        "id": "242",
+        "votos": 13,
+        "votos1": 5,
+        "votos2": 3,
+        "fill": "#02C01C",
+        "porcentaje1": "(38.46%)",
+        "porcentaje2": "(23.08%)",
+        "aux": "votos"
+      },
+      {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "ALVARO NOBOA",
+        "id": "251",
+        "votos": 29,
+        "votos1": 14,
+        "votos2": 7,
+        "fill": "#02C01C",
+        "porcentaje1": "(48.28%)",
+        "porcentaje2": "(24.14%)",
+        "aux": "votos"
+      },
+      {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "ALVARO NOBOA",
+        "id": "261",
+        "votos": 10245,
+        "votos1": 5545,
+        "votos2": 2082,
+        "fill": "#02C01C",
+        "porcentaje1": "(54.12%)",
+        "porcentaje2": "(20.32%)",
+        "aux": "votos"
+      },
+      {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "ALVARO NOBOA",
+        "id": "271",
+        "votos": 8,
+        "votos1": 6,
+        "votos2": 1,
+        "fill": "#02C01C",
+        "porcentaje1": "(75.0%)",
+        "porcentaje2": "(12.5%)",
+        "aux": "votos"
+      },
+      {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "LUCIO GUTIERREZ",
+        "id": "301",
+        "votos": 52,
+        "votos1": 28,
+        "votos2": 12,
+        "fill": "#02C01C",
+        "porcentaje1": "(53.85%)",
+        "porcentaje2": "(23.08%)",
+        "aux": "votos"
+      },
+      {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "ALVARO NOBOA",
+        "id": "361",
+        "votos": 119,
+        "votos1": 84,
+        "votos2": 17,
+        "fill": "#02C01C",
+        "porcentaje1": "(70.59%)",
+        "porcentaje2": "(14.29%)",
+        "aux": "votos"
+      },
+      {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "ALVARO NOBOA",
+        "id": "371",
+        "votos": 359,
+        "votos1": 262,
+        "votos2": 35,
+        "fill": "#02C01C",
+        "porcentaje1": "(72.98%)",
+        "porcentaje2": "(9.75%)",
+        "aux": "votos"
+      },
+      {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "LUCIO GUTIERREZ",
+        "id": "381",
+        "votos": 110,
+        "votos1": 87,
+        "votos2": 10,
+        "fill": "#02C01C",
+        "porcentaje1": "(79.09%)",
+        "porcentaje2": "(9.09%)",
+        "aux": "votos"
+      },
+      {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "ALVARO NOBOA",
+        "id": "411",
+        "votos": 6,
+        "votos1": 3,
+        "votos2": 2,
+        "fill": "#02C01C",
+        "porcentaje1": "(50.0%)",
+        "porcentaje2": "(33.33%)",
+        "aux": "votos"
+      },
+      {
+        "candidato1": "MARTHA ROLDOS BUCARAM",
+        "candidato2": "RAFAEL CORREA DELGADO",
+        "id": "421",
+        "votos": 5,
+        "votos1": 3,
+        "votos2": 2,
+        "fill": "#ff4200",
+        "porcentaje1": "(60.0%)",
+        "porcentaje2": "(40.0%)",
+        "aux": "votos"
+      },
+      {
+        "candidato1": "LUCIO GUTIERREZ",
+        "candidato2": "RAFAEL CORREA DELGADO",
+        "id": "431",
+        "votos": 13,
+        "votos1": 5,
+        "votos2": 3,
+        "fill": "#455709",
+        "porcentaje1": "(38.46%)",
+        "porcentaje2": "(23.08%)",
+        "aux": "votos"
+      },
+      {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "ALVARO NOBOA",
+        "id": "81",
+        "votos": 1083,
+        "votos1": 743,
+        "votos2": 139,
+        "fill": "#02C01C",
+        "porcentaje1": "(68.61%)",
+        "porcentaje2": "(12.83%)",
+        "aux": "votos"
+      },
+      {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "LUCIO GUTIERREZ",
+        "id": "181",
+        "votos": 11530,
+        "votos1": 7290,
+        "votos2": 1642,
+        "fill": "#02C01C",
+        "porcentaje1": "(63.23%)",
+        "porcentaje2": "(14.24%)",
+        "aux": "votos"
+      },
+      {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "ALVARO NOBOA",
+        "id": "21",
+        "votos": 441,
+        "votos1": 253,
+        "votos2": 64,
+        "fill": "#02C01C",
+        "porcentaje1": "(57.37%)",
+        "porcentaje2": "(14.51%)",
+        "aux": "votos"
+      },
+      {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "LUCIO GUTIERREZ",
+        "id": "61",
+        "votos": 54,
+        "votos1": 23,
+        "votos2": 14,
+        "fill": "#02C01C",
+        "porcentaje1": "(42.59%)",
+        "porcentaje2": "(25.93%)",
+        "aux": "votos"
+      },
+      {
+        "candidato1": "LUCIO GUTIERREZ",
+        "candidato2": "ALVARO NOBOA",
+        "id": "71",
+        "votos": 33,
+        "votos1": 11,
+        "votos2": 10,
+        "fill": "#455709",
+        "porcentaje1": "(33.33%)",
+        "porcentaje2": "(30.3%)",
+        "aux": "votos"
+      },
+      {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "LUCIO GUTIERREZ",
+        "id": "91",
+        "votos": 356,
+        "votos1": 134,
+        "votos2": 112,
+        "fill": "#02C01C",
+        "porcentaje1": "(37.64%)",
+        "porcentaje2": "(31.46%)",
+        "aux": "votos"
+      },
+      {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "LUCIO GUTIERREZ",
+        "id": "111",
+        "votos": 93,
+        "votos1": 52,
+        "votos2": 19,
+        "fill": "#02C01C",
+        "porcentaje1": "(55.91%)",
+        "porcentaje2": "(20.43%)",
+        "aux": "votos"
+      },
+      {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "LUCIO GUTIERREZ",
+        "id": "121",
+        "votos": 1471,
+        "votos1": 1333,
+        "votos2": 41,
+        "fill": "#02C01C",
+        "porcentaje1": "(90.62%)",
+        "porcentaje2": "(2.79%)",
+        "aux": "votos"
+      },
+      {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "ALVARO NOBOA",
+        "id": "131",
+        "votos": 1468,
+        "votos1": 799,
+        "votos2": 346,
+        "fill": "#02C01C",
+        "porcentaje1": "(54.43%)",
+        "porcentaje2": "(23.57%)",
+        "aux": "votos"
+      },
+      {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "ALVARO NOBOA",
+        "id": "161",
+        "votos": 27,
+        "votos1": 20,
+        "votos2": 6,
+        "fill": "#02C01C",
+        "porcentaje1": "(74.07%)",
+        "porcentaje2": "(22.22%)",
+        "aux": "votos"
+      },
+      {
+        "candidato1": "ALVARO NOBOA",
+        "candidato2": "LUCIO GUTIERREZ",
+        "id": "211",
+        "votos": 30,
+        "votos1": 12,
+        "votos2": 7,
+        "fill": "#CACE03",
+        "porcentaje1": "(40.0%)",
+        "porcentaje2": "(23.33%)",
+        "aux": "votos"
+      },
+      {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "ALVARO NOBOA",
+        "id": "221",
+        "votos": 66,
+        "votos1": 29,
+        "votos2": 19,
+        "fill": "#02C01C",
+        "porcentaje1": "(43.94%)",
+        "porcentaje2": "(28.79%)",
+        "aux": "votos"
+      },
+      {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "LUCIO GUTIERREZ",
+        "id": "281",
+        "votos": 112,
+        "votos1": 49,
+        "votos2": 25,
+        "fill": "#02C01C",
+        "porcentaje1": "(43.75%)",
+        "porcentaje2": "(22.32%)",
+        "aux": "votos"
+      },
+      {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "LUCIO GUTIERREZ",
+        "id": "291",
+        "votos": 26,
+        "votos1": 18,
+        "votos2": 3,
+        "fill": "#02C01C",
+        "porcentaje1": "(69.23%)",
+        "porcentaje2": "(11.54%)",
+        "aux": "votos"
+      },
+      {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "LUCIO GUTIERREZ",
+        "id": "312",
+        "votos": 82,
+        "votos1": 28,
+        "votos2": 23,
+        "fill": "#02C01C",
+        "porcentaje1": "(34.15%)",
+        "porcentaje2": "(28.05%)",
+        "aux": "votos"
+      },
+      {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "ALVARO NOBOA",
+        "id": "321",
+        "votos": 15,
+        "votos1": 10,
+        "votos2": 3,
+        "fill": "#02C01C",
+        "porcentaje1": "(66.67%)",
+        "porcentaje2": "(20.0%)",
+        "aux": "votos"
+      },
+      {
+        "candidato1": "LUCIO GUTIERREZ",
+        "candidato2": "ALVARO NOBOA",
+        "id": "331",
+        "votos": 256,
+        "votos1": 87,
+        "votos2": 66,
+        "fill": "#455709",
+        "porcentaje1": "(33.98%)",
+        "porcentaje2": "(25.78%)",
+        "aux": "votos"
+      },
+      {
+        "candidato1": "LUCIO GUTIERREZ",
+        "candidato2": "RAFAEL CORREA DELGADO",
+        "id": "341",
+        "votos": 10,
+        "votos1": 6,
+        "votos2": 3,
+        "fill": "#455709",
+        "porcentaje1": "(60.0%)",
+        "porcentaje2": "(30.0%)",
+        "aux": "votos"
+      },
+      {
+        "candidato1": "RAFAEL CORREA DELGADO",
+        "candidato2": "LUCIO GUTIERREZ",
+        "id": "351",
+        "votos": 74,
+        "votos1": 52,
+        "votos2": 10,
+        "fill": "#02C01C",
+        "porcentaje1": "(70.27%)",
+        "porcentaje2": "(13.51%)",
+        "aux": "votos"
+      },
+      {
+        "candidato1": "LUCIO GUTIERREZ",
+        "candidato2": "CARLOS GONZALEZ ALBORNOZ",
+        "id": "391",
+        "votos": 50,
+        "votos1": 25,
+        "votos2": 15,
+        "fill": "#455709",
+        "porcentaje1": "(50.0%)",
+        "porcentaje2": "(30.0%)",
+        "aux": "votos"
+      },
+      {
+        "candidato1": "LUCIO GUTIERREZ",
+        "candidato2": "CARLOS GONZALEZ ALBORNOZ",
+        "id": "401",
+        "votos": 6789,
+        "votos1": 3449,
+        "votos2": 2034,
+        "fill": "#455709",
+        "porcentaje1": "(50.8%)",
+        "porcentaje2": "(29.96%)",
+        "aux": "votos"
+      },
+    {
+        "id": "EC",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "SR",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "PR",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "NI",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "JM",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "HT",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "GY",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "GF",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "BZ",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "YE",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "VN",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "UZ",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "UA",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "TM",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "TH",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "SY",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "SG",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "RS",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "RO",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "CZ",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "PT",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "PL",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "PS",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "PK",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "OM",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "NO",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "MM",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "ME",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "RO",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "MN",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "MY",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "MK",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "LU",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "LT",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "LB",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "LV",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "LA",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "KW",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "KG",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "KZ",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "JO",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "JE",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "IE",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "IR",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "IQ",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "FI",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "PH",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "EE",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "SI",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "SK",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "AE",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "DK",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "HR",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "KP",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "KH",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "BA",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "AZ",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "AM",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "SA",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "AL",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "AF",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "MD",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "GR",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "BY",
+        "fill": "#ced4da"
+    }
+
+]

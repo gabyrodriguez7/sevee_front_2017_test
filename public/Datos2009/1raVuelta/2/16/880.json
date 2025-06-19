@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SANTA CLARA",
+        "id": 6395,
+        "votos": 21,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.12
+    },
+    {
+        "parroquia": "SAN JOSE",
+        "id": 2100,
+        "votos": 6,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.4
+    }
+]

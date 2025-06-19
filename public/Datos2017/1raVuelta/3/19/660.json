@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "CHITO",
+    "id": 915,
+    "votos": 243,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 33.06
+  },
+  {
+    "parroquia": "EL CHORRO",
+    "id": 1145,
+    "votos": 67,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 27.24
+  },
+  {
+    "parroquia": "LA CHONTA",
+    "id": 2015,
+    "votos": 57,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 30.32
+  },
+  {
+    "parroquia": "SAN ANDRÉS",
+    "id": 2110,
+    "votos": 161,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 48.49
+  },
+  {
+    "parroquia": "PUCAPAMBA",
+    "id": 2955,
+    "votos": 48,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 42.86
+  },
+  {
+    "parroquia": "ZUMBA",
+    "id": 6315,
+    "votos": 1283,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 32.01
+  }
+]

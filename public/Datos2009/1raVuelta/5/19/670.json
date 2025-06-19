@@ -1,0 +1,23 @@
+[
+                {
+                    "parroquia": "YANZATZA",
+                    "id": 6295,
+                    "votos": 25,
+                    "candidato": "Melba Jacome",
+                    "value": 0.41
+                },
+                {
+                    "parroquia": "LOS ENCUENTROS",
+                    "id": 2240,
+                    "votos": 6,
+                    "candidato": "Melba Jacome",
+                    "value": 0.52
+                },
+                {
+                    "parroquia": "CHICANA",
+                    "id": 985,
+                    "votos": 13,
+                    "candidato": "Melba Jacome",
+                    "value": 1.62
+                }
+            ]

@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "ZAPOTAL",
+    "id": 4330,
+    "votos": 91,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 2.07
+  },
+  {
+    "parroquia": "LOS ÁNGELES",
+    "id": 4585,
+    "votos": 14,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.82
+  },
+  {
+    "parroquia": "CHACARITA",
+    "id": 4590,
+    "votos": 16,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 2.12
+  },
+  {
+    "parroquia": "VENTANAS",
+    "id": 6235,
+    "votos": 576,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.71
+  },
+  {
+    "parroquia": "10 DE NOVIEMBRE",
+    "id": 7480,
+    "votos": 13,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.06
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "SAN CARLOS",
+    "id": 415,
+    "votos": 274,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 13.44
+  },
+  {
+    "parroquia": "ENOKANQUI",
+    "id": 490,
+    "votos": 213,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 14.02
+  },
+  {
+    "parroquia": "RUMIPAMBA",
+    "id": 1950,
+    "votos": 98,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 13.55
+  },
+  {
+    "parroquia": "TRES DE NOVIEMBRE",
+    "id": 1955,
+    "votos": 320,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 17.54
+  },
+  {
+    "parroquia": "LAGO SAN PEDRO",
+    "id": 1960,
+    "votos": 245,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 20.48
+  },
+  {
+    "parroquia": "UNIÓN MILAGREÑA",
+    "id": 1965,
+    "votos": 266,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 15.25
+  },
+  {
+    "parroquia": "POMPEYA",
+    "id": 2930,
+    "votos": 171,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 31.78
+  },
+  {
+    "parroquia": "SAN SEBASTIÁN DE COCA",
+    "id": 3660,
+    "votos": 249,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 11.12
+  },
+  {
+    "parroquia": "LA JOYA DE LOS SACHAS",
+    "id": 6200,
+    "votos": 1477,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 12.01
+  }
+]

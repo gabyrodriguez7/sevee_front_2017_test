@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "SANTA RITA",
+    "id": 6055,
+    "votos": 115,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.71
+  },
+  {
+    "parroquia": "CHONE",
+    "id": 5250,
+    "votos": 803,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.31
+  },
+  {
+    "parroquia": "SAN ANTONIO / DEL PELUDO",
+    "id": 3350,
+    "votos": 61,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.76
+  },
+  {
+    "parroquia": "RICAURTE",
+    "id": 3170,
+    "votos": 32,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.54
+  },
+  {
+    "parroquia": "ELOY ALFARO",
+    "id": 1160,
+    "votos": 18,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.05
+  },
+  {
+    "parroquia": "CONVENTO",
+    "id": 640,
+    "votos": 23,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 0.94
+  },
+  {
+    "parroquia": "CANUTO",
+    "id": 495,
+    "votos": 101,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.0
+  },
+  {
+    "parroquia": "CHIBUNGA",
+    "id": 405,
+    "votos": 32,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.69
+  },
+  {
+    "parroquia": "BOYACA",
+    "id": 380,
+    "votos": 65,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 3.65
+  }
+]

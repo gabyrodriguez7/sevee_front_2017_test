@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "27 DE SEPTIEMBRE",
+        "id": 6250,
+        "votos": 4,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.54
+    },
+    {
+        "parroquia": "EL ANGEL",
+        "id": 5295,
+        "votos": 30,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.99
+    },
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 3435,
+        "votos": 10,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.5
+    },
+    {
+        "parroquia": "LA LIBERTAD",
+        "id": 2040,
+        "votos": 19,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.84
+    },
+    {
+        "parroquia": "EL GOALTAL / LAS JUNTAS",
+        "id": 1150,
+        "votos": 0,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.0
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "PAQUISHA",
+        "id": 6885,
+        "votos": 461,
+        "candidato": "Rafael Correa Delgado",
+        "value": 44.5
+    },
+    {
+        "parroquia": "NUEVO QUITO",
+        "id": 1120,
+        "votos": 214,
+        "candidato": "Rafael Correa Delgado",
+        "value": 43.5
+    },
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 455,
+        "votos": 99,
+        "candidato": "Rafael Correa Delgado",
+        "value": 49.75
+    }
+]

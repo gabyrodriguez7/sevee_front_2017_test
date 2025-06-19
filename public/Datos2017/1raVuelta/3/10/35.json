@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "DR MIGUEL EGAS/PEGUCHE",
+    "id": 1040,
+    "votos": 2249,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 59.96
+  },
+  {
+    "parroquia": "EUGENIO ESPEJO",
+    "id": 1215,
+    "votos": 2277,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 53.61
+  },
+  {
+    "parroquia": "GONZALEZ SÚAREZ",
+    "id": 1360,
+    "votos": 1827,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 46.99
+  },
+  {
+    "parroquia": "PATAQUI",
+    "id": 2785,
+    "votos": 130,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 45.61
+  },
+  {
+    "parroquia": "SAN JOSÉ DE QUICHINCHE",
+    "id": 3490,
+    "votos": 2001,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 42.3
+  },
+  {
+    "parroquia": "SAN JUAN DE ILUMÁN",
+    "id": 3525,
+    "votos": 1928,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 40.55
+  },
+  {
+    "parroquia": "SAN PABLO",
+    "id": 3590,
+    "votos": 2481,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 38.12
+  },
+  {
+    "parroquia": "SAN RAFAEL",
+    "id": 3630,
+    "votos": 1569,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 51.41
+  },
+  {
+    "parroquia": "SELVA ALEGRE",
+    "id": 3810,
+    "votos": 539,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 48.08
+  },
+  {
+    "parroquia": "JORDÁN",
+    "id": 5490,
+    "votos": 9173,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 42.68
+  },
+  {
+    "parroquia": "SAN LUIS",
+    "id": 5980,
+    "votos": 6012,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 43.33
+  }
+]

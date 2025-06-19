@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "INDANZA",
+    "id": 1720,
+    "votos": 94,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.2
+  },
+  {
+    "parroquia": "SAN MIGUEL DE CONCHAY",
+    "id": 3250,
+    "votos": 17,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.67
+  },
+  {
+    "parroquia": "SAN ANTONIO",
+    "id": 3320,
+    "votos": 59,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.64
+  },
+  {
+    "parroquia": "SANTA SUSANA DE CHIVIAZA",
+    "id": 3760,
+    "votos": 37,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.87
+  },
+  {
+    "parroquia": "YUNGANZA /EL ROSARIO",
+    "id": 4305,
+    "votos": 52,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.72
+  },
+  {
+    "parroquia": "GRAL. LEONIDAS PLAZA",
+    "id": 5390,
+    "votos": 538,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 17.11
+  }
+]

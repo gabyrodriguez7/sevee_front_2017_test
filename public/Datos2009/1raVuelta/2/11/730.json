@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "PINDAL /FEDERICO PAEZ",
+        "id": 5810,
+        "votos": 12,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.39
+    },
+    {
+        "parroquia": "12 DE DICIEMBRE",
+        "id": 1035,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.47
+    },
+    {
+        "parroquia": "CHAQUINAL",
+        "id": 835,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.19
+    }
+]

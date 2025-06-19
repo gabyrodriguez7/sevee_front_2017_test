@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "NUEVA LOJA",
+        "id": 5710,
+        "votos": 111,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.42
+    },
+    {
+        "parroquia": "JAMBELI",
+        "id": 1795,
+        "votos": 4,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.54
+    },
+    {
+        "parroquia": "SANTA CECILIA",
+        "id": 1790,
+        "votos": 2,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.15
+    },
+    {
+        "parroquia": "GENERAL FARFAN",
+        "id": 1330,
+        "votos": 6,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.5
+    },
+    {
+        "parroquia": "PACAYACU",
+        "id": 1290,
+        "votos": 10,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.42
+    },
+    {
+        "parroquia": "EL ENO",
+        "id": 1285,
+        "votos": 8,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.39
+    },
+    {
+        "parroquia": "DURENO",
+        "id": 1045,
+        "votos": 6,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.48
+    }
+]

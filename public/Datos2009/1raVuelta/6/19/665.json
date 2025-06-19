@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "28 DE MAYO",
+    "id": 6215,
+    "votos": 21,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.52
+  },
+  {
+    "parroquia": "TUTUPALI",
+    "id": 4105,
+    "votos": 5,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 2.12
+  },
+  {
+    "parroquia": "LA PAZ",
+    "id": 2070,
+    "votos": 8,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.18
+  }
+]

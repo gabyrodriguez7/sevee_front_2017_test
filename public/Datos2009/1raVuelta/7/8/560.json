@@ -1,0 +1,93 @@
+[
+    {
+        "parroquia": "SIMON PLATA TORRES",
+        "id": 6905,
+        "votos": 69,
+        "candidato": "Alvaro Noboa",
+        "value": 16.5
+    },
+    {
+        "parroquia": "LUIS TELLO / LAS PALMAS /",
+        "id": 5600,
+        "votos": 1696,
+        "candidato": "Alvaro Noboa",
+        "value": 31.7
+    },
+    {
+        "parroquia": "ESMERALDAS",
+        "id": 5335,
+        "votos": 6270,
+        "candidato": "Alvaro Noboa",
+        "value": 26.62
+    },
+    {
+        "parroquia": "5 DE AGOSTO",
+        "id": 5210,
+        "votos": 4931,
+        "candidato": "Alvaro Noboa",
+        "value": 23.24
+    },
+    {
+        "parroquia": "BARTOLOME RUIZ",
+        "id": 5205,
+        "votos": 3752,
+        "candidato": "Alvaro Noboa",
+        "value": 26.92
+    },
+    {
+        "parroquia": "VUELTA LARGA",
+        "id": 4240,
+        "votos": 2766,
+        "candidato": "Alvaro Noboa",
+        "value": 25.23
+    },
+    {
+        "parroquia": "TACHINA",
+        "id": 3940,
+        "votos": 214,
+        "candidato": "Alvaro Noboa",
+        "value": 13.83
+    },
+    {
+        "parroquia": "TABIAZO",
+        "id": 3930,
+        "votos": 307,
+        "candidato": "Alvaro Noboa",
+        "value": 30.36
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 3570,
+        "votos": 472,
+        "candidato": "Alvaro Noboa",
+        "value": 27.33
+    },
+    {
+        "parroquia": "MAJUA",
+        "id": 2320,
+        "votos": 88,
+        "candidato": "Alvaro Noboa",
+        "value": 14.71
+    },
+    {
+        "parroquia": "CHINCA",
+        "id": 895,
+        "votos": 245,
+        "candidato": "Alvaro Noboa",
+        "value": 23.06
+    },
+    {
+        "parroquia": "CRNL.CARLOS CONCHA TORRES",
+        "id": 655,
+        "votos": 110,
+        "candidato": "Alvaro Noboa",
+        "value": 23.6
+    },
+    {
+        "parroquia": "CAMARONES",
+        "id": 450,
+        "votos": 123,
+        "candidato": "Alvaro Noboa",
+        "value": 16.22
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "EL LIMON",
+        "id": 6840,
+        "votos": 105,
+        "candidato": "Rafael Correa Delgado",
+        "value": 41.67
+    },
+    {
+        "parroquia": "ZAMORA",
+        "id": 6305,
+        "votos": 2826,
+        "candidato": "Rafael Correa Delgado",
+        "value": 41.44
+    },
+    {
+        "parroquia": "TIMBARA",
+        "id": 4010,
+        "votos": 263,
+        "candidato": "Rafael Correa Delgado",
+        "value": 43.11
+    },
+    {
+        "parroquia": "SABANILLA",
+        "id": 3260,
+        "votos": 85,
+        "candidato": "Rafael Correa Delgado",
+        "value": 33.6
+    },
+    {
+        "parroquia": "LA VICTORIA DE IMBANA",
+        "id": 2155,
+        "votos": 228,
+        "candidato": "Rafael Correa Delgado",
+        "value": 56.3
+    },
+    {
+        "parroquia": "SAN CARLOS DE LAS MINAS",
+        "id": 1770,
+        "votos": 413,
+        "candidato": "Rafael Correa Delgado",
+        "value": 51.63
+    },
+    {
+        "parroquia": "GUADALUPE",
+        "id": 1390,
+        "votos": 637,
+        "candidato": "Rafael Correa Delgado",
+        "value": 53.31
+    },
+    {
+        "parroquia": "CUMBARATZA",
+        "id": 720,
+        "votos": 789,
+        "candidato": "Rafael Correa Delgado",
+        "value": 46.8
+    }
+]

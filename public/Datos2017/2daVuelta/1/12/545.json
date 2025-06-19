@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "ZAPOTAL",
+    "id": 4330,
+    "votos": 1687,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 34.75
+  },
+  {
+    "parroquia": "LOS ÁNGELES",
+    "id": 4585,
+    "votos": 387,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 45.85
+  },
+  {
+    "parroquia": "CHACARITA",
+    "id": 4590,
+    "votos": 459,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 53
+  },
+  {
+    "parroquia": "VENTANAS",
+    "id": 6235,
+    "votos": 16796,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 46.76
+  },
+  {
+    "parroquia": "10 DE NOVIEMBRE",
+    "id": 7480,
+    "votos": 488,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 37.05
+  }
+]

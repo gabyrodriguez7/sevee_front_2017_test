@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "MIRA",
+    "id": 5685,
+    "votos": 403,
+    "candidato": "Lucio Gutierrez",
+    "value": 10.56
+  },
+  {
+    "parroquia": "LA CONCEPCION",
+    "id": 2010,
+    "votos": 140,
+    "candidato": "Lucio Gutierrez",
+    "value": 9.42
+  },
+  {
+    "parroquia": "JUAN MONTALVO",
+    "id": 1875,
+    "votos": 63,
+    "candidato": "Lucio Gutierrez",
+    "value": 9.17
+  },
+  {
+    "parroquia": "JIJON Y CAAMAÑO",
+    "id": 1835,
+    "votos": 95,
+    "candidato": "Lucio Gutierrez",
+    "value": 11.65
+  }
+]

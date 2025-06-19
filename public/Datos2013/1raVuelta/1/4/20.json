@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "JIJON Y CAAMA�O",
+        "id": 1835,
+        "votos": 21,
+        "candidato": "Noboa Alvaro",
+        "value": 2.15
+    },
+    {
+        "parroquia": "JUAN MONTALVO",
+        "id": 1875,
+        "votos": 7,
+        "candidato": "Noboa Alvaro",
+        "value": 0.8
+    },
+    {
+        "parroquia": "LA CONCEPCION",
+        "id": 2010,
+        "votos": 19,
+        "candidato": "Noboa Alvaro",
+        "value": 1.0
+    },
+    {
+        "parroquia": "MIRA",
+        "id": 5685,
+        "votos": 71,
+        "candidato": "Noboa Alvaro",
+        "value": 2.0
+    }
+]

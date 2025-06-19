@@ -1,0 +1,142 @@
+[
+    {
+        "parroquia": "FEBRES CORDERO",
+        "id": 5355,
+        "votos": 6970,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.798
+    },
+    {
+        "parroquia": "XIMENA",
+        "id": 6265,
+        "votos": 9208,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.036
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 6150,
+        "votos": 15033,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.81
+    },
+    {
+        "parroquia": "PASCUALES",
+        "id": 6405,
+        "votos": 3501,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.71
+    },
+    {
+        "parroquia": "JUAN GOMEZ RENDON",
+        "id": 1870,
+        "votos": 79,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.5
+    },
+    {
+        "parroquia": "MORRO",
+        "id": 2470,
+        "votos": 24,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.0
+    },
+    {
+        "parroquia": "POSORJA",
+        "id": 2940,
+        "votos": 170,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.5
+    },
+    {
+        "parroquia": "PUNA",
+        "id": 3030,
+        "votos": 29,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 0.7
+    },
+    {
+        "parroquia": "TENGUEL",
+        "id": 4120,
+        "votos": 121,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.0
+    },
+    {
+        "parroquia": "AYACUCHO",
+        "id": 5055,
+        "votos": 467,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.0
+    },
+    {
+        "parroquia": "BOLIVAR/SAGRARIO",
+        "id": 5125,
+        "votos": 354,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.0
+    },
+    {
+        "parroquia": "CARBO/CONCEPCION",
+        "id": 5170,
+        "votos": 728,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.0
+    },
+    {
+        "parroquia": "GARCIA MORENO",
+        "id": 5380,
+        "votos": 1658,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.0
+    },
+    {
+        "parroquia": "LETAMENDI",
+        "id": 5585,
+        "votos": 2113,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.8
+    },
+    {
+        "parroquia": "9 DE OCTUBRE",
+        "id": 5695,
+        "votos": 327,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.0
+    },
+    {
+        "parroquia": "OLMEDO/SAN ALEJO",
+        "id": 5720,
+        "votos": 405,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.0
+    },
+    {
+        "parroquia": "ROCA",
+        "id": 5880,
+        "votos": 394,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.0
+    },
+    {
+        "parroquia": "ROCAFUERTE",
+        "id": 5890,
+        "votos": 351,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.0
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 6095,
+        "votos": 372,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.72
+    },
+    {
+        "parroquia": "URDANETA",
+        "id": 6185,
+        "votos": 731,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.08
+    }
+]

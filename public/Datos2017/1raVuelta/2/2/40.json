@@ -1,0 +1,72 @@
+[
+  {
+    "parroquia": "APUELA",
+    "id": 145,
+    "votos": 95,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.27
+  },
+  {
+    "parroquia": "GARCÍA MORENO / LLURIMAGUA",
+    "id": 1310,
+    "votos": 192,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.81
+  },
+  {
+    "parroquia": "IMANTAG",
+    "id": 1710,
+    "votos": 568,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 18.35
+  },
+  {
+    "parroquia": "PEÑAHERRERA",
+    "id": 2820,
+    "votos": 99,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.47
+  },
+  {
+    "parroquia": "PLAZA GUTIERREZ/CALVARIO",
+    "id": 2915,
+    "votos": 36,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.91
+  },
+  {
+    "parroquia": "QUIROGA",
+    "id": 3115,
+    "votos": 496,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.66
+  },
+  {
+    "parroquia": "6 DE JULIO DE CUELLAJE",
+    "id": 3800,
+    "votos": 60,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.28
+  },
+  {
+    "parroquia": "VACAS GALINDO",
+    "id": 4185,
+    "votos": 12,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.46
+  },
+  {
+    "parroquia": "SAGRARIO",
+    "id": 5910,
+    "votos": 1304,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 17.94
+  },
+  {
+    "parroquia": "SAN FRANCISCO",
+    "id": 5955,
+    "votos": 561,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 14.12
+  }
+]

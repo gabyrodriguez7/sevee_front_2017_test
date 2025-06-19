@@ -1,0 +1,50 @@
+[
+    {
+        "id": 60,
+        "candidato": "Diego Delgado Jara",
+        "votos": 10116,
+        "value": 0.88
+    },
+    {
+        "id": 65,
+        "candidato": "Diego Delgado Jara",
+        "votos": 255,
+        "value": 0.65
+    },
+    {
+        "id": 70,
+        "candidato": "Diego Delgado Jara",
+        "votos": 233,
+        "value": 0.61
+    },
+    {
+        "id": 75,
+        "candidato": "Diego Delgado Jara",
+        "votos": 81,
+        "value": 0.6
+    },
+    {
+        "id": 80,
+        "candidato": "Diego Delgado Jara",
+        "votos": 332,
+        "value": 0.68
+    },
+    {
+        "id": 770,
+        "candidato": "Diego Delgado Jara",
+        "votos": 30,
+        "value": 0.53
+    },
+    {
+        "id": 895,
+        "candidato": "Diego Delgado Jara",
+        "votos": 47,
+        "value": 0.8
+    },
+    {
+        "id": 896,
+        "candidato": "Diego Delgado Jara",
+        "votos": 35,
+        "value": 0.5
+    }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "MORASPUNGO",
+    "id": 2460,
+    "votos": 874,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.2
+  },
+  {
+    "parroquia": "PINLLOPATA",
+    "id": 2890,
+    "votos": 36,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.06
+  },
+  {
+    "parroquia": "RAMÓN CAMPAÑA",
+    "id": 3155,
+    "votos": 44,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.5
+  },
+  {
+    "parroquia": "EL CORAZÓN",
+    "id": 5305,
+    "votos": 414,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.67
+  }
+]

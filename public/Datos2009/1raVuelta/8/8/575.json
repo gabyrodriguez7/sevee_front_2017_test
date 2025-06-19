@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "ROSA ZARATE",
+    "id": 5895,
+    "votos": 7170,
+    "candidato": "Lucio Gutierrez",
+    "value": 23.86
+  },
+  {
+    "parroquia": "VICHE",
+    "id": 4230,
+    "votos": 711,
+    "candidato": "Lucio Gutierrez",
+    "value": 27.66
+  },
+  {
+    "parroquia": "MALIMPIA / GUAYLLABAMBA",
+    "id": 2345,
+    "votos": 416,
+    "candidato": "Lucio Gutierrez",
+    "value": 16.53
+  },
+  {
+    "parroquia": "LA UNION",
+    "id": 1530,
+    "votos": 1842,
+    "candidato": "Lucio Gutierrez",
+    "value": 27.8
+  },
+  {
+    "parroquia": "CHURA",
+    "id": 980,
+    "votos": 30,
+    "candidato": "Lucio Gutierrez",
+    "value": 10.71
+  },
+  {
+    "parroquia": "CUBE / CHANCAMA",
+    "id": 700,
+    "votos": 231,
+    "candidato": "Lucio Gutierrez",
+    "value": 31.13
+  }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "QUERO",
+        "id": 5835,
+        "votos": 14,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.15
+    },
+    {
+        "parroquia": "RUMIPAMBA",
+        "id": 4550,
+        "votos": 2,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.29
+    },
+    {
+        "parroquia": "YANAYACU MOCHAPATA",
+        "id": 4310,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.14
+    }
+]

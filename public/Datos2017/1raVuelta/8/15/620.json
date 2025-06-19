@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "AHUANO",
+    "id": 25,
+    "votos": 24,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.74
+  },
+  {
+    "parroquia": "CHONTAPUNTA",
+    "id": 940,
+    "votos": 26,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.8
+  },
+  {
+    "parroquia": "TALAG",
+    "id": 1930,
+    "votos": 17,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.97
+  },
+  {
+    "parroquia": "PANO",
+    "id": 2755,
+    "votos": 4,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.36
+  },
+  {
+    "parroquia": "PUERTO MISAHUALLÍ",
+    "id": 3000,
+    "votos": 31,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.12
+  },
+  {
+    "parroquia": "PUERTO NAPO",
+    "id": 3050,
+    "votos": 17,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.55
+  },
+  {
+    "parroquia": "SAN JUAN DE MUYUNA",
+    "id": 4580,
+    "votos": 14,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.64
+  },
+  {
+    "parroquia": "TENA",
+    "id": 6160,
+    "votos": 259,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.28
+  }
+]

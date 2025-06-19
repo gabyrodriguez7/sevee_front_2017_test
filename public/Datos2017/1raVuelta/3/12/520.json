@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "GUARE",
+    "id": 1460,
+    "votos": 2016,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 51.87
+  },
+  {
+    "parroquia": "ISLA DE BEJUCAL",
+    "id": 1740,
+    "votos": 2177,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 49.28
+  },
+  {
+    "parroquia": "BABA",
+    "id": 5085,
+    "votos": 8564,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 58.18
+  }
+]

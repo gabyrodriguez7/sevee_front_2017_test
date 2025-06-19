@@ -1,0 +1,107 @@
+[
+    {
+        "parroquia": "VALDEZ/LIMONES/",
+        "id": 6205,
+        "votos": 116,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 4.39
+    },
+    {
+        "parroquia": "SANTO DOMINGO DE ONZOLE",
+        "id": 4465,
+        "votos": 14,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.87
+    },
+    {
+        "parroquia": "TELEMBI",
+        "id": 4170,
+        "votos": 50,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 5.93
+    },
+    {
+        "parroquia": "SELVA ALEGRE",
+        "id": 3805,
+        "votos": 10,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.32
+    },
+    {
+        "parroquia": "SAN FRANCISCO DE ONZOLE",
+        "id": 3405,
+        "votos": 11,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.48
+    },
+    {
+        "parroquia": "PAMPANAL DE BOLIVAR",
+        "id": 2670,
+        "votos": 2,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 0.87
+    },
+    {
+        "parroquia": "MALDONADO",
+        "id": 2335,
+        "votos": 11,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.95
+    },
+    {
+        "parroquia": "LUIS VARGAS TORRES",
+        "id": 2225,
+        "votos": 2,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.28
+    },
+    {
+        "parroquia": "LA TOLA",
+        "id": 2125,
+        "votos": 29,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.68
+    },
+    {
+        "parroquia": "TIMBIRE",
+        "id": 1515,
+        "votos": 2,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 0.64
+    },
+    {
+        "parroquia": "COLON ELOY DE MARIA",
+        "id": 1510,
+        "votos": 3,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.22
+    },
+    {
+        "parroquia": "SAN JOSE DE CAYAPAS",
+        "id": 1505,
+        "votos": 6,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.48
+    },
+    {
+        "parroquia": "BORBON",
+        "id": 370,
+        "votos": 128,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 4.51
+    },
+    {
+        "parroquia": "ATAHUALPA/CAMARONES",
+        "id": 200,
+        "votos": 23,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 4.73
+    },
+    {
+        "parroquia": "ANCHAYACU",
+        "id": 120,
+        "votos": 11,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.38
+    }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "parroquia": "SANTA CLARA",
+    "id": 6395,
+    "votos": 1202,
+    "candidato": "Lucio Gutierrez",
+    "value": 64.31
+  },
+  {
+    "parroquia": "SAN JOSE",
+    "id": 2100,
+    "votos": 316,
+    "candidato": "Lucio Gutierrez",
+    "value": 73.66
+  }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "CARACOL",
+        "id": 520,
+        "votos": 220,
+        "candidato": "Gutierrez Lucio",
+        "value": 7.826
+    },
+    {
+        "parroquia": "FEBRES CORDERO",
+        "id": 1265,
+        "votos": 1229,
+        "candidato": "Gutierrez Lucio",
+        "value": 14.254
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 1525,
+        "votos": 268,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.5804
+    },
+    {
+        "parroquia": "PIMOCHA",
+        "id": 2875,
+        "votos": 554,
+        "candidato": "Gutierrez Lucio",
+        "value": 6.894
+    },
+    {
+        "parroquia": "CLEMENTE BAQUERIZO",
+        "id": 5215,
+        "votos": 2630,
+        "candidato": "Gutierrez Lucio",
+        "value": 6.8031
+    },
+    {
+        "parroquia": "DR. CAMILO PONCE E.",
+        "id": 5285,
+        "votos": 1019,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.9753
+    },
+    {
+        "parroquia": "BARREIRO /SANTA RITA",
+        "id": 6830,
+        "votos": 269,
+        "candidato": "Gutierrez Lucio",
+        "value": 5.46637
+    },
+    {
+        "parroquia": "EL SALTO",
+        "id": 6835,
+        "votos": 37,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.59
+    }
+]

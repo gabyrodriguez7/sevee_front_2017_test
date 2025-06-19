@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "JESÚS MARÍA",
+    "id": 1830,
+    "votos": 1408,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 73.91
+  },
+  {
+    "parroquia": "SAN CARLOS",
+    "id": 3370,
+    "votos": 1429,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 74.04
+  },
+  {
+    "parroquia": "SANTA ROSA DE FLANDES",
+    "id": 3740,
+    "votos": 985,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 75.08
+  },
+  {
+    "parroquia": "TAURA",
+    "id": 3990,
+    "votos": 3257,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 77.09
+  },
+  {
+    "parroquia": "NARANJAL",
+    "id": 5675,
+    "votos": 21856,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 64.43
+  }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "JIJON Y CAAMAÑO",
+        "id": 1835,
+        "votos": 139,
+        "candidato": "Lasso Guillermo",
+        "value": 14.2
+    },
+    {
+        "parroquia": "JUAN MONTALVO",
+        "id": 1875,
+        "votos": 71,
+        "candidato": "Lasso Guillermo",
+        "value": 8.1
+    },
+    {
+        "parroquia": "LA CONCEPCION",
+        "id": 2010,
+        "votos": 142,
+        "candidato": "Lasso Guillermo",
+        "value": 7.0
+    },
+    {
+        "parroquia": "MIRA",
+        "id": 5685,
+        "votos": 837,
+        "candidato": "Lasso Guillermo",
+        "value": 19.0
+    }
+]

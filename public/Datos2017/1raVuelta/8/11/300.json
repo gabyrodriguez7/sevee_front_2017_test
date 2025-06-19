@@ -1,0 +1,121 @@
+[
+  {
+    "parroquia": "CHUQUIRIBAMBA",
+    "id": 975,
+    "votos": 40,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.6
+  },
+  {
+    "parroquia": "EL CISNE",
+    "id": 1135,
+    "votos": 33,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.37
+  },
+  {
+    "parroquia": "GUALEL",
+    "id": 1405,
+    "votos": 19,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.71
+  },
+  {
+    "parroquia": "QUINARA",
+    "id": 1780,
+    "votos": 14,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.74
+  },
+  {
+    "parroquia": "JIMBILLA",
+    "id": 1840,
+    "votos": 8,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.98
+  },
+  {
+    "parroquia": "MALACATOS/VALLADOLID",
+    "id": 2325,
+    "votos": 127,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.69
+  },
+  {
+    "parroquia": "SAN LUCAS",
+    "id": 3555,
+    "votos": 38,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.39
+  },
+  {
+    "parroquia": "SANTIAGO",
+    "id": 3770,
+    "votos": 18,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2
+  },
+  {
+    "parroquia": "TAQUIL /MIGUEL RIOFRÍO",
+    "id": 3970,
+    "votos": 42,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.4
+  },
+  {
+    "parroquia": "VILCABAMBA/VICTORIA",
+    "id": 4235,
+    "votos": 101,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.1
+  },
+  {
+    "parroquia": "YANGANA / ARSENIO CASTILLO",
+    "id": 4280,
+    "votos": 14,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.4
+  },
+  {
+    "parroquia": "CHANTACO",
+    "id": 4475,
+    "votos": 15,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.99
+  },
+  {
+    "parroquia": "SAN PEDRO DE VILCABAMBA",
+    "id": 4540,
+    "votos": 23,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.3
+  },
+  {
+    "parroquia": "EL SAGRARIO",
+    "id": 5320,
+    "votos": 242,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.39
+  },
+  {
+    "parroquia": "SAN SEBASTIÁN",
+    "id": 6015,
+    "votos": 484,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.93
+  },
+  {
+    "parroquia": "SUCRE",
+    "id": 6100,
+    "votos": 1268,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.56
+  },
+  {
+    "parroquia": "VALLE",
+    "id": 6210,
+    "votos": 805,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.57
+  }
+]

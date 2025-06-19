@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN JACINTO",
+        "id": 1435,
+        "votos": 7,
+        "candidato": "Acosta Alberto",
+        "value": 0.45
+    },
+    {
+        "parroquia": "COLIMES",
+        "id": 5365,
+        "votos": 94,
+        "candidato": "Acosta Alberto",
+        "value": 0.9
+    }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "C. E. EN CHICAGO",
+    "id": 9027,
+    "votos": 44,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.24
+  },
+  {
+    "parroquia": "C. E. EN MIAMI",
+    "id": 9028,
+    "votos": 7,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.38
+  },
+  {
+    "parroquia": "C. E. EN NUEVA YORK",
+    "id": 9029,
+    "votos": 194,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.10
+  },
+  {
+    "parroquia": "C. E. EN WASHINGTON",
+    "id": 9031,
+    "votos": 12,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.37
+  },
+  {
+    "parroquia": "C. E. EN LOS ÁNGELES",
+    "id": 9032,
+    "votos": 8,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.84
+  },
+  {
+    "parroquia": "C. E. EN CONNECTICUT",
+    "id": 9033,
+    "votos": 47,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.39
+  },
+  {
+    "parroquia": "C. E. EN HOUSTON",
+    "id": 9034,
+    "votos": 6,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.96
+  },
+  {
+    "parroquia": "C. E. EN NEW JERSEY",
+    "id": 9035,
+    "votos": 151,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.82
+  },
+  {
+    "parroquia": "C. E. EN MINNEAPOLIS",
+    "id": 9069,
+    "votos": 11,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.79
+  },
+  {
+    "parroquia": "C. E. EN ATLANTA",
+    "id": 9071,
+    "votos": 3,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.75
+  },
+  {
+    "parroquia": "C. E. EN PHOENIX",
+    "id": 9073,
+    "votos": 0,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.00
+  }
+]

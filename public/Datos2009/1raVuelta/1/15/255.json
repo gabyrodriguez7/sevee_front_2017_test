@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "EL CHACO",
+    "id": 5510,
+    "votos": 21,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 0.86
+  },
+  {
+    "parroquia": "SARDINAS",
+    "id": 3790,
+    "votos": 6,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.29
+  },
+  {
+    "parroquia": "SANTA ROSA DE QUIJOS",
+    "id": 3745,
+    "votos": 3,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 0.54
+  },
+  {
+    "parroquia": "OYACACHI",
+    "id": 2640,
+    "votos": 2,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 0.63
+  },
+  {
+    "parroquia": "LINARES",
+    "id": 2180,
+    "votos": 5,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 3.6
+  },
+  {
+    "parroquia": "GONZALO DIAZ DE PINEDA",
+    "id": 1020,
+    "votos": 1,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 0.37
+  }
+]

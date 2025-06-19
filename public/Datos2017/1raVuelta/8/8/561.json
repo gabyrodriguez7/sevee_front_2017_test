@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "CHONTADURO",
+    "id": 930,
+    "votos": 20,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.55
+  },
+  {
+    "parroquia": "CHUMUNDÉ",
+    "id": 965,
+    "votos": 20,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.55
+  },
+  {
+    "parroquia": "LAGARTO",
+    "id": 2035,
+    "votos": 33,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.53
+  },
+  {
+    "parroquia": "MONTALVO / HORQUETA",
+    "id": 2445,
+    "votos": 30,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.59
+  },
+  {
+    "parroquia": "ROCAFUERTE",
+    "id": 3215,
+    "votos": 42,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.49
+  },
+  {
+    "parroquia": "RÍO VERDE",
+    "id": 6720,
+    "votos": 40,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.16
+  }
+]

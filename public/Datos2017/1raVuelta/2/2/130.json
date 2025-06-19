@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "ZURMI",
+    "id": 1675,
+    "votos": 171,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 19.52
+  },
+  {
+    "parroquia": "NUEVO PARAÍSO",
+    "id": 4570,
+    "votos": 134,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 39.3
+  },
+  {
+    "parroquia": "GUAYZIMI",
+    "id": 5520,
+    "votos": 212,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.98
+  }
+]

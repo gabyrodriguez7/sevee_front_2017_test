@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "GUASAGANDA",
+        "id": 1500,
+        "votos": 560,
+        "candidato": "Correa Delgado Rafael",
+        "value": 44.8
+    },
+    {
+        "parroquia": "PUCAYACO",
+        "id": 2965,
+        "votos": 564,
+        "candidato": "Correa Delgado Rafael",
+        "value": 34.31
+    },
+    {
+        "parroquia": "LA MANA",
+        "id": 6535,
+        "votos": 11181,
+        "candidato": "Correa Delgado Rafael",
+        "value": 57.9
+    },
+    {
+        "parroquia": "EL CARMEN",
+        "id": 6880,
+        "votos": 936,
+        "candidato": "Correa Delgado Rafael",
+        "value": 68.5
+    },
+    {
+        "parroquia": "EL TRIUNFO",
+        "id": 6895,
+        "votos": 671,
+        "candidato": "Correa Delgado Rafael",
+        "value": 68.6
+    }
+]

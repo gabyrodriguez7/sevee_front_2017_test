@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "QUILANGA /LA PAZ",
+    "id": 6260,
+    "votos": 457,
+    "candidato": "Lucio Gutierrez",
+    "value": 28.12
+  },
+  {
+    "parroquia": "SAN ANTONIO DE LAS ARADAS",
+    "id": 3345,
+    "votos": 69,
+    "candidato": "Lucio Gutierrez",
+    "value": 15.19
+  },
+  {
+    "parroquia": "FUNDOCHAMBA",
+    "id": 360,
+    "votos": 104,
+    "candidato": "Lucio Gutierrez",
+    "value": 31.41
+  }
+]

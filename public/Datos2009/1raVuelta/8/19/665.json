@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "28 DE MAYO",
+    "id": 6215,
+    "votos": 397,
+    "candidato": "Lucio Gutierrez",
+    "value": 28.77
+  },
+  {
+    "parroquia": "TUTUPALI",
+    "id": 4105,
+    "votos": 72,
+    "candidato": "Lucio Gutierrez",
+    "value": 30.51
+  },
+  {
+    "parroquia": "LA PAZ",
+    "id": 2070,
+    "votos": 311,
+    "candidato": "Lucio Gutierrez",
+    "value": 45.74
+  }
+]

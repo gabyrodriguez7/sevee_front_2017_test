@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "PINGUILI",
+        "id": 4555,
+        "votos": 17,
+        "candidato": "Zavala Nelson",
+        "value": 3.4
+    },
+    {
+        "parroquia": "MOCHA",
+        "id": 6560,
+        "votos": 31,
+        "candidato": "Zavala Nelson",
+        "value": 0.69
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "4 DE DICIEMBRE",
+        "id": 6195,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.3
+    },
+    {
+        "parroquia": "EL CARMEN",
+        "id": 5300,
+        "votos": 133,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.35
+    },
+    {
+        "parroquia": "SAN PEDRO DE SUMA",
+        "id": 1980,
+        "votos": 0,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.0
+    },
+    {
+        "parroquia": "WILFRIDO LOOR MOREIRA",
+        "id": 1070,
+        "votos": 5,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.92
+    }
+]

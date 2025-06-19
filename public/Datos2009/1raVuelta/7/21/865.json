@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "LUMBAQUI",
+    "id": 6300,
+    "votos": 63,
+    "candidato": "Alvaro Noboa",
+    "value": 3.42
+  },
+  {
+    "parroquia": "PUERTO LIBRE",
+    "id": 3615,
+    "votos": 9,
+    "candidato": "Alvaro Noboa",
+    "value": 2.33
+  },
+  {
+    "parroquia": "GONZALO PIZARRO",
+    "id": 1090,
+    "votos": 18,
+    "candidato": "Alvaro Noboa",
+    "value": 1.55
+  },
+  {
+    "parroquia": "EL REVENTADOR",
+    "id": 230,
+    "votos": 5,
+    "candidato": "Alvaro Noboa",
+    "value": 0.81
+  }
+]

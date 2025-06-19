@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "SHIMPIS",
+    "id": 525,
+    "votos": 2,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.22
+  },
+  {
+    "parroquia": "YAUPI",
+    "id": 4300,
+    "votos": 6,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.75
+  },
+  {
+    "parroquia": "LOGROÑO",
+    "id": 6735,
+    "votos": 23,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.39
+  }
+]

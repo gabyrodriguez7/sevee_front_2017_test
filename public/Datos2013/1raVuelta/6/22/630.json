@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "CAP. AUGUSTO RIVADENEIRA",
+    "id": 510,
+    "votos": 22,
+    "candidato": "Lasso Guillermo",
+    "value": 7.143
+  },
+  {
+    "parroquia": "CONONACO",
+    "id": 630,
+    "votos": 22,
+    "candidato": "Lasso Guillermo",
+    "value": 11.0
+  },
+  {
+    "parroquia": "STA. MARIA DE HUIRIRIMA",
+    "id": 3720,
+    "votos": 70,
+    "candidato": "Lasso Guillermo",
+    "value": 21.15
+  },
+  {
+    "parroquia": "TIPUTINI",
+    "id": 4020,
+    "votos": 312,
+    "candidato": "Lasso Guillermo",
+    "value": 41.88
+  },
+  {
+    "parroquia": "YASUNI",
+    "id": 4295,
+    "votos": 50,
+    "candidato": "Lasso Guillermo",
+    "value": 30.67
+  },
+  {
+    "parroquia": "NUEVO ROCAFUERTE",
+    "id": 5700,
+    "votos": 187,
+    "candidato": "Lasso Guillermo",
+    "value": 35.4
+  }
+]

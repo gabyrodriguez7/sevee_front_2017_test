@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "YANAYACU MOCHAPATA",
+    "id": 4310,
+    "votos": 114,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 12.54
+  },
+  {
+    "parroquia": "RUMIPAMBA",
+    "id": 4550,
+    "votos": 117,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 13.03
+  },
+  {
+    "parroquia": "QUERO",
+    "id": 5835,
+    "votos": 1375,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 11.78
+  }
+]

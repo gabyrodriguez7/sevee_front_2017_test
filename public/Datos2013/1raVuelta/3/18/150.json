@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "LLIGUA",
+        "id": 2270,
+        "votos": 2,
+        "candidato": "Wray Norman",
+        "value": 0.75
+    },
+    {
+        "parroquia": "RIO NEGRO",
+        "id": 3190,
+        "votos": 12,
+        "candidato": "Wray Norman",
+        "value": 1.62
+    },
+    {
+        "parroquia": "RIO VERDE",
+        "id": 3200,
+        "votos": 14,
+        "candidato": "Wray Norman",
+        "value": 2.0
+    },
+    {
+        "parroquia": "ULBA",
+        "id": 4135,
+        "votos": 18,
+        "candidato": "Wray Norman",
+        "value": 2.0
+    },
+    {
+        "parroquia": "BAÑOS",
+        "id": 5105,
+        "votos": 222,
+        "candidato": "Wray Norman",
+        "value": 2.1087
+    }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "parroquia": "AMAZONAS",
+    "id": 90,
+    "votos": 8,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 4.88
+  },
+  {
+    "parroquia": "BERMEJOS",
+    "id": 340,
+    "votos": 10,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.24
+  },
+  {
+    "parroquia": "BOMBOIZA",
+    "id": 350,
+    "votos": 96,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 4.66
+  },
+  {
+    "parroquia": "CHIGUINDA",
+    "id": 880,
+    "votos": 39,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.96
+  },
+  {
+    "parroquia": "EL IDEAL",
+    "id": 1910,
+    "votos": 23,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.02
+  },
+  {
+    "parroquia": "NUEVA TARQUI",
+    "id": 2565,
+    "votos": 32,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.19
+  },
+  {
+    "parroquia": "ROSARIO",
+    "id": 3225,
+    "votos": 19,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.18
+  },
+  {
+    "parroquia": "SAN MIGUEL DE CUYES",
+    "id": 3580,
+    "votos": 6,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 4.76
+  },
+  {
+    "parroquia": "GUALAQUIZA",
+    "id": 5425,
+    "votos": 576,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.92
+  },
+  {
+    "parroquia": "MERCEDES MOLINA",
+    "id": 5655,
+    "votos": 12,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.5
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "LA IBERIA",
+    "id": 245,
+    "votos": 47,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.58
+  },
+  {
+    "parroquia": "BARBONES",
+    "id": 300,
+    "votos": 73,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.94
+  },
+  {
+    "parroquia": "RÍO BONITO",
+    "id": 2050,
+    "votos": 70,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.44
+  },
+  {
+    "parroquia": "TENDALES",
+    "id": 4000,
+    "votos": 42,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.19
+  },
+  {
+    "parroquia": "EL GUABO",
+    "id": 5340,
+    "votos": 657,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.91
+  }
+]

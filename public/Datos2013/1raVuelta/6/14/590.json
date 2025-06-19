@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "ALSHI /9 DE OCTUBRE",
+    "id": 65,
+    "votos": 76,
+    "candidato": "Lasso Guillermo",
+    "value": 33.333
+  },
+  {
+    "parroquia": "CUCHAENTZA",
+    "id": 1250,
+    "votos": 35,
+    "candidato": "Lasso Guillermo",
+    "value": 5.0
+  },
+  {
+    "parroquia": "GRAL. PROAÑO",
+    "id": 1345,
+    "votos": 176,
+    "candidato": "Lasso Guillermo",
+    "value": 21.1
+  },
+  {
+    "parroquia": "RIO BLANCO",
+    "id": 1730,
+    "votos": 117,
+    "candidato": "Lasso Guillermo",
+    "value": 17.594
+  },
+  {
+    "parroquia": "SAN ISIDRO",
+    "id": 3440,
+    "votos": 118,
+    "candidato": "Lasso Guillermo",
+    "value": 24.18
+  },
+  {
+    "parroquia": "SEVILLA DON BOSCO",
+    "id": 3830,
+    "votos": 424,
+    "candidato": "Lasso Guillermo",
+    "value": 9.4
+  },
+  {
+    "parroquia": "ZUNAC",
+    "id": 4360,
+    "votos": 9,
+    "candidato": "Lasso Guillermo",
+    "value": 7.2
+  },
+  {
+    "parroquia": "SINAI",
+    "id": 4485,
+    "votos": 64,
+    "candidato": "Lasso Guillermo",
+    "value": 13.0
+  },
+  {
+    "parroquia": "MACAS",
+    "id": 5615,
+    "votos": 3098,
+    "candidato": "Lasso Guillermo",
+    "value": 25.5
+  }
+]

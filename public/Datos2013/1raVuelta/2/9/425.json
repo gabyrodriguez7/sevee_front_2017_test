@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "TARIFA",
+        "id": 3975,
+        "votos": 3391,
+        "candidato": "Correa Delgado Rafael",
+        "value": 76.1167
+    },
+    {
+        "parroquia": "SAMBORONDON",
+        "id": 5925,
+        "votos": 14540,
+        "candidato": "Correa Delgado Rafael",
+        "value": 69.248
+    },
+    {
+        "parroquia": "LA PUNTILLA(SATELITE)",
+        "id": 7445,
+        "votos": 3050,
+        "candidato": "Correa Delgado Rafael",
+        "value": 21.611
+    }
+]

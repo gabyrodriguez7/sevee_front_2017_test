@@ -1,0 +1,93 @@
+[
+  {
+    "parroquia": "CAMARONES",
+    "id": 450,
+    "votos": 7,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.52
+  },
+  {
+    "parroquia": "CRNL.CARLOS CONCHA TORRES",
+    "id": 655,
+    "votos": 8,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1
+  },
+  {
+    "parroquia": "CHINCA",
+    "id": 895,
+    "votos": 18,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.03
+  },
+  {
+    "parroquia": "MAJUA",
+    "id": 2320,
+    "votos": 7,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.66
+  },
+  {
+    "parroquia": "SAN MATEO",
+    "id": 3570,
+    "votos": 19,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.66
+  },
+  {
+    "parroquia": "TABIAZO",
+    "id": 3930,
+    "votos": 8,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.56
+  },
+  {
+    "parroquia": "TACHINA",
+    "id": 3940,
+    "votos": 8,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.35
+  },
+  {
+    "parroquia": "VUELTA LARGA",
+    "id": 4240,
+    "votos": 53,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.36
+  },
+  {
+    "parroquia": "BARTOLOMÉ RUÍZ",
+    "id": 5205,
+    "votos": 64,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.37
+  },
+  {
+    "parroquia": "5 DE AGOSTO",
+    "id": 5210,
+    "votos": 108,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.4
+  },
+  {
+    "parroquia": "ESMERALDAS",
+    "id": 5335,
+    "votos": 122,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.4
+  },
+  {
+    "parroquia": "LUIS TELLO / LAS PALMAS /",
+    "id": 5600,
+    "votos": 26,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.39
+  },
+  {
+    "parroquia": "SIMÓN PLATA TORRES",
+    "id": 6905,
+    "votos": 38,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.54
+  }
+]

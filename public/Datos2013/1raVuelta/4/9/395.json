@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "GRAL.PEDRO MONTERO",
+        "id": 1340,
+        "votos": 40,
+        "candidato": "Acosta Alberto",
+        "value": 0.86
+    },
+    {
+        "parroquia": "VIRGEN DE FATIMA",
+        "id": 1915,
+        "votos": 28,
+        "candidato": "Acosta Alberto",
+        "value": 0.53
+    },
+    {
+        "parroquia": "YAGUACHI VIEJO/CONE",
+        "id": 4275,
+        "votos": 43,
+        "candidato": "Acosta Alberto",
+        "value": 1.19
+    },
+    {
+        "parroquia": "YAGUACHI NUEVO",
+        "id": 6285,
+        "votos": 225,
+        "candidato": "Acosta Alberto",
+        "value": 1.37
+    }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "ATAHUALPA",
+    "id": 205,
+    "votos": 154,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.89964158
+  },
+  {
+    "parroquia": "COLONCHE",
+    "id": 605,
+    "votos": 1221,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.55429706
+  },
+  {
+    "parroquia": "CHANDUY",
+    "id": 820,
+    "votos": 920,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.97939039
+  },
+  {
+    "parroquia": "SAN JOSÉ DE ANCÓN",
+    "id": 1300,
+    "votos": 303,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.74458874
+  },
+  {
+    "parroquia": "MANGLARALTO",
+    "id": 2355,
+    "votos": 1744,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.55983117
+  },
+  {
+    "parroquia": "SIMÓN BOLÍVAR",
+    "id": 3915,
+    "votos": 178,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.80716253
+  },
+  {
+    "parroquia": "BALLENITA",
+    "id": 5130,
+    "votos": 163,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.9690444
+  },
+  {
+    "parroquia": "SANTA ELENA",
+    "id": 6040,
+    "votos": 3885,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.1853551
+  }
+]

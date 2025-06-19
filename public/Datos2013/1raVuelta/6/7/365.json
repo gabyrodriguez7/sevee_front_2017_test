@@ -1,0 +1,80 @@
+[
+	{
+		"parroquia": "BUENAVISTA",
+		"id": 390,
+		"votos": 637,
+		"candidato": "Lasso Guillermo",
+		"value": 17.645
+	},
+	{
+		"parroquia": "CAÑAQUEMADA",
+		"id": 775,
+		"votos": 64,
+		"candidato": "Lasso Guillermo",
+		"value": 14.286
+	},
+	{
+		"parroquia": "PROGRESO",
+		"id": 1225,
+		"votos": 300,
+		"candidato": "Lasso Guillermo",
+		"value": 19.934
+	},
+	{
+		"parroquia": "LA PEAÑA",
+		"id": 2075,
+		"votos": 330,
+		"candidato": "Lasso Guillermo",
+		"value": 15.7
+	},
+	{
+		"parroquia": "UZHCURRUMI",
+		"id": 4160,
+		"votos": 231,
+		"candidato": "Lasso Guillermo",
+		"value": 27.5656
+	},
+	{
+		"parroquia": "CASACAY",
+	"id": 4495,
+	"votos": 172,
+	"candidato": "Lasso Guillermo",
+	"value": 17.0635
+	},
+	{
+	"parroquia": "OCHOA LEON/MATRIZ",
+	"id": 5770,
+	"votos": 9388,
+	"candidato": "Lasso Guillermo",
+	"value": 26.98709
+	},
+	{
+	"parroquia": "LOMA DE FRANCO",
+	"id": 6365,
+	"votos": 69,
+	"candidato": "Lasso Guillermo",
+	"value": 11.57718
+	},
+	{
+	"parroquia": "BOLIVAR",
+	"id": 6370,
+	"votos": 94,
+	"candidato": "Lasso Guillermo",
+	"value": 23.5
+	},
+	{
+	"parroquia": "TRES CERRITOS",
+	"id": 6375,
+	"votos": 59,
+	"candidato": "Lasso Guillermo",
+	"value": 18.495298
+	},
+	{
+	"parroquia": "PASAJE",
+	"id": 6940,
+	"votos": 59,
+	"candidato": "Lasso Guillermo",
+	"value": 22.69
+	}
+	]
+		

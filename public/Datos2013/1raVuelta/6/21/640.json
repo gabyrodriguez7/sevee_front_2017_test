@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "EL PLAYON DE SN. FRANCISCO",
+    "id": 1170,
+    "votos": 453,
+    "candidato": "Lasso Guillermo",
+    "value": 37.813022
+  },
+  {
+    "parroquia": "LA SOFIA",
+    "id": 2095,
+    "votos": 33,
+    "candidato": "Lasso Guillermo",
+    "value": 42.31
+  },
+  {
+    "parroquia": "ROSA FLORIDA",
+    "id": 3220,
+    "votos": 103,
+    "candidato": "Lasso Guillermo",
+    "value": 35.51724
+  },
+  {
+    "parroquia": "SANTA BARBARA",
+    "id": 3690,
+    "votos": 219,
+    "candidato": "Lasso Guillermo",
+    "value": 38.9
+  },
+  {
+    "parroquia": "LA BONITA",
+    "id": 5525,
+    "votos": 217,
+    "candidato": "Lasso Guillermo",
+    "value": 38.41
+  }
+]

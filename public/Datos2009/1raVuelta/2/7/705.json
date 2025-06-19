@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "PACCHA",
+        "id": 5745,
+        "votos": 5,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.28
+    },
+    {
+        "parroquia": "MILAGRO",
+        "id": 4535,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.45
+    },
+    {
+        "parroquia": "SAN JOSE",
+        "id": 4530,
+        "votos": 4,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.7
+    },
+    {
+        "parroquia": "CORDONCILLO",
+        "id": 4480,
+        "votos": 2,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.43
+    },
+    {
+        "parroquia": "SAN JUAN DE CERRO AZUL",
+        "id": 375,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.43
+    },
+    {
+        "parroquia": "AYAPAMBA",
+        "id": 225,
+        "votos": 5,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.55
+    }
+]

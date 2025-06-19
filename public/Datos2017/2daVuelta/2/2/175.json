@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "BALZAPAMBA",
+    "id": 275,
+    "votos": 944,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 38.03
+  },
+  {
+    "parroquia": "BILOVAN",
+    "id": 345,
+    "votos": 606,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 36.27
+  },
+  {
+    "parroquia": "SAN PABLO DE ATENAS",
+    "id": 3595,
+    "votos": 1412,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 36.5
+  },
+  {
+    "parroquia": "SANTIAGO",
+    "id": 3775,
+    "votos": 462,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 40.17
+  },
+  {
+    "parroquia": "SAN VICENTE",
+    "id": 3900,
+    "votos": 228,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 34.34
+  },
+  {
+    "parroquia": "RÉGULO DE MORA",
+    "id": 4515,
+    "votos": 204,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 27.98
+  },
+  {
+    "parroquia": "SAN MIGUEL",
+    "id": 5995,
+    "votos": 3084,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 31.12
+  }
+]

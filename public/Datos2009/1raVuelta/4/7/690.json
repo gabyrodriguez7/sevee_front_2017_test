@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "MACAS",
+        "id": 5615,
+        "votos": 3519,
+        "candidato": "Rafael Correa Delgado",
+        "value": 37.03
+    },
+    {
+        "parroquia": "SINAI",
+        "id": 4485,
+        "votos": 186,
+        "candidato": "Rafael Correa Delgado",
+        "value": 45.7
+    },
+    {
+        "parroquia": "ZUNAC",
+        "id": 4360,
+        "votos": 13,
+        "candidato": "Rafael Correa Delgado",
+        "value": 16.46
+    },
+    {
+        "parroquia": "SEVILLA DON BOSCO",
+        "id": 3830,
+        "votos": 941,
+        "candidato": "Rafael Correa Delgado",
+        "value": 29.31
+    },
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 3440,
+        "votos": 141,
+        "candidato": "Rafael Correa Delgado",
+        "value": 39.61
+    },
+    {
+        "parroquia": "RIO BLANCO",
+        "id": 1730,
+        "votos": 140,
+        "candidato": "Rafael Correa Delgado",
+        "value": 32.79
+    },
+    {
+        "parroquia": "GRAL. PROA�O",
+        "id": 1345,
+        "votos": 184,
+        "candidato": "Rafael Correa Delgado",
+        "value": 32.34
+    },
+    {
+        "parroquia": "CUCHAENTZA",
+        "id": 1250,
+        "votos": 82,
+        "candidato": "Rafael Correa Delgado",
+        "value": 16.3
+    },
+    {
+        "parroquia": "ALSHI /9 DE OCTUBRE",
+        "id": 65,
+        "votos": 59,
+        "candidato": "Rafael Correa Delgado",
+        "value": 30.89
+    }
+]

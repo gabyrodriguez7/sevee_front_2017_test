@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "AYAPAMBA",
+    "id": 225,
+    "votos": 18,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.64
+  },
+  {
+    "parroquia": "SAN JUAN DE CERRO AZUL",
+    "id": 375,
+    "votos": 5,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.74
+  },
+  {
+    "parroquia": "CORDONCILLO",
+    "id": 4480,
+    "votos": 8,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.33
+  },
+  {
+    "parroquia": "SAN JOSÉ",
+    "id": 4530,
+    "votos": 4,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.41
+  },
+  {
+    "parroquia": "MILAGRO",
+    "id": 4535,
+    "votos": 5,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.1
+  },
+  {
+    "parroquia": "PACCHA",
+    "id": 5745,
+    "votos": 25,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.23
+  }
+]

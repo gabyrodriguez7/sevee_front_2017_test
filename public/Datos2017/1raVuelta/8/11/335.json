@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "CHANGAIMINA /LA LIBERTAD",
+    "id": 825,
+    "votos": 24,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.71
+  },
+  {
+    "parroquia": "NAMBACOLA",
+    "id": 2520,
+    "votos": 44,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.05
+  },
+  {
+    "parroquia": "PURUNUMA /EGUIGUREN",
+    "id": 3045,
+    "votos": 13,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.92
+  },
+  {
+    "parroquia": "SACAPALCA",
+    "id": 3270,
+    "votos": 24,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.27
+  },
+  {
+    "parroquia": "GONZANAMÁ",
+    "id": 5400,
+    "votos": 51,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.01
+  }
+]

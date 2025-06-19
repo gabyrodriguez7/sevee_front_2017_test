@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "SAN CARLOS",
+        "id": 415,
+        "votos": 7,
+        "candidato": "Zavala Nelson",
+        "value": 0.42
+    },
+    {
+        "parroquia": "ENOKANQUI",
+        "id": 490,
+        "votos": 8,
+        "candidato": "Zavala Nelson",
+        "value": 0.611
+    },
+    {
+        "parroquia": "RUMIPAMBA",
+        "id": 1950,
+        "votos": 8,
+        "candidato": "Zavala Nelson",
+        "value": 1.214
+    },
+    {
+        "parroquia": "TRES DE NOVIEMBRE",
+        "id": 1955,
+        "votos": 12,
+        "candidato": "Zavala Nelson",
+        "value": 0.81
+    },
+    {
+        "parroquia": "LAGO SAN PEDRO",
+        "id": 1960,
+        "votos": 3,
+        "candidato": "Zavala Nelson",
+        "value": 0.322
+    },
+    {
+        "parroquia": "UNION MILAGREÑA",
+        "id": 1965,
+        "votos": 5,
+        "candidato": "Zavala Nelson",
+        "value": 0.36023055
+    },
+    {
+        "parroquia": "POMPEYA",
+        "id": 2930,
+        "votos": 4,
+        "candidato": "Zavala Nelson",
+        "value": 0.82
+    },
+    {
+        "parroquia": "SAN SEBASTIAN DE COCA",
+        "id": 3660,
+        "votos": 12,
+        "candidato": "Zavala Nelson",
+        "value": 0.7
+    },
+    {
+        "parroquia": "LA JOYA DE LOS SACHAS",
+        "id": 6200,
+        "votos": 62,
+        "candidato": "Zavala Nelson",
+        "value": 0.6
+    }
+]

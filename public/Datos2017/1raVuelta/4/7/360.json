@@ -1,0 +1,72 @@
+[
+  {
+    "parroquia": "ABANIN",
+    "id": 5,
+    "votos": 168,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 18.67
+  },
+  {
+    "parroquia": "GUANAZAN",
+    "id": 1420,
+    "votos": 302,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 16.96
+  },
+  {
+    "parroquia": "GUIZHAGUIÑA",
+    "id": 1425,
+    "votos": 249,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 28.59
+  },
+  {
+    "parroquia": "HUERTAS",
+    "id": 1655,
+    "votos": 381,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 28.12
+  },
+  {
+    "parroquia": "SINSAO",
+    "id": 1700,
+    "votos": 301,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 44.59
+  },
+  {
+    "parroquia": "SALVIAS",
+    "id": 1750,
+    "votos": 208,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 44.64
+  },
+  {
+    "parroquia": "MALVAS",
+    "id": 2350,
+    "votos": 158,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 26.33
+  },
+  {
+    "parroquia": "ARCAPAMBA",
+    "id": 4445,
+    "votos": 262,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 37.06
+  },
+  {
+    "parroquia": "MULUNCAY GRANDE",
+    "id": 4450,
+    "votos": 162,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 29.62
+  },
+  {
+    "parroquia": "ZARUMA",
+    "id": 6310,
+    "votos": 2878,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 33.14
+  }
+]

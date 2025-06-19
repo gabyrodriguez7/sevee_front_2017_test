@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "BABA",
+    "id": 5085,
+    "votos": 170,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.51
+  },
+  {
+    "parroquia": "ISLA DE BEJUCAL",
+    "id": 1740,
+    "votos": 65,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.97
+  },
+  {
+    "parroquia": "GUARE",
+    "id": 1460,
+    "votos": 36,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.3
+  }
+]

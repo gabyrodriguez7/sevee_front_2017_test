@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "LA PAZ",
+    "id": 2070,
+    "votos": 31,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 3.366
+  },
+  {
+    "parroquia": "TUTUPALI",
+    "id": 4105,
+    "votos": 3,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 1.0
+  },
+  {
+    "parroquia": "28 DE MAYO",
+    "id": 6215,
+    "votos": 54,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 2.8
+  }
+]

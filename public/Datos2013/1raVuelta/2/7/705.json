@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "AYAPAMBA",
+        "id": 225,
+        "votos": 499,
+        "candidato": "Correa Delgado Rafael",
+        "value": 47.1644612
+    },
+    {
+        "parroquia": "SAN JUAN DE CERRO AZUL",
+        "id": 375,
+        "votos": 230,
+        "candidato": "Correa Delgado Rafael",
+        "value": 70.7692308
+    },
+    {
+        "parroquia": "CORDONCILLO",
+        "id": 4480,
+        "votos": 240,
+        "candidato": "Correa Delgado Rafael",
+        "value": 43.0
+    },
+    {
+        "parroquia": "SAN JOSE",
+        "id": 4530,
+        "votos": 134,
+        "candidato": "Correa Delgado Rafael",
+        "value": 50.57
+    },
+    {
+        "parroquia": "MILAGRO",
+        "id": 4535,
+        "votos": 103,
+        "candidato": "Correa Delgado Rafael",
+        "value": 44.98
+    },
+    {
+        "parroquia": "PACCHA",
+        "id": 5745,
+        "votos": 830,
+        "candidato": "Correa Delgado Rafael",
+        "value": 42.0
+    }
+]

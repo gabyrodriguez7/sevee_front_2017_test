@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "C. E. EN MILAN",
+    "id": 9043,
+    "votos": 1556,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 13.85
+  },
+  {
+    "parroquia": "C. E. EN GENOVA",
+    "id": 9044,
+    "votos": 721,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 12.18
+  },
+  {
+    "parroquia": "C. E. EN ROMA",
+    "id": 9045,
+    "votos": 601,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 20.27
+  }
+]

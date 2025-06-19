@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "LAS MERCEDES",
+        "id": 6475,
+        "votos": 125,
+        "candidato": "Rafael Correa Delgado",
+        "value": 35.41
+    },
+    {
+        "parroquia": "LAS NAVES",
+        "id": 6470,
+        "votos": 1153,
+        "candidato": "Rafael Correa Delgado",
+        "value": 39.52
+    }
+]

@@ -1,0 +1,30 @@
+[
+                {
+                    "parroquia": "COTUNDO",
+                    "id": 685,
+                    "votos": 6,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.0
+                },
+                {
+                    "parroquia": "SAN PABLO DE USHPAYACU",
+                    "id": 3605,
+                    "votos": 2,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.0
+                },
+                {
+                    "parroquia": "HATUN SUMAKU",
+                    "id": 4630,
+                    "votos": 2,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.0
+                },
+                {
+                    "parroquia": "ARCHIDONA",
+                    "id": 5070,
+                    "votos": 22,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.0
+                }
+            ]

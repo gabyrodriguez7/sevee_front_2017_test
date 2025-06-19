@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "CÚBE / CHANCAMA",
+    "id": 700,
+    "votos": 174,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.71
+  },
+  {
+    "parroquia": "CHURA",
+    "id": 980,
+    "votos": 99,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.5
+  },
+  {
+    "parroquia": "LA UNIÓN",
+    "id": 1530,
+    "votos": 1269,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.84
+  },
+  {
+    "parroquia": "MALIMPIA / GUAYLLABAMBA",
+    "id": 2345,
+    "votos": 498,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8
+  },
+  {
+    "parroquia": "VICHE",
+    "id": 4230,
+    "votos": 672,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 17.55
+  },
+  {
+    "parroquia": "ROSA ZÁRATE",
+    "id": 5895,
+    "votos": 5293,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.75
+  }
+]

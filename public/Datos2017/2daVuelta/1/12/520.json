@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "GUARE",
+    "id": 1460,
+    "votos": 1380,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 30.79
+  },
+  {
+    "parroquia": "ISLA DE BEJUCAL",
+    "id": 1740,
+    "votos": 1707,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 34.29
+  },
+  {
+    "parroquia": "BABA",
+    "id": 5085,
+    "votos": 4303,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 26.54
+  }
+]

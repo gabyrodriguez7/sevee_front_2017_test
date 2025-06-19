@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "LA RAMA",
+    "id": 2085,
+    "votos": 60,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 11.65
+  },
+  {
+    "parroquia": "LA VICTORIA",
+    "id": 2145,
+    "votos": 94,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 14.29
+  },
+  {
+    "parroquia": "SABIANGO",
+    "id": 3265,
+    "votos": 51,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 11.49
+  },
+  {
+    "parroquia": "GRAL.ELOY ALFARO",
+    "id": 5385,
+    "votos": 149,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 16.21
+  },
+  {
+    "parroquia": "MACARÁ",
+    "id": 5680,
+    "votos": 1339,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 15.28
+  }
+]

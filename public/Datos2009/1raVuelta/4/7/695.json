@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "MERCEDES MOLINA",
+        "id": 5655,
+        "votos": 69,
+        "candidato": "Rafael Correa Delgado",
+        "value": 37.1
+    },
+    {
+        "parroquia": "GUALAQUIZA",
+        "id": 5425,
+        "votos": 1439,
+        "candidato": "Rafael Correa Delgado",
+        "value": 34.73
+    },
+    {
+        "parroquia": "SAN MIGUEL DE CUYES",
+        "id": 3580,
+        "votos": 41,
+        "candidato": "Rafael Correa Delgado",
+        "value": 55.41
+    },
+    {
+        "parroquia": "ROSARIO",
+        "id": 3225,
+        "votos": 98,
+        "candidato": "Rafael Correa Delgado",
+        "value": 40.66
+    },
+    {
+        "parroquia": "NUEVA TARQUI",
+        "id": 2565,
+        "votos": 174,
+        "candidato": "Rafael Correa Delgado",
+        "value": 49.43
+    },
+    {
+        "parroquia": "EL IDEAL",
+        "id": 1910,
+        "votos": 100,
+        "candidato": "Rafael Correa Delgado",
+        "value": 46.95
+    },
+    {
+        "parroquia": "CHIGUINDA",
+        "id": 880,
+        "votos": 94,
+        "candidato": "Rafael Correa Delgado",
+        "value": 39.17
+    },
+    {
+        "parroquia": "BOMBOIZA",
+        "id": 350,
+        "votos": 237,
+        "candidato": "Rafael Correa Delgado",
+        "value": 23.33
+    },
+    {
+        "parroquia": "BERMEJOS",
+        "id": 340,
+        "votos": 69,
+        "candidato": "Rafael Correa Delgado",
+        "value": 53.08
+    },
+    {
+        "parroquia": "AMAZONAS",
+        "id": 90,
+        "votos": 44,
+        "candidato": "Rafael Correa Delgado",
+        "value": 63.77
+    }
+]

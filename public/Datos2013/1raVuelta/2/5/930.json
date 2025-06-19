@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "PALO QUEMADO",
+        "id": 815,
+        "votos": 176,
+        "candidato": "Correa Delgado Rafael",
+        "value": 43.35
+    },
+    {
+        "parroquia": "CHUGCHILAN",
+        "id": 960,
+        "votos": 1867,
+        "candidato": "Correa Delgado Rafael",
+        "value": 61.09
+    },
+    {
+        "parroquia": "ISINLIVI",
+        "id": 1735,
+        "votos": 692,
+        "candidato": "Correa Delgado Rafael",
+        "value": 49.43
+    },
+    {
+        "parroquia": "LAS PAMPAS",
+        "id": 2115,
+        "votos": 550,
+        "candidato": "Correa Delgado Rafael",
+        "value": 50.88
+    },
+    {
+        "parroquia": "SIGCHOS",
+        "id": 6450,
+        "votos": 2152,
+        "candidato": "Correa Delgado Rafael",
+        "value": 42.54
+    }
+]

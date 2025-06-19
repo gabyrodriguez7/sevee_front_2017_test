@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "TONSUPA",
+    "id": 1615,
+    "votos": 169,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.34
+  },
+  {
+    "parroquia": "LA UNIÓN",
+    "id": 2130,
+    "votos": 45,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.09
+  },
+  {
+    "parroquia": "SÚA/BOCANA",
+    "id": 3880,
+    "votos": 53,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.65
+  },
+  {
+    "parroquia": "TONCHÍGUE",
+    "id": 4055,
+    "votos": 112,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.62
+  },
+  {
+    "parroquia": "ATACAMES",
+    "id": 6380,
+    "votos": 280,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.73
+  }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "MUISNE",
+        "id": 5670,
+        "votos": 2886,
+        "candidato": "Rafael Correa Delgado",
+        "value": 57.72
+    },
+    {
+        "parroquia": "SAN JOSE DE CHAMANGA",
+        "id": 3470,
+        "votos": 814,
+        "candidato": "Rafael Correa Delgado",
+        "value": 63.64
+    },
+    {
+        "parroquia": "SAN GREGORIO",
+        "id": 3430,
+        "votos": 774,
+        "candidato": "Rafael Correa Delgado",
+        "value": 65.87
+    },
+    {
+        "parroquia": "SAN FRANCISCO",
+        "id": 3390,
+        "votos": 527,
+        "candidato": "Rafael Correa Delgado",
+        "value": 72.29
+    },
+    {
+        "parroquia": "SALIMA",
+        "id": 3280,
+        "votos": 299,
+        "candidato": "Rafael Correa Delgado",
+        "value": 80.16
+    },
+    {
+        "parroquia": "QUINGUE",
+        "id": 3125,
+        "votos": 226,
+        "candidato": "Rafael Correa Delgado",
+        "value": 67.86
+    },
+    {
+        "parroquia": "GALERA",
+        "id": 1305,
+        "votos": 306,
+        "candidato": "Rafael Correa Delgado",
+        "value": 61.69
+    },
+    {
+        "parroquia": "DAULE",
+        "id": 1010,
+        "votos": 287,
+        "candidato": "Rafael Correa Delgado",
+        "value": 75.13
+    },
+    {
+        "parroquia": "BOLIVAR",
+        "id": 355,
+        "votos": 211,
+        "candidato": "Rafael Correa Delgado",
+        "value": 62.61
+    }
+]

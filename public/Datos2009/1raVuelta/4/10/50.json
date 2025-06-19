@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "PIMAMPIRO",
+        "id": 5750,
+        "votos": 3629,
+        "candidato": "Rafael Correa Delgado",
+        "value": 59.09
+    },
+    {
+        "parroquia": "SAN FRANCISCO DE SIGSIPAMBA",
+        "id": 3415,
+        "votos": 380,
+        "candidato": "Rafael Correa Delgado",
+        "value": 64.29
+    },
+    {
+        "parroquia": "MARIANO ACOSTA",
+        "id": 2380,
+        "votos": 722,
+        "candidato": "Rafael Correa Delgado",
+        "value": 73.37
+    },
+    {
+        "parroquia": "CHUGA",
+        "id": 955,
+        "votos": 350,
+        "candidato": "Rafael Correa Delgado",
+        "value": 58.52
+    }
+]

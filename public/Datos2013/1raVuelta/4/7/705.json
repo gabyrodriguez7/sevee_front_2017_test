@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "AYAPAMBA",
+        "id": 225,
+        "votos": 56,
+        "candidato": "Acosta Alberto",
+        "value": 5.2930057
+    },
+    {
+        "parroquia": "SAN JUAN DE CERRO AZUL",
+        "id": 375,
+        "votos": 3,
+        "candidato": "Acosta Alberto",
+        "value": 0.9230769
+    },
+    {
+        "parroquia": "CORDONCILLO",
+        "id": 4480,
+        "votos": 12,
+        "candidato": "Acosta Alberto",
+        "value": 2.2
+    },
+    {
+        "parroquia": "SAN JOSE",
+        "id": 4530,
+        "votos": 14,
+        "candidato": "Acosta Alberto",
+        "value": 5.28
+    },
+    {
+        "parroquia": "MILAGRO",
+        "id": 4535,
+        "votos": 12,
+        "candidato": "Acosta Alberto",
+        "value": 5.24
+    },
+    {
+        "parroquia": "PACCHA",
+        "id": 5745,
+        "votos": 41,
+        "candidato": "Acosta Alberto",
+        "value": 2.1
+    }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "parroquia": "AMBATILLO",
+    "id": 95,
+    "votos": 1460,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 45.74
+  },
+  {
+    "parroquia": "ATAHUALPA /CHIPZALATA",
+    "id": 190,
+    "votos": 2731,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 42.91
+  },
+  {
+    "parroquia": "AUGUSTO N. MARTÍNEZ",
+    "id": 210,
+    "votos": 2765,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 42.31
+  },
+  {
+    "parroquia": "CONSTANTINO FERNÁNDEZ",
+    "id": 635,
+    "votos": 775,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 40.41
+  },
+  {
+    "parroquia": "CUNCHIBAMBA",
+    "id": 800,
+    "votos": 1247,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 49.29
+  },
+  {
+    "parroquia": "UNAMUNCHO",
+    "id": 810,
+    "votos": 637,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 38.68
+  },
+  {
+    "parroquia": "HUACHI GRANDE",
+    "id": 1625,
+    "votos": 2437,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 41.37
+  },
+  {
+    "parroquia": "IZAMBA",
+    "id": 1745,
+    "votos": 5401,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 39.59
+  },
+  {
+    "parroquia": "JUAN BENIGNO VELA",
+    "id": 1860,
+    "votos": 1860,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 35.93
+  },
+  {
+    "parroquia": "MONTALVO",
+    "id": 2435,
+    "votos": 1177,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 50.06
+  },
+  {
+    "parroquia": "PASA",
+    "id": 2775,
+    "votos": 1827,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 38.45
+  },
+  {
+    "parroquia": "PICAYHUA",
+    "id": 2830,
+    "votos": 4053,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 39.03
+  },
+  {
+    "parroquia": "PILAHUÍN",
+    "id": 2860,
+    "votos": 1951,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 25.84
+  },
+  {
+    "parroquia": "QUISAPINCHA",
+    "id": 3120,
+    "votos": 2789,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 36.49
+  },
+  {
+    "parroquia": "SAN BARTOLOMÉ",
+    "id": 3355,
+    "votos": 2347,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 40.24
+  },
+  {
+    "parroquia": "SAN FERNANDO",
+    "id": 3380,
+    "votos": 567,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 34.18
+  },
+  {
+    "parroquia": "SANTA ROSA",
+    "id": 3730,
+    "votos": 4644,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 40.38
+  },
+  {
+    "parroquia": "TOTORAS",
+    "id": 4065,
+    "votos": 1953,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 43.03
+  },
+  {
+    "parroquia": "ATOCHA FICOA",
+    "id": 5045,
+    "votos": 2992,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 30.02
+  },
+  {
+    "parroquia": "CELIANO MONGE",
+    "id": 5230,
+    "votos": 889,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 42.68
+  },
+  {
+    "parroquia": "HUACHI LORETO",
+    "id": 5445,
+    "votos": 17805,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 40.77
+  },
+  {
+    "parroquia": "HUACHI CHICO",
+    "id": 5455,
+    "votos": 8079,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 37.73
+  },
+  {
+    "parroquia": "LA MATRIZ",
+    "id": 5545,
+    "votos": 8268,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 35.69
+  },
+  {
+    "parroquia": "LA MERCED",
+    "id": 5560,
+    "votos": 6431,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 36.84
+  },
+  {
+    "parroquia": "LA PENINSULA",
+    "id": 5605,
+    "votos": 577,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 38.62
+  },
+  {
+    "parroquia": "PISHILATA",
+    "id": 5840,
+    "votos": 954,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 42.53
+  },
+  {
+    "parroquia": "SAN FRANCISCO",
+    "id": 5945,
+    "votos": 1985,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 34.04
+  }
+]

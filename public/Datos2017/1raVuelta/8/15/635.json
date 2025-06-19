@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "COSANGA",
+    "id": 670,
+    "votos": 4,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.1
+  },
+  {
+    "parroquia": "CUYUJA",
+    "id": 765,
+    "votos": 18,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 5.03
+  },
+  {
+    "parroquia": "PAPALLACTA",
+    "id": 2770,
+    "votos": 10,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.22
+  },
+  {
+    "parroquia": "SAN FRANCISCO DE BORJA",
+    "id": 3395,
+    "votos": 17,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.24
+  },
+  {
+    "parroquia": "SUMACO",
+    "id": 3890,
+    "votos": 2,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.24
+  },
+  {
+    "parroquia": "BAEZA",
+    "id": 5090,
+    "votos": 32,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.12
+  }
+]

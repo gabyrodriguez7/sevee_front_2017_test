@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "SANTA FE DE GALÁN",
+    "id": 40,
+    "votos": 144,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 20.48
+  },
+  {
+    "parroquia": "SAN JOSÉ DEL CHAZO",
+    "id": 45,
+    "votos": 199,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 26.86
+  },
+  {
+    "parroquia": "VALPARAISO",
+    "id": 410,
+    "votos": 156,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 49.37
+  },
+  {
+    "parroquia": "GUANANDO",
+    "id": 1415,
+    "votos": 138,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 35.66
+  },
+  {
+    "parroquia": "ILAPO",
+    "id": 1705,
+    "votos": 357,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 24.74
+  },
+  {
+    "parroquia": "LA PROVIDENCIA",
+    "id": 2080,
+    "votos": 134,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 32.6
+  },
+  {
+    "parroquia": "SAN ANDRÉS",
+    "id": 3295,
+    "votos": 1954,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 23.95
+  },
+  {
+    "parroquia": "SAN GERARDO / PAQUICAHUAN",
+    "id": 3425,
+    "votos": 302,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 24.88
+  },
+  {
+    "parroquia": "SAN ISIDRO DE PATULÚ",
+    "id": 3450,
+    "votos": 593,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 23.42
+  },
+  {
+    "parroquia": "EL ROSARIO",
+    "id": 5315,
+    "votos": 439,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 28.07
+  },
+  {
+    "parroquia": "LA MATRIZ",
+    "id": 5550,
+    "votos": 2573,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 26.17
+  }
+]

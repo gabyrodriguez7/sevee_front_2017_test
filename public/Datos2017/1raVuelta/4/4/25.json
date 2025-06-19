@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "SAN RAFAEL",
+    "id": 1055,
+    "votos": 52,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.02
+  },
+  {
+    "parroquia": "GARCÍA MORENO",
+    "id": 1315,
+    "votos": 145,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.75
+  },
+  {
+    "parroquia": "LOS ANDES",
+    "id": 2205,
+    "votos": 123,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.47
+  },
+  {
+    "parroquia": "MONTEOLIVO",
+    "id": 2455,
+    "votos": 80,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.71
+  },
+  {
+    "parroquia": "SAN VICENTE DE PUSIR",
+    "id": 3680,
+    "votos": 100,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.94
+  },
+  {
+    "parroquia": "BOLÍVAR",
+    "id": 6520,
+    "votos": 462,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.82
+  }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "LA CANDELARIA",
+        "id": 925,
+        "votos": 2,
+        "candidato": "Noboa Alvaro",
+        "value": 0.91
+    },
+    {
+        "parroquia": "EL ALTAR",
+        "id": 1110,
+        "votos": 13,
+        "candidato": "Noboa Alvaro",
+        "value": 1.48
+    },
+    {
+        "parroquia": "BILBAO",
+        "id": 1325,
+        "votos": 8,
+        "candidato": "Noboa Alvaro",
+        "value": 4.3
+    },
+    {
+        "parroquia": "MATUS",
+        "id": 2400,
+        "votos": 17,
+        "candidato": "Noboa Alvaro",
+        "value": 2.5411
+    },
+    {
+        "parroquia": "PUELA",
+        "id": 2975,
+        "votos": 12,
+        "candidato": "Noboa Alvaro",
+        "value": 2.2099
+    },
+    {
+        "parroquia": "SAN ANTONIO DE BAYUSHIG",
+        "id": 3335,
+        "votos": 14,
+        "candidato": "Noboa Alvaro",
+        "value": 1.322001889
+    },
+    {
+        "parroquia": "PENIPE",
+        "id": 5740,
+        "votos": 40,
+        "candidato": "Noboa Alvaro",
+        "value": 2.3
+    }
+]

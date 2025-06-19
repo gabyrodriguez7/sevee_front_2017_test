@@ -1,0 +1,121 @@
+[
+  {
+    "parroquia": "VALLE",
+    "id": 6210,
+    "votos": 5113,
+    "candidato": "Lucio Gutierrez",
+    "value": 23.94
+  },
+  {
+    "parroquia": "SUCRE",
+    "id": 6100,
+    "votos": 6915,
+    "candidato": "Lucio Gutierrez",
+    "value": 20.2
+  },
+  {
+    "parroquia": "SAN SEBASTIAN",
+    "id": 6015,
+    "votos": 3684,
+    "candidato": "Lucio Gutierrez",
+    "value": 18.86
+  },
+  {
+    "parroquia": "EL SAGRARIO",
+    "id": 5320,
+    "votos": 3443,
+    "candidato": "Lucio Gutierrez",
+    "value": 22.17
+  },
+  {
+    "parroquia": "SAN PEDRO DE VILCABAMBA",
+    "id": 4540,
+    "votos": 83,
+    "candidato": "Lucio Gutierrez",
+    "value": 16.05
+  },
+  {
+    "parroquia": "CHANTACO",
+    "id": 4475,
+    "votos": 115,
+    "candidato": "Lucio Gutierrez",
+    "value": 20.14
+  },
+  {
+    "parroquia": "YANGANA / ARSENIO CASTILLO",
+    "id": 4280,
+    "votos": 242,
+    "candidato": "Lucio Gutierrez",
+    "value": 32.01
+  },
+  {
+    "parroquia": "VILCABAMBA/VICTORIA",
+    "id": 4235,
+    "votos": 340,
+    "candidato": "Lucio Gutierrez",
+    "value": 15.46
+  },
+  {
+    "parroquia": "TAQUIL /MIGUEL RIOFRIO",
+    "id": 3970,
+    "votos": 385,
+    "candidato": "Lucio Gutierrez",
+    "value": 27.85
+  },
+  {
+    "parroquia": "SANTIAGO",
+    "id": 3770,
+    "votos": 166,
+    "candidato": "Lucio Gutierrez",
+    "value": 24.05
+  },
+  {
+    "parroquia": "SAN LUCAS",
+    "id": 3555,
+    "votos": 397,
+    "candidato": "Lucio Gutierrez",
+    "value": 23.51
+  },
+  {
+    "parroquia": "MALACATOS/VALLADOLID",
+    "id": 2325,
+    "votos": 514,
+    "candidato": "Lucio Gutierrez",
+    "value": 15.86
+  },
+  {
+    "parroquia": "JIMBILLA",
+    "id": 1840,
+    "votos": 227,
+    "candidato": "Lucio Gutierrez",
+    "value": 38.08
+  },
+  {
+    "parroquia": "QUINARA",
+    "id": 1780,
+    "votos": 104,
+    "candidato": "Lucio Gutierrez",
+    "value": 19.33
+  },
+  {
+    "parroquia": "GUALEL",
+    "id": 1405,
+    "votos": 205,
+    "candidato": "Lucio Gutierrez",
+    "value": 25.3
+  },
+  {
+    "parroquia": "EL CISNE",
+    "id": 1135,
+    "votos": 150,
+    "candidato": "Lucio Gutierrez",
+    "value": 20.77
+  },
+  {
+    "parroquia": "CHUQUIRIBAMBA",
+    "id": 975,
+    "votos": 219,
+    "candidato": "Lucio Gutierrez",
+    "value": 16.82
+  }
+]

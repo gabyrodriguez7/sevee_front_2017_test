@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "LA CANDELARIA",
+    "id": 925,
+    "votos": 9,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.42
+  },
+  {
+    "parroquia": "EL ALTAR",
+    "id": 1110,
+    "votos": 27,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.02
+  },
+  {
+    "parroquia": "BILBAO",
+    "id": 1325,
+    "votos": 4,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.04
+  },
+  {
+    "parroquia": "MATUS",
+    "id": 2400,
+    "votos": 19,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.68
+  },
+  {
+    "parroquia": "PUELA",
+    "id": 2975,
+    "votos": 17,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.06
+  },
+  {
+    "parroquia": "SAN ANTONIO DE BAYUSHIG",
+    "id": 3335,
+    "votos": 24,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.11
+  },
+  {
+    "parroquia": "PENIPE",
+    "id": 5740,
+    "votos": 34,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.7
+  }
+]

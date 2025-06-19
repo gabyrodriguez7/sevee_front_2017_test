@@ -1,0 +1,62 @@
+[
+    {
+        "id": 190,
+        "candidato": "Acosta Alberto",
+        "votos": 218,
+        "value": 3.0
+    },
+    {
+        "id": 195,
+        "candidato": "Acosta Alberto",
+        "votos": 5321,
+        "value": 3.8
+    },
+    {
+        "id": 200,
+        "candidato": "Acosta Alberto",
+        "votos": 689,
+        "value": 2.75
+    },
+    {
+        "id": 205,
+        "candidato": "Acosta Alberto",
+        "votos": 1846,
+        "value": 7.0
+    },
+    {
+        "id": 210,
+        "candidato": "Acosta Alberto",
+        "votos": 2194,
+        "value": 10.0
+    },
+    {
+        "id": 215,
+        "candidato": "Acosta Alberto",
+        "votos": 837,
+        "value": 3.96
+    },
+    {
+        "id": 220,
+        "candidato": "Acosta Alberto",
+        "votos": 101,
+        "value": 2.0
+    },
+    {
+        "id": 225,
+        "candidato": "Acosta Alberto",
+        "votos": 160,
+        "value": 3.0
+    },
+    {
+        "id": 830,
+        "candidato": "Acosta Alberto",
+        "votos": 138,
+        "value": 2.0
+    },
+    {
+        "id": 900,
+        "candidato": "Acosta Alberto",
+        "votos": 149,
+        "value": 1.7
+    }
+]

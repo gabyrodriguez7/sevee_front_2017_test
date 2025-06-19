@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "SAN MATEO",
+        "id": 5990,
+        "votos": 3,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.58
+    },
+    {
+        "parroquia": "PARAISO",
+        "id": 5765,
+        "votos": 0,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 0.0
+    },
+    {
+        "parroquia": "SALITRE",
+        "id": 5200,
+        "votos": 249,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.46
+    },
+    {
+        "parroquia": "CANDILEJOS",
+        "id": 5155,
+        "votos": 15,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.38
+    },
+    {
+        "parroquia": "BOCANA",
+        "id": 5120,
+        "votos": 3,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.56
+    },
+    {
+        "parroquia": "VICTORIA",
+        "id": 4220,
+        "votos": 31,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.99
+    },
+    {
+        "parroquia": "JUNQUILLAL",
+        "id": 1595,
+        "votos": 25,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.17
+    },
+    {
+        "parroquia": "GRAL. VERNAZA",
+        "id": 1350,
+        "votos": 44,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.32
+    }
+]

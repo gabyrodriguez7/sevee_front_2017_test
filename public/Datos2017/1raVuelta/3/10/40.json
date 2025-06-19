@@ -1,0 +1,72 @@
+[
+  {
+    "parroquia": "APUELA",
+    "id": 145,
+    "votos": 649,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 56.48
+  },
+  {
+    "parroquia": "GARCÍA MORENO / LLURIMAGUA",
+    "id": 1310,
+    "votos": 1235,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 56.68
+  },
+  {
+    "parroquia": "IMANTAG",
+    "id": 1710,
+    "votos": 1502,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 48.53
+  },
+  {
+    "parroquia": "PEÑAHERRERA",
+    "id": 2820,
+    "votos": 589,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 56.36
+  },
+  {
+    "parroquia": "PLAZA GUTIERREZ/CALVARIO",
+    "id": 2915,
+    "votos": 157,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 47.58
+  },
+  {
+    "parroquia": "QUIROGA",
+    "id": 3115,
+    "votos": 1967,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 42.26
+  },
+  {
+    "parroquia": "6 DE JULIO DE CUELLAJE",
+    "id": 3800,
+    "votos": 653,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 57.48
+  },
+  {
+    "parroquia": "VACAS GALINDO",
+    "id": 4185,
+    "votos": 185,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 53.31
+  },
+  {
+    "parroquia": "SAGRARIO",
+    "id": 5910,
+    "votos": 2606,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 35.85
+  },
+  {
+    "parroquia": "SAN FRANCISCO",
+    "id": 5955,
+    "votos": 1593,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 40.11
+  }
+]

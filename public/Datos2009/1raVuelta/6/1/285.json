@@ -1,0 +1,30 @@
+[
+                {
+                    "parroquia": "SANTA ISABEL",
+                    "id": 6045,
+                    "votos": 42,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 0.64
+                },
+                {
+                    "parroquia": "SHAGLLI",
+                    "id": 3835,
+                    "votos": 7,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 0.84
+                },
+                {
+                    "parroquia": "EL CARMEN DE PIJILI",
+                    "id": 1130,
+                    "votos": 2,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 0.41
+                },
+                {
+                    "parroquia": "ABDON CALDERON / LA UNION",
+                    "id": 15,
+                    "votos": 6,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 0.47
+                }
+            ]

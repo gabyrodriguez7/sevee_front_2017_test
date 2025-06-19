@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "BOLIVAR",
+        "id": 6520,
+        "votos": 246,
+        "candidato": "Alvaro Noboa",
+        "value": 8.08
+    },
+    {
+        "parroquia": "SAN VICENTE DE PUSIR",
+        "id": 3680,
+        "votos": 37,
+        "candidato": "Alvaro Noboa",
+        "value": 3.89
+    },
+    {
+        "parroquia": "MONTEOLIVO",
+        "id": 2455,
+        "votos": 66,
+        "candidato": "Alvaro Noboa",
+        "value": 6.71
+    },
+    {
+        "parroquia": "LOS ANDES",
+        "id": 2205,
+        "votos": 95,
+        "candidato": "Alvaro Noboa",
+        "value": 8.18
+    },
+    {
+        "parroquia": "GARCIA MORENO",
+        "id": 1315,
+        "votos": 124,
+        "candidato": "Alvaro Noboa",
+        "value": 12.1
+    },
+    {
+        "parroquia": "SAN RAFAEL",
+        "id": 1055,
+        "votos": 32,
+        "candidato": "Alvaro Noboa",
+        "value": 4.2
+    }
+]

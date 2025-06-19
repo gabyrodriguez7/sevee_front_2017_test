@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "GUAYAS / PUERTO NUEVO",
+        "id": 1470,
+        "votos": 13,
+        "candidato": "Wray Norman",
+        "value": 0.6
+    },
+    {
+        "parroquia": "EL ROSARIO",
+        "id": 1640,
+        "votos": 11,
+        "candidato": "Wray Norman",
+        "value": 0.431
+    },
+    {
+        "parroquia": "VELASCO IBARRA",
+        "id": 6225,
+        "votos": 163,
+        "candidato": "Wray Norman",
+        "value": 0.386
+    }
+]

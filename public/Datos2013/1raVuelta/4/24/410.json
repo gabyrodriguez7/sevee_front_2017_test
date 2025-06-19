@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "ATAHUALPA",
+        "id": 205,
+        "votos": 31,
+        "candidato": "Acosta Alberto",
+        "value": 1.5
+    },
+    {
+        "parroquia": "COLONCHE",
+        "id": 605,
+        "votos": 154,
+        "candidato": "Acosta Alberto",
+        "value": 0.9
+    },
+    {
+        "parroquia": "CHANDUY",
+        "id": 820,
+        "votos": 89,
+        "candidato": "Acosta Alberto",
+        "value": 1.0
+    },
+    {
+        "parroquia": "SAN JOSE DE ANCON",
+        "id": 1300,
+        "votos": 44,
+        "candidato": "Acosta Alberto",
+        "value": 1.4
+    },
+    {
+        "parroquia": "MANGLARALTO",
+        "id": 2355,
+        "votos": 188,
+        "candidato": "Acosta Alberto",
+        "value": 1.1
+    },
+    {
+        "parroquia": "SIMON BOLIVAR",
+        "id": 3915,
+        "votos": 19,
+        "candidato": "Acosta Alberto",
+        "value": 1.25
+    },
+    {
+        "parroquia": "BALLENITA",
+        "id": 5130,
+        "votos": 14,
+        "candidato": "Acosta Alberto",
+        "value": 1.21
+    },
+    {
+        "parroquia": "SANTA ELENA",
+        "id": 6040,
+        "votos": 502,
+        "candidato": "Acosta Alberto",
+        "value": 1.46
+    }
+]

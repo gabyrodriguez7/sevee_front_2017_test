@@ -1,0 +1,114 @@
+[
+    {
+        "parroquia": "CACHA",
+        "id": 420,
+        "votos": 70,
+        "candidato": "Noboa Alvaro",
+        "value": 3.39
+    },
+    {
+        "parroquia": "CALPI",
+        "id": 445,
+        "votos": 111,
+        "candidato": "Noboa Alvaro",
+        "value": 2.68
+    },
+    {
+        "parroquia": "CUBIJIES",
+        "id": 705,
+        "votos": 50,
+        "candidato": "Noboa Alvaro",
+        "value": 3.34
+    },
+    {
+        "parroquia": "FLORES",
+        "id": 1280,
+        "votos": 141,
+        "candidato": "Noboa Alvaro",
+        "value": 4.23
+    },
+    {
+        "parroquia": "LICTO",
+        "id": 2165,
+        "votos": 213,
+        "candidato": "Noboa Alvaro",
+        "value": 3.87
+    },
+    {
+        "parroquia": "PUNGALA",
+        "id": 3035,
+        "votos": 110,
+        "candidato": "Noboa Alvaro",
+        "value": 3.28
+    },
+    {
+        "parroquia": "PUNIN",
+        "id": 3040,
+        "votos": 211,
+        "candidato": "Noboa Alvaro",
+        "value": 5.24
+    },
+    {
+        "parroquia": "QUIMIAG",
+        "id": 3095,
+        "votos": 85,
+        "candidato": "Noboa Alvaro",
+        "value": 2.48
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3515,
+        "votos": 154,
+        "candidato": "Noboa Alvaro",
+        "value": 3.17
+    },
+    {
+        "parroquia": "SAN LUIS",
+        "id": 3560,
+        "votos": 183,
+        "candidato": "Noboa Alvaro",
+        "value": 4.6
+    },
+    {
+        "parroquia": "LIZARZABURU",
+        "id": 5590,
+        "votos": 791,
+        "candidato": "Noboa Alvaro",
+        "value": 2.35
+    },
+    {
+        "parroquia": "MALDONADO",
+        "id": 5630,
+        "votos": 530,
+        "candidato": "Noboa Alvaro",
+        "value": 2.31
+    },
+    {
+        "parroquia": "VELASCO",
+        "id": 6220,
+        "votos": 512,
+        "candidato": "Noboa Alvaro",
+        "value": 2.1
+    },
+    {
+        "parroquia": "VELOZ",
+        "id": 6230,
+        "votos": 319,
+        "candidato": "Noboa Alvaro",
+        "value": 2.0
+    },
+    {
+        "parroquia": "YARUQUIES",
+        "id": 6290,
+        "votos": 147,
+        "candidato": "Noboa Alvaro",
+        "value": 4.0
+    },
+    {
+        "parroquia": "LICAN",
+        "id": 6960,
+        "votos": 126,
+        "candidato": "Noboa Alvaro",
+        "value": 3.8
+    }
+]

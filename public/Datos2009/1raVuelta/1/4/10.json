@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "SAN JOSE",
+        "id": 5970,
+        "votos": 229,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.66
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 5405,
+        "votos": 274,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 4.42
+    },
+    {
+        "parroquia": "LA PAZ",
+        "id": 2065,
+        "votos": 41,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.27
+    },
+    {
+        "parroquia": "FERNANDEZ SALVADOR",
+        "id": 1270,
+        "votos": 14,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.5
+    },
+    {
+        "parroquia": "CHITAN DE NAVARRETES",
+        "id": 910,
+        "votos": 6,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.61
+    },
+    {
+        "parroquia": "CRISTOBAL COLON",
+        "id": 690,
+        "votos": 50,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.71
+    },
+    {
+        "parroquia": "PIARTAL",
+        "id": 250,
+        "votos": 10,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.75
+    }
+]

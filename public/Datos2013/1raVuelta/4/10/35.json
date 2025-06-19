@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "DR MIGUEL EGAS/PEGUCHE",
+        "id": 1040,
+        "votos": 152,
+        "candidato": "Acosta Alberto",
+        "value": 4.4653
+    },
+    {
+        "parroquia": "EUGENIO ESPEJO",
+        "id": 1215,
+        "votos": 147,
+        "candidato": "Acosta Alberto",
+        "value": 3.6898
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 1360,
+        "votos": 257,
+        "candidato": "Acosta Alberto",
+        "value": 7.3157
+    },
+    {
+        "parroquia": "PATAQUI",
+        "id": 2785,
+        "votos": 2,
+        "candidato": "Acosta Alberto",
+        "value": 1.0
+    },
+    {
+        "parroquia": "SAN JOSE DE QUICHINCHE",
+        "id": 3490,
+        "votos": 162,
+        "candidato": "Acosta Alberto",
+        "value": 3.8691
+    },
+    {
+        "parroquia": "SAN JUAN DE ILUMAN",
+        "id": 3525,
+        "votos": 192,
+        "candidato": "Acosta Alberto",
+        "value": 4.2943
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 3590,
+        "votos": 439,
+        "candidato": "Acosta Alberto",
+        "value": 7.4838
+    },
+    {
+        "parroquia": "SAN RAFAEL",
+        "id": 3630,
+        "votos": 145,
+        "candidato": "Acosta Alberto",
+        "value": 4.7713
+    },
+    {
+        "parroquia": "SELVA ALEGRE",
+        "id": 3810,
+        "votos": 51,
+        "candidato": "Acosta Alberto",
+        "value": 5.3684
+    },
+    {
+        "parroquia": "JORDAN",
+        "id": 5490,
+        "votos": 582,
+        "candidato": "Acosta Alberto",
+        "value": 3.0166
+    },
+    {
+        "parroquia": "SAN LUIS",
+        "id": 5980,
+        "votos": 533,
+        "candidato": "Acosta Alberto",
+        "value": 4.0
+    }
+]

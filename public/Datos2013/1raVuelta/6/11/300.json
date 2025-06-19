@@ -1,0 +1,122 @@
+[
+                {
+                    "parroquia": "CHUQUIRIBAMBA",
+                    "id": 975,
+                    "votos": 328,
+                    "candidato": "Lasso Guillermo",
+                    "value": 21.5789
+                },
+                {
+                    "parroquia": "EL CISNE",
+                    "id": 1135,
+                    "votos": 176,
+                    "candidato": "Lasso Guillermo",
+                    "value": 19.3
+                },
+                {
+                    "parroquia": "GUALEL",
+                    "id": 1405,
+                    "votos": 284,
+                    "candidato": "Lasso Guillermo",
+                    "value": 26.51727
+                },
+                {
+                    "parroquia": "QUINARA",
+                    "id": 1780,
+                    "votos": 215,
+                    "candidato": "Lasso Guillermo",
+                    "value": 29.944
+                },
+                {
+                    "parroquia": "JIMBILLA",
+                    "id": 1840,
+                    "votos": 205,
+                    "candidato": "Lasso Guillermo",
+                    "value": 29.7
+                },
+                {
+                    "parroquia": "MALACATOS/VALLADOLID",
+                    "id": 2325,
+                    "votos": 872,
+                    "candidato": "Lasso Guillermo",
+                    "value": 20.532
+                },
+                {
+                    "parroquia": "SAN LUCAS",
+                    "id": 3555,
+                    "votos": 323,
+                    "candidato": "Lasso Guillermo",
+                    "value": 13.189
+                },
+                {
+                    "parroquia": "SANTIAGO",
+                    "id": 3770,
+                    "votos": 206,
+                    "candidato": "Lasso Guillermo",
+                    "value": 24.0
+                },
+                {
+                    "parroquia": "TAQUIL /MIGUEL RIOFRIO",
+                    "id": 3970,
+                    "votos": 319,
+                    "candidato": "Lasso Guillermo",
+                    "value": 18.8
+                },
+                {
+                    "parroquia": "VILCABAMBA/VICTORIA",
+                    "id": 4235,
+                    "votos": 540,
+                    "candidato": "Lasso Guillermo",
+                    "value": 18.2371
+                },
+                {
+                    "parroquia": "YANGANA / ARSENIO CASTILLO",
+                    "id": 4280,
+                    "votos": 273,
+                    "candidato": "Lasso Guillermo",
+                    "value": 28.616
+                },
+                {
+                    "parroquia": "CHANTACO",
+                    "id": 4475,
+                    "votos": 141,
+                    "candidato": "Lasso Guillermo",
+                    "value": 20.0
+                },
+                {
+                    "parroquia": "SAN PEDRO DE VILCABAMBA",
+                    "id": 4540,
+                    "votos": 124,
+                    "candidato": "Lasso Guillermo",
+                    "value": 19.0
+                },
+                {
+                    "parroquia": "EL SAGRARIO",
+                    "id": 5320,
+                    "votos": 6652,
+                    "candidato": "Lasso Guillermo",
+                    "value": 39.2634
+                },
+                {
+                    "parroquia": "SAN SEBASTIAN",
+                    "id": 6015,
+                    "votos": 7762,
+                    "candidato": "Lasso Guillermo",
+                    "value": 33.7
+                },
+                {
+                    "parroquia": "SUCRE",
+                    "id": 6100,
+                    "votos": 14319,
+                    "candidato": "Lasso Guillermo",
+                    "value": 32.0
+                },
+                {
+                    "parroquia": "VALLE",
+                    "id": 6210,
+                    "votos": 9434,
+                    "candidato": "Lasso Guillermo",
+                    "value": 33.9
+                }
+            ]
+            

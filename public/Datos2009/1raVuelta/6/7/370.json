@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "LA SUSAYA",
+        "id": 6680,
+        "votos": 0,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.0
+    },
+    {
+        "parroquia": "PIÑAS GRANDE",
+        "id": 6675,
+        "votos": 0,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.0
+    },
+    {
+        "parroquia": "PIÑAS",
+        "id": 5790,
+        "votos": 130,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.35
+    },
+    {
+        "parroquia": "SAN ROQUE",
+        "id": 3650,
+        "votos": 1,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.28
+    },
+    {
+        "parroquia": "PIEDRAS",
+        "id": 2850,
+        "votos": 0,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.0
+    },
+    {
+        "parroquia": "MOROMORO",
+        "id": 2465,
+        "votos": 7,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.94
+    },
+    {
+        "parroquia": "LA BOCANA",
+        "id": 2230,
+        "votos": 3,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.53
+    },
+    {
+        "parroquia": "SARACAY",
+        "id": 1385,
+        "votos": 3,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.59
+    },
+    {
+        "parroquia": "CAPIRO",
+        "id": 505,
+        "votos": 5,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.88
+    }
+]

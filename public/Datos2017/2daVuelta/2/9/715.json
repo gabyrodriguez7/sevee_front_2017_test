@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "VALLE DE LA VIRGEN",
+    "id": 185,
+    "votos": 1440,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 75.95
+  },
+  {
+    "parroquia": "SABANILLA",
+    "id": 1670,
+    "votos": 1737,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 66.07
+  },
+  {
+    "parroquia": "PEDRO CARBO",
+    "id": 5735,
+    "votos": 16594,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 63.04
+  }
+]

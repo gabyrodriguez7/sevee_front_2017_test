@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "BULÁN / J. VICTOR IZQUIERDO",
+    "id": 395,
+    "votos": 30,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.52
+  },
+  {
+    "parroquia": "CHICAN / GUILLERMO ORTEGA",
+    "id": 870,
+    "votos": 36,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.74
+  },
+  {
+    "parroquia": "DUG-DUG",
+    "id": 890,
+    "votos": 10,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.35
+  },
+  {
+    "parroquia": "GUARAINAC",
+    "id": 1455,
+    "votos": 15,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.37
+  },
+  {
+    "parroquia": "SAN CRISTÓBAL",
+    "id": 3375,
+    "votos": 57,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.54
+  },
+  {
+    "parroquia": "TOMEBAMBA",
+    "id": 4050,
+    "votos": 8,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.12
+  },
+  {
+    "parroquia": "EL CABO",
+    "id": 4565,
+    "votos": 24,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.95
+  },
+  {
+    "parroquia": "PAUTE",
+    "id": 5775,
+    "votos": 295,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.02
+  }
+]

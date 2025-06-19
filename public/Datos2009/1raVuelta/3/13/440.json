@@ -1,0 +1,114 @@
+[
+    {
+        "parroquia": "SIMON BOLIVAR",
+        "id": 6910,
+        "votos": 5,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.81
+    },
+    {
+        "parroquia": "FRANCISCO PACHECO",
+        "id": 6775,
+        "votos": 0,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.0
+    },
+    {
+        "parroquia": "18 DE OCTUBRE",
+        "id": 6770,
+        "votos": 2,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.66
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 6585,
+        "votos": 7,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.21
+    },
+    {
+        "parroquia": "PICOAZA",
+        "id": 5845,
+        "votos": 34,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.35
+    },
+    {
+        "parroquia": "PORTOVIEJO",
+        "id": 5795,
+        "votos": 42,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.18
+    },
+    {
+        "parroquia": "12 DE MARZO",
+        "id": 5280,
+        "votos": 56,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.2
+    },
+    {
+        "parroquia": "COLON",
+        "id": 5265,
+        "votos": 34,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.36
+    },
+    {
+        "parroquia": "ANDRES DE VERA",
+        "id": 5030,
+        "votos": 74,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.21
+    },
+    {
+        "parroquia": "SAN PLACIDO",
+        "id": 3625,
+        "votos": 15,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.33
+    },
+    {
+        "parroquia": "RIO CHICO",
+        "id": 3185,
+        "votos": 22,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.38
+    },
+    {
+        "parroquia": "PUEBLO NUEVO",
+        "id": 2970,
+        "votos": 8,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.48
+    },
+    {
+        "parroquia": "CHIRIJOS",
+        "id": 1925,
+        "votos": 2,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.32
+    },
+    {
+        "parroquia": "CRUCITA",
+        "id": 770,
+        "votos": 14,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.27
+    },
+    {
+        "parroquia": "ALHAJUELA /BAJO GRANDE",
+        "id": 50,
+        "votos": 10,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.34
+    },
+    {
+        "parroquia": "ABDON CALDERON",
+        "id": 10,
+        "votos": 25,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.34
+    }
+]

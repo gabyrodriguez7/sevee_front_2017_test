@@ -1,0 +1,93 @@
+[
+  {
+    "parroquia": "ALTO TAMBO/GUADAL",
+    "id": 70,
+    "votos": 10,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.68
+  },
+  {
+    "parroquia": "ANCÓN/PALMA REAL",
+    "id": 110,
+    "votos": 34,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 4.38
+  },
+  {
+    "parroquia": "CALDERÓN",
+    "id": 435,
+    "votos": 23,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 6.42
+  },
+  {
+    "parroquia": "CARONDELET",
+    "id": 535,
+    "votos": 51,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 9.24
+  },
+  {
+    "parroquia": "5 DE JUNIO/HUIMBI",
+    "id": 570,
+    "votos": 4,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.47
+  },
+  {
+    "parroquia": "CONCEPCIÓN",
+    "id": 620,
+    "votos": 54,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 7.94
+  },
+  {
+    "parroquia": "MATAJE",
+    "id": 2395,
+    "votos": 24,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 5.25
+  },
+  {
+    "parroquia": "SAN JAVIER DE CACHABI",
+    "id": 3455,
+    "votos": 53,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 12.9
+  },
+  {
+    "parroquia": "SANTA RITA",
+    "id": 3725,
+    "votos": 8,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.47
+  },
+  {
+    "parroquia": "TAMBILLO",
+    "id": 3955,
+    "votos": 28,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 4.56
+  },
+  {
+    "parroquia": "TULULBÍ /RICAURTE",
+    "id": 4075,
+    "votos": 42,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 5.01
+  },
+  {
+    "parroquia": "URBINA",
+    "id": 4125,
+    "votos": 35,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 7.03
+  },
+  {
+    "parroquia": "SAN LORENZO",
+    "id": 6130,
+    "votos": 816,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 7.17
+  }
+]

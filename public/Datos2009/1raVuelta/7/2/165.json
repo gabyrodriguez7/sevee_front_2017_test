@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "GUANUJO",
+        "id": 6630,
+        "votos": 274,
+        "candidato": "Alvaro Noboa",
+        "value": 2.58
+    },
+    {
+        "parroquia": "GABRIEL I VEINTIMILLA",
+        "id": 5375,
+        "votos": 519,
+        "candidato": "Alvaro Noboa",
+        "value": 5.07
+    },
+    {
+        "parroquia": "ANGEL POLIVIO CHAVEZ",
+        "id": 5035,
+        "votos": 490,
+        "candidato": "Alvaro Noboa",
+        "value": 6.55
+    },
+    {
+        "parroquia": "SIMIATUG",
+        "id": 3860,
+        "votos": 110,
+        "candidato": "Alvaro Noboa",
+        "value": 3.33
+    },
+    {
+        "parroquia": "SANTA FE",
+        "id": 3710,
+        "votos": 31,
+        "candidato": "Alvaro Noboa",
+        "value": 2.93
+    },
+    {
+        "parroquia": "SAN SIMON",
+        "id": 3670,
+        "votos": 27,
+        "candidato": "Alvaro Noboa",
+        "value": 1.77
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 3545,
+        "votos": 34,
+        "candidato": "Alvaro Noboa",
+        "value": 3.21
+    },
+    {
+        "parroquia": "SALINAS",
+        "id": 3285,
+        "votos": 50,
+        "candidato": "Alvaro Noboa",
+        "value": 3.15
+    },
+    {
+        "parroquia": "JULIO E MORENO",
+        "id": 1890,
+        "votos": 13,
+        "candidato": "Alvaro Noboa",
+        "value": 1.82
+    },
+    {
+        "parroquia": "FACUNDO VELA",
+        "id": 1255,
+        "votos": 30,
+        "candidato": "Alvaro Noboa",
+        "value": 3.99
+    },
+    {
+        "parroquia": "SAN LUIS DE PAMBIL",
+        "id": 795,
+        "votos": 29,
+        "candidato": "Alvaro Noboa",
+        "value": 1.34
+    }
+]

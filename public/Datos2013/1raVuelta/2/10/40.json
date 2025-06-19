@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "APUELA",
+        "id": 145,
+        "votos": 681,
+        "candidato": "Correa Delgado Rafael",
+        "value": 64.3
+    },
+    {
+        "parroquia": "GARCIA MORENO / LLURIMAGUA",
+        "id": 1310,
+        "votos": 2249,
+        "candidato": "Correa Delgado Rafael",
+        "value": 69.3
+    },
+    {
+        "parroquia": "IMANTAG",
+        "id": 1710,
+        "votos": 1880,
+        "candidato": "Correa Delgado Rafael",
+        "value": 68.0
+    },
+    {
+        "parroquia": "PEÑAHERRERA",
+        "id": 2820,
+        "votos": 691,
+        "candidato": "Correa Delgado Rafael",
+        "value": 67.0
+    },
+    {
+        "parroquia": "PLAZA GUTIERREZ/CALVARIO",
+        "id": 2915,
+        "votos": 184,
+        "candidato": "Correa Delgado Rafael",
+        "value": 59.4
+    },
+    {
+        "parroquia": "QUIROGA",
+        "id": 3115,
+        "votos": 2762,
+        "candidato": "Correa Delgado Rafael",
+        "value": 65.6
+    },
+    {
+        "parroquia": "6 DE JULIO DE CUELLAJE",
+        "id": 3800,
+        "votos": 613,
+        "candidato": "Correa Delgado Rafael",
+        "value": 60.6
+    },
+    {
+        "parroquia": "VACAS GALINDO",
+        "id": 4185,
+        "votos": 237,
+        "candidato": "Correa Delgado Rafael",
+        "value": 68.1
+    },
+    {
+        "parroquia": "SAGRARIO",
+        "id": 5910,
+        "votos": 3765,
+        "candidato": "Correa Delgado Rafael",
+        "value": 57.0
+    },
+    {
+        "parroquia": "SAN FRANCISCO",
+        "id": 5955,
+        "votos": 2060,
+        "candidato": "Correa Delgado Rafael",
+        "value": 56.6
+    }
+]

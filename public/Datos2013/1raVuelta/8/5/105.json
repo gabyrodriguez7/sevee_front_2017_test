@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "ANGAMARCA",
+        "id": 125,
+        "votos": 54,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.7
+    },
+    {
+        "parroquia": "GUANGAJE",
+        "id": 1430,
+        "votos": 122,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.0
+    },
+    {
+        "parroquia": "LA VICTORIA",
+        "id": 2150,
+        "votos": 86,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 5.17
+    },
+    {
+        "parroquia": "PILALO",
+        "id": 2865,
+        "votos": 36,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.87
+    },
+    {
+        "parroquia": "TINGO",
+        "id": 4015,
+        "votos": 117,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 6.5
+    },
+    {
+        "parroquia": "ZUMBAHUA",
+        "id": 4365,
+        "votos": 209,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.3
+    },
+    {
+        "parroquia": "PUJILI",
+        "id": 5820,
+        "votos": 1563,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 7.55547
+    }
+]

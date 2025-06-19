@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "BOLIVAR",
+        "id": 355,
+        "votos": 6,
+        "candidato": "Gutierrez Lucio",
+        "value": 1.21
+    },
+    {
+        "parroquia": "DAULE",
+        "id": 1010,
+        "votos": 10,
+        "candidato": "Gutierrez Lucio",
+        "value": 1.53
+    },
+    {
+        "parroquia": "GALERA",
+        "id": 1305,
+        "votos": 42,
+        "candidato": "Gutierrez Lucio",
+        "value": 5.81
+    },
+    {
+        "parroquia": "QUINGUE",
+        "id": 3125,
+        "votos": 13,
+        "candidato": "Gutierrez Lucio",
+        "value": 3.0
+    },
+    {
+        "parroquia": "SALIMA",
+        "id": 3280,
+        "votos": 16,
+        "candidato": "Gutierrez Lucio",
+        "value": 2.9
+    },
+    {
+        "parroquia": "SAN FRANCISCO",
+        "id": 3390,
+        "votos": 56,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.51
+    },
+    {
+        "parroquia": "SAN GREGORIO",
+        "id": 3430,
+        "votos": 79,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.28
+    },
+    {
+        "parroquia": "SAN JOSE DE CHAMANGA",
+        "id": 3470,
+        "votos": 43,
+        "candidato": "Gutierrez Lucio",
+        "value": 2.3
+    },
+    {
+        "parroquia": "MUISNE",
+        "id": 5670,
+        "votos": 238,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.008
+    }
+]

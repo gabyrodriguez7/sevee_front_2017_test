@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "SANTA ELENA",
+        "id": 6040,
+        "votos": 1739,
+        "candidato": "Lucio Gutierrez",
+        "value": 5.89
+    },
+    {
+        "parroquia": "BALLENITA",
+        "id": 5130,
+        "votos": 79,
+        "candidato": "Lucio Gutierrez",
+        "value": 9.68
+    },
+    {
+        "parroquia": "SIMON BOLIVAR",
+        "id": 3915,
+        "votos": 153,
+        "candidato": "Lucio Gutierrez",
+        "value": 14.78
+    },
+    {
+        "parroquia": "MANGLARALTO",
+        "id": 2355,
+        "votos": 533,
+        "candidato": "Lucio Gutierrez",
+        "value": 3.99
+    },
+    {
+        "parroquia": "SAN JOSE DE ANCON",
+        "id": 1300,
+        "votos": 84,
+        "candidato": "Lucio Gutierrez",
+        "value": 4.1
+    },
+    {
+        "parroquia": "CHANDUY",
+        "id": 820,
+        "votos": 422,
+        "candidato": "Lucio Gutierrez",
+        "value": 6.25
+    },
+    {
+        "parroquia": "COLONCHE",
+        "id": 605,
+        "votos": 406,
+        "candidato": "Lucio Gutierrez",
+        "value": 2.97
+    },
+    {
+        "parroquia": "ATAHUALPA",
+        "id": 205,
+        "votos": 79,
+        "candidato": "Lucio Gutierrez",
+        "value": 4.36
+    }
+]

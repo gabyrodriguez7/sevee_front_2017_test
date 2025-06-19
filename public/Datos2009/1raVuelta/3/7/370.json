@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "LA SUSAYA",
+    "id": 6680,
+    "votos": 1,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 1.49
+  },
+  {
+    "parroquia": "PIÑAS GRANDE",
+    "id": 6675,
+    "votos": 0,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.0
+  },
+  {
+    "parroquia": "PIÑAS",
+    "id": 5790,
+    "votos": 73,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.76
+  },
+  {
+    "parroquia": "SAN ROQUE",
+    "id": 3650,
+    "votos": 3,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.86
+  },
+  {
+    "parroquia": "PIEDRAS",
+    "id": 2850,
+    "votos": 4,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 1.12
+  },
+  {
+    "parroquia": "MOROMORO",
+    "id": 2465,
+    "votos": 3,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.4
+  },
+  {
+    "parroquia": "LA BOCANA",
+    "id": 2230,
+    "votos": 4,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.71
+  },
+  {
+    "parroquia": "SARACAY",
+    "id": 1385,
+    "votos": 2,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.39
+  },
+  {
+    "parroquia": "CAPIRO",
+    "id": 505,
+    "votos": 9,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 1.59
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "PALMA ROJA",
+    "id": 2720,
+    "votos": 146,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.53
+  },
+  {
+    "parroquia": "PUERTO BOLÍVAR",
+    "id": 3005,
+    "votos": 7,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.77
+  },
+  {
+    "parroquia": "PUERTO RODRÍGUEZ",
+    "id": 3020,
+    "votos": 6,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.04
+  },
+  {
+    "parroquia": "SANTA ELENA",
+    "id": 3705,
+    "votos": 43,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.12
+  },
+  {
+    "parroquia": "EL CARMEN DE PUTUMAYO",
+    "id": 6500,
+    "votos": 117,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.13
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "AYACUCHO",
+    "id": 220,
+    "votos": 314,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.03
+  },
+  {
+    "parroquia": "SAN PABLO",
+    "id": 1105,
+    "votos": 123,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.99
+  },
+  {
+    "parroquia": "HONORATO VÁSQUEZ",
+    "id": 1610,
+    "votos": 181,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.83
+  },
+  {
+    "parroquia": "LA UNIÓN",
+    "id": 2135,
+    "votos": 275,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.85
+  },
+  {
+    "parroquia": "SANTA ANA",
+    "id": 6030,
+    "votos": 1202,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.53
+  },
+  {
+    "parroquia": "LODANA",
+    "id": 6725,
+    "votos": 98,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.01
+  }
+]

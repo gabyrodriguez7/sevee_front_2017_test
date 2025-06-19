@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "TONSUPA",
+    "id": 1615,
+    "votos": 93,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.84
+  },
+  {
+    "parroquia": "LA UNIÓN",
+    "id": 2130,
+    "votos": 15,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.03
+  },
+  {
+    "parroquia": "SÚA/BOCANA",
+    "id": 3880,
+    "votos": 27,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.35
+  },
+  {
+    "parroquia": "TONCHÍGUE",
+    "id": 4055,
+    "votos": 81,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.89
+  },
+  {
+    "parroquia": "ATACAMES",
+    "id": 6380,
+    "votos": 178,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.73
+  }
+]

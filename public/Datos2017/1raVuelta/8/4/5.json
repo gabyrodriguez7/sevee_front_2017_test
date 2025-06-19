@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "EL CARMELO/EL PUN",
+    "id": 1125,
+    "votos": 66,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.02
+  },
+  {
+    "parroquia": "EL CHICAL",
+    "id": 1195,
+    "votos": 12,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.94
+  },
+  {
+    "parroquia": "SANTA MARTHA DE CUBA",
+    "id": 1765,
+    "votos": 69,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.65
+  },
+  {
+    "parroquia": "JULIO ANDRADE",
+    "id": 1885,
+    "votos": 242,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.88
+  },
+  {
+    "parroquia": "MALDONADO",
+    "id": 2340,
+    "votos": 14,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.51
+  },
+  {
+    "parroquia": "PIOTER",
+    "id": 2900,
+    "votos": 14,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.64
+  },
+  {
+    "parroquia": "TOBAR DONOSO",
+    "id": 4040,
+    "votos": 10,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.46
+  },
+  {
+    "parroquia": "TUFIÑO",
+    "id": 4070,
+    "votos": 44,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.44
+  },
+  {
+    "parroquia": "URBINA",
+    "id": 4130,
+    "votos": 21,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.44
+  },
+  {
+    "parroquia": "GONZALEZ SUÁREZ",
+    "id": 5415,
+    "votos": 420,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.19
+  },
+  {
+    "parroquia": "TULCÁN",
+    "id": 6165,
+    "votos": 569,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.4
+  }
+]

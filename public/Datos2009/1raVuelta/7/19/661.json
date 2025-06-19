@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "PALANDA",
+    "id": 6740,
+    "votos": 20,
+    "candidato": "Alvaro Noboa",
+    "value": 1.0
+  },
+  {
+    "parroquia": "SAN FRANCISCO DEL VERGEL",
+    "id": 4505,
+    "votos": 4,
+    "candidato": "Alvaro Noboa",
+    "value": 0.78
+  },
+  {
+    "parroquia": "VALLADOLID",
+    "id": 4195,
+    "votos": 11,
+    "candidato": "Alvaro Noboa",
+    "value": 1.42
+  },
+  {
+    "parroquia": "EL PORVENIR DEL CARMEN",
+    "id": 1240,
+    "votos": 5,
+    "candidato": "Alvaro Noboa",
+    "value": 0.87
+  }
+]

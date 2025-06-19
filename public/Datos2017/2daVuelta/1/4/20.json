@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "JIJÓN Y CAAMAÑO",
+    "id": 1835,
+    "votos": 348,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 28.83
+  },
+  {
+    "parroquia": "JUAN MONTALVO",
+    "id": 1875,
+    "votos": 183,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 19.57
+  },
+  {
+    "parroquia": "LA CONCEPCIÓN",
+    "id": 2010,
+    "votos": 263,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 11.88
+  },
+  {
+    "parroquia": "MIRA",
+    "id": 5685,
+    "votos": 1753,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 36.04
+  }
+]

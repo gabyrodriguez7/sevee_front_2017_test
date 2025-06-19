@@ -1,0 +1,38 @@
+[
+    {
+        "id": 30,
+        "candidato": "Rafael Correa Delgado",
+        "votos": 61434,
+        "value": 64.29
+    },
+    {
+        "id": 35,
+        "candidato": "Rafael Correa Delgado",
+        "votos": 33261,
+        "value": 68.39
+    },
+    {
+        "id": 40,
+        "candidato": "Rafael Correa Delgado",
+        "votos": 14315,
+        "value": 73.73
+    },
+    {
+        "id": 45,
+        "candidato": "Rafael Correa Delgado",
+        "votos": 14583,
+        "value": 67.75
+    },
+    {
+        "id": 50,
+        "candidato": "Rafael Correa Delgado",
+        "votos": 5081,
+        "value": 61.11
+    },
+    {
+        "id": 55,
+        "candidato": "Rafael Correa Delgado",
+        "votos": 6125,
+        "value": 72.29
+    }
+]

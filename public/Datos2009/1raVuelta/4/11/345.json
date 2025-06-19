@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "SOZORANGA",
+        "id": 6120,
+        "votos": 825,
+        "candidato": "Rafael Correa Delgado",
+        "value": 56.23
+    },
+    {
+        "parroquia": "TACAMOROS",
+        "id": 3935,
+        "votos": 749,
+        "candidato": "Rafael Correa Delgado",
+        "value": 69.6
+    },
+    {
+        "parroquia": "NUEVA FATIMA",
+        "id": 2575,
+        "votos": 317,
+        "candidato": "Rafael Correa Delgado",
+        "value": 77.5
+    }
+]

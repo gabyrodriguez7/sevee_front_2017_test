@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "C. E. EN MILAN",
+    "id": 9043,
+    "votos": 265,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.36
+  },
+  {
+    "parroquia": "C. E. EN GENOVA",
+    "id": 9044,
+    "votos": 138,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.33
+  },
+  {
+    "parroquia": "C. E. EN ROMA",
+    "id": 9045,
+    "votos": 84,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.83
+  }
+]

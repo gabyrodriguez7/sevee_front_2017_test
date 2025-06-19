@@ -1,0 +1,86 @@
+[
+    {
+        "parroquia": "CAÑAR",
+        "id": 5160,
+        "votos": 97,
+        "candidato": "Melba Jacome",
+        "value": 0.91
+    },
+    {
+        "parroquia": "ZHUD",
+        "id": 4345,
+        "votos": 8,
+        "candidato": "Melba Jacome",
+        "value": 1.68
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3305,
+        "votos": 3,
+        "candidato": "Melba Jacome",
+        "value": 0.44
+    },
+    {
+        "parroquia": "JUNCAL",
+        "id": 1900,
+        "votos": 13,
+        "candidato": "Melba Jacome",
+        "value": 2.13
+    },
+    {
+        "parroquia": "DUCUR",
+        "id": 1895,
+        "votos": 4,
+        "candidato": "Melba Jacome",
+        "value": 0.49
+    },
+    {
+        "parroquia": "VENTURA",
+        "id": 1775,
+        "votos": 7,
+        "candidato": "Melba Jacome",
+        "value": 2.55
+    },
+    {
+        "parroquia": "INGAPIRCA",
+        "id": 1725,
+        "votos": 41,
+        "candidato": "Melba Jacome",
+        "value": 1.63
+    },
+    {
+        "parroquia": "HONORATO VASQUEZ",
+        "id": 1605,
+        "votos": 15,
+        "candidato": "Melba Jacome",
+        "value": 0.68
+    },
+    {
+        "parroquia": "GUALLETURO",
+        "id": 1410,
+        "votos": 18,
+        "candidato": "Melba Jacome",
+        "value": 1.57
+    },
+    {
+        "parroquia": "GRAL.MORALES / SOCARTE",
+        "id": 1335,
+        "votos": 20,
+        "candidato": "Melba Jacome",
+        "value": 3.26
+    },
+    {
+        "parroquia": "CHOROCOPTE",
+        "id": 950,
+        "votos": 6,
+        "candidato": "Melba Jacome",
+        "value": 0.77
+    },
+    {
+        "parroquia": "CHONTAMARCA",
+        "id": 935,
+        "votos": 24,
+        "candidato": "Melba Jacome",
+        "value": 2.0
+    }
+]

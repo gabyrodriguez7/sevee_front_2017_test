@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "ABANIN",
+        "id": 5,
+        "votos": 15,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.8007
+    },
+    {
+        "parroquia": "GUANAZAN",
+        "id": 1420,
+        "votos": 36,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.199
+    },
+    {
+        "parroquia": "GUIZHAGUI�A",
+        "id": 1425,
+        "votos": 20,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.736
+    },
+    {
+        "parroquia": "HUERTAS",
+        "id": 1655,
+        "votos": 36,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.771
+    },
+    {
+        "parroquia": "SINSAO",
+        "id": 1700,
+        "votos": 36,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 6.6298
+    },
+    {
+        "parroquia": "SALVIAS",
+        "id": 1750,
+        "votos": 12,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.217
+    },
+    {
+        "parroquia": "MALVAS",
+        "id": 2350,
+        "votos": 25,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.3029
+    },
+    {
+        "parroquia": "ARCAPAMBA",
+        "id": 4445,
+        "votos": 35,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 5.177514793
+    },
+    {
+        "parroquia": "MULUNCAY GRANDE",
+        "id": 4450,
+        "votos": 19,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.9175
+    },
+    {
+        "parroquia": "ZARUMA",
+        "id": 6310,
+        "votos": 281,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.48
+    }
+]

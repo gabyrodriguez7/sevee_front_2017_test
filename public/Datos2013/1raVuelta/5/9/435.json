@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "JESUS MARIA",
+        "id": 1830,
+        "votos": 44,
+        "candidato": "Gutierrez Lucio",
+        "value": 2.8369
+    },
+    {
+        "parroquia": "SAN CARLOS",
+        "id": 3370,
+        "votos": 77,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.5779
+    },
+    {
+        "parroquia": "SANTA ROSA DE FLANDES",
+        "id": 3740,
+        "votos": 29,
+        "candidato": "Gutierrez Lucio",
+        "value": 2.9592
+    },
+    {
+        "parroquia": "TAURA",
+        "id": 3990,
+        "votos": 74,
+        "candidato": "Gutierrez Lucio",
+        "value": 1.8868
+    },
+    {
+        "parroquia": "NARANJAL",
+        "id": 5675,
+        "votos": 1204,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.2173
+    }
+]

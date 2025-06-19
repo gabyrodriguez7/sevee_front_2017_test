@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CHUNCHI",
+        "id": 5255,
+        "votos": 50,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.31
+    },
+    {
+        "parroquia": "LLAGOS",
+        "id": 2260,
+        "votos": 5,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.0
+    },
+    {
+        "parroquia": "GONZOL",
+        "id": 1370,
+        "votos": 6,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.32
+    },
+    {
+        "parroquia": "COMPUD",
+        "id": 615,
+        "votos": 3,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.0
+    },
+    {
+        "parroquia": "CAPZOL",
+        "id": 515,
+        "votos": 4,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.88
+    }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "GUARE",
+    "id": 1460,
+    "votos": 30,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.77
+  },
+  {
+    "parroquia": "ISLA DE BEJUCAL",
+    "id": 1740,
+    "votos": 30,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.68
+  },
+  {
+    "parroquia": "BABA",
+    "id": 5085,
+    "votos": 74,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.5
+  }
+]

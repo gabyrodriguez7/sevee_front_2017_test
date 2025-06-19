@@ -1,0 +1,68 @@
+[
+    {
+        "candidato1": "LUCIO GUTIERREZ",
+        "candidato2": "RAFAEL CORREA DELGADO",
+        "id": 510,
+        "votos": 310,
+        "votos1": 268,
+        "votos2": 25,
+        "fill": "#455709",
+        "porcentaje1": 86.45,
+        "porcentaje2": 8.06
+    },
+    {
+        "candidato1": "LUCIO GUTIERREZ",
+        "candidato2": "RAFAEL CORREA DELGADO",
+        "id": 630,
+        "votos": 172,
+        "votos1": 91,
+        "votos2": 63,
+        "fill": "#455709",
+        "porcentaje1": 52.9,
+        "porcentaje2": 36.62
+    },
+    {
+        "candidato1": "LUCIO GUTIERREZ",
+        "candidato2": "RAFAEL CORREA DELGADO",
+        "id": 3720,
+        "votos": 199,
+        "votos1": 145,
+        "votos2": 38,
+        "fill": "#455709",
+        "porcentaje1": 72.86,
+        "porcentaje2": 19.09
+    },
+    {
+        "candidato1": "LUCIO GUTIERREZ",
+        "candidato2": "RAFAEL CORREA DELGADO",
+        "id": 4020,
+        "votos": 686,
+        "votos1": 504,
+        "votos2": 108,
+        "fill": "#455709",
+        "porcentaje1": 73.46,
+        "porcentaje2": 15.74
+    },
+    {
+        "candidato1": "LUCIO GUTIERREZ",
+        "candidato2": "RAFAEL CORREA DELGADO",
+        "id": 4295,
+        "votos": 159,
+        "votos1": 115,
+        "votos2": 34,
+        "fill": "#455709",
+        "porcentaje1": 72.32,
+        "porcentaje2": 21.38
+    },
+    {
+        "candidato1": "LUCIO GUTIERREZ",
+        "candidato2": "RAFAEL CORREA DELGADO",
+        "id": 5700,
+        "votos": 546,
+        "votos1": 431,
+        "votos2": 91,
+        "fill": "#455709",
+        "porcentaje1": 78.93,
+        "porcentaje2": 16.66
+    }
+]

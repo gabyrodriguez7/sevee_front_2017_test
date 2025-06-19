@@ -1,0 +1,72 @@
+[
+  {
+    "parroquia": "BENÍTEZ /PACHANLICA",
+    "id": 335,
+    "votos": 176,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.86
+  },
+  {
+    "parroquia": "BOLÍVAR",
+    "id": 365,
+    "votos": 182,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.69
+  },
+  {
+    "parroquia": "COTALO",
+    "id": 675,
+    "votos": 83,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.06
+  },
+  {
+    "parroquia": "CHIQUICHA",
+    "id": 900,
+    "votos": 207,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 14.79
+  },
+  {
+    "parroquia": "EL ROSARIO /RUMICHACA",
+    "id": 1185,
+    "votos": 271,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 16.19
+  },
+  {
+    "parroquia": "GARCÍA MORENO",
+    "id": 1320,
+    "votos": 281,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 12.58
+  },
+  {
+    "parroquia": "HUAMBALO",
+    "id": 1630,
+    "votos": 515,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.09
+  },
+  {
+    "parroquia": "SALASACA",
+    "id": 3905,
+    "votos": 1385,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 41.17
+  },
+  {
+    "parroquia": "PELILEO",
+    "id": 5780,
+    "votos": 1867,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.19
+  },
+  {
+    "parroquia": "PELILÉO GRANDE /R. MINO",
+    "id": 5900,
+    "votos": 76,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.64
+  }
+]

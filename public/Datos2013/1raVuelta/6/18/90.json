@@ -1,0 +1,16 @@
+[
+  {
+    "parroquia": "QUINCHICOTO",
+    "id": 1375,
+    "votos": 123,
+    "candidato": "Lasso Guillermo",
+    "value": 20.7
+  },
+  {
+    "parroquia": "TISALEO",
+    "id": 5515,
+    "votos": 1336,
+    "candidato": "Lasso Guillermo",
+    "value": 19.0
+  }
+]

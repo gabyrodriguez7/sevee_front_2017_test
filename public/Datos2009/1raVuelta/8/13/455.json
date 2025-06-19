@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "JIPIJAPA",
+    "id": 5485,
+    "votos": 8860,
+    "candidato": "Lucio Gutierrez",
+    "value": 32.78
+  },
+  {
+    "parroquia": "MEMBRILLAL",
+    "id": 4490,
+    "votos": 135,
+    "candidato": "Lucio Gutierrez",
+    "value": 26.79
+  },
+  {
+    "parroquia": "PUERTO CAYO",
+    "id": 2990,
+    "votos": 252,
+    "candidato": "Lucio Gutierrez",
+    "value": 17.51
+  },
+  {
+    "parroquia": "PEDRO PABLO GOMEZ",
+    "id": 2810,
+    "votos": 825,
+    "candidato": "Lucio Gutierrez",
+    "value": 33.95
+  },
+  {
+    "parroquia": "JULCUY",
+    "id": 1880,
+    "votos": 227,
+    "candidato": "Lucio Gutierrez",
+    "value": 24.28
+  },
+  {
+    "parroquia": "EL ANEGADO",
+    "id": 1115,
+    "votos": 727,
+    "candidato": "Lucio Gutierrez",
+    "value": 25.66
+  },
+  {
+    "parroquia": "LA UNION",
+    "id": 560,
+    "votos": 110,
+    "candidato": "Lucio Gutierrez",
+    "value": 19.93
+  },
+  {
+    "parroquia": "AMERICA /LA CERA",
+    "id": 105,
+    "votos": 486,
+    "candidato": "Lucio Gutierrez",
+    "value": 24.31
+  }
+]

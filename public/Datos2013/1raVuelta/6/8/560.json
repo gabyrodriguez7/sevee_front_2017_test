@@ -1,0 +1,94 @@
+[
+                {
+                    "parroquia": "CAMARONES",
+                    "id": 450,
+                    "votos": 119,
+                    "candidato": "Lasso Guillermo",
+                    "value": 10.79
+                },
+                {
+                    "parroquia": "CRNL.CARLOS CONCHA TORRES",
+                    "id": 655,
+                    "votos": 63,
+                    "candidato": "Lasso Guillermo",
+                    "value": 8.6
+                },
+                {
+                    "parroquia": "CHINCA",
+                    "id": 895,
+                    "votos": 261,
+                    "candidato": "Lasso Guillermo",
+                    "value": 16.9
+                },
+                {
+                    "parroquia": "MAJUA",
+                    "id": 2320,
+                    "votos": 156,
+                    "candidato": "Lasso Guillermo",
+                    "value": 17.0
+                },
+                {
+                    "parroquia": "SAN MATEO",
+                    "id": 3570,
+                    "votos": 512,
+                    "candidato": "Lasso Guillermo",
+                    "value": 22.31
+                },
+                {
+                    "parroquia": "TABIAZO",
+                    "id": 3930,
+                    "votos": 231,
+                    "candidato": "Lasso Guillermo",
+                    "value": 17.6
+                },
+                {
+                    "parroquia": "TACHINA",
+                    "id": 3940,
+                    "votos": 409,
+                    "candidato": "Lasso Guillermo",
+                    "value": 20.4194
+                },
+                {
+                    "parroquia": "VUELTA LARGA",
+                    "id": 4240,
+                    "votos": 3828,
+                    "candidato": "Lasso Guillermo",
+                    "value": 28.923
+                },
+                {
+                    "parroquia": "BARTOLOME RUIZ",
+                    "id": 5205,
+                    "votos": 4712,
+                    "candidato": "Lasso Guillermo",
+                    "value": 28.653
+                },
+                {
+                    "parroquia": "5 DE AGOSTO",
+                    "id": 5210,
+                    "votos": 7252,
+                    "candidato": "Lasso Guillermo",
+                    "value": 29.76
+                },
+                {
+                    "parroquia": "ESMERALDAS",
+                    "id": 5335,
+                    "votos": 8929,
+                    "candidato": "Lasso Guillermo",
+                    "value": 31.77
+                },
+                {
+                    "parroquia": "LUIS TELLO / LAS PALMAS /",
+                    "id": 5600,
+                    "votos": 1849,
+                    "candidato": "Lasso Guillermo",
+                    "value": 29.471
+                },
+                {
+                    "parroquia": "SIMON PLATA TORRES",
+                    "id": 6905,
+                    "votos": 951,
+                    "candidato": "Lasso Guillermo",
+                    "value": 24.65
+                }
+            ]
+            

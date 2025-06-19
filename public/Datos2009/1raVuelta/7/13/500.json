@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "4 DE DICIEMBRE",
+        "id": 6195,
+        "votos": 232,
+        "candidato": "Alvaro Noboa",
+        "value": 23.29
+    },
+    {
+        "parroquia": "EL CARMEN",
+        "id": 5300,
+        "votos": 7117,
+        "candidato": "Alvaro Noboa",
+        "value": 18.82
+    },
+    {
+        "parroquia": "SAN PEDRO DE SUMA",
+        "id": 1980,
+        "votos": 200,
+        "candidato": "Alvaro Noboa",
+        "value": 26.67
+    },
+    {
+        "parroquia": "WILFRIDO LOOR MOREIRA",
+        "id": 1070,
+        "votos": 84,
+        "candidato": "Alvaro Noboa",
+        "value": 15.38
+    }
+]

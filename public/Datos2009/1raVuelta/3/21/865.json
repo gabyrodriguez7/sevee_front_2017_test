@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "LUMBAQUI",
+        "id": 6300,
+        "votos": 3,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.16
+    },
+    {
+        "parroquia": "PUERTO LIBRE",
+        "id": 3615,
+        "votos": 0,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.0
+    },
+    {
+        "parroquia": "GONZALO PIZARRO",
+        "id": 1090,
+        "votos": 1,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.09
+    },
+    {
+        "parroquia": "EL REVENTADOR",
+        "id": 230,
+        "votos": 1,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.16
+    }
+]

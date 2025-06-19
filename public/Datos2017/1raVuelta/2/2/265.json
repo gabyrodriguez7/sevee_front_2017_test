@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "DANIEL CÓRDOVA TORAL",
+    "id": 1005,
+    "votos": 80,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.11
+  },
+  {
+    "parroquia": "LUIS CORDERO VEGA",
+    "id": 1760,
+    "votos": 24,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.52
+  },
+  {
+    "parroquia": "JADÁN",
+    "id": 1805,
+    "votos": 257,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.02
+  },
+  {
+    "parroquia": "MARIANO MORENO/CALLASAY",
+    "id": 2385,
+    "votos": 91,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.38
+  },
+  {
+    "parroquia": "REMIGIO CRESPO TORAL",
+    "id": 3160,
+    "votos": 38,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.34
+  },
+  {
+    "parroquia": "SAN JUAN",
+    "id": 3505,
+    "votos": 184,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.25
+  },
+  {
+    "parroquia": "SIMÓN BOLÍVAR",
+    "id": 3780,
+    "votos": 26,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.96
+  },
+  {
+    "parroquia": "ZHIDMAD",
+    "id": 4340,
+    "votos": 103,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.9
+  },
+  {
+    "parroquia": "GUALACEO",
+    "id": 5420,
+    "votos": 1261,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.37
+  }
+]

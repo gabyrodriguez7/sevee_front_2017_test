@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "ROSA ZARATE",
+        "id": 5895,
+        "votos": 134,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.44
+    },
+    {
+        "parroquia": "VICHE",
+        "id": 4230,
+        "votos": 14,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.54
+    },
+    {
+        "parroquia": "MALIMPIA / GUAYLLABAMBA",
+        "id": 2345,
+        "votos": 12,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.47
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 1530,
+        "votos": 28,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.42
+    },
+    {
+        "parroquia": "CHURA",
+        "id": 980,
+        "votos": 8,
+        "candidato": "Diego Delgado Jara",
+        "value": 2.85
+    },
+    {
+        "parroquia": "CUBE / CHANCAMA",
+        "id": 700,
+        "votos": 5,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.67
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "parroquia": "ALTO TAMBO/GUADAL",
+        "id": 70,
+        "votos": 25,
+        "candidato": "Noboa Alvaro",
+        "value": 5.18
+    },
+    {
+        "parroquia": "ANCON/PALMA REAL",
+        "id": 110,
+        "votos": 6,
+        "candidato": "Noboa Alvaro",
+        "value": 1.0
+    },
+    {
+        "parroquia": "CALDERON",
+        "id": 435,
+        "votos": 7,
+        "candidato": "Noboa Alvaro",
+        "value": 1.98
+    },
+    {
+        "parroquia": "CARONDELET",
+        "id": 535,
+        "votos": 13,
+        "candidato": "Noboa Alvaro",
+        "value": 3.0
+    },
+    {
+        "parroquia": "5 DE JUNIO/HUIMBI",
+        "id": 570,
+        "votos": 1,
+        "candidato": "Noboa Alvaro",
+        "value": 1.0
+    },
+    {
+        "parroquia": "CONCEPCION",
+        "id": 620,
+        "votos": 13,
+        "candidato": "Noboa Alvaro",
+        "value": 2.57
+    },
+    {
+        "parroquia": "MATAJE",
+        "id": 2395,
+        "votos": 3,
+        "candidato": "Noboa Alvaro",
+        "value": 1.205
+    },
+    {
+        "parroquia": "SAN JAVIER DE CACHABI",
+        "id": 3455,
+        "votos": 0,
+        "candidato": "Noboa Alvaro",
+        "value": 0.0
+    },
+    {
+        "parroquia": "SANTA RITA",
+        "id": 3725,
+        "votos": 6,
+        "candidato": "Noboa Alvaro",
+        "value": 1.1
+    },
+    {
+        "parroquia": "TAMBILLO",
+        "id": 3955,
+        "votos": 21,
+        "candidato": "Noboa Alvaro",
+        "value": 3.8
+    },
+    {
+        "parroquia": "TULULBI /RICAURTE",
+        "id": 4075,
+        "votos": 29,
+        "candidato": "Noboa Alvaro",
+        "value": 4.754
+    },
+    {
+        "parroquia": "URBINA",
+        "id": 4125,
+        "votos": 3,
+        "candidato": "Noboa Alvaro",
+        "value": 0.763
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 6130,
+        "votos": 244,
+        "candidato": "Noboa Alvaro",
+        "value": 2.55
+    }
+]

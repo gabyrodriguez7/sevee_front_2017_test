@@ -1,0 +1,86 @@
+[
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 325,
+        "votos": 56,
+        "candidato": "Acosta Alberto",
+        "value": 3.73
+    },
+    {
+        "parroquia": "BELLAMARIA",
+        "id": 1665,
+        "votos": 21,
+        "candidato": "Acosta Alberto",
+        "value": 2.79
+    },
+    {
+        "parroquia": "JAMBELI",
+        "id": 1815,
+        "votos": 3,
+        "candidato": "Acosta Alberto",
+        "value": 0.94637224
+    },
+    {
+        "parroquia": "LA AVANZADA",
+        "id": 2005,
+        "votos": 43,
+        "candidato": "Acosta Alberto",
+        "value": 3.267
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3330,
+        "votos": 15,
+        "candidato": "Acosta Alberto",
+        "value": 2.825
+    },
+    {
+        "parroquia": "VICTORIA",
+        "id": 4215,
+        "votos": 21,
+        "candidato": "Acosta Alberto",
+        "value": 1.937
+    },
+    {
+        "parroquia": "TORATA",
+        "id": 4525,
+        "votos": 34,
+        "candidato": "Acosta Alberto",
+        "value": 3.4
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 6060,
+        "votos": 1334,
+        "candidato": "Acosta Alberto",
+        "value": 3.936
+    },
+    {
+        "parroquia": "PUERTO JELI",
+        "id": 6670,
+        "votos": 5,
+        "candidato": "Acosta Alberto",
+        "value": 1.44508671
+    },
+    {
+        "parroquia": "BALNEARIO JAMBELI",
+        "id": 6900,
+        "votos": 0,
+        "candidato": "Acosta Alberto",
+        "value": 0.0
+    },
+    {
+        "parroquia": "JUMON",
+        "id": 6985,
+        "votos": 7,
+        "candidato": "Acosta Alberto",
+        "value": 1.9
+    },
+    {
+        "parroquia": "NUEVO SANTA ROSA",
+        "id": 6990,
+        "votos": 7,
+        "candidato": "Acosta Alberto",
+        "value": 1.28
+    }
+]

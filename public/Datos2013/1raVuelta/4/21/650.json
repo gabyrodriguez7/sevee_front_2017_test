@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "PALMA ROJA",
+        "id": 2720,
+        "votos": 138,
+        "candidato": "Acosta Alberto",
+        "value": 8.52905
+    },
+    {
+        "parroquia": "PUERTO BOLIVAR",
+        "id": 3005,
+        "votos": 8,
+        "candidato": "Acosta Alberto",
+        "value": 14.545
+    },
+    {
+        "parroquia": "PUERTO RODRIGUEZ",
+        "id": 3020,
+        "votos": 31,
+        "candidato": "Acosta Alberto",
+        "value": 42.5
+    },
+    {
+        "parroquia": "SANTA ELENA",
+        "id": 3705,
+        "votos": 23,
+        "candidato": "Acosta Alberto",
+        "value": 5.4
+    },
+    {
+        "parroquia": "EL CARMEN DE PUTUMAYO",
+        "id": 6500,
+        "votos": 65,
+        "candidato": "Acosta Alberto",
+        "value": 4.0
+    }
+]

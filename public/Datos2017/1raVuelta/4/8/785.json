@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "TONSUPA",
+    "id": 1615,
+    "votos": 1039,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 20.53
+  },
+  {
+    "parroquia": "LA UNIÓN",
+    "id": 2130,
+    "votos": 308,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 21.12
+  },
+  {
+    "parroquia": "SÚA/BOCANA",
+    "id": 3880,
+    "votos": 390,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 19.51
+  },
+  {
+    "parroquia": "TONCHÍGUE",
+    "id": 4055,
+    "votos": 793,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 18.54
+  },
+  {
+    "parroquia": "ATACAMES",
+    "id": 6380,
+    "votos": 2428,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 23.65
+  }
+]

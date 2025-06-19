@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "CHACRAS",
+    "id": 805,
+    "votos": 11,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.3
+  },
+  {
+    "parroquia": "CARCABÓN",
+    "id": 1695,
+    "votos": 21,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 5.1
+  },
+  {
+    "parroquia": "PALMALES",
+    "id": 2715,
+    "votos": 21,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.29
+  },
+  {
+    "parroquia": "ARENILLAS",
+    "id": 5040,
+    "votos": 302,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.03
+  }
+]

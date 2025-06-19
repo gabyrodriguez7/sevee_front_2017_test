@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "EL GOALTAL / LAS JUNTAS",
+        "id": 1150,
+        "votos": 343,
+        "candidato": "Correa Delgado Rafael",
+        "value": 59.86
+    },
+    {
+        "parroquia": "LA LIBERTAD",
+        "id": 2040,
+        "votos": 1534,
+        "candidato": "Correa Delgado Rafael",
+        "value": 58.46
+    },
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 3435,
+        "votos": 1465,
+        "candidato": "Correa Delgado Rafael",
+        "value": 65.02
+    },
+    {
+        "parroquia": "EL ANGEL",
+        "id": 5295,
+        "votos": 1514,
+        "candidato": "Correa Delgado Rafael",
+        "value": 45.56
+    },
+    {
+        "parroquia": "27 DE SEPTIEMBRE",
+        "id": 6250,
+        "votos": 463,
+        "candidato": "Correa Delgado Rafael",
+        "value": 46.67
+    }
+]

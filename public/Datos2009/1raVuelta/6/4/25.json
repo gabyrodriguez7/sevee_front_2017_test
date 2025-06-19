@@ -1,0 +1,44 @@
+[
+                {
+                    "parroquia": "BOLIVAR",
+                    "id": 6520,
+                    "votos": 41,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 1.34
+                },
+                {
+                    "parroquia": "SAN VICENTE DE PUSIR",
+                    "id": 3680,
+                    "votos": 16,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 1.68
+                },
+                {
+                    "parroquia": "MONTEOLIVO",
+                    "id": 2455,
+                    "votos": 8,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 0.81
+                },
+                {
+                    "parroquia": "LOS ANDES",
+                    "id": 2205,
+                    "votos": 11,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 0.94
+                },
+                {
+                    "parroquia": "GARCIA MORENO",
+                    "id": 1315,
+                    "votos": 19,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 1.85
+                },
+                {
+                    "parroquia": "SAN RAFAEL",
+                    "id": 1055,
+                    "votos": 1,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 0.13
+                }
+            ]

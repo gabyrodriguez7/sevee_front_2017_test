@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "ZUMBA",
+        "id": 6315,
+        "votos": 1520,
+        "candidato": "Rafael Correa Delgado",
+        "value": 48.48
+    },
+    {
+        "parroquia": "PUCAPAMBA",
+        "id": 2955,
+        "votos": 33,
+        "candidato": "Rafael Correa Delgado",
+        "value": 37.5
+    },
+    {
+        "parroquia": "SAN ANDRES",
+        "id": 2110,
+        "votos": 122,
+        "candidato": "Rafael Correa Delgado",
+        "value": 46.92
+    },
+    {
+        "parroquia": "LA CHONTA",
+        "id": 2015,
+        "votos": 52,
+        "candidato": "Rafael Correa Delgado",
+        "value": 28.26
+    },
+    {
+        "parroquia": "EL CHORRO",
+        "id": 1145,
+        "votos": 80,
+        "candidato": "Rafael Correa Delgado",
+        "value": 32.13
+    },
+    {
+        "parroquia": "CHITO",
+        "id": 915,
+        "votos": 282,
+        "candidato": "Rafael Correa Delgado",
+        "value": 70.15
+    }
+]

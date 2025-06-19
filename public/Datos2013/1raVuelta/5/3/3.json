@@ -1,0 +1,44 @@
+[
+    {
+        "id": 235,
+        "candidato": "Gutierrez Lucio",
+        "votos": 5287,
+        "value": 12.4585
+    },
+    {
+        "id": 240,
+        "candidato": "Gutierrez Lucio",
+        "votos": 3191,
+        "value": 10.899
+    },
+    {
+        "id": 241,
+        "candidato": "Gutierrez Lucio",
+        "votos": 238,
+        "value": 8.1423
+    },
+    {
+        "id": 245,
+        "candidato": "Gutierrez Lucio",
+        "votos": 1693,
+        "value": 15.5492
+    },
+    {
+        "id": 250,
+        "candidato": "Gutierrez Lucio",
+        "votos": 2786,
+        "value": 9.5917
+    },
+    {
+        "id": 765,
+        "candidato": "Gutierrez Lucio",
+        "votos": 391,
+        "value": 7.0
+    },
+    {
+        "id": 905,
+        "candidato": "Gutierrez Lucio",
+        "votos": 341,
+        "value": 11.75
+    }
+]

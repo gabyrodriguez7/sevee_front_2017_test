@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "LA PAZ",
+        "id": 2070,
+        "votos": 9,
+        "candidato": "Noboa Alvaro",
+        "value": 0.977
+    },
+    {
+        "parroquia": "TUTUPALI",
+        "id": 4105,
+        "votos": 7,
+        "candidato": "Noboa Alvaro",
+        "value": 2.0
+    },
+    {
+        "parroquia": "28 DE MAYO",
+        "id": 6215,
+        "votos": 28,
+        "candidato": "Noboa Alvaro",
+        "value": 1.5
+    }
+]

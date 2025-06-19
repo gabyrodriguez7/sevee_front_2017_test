@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "C. E. EN BEIJING",
+    "id": 9020,
+    "votos": 16,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 26.67
+  },
+  {
+    "parroquia": "C. E. EN SHANGAI",
+    "id": 9068,
+    "votos": 1,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.70
+  },
+  {
+    "parroquia": "C. E. EN GUANZHOU",
+    "id": 9075,
+    "votos": 2,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.69
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "TAISHA",
+    "id": 6700,
+    "votos": 92,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 7.26
+  },
+  {
+    "parroquia": "MACUMA",
+    "id": 2285,
+    "votos": 128,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 16.6
+  },
+  {
+    "parroquia": "TUTINENTZA",
+    "id": 1205,
+    "votos": 206,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 26.38
+  },
+  {
+    "parroquia": "HUASAGA /WAMPUIK",
+    "id": 595,
+    "votos": 358,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 64.86
+  }
+]

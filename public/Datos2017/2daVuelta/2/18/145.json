@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "BAQUERIZO MORENO",
+    "id": 295,
+    "votos": 107,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 42.97
+  },
+  {
+    "parroquia": "EMILIO MARÍA TERÁN",
+    "id": 1210,
+    "votos": 320,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 31.94
+  },
+  {
+    "parroquia": "MARCOS ESPINEL",
+    "id": 2375,
+    "votos": 491,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 30.76
+  },
+  {
+    "parroquia": "PRESIDENTE URBINA",
+    "id": 2945,
+    "votos": 399,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 35.37
+  },
+  {
+    "parroquia": "SAN ANDRÉS",
+    "id": 3300,
+    "votos": 2795,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 35.25
+  },
+  {
+    "parroquia": "SAN JOSÉ DE POALO",
+    "id": 3485,
+    "votos": 691,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 41.78
+  },
+  {
+    "parroquia": "SAN MIGUELITO",
+    "id": 3585,
+    "votos": 1031,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 29.32
+  },
+  {
+    "parroquia": "CIUDAD NUEVA",
+    "id": 5225,
+    "votos": 353,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 32.75
+  },
+  {
+    "parroquia": "PÍLLARO",
+    "id": 5785,
+    "votos": 3444,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 30.81
+  }
+]

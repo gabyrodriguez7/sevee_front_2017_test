@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "SUMAYPAMBA",
+    "id": 310,
+    "votos": 305,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 43.88
+  },
+  {
+    "parroquia": "EL PARAÍSO DE CELÉN",
+    "id": 1165,
+    "votos": 1004,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 65.58
+  },
+  {
+    "parroquia": "EL TABLÓN",
+    "id": 1190,
+    "votos": 234,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 51.43
+  },
+  {
+    "parroquia": "LLUZHAPA",
+    "id": 2280,
+    "votos": 569,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 57.53
+  },
+  {
+    "parroquia": "MANÚ",
+    "id": 2360,
+    "votos": 1058,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 55.33
+  },
+  {
+    "parroquia": "SAN ANTONIO DE CUMBE",
+    "id": 3340,
+    "votos": 476,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 60.25
+  },
+  {
+    "parroquia": "SAN PABLO DE TENTA",
+    "id": 3600,
+    "votos": 1614,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 76.78
+  },
+  {
+    "parroquia": "SAN SEBASTIÁN DE YULOG",
+    "id": 3665,
+    "votos": 322,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 51.19
+  },
+  {
+    "parroquia": "SELVA ALEGRE",
+    "id": 3815,
+    "votos": 794,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 61.89
+  },
+  {
+    "parroquia": "URDANETA/PAQUISHAPA",
+    "id": 4145,
+    "votos": 1256,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 52.62
+  },
+  {
+    "parroquia": "SARAGURO",
+    "id": 6075,
+    "votos": 4706,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 69.64
+  }
+]

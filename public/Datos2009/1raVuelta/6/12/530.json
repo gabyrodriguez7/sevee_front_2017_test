@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "PUEBLO VIEJO",
+        "id": 5800,
+        "votos": 42,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.59
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3510,
+        "votos": 31,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.45
+    },
+    {
+        "parroquia": "PUERTO PECHICHE",
+        "id": 3015,
+        "votos": 3,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.15
+    }
+]

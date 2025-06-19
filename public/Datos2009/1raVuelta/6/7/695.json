@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "UNION LOJANA",
+        "id": 6820,
+        "votos": 3,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.29
+    },
+    {
+        "parroquia": "ECUADOR",
+        "id": 6815,
+        "votos": 2,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.36
+    },
+    {
+        "parroquia": "EL PARAISO",
+        "id": 6810,
+        "votos": 3,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.87
+    },
+    {
+        "parroquia": "MILTON REYES",
+        "id": 6805,
+        "votos": 2,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.61
+    },
+    {
+        "parroquia": "HUALTACO",
+        "id": 6800,
+        "votos": 0,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.0
+    },
+    {
+        "parroquia": "HUAQUILLAS",
+        "id": 5460,
+        "votos": 105,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.5
+    }
+]

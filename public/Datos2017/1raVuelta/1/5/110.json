@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "ANTONIO J. HOLGUÍN",
+    "id": 135,
+    "votos": 558,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 30.97
+  },
+  {
+    "parroquia": "CUSUBAMBA",
+    "id": 745,
+    "votos": 1036,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 24.41
+  },
+  {
+    "parroquia": "MULALILLO",
+    "id": 2475,
+    "votos": 1130,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 26.21
+  },
+  {
+    "parroquia": "MULLIQUINDIL",
+    "id": 2490,
+    "votos": 1296,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 28.28
+  },
+  {
+    "parroquia": "PANZALEO",
+    "id": 2760,
+    "votos": 533,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 24.79
+  },
+  {
+    "parroquia": "SAN MIGUEL DE SALCEDO",
+    "id": 6000,
+    "votos": 7296,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 31.38
+  }
+]

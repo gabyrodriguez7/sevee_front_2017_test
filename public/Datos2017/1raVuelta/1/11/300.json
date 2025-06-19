@@ -1,0 +1,121 @@
+[
+  {
+    "parroquia": "CHUQUIRIBAMBA",
+    "id": 975,
+    "votos": 839,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 54.45
+  },
+  {
+    "parroquia": "EL CISNE",
+    "id": 1135,
+    "votos": 352,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 35.99
+  },
+  {
+    "parroquia": "GUALEL",
+    "id": 1405,
+    "votos": 451,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 40.7
+  },
+  {
+    "parroquia": "QUINARA",
+    "id": 1780,
+    "votos": 387,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 48.19
+  },
+  {
+    "parroquia": "JIMBILLA",
+    "id": 1840,
+    "votos": 489,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 59.85
+  },
+  {
+    "parroquia": "MALACATOS/VALLADOLID",
+    "id": 2325,
+    "votos": 1805,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 38.21
+  },
+  {
+    "parroquia": "SAN LUCAS",
+    "id": 3555,
+    "votos": 1204,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 44.13
+  },
+  {
+    "parroquia": "SANTIAGO",
+    "id": 3770,
+    "votos": 481,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 53.33
+  },
+  {
+    "parroquia": "TAQUIL /MIGUEL RIOFRÍO",
+    "id": 3970,
+    "votos": 901,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 51.49
+  },
+  {
+    "parroquia": "VILCABAMBA/VICTORIA",
+    "id": 4235,
+    "votos": 1085,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 33.32
+  },
+  {
+    "parroquia": "YANGANA / ARSENIO CASTILLO",
+    "id": 4280,
+    "votos": 438,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 43.71
+  },
+  {
+    "parroquia": "CHANTACO",
+    "id": 4475,
+    "votos": 377,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 50
+  },
+  {
+    "parroquia": "SAN PEDRO DE VILCABAMBA",
+    "id": 4540,
+    "votos": 229,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 32.9
+  },
+  {
+    "parroquia": "EL SAGRARIO",
+    "id": 5320,
+    "votos": 8570,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 49.32
+  },
+  {
+    "parroquia": "SAN SEBASTIÁN",
+    "id": 6015,
+    "votos": 11618,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 46.36
+  },
+  {
+    "parroquia": "SUCRE",
+    "id": 6100,
+    "votos": 23046,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 46.45
+  },
+  {
+    "parroquia": "VALLE",
+    "id": 6210,
+    "votos": 15677,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 49.96
+  }
+]

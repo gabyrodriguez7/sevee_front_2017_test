@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "MEMBRILLO",
+        "id": 240,
+        "votos": 20,
+        "candidato": "Wray Norman",
+        "value": 0.9009
+    },
+    {
+        "parroquia": "QUIROGA",
+        "id": 3110,
+        "votos": 17,
+        "candidato": "Wray Norman",
+        "value": 0.69
+    },
+    {
+        "parroquia": "CALCETA",
+        "id": 5150,
+        "votos": 119,
+        "candidato": "Wray Norman",
+        "value": 0.53
+    }
+]

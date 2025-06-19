@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "AYAPAMBA",
+        "id": 225,
+        "votos": 5,
+        "candidato": "Zavala Nelson",
+        "value": 0.4725898
+    },
+    {
+        "parroquia": "SAN JUAN DE CERRO AZUL",
+        "id": 375,
+        "votos": 3,
+        "candidato": "Zavala Nelson",
+        "value": 0.9230769
+    },
+    {
+        "parroquia": "CORDONCILLO",
+        "id": 4480,
+        "votos": 2,
+        "candidato": "Zavala Nelson",
+        "value": 0.4
+    },
+    {
+        "parroquia": "SAN JOSE",
+        "id": 4530,
+        "votos": 1,
+        "candidato": "Zavala Nelson",
+        "value": 0.38
+    },
+    {
+        "parroquia": "MILAGRO",
+        "id": 4535,
+        "votos": 0,
+        "candidato": "Zavala Nelson",
+        "value": 0.0
+    },
+    {
+        "parroquia": "PACCHA",
+        "id": 5745,
+        "votos": 8,
+        "candidato": "Zavala Nelson",
+        "value": 0.4
+    }
+]

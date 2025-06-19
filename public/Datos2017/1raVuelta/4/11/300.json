@@ -1,0 +1,121 @@
+[
+  {
+    "parroquia": "CHUQUIRIBAMBA",
+    "id": 975,
+    "votos": 105,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.81
+  },
+  {
+    "parroquia": "EL CISNE",
+    "id": 1135,
+    "votos": 90,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.2
+  },
+  {
+    "parroquia": "GUALEL",
+    "id": 1405,
+    "votos": 68,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.14
+  },
+  {
+    "parroquia": "QUINARA",
+    "id": 1780,
+    "votos": 96,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.96
+  },
+  {
+    "parroquia": "JIMBILLA",
+    "id": 1840,
+    "votos": 69,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.45
+  },
+  {
+    "parroquia": "MALACATOS/VALLADOLID",
+    "id": 2325,
+    "votos": 554,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.73
+  },
+  {
+    "parroquia": "SAN LUCAS",
+    "id": 3555,
+    "votos": 134,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 4.91
+  },
+  {
+    "parroquia": "SANTIAGO",
+    "id": 3770,
+    "votos": 71,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.87
+  },
+  {
+    "parroquia": "TAQUIL /MIGUEL RIOFRÍO",
+    "id": 3970,
+    "votos": 127,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.26
+  },
+  {
+    "parroquia": "VILCABAMBA/VICTORIA",
+    "id": 4235,
+    "votos": 334,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.26
+  },
+  {
+    "parroquia": "YANGANA / ARSENIO CASTILLO",
+    "id": 4280,
+    "votos": 139,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.87
+  },
+  {
+    "parroquia": "CHANTACO",
+    "id": 4475,
+    "votos": 57,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.56
+  },
+  {
+    "parroquia": "SAN PEDRO DE VILCABAMBA",
+    "id": 4540,
+    "votos": 71,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.2
+  },
+  {
+    "parroquia": "EL SAGRARIO",
+    "id": 5320,
+    "votos": 2047,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.78
+  },
+  {
+    "parroquia": "SAN SEBASTIÁN",
+    "id": 6015,
+    "votos": 2975,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.87
+  },
+  {
+    "parroquia": "SUCRE",
+    "id": 6100,
+    "votos": 5856,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.8
+  },
+  {
+    "parroquia": "VALLE",
+    "id": 6210,
+    "votos": 3704,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.8
+  }
+]

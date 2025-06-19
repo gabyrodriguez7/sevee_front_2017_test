@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "DR MIGUEL EGAS/PEGUCHE",
+        "id": 1040,
+        "votos": 42,
+        "candidato": "Zavala Nelson",
+        "value": 1.2338
+    },
+    {
+        "parroquia": "EUGENIO ESPEJO",
+        "id": 1215,
+        "votos": 70,
+        "candidato": "Zavala Nelson",
+        "value": 1.757
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 1360,
+        "votos": 18,
+        "candidato": "Zavala Nelson",
+        "value": 0.512
+    },
+    {
+        "parroquia": "PATAQUI",
+        "id": 2785,
+        "votos": 0,
+        "candidato": "Zavala Nelson",
+        "value": 0.0
+    },
+    {
+        "parroquia": "SAN JOSE DE QUICHINCHE",
+        "id": 3490,
+        "votos": 28,
+        "candidato": "Zavala Nelson",
+        "value": 0.669
+    },
+    {
+        "parroquia": "SAN JUAN DE ILUMAN",
+        "id": 3525,
+        "votos": 49,
+        "candidato": "Zavala Nelson",
+        "value": 1.096
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 3590,
+        "votos": 37,
+        "candidato": "Zavala Nelson",
+        "value": 0.6308
+    },
+    {
+        "parroquia": "SAN RAFAEL",
+        "id": 3630,
+        "votos": 43,
+        "candidato": "Zavala Nelson",
+        "value": 1.4149
+    },
+    {
+        "parroquia": "SELVA ALEGRE",
+        "id": 3810,
+        "votos": 4,
+        "candidato": "Zavala Nelson",
+        "value": 0.4211
+    },
+    {
+        "parroquia": "JORDAN",
+        "id": 5490,
+        "votos": 137,
+        "candidato": "Zavala Nelson",
+        "value": 0.7101
+    },
+    {
+        "parroquia": "SAN LUIS",
+        "id": 5980,
+        "votos": 83,
+        "candidato": "Zavala Nelson",
+        "value": 1.0
+    }
+]

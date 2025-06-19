@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "SAN LUIS DE PAMBIL",
+    "id": 795,
+    "votos": 139,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 4.13
+  },
+  {
+    "parroquia": "FACUNDO VELA",
+    "id": 1255,
+    "votos": 37,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 2.9
+  },
+  {
+    "parroquia": "JULIO E MORENO",
+    "id": 1890,
+    "votos": 74,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 7.08
+  },
+  {
+    "parroquia": "SALINAS",
+    "id": 3285,
+    "votos": 34,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.44
+  },
+  {
+    "parroquia": "SAN LORENZO",
+    "id": 3545,
+    "votos": 27,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 2.18
+  },
+  {
+    "parroquia": "SAN SIMÓN",
+    "id": 3670,
+    "votos": 27,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.22
+  },
+  {
+    "parroquia": "SANTA FE",
+    "id": 3710,
+    "votos": 26,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 2.02
+  },
+  {
+    "parroquia": "SIMIATUG",
+    "id": 3860,
+    "votos": 83,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.72
+  },
+  {
+    "parroquia": "ÁNGEL POLIVIO CHÁVEZ",
+    "id": 5035,
+    "votos": 66,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.77
+  },
+  {
+    "parroquia": "GABRIEL I VEINTIMILLA",
+    "id": 5375,
+    "votos": 107,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.76
+  },
+  {
+    "parroquia": "GUANUJO",
+    "id": 6630,
+    "votos": 269,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.9
+  }
+]

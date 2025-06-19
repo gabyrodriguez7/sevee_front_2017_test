@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "SHIMPIS",
+        "id": 525,
+        "votos": 1,
+        "candidato": "Noboa Alvaro",
+        "value": 0.21
+    },
+    {
+        "parroquia": "YAUPI",
+        "id": 4300,
+        "votos": 0,
+        "candidato": "Noboa Alvaro",
+        "value": 0.0
+    },
+    {
+        "parroquia": "LOGRO�O",
+        "id": 6735,
+        "votos": 11,
+        "candidato": "Noboa Alvaro",
+        "value": 0.689
+    }
+]

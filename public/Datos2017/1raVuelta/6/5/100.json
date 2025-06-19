@@ -1,0 +1,107 @@
+[
+  {
+    "parroquia": "ALAQUEZ",
+    "id": 35,
+    "votos": 51,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.11
+  },
+  {
+    "parroquia": "BELISARIO QUEVEDO",
+    "id": 315,
+    "votos": 26,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.75
+  },
+  {
+    "parroquia": "GUAYTACAMA",
+    "id": 1485,
+    "votos": 77,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.27
+  },
+  {
+    "parroquia": "JOSEGUANGO BAJO",
+    "id": 1905,
+    "votos": 9,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.75
+  },
+  {
+    "parroquia": "MULALÓ",
+    "id": 2480,
+    "votos": 48,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.82
+  },
+  {
+    "parroquia": "11 DE NOVIEMBRE",
+    "id": 2620,
+    "votos": 20,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.31
+  },
+  {
+    "parroquia": "POALO",
+    "id": 2920,
+    "votos": 35,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.94
+  },
+  {
+    "parroquia": "SAN JUAN DE PASTOCALLE",
+    "id": 3530,
+    "votos": 81,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.17
+  },
+  {
+    "parroquia": "TANICUCHÍ",
+    "id": 3965,
+    "votos": 103,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.2
+  },
+  {
+    "parroquia": "TOACAZO",
+    "id": 4035,
+    "votos": 66,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.99
+  },
+  {
+    "parroquia": "ELOY ALFÁRO / SAN FELIPE",
+    "id": 5310,
+    "votos": 241,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.13
+  },
+  {
+    "parroquia": "IGNACIO FLORES",
+    "id": 5465,
+    "votos": 153,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.29
+  },
+  {
+    "parroquia": "JUAN MONTALVO",
+    "id": 5500,
+    "votos": 129,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.12
+  },
+  {
+    "parroquia": "LA MATRIZ",
+    "id": 5555,
+    "votos": 220,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.03
+  },
+  {
+    "parroquia": "SAN BUENAVENTURA",
+    "id": 5940,
+    "votos": 26,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.7
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "DR MIGUEL EGAS/PEGUCHE",
+    "id": 1040,
+    "votos": 28,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.75
+  },
+  {
+    "parroquia": "EUGENIO ESPEJO",
+    "id": 1215,
+    "votos": 41,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.97
+  },
+  {
+    "parroquia": "GONZALEZ SÚAREZ",
+    "id": 1360,
+    "votos": 16,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.41
+  },
+  {
+    "parroquia": "PATAQUI",
+    "id": 2785,
+    "votos": 0,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0
+  },
+  {
+    "parroquia": "SAN JOSÉ DE QUICHINCHE",
+    "id": 3490,
+    "votos": 28,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.59
+  },
+  {
+    "parroquia": "SAN JUAN DE ILUMÁN",
+    "id": 3525,
+    "votos": 35,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.74
+  },
+  {
+    "parroquia": "SAN PABLO",
+    "id": 3590,
+    "votos": 45,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.69
+  },
+  {
+    "parroquia": "SAN RAFAEL",
+    "id": 3630,
+    "votos": 22,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.72
+  },
+  {
+    "parroquia": "SELVA ALEGRE",
+    "id": 3810,
+    "votos": 7,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.62
+  },
+  {
+    "parroquia": "JORDÁN",
+    "id": 5490,
+    "votos": 121,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.56
+  },
+  {
+    "parroquia": "SAN LUIS",
+    "id": 5980,
+    "votos": 89,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.64
+  }
+]

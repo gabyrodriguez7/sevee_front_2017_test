@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "LA AURORA",
+        "id": 6850,
+        "votos": 29,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 2.17
+    },
+    {
+        "parroquia": "DAULE",
+        "id": 5275,
+        "votos": 303,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.62
+    },
+    {
+        "parroquia": "EL LAUREL",
+        "id": 4500,
+        "votos": 17,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.65
+    },
+    {
+        "parroquia": "LAS LOJAS",
+        "id": 2105,
+        "votos": 5,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.29
+    },
+    {
+        "parroquia": "JUAN BAUTISTA AGUIRRE",
+        "id": 1855,
+        "votos": 11,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.65
+    },
+    {
+        "parroquia": "LIMONAL",
+        "id": 260,
+        "votos": 12,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.29
+    }
+]

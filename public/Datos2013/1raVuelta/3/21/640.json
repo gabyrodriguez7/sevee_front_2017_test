@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "EL PLAYON DE SN. FRANCISCO",
+        "id": 1170,
+        "votos": 7,
+        "candidato": "Wray Norman",
+        "value": 0.584307
+    },
+    {
+        "parroquia": "LA SOFIA",
+        "id": 2095,
+        "votos": 0,
+        "candidato": "Wray Norman",
+        "value": 0.0
+    },
+    {
+        "parroquia": "ROSA FLORIDA",
+        "id": 3220,
+        "votos": 1,
+        "candidato": "Wray Norman",
+        "value": 0.344828
+    },
+    {
+        "parroquia": "SANTA BARBARA",
+        "id": 3690,
+        "votos": 2,
+        "candidato": "Wray Norman",
+        "value": 0.36
+    },
+    {
+        "parroquia": "LA BONITA",
+        "id": 5525,
+        "votos": 1,
+        "candidato": "Wray Norman",
+        "value": 0.18
+    }
+]

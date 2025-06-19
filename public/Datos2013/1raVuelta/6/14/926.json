@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "HUASAGA /WAMPUIK",
+    "id": 595,
+    "votos": 5,
+    "candidato": "Lasso Guillermo",
+    "value": 0.954
+  },
+  {
+    "parroquia": "TUTINENTZA",
+    "id": 1205,
+    "votos": 61,
+    "candidato": "Lasso Guillermo",
+    "value": 5.0
+  },
+  {
+    "parroquia": "MACUMA",
+    "id": 2285,
+    "votos": 25,
+    "candidato": "Lasso Guillermo",
+    "value": 1.5674
+  },
+  {
+    "parroquia": "PUMPUENTSA",
+    "id": 4575,
+    "votos": 33,
+    "candidato": "Lasso Guillermo",
+    "value": 5.1084
+  },
+  {
+    "parroquia": "TAISHA",
+    "id": 6700,
+    "votos": 188,
+    "candidato": "Lasso Guillermo",
+    "value": 10.021
+  }
+]

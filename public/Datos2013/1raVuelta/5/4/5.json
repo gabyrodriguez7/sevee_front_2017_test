@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "EL CARMELO/EL PUN/",
+        "id": 1125,
+        "votos": 93,
+        "candidato": "Gutierrez Lucio",
+        "value": 5.76
+    },
+    {
+        "parroquia": "EL CHICAL",
+        "id": 1195,
+        "votos": 38,
+        "candidato": "Gutierrez Lucio",
+        "value": 3.7
+    },
+    {
+        "parroquia": "SANTA MARTHA DE CUBA",
+        "id": 1765,
+        "votos": 56,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.344
+    },
+    {
+        "parroquia": "JULIO ANDRADE",
+        "id": 1885,
+        "votos": 546,
+        "candidato": "Gutierrez Lucio",
+        "value": 9.19
+    },
+    {
+        "parroquia": "MALDONADO",
+        "id": 2340,
+        "votos": 21,
+        "candidato": "Gutierrez Lucio",
+        "value": 3.0
+    },
+    {
+        "parroquia": "PIOTER",
+        "id": 2900,
+        "votos": 31,
+        "candidato": "Gutierrez Lucio",
+        "value": 5.9
+    },
+    {
+        "parroquia": "TOBAR DONOSO",
+        "id": 4040,
+        "votos": 2,
+        "candidato": "Gutierrez Lucio",
+        "value": 1.1
+    },
+    {
+        "parroquia": "TUFIÑO",
+        "id": 4070,
+        "votos": 72,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.42
+    },
+    {
+        "parroquia": "URBINA",
+        "id": 4130,
+        "votos": 27,
+        "candidato": "Gutierrez Lucio",
+        "value": 3.21
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 5415,
+        "votos": 691,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.0
+    },
+    {
+        "parroquia": "TULCAN",
+        "id": 6165,
+        "votos": 1114,
+        "candidato": "Gutierrez Lucio",
+        "value": 5.0
+    }
+]

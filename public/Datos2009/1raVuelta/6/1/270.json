@@ -1,0 +1,23 @@
+[
+                {
+                    "parroquia": "GIRON",
+                    "id": 5395,
+                    "votos": 57,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 1.25
+                },
+                {
+                    "parroquia": "SAN GERARDO",
+                    "id": 885,
+                    "votos": 0,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 0.0
+                },
+                {
+                    "parroquia": "ASUNCION",
+                    "id": 175,
+                    "votos": 10,
+                    "candidato": "Carlos Sagnay De La Bastida",
+                    "value": 0.82
+                }
+            ]

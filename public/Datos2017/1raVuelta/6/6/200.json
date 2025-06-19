@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "SANTA FE DE GALÁN",
+    "id": 40,
+    "votos": 25,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 3.56
+  },
+  {
+    "parroquia": "SAN JOSÉ DEL CHAZO",
+    "id": 45,
+    "votos": 25,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 3.37
+  },
+  {
+    "parroquia": "VALPARAISO",
+    "id": 410,
+    "votos": 7,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 2.22
+  },
+  {
+    "parroquia": "GUANANDO",
+    "id": 1415,
+    "votos": 7,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.81
+  },
+  {
+    "parroquia": "ILAPO",
+    "id": 1705,
+    "votos": 49,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 3.4
+  },
+  {
+    "parroquia": "LA PROVIDENCIA",
+    "id": 2080,
+    "votos": 10,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 2.43
+  },
+  {
+    "parroquia": "SAN ANDRÉS",
+    "id": 3295,
+    "votos": 226,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 2.77
+  },
+  {
+    "parroquia": "SAN GERARDO / PAQUICAHUAN",
+    "id": 3425,
+    "votos": 19,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.57
+  },
+  {
+    "parroquia": "SAN ISIDRO DE PATULÚ",
+    "id": 3450,
+    "votos": 115,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 4.54
+  },
+  {
+    "parroquia": "EL ROSARIO",
+    "id": 5315,
+    "votos": 44,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 2.81
+  },
+  {
+    "parroquia": "LA MATRIZ",
+    "id": 5550,
+    "votos": 198,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 2.01
+  }
+]

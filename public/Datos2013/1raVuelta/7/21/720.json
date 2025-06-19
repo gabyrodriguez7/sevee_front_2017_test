@@ -1,0 +1,44 @@
+[
+                {
+                    "parroquia": "SAN PEDRO DE LOS COFANES",
+                    "id": 600,
+                    "votos": 12,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.74
+                },
+                {
+                    "parroquia": "SIETE DE JULIO",
+                    "id": 780,
+                    "votos": 7,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.42
+                },
+                {
+                    "parroquia": "LIMONCOCHA",
+                    "id": 2175,
+                    "votos": 10,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.732
+                },
+                {
+                    "parroquia": "PANACOCHA",
+                    "id": 2765,
+                    "votos": 4,
+                    "candidato": "Zavala Nelson",
+                    "value": 1.9
+                },
+                {
+                    "parroquia": "SAN ROQUE",
+                    "id": 3645,
+                    "votos": 4,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.3
+                },
+                {
+                    "parroquia": "SHUSHUFINDI CENTRAL",
+                    "id": 6140,
+                    "votos": 140,
+                    "candidato": "Zavala Nelson",
+                    "value": 0.9
+                }
+            ]

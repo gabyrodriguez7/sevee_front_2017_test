@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "ATAHUALPA",
+    "id": 205,
+    "votos": 71,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.18
+  },
+  {
+    "parroquia": "COLONCHE",
+    "id": 605,
+    "votos": 866,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 4.65
+  },
+  {
+    "parroquia": "CHANDUY",
+    "id": 820,
+    "votos": 579,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 6.28
+  },
+  {
+    "parroquia": "SAN JOSÉ DE ANCÓN",
+    "id": 1300,
+    "votos": 192,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 5.54
+  },
+  {
+    "parroquia": "MANGLARALTO",
+    "id": 2355,
+    "votos": 1019,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 5.59
+  },
+  {
+    "parroquia": "SIMÓN BOLÍVAR",
+    "id": 3915,
+    "votos": 85,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 4.68
+  },
+  {
+    "parroquia": "BALLENITA",
+    "id": 5130,
+    "votos": 71,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 4.78
+  },
+  {
+    "parroquia": "SANTA ELENA",
+    "id": 6040,
+    "votos": 2615,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 6.86
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "SAN PEDRO DE LOS COFANES",
+    "id": 600,
+    "votos": 474,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 28
+  },
+  {
+    "parroquia": "SIETE DE JULIO",
+    "id": 780,
+    "votos": 545,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 28.12
+  },
+  {
+    "parroquia": "LIMONCOCHA",
+    "id": 2175,
+    "votos": 602,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 32.23
+  },
+  {
+    "parroquia": "PANACOCHA",
+    "id": 2765,
+    "votos": 160,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 46.65
+  },
+  {
+    "parroquia": "SAN ROQUE",
+    "id": 3645,
+    "votos": 805,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 48.91
+  },
+  {
+    "parroquia": "SHUSHUFINDI CENTRAL",
+    "id": 6140,
+    "votos": 6131,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 36.28
+  }
+]

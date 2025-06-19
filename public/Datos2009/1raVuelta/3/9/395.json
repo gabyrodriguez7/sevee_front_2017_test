@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "YAGUACHI NUEVO",
+    "id": 6285,
+    "votos": 35,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.26
+  },
+  {
+    "parroquia": "YAGUACHI VIEJO/CONE",
+    "id": 4275,
+    "votos": 8,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.29
+  },
+  {
+    "parroquia": "VIRGEN DE FATIMA",
+    "id": 1915,
+    "votos": 10,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.33
+  },
+  {
+    "parroquia": "GRAL.PEDRO MONTERO",
+    "id": 1340,
+    "votos": 16,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.43
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "TONSUPA",
+    "id": 1615,
+    "votos": 204,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 4.03
+  },
+  {
+    "parroquia": "LA UNIÓN",
+    "id": 2130,
+    "votos": 47,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.22
+  },
+  {
+    "parroquia": "SÚA/BOCANA",
+    "id": 3880,
+    "votos": 73,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.65
+  },
+  {
+    "parroquia": "TONCHÍGUE",
+    "id": 4055,
+    "votos": 154,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.6
+  },
+  {
+    "parroquia": "ATACAMES",
+    "id": 6380,
+    "votos": 452,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 4.4
+  }
+]

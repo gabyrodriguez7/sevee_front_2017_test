@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "27 DE SEPTIEMBRE",
+        "id": 6250,
+        "votos": 383,
+        "candidato": "Rafael Correa Delgado",
+        "value": 52.6
+    },
+    {
+        "parroquia": "EL ANGEL",
+        "id": 5295,
+        "votos": 1768,
+        "candidato": "Rafael Correa Delgado",
+        "value": 58.75
+    },
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 3435,
+        "votos": 1468,
+        "candidato": "Rafael Correa Delgado",
+        "value": 74.17
+    },
+    {
+        "parroquia": "LA LIBERTAD",
+        "id": 2040,
+        "votos": 1593,
+        "candidato": "Rafael Correa Delgado",
+        "value": 70.7
+    },
+    {
+        "parroquia": "EL GOALTAL / LAS JUNTAS",
+        "id": 1150,
+        "votos": 318,
+        "candidato": "Rafael Correa Delgado",
+        "value": 67.8
+    }
+]

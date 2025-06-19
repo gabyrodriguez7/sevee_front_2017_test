@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "GUARE",
+        "id": 1460,
+        "votos": 45,
+        "candidato": "Zavala Nelson",
+        "value": 1.2407
+    },
+    {
+        "parroquia": "ISLA DE BEJUCAL",
+        "id": 1740,
+        "votos": 74,
+        "candidato": "Zavala Nelson",
+        "value": 1.7055
+    },
+    {
+        "parroquia": "BABA",
+        "id": 5085,
+        "votos": 221,
+        "candidato": "Zavala Nelson",
+        "value": 1.5829
+    }
+]

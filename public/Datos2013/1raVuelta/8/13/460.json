@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 330,
+        "votos": 83,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.098
+    },
+    {
+        "parroquia": "ARQ.SIXTO DURAN BALLEN",
+        "id": 1570,
+        "votos": 35,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.150315
+    },
+    {
+        "parroquia": "NOBOA",
+        "id": 2555,
+        "votos": 111,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.96
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 6105,
+        "votos": 557,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 5.48
+    }
+]

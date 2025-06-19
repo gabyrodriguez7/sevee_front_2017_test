@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "MERA",
+    "id": 5650,
+    "votos": 11,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.26
+  },
+  {
+    "parroquia": "SHELL",
+    "id": 3840,
+    "votos": 30,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.93
+  },
+  {
+    "parroquia": "MADRE TIERRA",
+    "id": 2310,
+    "votos": 3,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.36
+  }
+]

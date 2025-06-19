@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "ASUNCION",
+        "id": 180,
+        "votos": 0,
+        "candidato": "Wray Norman",
+        "value": 0.0
+    },
+    {
+        "parroquia": "SANTA MARIANITA DE JESUS",
+        "id": 1140,
+        "votos": 2,
+        "candidato": "Wray Norman",
+        "value": 0.6451613
+    },
+    {
+        "parroquia": "HUAMBI",
+        "id": 1635,
+        "votos": 7,
+        "candidato": "Wray Norman",
+        "value": 0.5
+    },
+    {
+        "parroquia": "SUCUA",
+        "id": 6110,
+        "votos": 51,
+        "candidato": "Wray Norman",
+        "value": 0.702
+    }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "COTOGCHOA",
+    "id": 680,
+    "votos": 959,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 52.750275
+  },
+  {
+    "parroquia": "RUMIPAMBA",
+    "id": 3230,
+    "votos": 203,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 55.3133515
+  },
+  {
+    "parroquia": "SANGOLQUÍ",
+    "id": 5965,
+    "votos": 23842,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 47.6373154
+  },
+  {
+    "parroquia": "SAN RAFAEL",
+    "id": 6600,
+    "votos": 4276,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 31.0823581
+  },
+  {
+    "parroquia": "SAN PEDRO DE TABOADA",
+    "id": 6605,
+    "votos": 3042,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 50.3059368
+  }
+]

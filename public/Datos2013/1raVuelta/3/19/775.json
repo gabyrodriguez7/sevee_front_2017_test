@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "EL GUISMI",
+        "id": 665,
+        "votos": 1,
+        "candidato": "Wray Norman",
+        "value": 0.156
+    },
+    {
+        "parroquia": "TUNDAYME",
+        "id": 945,
+        "votos": 1,
+        "candidato": "Wray Norman",
+        "value": 0.327
+    },
+    {
+        "parroquia": "PACHICUTZA",
+        "id": 1015,
+        "votos": 2,
+        "candidato": "Wray Norman",
+        "value": 0.35
+    },
+    {
+        "parroquia": "EL PANGUI",
+        "id": 6355,
+        "votos": 13,
+        "candidato": "Wray Norman",
+        "value": 0.4
+    }
+]

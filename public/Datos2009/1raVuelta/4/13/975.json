@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "PUERTO LOPEZ",
+        "id": 6575,
+        "votos": 3590,
+        "candidato": "Rafael Correa Delgado",
+        "value": 51.85
+    },
+    {
+        "parroquia": "MACHALILLA",
+        "id": 2305,
+        "votos": 954,
+        "candidato": "Rafael Correa Delgado",
+        "value": 44.23
+    },
+    {
+        "parroquia": "SALANGO",
+        "id": 1920,
+        "votos": 512,
+        "candidato": "Rafael Correa Delgado",
+        "value": 54.94
+    }
+]

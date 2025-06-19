@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "C. E. EN BEIJING",
+    "id": 9020,
+    "votos": 6,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10
+  },
+  {
+    "parroquia": "C. E. EN SHANGAI",
+    "id": 9068,
+    "votos": 1,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 2.70
+  },
+  {
+    "parroquia": "C. E. EN GUANZHOU",
+    "id": 9075,
+    "votos": 7,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 26.92
+  }
+]

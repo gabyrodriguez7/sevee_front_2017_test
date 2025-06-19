@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "CARACOL",
+    "id": 520,
+    "votos": 62,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.06
+  },
+  {
+    "parroquia": "FEBRES CORDERO",
+    "id": 1265,
+    "votos": 254,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.71
+  },
+  {
+    "parroquia": "LA UNIÓN",
+    "id": 1525,
+    "votos": 146,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.12
+  },
+  {
+    "parroquia": "PIMOCHA",
+    "id": 2875,
+    "votos": 237,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.81
+  },
+  {
+    "parroquia": "CLEMENTE BAQUERIZO",
+    "id": 5215,
+    "votos": 1093,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.57
+  },
+  {
+    "parroquia": "DR. CAMILO PONCE E.",
+    "id": 5285,
+    "votos": 459,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.22
+  },
+  {
+    "parroquia": "BARREIRO /SANTA RITA",
+    "id": 6830,
+    "votos": 172,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.3
+  },
+  {
+    "parroquia": "EL SALTO",
+    "id": 6835,
+    "votos": 53,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.25
+  }
+]

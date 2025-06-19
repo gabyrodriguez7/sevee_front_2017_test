@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "ALSHI /9 DE OCTUBRE",
+        "id": 65,
+        "votos": 50,
+        "candidato": "Gutierrez Lucio",
+        "value": 21.93
+    },
+    {
+        "parroquia": "CUCHAENTZA",
+        "id": 1250,
+        "votos": 222,
+        "candidato": "Gutierrez Lucio",
+        "value": 32.0
+    },
+    {
+        "parroquia": "GRAL. PROAÑO",
+        "id": 1345,
+        "votos": 202,
+        "candidato": "Gutierrez Lucio",
+        "value": 24.2
+    },
+    {
+        "parroquia": "RIO BLANCO",
+        "id": 1730,
+        "votos": 107,
+        "candidato": "Gutierrez Lucio",
+        "value": 16.09
+    },
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 3440,
+        "votos": 120,
+        "candidato": "Gutierrez Lucio",
+        "value": 24.59
+    },
+    {
+        "parroquia": "SEVILLA DON BOSCO",
+        "id": 3830,
+        "votos": 1262,
+        "candidato": "Gutierrez Lucio",
+        "value": 27.9
+    },
+    {
+        "parroquia": "ZUNAC",
+        "id": 4360,
+        "votos": 67,
+        "candidato": "Gutierrez Lucio",
+        "value": 53.6
+    },
+    {
+        "parroquia": "SINAI",
+        "id": 4485,
+        "votos": 89,
+        "candidato": "Gutierrez Lucio",
+        "value": 18.0
+    },
+    {
+        "parroquia": "MACAS",
+        "id": 5615,
+        "votos": 1673,
+        "candidato": "Gutierrez Lucio",
+        "value": 13.8
+    }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "parroquia": "CHONTAMARCA",
+    "id": 935,
+    "votos": 896,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 46.98
+  },
+  {
+    "parroquia": "CHOROCOPTE",
+    "id": 950,
+    "votos": 374,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 28.66
+  },
+  {
+    "parroquia": "GRAL.MORALES / SOCARTE",
+    "id": 1335,
+    "votos": 248,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 22.73
+  },
+  {
+    "parroquia": "GUALLETURO",
+    "id": 1410,
+    "votos": 344,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 21.80
+  },
+  {
+    "parroquia": "HONORATO VÁSQUEZ",
+    "id": 1605,
+    "votos": 838,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 30.33
+  },
+  {
+    "parroquia": "INGAPIRCA",
+    "id": 1725,
+    "votos": 1189,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 30.17
+  },
+  {
+    "parroquia": "VENTURA",
+    "id": 1775,
+    "votos": 116,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 27.29
+  },
+  {
+    "parroquia": "DUCUR",
+    "id": 1895,
+    "votos": 403,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 27.21
+  },
+  {
+    "parroquia": "JUNCAL",
+    "id": 1900,
+    "votos": 312,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 31.26
+  },
+  {
+    "parroquia": "SAN ANTONIO",
+    "id": 3305,
+    "votos": 198,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 19.51
+  },
+  {
+    "parroquia": "ZHUD",
+    "id": 4345,
+    "votos": 218,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 22.38
+  },
+  {
+    "parroquia": "CAÑAR",
+    "id": 5160,
+    "votos": 5296,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 36.27
+  }
+]

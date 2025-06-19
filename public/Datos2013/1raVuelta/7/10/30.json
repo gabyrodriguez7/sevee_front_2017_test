@@ -1,0 +1,86 @@
+[
+    {
+        "parroquia": "AMBUQUI/CHOTA",
+        "id": 100,
+        "votos": 8,
+        "candidato": "Zavala Nelson",
+        "value": 0.241
+    },
+    {
+        "parroquia": "ANGOCHAGUA",
+        "id": 130,
+        "votos": 27,
+        "candidato": "Zavala Nelson",
+        "value": 1.072
+    },
+    {
+        "parroquia": "CAROLINA /GUALLUPI",
+        "id": 530,
+        "votos": 9,
+        "candidato": "Zavala Nelson",
+        "value": 0.5569
+    },
+    {
+        "parroquia": "LA ESPERANZA",
+        "id": 2020,
+        "votos": 33,
+        "candidato": "Zavala Nelson",
+        "value": 0.7196
+    },
+    {
+        "parroquia": "LITA",
+        "id": 2185,
+        "votos": 11,
+        "candidato": "Zavala Nelson",
+        "value": 0.657
+    },
+    {
+        "parroquia": "SALINAS",
+        "id": 3290,
+        "votos": 3,
+        "candidato": "Zavala Nelson",
+        "value": 0.2502
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3315,
+        "votos": 36,
+        "candidato": "Zavala Nelson",
+        "value": 0.3476
+    },
+    {
+        "parroquia": "CARANQUI",
+        "id": 5165,
+        "votos": 50,
+        "candidato": "Zavala Nelson",
+        "value": 0.543
+    },
+    {
+        "parroquia": "GUAYAQUIL DE ALPACHACA",
+        "id": 5440,
+        "votos": 30,
+        "candidato": "Zavala Nelson",
+        "value": 0.503
+    },
+    {
+        "parroquia": "SAGRARIO",
+        "id": 5915,
+        "votos": 156,
+        "candidato": "Zavala Nelson",
+        "value": 0.4318
+    },
+    {
+        "parroquia": "SAN FRANCISCO",
+        "id": 5960,
+        "votos": 133,
+        "candidato": "Zavala Nelson",
+        "value": 0.0
+    },
+    {
+        "parroquia": "LA DOLOROSA DEL PRIORATO",
+        "id": 6780,
+        "votos": 8,
+        "candidato": "Zavala Nelson",
+        "value": 0.5312
+    }
+]

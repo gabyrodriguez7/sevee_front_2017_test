@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "BABA",
+        "id": 5085,
+        "votos": 6709,
+        "candidato": "Rafael Correa Delgado",
+        "value": 59.6
+    },
+    {
+        "parroquia": "ISLA DE BEJUCAL",
+        "id": 1740,
+        "votos": 1797,
+        "candidato": "Rafael Correa Delgado",
+        "value": 54.66
+    },
+    {
+        "parroquia": "GUARE",
+        "id": 1460,
+        "votos": 1611,
+        "candidato": "Rafael Correa Delgado",
+        "value": 58.28
+    }
+]

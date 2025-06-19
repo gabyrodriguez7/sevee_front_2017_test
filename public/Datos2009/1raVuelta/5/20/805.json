@@ -1,0 +1,23 @@
+[
+                {
+                    "parroquia": "PUERTO AYORA",
+                    "id": 6505,
+                    "votos": 63,
+                    "candidato": "Melba Jacome",
+                    "value": 1.08
+                },
+                {
+                    "parroquia": "SANTA ROSA",
+                    "id": 1985,
+                    "votos": 2,
+                    "candidato": "Melba Jacome",
+                    "value": 1.12
+                },
+                {
+                    "parroquia": "BELLA VISTA",
+                    "id": 235,
+                    "votos": 4,
+                    "candidato": "Melba Jacome",
+                    "value": 0.71
+                }
+            ]

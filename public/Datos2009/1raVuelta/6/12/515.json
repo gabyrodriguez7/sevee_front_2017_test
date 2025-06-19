@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "EL SALTO",
+        "id": 6835,
+        "votos": 4,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.11
+    },
+    {
+        "parroquia": "BARREIRO /SANTA RITA",
+        "id": 6830,
+        "votos": 37,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.89
+    },
+    {
+        "parroquia": "DR. CAMILO PONCE E.",
+        "id": 5285,
+        "votos": 242,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.3
+    },
+    {
+        "parroquia": "CLEMENTE BAQUERIZO",
+        "id": 5215,
+        "votos": 435,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.37
+    },
+    {
+        "parroquia": "PIMOCHA",
+        "id": 2875,
+        "votos": 47,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.74
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 1525,
+        "votos": 20,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.48
+    },
+    {
+        "parroquia": "FEBRES CORDERO",
+        "id": 1265,
+        "votos": 38,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.57
+    },
+    {
+        "parroquia": "CARACOL",
+        "id": 520,
+        "votos": 14,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.69
+    }
+]

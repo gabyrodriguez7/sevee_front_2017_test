@@ -1,0 +1,100 @@
+[
+  {
+    "parroquia": "ALLURIQUÍN",
+    "id": 75,
+    "votos": 70,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.36
+  },
+  {
+    "parroquia": "VALLE HERMOSO",
+    "id": 305,
+    "votos": 39,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.95
+  },
+  {
+    "parroquia": "LUZ DE AMÉRICA",
+    "id": 1755,
+    "votos": 30,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.86
+  },
+  {
+    "parroquia": "SAN JACINTO DEL BÚA",
+    "id": 1970,
+    "votos": 36,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.66
+  },
+  {
+    "parroquia": "EL ESFUERZO",
+    "id": 1990,
+    "votos": 29,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.05
+  },
+  {
+    "parroquia": "SANTA MARÍA DEL TOACHI",
+    "id": 2045,
+    "votos": 44,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 2.11
+  },
+  {
+    "parroquia": "PUERTO LIMÓN",
+    "id": 4440,
+    "votos": 52,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.87
+  },
+  {
+    "parroquia": "ABRAHAM CALAZACÓN",
+    "id": 5730,
+    "votos": 192,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.71
+  },
+  {
+    "parroquia": "BOMBOLÍ",
+    "id": 5860,
+    "votos": 230,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.59
+  },
+  {
+    "parroquia": "RÍO VERDE",
+    "id": 5865,
+    "votos": 400,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.82
+  },
+  {
+    "parroquia": "RÍO TOACHI",
+    "id": 5870,
+    "votos": 37,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.71
+  },
+  {
+    "parroquia": "SANTO DOMINGO",
+    "id": 6065,
+    "votos": 399,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.73
+  },
+  {
+    "parroquia": "CHIGUILPE",
+    "id": 6175,
+    "votos": 264,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.74
+  },
+  {
+    "parroquia": "ZARACAY",
+    "id": 6180,
+    "votos": 28,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.51
+  }
+]

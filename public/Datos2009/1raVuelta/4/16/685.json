@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "MERA",
+        "id": 5650,
+        "votos": 272,
+        "candidato": "Rafael Correa Delgado",
+        "value": 31.26
+    },
+    {
+        "parroquia": "SHELL",
+        "id": 3840,
+        "votos": 1153,
+        "candidato": "Rafael Correa Delgado",
+        "value": 35.65
+    },
+    {
+        "parroquia": "MADRE TIERRA",
+        "id": 2310,
+        "votos": 248,
+        "candidato": "Rafael Correa Delgado",
+        "value": 30.13
+    }
+]

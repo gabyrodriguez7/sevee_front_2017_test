@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "HUACA",
+        "id": 6665,
+        "votos": 18,
+        "candidato": "Melba Jacome",
+        "value": 0.42
+    },
+    {
+        "parroquia": "MARISCAL SUCRE",
+        "id": 1520,
+        "votos": 1,
+        "candidato": "Melba Jacome",
+        "value": 0.14
+    }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "EL PROGRESO",
+    "id": 1220,
+    "votos": 116,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 29.29
+  },
+  {
+    "parroquia": "ISLA SANTA MARÍA",
+    "id": 4415,
+    "votos": 51,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 55.43
+  },
+  {
+    "parroquia": "PTO. BAQUERIZO MORENO",
+    "id": 6510,
+    "votos": 969,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 23.99
+  }
+]

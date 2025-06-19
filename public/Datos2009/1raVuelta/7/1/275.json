@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "PAUTE",
+        "id": 5775,
+        "votos": 312,
+        "candidato": "Alvaro Noboa",
+        "value": 4.45
+    },
+    {
+        "parroquia": "EL CABO",
+        "id": 4565,
+        "votos": 9,
+        "candidato": "Alvaro Noboa",
+        "value": 1.43
+    },
+    {
+        "parroquia": "TOMEBAMBA",
+        "id": 4050,
+        "votos": 6,
+        "candidato": "Alvaro Noboa",
+        "value": 1.25
+    },
+    {
+        "parroquia": "SAN CRISTOBAL",
+        "id": 3375,
+        "votos": 22,
+        "candidato": "Alvaro Noboa",
+        "value": 2.98
+    },
+    {
+        "parroquia": "GUARAINAC",
+        "id": 1455,
+        "votos": 9,
+        "candidato": "Alvaro Noboa",
+        "value": 1.76
+    },
+    {
+        "parroquia": "DUG-DUG",
+        "id": 890,
+        "votos": 14,
+        "candidato": "Alvaro Noboa",
+        "value": 3.74
+    },
+    {
+        "parroquia": "CHICAN / GUILLERMO ORTEGA",
+        "id": 870,
+        "votos": 13,
+        "candidato": "Alvaro Noboa",
+        "value": 1.43
+    },
+    {
+        "parroquia": "BULAN / J. VICTOR IZQUIERDO",
+        "id": 395,
+        "votos": 15,
+        "candidato": "Alvaro Noboa",
+        "value": 2.11
+    }
+]

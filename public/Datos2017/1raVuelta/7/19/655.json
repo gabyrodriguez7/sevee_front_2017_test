@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "CUMBARATZA",
+    "id": 720,
+    "votos": 34,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.54
+  },
+  {
+    "parroquia": "GUADALUPE",
+    "id": 1390,
+    "votos": 18,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.94
+  },
+  {
+    "parroquia": "SAN CARLOS DE LAS MINAS",
+    "id": 1770,
+    "votos": 13,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.17
+  },
+  {
+    "parroquia": "LA VICTORIA DE IMBANA",
+    "id": 2155,
+    "votos": 6,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.94
+  },
+  {
+    "parroquia": "SABANILLA",
+    "id": 3260,
+    "votos": 20,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 4.27
+  },
+  {
+    "parroquia": "TIMBARA",
+    "id": 4010,
+    "votos": 6,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.7
+  },
+  {
+    "parroquia": "ZAMORA",
+    "id": 6305,
+    "votos": 90,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.92
+  },
+  {
+    "parroquia": "EL LIMÓN",
+    "id": 6840,
+    "votos": 2,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.64
+  }
+]

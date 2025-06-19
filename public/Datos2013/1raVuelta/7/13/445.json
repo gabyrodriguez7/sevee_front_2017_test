@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "LA PILA",
+        "id": 1545,
+        "votos": 16,
+        "candidato": "Zavala Nelson",
+        "value": 0.798
+    },
+    {
+        "parroquia": "MONTECRISTI",
+        "id": 5665,
+        "votos": 439,
+        "candidato": "Zavala Nelson",
+        "value": 1.3834
+    },
+    {
+        "parroquia": "ANIBAL SAN ANDRES",
+        "id": 7460,
+        "votos": 5,
+        "candidato": "Zavala Nelson",
+        "value": 1.90114
+    }
+]

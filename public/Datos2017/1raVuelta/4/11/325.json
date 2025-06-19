@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "LA RAMA",
+    "id": 2085,
+    "votos": 36,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.99
+  },
+  {
+    "parroquia": "LA VICTORIA",
+    "id": 2145,
+    "votos": 85,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.92
+  },
+  {
+    "parroquia": "SABIANGO",
+    "id": 3265,
+    "votos": 58,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.06
+  },
+  {
+    "parroquia": "GRAL.ELOY ALFARO",
+    "id": 5385,
+    "votos": 107,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.64
+  },
+  {
+    "parroquia": "MACARÁ",
+    "id": 5680,
+    "votos": 941,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.74
+  }
+]

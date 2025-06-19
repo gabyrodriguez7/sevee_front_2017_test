@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "CAMPOZANO",
+    "id": 460,
+    "votos": 121,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.87
+  },
+  {
+    "parroquia": "CASCOL",
+    "id": 540,
+    "votos": 212,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.51
+  },
+  {
+    "parroquia": "GUALE/STO.DOMINGO",
+    "id": 1395,
+    "votos": 100,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.42
+  },
+  {
+    "parroquia": "LASCANO",
+    "id": 2090,
+    "votos": 72,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.43
+  },
+  {
+    "parroquia": "PAJÁN",
+    "id": 5755,
+    "votos": 645,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 5.06
+  }
+]

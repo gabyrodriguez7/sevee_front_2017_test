@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SANTIAGO",
+        "id": 6890,
+        "votos": 0,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.0
+    },
+    {
+        "parroquia": "SAN JOSE DE MORONA",
+        "id": 1295,
+        "votos": 2,
+        "candidato": "Carlos Gonzalez Albornoz",
+        "value": 0.26
+    }
+]

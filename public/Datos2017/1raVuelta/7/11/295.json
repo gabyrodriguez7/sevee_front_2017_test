@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "LIMONES",
+    "id": 280,
+    "votos": 6,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.84
+  },
+  {
+    "parroquia": "GARZAREAL",
+    "id": 290,
+    "votos": 13,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.98
+  },
+  {
+    "parroquia": "MANGAHURCO",
+    "id": 550,
+    "votos": 10,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.08
+  },
+  {
+    "parroquia": "BOLASPAMBA",
+    "id": 2000,
+    "votos": 11,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.27
+  },
+  {
+    "parroquia": "PALETILLAS",
+    "id": 2710,
+    "votos": 19,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.29
+  },
+  {
+    "parroquia": "CAZADEROS",
+    "id": 4605,
+    "votos": 30,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 11.72
+  },
+  {
+    "parroquia": "ZAPOTILLO",
+    "id": 6320,
+    "votos": 49,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.49
+  }
+]

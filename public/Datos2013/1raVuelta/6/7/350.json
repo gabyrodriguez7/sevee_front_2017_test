@@ -1,0 +1,45 @@
+[
+	{
+		"parroquia": "EL RETIRO",
+		"id": 255,
+		"votos": 294,
+		"candidato": "Lasso Guillermo",
+		"value": 23.7
+	},
+	{
+		"parroquia": "LA PROVIDENCIA",
+		"id": 5565,
+		"votos": 1086,
+		"candidato": "Lasso Guillermo",
+		"value": 23.4
+	},
+	{
+		"parroquia": "MACHALA",
+		"id": 5625,
+		"votos": 32277,
+		"candidato": "Lasso Guillermo",
+		"value": 27.3
+	},
+	{
+		"parroquia": "PUERTO BOLIVAR",
+		"id": 5805,
+		"votos": 3026,
+		"candidato": "Lasso Guillermo",
+		"value": 18.56
+	},
+	{
+		"parroquia": "9 DE MAYO",
+		"id": 6490,
+		"votos": 621,
+		"candidato": "Lasso Guillermo",
+		"value": 20.3
+	},
+	{
+		"parroquia": "EL CAMBIO",
+	"id": 6795,
+	"votos": 1016,
+	"candidato": "Lasso Guillermo",
+	"value": 22.2
+	}
+	]
+		

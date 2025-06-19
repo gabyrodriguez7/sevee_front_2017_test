@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "ZARUMA",
+        "id": 6310,
+        "votos": 358,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 5.22
+    },
+    {
+        "parroquia": "MULUNCAY GRANDE",
+        "id": 4450,
+        "votos": 5,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.29
+    },
+    {
+        "parroquia": "ARCAPAMBA",
+        "id": 4445,
+        "votos": 15,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.62
+    },
+    {
+        "parroquia": "MALVAS",
+        "id": 2350,
+        "votos": 14,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.69
+    },
+    {
+        "parroquia": "SALVIAS",
+        "id": 1750,
+        "votos": 7,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.18
+    },
+    {
+        "parroquia": "SINSAO",
+        "id": 1700,
+        "votos": 10,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.43
+    },
+    {
+        "parroquia": "HUERTAS",
+        "id": 1655,
+        "votos": 28,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.46
+    },
+    {
+        "parroquia": "GUIZHAGUIÑA",
+        "id": 1425,
+        "votos": 15,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.57
+    },
+    {
+        "parroquia": "GUANAZAN",
+        "id": 1420,
+        "votos": 18,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.61
+    },
+    {
+        "parroquia": "ABANIN",
+        "id": 5,
+        "votos": 8,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.6
+    }
+]

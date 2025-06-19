@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CUBE / CHANCAMA",
+        "id": 700,
+        "votos": 33,
+        "candidato": "Zavala Nelson",
+        "value": 3.0
+    },
+    {
+        "parroquia": "CHURA",
+        "id": 980,
+        "votos": 9,
+        "candidato": "Zavala Nelson",
+        "value": 1.6
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 1530,
+        "votos": 96,
+        "candidato": "Zavala Nelson",
+        "value": 1.05286
+    },
+    {
+        "parroquia": "MALIMPIA / GUAYLLABAMBA",
+        "id": 2345,
+        "votos": 70,
+        "candidato": "Zavala Nelson",
+        "value": 1.3
+    },
+    {
+        "parroquia": "VICHE",
+        "id": 4230,
+        "votos": 58,
+        "candidato": "Zavala Nelson",
+        "value": 1.6633209
+    },
+    {
+        "parroquia": "ROSA ZARATE",
+        "id": 5895,
+        "votos": 524,
+        "candidato": "Zavala Nelson",
+        "value": 1.4
+    }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "LA ESPERANZA",
+    "id": 2025,
+    "votos": 76,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.75
+  },
+  {
+    "parroquia": "MALCHINGUÍ",
+    "id": 2330,
+    "votos": 107,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.65
+  },
+  {
+    "parroquia": "TOCACHI",
+    "id": 4045,
+    "votos": 33,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.04
+  },
+  {
+    "parroquia": "TUPIGACHI",
+    "id": 4090,
+    "votos": 146,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 5.79
+  },
+  {
+    "parroquia": "TABACUNDO",
+    "id": 6145,
+    "votos": 538,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.68
+  }
+]

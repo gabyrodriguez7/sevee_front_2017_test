@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "SANTA FE DE GALAN",
+        "id": 40,
+        "votos": 202,
+        "candidato": "Correa Delgado Rafael",
+        "value": 32.217
+    },
+    {
+        "parroquia": "SAN JOSE DEL CHAZO",
+        "id": 45,
+        "votos": 244,
+        "candidato": "Correa Delgado Rafael",
+        "value": 35.26
+    },
+    {
+        "parroquia": "VALPARAISO",
+        "id": 410,
+        "votos": 165,
+        "candidato": "Correa Delgado Rafael",
+        "value": 70.513
+    },
+    {
+        "parroquia": "GUANANDO",
+        "id": 1415,
+        "votos": 205,
+        "candidato": "Correa Delgado Rafael",
+        "value": 51.508
+    },
+    {
+        "parroquia": "ILAPO",
+        "id": 1705,
+        "votos": 568,
+        "candidato": "Correa Delgado Rafael",
+        "value": 39.145
+    },
+    {
+        "parroquia": "LA PROVIDENCIA",
+        "id": 2080,
+        "votos": 209,
+        "candidato": "Correa Delgado Rafael",
+        "value": 52.911
+    },
+    {
+        "parroquia": "SAN ANDRES",
+        "id": 3295,
+        "votos": 2363,
+        "candidato": "Correa Delgado Rafael",
+        "value": 31.0
+    },
+    {
+        "parroquia": "SAN GERARDO / PAQUICAHUAN",
+        "id": 3425,
+        "votos": 519,
+        "candidato": "Correa Delgado Rafael",
+        "value": 41.72
+    },
+    {
+        "parroquia": "SAN ISIDRO DE PATULU",
+        "id": 3450,
+        "votos": 822,
+        "candidato": "Correa Delgado Rafael",
+        "value": 35.786
+    },
+    {
+        "parroquia": "EL ROSARIO",
+        "id": 5315,
+        "votos": 534,
+        "candidato": "Correa Delgado Rafael",
+        "value": 45.101
+    },
+    {
+        "parroquia": "LA MATRIZ",
+        "id": 5550,
+        "votos": 3513,
+        "candidato": "Correa Delgado Rafael",
+        "value": 39.57
+    }
+]

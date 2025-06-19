@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "YANAYACU MOCHAPATA",
+        "id": 4310,
+        "votos": 15,
+        "candidato": "Acosta Alberto",
+        "value": 1.71
+    },
+    {
+        "parroquia": "RUMIPAMBA",
+        "id": 4550,
+        "votos": 11,
+        "candidato": "Acosta Alberto",
+        "value": 1.32
+    },
+    {
+        "parroquia": "QUERO",
+        "id": 5835,
+        "votos": 126,
+        "candidato": "Acosta Alberto",
+        "value": 1.14
+    }
+]

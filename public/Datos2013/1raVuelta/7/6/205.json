@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CANI",
+        "id": 500,
+        "votos": 3,
+        "candidato": "Zavala Nelson",
+        "value": 0.566
+    },
+    {
+        "parroquia": "COLUMBE",
+        "id": 610,
+        "votos": 248,
+        "candidato": "Zavala Nelson",
+        "value": 2.368
+    },
+    {
+        "parroquia": "JUAN DE VELASCO / PONGOR",
+        "id": 1865,
+        "votos": 20,
+        "candidato": "Zavala Nelson",
+        "value": 1.29
+    },
+    {
+        "parroquia": "SANTIAGO DE QUITO",
+        "id": 4430,
+        "votos": 24,
+        "candidato": "Zavala Nelson",
+        "value": 1.75
+    },
+    {
+        "parroquia": "CAJABAMBA",
+        "id": 5145,
+        "votos": 109,
+        "candidato": "Zavala Nelson",
+        "value": 1.48
+    },
+    {
+        "parroquia": "SICALPA",
+        "id": 6080,
+        "votos": 126,
+        "candidato": "Zavala Nelson",
+        "value": 2.05078
+    }
+]

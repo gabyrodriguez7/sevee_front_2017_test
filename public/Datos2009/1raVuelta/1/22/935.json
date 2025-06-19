@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "LORETO",
+    "id": 6455,
+    "votos": 53,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.72
+  },
+  {
+    "parroquia": "SAN JOSE DE PAYAMINO",
+    "id": 3480,
+    "votos": 5,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 0.71
+  },
+  {
+    "parroquia": "SAN JOSE DE DAHUANO",
+    "id": 1680,
+    "votos": 7,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 0.67
+  },
+  {
+    "parroquia": "PUERTO MURIALDO",
+    "id": 1050,
+    "votos": 5,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 0.57
+  },
+  {
+    "parroquia": "SAN VICENTE DE HUATICOCHA",
+    "id": 400,
+    "votos": 4,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 0.89
+  },
+  {
+    "parroquia": "AVILA",
+    "id": 215,
+    "votos": 7,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 0.71
+  }
+]

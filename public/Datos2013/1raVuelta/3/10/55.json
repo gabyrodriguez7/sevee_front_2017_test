@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CAHUASQUI",
+        "id": 425,
+        "votos": 18,
+        "candidato": "Wray Norman",
+        "value": 1.4
+    },
+    {
+        "parroquia": "LA MERCED DE BUENOS AIRES",
+        "id": 2060,
+        "votos": 11,
+        "candidato": "Wray Norman",
+        "value": 1.0628
+    },
+    {
+        "parroquia": "PABLO ARENAS",
+        "id": 2675,
+        "votos": 11,
+        "candidato": "Wray Norman",
+        "value": 0.8
+    },
+    {
+        "parroquia": "SAN BLAS",
+        "id": 3365,
+        "votos": 17,
+        "candidato": "Wray Norman",
+        "value": 0.85
+    },
+    {
+        "parroquia": "TUMBABIRO",
+        "id": 4080,
+        "votos": 9,
+        "candidato": "Wray Norman",
+        "value": 0.955
+    },
+    {
+        "parroquia": "URCUQUI",
+        "id": 6190,
+        "votos": 32,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    }
+]

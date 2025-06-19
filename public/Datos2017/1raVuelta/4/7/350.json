@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "EL RETIRO",
+    "id": 255,
+    "votos": 203,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.5
+  },
+  {
+    "parroquia": "LA PROVIDENCIA",
+    "id": 5565,
+    "votos": 11128,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 20.19
+  },
+  {
+    "parroquia": "MACHALA",
+    "id": 5625,
+    "votos": 15698,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 21.08
+  },
+  {
+    "parroquia": "PUERTO BOLÍVAR",
+    "id": 5805,
+    "votos": 3976,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 22.52
+  },
+  {
+    "parroquia": "9 DE MAYO",
+    "id": 6490,
+    "votos": 766,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 18.6
+  },
+  {
+    "parroquia": "EL CAMBIO",
+    "id": 6795,
+    "votos": 934,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 16.51
+  },
+  {
+    "parroquia": "JUBONES",
+    "id": 7505,
+    "votos": 245,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 16.52
+  },
+  {
+    "parroquia": "JAMBELÍ",
+    "id": 7510,
+    "votos": 696,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 19.12
+  }
+]

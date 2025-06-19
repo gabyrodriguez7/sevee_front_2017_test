@@ -1,0 +1,191 @@
+[
+    {
+        "parroquia": "SAN FRANCISCO",
+        "id": 5945,
+        "votos": 33,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.63
+    },
+    {
+        "parroquia": "PISHILATA",
+        "id": 5840,
+        "votos": 14,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.99
+    },
+    {
+        "parroquia": "LA PENINSULA",
+        "id": 5605,
+        "votos": 8,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.85
+    },
+    {
+        "parroquia": "LA MERCED",
+        "id": 5560,
+        "votos": 61,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.43
+    },
+    {
+        "parroquia": "LA MATRIZ",
+        "id": 5545,
+        "votos": 92,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.5
+    },
+    {
+        "parroquia": "HUACHI CHICO",
+        "id": 5455,
+        "votos": 67,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.46
+    },
+    {
+        "parroquia": "HUACHI LORETO",
+        "id": 5445,
+        "votos": 183,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.52
+    },
+    {
+        "parroquia": "CELIANO MONGE",
+        "id": 5230,
+        "votos": 7,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.44
+    },
+    {
+        "parroquia": "ATOCHA FICOA",
+        "id": 5045,
+        "votos": 47,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.6
+    },
+    {
+        "parroquia": "TOTORAS",
+        "id": 4065,
+        "votos": 12,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.37
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 3730,
+        "votos": 16,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.21
+    },
+    {
+        "parroquia": "SAN FERNANDO",
+        "id": 3380,
+        "votos": 9,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.77
+    },
+    {
+        "parroquia": "SAN BARTOLOME",
+        "id": 3355,
+        "votos": 23,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.54
+    },
+    {
+        "parroquia": "QUISAPINCHA",
+        "id": 3120,
+        "votos": 21,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.4
+    },
+    {
+        "parroquia": "PILAHUIN",
+        "id": 2860,
+        "votos": 20,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.4
+    },
+    {
+        "parroquia": "PICAYHUA",
+        "id": 2830,
+        "votos": 33,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.43
+    },
+    {
+        "parroquia": "PASA",
+        "id": 2775,
+        "votos": 13,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.41
+    },
+    {
+        "parroquia": "MONTALVO",
+        "id": 2435,
+        "votos": 4,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.23
+    },
+    {
+        "parroquia": "JUAN BENIGNO VELA",
+        "id": 1860,
+        "votos": 21,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.57
+    },
+    {
+        "parroquia": "IZAMBA",
+        "id": 1745,
+        "votos": 37,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.39
+    },
+    {
+        "parroquia": "HUACHI GRANDE",
+        "id": 1625,
+        "votos": 12,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.3
+    },
+    {
+        "parroquia": "UNAMUNCHO",
+        "id": 810,
+        "votos": 4,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.44
+    },
+    {
+        "parroquia": "CUNCHIBAMBA",
+        "id": 800,
+        "votos": 2,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.12
+    },
+    {
+        "parroquia": "CONSTANTINO FERNANDEZ",
+        "id": 635,
+        "votos": 7,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.52
+    },
+    {
+        "parroquia": "AUGUSTO N MARTINEZ",
+        "id": 210,
+        "votos": 26,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.53
+    },
+    {
+        "parroquia": "ATAHUALPA /CHIPZALATA",
+        "id": 190,
+        "votos": 26,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.6
+    },
+    {
+        "parroquia": "AMBATILLO",
+        "id": 95,
+        "votos": 10,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.42
+    }
+]

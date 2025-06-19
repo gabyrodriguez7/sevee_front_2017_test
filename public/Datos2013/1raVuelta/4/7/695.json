@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "HUAQUILLAS",
+        "id": 5460,
+        "votos": 590,
+        "candidato": "Acosta Alberto",
+        "value": 2.0
+    },
+    {
+        "parroquia": "HUALTACO",
+        "id": 6800,
+        "votos": 14,
+        "candidato": "Acosta Alberto",
+        "value": 2.875
+    },
+    {
+        "parroquia": "MILTON REYES",
+        "id": 6805,
+        "votos": 16,
+        "candidato": "Acosta Alberto",
+        "value": 3.612
+    },
+    {
+        "parroquia": "EL PARAISO",
+        "id": 6810,
+        "votos": 12,
+        "candidato": "Acosta Alberto",
+        "value": 3.0
+    },
+    {
+        "parroquia": "ECUADOR",
+        "id": 6815,
+        "votos": 14,
+        "candidato": "Acosta Alberto",
+        "value": 2.0679468
+    },
+    {
+        "parroquia": "UNION LOJANA",
+        "id": 6820,
+        "votos": 19,
+        "candidato": "Acosta Alberto",
+        "value": 1.6949153
+    }
+]

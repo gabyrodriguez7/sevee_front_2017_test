@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "NOVILLO",
+        "id": 1600,
+        "votos": 47,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.9526
+    },
+    {
+        "parroquia": "ZAPALLO",
+        "id": 1620,
+        "votos": 82,
+        "candidato": "Gutierrez Lucio",
+        "value": 6.452
+    },
+    {
+        "parroquia": "FLAVIO ALFARO",
+        "id": 5480,
+        "votos": 910,
+        "candidato": "Gutierrez Lucio",
+        "value": 6.727
+    }
+]

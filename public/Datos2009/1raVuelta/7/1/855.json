@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN FERNANDO",
+        "id": 6565,
+        "votos": 114,
+        "candidato": "Alvaro Noboa",
+        "value": 5.79
+    },
+    {
+        "parroquia": "CHUMBLIN",
+        "id": 4560,
+        "votos": 22,
+        "candidato": "Alvaro Noboa",
+        "value": 9.48
+    }
+]

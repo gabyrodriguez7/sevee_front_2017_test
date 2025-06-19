@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "BUENAVISTA",
+        "id": 390,
+        "votos": 2536,
+        "candidato": "Correa Delgado Rafael",
+        "value": 70.249
+    },
+    {
+        "parroquia": "CAÑAQUEMADA",
+        "id": 775,
+        "votos": 348,
+        "candidato": "Correa Delgado Rafael",
+        "value": 77.679
+    },
+    {
+        "parroquia": "PROGRESO",
+        "id": 1225,
+        "votos": 955,
+        "candidato": "Correa Delgado Rafael",
+        "value": 63.455
+    },
+    {
+        "parroquia": "LA PEAÑA",
+        "id": 2075,
+        "votos": 1485,
+        "candidato": "Correa Delgado Rafael",
+        "value": 70.7
+    },
+    {
+        "parroquia": "UZHCURRUMI",
+        "id": 4160,
+        "votos": 467,
+        "candidato": "Correa Delgado Rafael",
+        "value": 55.7279
+    },
+    {
+        "parroquia": "CASACAY",
+        "id": 4495,
+        "votos": 680,
+        "candidato": "Correa Delgado Rafael",
+        "value": 67.4603
+    },
+    {
+        "parroquia": "OCHOA LEON/MATRIZ",
+        "id": 5770,
+        "votos": 20230,
+        "candidato": "Correa Delgado Rafael",
+        "value": 58.15391
+    },
+    {
+        "parroquia": "LOMA DE FRANCO",
+        "id": 6365,
+        "votos": 456,
+        "candidato": "Correa Delgado Rafael",
+        "value": 76.51007
+    },
+    {
+        "parroquia": "BOLIVAR",
+        "id": 6370,
+        "votos": 259,
+        "candidato": "Correa Delgado Rafael",
+        "value": 64.75
+    },
+    {
+        "parroquia": "TRES CERRITOS",
+        "id": 6375,
+        "votos": 198,
+        "candidato": "Correa Delgado Rafael",
+        "value": 62.068966
+    },
+    {
+        "parroquia": "PASAJE",
+        "id": 6940,
+        "votos": 161,
+        "candidato": "Correa Delgado Rafael",
+        "value": 61.93
+    }
+]

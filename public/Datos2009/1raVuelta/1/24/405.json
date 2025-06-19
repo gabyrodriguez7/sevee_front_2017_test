@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "SANTA ROSA",
+    "id": 6995,
+    "votos": 37,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.35
+  },
+  {
+    "parroquia": "CARLOS ESPINOZA LARREA",
+    "id": 6280,
+    "votos": 12,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 9.91
+  },
+  {
+    "parroquia": "VICENTE ROCAFUERTE",
+    "id": 6275,
+    "votos": 5,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 6.41
+  },
+  {
+    "parroquia": "GRAL. A. E. GALLO",
+    "id": 6270,
+    "votos": 2,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 4.16
+  },
+  {
+    "parroquia": "SALINAS",
+    "id": 5920,
+    "votos": 766,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 4.44
+  },
+  {
+    "parroquia": "JOSE LUIS TAMAYO / MUEY",
+    "id": 1850,
+    "votos": 276,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 3.74
+  },
+  {
+    "parroquia": "ANCONCITO",
+    "id": 115,
+    "votos": 98,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.07
+  }
+]

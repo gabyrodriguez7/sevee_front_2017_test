@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "ALOAG",
+    "id": 55,
+    "votos": 107,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.77888612
+  },
+  {
+    "parroquia": "ALOASI",
+    "id": 60,
+    "votos": 74,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.8555667
+  },
+  {
+    "parroquia": "CORNEJO ASTORGA /TANDAPI",
+    "id": 650,
+    "votos": 40,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.57400257
+  },
+  {
+    "parroquia": "CUTUGLAGUA",
+    "id": 755,
+    "votos": 146,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.66742805
+  },
+  {
+    "parroquia": "CHAUPI",
+    "id": 850,
+    "votos": 8,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.88987764
+  },
+  {
+    "parroquia": "TAMBILLO",
+    "id": 3960,
+    "votos": 103,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.55989702
+  },
+  {
+    "parroquia": "UYUMBICHO",
+    "id": 4155,
+    "votos": 38,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.40428677
+  },
+  {
+    "parroquia": "MACHACHI",
+    "id": 5620,
+    "votos": 327,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.39779431
+  }
+]

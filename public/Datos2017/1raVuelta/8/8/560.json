@@ -1,0 +1,93 @@
+[
+  {
+    "parroquia": "CAMARONES",
+    "id": 450,
+    "votos": 13,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 0.97
+  },
+  {
+    "parroquia": "CRNL.CARLOS CONCHA TORRES",
+    "id": 655,
+    "votos": 9,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.12
+  },
+  {
+    "parroquia": "CHINCA",
+    "id": 895,
+    "votos": 20,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.15
+  },
+  {
+    "parroquia": "MAJUA",
+    "id": 2320,
+    "votos": 15,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.42
+  },
+  {
+    "parroquia": "SAN MATEO",
+    "id": 3570,
+    "votos": 55,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.91
+  },
+  {
+    "parroquia": "TABIAZO",
+    "id": 3930,
+    "votos": 18,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.26
+  },
+  {
+    "parroquia": "TACHINA",
+    "id": 3940,
+    "votos": 25,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.1
+  },
+  {
+    "parroquia": "VUELTA LARGA",
+    "id": 4240,
+    "votos": 257,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.72
+  },
+  {
+    "parroquia": "BARTOLOMÉ RUÍZ",
+    "id": 5205,
+    "votos": 258,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.5
+  },
+  {
+    "parroquia": "5 DE AGOSTO",
+    "id": 5210,
+    "votos": 362,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.33
+  },
+  {
+    "parroquia": "ESMERALDAS",
+    "id": 5335,
+    "votos": 431,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.41
+  },
+  {
+    "parroquia": "LUIS TELLO / LAS PALMAS /",
+    "id": 5600,
+    "votos": 115,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.73
+  },
+  {
+    "parroquia": "SIMÓN PLATA TORRES",
+    "id": 6905,
+    "votos": 118,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.68
+  }
+]

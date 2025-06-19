@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "ASUNCION",
+        "id": 175,
+        "votos": 13,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "SAN GERARDO",
+        "id": 885,
+        "votos": 2,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "GIRON",
+        "id": 5395,
+        "votos": 58,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    }
+]

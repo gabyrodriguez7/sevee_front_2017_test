@@ -1,0 +1,114 @@
+[
+    {
+        "parroquia": "YARUQUIES",
+        "id": 6290,
+        "votos": 1566,
+        "candidato": "Rafael Correa Delgado",
+        "value": 46.81
+    },
+    {
+        "parroquia": "VELOZ",
+        "id": 6230,
+        "votos": 5092,
+        "candidato": "Rafael Correa Delgado",
+        "value": 43.18
+    },
+    {
+        "parroquia": "VELASCO",
+        "id": 6220,
+        "votos": 8595,
+        "candidato": "Rafael Correa Delgado",
+        "value": 41.63
+    },
+    {
+        "parroquia": "MALDONADO",
+        "id": 5630,
+        "votos": 7886,
+        "candidato": "Rafael Correa Delgado",
+        "value": 41.24
+    },
+    {
+        "parroquia": "LIZARZABURU",
+        "id": 5590,
+        "votos": 11668,
+        "candidato": "Rafael Correa Delgado",
+        "value": 41.5
+    },
+    {
+        "parroquia": "SAN LUIS",
+        "id": 3560,
+        "votos": 1402,
+        "candidato": "Rafael Correa Delgado",
+        "value": 43.41
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3515,
+        "votos": 1438,
+        "candidato": "Rafael Correa Delgado",
+        "value": 34.4
+    },
+    {
+        "parroquia": "QUIMIAG",
+        "id": 3095,
+        "votos": 1250,
+        "candidato": "Rafael Correa Delgado",
+        "value": 42.73
+    },
+    {
+        "parroquia": "PUNIN",
+        "id": 3040,
+        "votos": 1231,
+        "candidato": "Rafael Correa Delgado",
+        "value": 38.06
+    },
+    {
+        "parroquia": "PUNGALA",
+        "id": 3035,
+        "votos": 1250,
+        "candidato": "Rafael Correa Delgado",
+        "value": 46.5
+    },
+    {
+        "parroquia": "LICTO",
+        "id": 2165,
+        "votos": 2241,
+        "candidato": "Rafael Correa Delgado",
+        "value": 52.54
+    },
+    {
+        "parroquia": "LICAN",
+        "id": 2160,
+        "votos": 859,
+        "candidato": "Rafael Correa Delgado",
+        "value": 33.83
+    },
+    {
+        "parroquia": "FLORES",
+        "id": 1280,
+        "votos": 1388,
+        "candidato": "Rafael Correa Delgado",
+        "value": 52.25
+    },
+    {
+        "parroquia": "CUBIJIES",
+        "id": 705,
+        "votos": 372,
+        "candidato": "Rafael Correa Delgado",
+        "value": 30.39
+    },
+    {
+        "parroquia": "CALPI",
+        "id": 445,
+        "votos": 1366,
+        "candidato": "Rafael Correa Delgado",
+        "value": 38.58
+    },
+    {
+        "parroquia": "CACHA",
+        "id": 420,
+        "votos": 871,
+        "candidato": "Rafael Correa Delgado",
+        "value": 54.03
+    }
+]

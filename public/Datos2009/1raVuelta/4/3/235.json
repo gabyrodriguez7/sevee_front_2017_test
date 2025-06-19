@@ -1,0 +1,86 @@
+[
+    {
+        "parroquia": "AURELIO BAYAS MARTINEZ",
+        "id": 6845,
+        "votos": 837,
+        "candidato": "Rafael Correa Delgado",
+        "value": 38.27
+    },
+    {
+        "parroquia": "BORRERO",
+        "id": 6790,
+        "votos": 728,
+        "candidato": "Rafael Correa Delgado",
+        "value": 39.11
+    },
+    {
+        "parroquia": "SAN FRANCISCO",
+        "id": 5950,
+        "votos": 145,
+        "candidato": "Rafael Correa Delgado",
+        "value": 29.41
+    },
+    {
+        "parroquia": "AZOGUES",
+        "id": 5065,
+        "votos": 7113,
+        "candidato": "Rafael Correa Delgado",
+        "value": 40.27
+    },
+    {
+        "parroquia": "TADAY",
+        "id": 3945,
+        "votos": 246,
+        "candidato": "Rafael Correa Delgado",
+        "value": 34.5
+    },
+    {
+        "parroquia": "SAN MIGUEL",
+        "id": 3575,
+        "votos": 699,
+        "candidato": "Rafael Correa Delgado",
+        "value": 46.5
+    },
+    {
+        "parroquia": "RIVERA",
+        "id": 3210,
+        "votos": 179,
+        "candidato": "Rafael Correa Delgado",
+        "value": 24.93
+    },
+    {
+        "parroquia": "PINDILIG",
+        "id": 2885,
+        "votos": 296,
+        "candidato": "Rafael Correa Delgado",
+        "value": 38.19
+    },
+    {
+        "parroquia": "LUIS CORDERO",
+        "id": 2220,
+        "votos": 621,
+        "candidato": "Rafael Correa Delgado",
+        "value": 43.42
+    },
+    {
+        "parroquia": "JAVIER LOYOLA / CHUQUIPATA",
+        "id": 1825,
+        "votos": 1606,
+        "candidato": "Rafael Correa Delgado",
+        "value": 60.24
+    },
+    {
+        "parroquia": "GUAPAN",
+        "id": 1445,
+        "votos": 1248,
+        "candidato": "Rafael Correa Delgado",
+        "value": 35.52
+    },
+    {
+        "parroquia": "COJITAMBO",
+        "id": 585,
+        "votos": 731,
+        "candidato": "Rafael Correa Delgado",
+        "value": 47.52
+    }
+]

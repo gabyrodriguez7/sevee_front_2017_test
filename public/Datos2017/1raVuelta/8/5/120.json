@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "MORASPUNGO",
+    "id": 2460,
+    "votos": 173,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.61
+  },
+  {
+    "parroquia": "PINLLOPATA",
+    "id": 2890,
+    "votos": 6,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.18
+  },
+  {
+    "parroquia": "RAMÓN CAMPAÑA",
+    "id": 3155,
+    "votos": 19,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.38
+  },
+  {
+    "parroquia": "EL CORAZÓN",
+    "id": 5305,
+    "votos": 74,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.73
+  }
+]

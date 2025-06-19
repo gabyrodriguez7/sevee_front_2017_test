@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "BACHILLERO",
+    "id": 265,
+    "votos": 6,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.28
+  },
+  {
+    "parroquia": "ANGEL PEDRO GILER",
+    "id": 2030,
+    "votos": 10,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.35
+  },
+  {
+    "parroquia": "TOSAGUA",
+    "id": 6170,
+    "votos": 115,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.57
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "PICHINCHA /GERMUD",
+    "id": 6550,
+    "votos": 223,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.76
+  },
+  {
+    "parroquia": "BARRAGANETE",
+    "id": 1065,
+    "votos": 11,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.5
+  },
+  {
+    "parroquia": "SAN SEBASTIAN",
+    "id": 1060,
+    "votos": 20,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 0.94
+  }
+]

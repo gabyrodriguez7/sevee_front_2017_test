@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "C. E. EN BEIJING",
+    "id": 9020,
+    "votos": 18,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 29.03
+  },
+  {
+    "parroquia": "C. E. EN SHANGAI",
+    "id": 9068,
+    "votos": 14,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 46.67
+  },
+  {
+    "parroquia": "C. E. EN GUANZHOU",
+    "id": 9075,
+    "votos": 4,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 25
+  }
+]

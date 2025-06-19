@@ -1,0 +1,114 @@
+[
+  {
+    "parroquia": "ANCHAYACU",
+    "id": 120,
+    "votos": 594,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 78.36
+  },
+  {
+    "parroquia": "ATAHUALPA/CAMARONES",
+    "id": 200,
+    "votos": 587,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 64.01
+  },
+  {
+    "parroquia": "BORBÓN",
+    "id": 370,
+    "votos": 3446,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 65.53
+  },
+  {
+    "parroquia": "SAN JOSÉ DE CAYAPAS",
+    "id": 1505,
+    "votos": 430,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 52.63
+  },
+  {
+    "parroquia": "COLÓN ELOY DE MARÍA",
+    "id": 1510,
+    "votos": 546,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 82.35
+  },
+  {
+    "parroquia": "TIMBIRÉ",
+    "id": 1515,
+    "votos": 410,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 77.36
+  },
+  {
+    "parroquia": "LA TOLA",
+    "id": 2125,
+    "votos": 1226,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 70.66
+  },
+  {
+    "parroquia": "LUIS VARGAS TORRES",
+    "id": 2225,
+    "votos": 232,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 83.75
+  },
+  {
+    "parroquia": "MALDONADO",
+    "id": 2335,
+    "votos": 756,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 71.25
+  },
+  {
+    "parroquia": "PAMPANAL DE BOLIVAR",
+    "id": 2670,
+    "votos": 315,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 76.09
+  },
+  {
+    "parroquia": "SAN FRANCISCO DE ONZOLE",
+    "id": 3405,
+    "votos": 405,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 46.18
+  },
+  {
+    "parroquia": "SELVA ALEGRE",
+    "id": 3805,
+    "votos": 544,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 80.12
+  },
+  {
+    "parroquia": "TELEMBÍ",
+    "id": 4170,
+    "votos": 1164,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 54.7
+  },
+  {
+    "parroquia": "SANTO DOMINGO DE ONZOLE",
+    "id": 4465,
+    "votos": 666,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 56.68
+  },
+  {
+    "parroquia": "SANTA LUCIA DE LAS PEÑAS",
+    "id": 4595,
+    "votos": 469,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 75.52
+  },
+  {
+    "parroquia": "VALDÉZ/LIMONES/",
+    "id": 6205,
+    "votos": 3166,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 75.6
+  }
+]

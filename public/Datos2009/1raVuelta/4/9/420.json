@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "MILAGRO",
+        "id": 5660,
+        "votos": 44508,
+        "candidato": "Rafael Correa Delgado",
+        "value": 52.65
+    },
+    {
+        "parroquia": "ROBERTO ASTUDILLO",
+        "id": 3235,
+        "votos": 1309,
+        "candidato": "Rafael Correa Delgado",
+        "value": 53.91
+    },
+    {
+        "parroquia": "MARISCAL SUCRE/HUAQUES",
+        "id": 2390,
+        "votos": 1204,
+        "candidato": "Rafael Correa Delgado",
+        "value": 64.07
+    },
+    {
+        "parroquia": "CHOBO",
+        "id": 920,
+        "votos": 389,
+        "candidato": "Rafael Correa Delgado",
+        "value": 78.42
+    }
+]

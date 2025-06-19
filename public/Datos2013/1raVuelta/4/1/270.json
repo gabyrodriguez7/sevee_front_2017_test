@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "ASUNCION",
+        "id": 175,
+        "votos": 206,
+        "candidato": "Acosta Alberto",
+        "value": 14.0
+    },
+    {
+        "parroquia": "SAN GERARDO",
+        "id": 885,
+        "votos": 38,
+        "candidato": "Acosta Alberto",
+        "value": 15.0
+    },
+    {
+        "parroquia": "GIRON",
+        "id": 5395,
+        "votos": 649,
+        "candidato": "Acosta Alberto",
+        "value": 11.1
+    }
+]

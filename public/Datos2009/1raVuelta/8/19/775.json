@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "EL PANGUI",
+    "id": 6355,
+    "votos": 1257,
+    "candidato": "Lucio Gutierrez",
+    "value": 48.5
+  },
+  {
+    "parroquia": "PACHICUTZA",
+    "id": 1015,
+    "votos": 176,
+    "candidato": "Lucio Gutierrez",
+    "value": 40.55
+  },
+  {
+    "parroquia": "TUNDAYME",
+    "id": 945,
+    "votos": 72,
+    "candidato": "Lucio Gutierrez",
+    "value": 33.33
+  },
+  {
+    "parroquia": "EL GUISMI",
+    "id": 665,
+    "votos": 292,
+    "candidato": "Lucio Gutierrez",
+    "value": 55.3
+  }
+]

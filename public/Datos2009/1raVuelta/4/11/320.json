@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "SAN VICENTE",
+        "id": 6025,
+        "votos": 164,
+        "candidato": "Rafael Correa Delgado",
+        "value": 51.09
+    },
+    {
+        "parroquia": "CHILE",
+        "id": 5240,
+        "votos": 797,
+        "candidato": "Rafael Correa Delgado",
+        "value": 62.12
+    },
+    {
+        "parroquia": "CARIAMANGA",
+        "id": 5175,
+        "votos": 4922,
+        "candidato": "Rafael Correa Delgado",
+        "value": 57.38
+    },
+    {
+        "parroquia": "UTUANA",
+        "id": 4150,
+        "votos": 296,
+        "candidato": "Rafael Correa Delgado",
+        "value": 78.1
+    },
+    {
+        "parroquia": "SANGUILLIN",
+        "id": 1550,
+        "votos": 191,
+        "candidato": "Rafael Correa Delgado",
+        "value": 75.19
+    },
+    {
+        "parroquia": "EL LUCERO",
+        "id": 1230,
+        "votos": 636,
+        "candidato": "Rafael Correa Delgado",
+        "value": 72.19
+    },
+    {
+        "parroquia": "COLAIZACA",
+        "id": 590,
+        "votos": 734,
+        "candidato": "Rafael Correa Delgado",
+        "value": 81.73
+    }
+]

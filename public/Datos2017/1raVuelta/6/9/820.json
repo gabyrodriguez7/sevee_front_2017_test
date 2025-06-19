@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "ELOY ALFARO /DURÁN",
+    "id": 6525,
+    "votos": 429,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.42
+  },
+  {
+    "parroquia": "EL RECREO",
+    "id": 7455,
+    "votos": 119,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.5
+  },
+  {
+    "parroquia": "DIVINO NIÑO",
+    "id": 7515,
+    "votos": 81,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.51
+  }
+]

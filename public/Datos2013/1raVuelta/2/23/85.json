@@ -1,0 +1,100 @@
+[
+    {
+        "parroquia": "ALLURIQUIN",
+        "id": 75,
+        "votos": 154,
+        "candidato": "Noboa Alvaro",
+        "value": 3.107
+    },
+    {
+        "parroquia": "VALLE HERMOSO",
+        "id": 305,
+        "votos": 137,
+        "candidato": "Noboa Alvaro",
+        "value": 3.737
+    },
+    {
+        "parroquia": "LUZ DE AMERICA",
+        "id": 1755,
+        "votos": 85,
+        "candidato": "Noboa Alvaro",
+        "value": 2.94
+    },
+    {
+        "parroquia": "SAN JACINTO DEL BUA",
+        "id": 1970,
+        "votos": 237,
+        "candidato": "Noboa Alvaro",
+        "value": 4.926
+    },
+    {
+        "parroquia": "EL ESFUERZO",
+        "id": 1990,
+        "votos": 68,
+        "candidato": "Noboa Alvaro",
+        "value": 2.7
+    },
+    {
+        "parroquia": "SANTA MARIA DEL TOACHI",
+        "id": 2045,
+        "votos": 77,
+        "candidato": "Noboa Alvaro",
+        "value": 4.2
+    },
+    {
+        "parroquia": "PUERTO LIMON",
+        "id": 4440,
+        "votos": 175,
+        "candidato": "Noboa Alvaro",
+        "value": 3.0
+    },
+    {
+        "parroquia": "ABRAHAM CALAZACON",
+        "id": 5730,
+        "votos": 662,
+        "candidato": "Noboa Alvaro",
+        "value": 4.0
+    },
+    {
+        "parroquia": "BOMBOLI",
+        "id": 5860,
+        "votos": 679,
+        "candidato": "Noboa Alvaro",
+        "value": 3.55814
+    },
+    {
+        "parroquia": "RIO VERDE",
+        "id": 5865,
+        "votos": 809,
+        "candidato": "Noboa Alvaro",
+        "value": 4.0
+    },
+    {
+        "parroquia": "RIO TOACHI",
+        "id": 5870,
+        "votos": 92,
+        "candidato": "Noboa Alvaro",
+        "value": 4.0
+    },
+    {
+        "parroquia": "SANTO DOMINGO",
+        "id": 6065,
+        "votos": 5089,
+        "candidato": "Noboa Alvaro",
+        "value": 4.2
+    },
+    {
+        "parroquia": "CHIGUILPE",
+        "id": 6175,
+        "votos": 333,
+        "candidato": "Noboa Alvaro",
+        "value": 3.2
+    },
+    {
+        "parroquia": "ZARACAY",
+        "id": 6180,
+        "votos": 156,
+        "candidato": "Noboa Alvaro",
+        "value": 3.9
+    }
+]

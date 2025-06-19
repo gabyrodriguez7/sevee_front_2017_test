@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CANCHAGUA",
+        "id": 465,
+        "votos": 42,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.0
+    },
+    {
+        "parroquia": "CHANTILIN",
+        "id": 830,
+        "votos": 26,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 5.339
+    },
+    {
+        "parroquia": "COCHAPAMBA",
+        "id": 990,
+        "votos": 221,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 19.0
+    },
+    {
+        "parroquia": "SAQUISILI",
+        "id": 6070,
+        "votos": 521,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 5.129
+    }
+]

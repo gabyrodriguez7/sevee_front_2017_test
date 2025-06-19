@@ -1,0 +1,114 @@
+[
+  {
+    "parroquia": "CACHA",
+    "id": 420,
+    "votos": 65,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 3.09
+  },
+  {
+    "parroquia": "CALPI",
+    "id": 445,
+    "votos": 91,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 2.13
+  },
+  {
+    "parroquia": "CUBIJÍES",
+    "id": 705,
+    "votos": 22,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.45
+  },
+  {
+    "parroquia": "FLORES",
+    "id": 1280,
+    "votos": 57,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.89
+  },
+  {
+    "parroquia": "LICAN",
+    "id": 2160,
+    "votos": 119,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 3.14
+  },
+  {
+    "parroquia": "LICTO",
+    "id": 2165,
+    "votos": 120,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 2.22
+  },
+  {
+    "parroquia": "PUNGALÁ",
+    "id": 3035,
+    "votos": 136,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 3.91
+  },
+  {
+    "parroquia": "PUNÍN",
+    "id": 3040,
+    "votos": 86,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 2.12
+  },
+  {
+    "parroquia": "QUIMIAG",
+    "id": 3095,
+    "votos": 107,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 3.06
+  },
+  {
+    "parroquia": "SAN JUAN",
+    "id": 3515,
+    "votos": 105,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.97
+  },
+  {
+    "parroquia": "SAN LUIS",
+    "id": 3560,
+    "votos": 130,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 3.1
+  },
+  {
+    "parroquia": "LIZARZABURU",
+    "id": 5590,
+    "votos": 817,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 2.21
+  },
+  {
+    "parroquia": "MALDONADO",
+    "id": 5630,
+    "votos": 574,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 2.32
+  },
+  {
+    "parroquia": "VELASCO",
+    "id": 6220,
+    "votos": 555,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 2.1
+  },
+  {
+    "parroquia": "VELOZ",
+    "id": 6230,
+    "votos": 354,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 2.19
+  },
+  {
+    "parroquia": "YARUQUÍES",
+    "id": 6290,
+    "votos": 123,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 2.95
+  }
+]

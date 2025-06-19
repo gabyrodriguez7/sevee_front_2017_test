@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "CHOBO",
+    "id": 920,
+    "votos": 12,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.26
+  },
+  {
+    "parroquia": "MARISCAL SUCRE/HUAQUES",
+    "id": 2390,
+    "votos": 52,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.87
+  },
+  {
+    "parroquia": "ROBERTO ASTUDILLO",
+    "id": 3235,
+    "votos": 93,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.27
+  },
+  {
+    "parroquia": "MILAGRO",
+    "id": 5660,
+    "votos": 2791,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.61
+  }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "EL GUISMI",
+        "id": 665,
+        "votos": 504,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 63.8
+    },
+    {
+        "parroquia": "TUNDAYME",
+        "id": 945,
+        "votos": 289,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 61.75
+    },
+    {
+        "parroquia": "PACHICUTZA",
+        "id": 1015,
+        "votos": 399,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 54.36
+    },
+    {
+        "parroquia": "EL PANGUI",
+        "id": 6355,
+        "votos": 2714,
+        "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+        "value": 66.54
+    }
+]

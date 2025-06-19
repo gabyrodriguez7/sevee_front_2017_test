@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "MORASPUNGO",
+    "id": 2460,
+    "votos": 4046,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 55.4
+  },
+  {
+    "parroquia": "PINLLOPATA",
+    "id": 2890,
+    "votos": 415,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 69.4
+  },
+  {
+    "parroquia": "RAMÓN CAMPAÑA",
+    "id": 3155,
+    "votos": 725,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 76.48
+  },
+  {
+    "parroquia": "EL CORAZÓN",
+    "id": 5305,
+    "votos": 3158,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 64.08
+  }
+]

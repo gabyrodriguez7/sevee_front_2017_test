@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "SAN LUIS DE PAMBIL",
+    "id": 795,
+    "votos": 76,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.26
+  },
+  {
+    "parroquia": "FACUNDO VELA",
+    "id": 1255,
+    "votos": 30,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.35
+  },
+  {
+    "parroquia": "JULIO E MORENO",
+    "id": 1890,
+    "votos": 25,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.39
+  },
+  {
+    "parroquia": "SALINAS",
+    "id": 3285,
+    "votos": 30,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.27
+  },
+  {
+    "parroquia": "SAN LORENZO",
+    "id": 3545,
+    "votos": 20,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.62
+  },
+  {
+    "parroquia": "SAN SIMÓN",
+    "id": 3670,
+    "votos": 18,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.81
+  },
+  {
+    "parroquia": "SANTA FE",
+    "id": 3710,
+    "votos": 22,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.71
+  },
+  {
+    "parroquia": "SIMIATUG",
+    "id": 3860,
+    "votos": 95,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.97
+  },
+  {
+    "parroquia": "ÁNGEL POLIVIO CHÁVEZ",
+    "id": 5035,
+    "votos": 140,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.63
+  },
+  {
+    "parroquia": "GABRIEL I VEINTIMILLA",
+    "id": 5375,
+    "votos": 196,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.39
+  },
+  {
+    "parroquia": "GUANUJO",
+    "id": 6630,
+    "votos": 214,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.51
+  }
+]

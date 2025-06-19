@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "LEONIDAS PLAZA G.",
+    "id": 5580,
+    "votos": 47,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.97
+  },
+  {
+    "parroquia": "BAHIA DE CARAQUEZ",
+    "id": 5095,
+    "votos": 293,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 2.64
+  },
+  {
+    "parroquia": "SAN ISIDRO",
+    "id": 3445,
+    "votos": 64,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.13
+  },
+  {
+    "parroquia": "CHARAPOTO",
+    "id": 840,
+    "votos": 146,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.41
+  }
+]

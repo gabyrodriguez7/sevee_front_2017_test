@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "ASUNCIÓN",
+    "id": 180,
+    "votos": 14,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.71
+  },
+  {
+    "parroquia": "SANTA MARIANITA DE JESÚS",
+    "id": 1140,
+    "votos": 4,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.95
+  },
+  {
+    "parroquia": "HUAMBI",
+    "id": 1635,
+    "votos": 24,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.43
+  },
+  {
+    "parroquia": "SUCÚA",
+    "id": 6110,
+    "votos": 78,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.99
+  }
+]

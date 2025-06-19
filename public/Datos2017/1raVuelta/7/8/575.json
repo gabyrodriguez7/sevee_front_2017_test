@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "CÚBE / CHANCAMA",
+    "id": 700,
+    "votos": 72,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 4.85
+  },
+  {
+    "parroquia": "CHURA",
+    "id": 980,
+    "votos": 43,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 4.13
+  },
+  {
+    "parroquia": "LA UNIÓN",
+    "id": 1530,
+    "votos": 503,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 4.69
+  },
+  {
+    "parroquia": "MALIMPIA / GUAYLLABAMBA",
+    "id": 2345,
+    "votos": 190,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.05
+  },
+  {
+    "parroquia": "VICHE",
+    "id": 4230,
+    "votos": 129,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.37
+  },
+  {
+    "parroquia": "ROSA ZÁRATE",
+    "id": 5895,
+    "votos": 1856,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 4.82
+  }
+]

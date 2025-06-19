@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "SANTA ISABEL",
+        "id": 6045,
+        "votos": 4281,
+        "candidato": "Rafael Correa Delgado",
+        "value": 65.4
+    },
+    {
+        "parroquia": "SHAGLLI",
+        "id": 3835,
+        "votos": 658,
+        "candidato": "Rafael Correa Delgado",
+        "value": 79.08
+    },
+    {
+        "parroquia": "EL CARMEN DE PIJILI",
+        "id": 1130,
+        "votos": 389,
+        "candidato": "Rafael Correa Delgado",
+        "value": 80.7
+    },
+    {
+        "parroquia": "ABDON CALDERON / LA UNION",
+        "id": 15,
+        "votos": 924,
+        "candidato": "Rafael Correa Delgado",
+        "value": 73.1
+    }
+]

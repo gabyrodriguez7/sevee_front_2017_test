@@ -1,0 +1,107 @@
+[
+    {
+        "parroquia": "ALAQUEZ",
+        "id": 35,
+        "votos": 69,
+        "candidato": "Wray Norman",
+        "value": 1.6
+    },
+    {
+        "parroquia": "BELISARIO QUEVEDO",
+        "id": 315,
+        "votos": 46,
+        "candidato": "Wray Norman",
+        "value": 1.5
+    },
+    {
+        "parroquia": "GUAYTACAMA",
+        "id": 1485,
+        "votos": 70,
+        "candidato": "Wray Norman",
+        "value": 1.284168
+    },
+    {
+        "parroquia": "JOSEGUANGO BAJO",
+        "id": 1905,
+        "votos": 19,
+        "candidato": "Wray Norman",
+        "value": 1.9
+    },
+    {
+        "parroquia": "MULALO",
+        "id": 2480,
+        "votos": 91,
+        "candidato": "Wray Norman",
+        "value": 2.0
+    },
+    {
+        "parroquia": "11 DE NOVIEMBRE",
+        "id": 2620,
+        "votos": 34,
+        "candidato": "Wray Norman",
+        "value": 2.4
+    },
+    {
+        "parroquia": "POALO",
+        "id": 2920,
+        "votos": 29,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "SAN JUAN DE PASTOCALLE",
+        "id": 3530,
+        "votos": 74,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "TANICUCHI",
+        "id": 3965,
+        "votos": 125,
+        "candidato": "Wray Norman",
+        "value": 1.61
+    },
+    {
+        "parroquia": "TOACAZO",
+        "id": 4035,
+        "votos": 69,
+        "candidato": "Wray Norman",
+        "value": 1.22
+    },
+    {
+        "parroquia": "ELOY ALFARO / SAN FELIPE",
+        "id": 5310,
+        "votos": 410,
+        "candidato": "Wray Norman",
+        "value": 2.18
+    },
+    {
+        "parroquia": "IGNACIO FLORES",
+        "id": 5465,
+        "votos": 215,
+        "candidato": "Wray Norman",
+        "value": 2.19
+    },
+    {
+        "parroquia": "JUAN MONTALVO",
+        "id": 5500,
+        "votos": 202,
+        "candidato": "Wray Norman",
+        "value": 1.99
+    },
+    {
+        "parroquia": "LA MATRIZ",
+        "id": 5555,
+        "votos": 476,
+        "candidato": "Wray Norman",
+        "value": 2.4
+    },
+    {
+        "parroquia": "SAN BUENAVENTURA",
+        "id": 5940,
+        "votos": 100,
+        "candidato": "Wray Norman",
+        "value": 3.2
+    }
+]

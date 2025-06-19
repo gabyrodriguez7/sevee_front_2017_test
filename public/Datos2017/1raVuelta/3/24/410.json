@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "ATAHUALPA",
+    "id": 205,
+    "votos": 1147,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 51.3888889
+  },
+  {
+    "parroquia": "COLONCHE",
+    "id": 605,
+    "votos": 11416,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 61.2807988
+  },
+  {
+    "parroquia": "CHANDUY",
+    "id": 820,
+    "votos": 5108,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 55.407311
+  },
+  {
+    "parroquia": "SAN JOSÉ DE ANCÓN",
+    "id": 1300,
+    "votos": 1732,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 49.98557
+  },
+  {
+    "parroquia": "MANGLARALTO",
+    "id": 2355,
+    "votos": 9048,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 49.5971057
+  },
+  {
+    "parroquia": "SIMÓN BOLÍVAR",
+    "id": 3915,
+    "votos": 1023,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 56.3636364
+  },
+  {
+    "parroquia": "BALLENITA",
+    "id": 5130,
+    "votos": 594,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 39.9730821
+  },
+  {
+    "parroquia": "SANTA ELENA",
+    "id": 6040,
+    "votos": 16691,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 43.7590121
+  }
+]

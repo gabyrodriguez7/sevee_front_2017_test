@@ -1,0 +1,93 @@
+[
+    {
+        "parroquia": "SIMON PLATA TORRES",
+        "id": 6905,
+        "votos": 25,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 5.98
+    },
+    {
+        "parroquia": "LUIS TELLO / LAS PALMAS /",
+        "id": 5600,
+        "votos": 327,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 6.11
+    },
+    {
+        "parroquia": "ESMERALDAS",
+        "id": 5335,
+        "votos": 1510,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 6.41
+    },
+    {
+        "parroquia": "5 DE AGOSTO",
+        "id": 5210,
+        "votos": 1407,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 6.63
+    },
+    {
+        "parroquia": "BARTOLOME RUIZ",
+        "id": 5205,
+        "votos": 874,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 6.27
+    },
+    {
+        "parroquia": "VUELTA LARGA",
+        "id": 4240,
+        "votos": 626,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 5.71
+    },
+    {
+        "parroquia": "TACHINA",
+        "id": 3940,
+        "votos": 36,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.32
+    },
+    {
+        "parroquia": "TABIAZO",
+        "id": 3930,
+        "votos": 41,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 4.05
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 3570,
+        "votos": 37,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.14
+    },
+    {
+        "parroquia": "MAJUA",
+        "id": 2320,
+        "votos": 17,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.84
+    },
+    {
+        "parroquia": "CHINCA",
+        "id": 895,
+        "votos": 39,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 3.67
+    },
+    {
+        "parroquia": "CRNL.CARLOS CONCHA TORRES",
+        "id": 655,
+        "votos": 10,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.14
+    },
+    {
+        "parroquia": "CAMARONES",
+        "id": 450,
+        "votos": 15,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.97
+    }
+]

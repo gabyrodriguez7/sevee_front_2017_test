@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "SARAGURO",
+        "id": 6075,
+        "votos": 2103,
+        "candidato": "Rafael Correa Delgado",
+        "value": 50.34
+    },
+    {
+        "parroquia": "URDANETA/PAQUISHAPA",
+        "id": 4145,
+        "votos": 1005,
+        "candidato": "Rafael Correa Delgado",
+        "value": 70.18
+    },
+    {
+        "parroquia": "SELVA ALEGRE",
+        "id": 3815,
+        "votos": 329,
+        "candidato": "Rafael Correa Delgado",
+        "value": 44.76
+    },
+    {
+        "parroquia": "SAN SEBASTIAN DE YULOG",
+        "id": 3665,
+        "votos": 228,
+        "candidato": "Rafael Correa Delgado",
+        "value": 63.5
+    },
+    {
+        "parroquia": "SAN PABLO DE TENTA",
+        "id": 3600,
+        "votos": 598,
+        "candidato": "Rafael Correa Delgado",
+        "value": 56.41
+    },
+    {
+        "parroquia": "SAN ANTONIO DE CUMBE",
+        "id": 3340,
+        "votos": 241,
+        "candidato": "Rafael Correa Delgado",
+        "value": 53.43
+    },
+    {
+        "parroquia": "MANU",
+        "id": 2360,
+        "votos": 787,
+        "candidato": "Rafael Correa Delgado",
+        "value": 63.06
+    },
+    {
+        "parroquia": "LLUZHAPA",
+        "id": 2280,
+        "votos": 411,
+        "candidato": "Rafael Correa Delgado",
+        "value": 69.42
+    },
+    {
+        "parroquia": "EL TABLON",
+        "id": 1190,
+        "votos": 163,
+        "candidato": "Rafael Correa Delgado",
+        "value": 54.88
+    },
+    {
+        "parroquia": "EL PARAISO DE CELEN",
+        "id": 1165,
+        "votos": 372,
+        "candidato": "Rafael Correa Delgado",
+        "value": 43.15
+    },
+    {
+        "parroquia": "SUMAYPAMBA",
+        "id": 310,
+        "votos": 365,
+        "candidato": "Rafael Correa Delgado",
+        "value": 82.02
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CHUNCHI",
+        "id": 5255,
+        "votos": 42,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.1
+    },
+    {
+        "parroquia": "LLAGOS",
+        "id": 2260,
+        "votos": 6,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.2
+    },
+    {
+        "parroquia": "GONZOL",
+        "id": 1370,
+        "votos": 6,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.32
+    },
+    {
+        "parroquia": "COMPUD",
+        "id": 615,
+        "votos": 0,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.0
+    },
+    {
+        "parroquia": "CAPZOL",
+        "id": 515,
+        "votos": 0,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.0
+    }
+]

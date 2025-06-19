@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "CHICANA",
+    "id": 985,
+    "votos": 329,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 25.27
+  },
+  {
+    "parroquia": "LOS ENCUENTROS",
+    "id": 2240,
+    "votos": 749,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 37.83
+  },
+  {
+    "parroquia": "YANZATZA",
+    "id": 6295,
+    "votos": 2260,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 26.18
+  }
+]

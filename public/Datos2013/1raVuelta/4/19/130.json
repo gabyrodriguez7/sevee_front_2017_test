@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "ZURMI",
+        "id": 1675,
+        "votos": 283,
+        "candidato": "Acosta Alberto",
+        "value": 36.9
+    },
+    {
+        "parroquia": "NUEVO PARAISO",
+        "id": 4570,
+        "votos": 174,
+        "candidato": "Acosta Alberto",
+        "value": 58.78
+    },
+    {
+        "parroquia": "GUAYZIMI",
+        "id": 5520,
+        "votos": 454,
+        "candidato": "Acosta Alberto",
+        "value": 25.93
+    }
+]

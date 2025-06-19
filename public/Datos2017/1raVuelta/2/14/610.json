@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "ASUNCIÓN",
+    "id": 180,
+    "votos": 68,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.31
+  },
+  {
+    "parroquia": "SANTA MARIANITA DE JESÚS",
+    "id": 1140,
+    "votos": 20,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.77
+  },
+  {
+    "parroquia": "HUAMBI",
+    "id": 1635,
+    "votos": 116,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.93
+  },
+  {
+    "parroquia": "SUCÚA",
+    "id": 6110,
+    "votos": 477,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.06
+  }
+]

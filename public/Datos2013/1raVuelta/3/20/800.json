@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "EL PROGRESO",
+        "id": 1220,
+        "votos": 2,
+        "candidato": "Wray Norman",
+        "value": 0.6
+    },
+    {
+        "parroquia": "ISLA SANTA MARIA",
+        "id": 4415,
+        "votos": 1,
+        "candidato": "Wray Norman",
+        "value": 1.1
+    },
+    {
+        "parroquia": "PTO. BAQUERIZO MORENO",
+        "id": 6510,
+        "votos": 19,
+        "candidato": "Wray Norman",
+        "value": 0.51
+    }
+]

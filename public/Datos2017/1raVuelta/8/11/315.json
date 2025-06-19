@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "CRUZPAMBA/BUSTAMANTE",
+    "id": 695,
+    "votos": 11,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.57
+  },
+  {
+    "parroquia": "TNTE M.RODRÍGUEZ LOAYZA",
+    "id": 1495,
+    "votos": 3,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.3
+  },
+  {
+    "parroquia": "SABANILLA",
+    "id": 3255,
+    "votos": 42,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.41
+  },
+  {
+    "parroquia": "SAN JUAN DE POZUL",
+    "id": 3535,
+    "votos": 23,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.43
+  },
+  {
+    "parroquia": "CELICA",
+    "id": 5195,
+    "votos": 63,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 1.52
+  }
+]

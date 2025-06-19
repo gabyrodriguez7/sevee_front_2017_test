@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CHUNCHI",
+        "id": 5255,
+        "votos": 114,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 2.99
+    },
+    {
+        "parroquia": "LLAGOS",
+        "id": 2260,
+        "votos": 7,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.4
+    },
+    {
+        "parroquia": "GONZOL",
+        "id": 1370,
+        "votos": 4,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 0.88
+    },
+    {
+        "parroquia": "COMPUD",
+        "id": 615,
+        "votos": 3,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.0
+    },
+    {
+        "parroquia": "CAPZOL",
+        "id": 515,
+        "votos": 3,
+        "candidato": "Martha Roldos Bucaram",
+        "value": 1.41
+    }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "parroquia": "BENÍTEZ /PACHANLICA",
+    "id": 335,
+    "votos": 181,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.17
+  },
+  {
+    "parroquia": "BOLÍVAR",
+    "id": 365,
+    "votos": 179,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.52
+  },
+  {
+    "parroquia": "COTALO",
+    "id": 675,
+    "votos": 116,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.47
+  },
+  {
+    "parroquia": "CHIQUICHA",
+    "id": 900,
+    "votos": 77,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.5
+  },
+  {
+    "parroquia": "EL ROSARIO /RUMICHACA",
+    "id": 1185,
+    "votos": 124,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 7.41
+  },
+  {
+    "parroquia": "GARCÍA MORENO",
+    "id": 1320,
+    "votos": 220,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.85
+  },
+  {
+    "parroquia": "HUAMBALO",
+    "id": 1630,
+    "votos": 596,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.68
+  },
+  {
+    "parroquia": "SALASACA",
+    "id": 3905,
+    "votos": 187,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.56
+  },
+  {
+    "parroquia": "PELILEO",
+    "id": 5780,
+    "votos": 2019,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.02
+  },
+  {
+    "parroquia": "PELILÉO GRANDE /R. MINO",
+    "id": 5900,
+    "votos": 73,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 9.26
+  }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "CHICANA",
+        "id": 985,
+        "votos": 5,
+        "candidato": "Wray Norman",
+        "value": 0.4
+    },
+    {
+        "parroquia": "LOS ENCUENTROS",
+        "id": 2240,
+        "votos": 5,
+        "candidato": "Wray Norman",
+        "value": 0.31827
+    },
+    {
+        "parroquia": "YANZATZA",
+        "id": 6295,
+        "votos": 40,
+        "candidato": "Wray Norman",
+        "value": 0.534
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "PINGUILI",
+        "id": 4555,
+        "votos": 5,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    },
+    {
+        "parroquia": "MOCHA",
+        "id": 6560,
+        "votos": 78,
+        "candidato": "Wray Norman",
+        "value": 1.74
+    }
+]

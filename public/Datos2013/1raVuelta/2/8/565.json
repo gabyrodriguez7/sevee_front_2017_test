@@ -1,0 +1,114 @@
+[
+    {
+        "parroquia": "ANCHAYACU",
+        "id": 120,
+        "votos": 397,
+        "candidato": "Correa Delgado Rafael",
+        "value": 74.34457
+    },
+    {
+        "parroquia": "ATAHUALPA/CAMARONES",
+        "id": 200,
+        "votos": 397,
+        "candidato": "Correa Delgado Rafael",
+        "value": 58.641
+    },
+    {
+        "parroquia": "BORBON",
+        "id": 370,
+        "votos": 2734,
+        "candidato": "Correa Delgado Rafael",
+        "value": 66.9
+    },
+    {
+        "parroquia": "SAN JOSE DE CAYAPAS",
+        "id": 1505,
+        "votos": 260,
+        "candidato": "Correa Delgado Rafael",
+        "value": 52.0
+    },
+    {
+        "parroquia": "COLON ELOY DE MARIA",
+        "id": 1510,
+        "votos": 373,
+        "candidato": "Correa Delgado Rafael",
+        "value": 76.749
+    },
+    {
+        "parroquia": "TIMBIRE",
+        "id": 1515,
+        "votos": 311,
+        "candidato": "Correa Delgado Rafael",
+        "value": 85.912
+    },
+    {
+        "parroquia": "LA TOLA",
+        "id": 2125,
+        "votos": 847,
+        "candidato": "Correa Delgado Rafael",
+        "value": 76.0323
+    },
+    {
+        "parroquia": "LUIS VARGAS TORRES",
+        "id": 2225,
+        "votos": 156,
+        "candidato": "Correa Delgado Rafael",
+        "value": 85.71
+    },
+    {
+        "parroquia": "MALDONADO",
+        "id": 2335,
+        "votos": 612,
+        "candidato": "Correa Delgado Rafael",
+        "value": 76.02
+    },
+    {
+        "parroquia": "PAMPANAL DE BOLIVAR",
+        "id": 2670,
+        "votos": 241,
+        "candidato": "Correa Delgado Rafael",
+        "value": 79.27632
+    },
+    {
+        "parroquia": "SAN FRANCISCO DE ONZOLE",
+        "id": 3405,
+        "votos": 204,
+        "candidato": "Correa Delgado Rafael",
+        "value": 45.0
+    },
+    {
+        "parroquia": "SELVA ALEGRE",
+        "id": 3805,
+        "votos": 378,
+        "candidato": "Correa Delgado Rafael",
+        "value": 79.7
+    },
+    {
+        "parroquia": "TELEMBI",
+        "id": 4170,
+        "votos": 499,
+        "candidato": "Correa Delgado Rafael",
+        "value": 39.4
+    },
+    {
+        "parroquia": "SANTO DOMINGO DE ONZOLE",
+        "id": 4465,
+        "votos": 331,
+        "candidato": "Correa Delgado Rafael",
+        "value": 60.51
+    },
+    {
+        "parroquia": "SANTA LUCIA DE LAS PE�AS",
+        "id": 4595,
+        "votos": 369,
+        "candidato": "Correa Delgado Rafael",
+        "value": 76.6
+    },
+    {
+        "parroquia": "VALDEZ/LIMONES/",
+        "id": 6205,
+        "votos": 2516,
+        "candidato": "Correa Delgado Rafael",
+        "value": 73.7
+    }
+]

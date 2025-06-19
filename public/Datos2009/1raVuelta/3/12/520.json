@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "BABA",
+    "id": 5085,
+    "votos": 38,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.33
+  },
+  {
+    "parroquia": "ISLA DE BEJUCAL",
+    "id": 1740,
+    "votos": 17,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.51
+  },
+  {
+    "parroquia": "GUARE",
+    "id": 1460,
+    "votos": 18,
+    "candidato": "Carlos Gonzalez Albornoz",
+    "value": 0.65
+  }
+]

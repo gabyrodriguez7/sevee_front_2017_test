@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "SAN JACINTO DE WAKAMBEIS",
+    "id": 710,
+    "votos": 95,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 45.24
+  },
+  {
+    "parroquia": "SANTIAGO DE PANANZA",
+    "id": 1785,
+    "votos": 68,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 27.53
+  },
+  {
+    "parroquia": "PAN DE AZÚCAR",
+    "id": 2750,
+    "votos": 115,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 56.37
+  },
+  {
+    "parroquia": "SAN CARLOS DE LIMÓN",
+    "id": 3920,
+    "votos": 64,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 15.24
+  },
+  {
+    "parroquia": "SAN JUAN BOSCO",
+    "id": 6445,
+    "votos": 643,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 41.32
+  }
+]

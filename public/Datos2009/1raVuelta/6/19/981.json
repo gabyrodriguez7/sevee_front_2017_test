@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "PAQUISHA",
+    "id": 6885,
+    "votos": 4,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.39
+  },
+  {
+    "parroquia": "NUEVO QUITO",
+    "id": 1120,
+    "votos": 6,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 1.22
+  },
+  {
+    "parroquia": "BELLAVISTA",
+    "id": 455,
+    "votos": 0,
+    "candidato": "Carlos Sagnay De La Bastida",
+    "value": 0.0
+  }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "ANCONCITO",
+        "id": 115,
+        "votos": 38,
+        "candidato": "Acosta Alberto",
+        "value": 1.0
+    },
+    {
+        "parroquia": "JOSE LUIS TAMAYO / MUEY",
+        "id": 1850,
+        "votos": 86,
+        "candidato": "Acosta Alberto",
+        "value": 0.9302
+    },
+    {
+        "parroquia": "SALINAS",
+        "id": 5920,
+        "votos": 130,
+        "candidato": "Acosta Alberto",
+        "value": 1.0
+    },
+    {
+        "parroquia": "GRAL. A. E. GALLO",
+        "id": 6270,
+        "votos": 19,
+        "candidato": "Acosta Alberto",
+        "value": 1.0
+    },
+    {
+        "parroquia": "VICENTE ROCAFUERTE",
+        "id": 6275,
+        "votos": 16,
+        "candidato": "Acosta Alberto",
+        "value": 0.8
+    },
+    {
+        "parroquia": "CARLOS ESPINOZA LARREA",
+        "id": 6280,
+        "votos": 22,
+        "candidato": "Acosta Alberto",
+        "value": 0.741
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 6925,
+        "votos": 17,
+        "candidato": "Acosta Alberto",
+        "value": 0.6
+    }
+]

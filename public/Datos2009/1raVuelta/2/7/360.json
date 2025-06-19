@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "ZARUMA",
+        "id": 6310,
+        "votos": 32,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.46
+    },
+    {
+        "parroquia": "MULUNCAY GRANDE",
+        "id": 4450,
+        "votos": 2,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.51
+    },
+    {
+        "parroquia": "ARCAPAMBA",
+        "id": 4445,
+        "votos": 2,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.34
+    },
+    {
+        "parroquia": "MALVAS",
+        "id": 2350,
+        "votos": 4,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.77
+    },
+    {
+        "parroquia": "SALVIAS",
+        "id": 1750,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.31
+    },
+    {
+        "parroquia": "SINSAO",
+        "id": 1700,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.24
+    },
+    {
+        "parroquia": "HUERTAS",
+        "id": 1655,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.08
+    },
+    {
+        "parroquia": "GUIZHAGUIÑA",
+        "id": 1425,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.17
+    },
+    {
+        "parroquia": "GUANAZAN",
+        "id": 1420,
+        "votos": 9,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.8
+    },
+    {
+        "parroquia": "ABANIN",
+        "id": 5,
+        "votos": 3,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.6
+    }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "AYAPAMBA",
+    "id": 225,
+    "votos": 490,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 44.67
+  },
+  {
+    "parroquia": "SAN JUAN DE CERRO AZUL",
+    "id": 375,
+    "votos": 56,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 19.51
+  },
+  {
+    "parroquia": "CORDONCILLO",
+    "id": 4480,
+    "votos": 198,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 32.89
+  },
+  {
+    "parroquia": "SAN JOSÉ",
+    "id": 4530,
+    "votos": 123,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 43.31
+  },
+  {
+    "parroquia": "MILAGRO",
+    "id": 4535,
+    "votos": 72,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 30.25
+  },
+  {
+    "parroquia": "PACCHA",
+    "id": 5745,
+    "votos": 859,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 42.29
+  }
+]

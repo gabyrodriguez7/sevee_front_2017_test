@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "CAPZOL",
+    "id": 515,
+    "votos": 8,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.35
+  },
+  {
+    "parroquia": "COMPUD",
+    "id": 615,
+    "votos": 15,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.35
+  },
+  {
+    "parroquia": "GONZOL",
+    "id": 1370,
+    "votos": 25,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.64
+  },
+  {
+    "parroquia": "LLAGOS",
+    "id": 2260,
+    "votos": 31,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.87
+  },
+  {
+    "parroquia": "CHUNCHI",
+    "id": 5255,
+    "votos": 214,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.19
+  }
+]

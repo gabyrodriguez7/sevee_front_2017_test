@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "EL CARMEN DE PUTUMAYO",
+        "id": 6500,
+        "votos": 10,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.72
+    },
+    {
+        "parroquia": "SANTA ELENA",
+        "id": 3705,
+        "votos": 2,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.1
+    },
+    {
+        "parroquia": "PUERTO RODRIGUEZ",
+        "id": 3020,
+        "votos": 2,
+        "candidato": "Diego Delgado Jara",
+        "value": 3.39
+    },
+    {
+        "parroquia": "PUERTO BOLIVAR",
+        "id": 3005,
+        "votos": 1,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.13
+    },
+    {
+        "parroquia": "PALMA ROJA",
+        "id": 2720,
+        "votos": 5,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.31
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "AYAPAMBA",
+        "id": 225,
+        "votos": 31,
+        "candidato": "Noboa Alvaro",
+        "value": 2.9300567
+    },
+    {
+        "parroquia": "SAN JUAN DE CERRO AZUL",
+        "id": 375,
+        "votos": 8,
+        "candidato": "Noboa Alvaro",
+        "value": 2.4615385
+    },
+    {
+        "parroquia": "CORDONCILLO",
+        "id": 4480,
+        "votos": 13,
+        "candidato": "Noboa Alvaro",
+        "value": 2.3
+    },
+    {
+        "parroquia": "SAN JOSE",
+        "id": 4530,
+        "votos": 5,
+        "candidato": "Noboa Alvaro",
+        "value": 1.89
+    },
+    {
+        "parroquia": "MILAGRO",
+        "id": 4535,
+        "votos": 3,
+        "candidato": "Noboa Alvaro",
+        "value": 1.31
+    },
+    {
+        "parroquia": "PACCHA",
+        "id": 5745,
+        "votos": 34,
+        "candidato": "Noboa Alvaro",
+        "value": 1.7
+    }
+]

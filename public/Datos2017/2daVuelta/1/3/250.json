@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "MANUEL J. CALLE",
+    "id": 2365,
+    "votos": 853,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 31.96
+  },
+  {
+    "parroquia": "PANCHO NEGRO",
+    "id": 2745,
+    "votos": 858,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 26.76
+  },
+  {
+    "parroquia": "LA TRONCAL",
+    "id": 5610,
+    "votos": 12917,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 47.43
+  }
+]

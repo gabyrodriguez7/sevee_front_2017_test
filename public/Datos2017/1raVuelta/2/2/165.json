@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "SAN LUIS DE PAMBIL",
+    "id": 795,
+    "votos": 305,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 9.06
+  },
+  {
+    "parroquia": "FACUNDO VELA",
+    "id": 1255,
+    "votos": 217,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 17.02
+  },
+  {
+    "parroquia": "JULIO E MORENO",
+    "id": 1890,
+    "votos": 147,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 14.07
+  },
+  {
+    "parroquia": "SALINAS",
+    "id": 3285,
+    "votos": 244,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.3
+  },
+  {
+    "parroquia": "SAN LORENZO",
+    "id": 3545,
+    "votos": 99,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.01
+  },
+  {
+    "parroquia": "SAN SIMÓN",
+    "id": 3670,
+    "votos": 292,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 13.14
+  },
+  {
+    "parroquia": "SANTA FE",
+    "id": 3710,
+    "votos": 74,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.75
+  },
+  {
+    "parroquia": "SIMIATUG",
+    "id": 3860,
+    "votos": 857,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 17.79
+  },
+  {
+    "parroquia": "ÁNGEL POLIVIO CHÁVEZ",
+    "id": 5035,
+    "votos": 926,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 10.77
+  },
+  {
+    "parroquia": "GABRIEL I VEINTIMILLA",
+    "id": 5375,
+    "votos": 1798,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 12.79
+  },
+  {
+    "parroquia": "GUANUJO",
+    "id": 6630,
+    "votos": 1815,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 12.81
+  }
+]

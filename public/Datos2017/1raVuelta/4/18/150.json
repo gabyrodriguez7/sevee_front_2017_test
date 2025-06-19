@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "LLIGUA",
+    "id": 2270,
+    "votos": 30,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.03
+  },
+  {
+    "parroquia": "RÍO NEGRO",
+    "id": 3190,
+    "votos": 70,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 8.76
+  },
+  {
+    "parroquia": "RÍO VERDE",
+    "id": 3200,
+    "votos": 97,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 11.7
+  },
+  {
+    "parroquia": "ULBA",
+    "id": 4135,
+    "votos": 131,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 10.56
+  },
+  {
+    "parroquia": "BAÑOS",
+    "id": 5105,
+    "votos": 1398,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 12.24
+  }
+]

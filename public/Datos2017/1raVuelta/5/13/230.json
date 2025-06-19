@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "NOVILLO",
+    "id": 1600,
+    "votos": 7,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.64
+  },
+  {
+    "parroquia": "ZAPALLO",
+    "id": 1620,
+    "votos": 12,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.68
+  },
+  {
+    "parroquia": "FLAVIO ALFARO",
+    "id": 5480,
+    "votos": 71,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 0.51
+  }
+]

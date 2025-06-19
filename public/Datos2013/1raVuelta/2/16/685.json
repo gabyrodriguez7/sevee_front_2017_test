@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "MADRE TIERRA",
+        "id": 2310,
+        "votos": 14,
+        "candidato": "Noboa Alvaro",
+        "value": 2.0
+    },
+    {
+        "parroquia": "SHELL",
+        "id": 3840,
+        "votos": 71,
+        "candidato": "Noboa Alvaro",
+        "value": 1.89
+    },
+    {
+        "parroquia": "MERA",
+        "id": 5650,
+        "votos": 16,
+        "candidato": "Noboa Alvaro",
+        "value": 1.64
+    }
+]

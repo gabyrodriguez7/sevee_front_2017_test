@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "ELOY ALFARO",
+        "id": 6745,
+        "votos": 76,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.92
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 6155,
+        "votos": 468,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.04
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 6135,
+        "votos": 7,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.48
+    },
+    {
+        "parroquia": "MANTA",
+        "id": 5635,
+        "votos": 535,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.13
+    },
+    {
+        "parroquia": "LOS ESTEROS",
+        "id": 5570,
+        "votos": 70,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.06
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 3550,
+        "votos": 4,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.36
+    },
+    {
+        "parroquia": "SANTA MARIANITA",
+        "id": 1800,
+        "votos": 3,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.29
+    }
+]

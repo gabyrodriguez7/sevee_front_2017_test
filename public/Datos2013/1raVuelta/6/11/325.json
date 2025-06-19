@@ -1,0 +1,38 @@
+[
+                {
+                    "parroquia": "LA RAMA",
+                    "id": 2085,
+                    "votos": 95,
+                    "candidato": "Lasso Guillermo",
+                    "value": 18.7
+                },
+                {
+                    "parroquia": "LA VICTORIA",
+                    "id": 2145,
+                    "votos": 301,
+                    "candidato": "Lasso Guillermo",
+                    "value": 48.0
+                },
+                {
+                    "parroquia": "SABIANGO",
+                    "id": 3265,
+                    "votos": 178,
+                    "candidato": "Lasso Guillermo",
+                    "value": 36.9
+                },
+                {
+                    "parroquia": "GRAL.ELOY ALFARO",
+                    "id": 5385,
+                    "votos": 358,
+                    "candidato": "Lasso Guillermo",
+                    "value": 40.7281
+                },
+                {
+                    "parroquia": "MACARA",
+                    "id": 5680,
+                    "votos": 3411,
+                    "candidato": "Lasso Guillermo",
+                    "value": 41.638
+                }
+            ]
+            

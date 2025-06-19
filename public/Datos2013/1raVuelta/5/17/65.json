@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "ASCAZUBI",
+        "id": 165,
+        "votos": 241,
+        "candidato": "Gutierrez Lucio",
+        "value": 8.85704
+    },
+    {
+        "parroquia": "CANGAHUA",
+        "id": 480,
+        "votos": 451,
+        "candidato": "Gutierrez Lucio",
+        "value": 6.91612
+    },
+    {
+        "parroquia": "OLMEDO/PESILLO",
+        "id": 2600,
+        "votos": 195,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.7
+    },
+    {
+        "parroquia": "OTON",
+        "id": 2635,
+        "votos": 94,
+        "candidato": "Gutierrez Lucio",
+        "value": 6.1
+    },
+    {
+        "parroquia": "STA.ROSA DE CUSUBAMBA",
+        "id": 3735,
+        "votos": 158,
+        "candidato": "Gutierrez Lucio",
+        "value": 8.3
+    },
+    {
+        "parroquia": "SAN JOSE DE AYORA",
+        "id": 4620,
+        "votos": 150,
+        "candidato": "Gutierrez Lucio",
+        "value": 3.752
+    },
+    {
+        "parroquia": "CAYAMBE",
+        "id": 5190,
+        "votos": 1243,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.627
+    },
+    {
+        "parroquia": "JUAN MONTALVO",
+        "id": 5495,
+        "votos": 89,
+        "candidato": "Gutierrez Lucio",
+        "value": 4.672
+    }
+]

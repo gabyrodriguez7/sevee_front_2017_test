@@ -1,0 +1,86 @@
+[
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 325,
+        "votos": 42,
+        "candidato": "Zavala Nelson",
+        "value": 2.8
+    },
+    {
+        "parroquia": "BELLAMARIA",
+        "id": 1665,
+        "votos": 8,
+        "candidato": "Zavala Nelson",
+        "value": 1.06
+    },
+    {
+        "parroquia": "JAMBELI",
+        "id": 1815,
+        "votos": 2,
+        "candidato": "Zavala Nelson",
+        "value": 0.630914826
+    },
+    {
+        "parroquia": "LA AVANZADA",
+        "id": 2005,
+        "votos": 19,
+        "candidato": "Zavala Nelson",
+        "value": 1.444
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3330,
+        "votos": 24,
+        "candidato": "Zavala Nelson",
+        "value": 4.52
+    },
+    {
+        "parroquia": "VICTORIA",
+        "id": 4215,
+        "votos": 14,
+        "candidato": "Zavala Nelson",
+        "value": 1.292
+    },
+    {
+        "parroquia": "TORATA",
+        "id": 4525,
+        "votos": 7,
+        "candidato": "Zavala Nelson",
+        "value": 0.7
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 6060,
+        "votos": 557,
+        "candidato": "Zavala Nelson",
+        "value": 1.643
+    },
+    {
+        "parroquia": "PUERTO JELI",
+        "id": 6670,
+        "votos": 6,
+        "candidato": "Zavala Nelson",
+        "value": 1.73410405
+    },
+    {
+        "parroquia": "BALNEARIO JAMBELI",
+        "id": 6900,
+        "votos": 2,
+        "candidato": "Zavala Nelson",
+        "value": 1.626
+    },
+    {
+        "parroquia": "JUMON",
+        "id": 6985,
+        "votos": 3,
+        "candidato": "Zavala Nelson",
+        "value": 0.82
+    },
+    {
+        "parroquia": "NUEVO SANTA ROSA",
+        "id": 6990,
+        "votos": 6,
+        "candidato": "Zavala Nelson",
+        "value": 1.1
+    }
+]

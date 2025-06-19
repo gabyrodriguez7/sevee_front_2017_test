@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "GONZALO DIAZ DE PINEDA",
+        "id": 1020,
+        "votos": 88,
+        "candidato": "Gutierrez Lucio",
+        "value": 28.6
+    },
+    {
+        "parroquia": "LINARES",
+        "id": 2180,
+        "votos": 49,
+        "candidato": "Gutierrez Lucio",
+        "value": 29.5
+    },
+    {
+        "parroquia": "OYACACHI",
+        "id": 2640,
+        "votos": 99,
+        "candidato": "Gutierrez Lucio",
+        "value": 27.5
+    },
+    {
+        "parroquia": "SANTA ROSA DE QUIJOS",
+        "id": 3745,
+        "votos": 297,
+        "candidato": "Gutierrez Lucio",
+        "value": 40.629275
+    },
+    {
+        "parroquia": "SARDINAS",
+        "id": 3790,
+        "votos": 103,
+        "candidato": "Gutierrez Lucio",
+        "value": 35.76
+    },
+    {
+        "parroquia": "EL CHACO",
+        "id": 5510,
+        "votos": 972,
+        "candidato": "Gutierrez Lucio",
+        "value": 31.13
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "MACARA",
+        "id": 5680,
+        "votos": 14,
+        "candidato": "Melba Jacome",
+        "value": 0.21
+    },
+    {
+        "parroquia": "GRAL.ELOY ALFARO",
+        "id": 5385,
+        "votos": 3,
+        "candidato": "Melba Jacome",
+        "value": 0.37
+    },
+    {
+        "parroquia": "SABIANGO",
+        "id": 3265,
+        "votos": 1,
+        "candidato": "Melba Jacome",
+        "value": 0.26
+    },
+    {
+        "parroquia": "LA VICTORIA",
+        "id": 2145,
+        "votos": 2,
+        "candidato": "Melba Jacome",
+        "value": 0.41
+    },
+    {
+        "parroquia": "LA RAMA",
+        "id": 2085,
+        "votos": 2,
+        "candidato": "Melba Jacome",
+        "value": 0.49
+    }
+]

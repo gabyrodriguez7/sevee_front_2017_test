@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "CAPIRO",
+        "id": 505,
+        "votos": 25,
+        "candidato": "Noboa Alvaro",
+        "value": 2.799552
+    },
+    {
+        "parroquia": "SARACAY",
+        "id": 1385,
+        "votos": 17,
+        "candidato": "Noboa Alvaro",
+        "value": 1.88679245
+    },
+    {
+        "parroquia": "LA BOCANA",
+        "id": 2230,
+        "votos": 10,
+        "candidato": "Noboa Alvaro",
+        "value": 1.3
+    },
+    {
+        "parroquia": "MOROMORO",
+        "id": 2465,
+        "votos": 12,
+        "candidato": "Noboa Alvaro",
+        "value": 1.4
+    },
+    {
+        "parroquia": "PIEDRAS",
+        "id": 2850,
+        "votos": 12,
+        "candidato": "Noboa Alvaro",
+        "value": 2.721088
+    },
+    {
+        "parroquia": "SAN ROQUE",
+        "id": 3650,
+        "votos": 4,
+        "candidato": "Noboa Alvaro",
+        "value": 0.9217
+    },
+    {
+        "parroquia": "PI�AS",
+        "id": 5790,
+        "votos": 238,
+        "candidato": "Noboa Alvaro",
+        "value": 2.034014
+    },
+    {
+        "parroquia": "PI�AS GRANDE",
+        "id": 6675,
+        "votos": 0,
+        "candidato": "Noboa Alvaro",
+        "value": 0.0
+    },
+    {
+        "parroquia": "LA SUSAYA",
+        "id": 6680,
+        "votos": 3,
+        "candidato": "Noboa Alvaro",
+        "value": 3.225806
+    }
+]

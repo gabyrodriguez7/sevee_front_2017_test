@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "AVILA",
+    "id": 215,
+    "votos": 49,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 2.4
+  },
+  {
+    "parroquia": "SAN VICENTE DE HUATICOCHA",
+    "id": 400,
+    "votos": 7,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 1.1
+  },
+  {
+    "parroquia": "PUERTO MURIALDO",
+    "id": 1050,
+    "votos": 47,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 2.99
+  },
+  {
+    "parroquia": "SAN JOSÉ DE DAHUANO",
+    "id": 1680,
+    "votos": 121,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 5.58
+  },
+  {
+    "parroquia": SAN JOSÉ DE PAYAMINO",
+    "id": 3480,
+    "votos": 32,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 2.31
+  },
+  {
+    "parroquia": "LORETO",
+    "id": 6455,
+    "votos": 113,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 2.77
+  }
+]

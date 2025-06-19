@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "VALLE DE LA VIRGEN",
+        "id": 185,
+        "votos": 22,
+        "candidato": "Zavala Nelson",
+        "value": 1.4332
+    },
+    {
+        "parroquia": "SABANILLA",
+        "id": 1670,
+        "votos": 19,
+        "candidato": "Zavala Nelson",
+        "value": 0.976
+    },
+    {
+        "parroquia": "PEDRO CARBO",
+        "id": 5735,
+        "votos": 401,
+        "candidato": "Zavala Nelson",
+        "value": 1.7806
+    }
+]

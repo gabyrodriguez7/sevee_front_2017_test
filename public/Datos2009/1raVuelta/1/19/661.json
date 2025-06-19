@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "PALANDA",
+    "id": 6740,
+    "votos": 15,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 0.75
+  },
+  {
+    "parroquia": "SAN FRANCISCO DEL VERGEL",
+    "id": 4505,
+    "votos": 0,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 0.0
+  },
+  {
+    "parroquia": "VALLADOLID",
+    "id": 4195,
+    "votos": 13,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.68
+  },
+  {
+    "parroquia": "EL PORVENIR DEL CARMEN",
+    "id": 1240,
+    "votos": 7,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.22
+  }
+]

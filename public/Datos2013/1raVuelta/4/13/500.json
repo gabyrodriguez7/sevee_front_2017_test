@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "WILFRIDO LOOR MOREIRA",
+        "id": 1070,
+        "votos": 14,
+        "candidato": "Acosta Alberto",
+        "value": 1.655
+    },
+    {
+        "parroquia": "SAN PEDRO DE SUMA",
+        "id": 1980,
+        "votos": 15,
+        "candidato": "Acosta Alberto",
+        "value": 1.3
+    },
+    {
+        "parroquia": "EL CARMEN",
+        "id": 5300,
+        "votos": 658,
+        "candidato": "Acosta Alberto",
+        "value": 1.3
+    },
+    {
+        "parroquia": "4 DE DICIEMBRE",
+        "id": 6198,
+        "votos": 0,
+        "candidato": "Acosta Alberto",
+        "value": 0.0
+    }
+]

@@ -1,0 +1,31 @@
+[
+                {
+                    "parroquia": "CHAQUINAL",
+                    "id": 835,
+                    "votos": 265,
+                    "candidato": "Lasso Guillermo",
+                    "value": 41.213
+                },
+                {
+                    "parroquia": "12 DE DICIEMBRE",
+                    "id": 1035,
+                    "votos": 276,
+                    "candidato": "Lasso Guillermo",
+                    "value": 33.0
+                },
+                {
+                    "parroquia": "MILAGROS",
+                    "id": 4545,
+                    "votos": 281,
+                    "candidato": "Lasso Guillermo",
+                    "value": 26.0
+                },
+                {
+                    "parroquia": "PINDAL /FEDERICO PAEZ",
+                    "id": 5810,
+                    "votos": 981,
+                    "candidato": "Lasso Guillermo",
+                    "value": 37.96
+                }
+            ]
+            

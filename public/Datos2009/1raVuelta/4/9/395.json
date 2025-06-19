@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "YAGUACHI NUEVO",
+        "id": 6285,
+        "votos": 8106,
+        "candidato": "Rafael Correa Delgado",
+        "value": 60.81
+    },
+    {
+        "parroquia": "YAGUACHI VIEJO/CONE",
+        "id": 4275,
+        "votos": 2025,
+        "candidato": "Rafael Correa Delgado",
+        "value": 75.47
+    },
+    {
+        "parroquia": "VIRGEN DE FATIMA",
+        "id": 1915,
+        "votos": 2121,
+        "candidato": "Rafael Correa Delgado",
+        "value": 70.41
+    },
+    {
+        "parroquia": "GRAL.PEDRO MONTERO",
+        "id": 1340,
+        "votos": 2403,
+        "candidato": "Rafael Correa Delgado",
+        "value": 64.71
+    }
+]

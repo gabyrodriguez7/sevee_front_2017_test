@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "BULÁN / J. VICTOR IZQUIERDO",
+    "id": 395,
+    "votos": 248,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 26.47
+  },
+  {
+    "parroquia": "CHICAN / GUILLERMO ORTEGA",
+    "id": 870,
+    "votos": 533,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 37.94
+  },
+  {
+    "parroquia": "DUG-DUG",
+    "id": 890,
+    "votos": 268,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 33.33
+  },
+  {
+    "parroquia": "GUARAINAC",
+    "id": 1455,
+    "votos": 281,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 41.02
+  },
+  {
+    "parroquia": "SAN CRISTÓBAL",
+    "id": 3375,
+    "votos": 491,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 37.11
+  },
+  {
+    "parroquia": "TOMEBAMBA",
+    "id": 4050,
+    "votos": 166,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 21.25
+  },
+  {
+    "parroquia": "EL CABO",
+    "id": 4565,
+    "votos": 434,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 50.12
+  },
+  {
+    "parroquia": "PAUTE",
+    "id": 5775,
+    "votos": 3855,
+    "candidato": "Lasso Mendoza Guillermo Alberto Santiago",
+    "value": 37.81
+  }
+]

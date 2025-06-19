@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "PINDAL /FEDERICO PAEZ",
+        "id": 5810,
+        "votos": 2115,
+        "candidato": "Rafael Correa Delgado",
+        "value": 70.05
+    },
+    {
+        "parroquia": "12 DE DICIEMBRE",
+        "id": 1035,
+        "votos": 405,
+        "candidato": "Rafael Correa Delgado",
+        "value": 63.67
+    },
+    {
+        "parroquia": "CHAQUINAL",
+        "id": 835,
+        "votos": 320,
+        "candidato": "Rafael Correa Delgado",
+        "value": 61.06
+    }
+]

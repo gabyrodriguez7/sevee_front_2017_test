@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "LOGRO�O",
+        "id": 6735,
+        "votos": 11,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.86
+    },
+    {
+        "parroquia": "YAUPI",
+        "id": 4300,
+        "votos": 5,
+        "candidato": "Diego Delgado Jara",
+        "value": 1.1
+    },
+    {
+        "parroquia": "SHIMPIS",
+        "id": 525,
+        "votos": 4,
+        "candidato": "Diego Delgado Jara",
+        "value": 0.71
+    }
+]

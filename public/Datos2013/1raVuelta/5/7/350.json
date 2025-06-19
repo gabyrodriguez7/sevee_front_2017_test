@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "EL RETIRO",
+        "id": 255,
+        "votos": 31,
+        "candidato": "Gutierrez Lucio",
+        "value": 2.5
+    },
+    {
+        "parroquia": "LA PROVIDENCIA",
+        "id": 5565,
+        "votos": 115,
+        "candidato": "Gutierrez Lucio",
+        "value": 2.5
+    },
+    {
+        "parroquia": "MACHALA",
+        "id": 5625,
+        "votos": 2534,
+        "candidato": "Gutierrez Lucio",
+        "value": 2.1
+    },
+    {
+        "parroquia": "PUERTO BOLIVAR",
+        "id": 5805,
+        "votos": 208,
+        "candidato": "Gutierrez Lucio",
+        "value": 1.28
+    },
+    {
+        "parroquia": "9 DE MAYO",
+        "id": 6490,
+        "votos": 87,
+        "candidato": "Gutierrez Lucio",
+        "value": 2.8
+    },
+    {
+        "parroquia": "EL CAMBIO",
+        "id": 6795,
+        "votos": 110,
+        "candidato": "Gutierrez Lucio",
+        "value": 2.4
+    }
+]

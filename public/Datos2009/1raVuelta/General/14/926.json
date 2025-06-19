@@ -1,0 +1,46 @@
+[
+    {
+        "candidato1": "MARTHA ROLDOS BUCARAM",
+        "candidato2": "LUCIO GUTIERREZ",
+        "id": 595,
+        "votos": 552,
+        "votos1": 358,
+        "votos2": 83,
+        "fill": "#ff4200",
+        "porcentaje1": 64.86,
+        "porcentaje2": 15.04
+    },
+    {
+        "candidato1": "LUCIO GUTIERREZ",
+        "candidato2": "MARTHA ROLDOS BUCARAM",
+        "id": 1205,
+        "votos": 781,
+        "votos1": 463,
+        "votos2": 206,
+        "fill": "#455709",
+        "porcentaje1": 59.28,
+        "porcentaje2": 26.38
+    },
+    {
+        "candidato1": "LUCIO GUTIERREZ",
+        "candidato2": "RAFAEL CORREA DELGADO",
+        "id": 2285,
+        "votos": 771,
+        "votos1": 397,
+        "votos2": 198,
+        "fill": "#455709",
+        "porcentaje1": 51.49,
+        "porcentaje2": 25.68
+    },
+    {
+        "candidato1": "LUCIO GUTIERREZ",
+        "candidato2": "RAFAEL CORREA DELGADO",
+        "id": 6700,
+        "votos": 1268,
+        "votos1": 971,
+        "votos2": 148,
+        "fill": "#455709",
+        "porcentaje1": 76.58,
+        "porcentaje2": 11.67
+    }
+]

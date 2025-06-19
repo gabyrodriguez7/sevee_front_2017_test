@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "SIGSIG",
+        "id": 6085,
+        "votos": 3587,
+        "candidato": "Rafael Correa Delgado",
+        "value": 62.54
+    },
+    {
+        "parroquia": "SAN JOSE DE RARANGA",
+        "id": 3495,
+        "votos": 322,
+        "candidato": "Rafael Correa Delgado",
+        "value": 49.61
+    },
+    {
+        "parroquia": "SAN BARTOLOME",
+        "id": 3360,
+        "votos": 922,
+        "candidato": "Rafael Correa Delgado",
+        "value": 64.61
+    },
+    {
+        "parroquia": "LUDO",
+        "id": 2215,
+        "votos": 626,
+        "candidato": "Rafael Correa Delgado",
+        "value": 57.69
+    },
+    {
+        "parroquia": "GUEL",
+        "id": 1490,
+        "votos": 277,
+        "candidato": "Rafael Correa Delgado",
+        "value": 51.58
+    },
+    {
+        "parroquia": "GIMA",
+        "id": 1355,
+        "votos": 972,
+        "candidato": "Rafael Correa Delgado",
+        "value": 65.67
+    },
+    {
+        "parroquia": "CUTCHIL",
+        "id": 750,
+        "votos": 315,
+        "candidato": "Rafael Correa Delgado",
+        "value": 54.78
+    }
+]

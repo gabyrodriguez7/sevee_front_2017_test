@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "LORETO",
+    "id": 6455,
+    "votos": 166,
+    "candidato": "Alvaro Noboa",
+    "value": 5.39
+  },
+  {
+    "parroquia": "SAN JOSE DE PAYAMINO",
+    "id": 3480,
+    "votos": 12,
+    "candidato": "Alvaro Noboa",
+    "value": 1.71
+  },
+  {
+    "parroquia": "SAN JOSE DE DAHUANO",
+    "id": 1680,
+    "votos": 48,
+    "candidato": "Alvaro Noboa",
+    "value": 4.57
+  },
+  {
+    "parroquia": "PUERTO MURIALDO",
+    "id": 1050,
+    "votos": 13,
+    "candidato": "Alvaro Noboa",
+    "value": 1.49
+  },
+  {
+    "parroquia": "SAN VICENTE DE HUATICOCHA",
+    "id": 400,
+    "votos": 23,
+    "candidato": "Alvaro Noboa",
+    "value": 5.11
+  },
+  {
+    "parroquia": "AVILA",
+    "id": 215,
+    "votos": 31,
+    "candidato": "Alvaro Noboa",
+    "value": 3.15
+  }
+]

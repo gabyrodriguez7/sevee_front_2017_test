@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "AHUANO",
+    "id": 25,
+    "votos": 20,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.62
+  },
+  {
+    "parroquia": "CHONTAPUNTA",
+    "id": 940,
+    "votos": 15,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.46
+  },
+  {
+    "parroquia": "TALAG",
+    "id": 1930,
+    "votos": 9,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.51
+  },
+  {
+    "parroquia": "PANO",
+    "id": 2755,
+    "votos": 11,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.99
+  },
+  {
+    "parroquia": "PUERTO MISAHUALLÍ",
+    "id": 3000,
+    "votos": 31,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.12
+  },
+  {
+    "parroquia": "PUERTO NAPO",
+    "id": 3050,
+    "votos": 14,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.45
+  },
+  {
+    "parroquia": "SAN JUAN DE MUYUNA",
+    "id": 4580,
+    "votos": 9,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.41
+  },
+  {
+    "parroquia": "TENA",
+    "id": 6160,
+    "votos": 398,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.97
+  }
+]

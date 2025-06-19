@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "VALLE DE LA VIRGEN",
+        "id": 185,
+        "votos": 13,
+        "candidato": "Acosta Alberto",
+        "value": 0.8469
+    },
+    {
+        "parroquia": "SABANILLA",
+        "id": 1670,
+        "votos": 15,
+        "candidato": "Acosta Alberto",
+        "value": 0.7708
+    },
+    {
+        "parroquia": "PEDRO CARBO",
+        "id": 5735,
+        "votos": 250,
+        "candidato": "Acosta Alberto",
+        "value": 1.11
+    }
+]

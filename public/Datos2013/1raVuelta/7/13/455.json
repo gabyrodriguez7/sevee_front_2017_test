@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "AMERICA /LA CERA",
+        "id": 105,
+        "votos": 27,
+        "candidato": "Zavala Nelson",
+        "value": 1.26
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 560,
+        "votos": 15,
+        "candidato": "Zavala Nelson",
+        "value": 1.91
+    },
+    {
+        "parroquia": "EL ANEGADO",
+        "id": 1115,
+        "votos": 30,
+        "candidato": "Zavala Nelson",
+        "value": 0.885
+    },
+    {
+        "parroquia": "JULCUY",
+        "id": 1880,
+        "votos": 12,
+        "candidato": "Zavala Nelson",
+        "value": 0.988
+    },
+    {
+        "parroquia": "PEDRO PABLO GOMEZ",
+        "id": 2810,
+        "votos": 62,
+        "candidato": "Zavala Nelson",
+        "value": 2.3143
+    },
+    {
+        "parroquia": "PUERTO CAYO",
+        "id": 2990,
+        "votos": 12,
+        "candidato": "Zavala Nelson",
+        "value": 0.6296
+    },
+    {
+        "parroquia": "MEMBRILLAL",
+        "id": 4490,
+        "votos": 3,
+        "candidato": "Zavala Nelson",
+        "value": 0.468
+    },
+    {
+        "parroquia": "JIPIJAPA",
+        "id": 5485,
+        "votos": 216,
+        "candidato": "Zavala Nelson",
+        "value": 0.8803
+    },
+    {
+        "parroquia": "DR. MIGUEL MORAN LUCIO",
+        "id": 7465,
+        "votos": 28,
+        "candidato": "Zavala Nelson",
+        "value": 0.814
+    },
+    {
+        "parroquia": "MANUEL INOCENCIO PARRALES",
+        "id": 7470,
+        "votos": 5,
+        "candidato": "Zavala Nelson",
+        "value": 0.304321
+    },
+    {
+        "parroquia": "SAN LORENZO DE JIPIJAPA",
+        "id": 7475,
+        "votos": 71,
+        "candidato": "Zavala Nelson",
+        "value": 1.21784
+    }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "AYACUCHO",
+    "id": 220,
+    "votos": 196,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.39
+  },
+  {
+    "parroquia": "SAN PABLO",
+    "id": 1105,
+    "votos": 42,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.04
+  },
+  {
+    "parroquia": "HONORATO VÁSQUEZ",
+    "id": 1610,
+    "votos": 149,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 4.8
+  },
+  {
+    "parroquia": "LA UNIÓN",
+    "id": 2135,
+    "votos": 83,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.67
+  },
+  {
+    "parroquia": "SANTA ANA",
+    "id": 6030,
+    "votos": 598,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 3.74
+  },
+  {
+    "parroquia": "LODANA",
+    "id": 6725,
+    "votos": 26,
+    "candidato": "Espinel Molina Jose Ivan",
+    "value": 2.92
+  }
+]

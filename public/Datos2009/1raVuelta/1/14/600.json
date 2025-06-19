@@ -1,0 +1,44 @@
+[
+  {
+    "parroquia": "GRAL. LEONIDAS PLAZA",
+    "id": 5390,
+    "votos": 127,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 4.93
+  },
+  {
+    "parroquia": "YUNGANZA /EL ROSARIO",
+    "id": 4305,
+    "votos": 37,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 10.51
+  },
+  {
+    "parroquia": "SANTA SUSANA DE CHIVIAZA",
+    "id": 3760,
+    "votos": 30,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 9.77
+  },
+  {
+    "parroquia": "SAN ANTONIO",
+    "id": 3320,
+    "votos": 13,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 6.5
+  },
+  {
+    "parroquia": "SAN MIGUEL DE CONCHAY",
+    "id": 3250,
+    "votos": 23,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 9.35
+  },
+  {
+    "parroquia": "INDANZA",
+    "id": 1720,
+    "votos": 26,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 5.01
+  }
+]

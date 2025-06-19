@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "EL CARMELO/EL PUN/",
+        "id": 1125,
+        "votos": 30,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.86
+    },
+    {
+        "parroquia": "EL CHICAL",
+        "id": 1195,
+        "votos": 22,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 2.14
+    },
+    {
+        "parroquia": "SANTA MARTHA DE CUBA",
+        "id": 1765,
+        "votos": 57,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.422
+    },
+    {
+        "parroquia": "JULIO ANDRADE",
+        "id": 1885,
+        "votos": 231,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.89
+    },
+    {
+        "parroquia": "MALDONADO",
+        "id": 2340,
+        "votos": 9,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.0
+    },
+    {
+        "parroquia": "PIOTER",
+        "id": 2900,
+        "votos": 24,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 4.6
+    },
+    {
+        "parroquia": "TOBAR DONOSO",
+        "id": 4040,
+        "votos": 2,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.1
+    },
+    {
+        "parroquia": "TUFIÑO",
+        "id": 4070,
+        "votos": 28,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.72
+    },
+    {
+        "parroquia": "URBINA",
+        "id": 4130,
+        "votos": 16,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 1.9
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 5415,
+        "votos": 567,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.0
+    },
+    {
+        "parroquia": "TULCAN",
+        "id": 6165,
+        "votos": 772,
+        "candidato": "Rodas Espinel Mauricio Esteban",
+        "value": 3.0
+    }
+]

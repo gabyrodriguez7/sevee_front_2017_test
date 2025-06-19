@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "LIMONAL",
+    "id": 260,
+    "votos": 51,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.92
+  },
+  {
+    "parroquia": "JUAN BAUTISTA AGUIRRE",
+    "id": 1855,
+    "votos": 41,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.54
+  },
+  {
+    "parroquia": "LAS LOJAS",
+    "id": 2105,
+    "votos": 58,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.94
+  },
+  {
+    "parroquia": "EL LAUREL",
+    "id": 4500,
+    "votos": 115,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.74
+  },
+  {
+    "parroquia": "DAULE",
+    "id": 5275,
+    "votos": 1226,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.17
+  },
+  {
+    "parroquia": "LA AURORA",
+    "id": 6850,
+    "votos": 341,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.64
+  },
+  {
+    "parroquia": "MAGRO",
+    "id": 7425,
+    "votos": 9,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.73
+  }
+]

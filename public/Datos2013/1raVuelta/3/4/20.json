@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "JIJON Y CAAMAÑO",
+        "id": 1835,
+        "votos": 11,
+        "candidato": "Wray Norman",
+        "value": 1.12
+    },
+    {
+        "parroquia": "JUAN MONTALVO",
+        "id": 1875,
+        "votos": 2,
+        "candidato": "Wray Norman",
+        "value": 0.2
+    },
+    {
+        "parroquia": "LA CONCEPCION",
+        "id": 2010,
+        "votos": 7,
+        "candidato": "Wray Norman",
+        "value": 0.0
+    },
+    {
+        "parroquia": "MIRA",
+        "id": 5685,
+        "votos": 90,
+        "candidato": "Wray Norman",
+        "value": 2.0
+    }
+]

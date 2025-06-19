@@ -1,0 +1,86 @@
+[
+  {
+    "parroquia": "LA DOLOROSA DEL PRIORATO",
+    "id": 6780,
+    "votos": 149,
+    "candidato": "Lucio Gutierrez",
+    "value": 14.49
+  },
+  {
+    "parroquia": "SAN FRANCISCO",
+    "id": 5960,
+    "votos": 4706,
+    "candidato": "Lucio Gutierrez",
+    "value": 15.28
+  },
+  {
+    "parroquia": "SAGRARIO",
+    "id": 5915,
+    "votos": 4443,
+    "candidato": "Lucio Gutierrez",
+    "value": 14.5
+  },
+  {
+    "parroquia": "GUAYAQUIL DE ALPACHACA",
+    "id": 5440,
+    "votos": 758,
+    "candidato": "Lucio Gutierrez",
+    "value": 15.18
+  },
+  {
+    "parroquia": "CARANQUI",
+    "id": 5165,
+    "votos": 1187,
+    "candidato": "Lucio Gutierrez",
+    "value": 15.55
+  },
+  {
+    "parroquia": "SAN ANTONIO",
+    "id": 3315,
+    "votos": 1089,
+    "candidato": "Lucio Gutierrez",
+    "value": 12.56
+  },
+  {
+    "parroquia": "SALINAS",
+    "id": 3290,
+    "votos": 80,
+    "candidato": "Lucio Gutierrez",
+    "value": 8.51
+  },
+  {
+    "parroquia": "LITA",
+    "id": 2185,
+    "votos": 294,
+    "candidato": "Lucio Gutierrez",
+    "value": 25.78
+  },
+  {
+    "parroquia": "LA ESPERANZA",
+    "id": 2020,
+    "votos": 595,
+    "candidato": "Lucio Gutierrez",
+    "value": 16.02
+  },
+  {
+    "parroquia": "CAROLINA /GUALLUPI",
+    "id": 530,
+    "votos": 216,
+    "candidato": "Lucio Gutierrez",
+    "value": 16.45
+  },
+  {
+    "parroquia": "ANGOCHAGUA",
+    "id": 130,
+    "votos": 296,
+    "candidato": "Lucio Gutierrez",
+    "value": 14.75
+  },
+  {
+    "parroquia": "AMBUQUI/CHOTA",
+    "id": 100,
+    "votos": 465,
+    "candidato": "Lucio Gutierrez",
+    "value": 17.26
+  }
+]

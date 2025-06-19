@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN JACINTO",
+        "id": 1435,
+        "votos": 178,
+        "candidato": "Gutierrez Lucio",
+        "value": 11.34
+    },
+    {
+        "parroquia": "COLIMES",
+        "id": 5365,
+        "votos": 1570,
+        "candidato": "Gutierrez Lucio",
+        "value": 14.8
+    }
+]

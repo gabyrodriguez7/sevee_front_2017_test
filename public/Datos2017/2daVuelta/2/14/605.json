@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "COPAL",
+    "id": 645,
+    "votos": 148,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 55.64
+  },
+  {
+    "parroquia": "CHUPIANZA",
+    "id": 970,
+    "votos": 192,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 54.24
+  },
+  {
+    "parroquia": "SAN FCO. DE CHINIMBIMI",
+    "id": 1365,
+    "votos": 210,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 29.49
+  },
+  {
+    "parroquia": "PATUCA",
+    "id": 2795,
+    "votos": 324,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 38.8
+  },
+  {
+    "parroquia": "SAN LUIS DEL ACHO",
+    "id": 3565,
+    "votos": 177,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 45.62
+  },
+  {
+    "parroquia": "TAYUZA",
+    "id": 4115,
+    "votos": 383,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 43.08
+  },
+  {
+    "parroquia": "MÉNDEZ",
+    "id": 5645,
+    "votos": 1172,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 43.54
+  }
+]

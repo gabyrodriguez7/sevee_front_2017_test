@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "BELLAVISTA",
+    "id": 330,
+    "votos": 1640,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 58.51
+  },
+  {
+    "parroquia": "ARQ.SIXTO DURÁN BALLÉN",
+    "id": 1570,
+    "votos": 795,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 53.32
+  },
+  {
+    "parroquia": "NOBOA",
+    "id": 2555,
+    "votos": 1850,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 48.86
+  },
+  {
+    "parroquia": "SUCRE",
+    "id": 6105,
+    "votos": 5145,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 50.49
+  }
+]

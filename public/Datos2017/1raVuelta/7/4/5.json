@@ -1,0 +1,79 @@
+[
+  {
+    "parroquia": "EL CARMELO/EL PUN/",
+    "id": 1125,
+    "votos": 43,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.62
+  },
+  {
+    "parroquia": "EL CHICAL",
+    "id": 1195,
+    "votos": 10,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.78
+  },
+  {
+    "parroquia": "SANTA MARTHA DE CUBA",
+    "id": 1765,
+    "votos": 14,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.94
+  },
+  {
+    "parroquia": "JULIO ANDRADE",
+    "id": 1885,
+    "votos": 180,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.89
+  },
+  {
+    "parroquia": "MALDONADO",
+    "id": 2340,
+    "votos": 9,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0.97
+  },
+  {
+    "parroquia": "PIOTER",
+    "id": 2900,
+    "votos": 7,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.32
+  },
+  {
+    "parroquia": "TOBAR DONOSO",
+    "id": 4040,
+    "votos": 12,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.96
+  },
+  {
+    "parroquia": "TUFIÑO",
+    "id": 4070,
+    "votos": 19,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.05
+  },
+  {
+    "parroquia": "URBINA",
+    "id": 4130,
+    "votos": 15,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.75
+  },
+  {
+    "parroquia": "GONZALEZ SUÁREZ",
+    "id": 5415,
+    "votos": 269,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.4
+  },
+  {
+    "parroquia": "TULCÁN",
+    "id": 6165,
+    "votos": 396,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.67
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "CUMBARATZA",
+    "id": 720,
+    "votos": 115,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 5.21
+  },
+  {
+    "parroquia": "GUADALUPE",
+    "id": 1390,
+    "votos": 232,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 12.07
+  },
+  {
+    "parroquia": "SAN CARLOS DE LAS MINAS",
+    "id": 1770,
+    "votos": 70,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.31
+  },
+  {
+    "parroquia": "LA VICTORIA DE IMBANA",
+    "id": 2155,
+    "votos": 107,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 16.72
+  },
+  {
+    "parroquia": "SABANILLA",
+    "id": 3260,
+    "votos": 57,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 12.18
+  },
+  {
+    "parroquia": "TIMBARA",
+    "id": 4010,
+    "votos": 103,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 11.98
+  },
+  {
+    "parroquia": "ZAMORA",
+    "id": 6305,
+    "votos": 616,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.33
+  },
+  {
+    "parroquia": "EL LIMÓN",
+    "id": 6840,
+    "votos": 23,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 7.37
+  }
+]

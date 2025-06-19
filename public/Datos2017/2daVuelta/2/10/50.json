@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "CHUGÁ",
+    "id": 955,
+    "votos": 609,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 73.46
+  },
+  {
+    "parroquia": "MARIANO ACOSTA",
+    "id": 2380,
+    "votos": 915,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 69.21
+  },
+  {
+    "parroquia": "SAN FRANCISCO DE SIGSIPAMBA",
+    "id": 3415,
+    "votos": 602,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 78.59
+  },
+  {
+    "parroquia": "PIMAMPIRO",
+    "id": 5750,
+    "votos": 4813,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 62.69
+  }
+]

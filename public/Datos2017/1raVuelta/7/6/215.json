@@ -1,0 +1,72 @@
+[
+  {
+    "parroquia": "ACHUPALLAS",
+    "id": 20,
+    "votos": 81,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.82
+  },
+  {
+    "parroquia": "GUASUNTOS",
+    "id": 1465,
+    "votos": 18,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.87
+  },
+  {
+    "parroquia": "HUIGRA",
+    "id": 1660,
+    "votos": 35,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.91
+  },
+  {
+    "parroquia": "MULTITUD",
+    "id": 2485,
+    "votos": 10,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.46
+  },
+  {
+    "parroquia": "PISTISHI",
+    "id": 2905,
+    "votos": 0,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 0
+  },
+  {
+    "parroquia": "PUMALLACTA",
+    "id": 3025,
+    "votos": 11,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.22
+  },
+  {
+    "parroquia": "SEVILLA",
+    "id": 3820,
+    "votos": 6,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.66
+  },
+  {
+    "parroquia": "SIBAMBE",
+    "id": 3845,
+    "votos": 24,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.61
+  },
+  {
+    "parroquia": "TIXÁN",
+    "id": 4030,
+    "votos": 85,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.63
+  },
+  {
+    "parroquia": "ALAUSÍ",
+    "id": 5010,
+    "votos": 122,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.59
+  }
+]

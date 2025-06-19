@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "EL RETIRO",
+    "id": 255,
+    "votos": 38,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.34
+  },
+  {
+    "parroquia": "LA PROVIDENCIA",
+    "id": 5565,
+    "votos": 1627,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.95
+  },
+  {
+    "parroquia": "MACHALA",
+    "id": 5625,
+    "votos": 2188,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.94
+  },
+  {
+    "parroquia": "PUERTO BOLÍVAR",
+    "id": 5805,
+    "votos": 329,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 1.86
+  },
+  {
+    "parroquia": "9 DE MAYO",
+    "id": 6490,
+    "votos": 152,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.69
+  },
+  {
+    "parroquia": "EL CAMBIO",
+    "id": 6795,
+    "votos": 116,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 2.05
+  },
+  {
+    "parroquia": "JUBONES",
+    "id": 7505,
+    "votos": 54,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.64
+  },
+  {
+    "parroquia": "JAMBELÍ",
+    "id": 7510,
+    "votos": 119,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 3.27
+  }
+]

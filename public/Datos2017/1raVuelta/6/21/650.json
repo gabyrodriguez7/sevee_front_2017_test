@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "PALMA ROJA",
+    "id": 2720,
+    "votos": 10,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.58
+  },
+  {
+    "parroquia": "PUERTO BOLÍVAR",
+    "id": 3005,
+    "votos": 0,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0
+  },
+  {
+    "parroquia": "PUERTO RODRÍGUEZ",
+    "id": 3020,
+    "votos": 0,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0
+  },
+  {
+    "parroquia": "SANTA ELENA",
+    "id": 3705,
+    "votos": 7,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 1.16
+  },
+  {
+    "parroquia": "EL CARMEN DE PUTUMAYO",
+    "id": 6500,
+    "votos": 10,
+    "candidato": "Pesantez Muñoz Washington Arturo",
+    "value": 0.52
+  }
+]

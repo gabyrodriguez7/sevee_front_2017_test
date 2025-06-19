@@ -1,0 +1,30 @@
+[
+	{
+		"parroquia": "CANCHAGUA",
+		"id": 465,
+		"votos": 227,
+		"candidato": "Lasso Guillermo",
+		"value": 24.0
+	},
+	{
+		"parroquia": "CHANTILIN",
+		"id": 830,
+		"votos": 133,
+		"candidato": "Lasso Guillermo",
+		"value": 27.31
+	},
+	{
+		"parroquia": "COCHAPAMBA",
+		"id": 990,
+		"votos": 183,
+		"candidato": "Lasso Guillermo",
+		"value": 15.7
+	},
+	{
+		"parroquia": "SAQUISILI",
+		"id": 6070,
+		"votos": 2963,
+		"candidato": "Lasso Guillermo",
+		"value": 29.172
+	}
+]

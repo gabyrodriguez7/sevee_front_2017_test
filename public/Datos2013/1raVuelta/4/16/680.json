@@ -1,0 +1,100 @@
+[
+    {
+        "parroquia": "CANELOS",
+        "id": 475,
+        "votos": 149,
+        "candidato": "Acosta Alberto",
+        "value": 18.0
+    },
+    {
+        "parroquia": "10 DE AGOSTO",
+        "id": 1025,
+        "votos": 153,
+        "candidato": "Acosta Alberto",
+        "value": 17.8
+    },
+    {
+        "parroquia": "FATIMA",
+        "id": 1260,
+        "votos": 34,
+        "candidato": "Acosta Alberto",
+        "value": 4.3
+    },
+    {
+        "parroquia": "EL TRIUNFO",
+        "id": 1275,
+        "votos": 42,
+        "candidato": "Acosta Alberto",
+        "value": 4.9
+    },
+    {
+        "parroquia": "MONTALVO/ANDOAS",
+        "id": 2450,
+        "votos": 351,
+        "candidato": "Acosta Alberto",
+        "value": 45.6
+    },
+    {
+        "parroquia": "POMONA",
+        "id": 3055,
+        "votos": 10,
+        "candidato": "Acosta Alberto",
+        "value": 5.0
+    },
+    {
+        "parroquia": "RIO CORRIENTES",
+        "id": 3180,
+        "votos": 200,
+        "candidato": "Acosta Alberto",
+        "value": 60.0
+    },
+    {
+        "parroquia": "RIO TIGRE",
+        "id": 3195,
+        "votos": 64,
+        "candidato": "Acosta Alberto",
+        "value": 31.0
+    },
+    {
+        "parroquia": "ZARAYACU",
+        "id": 3785,
+        "votos": 589,
+        "candidato": "Acosta Alberto",
+        "value": 55.15
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 3985,
+        "votos": 80,
+        "candidato": "Acosta Alberto",
+        "value": 8.6
+    },
+    {
+        "parroquia": "TNTE. HUGO ORTIZ",
+        "id": 4005,
+        "votos": 30,
+        "candidato": "Acosta Alberto",
+        "value": 6.0
+    },
+    {
+        "parroquia": "VERACRUZ",
+        "id": 4205,
+        "votos": 55,
+        "candidato": "Acosta Alberto",
+        "value": 4.58
+    },
+    {
+        "parroquia": "SIMON BOLIVAR",
+        "id": 4510,
+        "votos": 1081,
+        "candidato": "Acosta Alberto",
+        "value": 48.4
+    },
+    {
+        "parroquia": "PUYO",
+        "id": 5825,
+        "votos": 1436,
+        "candidato": "Acosta Alberto",
+        "value": 6.0
+    }
+]

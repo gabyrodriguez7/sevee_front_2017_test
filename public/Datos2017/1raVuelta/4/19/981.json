@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "BELLAVISTA",
+    "id": 455,
+    "votos": 16,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 5.42
+  },
+  {
+    "parroquia": "NUEVO QUITO",
+    "id": 1120,
+    "votos": 49,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.11
+  },
+  {
+    "parroquia": "PAQUISHA",
+    "id": 6885,
+    "votos": 95,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 6.44
+  }
+]

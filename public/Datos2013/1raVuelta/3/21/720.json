@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "SAN PEDRO DE LOS COFANES",
+        "id": 600,
+        "votos": 16,
+        "candidato": "Wray Norman",
+        "value": 0.98
+    },
+    {
+        "parroquia": "SIETE DE JULIO",
+        "id": 780,
+        "votos": 14,
+        "candidato": "Wray Norman",
+        "value": 0.84
+    },
+    {
+        "parroquia": "LIMONCOCHA",
+        "id": 2175,
+        "votos": 5,
+        "candidato": "Wray Norman",
+        "value": 0.366
+    },
+    {
+        "parroquia": "PANACOCHA",
+        "id": 2765,
+        "votos": 3,
+        "candidato": "Wray Norman",
+        "value": 1.4
+    },
+    {
+        "parroquia": "SAN ROQUE",
+        "id": 3645,
+        "votos": 8,
+        "candidato": "Wray Norman",
+        "value": 0.6
+    },
+    {
+        "parroquia": "SHUSHUFINDI CENTRAL",
+        "id": 6140,
+        "votos": 199,
+        "candidato": "Wray Norman",
+        "value": 1.28
+    }
+]

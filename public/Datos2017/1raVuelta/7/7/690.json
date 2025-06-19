@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "CURTINCAPAC",
+    "id": 740,
+    "votos": 4,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.04
+  },
+  {
+    "parroquia": "SALATI",
+    "id": 3275,
+    "votos": 11,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.8
+  },
+  {
+    "parroquia": "MORALES",
+    "id": 4520,
+    "votos": 7,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.49
+  },
+  {
+    "parroquia": "PORTOVELO",
+    "id": 5850,
+    "votos": 194,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.79
+  }
+]

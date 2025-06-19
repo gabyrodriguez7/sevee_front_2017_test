@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "LA TRONCAL",
+        "id": 5610,
+        "votos": 211,
+        "candidato": "Melba Jacome",
+        "value": 1.09
+    },
+    {
+        "parroquia": "PANCHO NEGRO",
+        "id": 2745,
+        "votos": 23,
+        "candidato": "Melba Jacome",
+        "value": 1.17
+    },
+    {
+        "parroquia": "MANUEL J. CALLE",
+        "id": 2365,
+        "votos": 14,
+        "candidato": "Melba Jacome",
+        "value": 0.77
+    }
+]

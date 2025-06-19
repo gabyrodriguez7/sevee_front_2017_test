@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "CUMBARATZA",
+    "id": 720,
+    "votos": 701,
+    "candidato": "Lasso Guillermo",
+    "value": 33.38
+  },
+  {
+    "parroquia": "GUADALUPE",
+    "id": 1390,
+    "votos": 588,
+    "candidato": "Lasso Guillermo",
+    "value": 33.716
+  },
+  {
+    "parroquia": "SAN CARLOS DE LAS MINAS",
+    "id": 1770,
+    "votos": 288,
+    "candidato": "Lasso Guillermo",
+    "value": 28.714
+  },
+  {
+    "parroquia": "LA VICTORIA DE IMBANA",
+    "id": 2155,
+    "votos": 145,
+    "candidato": "Lasso Guillermo",
+    "value": 25.44
+  },
+  {
+    "parroquia": "SABANILLA",
+    "id": 3260,
+    "votos": 155,
+    "candidato": "Lasso Guillermo",
+    "value": 36.4
+  },
+  {
+    "parroquia": "TIMBARA",
+    "id": 4010,
+    "votos": 233,
+    "candidato": "Lasso Guillermo",
+    "value": 30.9429
+  },
+  {
+    "parroquia": "ZAMORA",
+    "id": 6305,
+    "votos": 3164,
+    "candidato": "Lasso Guillermo",
+    "value": 35.946
+  },
+  {
+    "parroquia": "EL LIMON",
+    "id": 6840,
+    "votos": 138,
+    "candidato": "Lasso Guillermo",
+    "value": 46.154
+  }
+]

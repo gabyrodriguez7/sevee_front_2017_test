@@ -1,0 +1,90 @@
+[
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 255,
+        "votos": 1624,
+        "votos1": 894,
+        "votos2": 318,
+        "fill": "#1eff00",
+        "porcentaje1": 55.05,
+        "porcentaje2": 19.58
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 5565,
+        "votos": 55125,
+        "votos1": 22579,
+        "votos2": 14533,
+        "fill": "#1eff00",
+        "porcentaje1": 40.96,
+        "porcentaje2": 26.36
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 5625,
+        "votos": 74465,
+        "votos1": 29641,
+        "votos2": 19675,
+        "fill": "#1eff00",
+        "porcentaje1": 39.81,
+        "porcentaje2": 26.42
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "VITERI JIMENEZ CYNTHIA FERNANDA",
+        "id": 5805,
+        "votos": 17659,
+        "votos1": 8651,
+        "votos2": 3976,
+        "fill": "#1eff00",
+        "porcentaje1": 48.99,
+        "porcentaje2": 22.52
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 6490,
+        "votos": 4118,
+        "votos1": 2062,
+        "votos2": 781,
+        "fill": "#1eff00",
+        "porcentaje1": 50.07,
+        "porcentaje2": 18.97
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 6795,
+        "votos": 5657,
+        "votos1": 2870,
+        "votos2": 1173,
+        "fill": "#1eff00",
+        "porcentaje1": 50.73,
+        "porcentaje2": 20.74
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+        "id": 7505,
+        "votos": 1483,
+        "votos1": 787,
+        "votos2": 281,
+        "fill": "#1eff00",
+        "porcentaje1": 53.07,
+        "porcentaje2": 18.95
+    },
+    {
+        "candidato1": "MORENO GARCES LENIN BOLTAIRE",
+        "candidato2": "VITERI JIMENEZ CYNTHIA FERNANDA",
+        "id": 7510,
+        "votos": 3640,
+        "votos1": 1937,
+        "votos2": 696,
+        "fill": "#1eff00",
+        "porcentaje1": 53.21,
+        "porcentaje2": 19.12
+    }
+]

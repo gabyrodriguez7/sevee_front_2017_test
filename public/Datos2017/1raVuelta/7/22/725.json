@@ -1,0 +1,65 @@
+[
+  {
+    "parroquia": "SAN CARLOS",
+    "id": 415,
+    "votos": 49,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.4
+  },
+  {
+    "parroquia": "ENOKANQUI",
+    "id": 490,
+    "votos": 30,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.97
+  },
+  {
+    "parroquia": "RUMIPAMBA",
+    "id": 1950,
+    "votos": 14,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.94
+  },
+  {
+    "parroquia": "TRES DE NOVIEMBRE",
+    "id": 1955,
+    "votos": 30,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.64
+  },
+  {
+    "parroquia": "LAGO SAN PEDRO",
+    "id": 1960,
+    "votos": 17,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 1.42
+  },
+  {
+    "parroquia": "UNIÓN MILAGREÑA",
+    "id": 1965,
+    "votos": 47,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.69
+  },
+  {
+    "parroquia": "POMPEYA",
+    "id": 2930,
+    "votos": 55,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 10.22
+  },
+  {
+    "parroquia": "SAN SEBASTIÁN DE COCA",
+    "id": 3660,
+    "votos": 83,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 3.71
+  },
+  {
+    "parroquia": "LA JOYA DE LOS SACHAS",
+    "id": 6200,
+    "votos": 313,
+    "candidato": "Bucaram Pulley Abdala Jaime",
+    "value": 2.54
+  }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "SAN JOSE",
+        "id": 6825,
+        "votos": 2,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.84
+    },
+    {
+        "parroquia": "CATAMAYO",
+        "id": 5270,
+        "votos": 97,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.88
+    },
+    {
+        "parroquia": "ZAMBI",
+        "id": 4455,
+        "votos": 2,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 0.69
+    },
+    {
+        "parroquia": "SAN PEDRO DE LA BENDITA",
+        "id": 3610,
+        "votos": 9,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.05
+    },
+    {
+        "parroquia": "GUAYQUICHUMA",
+        "id": 1480,
+        "votos": 4,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.88
+    },
+    {
+        "parroquia": "EL TAMBO",
+        "id": 1200,
+        "votos": 16,
+        "candidato": "Carlos Sagnay De La Bastida",
+        "value": 1.2
+    }
+]

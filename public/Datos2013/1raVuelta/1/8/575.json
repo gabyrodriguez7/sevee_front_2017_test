@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CUBE / CHANCAMA",
+        "id": 700,
+        "votos": 86,
+        "candidato": "Noboa Alvaro",
+        "value": 7.0
+    },
+    {
+        "parroquia": "CHURA",
+        "id": 980,
+        "votos": 19,
+        "candidato": "Noboa Alvaro",
+        "value": 3.3
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 1530,
+        "votos": 433,
+        "candidato": "Noboa Alvaro",
+        "value": 4.74885
+    },
+    {
+        "parroquia": "MALIMPIA / GUAYLLABAMBA",
+        "id": 2345,
+        "votos": 276,
+        "candidato": "Noboa Alvaro",
+        "value": 5.0
+    },
+    {
+        "parroquia": "VICHE",
+        "id": 4230,
+        "votos": 263,
+        "candidato": "Noboa Alvaro",
+        "value": 7.5423
+    },
+    {
+        "parroquia": "ROSA ZARATE",
+        "id": 5895,
+        "votos": 1979,
+        "candidato": "Noboa Alvaro",
+        "value": 5.3
+    }
+]

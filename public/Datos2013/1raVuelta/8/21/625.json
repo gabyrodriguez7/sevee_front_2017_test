@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "DURENO",
+    "id": 1045,
+    "votos": 25,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 1.678
+  },
+  {
+    "parroquia": "EL ENO",
+    "id": 1285,
+    "votos": 81,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 2.812
+  },
+  {
+    "parroquia": "PACAYACU",
+    "id": 1290,
+    "votos": 73,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 2.4
+  },
+  {
+    "parroquia": "GENERAL FARFAN",
+    "id": 1330,
+    "votos": 27,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 1.3
+  },
+  {
+    "parroquia": "SANTA CECILIA",
+    "id": 1790,
+    "votos": 37,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 1.856
+  },
+  {
+    "parroquia": "JAMBELI",
+    "id": 1795,
+    "votos": 28,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 2.385
+  },
+  {
+    "parroquia": "10 DE AGOSTO",
+    "id": 4625,
+    "votos": 7,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 2.08
+  },
+  {
+    "parroquia": "NUEVA LOJA",
+    "id": 5710,
+    "votos": 906,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 2.706
+  }
+]

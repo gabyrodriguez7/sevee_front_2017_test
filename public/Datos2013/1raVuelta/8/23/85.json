@@ -1,0 +1,100 @@
+[
+  {
+    "parroquia": "ALLURIQUIN",
+    "id": 75,
+    "votos": 156,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 3.148
+  },
+  {
+    "parroquia": "VALLE HERMOSO",
+    "id": 305,
+    "votos": 141,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 3.846
+  },
+  {
+    "parroquia": "LUZ DE AMERICA",
+    "id": 1755,
+    "votos": 83,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 2.87
+  },
+  {
+    "parroquia": "SAN JACINTO DEL BUA",
+    "id": 1970,
+    "votos": 140,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 2.91
+  },
+  {
+    "parroquia": "EL ESFUERZO",
+    "id": 1990,
+    "votos": 89,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 3.6
+  },
+  {
+    "parroquia": "SANTA MARIA DEL TOACHI",
+    "id": 2045,
+    "votos": 106,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 5.8
+  },
+  {
+    "parroquia": "PUERTO LIMON",
+    "id": 4440,
+    "votos": 133,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 2.0
+  },
+  {
+    "parroquia": "ABRAHAM CALAZACON",
+    "id": 5730,
+    "votos": 629,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 4.0
+  },
+  {
+    "parroquia": "BOMBOLI",
+    "id": 5860,
+    "votos": 856,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 4.48567
+  },
+  {
+    "parroquia": "RIO VERDE",
+    "id": 5865,
+    "votos": 814,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 4.0
+  },
+  {
+    "parroquia": "RIO TOACHI",
+    "id": 5870,
+    "votos": 94,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 4.0
+  },
+  {
+    "parroquia": "SANTO DOMINGO",
+    "id": 6065,
+    "votos": 4851,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 4.0
+  },
+  {
+    "parroquia": "CHIGUILPE",
+    "id": 6175,
+    "votos": 434,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 4.2
+  },
+  {
+    "parroquia": "ZARACAY",
+    "id": 6180,
+    "votos": 193,
+    "candidato": "Rodas Espinel Mauricio Esteban",
+    "value": 4.9
+  }
+]

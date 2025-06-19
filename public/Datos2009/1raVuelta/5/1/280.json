@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "SIGSIG",
+        "id": 6085,
+        "votos": 25,
+        "candidato": "Melba Jacome",
+        "value": 0.43
+    },
+    {
+        "parroquia": "SAN JOSE DE RARANGA",
+        "id": 3495,
+        "votos": 8,
+        "candidato": "Melba Jacome",
+        "value": 1.23
+    },
+    {
+        "parroquia": "SAN BARTOLOME",
+        "id": 3360,
+        "votos": 6,
+        "candidato": "Melba Jacome",
+        "value": 0.42
+    },
+    {
+        "parroquia": "LUDO",
+        "id": 2215,
+        "votos": 6,
+        "candidato": "Melba Jacome",
+        "value": 0.55
+    },
+    {
+        "parroquia": "GUEL",
+        "id": 1490,
+        "votos": 1,
+        "candidato": "Melba Jacome",
+        "value": 0.18
+    },
+    {
+        "parroquia": "GIMA",
+        "id": 1355,
+        "votos": 7,
+        "candidato": "Melba Jacome",
+        "value": 0.47
+    },
+    {
+        "parroquia": "CUTCHIL",
+        "id": 750,
+        "votos": 3,
+        "candidato": "Melba Jacome",
+        "value": 0.52
+    }
+]

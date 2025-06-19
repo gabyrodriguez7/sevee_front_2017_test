@@ -1,0 +1,23 @@
+[
+  {
+    "parroquia": "EL PROGRESO",
+    "id": 1220,
+    "votos": 73,
+    "candidato": "Lasso Guillermo",
+    "value": 23.0
+  },
+  {
+    "parroquia": "ISLA SANTA MARIA",
+    "id": 4415,
+    "votos": 7,
+    "candidato": "Lasso Guillermo",
+    "value": 7.9
+  },
+  {
+    "parroquia": "PTO. BAQUERIZO MORENO",
+    "id": 6510,
+    "votos": 1139,
+    "candidato": "Lasso Guillermo",
+    "value": 30.56
+  }
+]

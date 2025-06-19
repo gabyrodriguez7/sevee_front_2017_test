@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "AMERICA /LA CERA",
+        "id": 105,
+        "votos": 17,
+        "candidato": "Wray Norman",
+        "value": 0.79
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 560,
+        "votos": 3,
+        "candidato": "Wray Norman",
+        "value": 0.38
+    },
+    {
+        "parroquia": "EL ANEGADO",
+        "id": 1115,
+        "votos": 35,
+        "candidato": "Wray Norman",
+        "value": 1.033
+    },
+    {
+        "parroquia": "JULCUY",
+        "id": 1880,
+        "votos": 22,
+        "candidato": "Wray Norman",
+        "value": 1.811
+    },
+    {
+        "parroquia": "PEDRO PABLO GOMEZ",
+        "id": 2810,
+        "votos": 22,
+        "candidato": "Wray Norman",
+        "value": 0.8212
+    },
+    {
+        "parroquia": "PUERTO CAYO",
+        "id": 2990,
+        "votos": 13,
+        "candidato": "Wray Norman",
+        "value": 0.6821
+    },
+    {
+        "parroquia": "MEMBRILLAL",
+        "id": 4490,
+        "votos": 11,
+        "candidato": "Wray Norman",
+        "value": 1.7161
+    },
+    {
+        "parroquia": "JIPIJAPA",
+        "id": 5485,
+        "votos": 321,
+        "candidato": "Wray Norman",
+        "value": 1.3083
+    },
+    {
+        "parroquia": "DR. MIGUEL MORAN LUCIO",
+        "id": 7465,
+        "votos": 49,
+        "candidato": "Wray Norman",
+        "value": 1.4244
+    },
+    {
+        "parroquia": "MANUEL INOCENCIO PARRALES",
+        "id": 7470,
+        "votos": 21,
+        "candidato": "Wray Norman",
+        "value": 1.27815
+    },
+    {
+        "parroquia": "SAN LORENZO DE JIPIJAPA",
+        "id": 7475,
+        "votos": 75,
+        "candidato": "Wray Norman",
+        "value": 1.28645
+    }
+]

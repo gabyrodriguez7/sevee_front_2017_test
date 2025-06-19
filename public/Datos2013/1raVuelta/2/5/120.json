@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "MORASPUNGO",
+        "id": 2460,
+        "votos": 2496,
+        "candidato": "Correa Delgado Rafael",
+        "value": 44.271
+    },
+    {
+        "parroquia": "PINLLOPATA",
+        "id": 2890,
+        "votos": 191,
+        "candidato": "Correa Delgado Rafael",
+        "value": 40.0
+    },
+    {
+        "parroquia": "RAMON CAMPAÑA",
+        "id": 3155,
+        "votos": 189,
+        "candidato": "Correa Delgado Rafael",
+        "value": 27.12
+    },
+    {
+        "parroquia": "EL CORAZON",
+        "id": 5305,
+        "votos": 1577,
+        "candidato": "Correa Delgado Rafael",
+        "value": 38.6
+    }
+]

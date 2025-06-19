@@ -1,0 +1,58 @@
+[
+  {
+    "parroquia": "GRAL. VERNAZA",
+    "id": 1350,
+    "votos": 29,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.67
+  },
+  {
+    "parroquia": "JUNQUILLAL",
+    "id": 1595,
+    "votos": 51,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 1.06
+  },
+  {
+    "parroquia": "VICTORIA",
+    "id": 4220,
+    "votos": 13,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.52
+  },
+  {
+    "parroquia": "BOCANA",
+    "id": 5120,
+    "votos": 0,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0
+  },
+  {
+    "parroquia": "CANDILEJOS",
+    "id": 5155,
+    "votos": 5,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.86
+  },
+  {
+    "parroquia": "SALITRE",
+    "id": 5200,
+    "votos": 109,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.48
+  },
+  {
+    "parroquia": "PARAÍSO",
+    "id": 5765,
+    "votos": 0,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0
+  },
+  {
+    "parroquia": "SAN MATEO",
+    "id": 5990,
+    "votos": 1,
+    "candidato": "Pesántez Muñoz Washington Arturo",
+    "value": 0.88
+  }
+]

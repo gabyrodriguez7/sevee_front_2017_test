@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CHITO",
+        "id": 915,
+        "votos": 0,
+        "candidato": "Wray Norman",
+        "value": 0.0
+    },
+    {
+        "parroquia": "EL CHORRO",
+        "id": 1145,
+        "votos": 1,
+        "candidato": "Wray Norman",
+        "value": 0.4
+    },
+    {
+        "parroquia": "LA CHONTA",
+        "id": 2015,
+        "votos": 0,
+        "candidato": "Wray Norman",
+        "value": 0.0
+    },
+    {
+        "parroquia": "SAN ANDRES",
+        "id": 2110,
+        "votos": 3,
+        "candidato": "Wray Norman",
+        "value": 0.9434
+    },
+    {
+        "parroquia": "PUCAPAMBA",
+        "id": 2955,
+        "votos": 0,
+        "candidato": "Wray Norman",
+        "value": 0.0
+    },
+    {
+        "parroquia": "ZUMBA",
+        "id": 6315,
+        "votos": 19,
+        "candidato": "Wray Norman",
+        "value": 1.0
+    }
+]

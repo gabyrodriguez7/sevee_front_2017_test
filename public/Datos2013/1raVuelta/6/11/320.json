@@ -1,0 +1,52 @@
+[
+                {
+                    "parroquia": "COLAIZACA",
+                    "id": 590,
+                    "votos": 275,
+                    "candidato": "Lasso Guillermo",
+                    "value": 26.62
+                },
+                {
+                    "parroquia": "EL LUCERO",
+                    "id": 1230,
+                    "votos": 213,
+                    "candidato": "Lasso Guillermo",
+                    "value": 16.7
+                },
+                {
+                    "parroquia": "SANGUILLIN",
+                    "id": 1550,
+                    "votos": 48,
+                    "candidato": "Lasso Guillermo",
+                    "value": 12.77
+                },
+                {
+                    "parroquia": "UTUANA",
+                    "id": 4150,
+                    "votos": 129,
+                    "candidato": "Lasso Guillermo",
+                    "value": 28.0
+                },
+                {
+                    "parroquia": "CARIAMANGA",
+                    "id": 5175,
+                    "votos": 3982,
+                    "candidato": "Lasso Guillermo",
+                    "value": 36.6
+                },
+                {
+                    "parroquia": "CHILE",
+                    "id": 5240,
+                    "votos": 529,
+                    "candidato": "Lasso Guillermo",
+                    "value": 33.0
+                },
+                {
+                    "parroquia": "SAN VICENTE",
+                    "id": 6025,
+                    "votos": 133,
+                    "candidato": "Lasso Guillermo",
+                    "value": 34.190231
+                }
+            ]
+            

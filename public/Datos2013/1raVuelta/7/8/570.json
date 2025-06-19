@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "BOLIVAR",
+        "id": 355,
+        "votos": 1,
+        "candidato": "Zavala Nelson",
+        "value": 0.2
+    },
+    {
+        "parroquia": "DAULE",
+        "id": 1010,
+        "votos": 8,
+        "candidato": "Zavala Nelson",
+        "value": 1.22
+    },
+    {
+        "parroquia": "GALERA",
+        "id": 1305,
+        "votos": 13,
+        "candidato": "Zavala Nelson",
+        "value": 1.8
+    },
+    {
+        "parroquia": "QUINGUE",
+        "id": 3125,
+        "votos": 8,
+        "candidato": "Zavala Nelson",
+        "value": 2.0
+    },
+    {
+        "parroquia": "SALIMA",
+        "id": 3280,
+        "votos": 0,
+        "candidato": "Zavala Nelson",
+        "value": 0.0
+    },
+    {
+        "parroquia": "SAN FRANCISCO",
+        "id": 3390,
+        "votos": 8,
+        "candidato": "Zavala Nelson",
+        "value": 0.64
+    },
+    {
+        "parroquia": "SAN GREGORIO",
+        "id": 3430,
+        "votos": 16,
+        "candidato": "Zavala Nelson",
+        "value": 0.87
+    },
+    {
+        "parroquia": "SAN JOSE DE CHAMANGA",
+        "id": 3470,
+        "votos": 15,
+        "candidato": "Zavala Nelson",
+        "value": 0.8
+    },
+    {
+        "parroquia": "MUISNE",
+        "id": 5670,
+        "votos": 69,
+        "candidato": "Zavala Nelson",
+        "value": 1.162
+    }
+]

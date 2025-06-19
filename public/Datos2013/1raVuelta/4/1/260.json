@@ -1,0 +1,254 @@
+[
+    {
+        "parroquia": "BAÑOS",
+        "id": 285,
+        "votos": 569,
+        "candidato": "Acosta Alberto",
+        "value": 4.0
+    },
+    {
+        "parroquia": "CUMBE",
+        "id": 730,
+        "votos": 197,
+        "candidato": "Acosta Alberto",
+        "value": 5.0
+    },
+    {
+        "parroquia": "CHAUCHA / ANGAS",
+        "id": 845,
+        "votos": 9,
+        "candidato": "Acosta Alberto",
+        "value": 1.3
+    },
+    {
+        "parroquia": "CHECA JIDCAY",
+        "id": 860,
+        "votos": 89,
+        "candidato": "Acosta Alberto",
+        "value": 5.232
+    },
+    {
+        "parroquia": "CHIQUINTAD",
+        "id": 905,
+        "votos": 107,
+        "candidato": "Acosta Alberto",
+        "value": 4.106
+    },
+    {
+        "parroquia": "LLACAO",
+        "id": 2255,
+        "votos": 79,
+        "candidato": "Acosta Alberto",
+        "value": 3.119
+    },
+    {
+        "parroquia": "MOLLETURO",
+        "id": 2430,
+        "votos": 152,
+        "candidato": "Acosta Alberto",
+        "value": 3.75
+    },
+    {
+        "parroquia": "MULTI /  NULTI",
+        "id": 2570,
+        "votos": 132,
+        "candidato": "Acosta Alberto",
+        "value": 4.6
+    },
+    {
+        "parroquia": "OCTAVIO CORDERO PALACIOS",
+        "id": 2595,
+        "votos": 27,
+        "candidato": "Acosta Alberto",
+        "value": 2.2
+    },
+    {
+        "parroquia": "PACCHA",
+        "id": 2680,
+        "votos": 177,
+        "candidato": "Acosta Alberto",
+        "value": 6.2
+    },
+    {
+        "parroquia": "QUINGEO",
+        "id": 3105,
+        "votos": 84,
+        "candidato": "Acosta Alberto",
+        "value": 2.4
+    },
+    {
+        "parroquia": "RICAURTE",
+        "id": 3165,
+        "votos": 325,
+        "candidato": "Acosta Alberto",
+        "value": 3.0
+    },
+    {
+        "parroquia": "SAN JOAQUIN",
+        "id": 3460,
+        "votos": 186,
+        "candidato": "Acosta Alberto",
+        "value": 3.6385
+    },
+    {
+        "parroquia": "SANTA ANA",
+        "id": 3685,
+        "votos": 116,
+        "candidato": "Acosta Alberto",
+        "value": 3.2842582
+    },
+    {
+        "parroquia": "SAYAUSI",
+        "id": 3795,
+        "votos": 256,
+        "candidato": "Acosta Alberto",
+        "value": 4.0
+    },
+    {
+        "parroquia": "SIDCAY",
+        "id": 3850,
+        "votos": 79,
+        "candidato": "Acosta Alberto",
+        "value": 3.2
+    },
+    {
+        "parroquia": "SININCAY",
+        "id": 3870,
+        "votos": 176,
+        "candidato": "Acosta Alberto",
+        "value": 2.8
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 3980,
+        "votos": 523,
+        "candidato": "Acosta Alberto",
+        "value": 9.27305
+    },
+    {
+        "parroquia": "TURI",
+        "id": 4095,
+        "votos": 159,
+        "candidato": "Acosta Alberto",
+        "value": 4.2
+    },
+    {
+        "parroquia": "VALLE",
+        "id": 4200,
+        "votos": 509,
+        "candidato": "Acosta Alberto",
+        "value": 5.0
+    },
+    {
+        "parroquia": "VICTORIA DEL PORTETE",
+        "id": 4225,
+        "votos": 501,
+        "candidato": "Acosta Alberto",
+        "value": 18.0
+    },
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 5075,
+        "votos": 565,
+        "candidato": "Acosta Alberto",
+        "value": 5.0
+    },
+    {
+        "parroquia": "CAÑARIBAMBA",
+        "id": 5080,
+        "votos": 400,
+        "candidato": "Acosta Alberto",
+        "value": 5.92242
+    },
+    {
+        "parroquia": "EL BATAN",
+        "id": 5135,
+        "votos": 426,
+        "candidato": "Acosta Alberto",
+        "value": 5.0
+    },
+    {
+        "parroquia": "MACHANGARA",
+        "id": 5140,
+        "votos": 184,
+        "candidato": "Acosta Alberto",
+        "value": 3.6
+    },
+    {
+        "parroquia": "MONAY",
+        "id": 5290,
+        "votos": 425,
+        "candidato": "Acosta Alberto",
+        "value": 5.0
+    },
+    {
+        "parroquia": "EL VECINO",
+        "id": 5330,
+        "votos": 1408,
+        "candidato": "Acosta Alberto",
+        "value": 5.0
+    },
+    {
+        "parroquia": "TOTORACOCHA",
+        "id": 5360,
+        "votos": 775,
+        "candidato": "Acosta Alberto",
+        "value": 5.0
+    },
+    {
+        "parroquia": "YANUNCAY",
+        "id": 5370,
+        "votos": 740,
+        "candidato": "Acosta Alberto",
+        "value": 5.0
+    },
+    {
+        "parroquia": "HUAYNACAPAC",
+        "id": 5450,
+        "votos": 625,
+        "candidato": "Acosta Alberto",
+        "value": 5.0
+    },
+    {
+        "parroquia": "RAMIREZ DAVALOS",
+        "id": 5875,
+        "votos": 602,
+        "candidato": "Acosta Alberto",
+        "value": 6.31
+    },
+    {
+        "parroquia": "SAGRARIO",
+        "id": 5905,
+        "votos": 995,
+        "candidato": "Acosta Alberto",
+        "value": 5.0
+    },
+    {
+        "parroquia": "SAN BLAS",
+        "id": 5930,
+        "votos": 1025,
+        "candidato": "Acosta Alberto",
+        "value": 6.0
+    },
+    {
+        "parroquia": "SAN SEBASTIAN",
+        "id": 6010,
+        "votos": 1301,
+        "candidato": "Acosta Alberto",
+        "value": 5.0
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 6090,
+        "votos": 1029,
+        "candidato": "Acosta Alberto",
+        "value": 6.0
+    },
+    {
+        "parroquia": "HERMANO MIGUEL",
+        "id": 6865,
+        "votos": 246,
+        "candidato": "Acosta Alberto",
+        "value": 4.8
+    }
+]

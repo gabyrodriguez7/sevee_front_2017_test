@@ -1,0 +1,93 @@
+[
+    {
+        "parroquia": "CAMARONES",
+        "id": 450,
+        "votos": 647,
+        "candidato": "Correa Delgado Rafael",
+        "value": 58.66
+    },
+    {
+        "parroquia": "CRNL.CARLOS CONCHA TORRES",
+        "id": 655,
+        "votos": 355,
+        "candidato": "Correa Delgado Rafael",
+        "value": 48.4
+    },
+    {
+        "parroquia": "CHINCA",
+        "id": 895,
+        "votos": 770,
+        "candidato": "Correa Delgado Rafael",
+        "value": 49.8
+    },
+    {
+        "parroquia": "MAJUA",
+        "id": 2320,
+        "votos": 519,
+        "candidato": "Correa Delgado Rafael",
+        "value": 56.5
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 3570,
+        "votos": 1344,
+        "candidato": "Correa Delgado Rafael",
+        "value": 58.56
+    },
+    {
+        "parroquia": "TABIAZO",
+        "id": 3930,
+        "votos": 750,
+        "candidato": "Correa Delgado Rafael",
+        "value": 57.2
+    },
+    {
+        "parroquia": "TACHINA",
+        "id": 3940,
+        "votos": 1295,
+        "candidato": "Correa Delgado Rafael",
+        "value": 64.653
+    },
+    {
+        "parroquia": "VUELTA LARGA",
+        "id": 4240,
+        "votos": 6963,
+        "candidato": "Correa Delgado Rafael",
+        "value": 52.611
+    },
+    {
+        "parroquia": "BARTOLOME RUIZ",
+        "id": 5205,
+        "votos": 7910,
+        "candidato": "Correa Delgado Rafael",
+        "value": 48.1
+    },
+    {
+        "parroquia": "5 DE AGOSTO",
+        "id": 5210,
+        "votos": 10765,
+        "candidato": "Correa Delgado Rafael",
+        "value": 44.17
+    },
+    {
+        "parroquia": "ESMERALDAS",
+        "id": 5335,
+        "votos": 13004,
+        "candidato": "Correa Delgado Rafael",
+        "value": 46.27
+    },
+    {
+        "parroquia": "LUIS TELLO / LAS PALMAS /",
+        "id": 5600,
+        "votos": 3086,
+        "candidato": "Correa Delgado Rafael",
+        "value": 49.187
+    },
+    {
+        "parroquia": "SIMON PLATA TORRES",
+        "id": 6905,
+        "votos": 2182,
+        "candidato": "Correa Delgado Rafael",
+        "value": 56.558
+    }
+]

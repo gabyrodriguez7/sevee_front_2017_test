@@ -1,0 +1,57 @@
+[
+    {
+        "candidato1": "LUCIO GUTIERREZ",
+        "candidato2": "RAFAEL CORREA DELGADO",
+        "id": 155,
+        "votos": 189,
+        "votos1": 96,
+        "votos2": 85,
+        "fill": "#455709",
+        "porcentaje1": 50.79,
+        "porcentaje2": 44.97
+    },
+    {
+        "candidato1": "LUCIO GUTIERREZ",
+        "candidato2": "RAFAEL CORREA DELGADO",
+        "id": 715,
+        "votos": 384,
+        "votos1": 204,
+        "votos2": 147,
+        "fill": "#455709",
+        "porcentaje1": 53.13,
+        "porcentaje2": 38.28
+    },
+    {
+        "candidato1": "LUCIO GUTIERREZ",
+        "candidato2": "MARTHA ROLDOS BUCARAM",
+        "id": 1685,
+        "votos": 319,
+        "votos1": 173,
+        "votos2": 70,
+        "fill": "#455709",
+        "porcentaje1": 54.23,
+        "porcentaje2": 21.94
+    },
+    {
+        "candidato1": "LUCIO GUTIERREZ",
+        "candidato2": "RAFAEL CORREA DELGADO",
+        "id": 3420,
+        "votos": 314,
+        "votos1": 205,
+        "votos2": 88,
+        "fill": "#455709",
+        "porcentaje1": 65.29,
+        "porcentaje2": 28.03
+    },
+    {
+        "candidato1": "LUCIO GUTIERREZ",
+        "candidato2": "RAFAEL CORREA DELGADO",
+        "id": 5760,
+        "votos": 1958,
+        "votos1": 1043,
+        "votos2": 692,
+        "fill": "#455709",
+        "porcentaje1": 53.27,
+        "porcentaje2": 35.34
+    }
+]

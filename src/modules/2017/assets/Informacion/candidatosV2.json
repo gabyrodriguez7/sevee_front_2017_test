@@ -1,0 +1,54 @@
+[
+    {
+        "partido": "",
+        "nombrePartido": "Resultados Generales",
+        "json": "1"
+    },{
+        "partido": 1,
+        "nombre": "GUILLERMO LASSO",
+        "nombrePartido": "ALIANZA CREO  - SUMA",
+        "json": "1"
+    },
+    {
+        "partido": 2,
+        "nombre": "PACO MONCAYO",
+       "nombrePartido": "ACUERDO POR EL CAMBIO",
+        "json": "2"
+    },
+    {
+        "partido": 3,
+        "nombre": "LENIN MORENO",
+         "nombrePartido": "MOVIMIENTO ALIANZA PAIS; PATRIA ALTIVA I SOBERANA",
+        "json": "3"
+    },
+    {
+        "partido": 4,
+        "nombre": "CYNTHIA VITERI",
+         "nombrePartido": "PARTIDO SOCIAL CRISTIANO",
+        "json": "4"
+    },
+    {
+        "partido": 5,
+        "nombre": "JOSE ZUQUILANDA",
+        "nombrePartido": "PARTIDO SOCIEDAD PATRIOTICA '21 DE ENERO'",
+        "json": "5"
+    },
+    {
+        "partido": 6,
+        "nombre": "WASHINGTON PESANTEZ",
+        "nombrePartido": "UNION ECUATORIANA",
+        "json": "6"
+    },
+    {
+        "partido": 7,
+        "nombre": "ABDALA BUCARAM",
+        "nombrePartido": "FUERZA.EC",
+        "json": "7"
+    },
+    {
+        "partido": 8,
+        "nombre": "JOSE ESPINEL",
+        "nombrePartido": "FUERZA ¡COMPROMISO SOCIAL!",
+        "json": "8"
+    }
+]

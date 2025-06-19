@@ -1,0 +1,72 @@
+[
+  {
+    "parroquia": "ZARUMA",
+    "id": 6310,
+    "votos": 1017,
+    "candidato": "Lucio Gutierrez",
+    "value": 14.83
+  },
+  {
+    "parroquia": "MULUNCAY GRANDE",
+    "id": 4450,
+    "votos": 36,
+    "candidato": "Lucio Gutierrez",
+    "value": 9.32
+  },
+  {
+    "parroquia": "ARCAPAMBA",
+    "id": 4445,
+    "votos": 58,
+    "candidato": "Lucio Gutierrez",
+    "value": 10.13
+  },
+  {
+    "parroquia": "MALVAS",
+    "id": 2350,
+    "votos": 37,
+    "candidato": "Lucio Gutierrez",
+    "value": 7.12
+  },
+  {
+    "parroquia": "SALVIAS",
+    "id": 1750,
+    "votos": 32,
+    "candidato": "Lucio Gutierrez",
+    "value": 9.96
+  },
+  {
+    "parroquia": "SINSAO",
+    "id": 1700,
+    "votos": 70,
+    "candidato": "Lucio Gutierrez",
+    "value": 17.03
+  },
+  {
+    "parroquia": "HUERTAS",
+    "id": 1655,
+    "votos": 174,
+    "candidato": "Lucio Gutierrez",
+    "value": 15.3
+  },
+  {
+    "parroquia": "GUIZHAGUIÑA",
+    "id": 1425,
+    "votos": 48,
+    "candidato": "Lucio Gutierrez",
+    "value": 8.24
+  },
+  {
+    "parroquia": "GUANAZAN",
+    "id": 1420,
+    "votos": 129,
+    "candidato": "Lucio Gutierrez",
+    "value": 11.53
+  },
+  {
+    "parroquia": "ABANIN",
+    "id": 5,
+    "votos": 104,
+    "candidato": "Lucio Gutierrez",
+    "value": 20.88
+  }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "YANAYACU MOCHAPATA",
+        "id": 4310,
+        "votos": 4,
+        "candidato": "Zavala Nelson",
+        "value": 0.46
+    },
+    {
+        "parroquia": "RUMIPAMBA",
+        "id": 4550,
+        "votos": 5,
+        "candidato": "Zavala Nelson",
+        "value": 0.6
+    },
+    {
+        "parroquia": "QUERO",
+        "id": 5835,
+        "votos": 80,
+        "candidato": "Zavala Nelson",
+        "value": 0.72
+    }
+]

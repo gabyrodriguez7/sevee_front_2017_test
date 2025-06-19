@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "GUALACEO",
+        "id": 5420,
+        "votos": 49,
+        "candidato": "Melba Jacome",
+        "value": 0.45
+    },
+    {
+        "parroquia": "ZHIDMAD",
+        "id": 4340,
+        "votos": 5,
+        "candidato": "Melba Jacome",
+        "value": 0.51
+    },
+    {
+        "parroquia": "SIMON BOLIVAR",
+        "id": 3780,
+        "votos": 1,
+        "candidato": "Melba Jacome",
+        "value": 0.3
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3505,
+        "votos": 18,
+        "candidato": "Melba Jacome",
+        "value": 1.12
+    },
+    {
+        "parroquia": "REMIGIO CRESPO TORAL",
+        "id": 3160,
+        "votos": 3,
+        "candidato": "Melba Jacome",
+        "value": 0.8
+    },
+    {
+        "parroquia": "MARIANO MORENO/CALLASAY",
+        "id": 2385,
+        "votos": 3,
+        "candidato": "Melba Jacome",
+        "value": 0.36
+    },
+    {
+        "parroquia": "JADAN",
+        "id": 1805,
+        "votos": 9,
+        "candidato": "Melba Jacome",
+        "value": 0.52
+    },
+    {
+        "parroquia": "LUIS CORDERO VEGA",
+        "id": 1760,
+        "votos": 1,
+        "candidato": "Melba Jacome",
+        "value": 0.53
+    },
+    {
+        "parroquia": "DANIEL CORDOVA TORAL",
+        "id": 1005,
+        "votos": 12,
+        "candidato": "Melba Jacome",
+        "value": 1.38
+    }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "GONZANAMA",
+    "id": 5400,
+    "votos": 68,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 3.07
+  },
+  {
+    "parroquia": "SACAPALCA",
+    "id": 3270,
+    "votos": 14,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.87
+  },
+  {
+    "parroquia": "PURUNUMA /EGUIGUREN",
+    "id": 3045,
+    "votos": 11,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.96
+  },
+  {
+    "parroquia": "NAMBACOLA",
+    "id": 2520,
+    "votos": 32,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.88
+  },
+  {
+    "parroquia": "CHANGAIMINA /LA LIBERTAD",
+    "id": 825,
+    "votos": 21,
+    "candidato": "Martha Roldos Bucaram",
+    "value": 1.73
+  }
+]

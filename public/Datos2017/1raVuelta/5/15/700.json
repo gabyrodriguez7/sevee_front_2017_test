@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "COTUNDO",
+    "id": 685,
+    "votos": 156,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 4.55
+  },
+  {
+    "parroquia": "SAN PABLO DE USHPAYACU",
+    "id": 3605,
+    "votos": 55,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 3.36
+  },
+  {
+    "parroquia": "HATUN SUMAKU",
+    "id": 4630,
+    "votos": 28,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 2.05
+  },
+  {
+    "parroquia": "ARCHIDONA",
+    "id": 5070,
+    "votos": 309,
+    "candidato": "Zuquilanda Duque Jose Patricio",
+    "value": 3.28
+  }
+]

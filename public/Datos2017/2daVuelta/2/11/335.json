@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "CHANGAIMINA /LA LIBERTAD",
+    "id": 825,
+    "votos": 753,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 49.57
+  },
+  {
+    "parroquia": "NAMBACOLA",
+    "id": 2520,
+    "votos": 1301,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 53.98
+  },
+  {
+    "parroquia": "PURUNUMA /EGUIGUREN",
+    "id": 3045,
+    "votos": 264,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 36.62
+  },
+  {
+    "parroquia": "SACAPALCA",
+    "id": 3270,
+    "votos": 552,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 46.98
+  },
+  {
+    "parroquia": "GONZANAMÁ",
+    "id": 5400,
+    "votos": 1168,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 43.78
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "EL GUISMI",
+    "id": 665,
+    "votos": 286,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 36.2
+  },
+  {
+    "parroquia": "TUNDAYME",
+    "id": 945,
+    "votos": 179,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 38.25
+  },
+  {
+    "parroquia": "PACHICUTZA",
+    "id": 1015,
+    "votos": 335,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 45.64
+  },
+  {
+    "parroquia": "EL PANGUI",
+    "id": 6355,
+    "votos": 1365,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 33.46
+  }
+]

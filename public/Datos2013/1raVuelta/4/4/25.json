@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "SAN RAFAEL",
+        "id": 1055,
+        "votos": 24,
+        "candidato": "Acosta Alberto",
+        "value": 2.537
+    },
+    {
+        "parroquia": "GARCIA MORENO",
+        "id": 1315,
+        "votos": 46,
+        "candidato": "Acosta Alberto",
+        "value": 4.0
+    },
+    {
+        "parroquia": "LOS ANDES",
+        "id": 2205,
+        "votos": 39,
+        "candidato": "Acosta Alberto",
+        "value": 3.0
+    },
+    {
+        "parroquia": "MONTEOLIVO",
+        "id": 2455,
+        "votos": 26,
+        "candidato": "Acosta Alberto",
+        "value": 2.0
+    },
+    {
+        "parroquia": "SAN VICENTE DE PUSIR",
+        "id": 3680,
+        "votos": 23,
+        "candidato": "Acosta Alberto",
+        "value": 1.9
+    },
+    {
+        "parroquia": "BOLIVAR",
+        "id": 6520,
+        "votos": 86,
+        "candidato": "Acosta Alberto",
+        "value": 3.0
+    }
+]

@@ -1,0 +1,254 @@
+[
+    {
+        "parroquia": "HERMANO MIGUEL",
+        "id": 6865,
+        "votos": 15,
+        "candidato": "Melba Jacome",
+        "value": 0.39
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 6090,
+        "votos": 61,
+        "candidato": "Melba Jacome",
+        "value": 0.41
+    },
+    {
+        "parroquia": "SAN SEBASTIAN",
+        "id": 6010,
+        "votos": 173,
+        "candidato": "Melba Jacome",
+        "value": 0.86
+    },
+    {
+        "parroquia": "SAN BLAS",
+        "id": 5930,
+        "votos": 72,
+        "candidato": "Melba Jacome",
+        "value": 0.44
+    },
+    {
+        "parroquia": "SAGRARIO",
+        "id": 5905,
+        "votos": 65,
+        "candidato": "Melba Jacome",
+        "value": 0.39
+    },
+    {
+        "parroquia": "RAMIREZ DAVALOS",
+        "id": 5875,
+        "votos": 39,
+        "candidato": "Melba Jacome",
+        "value": 0.45
+    },
+    {
+        "parroquia": "HUAYNACAPAC",
+        "id": 5450,
+        "votos": 32,
+        "candidato": "Melba Jacome",
+        "value": 0.3
+    },
+    {
+        "parroquia": "YANUNCAY",
+        "id": 5370,
+        "votos": 40,
+        "candidato": "Melba Jacome",
+        "value": 0.39
+    },
+    {
+        "parroquia": "TOTORACOCHA",
+        "id": 5360,
+        "votos": 65,
+        "candidato": "Melba Jacome",
+        "value": 0.54
+    },
+    {
+        "parroquia": "EL VECINO",
+        "id": 5330,
+        "votos": 119,
+        "candidato": "Melba Jacome",
+        "value": 0.46
+    },
+    {
+        "parroquia": "MONAY",
+        "id": 5290,
+        "votos": 30,
+        "candidato": "Melba Jacome",
+        "value": 0.48
+    },
+    {
+        "parroquia": "MACHANGARA",
+        "id": 5140,
+        "votos": 16,
+        "candidato": "Melba Jacome",
+        "value": 0.4
+    },
+    {
+        "parroquia": "EL BATAN",
+        "id": 5135,
+        "votos": 44,
+        "candidato": "Melba Jacome",
+        "value": 0.7
+    },
+    {
+        "parroquia": "CAÑARIBAMBA",
+        "id": 5080,
+        "votos": 23,
+        "candidato": "Melba Jacome",
+        "value": 0.39
+    },
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 5075,
+        "votos": 56,
+        "candidato": "Melba Jacome",
+        "value": 0.63
+    },
+    {
+        "parroquia": "VICTORIA DEL PORTETE",
+        "id": 4225,
+        "votos": 11,
+        "candidato": "Melba Jacome",
+        "value": 0.55
+    },
+    {
+        "parroquia": "VALLE",
+        "id": 4200,
+        "votos": 27,
+        "candidato": "Melba Jacome",
+        "value": 0.35
+    },
+    {
+        "parroquia": "TURI",
+        "id": 4095,
+        "votos": 7,
+        "candidato": "Melba Jacome",
+        "value": 0.25
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 3980,
+        "votos": 27,
+        "candidato": "Melba Jacome",
+        "value": 0.63
+    },
+    {
+        "parroquia": "SININCAY",
+        "id": 3870,
+        "votos": 27,
+        "candidato": "Melba Jacome",
+        "value": 0.55
+    },
+    {
+        "parroquia": "SIDCAY",
+        "id": 3850,
+        "votos": 6,
+        "candidato": "Melba Jacome",
+        "value": 0.31
+    },
+    {
+        "parroquia": "SAYAUSI",
+        "id": 3795,
+        "votos": 26,
+        "candidato": "Melba Jacome",
+        "value": 0.5
+    },
+    {
+        "parroquia": "SANTA ANA",
+        "id": 3685,
+        "votos": 8,
+        "candidato": "Melba Jacome",
+        "value": 0.28
+    },
+    {
+        "parroquia": "SAN JOAQUIN",
+        "id": 3460,
+        "votos": 22,
+        "candidato": "Melba Jacome",
+        "value": 0.56
+    },
+    {
+        "parroquia": "RICAURTE",
+        "id": 3165,
+        "votos": 26,
+        "candidato": "Melba Jacome",
+        "value": 0.31
+    },
+    {
+        "parroquia": "QUINGEO",
+        "id": 3105,
+        "votos": 23,
+        "candidato": "Melba Jacome",
+        "value": 0.92
+    },
+    {
+        "parroquia": "PACCHA",
+        "id": 2680,
+        "votos": 10,
+        "candidato": "Melba Jacome",
+        "value": 0.44
+    },
+    {
+        "parroquia": "OCTAVIO CORDERO PALACIOS",
+        "id": 2595,
+        "votos": 7,
+        "candidato": "Melba Jacome",
+        "value": 0.7
+    },
+    {
+        "parroquia": "MULTI /  NULTI",
+        "id": 2570,
+        "votos": 20,
+        "candidato": "Melba Jacome",
+        "value": 0.89
+    },
+    {
+        "parroquia": "MOLLETURO",
+        "id": 2430,
+        "votos": 10,
+        "candidato": "Melba Jacome",
+        "value": 0.35
+    },
+    {
+        "parroquia": "LLACAO",
+        "id": 2255,
+        "votos": 9,
+        "candidato": "Melba Jacome",
+        "value": 0.46
+    },
+    {
+        "parroquia": "CHIQUINTAD",
+        "id": 905,
+        "votos": 8,
+        "candidato": "Melba Jacome",
+        "value": 0.38
+    },
+    {
+        "parroquia": "CHECA JIDCAY",
+        "id": 860,
+        "votos": 6,
+        "candidato": "Melba Jacome",
+        "value": 0.46
+    },
+    {
+        "parroquia": "CHAUCHA / ANGAS",
+        "id": 845,
+        "votos": 3,
+        "candidato": "Melba Jacome",
+        "value": 0.53
+    },
+    {
+        "parroquia": "CUMBE",
+        "id": 730,
+        "votos": 17,
+        "candidato": "Melba Jacome",
+        "value": 0.59
+    },
+    {
+        "parroquia": "BAÑOS",
+        "id": 285,
+        "votos": 49,
+        "candidato": "Melba Jacome",
+        "value": 0.48
+    }
+]

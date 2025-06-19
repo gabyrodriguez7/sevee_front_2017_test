@@ -1,0 +1,100 @@
+[
+  {
+    "parroquia": "ALLURIQUIN",
+    "id": 75,
+    "votos": 1412,
+    "candidato": "Lasso Guillermo",
+    "value": 28.491
+  },
+  {
+    "parroquia": "VALLE HERMOSO",
+    "id": 305,
+    "votos": 730,
+    "candidato": "Lasso Guillermo",
+    "value": 19.913
+  },
+  {
+    "parroquia": "LUZ DE AMERICA",
+    "id": 1755,
+    "votos": 510,
+    "candidato": "Lasso Guillermo",
+    "value": 17.62
+  },
+  {
+    "parroquia": "SAN JACINTO DEL BUA",
+    "id": 1970,
+    "votos": 1172,
+    "candidato": "Lasso Guillermo",
+    "value": 24.361
+  },
+  {
+    "parroquia": "EL ESFUERZO",
+    "id": 1990,
+    "votos": 698,
+    "candidato": "Lasso Guillermo",
+    "value": 28.2
+  },
+  {
+    "parroquia": "SANTA MARIA DEL TOACHI",
+    "id": 2045,
+    "votos": 277,
+    "candidato": "Lasso Guillermo",
+    "value": 15.2
+  },
+  {
+    "parroquia": "PUERTO LIMON",
+    "id": 4440,
+    "votos": 1226,
+    "candidato": "Lasso Guillermo",
+    "value": 22.0
+  },
+  {
+    "parroquia": "ABRAHAM CALAZACON",
+    "id": 5730,
+    "votos": 3329,
+    "candidato": "Lasso Guillermo",
+    "value": 22.0
+  },
+  {
+    "parroquia": "BOMBOLI",
+    "id": 5860,
+    "votos": 4689,
+    "candidato": "Lasso Guillermo",
+    "value": 24.57161
+  },
+  {
+    "parroquia": "RIO VERDE",
+    "id": 5865,
+    "votos": 4266,
+    "candidato": "Lasso Guillermo",
+    "value": 21.0
+  },
+  {
+    "parroquia": "RIO TOACHI",
+    "id": 5870,
+    "votos": 576,
+    "candidato": "Lasso Guillermo",
+    "value": 23.0
+  },
+  {
+    "parroquia": "SANTO DOMINGO",
+    "id": 6065,
+    "votos": 30157,
+    "candidato": "Lasso Guillermo",
+    "value": 24.9
+  },
+  {
+    "parroquia": "CHIGUILPE",
+    "id": 6175,
+    "votos": 2845,
+    "candidato": "Lasso Guillermo",
+    "value": 27.7
+  },
+  {
+    "parroquia": "ZARACAY",
+    "id": 6180,
+    "votos": 1153,
+    "candidato": "Lasso Guillermo",
+    "value": 29.2
+  }
+]

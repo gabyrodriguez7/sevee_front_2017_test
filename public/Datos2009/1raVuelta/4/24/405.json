@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 6995,
+        "votos": 1848,
+        "candidato": "Rafael Correa Delgado",
+        "value": 67.84
+    },
+    {
+        "parroquia": "CARLOS ESPINOZA LARREA",
+        "id": 6280,
+        "votos": 63,
+        "candidato": "Rafael Correa Delgado",
+        "value": 52.06
+    },
+    {
+        "parroquia": "VICENTE ROCAFUERTE",
+        "id": 6275,
+        "votos": 49,
+        "candidato": "Rafael Correa Delgado",
+        "value": 62.82
+    },
+    {
+        "parroquia": "GRAL. A. E. GALLO",
+        "id": 6270,
+        "votos": 26,
+        "candidato": "Rafael Correa Delgado",
+        "value": 54.16
+    },
+    {
+        "parroquia": "SALINAS",
+        "id": 5920,
+        "votos": 10221,
+        "candidato": "Rafael Correa Delgado",
+        "value": 59.29
+    },
+    {
+        "parroquia": "JOSE LUIS TAMAYO / MUEY",
+        "id": 1850,
+        "votos": 4833,
+        "candidato": "Rafael Correa Delgado",
+        "value": 65.57
+    },
+    {
+        "parroquia": "ANCONCITO",
+        "id": 115,
+        "votos": 3083,
+        "candidato": "Rafael Correa Delgado",
+        "value": 65.41
+    }
+]

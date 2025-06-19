@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "MILAGRO",
+        "id": 5660,
+        "votos": 9586,
+        "candidato": "Alvaro Noboa",
+        "value": 11.34
+    },
+    {
+        "parroquia": "ROBERTO ASTUDILLO",
+        "id": 3235,
+        "votos": 261,
+        "candidato": "Alvaro Noboa",
+        "value": 10.74
+    },
+    {
+        "parroquia": "MARISCAL SUCRE/HUAQUES",
+        "id": 2390,
+        "votos": 178,
+        "candidato": "Alvaro Noboa",
+        "value": 9.47
+    },
+    {
+        "parroquia": "CHOBO",
+        "id": 920,
+        "votos": 29,
+        "candidato": "Alvaro Noboa",
+        "value": 5.84
+    }
+]

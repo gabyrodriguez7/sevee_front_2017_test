@@ -1,0 +1,51 @@
+[
+  {
+    "parroquia": "BELLAVISTA",
+    "id": 320,
+    "votos": 69,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.05
+  },
+  {
+    "parroquia": "EL INGENIO",
+    "id": 790,
+    "votos": 48,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 4.8
+  },
+  {
+    "parroquia": "EL AIRO",
+    "id": 1645,
+    "votos": 70,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 14.34
+  },
+  {
+    "parroquia": "JIMBURA",
+    "id": 1845,
+    "votos": 69,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 6.11
+  },
+  {
+    "parroquia": "SANTA TERESITA",
+    "id": 3765,
+    "votos": 113,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 12.64
+  },
+  {
+    "parroquia": "27 DE ABRIL /LA NARANJA",
+    "id": 4460,
+    "votos": 92,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 8.54
+  },
+  {
+    "parroquia": "AMALUZA",
+    "id": 5020,
+    "votos": 369,
+    "candidato": "Moncayo Gallegos Paco Rosendo",
+    "value": 11.25
+  }
+]

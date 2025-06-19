@@ -1,0 +1,37 @@
+[
+  {
+    "parroquia": "ZAPOTAL",
+    "id": 4330,
+    "votos": 767,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 17.42
+  },
+  {
+    "parroquia": "LOS ÁNGELES",
+    "id": 4585,
+    "votos": 127,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 16.54
+  },
+  {
+    "parroquia": "CHACARITA",
+    "id": 4590,
+    "votos": 273,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 36.16
+  },
+  {
+    "parroquia": "VENTANAS",
+    "id": 6235,
+    "votos": 5902,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 17.51
+  },
+  {
+    "parroquia": "10 DE NOVIEMBRE",
+    "id": 7480,
+    "votos": 162,
+    "candidato": "Viteri Jimenez Cynthia Fernanda",
+    "value": 13.15
+  }
+]

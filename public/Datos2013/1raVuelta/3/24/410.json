@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "ATAHUALPA",
+        "id": 205,
+        "votos": 10,
+        "candidato": "Wray Norman",
+        "value": 0.5
+    },
+    {
+        "parroquia": "COLONCHE",
+        "id": 605,
+        "votos": 102,
+        "candidato": "Wray Norman",
+        "value": 0.6
+    },
+    {
+        "parroquia": "CHANDUY",
+        "id": 820,
+        "votos": 203,
+        "candidato": "Wray Norman",
+        "value": 2.4
+    },
+    {
+        "parroquia": "SAN JOSE DE ANCON",
+        "id": 1300,
+        "votos": 18,
+        "candidato": "Wray Norman",
+        "value": 0.6
+    },
+    {
+        "parroquia": "MANGLARALTO",
+        "id": 2355,
+        "votos": 98,
+        "candidato": "Wray Norman",
+        "value": 0.6
+    },
+    {
+        "parroquia": "SIMON BOLIVAR",
+        "id": 3915,
+        "votos": 10,
+        "candidato": "Wray Norman",
+        "value": 0.66
+    },
+    {
+        "parroquia": "BALLENITA",
+        "id": 5130,
+        "votos": 3,
+        "candidato": "Wray Norman",
+        "value": 0.26
+    },
+    {
+        "parroquia": "SANTA ELENA",
+        "id": 6040,
+        "votos": 169,
+        "candidato": "Wray Norman",
+        "value": 0.49
+    }
+]

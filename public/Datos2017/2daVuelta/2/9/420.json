@@ -1,0 +1,30 @@
+[
+  {
+    "parroquia": "CHOBO",
+    "id": 920,
+    "votos": 853,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 86.78
+  },
+  {
+    "parroquia": "MARISCAL SUCRE/HUAQUES",
+    "id": 2390,
+    "votos": 1906,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 63.7
+  },
+  {
+    "parroquia": "ROBERTO ASTUDILLO",
+    "id": 3235,
+    "votos": 2591,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 60.07
+  },
+  {
+    "parroquia": "MILAGRO",
+    "id": 5660,
+    "votos": 62445,
+    "candidato": "Moreno Garces Lenin Boltaire",
+    "value": 57.18
+  }
+]

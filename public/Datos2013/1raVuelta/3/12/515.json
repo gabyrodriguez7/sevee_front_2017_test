@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "CARACOL",
+        "id": 520,
+        "votos": 8,
+        "candidato": "Wray Norman",
+        "value": 0.285
+    },
+    {
+        "parroquia": "FEBRES CORDERO",
+        "id": 1265,
+        "votos": 34,
+        "candidato": "Wray Norman",
+        "value": 0.394
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 1525,
+        "votos": 21,
+        "candidato": "Wray Norman",
+        "value": 0.3589
+    },
+    {
+        "parroquia": "PIMOCHA",
+        "id": 2875,
+        "votos": 38,
+        "candidato": "Wray Norman",
+        "value": 0.4729
+    },
+    {
+        "parroquia": "CLEMENTE BAQUERIZO",
+        "id": 5215,
+        "votos": 178,
+        "candidato": "Wray Norman",
+        "value": 0.4604
+    },
+    {
+        "parroquia": "DR. CAMILO PONCE E.",
+        "id": 5285,
+        "votos": 117,
+        "candidato": "Wray Norman",
+        "value": 0.5713
+    },
+    {
+        "parroquia": "BARREIRO /SANTA RITA",
+        "id": 6830,
+        "votos": 27,
+        "candidato": "Wray Norman",
+        "value": 0.54867
+    },
+    {
+        "parroquia": "EL SALTO",
+        "id": 6835,
+        "votos": 5,
+        "candidato": "Wray Norman",
+        "value": 0.62
+    }
+]
