@@ -1,0 +1,149 @@
+[
+    {
+        "partido": "PARTIDO LIBERAL RADICAL ECUATORIANO",
+        "candidato": "BOLIVAR CHIRIBOGA VALDIVIESO",
+        "provincia": "AZUAY",
+        "votos": 967,
+        "value": 0.58
+    },
+    {
+        "partido": "PARTIDO LIBERAL RADICAL ECUATORIANO",
+        "candidato": "BOLIVAR CHIRIBOGA VALDIVIESO",
+        "provincia": "BOLIVAR",
+        "votos": 2065,
+        "value": 4.45
+    },
+    {
+        "partido": "PARTIDO LIBERAL RADICAL ECUATORIANO",
+        "candidato": "BOLIVAR CHIRIBOGA VALDIVIESO",
+        "provincia": "CAÑAR",
+        "votos": 373,
+        "value": 0.68
+    },
+    {
+        "partido": "PARTIDO LIBERAL RADICAL ECUATORIANO",
+        "candidato": "BOLIVAR CHIRIBOGA VALDIVIESO",
+        "provincia": "CARCHI",
+        "votos": 1575,
+        "value": 2.83
+    },
+    {
+        "partido": "PARTIDO LIBERAL RADICAL ECUATORIANO",
+        "candidato": "BOLIVAR CHIRIBOGA VALDIVIESO",
+        "provincia": "COTOPAXI",
+        "votos": 1149,
+        "value": 1.23
+    },
+    {
+        "partido": "PARTIDO LIBERAL RADICAL ECUATORIANO",
+        "candidato": "BOLIVAR CHIRIBOGA VALDIVIESO",
+        "provincia": "CHIMBORAZO",
+        "votos": 1133,
+        "value": 0.97
+    },
+    {
+        "partido": "PARTIDO LIBERAL RADICAL ECUATORIANO",
+        "candidato": "BOLIVAR CHIRIBOGA VALDIVIESO",
+        "provincia": "EL ORO",
+        "votos": 244,
+        "value": 0.16
+    },
+    {
+        "partido": "PARTIDO LIBERAL RADICAL ECUATORIANO",
+        "candidato": "BOLIVAR CHIRIBOGA VALDIVIESO",
+        "provincia": "ESMERALDAS",
+        "votos": 920,
+        "value": 1.05
+    },
+    {
+        "partido": "PARTIDO LIBERAL RADICAL ECUATORIANO",
+        "candidato": "BOLIVAR CHIRIBOGA VALDIVIESO",
+        "provincia": "GUAYAS",
+        "votos": 2584,
+        "value": 0.27
+    },
+    {
+        "partido": "PARTIDO LIBERAL RADICAL ECUATORIANO",
+        "candidato": "BOLIVAR CHIRIBOGA VALDIVIESO",
+        "provincia": "IMBABURA",
+        "votos": 633,
+        "value": 0.63
+    },
+    {
+        "partido": "PARTIDO LIBERAL RADICAL ECUATORIANO",
+        "candidato": "BOLIVAR CHIRIBOGA VALDIVIESO",
+        "provincia": "LOJA",
+        "votos": 2402,
+        "value": 1.95
+    },
+    {
+        "partido": "PARTIDO LIBERAL RADICAL ECUATORIANO",
+        "candidato": "BOLIVAR CHIRIBOGA VALDIVIESO",
+        "provincia": "LOS RIOS",
+        "votos": 437,
+        "value": 0.27
+    },
+    {
+        "partido": "PARTIDO LIBERAL RADICAL ECUATORIANO",
+        "candidato": "BOLIVAR CHIRIBOGA VALDIVIESO",
+        "provincia": "MANABI",
+        "votos": 13601,
+        "value": 4.30
+    },
+    {
+        "partido": "PARTIDO LIBERAL RADICAL ECUATORIANO",
+        "candidato": "BOLIVAR CHIRIBOGA VALDIVIESO",
+        "provincia": "MOR.STGO.",
+        "votos": 78,
+        "value": 0.35
+    },
+    {
+        "partido": "PARTIDO LIBERAL RADICAL ECUATORIANO",
+        "candidato": "BOLIVAR CHIRIBOGA VALDIVIESO",
+        "provincia": "NAPO",
+        "votos": 137,
+        "value": 0.52
+    },
+    {
+        "partido": "PARTIDO LIBERAL RADICAL ECUATORIANO",
+        "candidato": "BOLIVAR CHIRIBOGA VALDIVIESO",
+        "provincia": "PASTAZA",
+        "votos": 430,
+        "value": 3.40
+    },
+    {
+        "partido": "PARTIDO LIBERAL RADICAL ECUATORIANO",
+        "candidato": "BOLIVAR CHIRIBOGA VALDIVIESO",
+        "provincia": "PICHINCHA",
+        "votos": 2841,
+        "value": 0.39
+    },
+    {
+        "partido": "PARTIDO LIBERAL RADICAL ECUATORIANO",
+        "candidato": "BOLIVAR CHIRIBOGA VALDIVIESO",
+        "provincia": "TUNGURAHUA",
+        "votos": 1070,
+        "value": 0.73
+    },
+    {
+        "partido": "PARTIDO LIBERAL RADICAL ECUATORIANO",
+        "candidato": "BOLIVAR CHIRIBOGA VALDIVIESO",
+        "provincia": "ZAMORA CH.",
+        "votos": 92,
+        "value": 0.54
+    },
+    {
+        "partido": "PARTIDO LIBERAL RADICAL ECUATORIANO",
+        "candidato": "BOLIVAR CHIRIBOGA VALDIVIESO",
+        "provincia": "GALAPAGOS",
+        "votos": 18,
+        "value": 0.48
+    },
+    {
+        "partido": "PARTIDO LIBERAL RADICAL ECUATORIANO",
+        "candidato": "BOLIVAR CHIRIBOGA VALDIVIESO",
+        "provincia": "SUCUMBIOS",
+        "votos": 71,
+        "value": 0.37
+    }
+]

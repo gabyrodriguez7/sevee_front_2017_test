@@ -3,16 +3,77 @@
         "partido": "",
         "nombrePartido": "Resultados Generales",
         "json": "1"
-    },{
+    },
+    {
         "partido": 1,
-        "nombre": "Nombre 1",
-        "nombrePartido": "PARTIDO 1",
+        "nombre": "BOLIVAR CHIRIBOGA VALDIVIESO",
+        "nombrePartido": "PARTIDO LIBERAL RADICAL ECUATORIANO",
         "json": "1"
     },
     {
         "partido": 2,
-        "nombre": "Nombre 2",
-       "nombrePartido": "PARTIDO 2",
+        "nombre": "BOLÍVAR GONZÁLEZ ARGÜELLO",
+        "nombrePartido": "PARTIDO ASSAD BUCARAM",
         "json": "2"
+    },
+    {
+        "partido": 3,
+        "nombre": "AVERROES BUCARAM ZÁCCIDA",
+        "nombrePartido": "CONCENTRACIÓN DE FUERZAS POPULARES",
+        "json": "3"
+    },
+    {
+        "partido": 4,
+        "nombre": "VLADIMIRO ÁLVAREZ GRAU",
+        "nombrePartido": "DEMOCRACIA POPULAR",
+        "json": "4"
+    },
+    {
+        "partido": 5,
+        "nombre": "JAIME NEBOT SAADI",
+        "nombrePartido": "PARTIDO SOCIAL CRISTIANO",
+        "json": "5"
+    },
+    {
+        "partido": 6,
+        "nombre": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "nombrePartido": "PARTIDO UNIDAD REPUBLICANA PARTIDO CONSERVADOR ECUATORIANO",
+        "json": "6"
+    },
+    {
+        "partido": 7,
+        "nombre": "GUSTAVO ITURRALDE NUÑEZ",
+        "nombrePartido": "FRENTE AMPLIO DE IZQUIERDA",
+        "json": "7"
+    },
+    {
+        "partido": 8,
+        "nombre": "ABDALÁ BUCARAM ORTIZ",
+        "nombrePartido": "PARTIDO ROLDOSISTA ECUATORIANO",
+        "json": "8"
+    },
+    {
+        "partido": 9,
+        "nombre": "RAÚL BACA CARBO",
+        "nombrePartido": "IZQUIERDA DEMOCRÁTICA",
+        "json": "9"
+    },
+    {
+        "partido": 10,
+        "nombre": "FRANK VARGAS PAZZOS",
+        "nombrePartido": "ACCIÓN POPULAR REVOLUCIONARIA ECUATORIANA",
+        "json": "10"
+    },
+    {
+        "partido": 11,
+        "nombre": "FAUSTO MORENO SÁNCHEZ",
+        "nombrePartido": "MOVIMIENTO POPULAR DEMOCRÁTICO",
+        "json": "11"
+    },
+    {
+        "partido": 12,
+        "nombre": "LEÓN ROLDÓS AGUILERA",
+        "nombrePartido": "PARTIDO SOCIALISTA ECUATORIANO",
+        "json": "12"
     }
 ]

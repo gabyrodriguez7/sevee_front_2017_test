@@ -1,0 +1,149 @@
+[
+    {
+        "partido": "DEMOCRACIA POPULAR",
+        "candidato": "VLADIMIRO ÁLVAREZ GRAU",
+        "provincia": "AZUAY",
+        "votos": 6916,
+        "value": 4.14
+    },
+    {
+        "partido": "DEMOCRACIA POPULAR",
+        "candidato": "VLADIMIRO ÁLVAREZ GRAU",
+        "provincia": "BOLIVAR",
+        "votos": 779,
+        "value": 1.68
+    },
+    {
+        "partido": "DEMOCRACIA POPULAR",
+        "candidato": "VLADIMIRO ÁLVAREZ GRAU",
+        "provincia": "CAÑAR",
+        "votos": 763,
+        "value": 1.38
+    },
+    {
+        "partido": "DEMOCRACIA POPULAR",
+        "candidato": "VLADIMIRO ÁLVAREZ GRAU",
+        "provincia": "CARCHI",
+        "votos": 1181,
+        "value": 2.12
+    },
+    {
+        "partido": "DEMOCRACIA POPULAR",
+        "candidato": "VLADIMIRO ÁLVAREZ GRAU",
+        "provincia": "COTOPAXI",
+        "votos": 7345,
+        "value": 7.87
+    },
+    {
+        "partido": "DEMOCRACIA POPULAR",
+        "candidato": "VLADIMIRO ÁLVAREZ GRAU",
+        "provincia": "CHIMBORAZO",
+        "votos": 3232,
+        "value": 2.77
+    },
+    {
+        "partido": "DEMOCRACIA POPULAR",
+        "candidato": "VLADIMIRO ÁLVAREZ GRAU",
+        "provincia": "EL ORO",
+        "votos": 1302,
+        "value": 0.85
+    },
+    {
+        "partido": "DEMOCRACIA POPULAR",
+        "candidato": "VLADIMIRO ÁLVAREZ GRAU",
+        "provincia": "ESMERALDAS",
+        "votos": 2529,
+        "value": 2.90
+    },
+    {
+        "partido": "DEMOCRACIA POPULAR",
+        "candidato": "VLADIMIRO ÁLVAREZ GRAU",
+        "provincia": "GUAYAS",
+        "votos": 6538,
+        "value": 0.68
+    },
+    {
+        "partido": "DEMOCRACIA POPULAR",
+        "candidato": "VLADIMIRO ÁLVAREZ GRAU",
+        "provincia": "IMBABURA",
+        "votos": 1316,
+        "value": 1.31
+    },
+    {
+        "partido": "DEMOCRACIA POPULAR",
+        "candidato": "VLADIMIRO ÁLVAREZ GRAU",
+        "provincia": "LOJA",
+        "votos": 4046,
+        "value": 3.28
+    },
+    {
+        "partido": "DEMOCRACIA POPULAR",
+        "candidato": "VLADIMIRO ÁLVAREZ GRAU",
+        "provincia": "LOS RIOS",
+        "votos": 2200,
+        "value": 1.38
+    },
+    {
+        "partido": "DEMOCRACIA POPULAR",
+        "candidato": "VLADIMIRO ÁLVAREZ GRAU",
+        "provincia": "MANABI",
+        "votos": 2730,
+        "value": 0.86
+    },
+    {
+        "partido": "DEMOCRACIA POPULAR",
+        "candidato": "VLADIMIRO ÁLVAREZ GRAU",
+        "provincia": "MOR.STGO.",
+        "votos": 2541,
+        "value": 11.35
+    },
+    {
+        "partido": "DEMOCRACIA POPULAR",
+        "candidato": "VLADIMIRO ÁLVAREZ GRAU",
+        "provincia": "NAPO",
+        "votos": 1361,
+        "value": 5.12
+    },
+    {
+        "partido": "DEMOCRACIA POPULAR",
+        "candidato": "VLADIMIRO ÁLVAREZ GRAU",
+        "provincia": "PASTAZA",
+        "votos": 256,
+        "value": 2.02
+    },
+    {
+        "partido": "DEMOCRACIA POPULAR",
+        "candidato": "VLADIMIRO ÁLVAREZ GRAU",
+        "provincia": "PICHINCHA",
+        "votos": 14021,
+        "value": 1.92
+    },
+    {
+        "partido": "DEMOCRACIA POPULAR",
+        "candidato": "VLADIMIRO ÁLVAREZ GRAU",
+        "provincia": "TUNGURAHUA",
+        "votos": 2354,
+        "value": 1.61
+    },
+    {
+        "partido": "DEMOCRACIA POPULAR",
+        "candidato": "VLADIMIRO ÁLVAREZ GRAU",
+        "provincia": "ZAMORA CH.",
+        "votos": 798,
+        "value": 4.66
+    },
+    {
+        "partido": "DEMOCRACIA POPULAR",
+        "candidato": "VLADIMIRO ÁLVAREZ GRAU",
+        "provincia": "GALAPAGOS",
+        "votos": 194,
+        "value": 5.17
+    },
+    {
+        "partido": "DEMOCRACIA POPULAR",
+        "candidato": "VLADIMIRO ÁLVAREZ GRAU",
+        "provincia": "SUCUMBIOS",
+        "votos": 2159,
+        "value": 11.37
+    }
+]

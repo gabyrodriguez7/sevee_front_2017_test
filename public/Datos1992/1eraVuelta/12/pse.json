@@ -1,0 +1,149 @@
+[
+    {
+        "partido": "PARTIDO SOCIALISTA ECUATORIANO",
+        "candidato": "LEÓN ROLDÓS AGUILERA",
+        "provincia": "AZUAY",
+        "votos": 11303,
+        "value": 6.77
+    },
+    {
+        "partido": "PARTIDO SOCIALISTA ECUATORIANO",
+        "candidato": "LEÓN ROLDÓS AGUILERA",
+        "provincia": "BOLIVAR",
+        "votos": 545,
+        "value": 1.17
+    },
+    {
+        "partido": "PARTIDO SOCIALISTA ECUATORIANO",
+        "candidato": "LEÓN ROLDÓS AGUILERA",
+        "provincia": "CAÑAR",
+        "votos": 3110,
+        "value": 5.63
+    },
+    {
+        "partido": "PARTIDO SOCIALISTA ECUATORIANO",
+        "candidato": "LEÓN ROLDÓS AGUILERA",
+        "provincia": "CARCHI",
+        "votos": 3291,
+        "value": 5.92
+    },
+    {
+        "partido": "PARTIDO SOCIALISTA ECUATORIANO",
+        "candidato": "LEÓN ROLDÓS AGUILERA",
+        "provincia": "COTOPAXI",
+        "votos": 1955,
+        "value": 2.10
+    },
+    {
+        "partido": "PARTIDO SOCIALISTA ECUATORIANO",
+        "candidato": "LEÓN ROLDÓS AGUILERA",
+        "provincia": "CHIMBORAZO",
+        "votos": 5283,
+        "value": 4.53
+    },
+    {
+        "partido": "PARTIDO SOCIALISTA ECUATORIANO",
+        "candidato": "LEÓN ROLDÓS AGUILERA",
+        "provincia": "EL ORO",
+        "votos": 3981,
+        "value": 2.61
+    },
+    {
+        "partido": "PARTIDO SOCIALISTA ECUATORIANO",
+        "candidato": "LEÓN ROLDÓS AGUILERA",
+        "provincia": "ESMERALDAS",
+        "votos": 931,
+        "value": 1.07
+    },
+    {
+        "partido": "PARTIDO SOCIALISTA ECUADORIANO",
+        "candidato": "LEÓN ROLDÓS AGUILERA",
+        "provincia": "GUAYAS",
+        "votos": 14546,
+        "value": 1.51
+    },
+    {
+        "partido": "PARTIDO SOCIALISTA ECUATORIANO",
+        "candidato": "LEÓN ROLDÓS AGUILERA",
+        "provincia": "IMBABURA",
+        "votos": 4999,
+        "value": 4.96
+    },
+    {
+        "partido": "PARTIDO SOCIALISTA ECUATORIANO",
+        "candidato": "LEÓN ROLDÓS AGUILERA",
+        "provincia": "LOJA",
+        "votos": 3725,
+        "value": 3.02
+    },
+    {
+        "partido": "PARTIDO SOCIALISTA ECUATORIANO",
+        "candidato": "LEÓN ROLDÓS AGUILERA",
+        "provincia": "LOS RIOS",
+        "votos": 1511,
+        "value": 0.95
+    },
+    {
+        "partido": "PARTIDO SOCIALISTA ECUATORIANO",
+        "candidato": "LEÓN ROLDÓS AGUILERA",
+        "provincia": "MANABI",
+        "votos": 3483,
+        "value": 1.10
+    },
+    {
+        "partido": "PARTIDO SOCIALISTA ECUATORIANO",
+        "candidato": "LEÓN ROLDÓS AGUILERA",
+        "provincia": "MOR.STGO.",
+        "votos": 2315,
+        "value": 10.34
+    },
+    {
+        "partido": "PARTIDO SOCIALISTA ECUATORIANO",
+        "candidato": "LEÓN ROLDÓS AGUILERA",
+        "provincia": "NAPO",
+        "votos": 477,
+        "value": 1.79
+    },
+    {
+        "partido": "PARTIDO SOCIALISTA ECUATORIANO",
+        "candidato": "LEÓN ROLDÓS AGUILERA",
+        "provincia": "PASTAZA",
+        "votos": 736,
+        "value": 5.82
+    },
+    {
+        "partido": "PARTIDO SOCIALISTA ECUATORIANO",
+        "candidato": "LEÓN ROLDÓS AGUILERA",
+        "provincia": "PICHINCHA",
+        "votos": 19305,
+        "value": 2.61
+    },
+    {
+        "partido": "PARTIDO SOCIALISTA ECUATORIANO",
+        "candidato": "LEÓN ROLDÓS AGUILERA",
+        "provincia": "TUNGURAHUA",
+        "votos": 5278,
+        "value": 3.61
+    },
+    {
+        "partido": "PARTIDO SOCIALISTA ECUATORIANO",
+        "candidato": "LEÓN ROLDÓS AGUILERA",
+        "provincia": "ZAMORA CH.",
+        "votos": 1093,
+        "value": 6.38
+    },
+    {
+        "partido": "PARTIDO SOCIALISTA ECUATORIANO",
+        "candidato": "LEÓN ROLDÓS AGUILERA",
+        "provincia": "GALAPAGOS",
+        "votos": 26,
+        "value": 0.69
+    },
+    {
+        "partido": "PARTIDO SOCIALISTA ECUATORIANO",
+        "candidato": "LEÓN ROLDÓS AGUILERA",
+        "provincia": "SUCUMBIOS",
+        "votos": 627,
+        "value": 3.30
+    }
+]
