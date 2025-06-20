@@ -1,0 +1,149 @@
+[
+    {
+        "partido": "PARTIDO UNIDAD REPUBLICANA PARTIDO CONSERVADOR ECUATORIANO",
+        "candidato": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "provincia": "AZUAY",
+        "votos": 38314,
+        "value": 20.93
+    },
+    {
+        "partido": "PARTIDO UNIDAD REPUBLICANA PARTIDO CONSERVADOR ECUATORIANO",
+        "candidato": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "provincia": "BOLIVAR",
+        "votos": 24410,
+        "value": 44.81
+    },
+    {
+        "partido": "PARTIDO UNIDAD REPUBLICANA PARTIDO CONSERVADOR ECUATORIANO",
+        "candidato": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "provincia": "CAÑAR",
+        "votos": 22274,
+        "value": 35.79
+    },
+    {
+        "partido": "PARTIDO UNIDAD REPUBLICANA PARTIDO CONSERVADOR ECUATORIANO",
+        "candidato": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "provincia": "CARCHI",
+        "votos": 15182,
+        "value": 26.54
+    },
+    {
+        "partido": "PARTIDO UNIDAD REPUBLICANA PARTIDO CONSERVADOR ECUATORIANO",
+        "candidato": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "provincia": "COTOPAXI",
+        "votos": 31666,
+        "value": 29.78
+    },
+    {
+        "partido": "PARTIDO UNIDAD REPUBLICANA PARTIDO CONSERVADOR ECUATORIANO",
+        "candidato": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "provincia": "CHIMBORAZO",
+        "votos": 28592,
+        "value": 30.59
+    },
+    {
+        "partido": "PARTIDO UNIDAD REPUBLICANA PARTIDO CONSERVADOR ECUATORIANO",
+        "candidato": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "provincia": "EL ORO",
+        "votos": 36966,
+        "value": 35.40
+    },
+    {
+        "partido": "PARTIDO UNIDAD REPUBLICANA PARTIDO CONSERVADOR ECUATORIANO",
+        "candidato": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "provincia": "ESMERALDAS",
+        "votos": 15642,
+        "value": 29.30
+    },
+    {
+        "partido": "PARTIDO UNIDAD REPUBLICANA PARTIDO CONSERVADOR ECUATORIANO",
+        "candidato": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "provincia": "GUAYAS",
+        "votos": 246268,
+        "value": 47.74
+    },
+    {
+        "partido": "PARTIDO UNIDAD REPUBLICANA PARTIDO CONSERVADOR ECUATORIANO",
+        "candidato": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "provincia": "IMBABURA",
+        "votos": 29876,
+        "value": 34.46
+    },
+    {
+        "partido": "PARTIDO UNIDAD REPUBLICANA PARTIDO CONSERVADOR ECUATORIANO",
+        "candidato": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "provincia": "LOJA",
+        "votos": 28786,
+        "value": 29.83
+    },
+    {
+        "partido": "PARTIDO UNIDAD REPUBLICANA PARTIDO CONSERVADOR ECUATORIANO",
+        "candidato": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "provincia": "LOS RIOS",
+        "votos": 54098,
+        "value": 46.50
+    },
+    {
+        "partido": "PARTIDO UNIDAD REPUBLICANA PARTIDO CONSERVADOR ECUATORIANO",
+        "candidato": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "provincia": "MANABI",
+        "votos": 108160,
+        "value": 56.52
+    },
+    {
+        "partido": "PARTIDO UNIDAD REPUBLICANA PARTIDO CONSERVADOR ECUATORIANO",
+        "candidato": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "provincia": "MORONA SANTIAGO",
+        "votos": 7894,
+        "value": 38.73
+    },
+    {
+        "partido": "PARTIDO UNIDAD REPUBLICANA PARTIDO CONSERVADOR ECUATORIANO",
+        "candidato": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "provincia": "NAPO",
+        "votos": 8220,
+        "value": 36.87
+    },
+    {
+        "partido": "PARTIDO UNIDAD REPUBLICANA PARTIDO CONSERVADOR ECUATORIANO",
+        "candidato": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "provincia": "PASTAZA",
+        "votos": 4847,
+        "value": 31.88
+    },
+    {
+        "partido": "PARTIDO UNIDAD REPUBLICANA PARTIDO CONSERVADOR ECUATORIANO",
+        "candidato": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "provincia": "PICHINCHA",
+        "votos": 392605,
+        "value": 67.49
+    },
+    {
+        "partido": "PARTIDO UNIDAD REPUBLICANA PARTIDO CONSERVADOR ECUATORIANO",
+        "candidato": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "provincia": "TUNGURAHUA",
+        "votos": 34403,
+        "value": 35.19
+    },
+    {
+        "partido": "PARTIDO UNIDAD REPUBLICANA PARTIDO CONSERVADOR ECUATORIANO",
+        "candidato": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "provincia": "ZAMORA CHINCHIPE",
+        "votos": 5371,
+        "value": 34.88
+    },
+    {
+        "partido": "PARTIDO UNIDAD REPUBLICANA PARTIDO CONSERVADOR ECUATORIANO",
+        "candidato": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "provincia": "GALAPAGOS",
+        "votos": 1795,
+        "value": 50.49
+    },
+    {
+        "partido": "PARTIDO UNIDAD REPUBLICANA PARTIDO CONSERVADOR ECUATORIANO",
+        "candidato": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "provincia": "SUCUMBIOS",
+        "votos": 4840,
+        "value": 44.95
+    }
+]
