@@ -1,0 +1,74 @@
+[
+    {
+        "candidato": "BOLIVAR CHIRIBOGA VALDIVIESO",
+        "partido": "PARTIDO LIBERAL RADICAL ECUATORIANO",
+        "value": 0.96,
+        "fill": "#1f77b4"
+    },
+    {
+        "candidato": "BOLÍVAR GONZÁLEZ ARGÜELLO",
+        "partido": "PARTIDO ASSAD BUCARAM",
+        "value": 0.35,
+        "fill": "#ff7f0e"
+    },
+    {
+        "candidato": "AVERROES BUCARAM ZÁCCIDA",
+        "partido": "CONCENTRACIÓN DE FUERZAS POPULARES",
+        "value": 1.37,
+        "fill": "#2ca02c"
+    },
+    {
+        "candidato": "VLADIMIRO ÁLVAREZ GRAU",
+        "partido": "DEMOCRACIA POPULAR",
+        "value": 1.89,
+        "fill": "#d62728"
+    },
+    {
+        "candidato": "JAIME NEBOT SAADI",
+        "partido": "PARTIDO SOCIAL CRISTIANO",
+        "value": 25.03,
+        "fill": "#9467bd"
+    },
+    {
+        "candidato": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "partido": "PARTIDO UNIDAD REPUBLICANA PARTIDO CONSERVADOR ECUATORIANO",
+        "value": 31.88,
+        "fill": "#8c564b"
+    },
+    {
+        "candidato": "GUSTAVO ITURRALDE NUÑEZ",
+        "partido": "FRENTE AMPLIO DE IZQUIERDA",
+        "value": 0.46,
+        "fill": "#e377c2"
+    },
+    {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "partido": "PARTIDO ROLDOSISTA ECUATORIANO",
+        "value": 21.96,
+        "fill": "#7f7f7f"
+    },
+    {
+        "candidato": "RAÚL BACA CARBO",
+        "partido": "IZQUIERDA DEMOCRÁTICA",
+        "value": 8.45,
+        "fill": "#bcbd22"
+    },
+    {
+        "candidato": "FRANK VARGAS PAZZOS",
+        "partido": "ACCIÓN POPULAR REVOLUCIONARIA ECUATORIANA",
+        "value": 3.16,
+        "fill": "#17becf"
+    },
+    {
+        "candidato": "FAUSTO MORENO SÁNCHEZ",
+        "partido": "MOVIMIENTO POPULAR DEMOCRÁTICO",
+        "value": 1.92,
+        "fill": "#b22222"
+    },
+    {
+        "candidato": "LEÓN ROLDÓS AGUILERA",
+        "partido": "PARTIDO SOCIALISTA ECUATORIANO",
+        "value": 2.58,
+        "fill": "#228b22"
+    }
+]
