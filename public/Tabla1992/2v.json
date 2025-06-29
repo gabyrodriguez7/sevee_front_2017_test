@@ -1,0 +1,149 @@
+[
+    {
+        "candidato_tabla": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "id_tabla": 1,
+        "porcentaje": 70.43,
+        "partido_pol": "PARTIDO UNIDAD REPUBLICANA PARTIDO CONSERVADOR ECUATORIANO",
+        "prov_tabla": "AZUAY"
+    },
+    {
+        "candidato_tabla": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "id_tabla": 2,
+        "porcentaje": 47.09,
+        "partido_pol": "PARTIDO UNIDAD REPUBLICANA PARTIDO CONSERVADOR ECUATORIANO",
+        "prov_tabla": "BOLIVAR"
+    },
+    {
+        "candidato_tabla": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "id_tabla": 3,
+        "porcentaje": 56.28,
+        "partido_pol": "PARTIDO UNIDAD REPUBLICANA PARTIDO CONSERVADOR ECUATORIANO",
+        "prov_tabla": "CAÑAR"
+    },
+    {
+        "candidato_tabla": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "id_tabla": 4,
+        "porcentaje": 63.72,
+        "partido_pol": "PARTIDO UNIDAD REPUBLICANA PARTIDO CONSERVADOR ECUATORIANO",
+        "prov_tabla": "CARCHI"
+    },
+    {
+        "candidato_tabla": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "id_tabla": 5,
+        "porcentaje": 57.65,
+        "partido_pol": "PARTIDO UNIDAD REPUBLICANA PARTIDO CONSERVADOR ECUATORIANO",
+        "prov_tabla": "COTOPAXI"
+    },
+    {
+        "candidato_tabla": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "id_tabla": 6,
+        "porcentaje": 58.29,
+        "partido_pol": "PARTIDO UNIDAD REPUBLICANA PARTIDO CONSERVADOR ECUATORIANO",
+        "prov_tabla": "CHIMBORAZO"
+    },
+    {
+        "candidato_tabla": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "id_tabla": 7,
+        "porcentaje": 54.28,
+        "partido_pol": "PARTIDO UNIDAD REPUBLICANA PARTIDO CONSERVADOR ECUATORIANO",
+        "prov_tabla": "EL ORO"
+    },
+    {
+        "candidato_tabla": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "id_tabla": 8,
+        "porcentaje": 44.28,
+        "partido_pol": "PARTIDO UNIDAD REPUBLICANA PARTIDO CONSERVADOR ECUATORIANO",
+        "prov_tabla": "ESMERALDAS"
+    },
+    {
+        "candidato_tabla": "JAIME NEBOT SAADI",
+        "id_tabla": 9,
+        "porcentaje": 60.36,
+        "partido_pol": "PARTIDO SOCIAL CRISTIANO",
+        "prov_tabla": "GUAYAS"
+    },
+    {
+        "candidato_tabla": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "id_tabla": 10,
+        "porcentaje": 61.21,
+        "partido_pol": "PARTIDO UNIDAD REPUBLICANA PARTIDO CONSERVADOR ECUATORIANO",
+        "prov_tabla": "IMBABURA"
+    },
+    {
+        "candidato_tabla": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "id_tabla": 11,
+        "porcentaje": 55.17,
+        "partido_pol": "PARTIDO UNIDAD REPUBLICANA PARTIDO CONSERVADOR ECUATORIANO",
+        "prov_tabla": "LOJA"
+    },
+    {
+        "candidato_tabla": "JAIME NEBOT SAADI",
+        "id_tabla": 12,
+        "porcentaje": 55.04,
+        "partido_pol": "PARTIDO SOCIAL CRISTIANO",
+        "prov_tabla": "LOS RIOS"
+    },
+    {
+        "candidato_tabla": "JAIME NEBOT SAADI",
+        "id_tabla": 13,
+        "porcentaje": 47.1,
+        "partido_pol": "PARTIDO SOCIAL CRISTIANO",
+        "prov_tabla": "MANABI"
+    },
+    {
+        "candidato_tabla": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "id_tabla": 14,
+        "porcentaje": 62.79,
+        "partido_pol": "PARTIDO UNIDAD REPUBLICANA PARTIDO CONSERVADOR ECUATORIANO",
+        "prov_tabla": "MORONA SANTIAGO"
+    },
+    {
+        "candidato_tabla": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "id_tabla": 15,
+        "porcentaje": 56.3,
+        "partido_pol": "PARTIDO UNIDAD REPUBLICANA PARTIDO CONSERVADOR ECUATORIANO",
+        "prov_tabla": "NAPO"
+    },
+    {
+        "candidato_tabla": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "id_tabla": 16,
+        "porcentaje": 65.34,
+        "partido_pol": "PARTIDO UNIDAD REPUBLICANA PARTIDO CONSERVADOR ECUATORIANO",
+        "prov_tabla": "PASTAZA"
+    },
+    {
+        "candidato_tabla": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "id_tabla": 17,
+        "porcentaje": 73.72,
+        "partido_pol": "PARTIDO UNIDAD REPUBLICANA PARTIDO CONSERVADOR ECUATORIANO",
+        "prov_tabla": "PICHINCHA"
+    },
+    {
+        "candidato_tabla": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "id_tabla": 18,
+        "porcentaje": 56.46,
+        "partido_pol": "PARTIDO UNIDAD REPUBLICANA PARTIDO CONSERVADOR ECUATORIANO",
+        "prov_tabla": "TUNGURAHUA"
+    },
+    {
+        "candidato_tabla": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "id_tabla": 19,
+        "porcentaje": 62.41,
+        "partido_pol": "PARTIDO UNIDAD REPUBLICANA PARTIDO CONSERVADOR ECUATORIANO",
+        "prov_tabla": "ZAMORA CHINCHIPE"
+    },
+    {
+        "candidato_tabla": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "id_tabla": 20,
+        "porcentaje": 62.0,
+        "partido_pol": "PARTIDO UNIDAD REPUBLICANA PARTIDO CONSERVADOR ECUATORIANO",
+        "prov_tabla": "GALAPAGOS"
+    },
+    {
+        "candidato_tabla": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "id_tabla": 21,
+        "porcentaje": 51.57,
+        "partido_pol": "PARTIDO UNIDAD REPUBLICANA PARTIDO CONSERVADOR ECUATORIANO",
+        "prov_tabla": "SUCUMBIOS"
+    }
+]
