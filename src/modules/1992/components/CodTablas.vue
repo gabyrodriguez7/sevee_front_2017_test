@@ -159,7 +159,7 @@ export default {
     },
     async descargarZIP() {
       // Ruta o URL del archivo ZIP que deseas descargar
-      const url = (this.vuelta == 1) ? 'DatosCompletos1992/1992_Elecciones_PrimeraVuelta.zip' : 'DatosCompletos1992/1992_Elecciones_SegundaVuelta.zip';
+      const url = (this.vuelta == 1) ? 'DatosCompletos2017/2017_Elecciones_PrimeraVuelta.zip' : 'DatosCompletos2017/2017_Elecciones_SegundaVuelta.zip';
       const txtvuelta = (this.vuelta == 1) ? 'PRIMERA' : 'SEGUNDA';
       console.log("PruebaaDescarga", this.vuelta)
       try {
@@ -172,7 +172,7 @@ export default {
           link.href = URL.createObjectURL(contenidoZIP);
 
           // Asignar el nombre  para el archivo ZIP
-          const nombreZIP = ` ${this.vuelta} . DATOS COMPLETOS  ${txtvuelta} VUELTA ELECCIONES 2017.zip`;
+          const nombreZIP = ` ${this.vuelta} . DATOS COMPLETOS  ${txtvuelta} VUELTA ELECCIONES 1992.zip`;
           link.setAttribute('download', nombreZIP);
 
           // Simular un clic en el enlace para iniciar la descarga
