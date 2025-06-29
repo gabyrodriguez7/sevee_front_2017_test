@@ -19,8 +19,16 @@
           <div lass=" justify-center" v-if="vuelta == 1" >
             <v-fab-transition>
               <v-btn active-class="deep-purple" class="boton-descarga" @click="descargarZIP" color="#12A2C2" dark absolute stacked>
-                <div>{{ vuelta }}. DATOS COMPLETOS ELECCIONES 1992</div>
+                <div>{{ vuelta }}. DATOS COMPLETOS PRIMERA VUELTA ELECCIONES 1992</div>
                 <v-icon size="x-large">download</v-icon>
+              </v-btn>
+            </v-fab-transition>
+          </div>
+          <div class="justify-center" v-else>
+            <v-fab-transition>
+              <v-btn active-class="deep-purple " class="boton-descarga" @click="descargarZIP" color="#12A2C2" dark absolute stacked>
+                <div>{{ vuelta }}. DATOS COMPLETOS Segunda VUELTA ELECCIONES 1992</div>
+                <v-icon class="icon">download</v-icon>
               </v-btn>
             </v-fab-transition>
           </div>
@@ -105,7 +113,7 @@ export default {
   methods: {
     GetData(vuelta, nac) {
       //Método que obtiene los datos desde la Api
-      const url = `Tabla2009/${nac}${vuelta}v.json`;
+      const url = `Tabla2017/${nac}${vuelta}v.json`;
       console.log(url);
       fetch(url) //petición al endpoint
         .then((response) => response.json()) // parseo a json
@@ -151,7 +159,8 @@ export default {
     },
     async descargarZIP() {
       // Ruta o URL del archivo ZIP que deseas descargar
-      const url = 'DatosCompletos2009/2009_Elecciones.zip';
+      const url = (this.vuelta == 1) ? 'DatosCompletos2017/2017_Elecciones_PrimeraVuelta.zip' : 'DatosCompletos2017/2017_Elecciones_SegundaVuelta.zip';
+      const txtvuelta = (this.vuelta == 1) ? 'PRIMERA' : 'SEGUNDA';
       console.log("PruebaaDescarga", this.vuelta)
       try {
         const response = await fetch(url);
@@ -163,7 +172,7 @@ export default {
           link.href = URL.createObjectURL(contenidoZIP);
 
           // Asignar el nombre  para el archivo ZIP
-          const nombreZIP = ` ${this.vuelta} . DATOS COMPLETOS ELECCIONES 2009.zip`;
+          const nombreZIP = ` ${this.vuelta} . DATOS COMPLETOS  ${txtvuelta} VUELTA ELECCIONES 1992.zip`;
           link.setAttribute('download', nombreZIP);
 
           // Simular un clic en el enlace para iniciar la descarga

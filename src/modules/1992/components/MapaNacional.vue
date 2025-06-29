@@ -24,8 +24,13 @@
                 <v-row class=" justify-center item_vuelta">
                   <v-btn
                     :style="{ backgroundColor: this.expand ? '#F88C0F' : 'white', color: this.expand ? 'white' : 'black', }"
-                    tile @click="limpiar">
+                    tile @click="primeraV">
                     PRIMERA VUELTA
+                  </v-btn>
+                  <v-btn
+                    :style="{ backgroundColor: this.expand ? 'white' : '#F88C0F', color: this.expand ? 'black' : 'white', }"
+                    tile @click="segundaV">
+                    SEGUNDA VUELTA
                   </v-btn>
                 </v-row>
               </div>
@@ -133,6 +138,7 @@
 
 import CodMapa from '@/modules/1992/components/CodMapa';
 import TCandidatoV1 from '@/modules/1992/components/TarjetaCandidato';
+import TCandidatoV2 from '@/modules/1992/components/SV_TarjetaCandidato.vue'
 
 export default {
   name: "MapaNacional",
@@ -146,9 +152,9 @@ export default {
 
   },
   data() {
-
-    const provincia = require('@/modules/1992/assets/Informacion/provincias_cantones.json');
-    const candidato = require('@/modules/1992/assets/Informacion/candidatosV2.json');
+    var vuelta = ['1', '2'];
+    const provincia = require('@/modules/2017/assets/Informacion/provincias_cantones.json');
+    const candidato = require('@/modules/2017/assets/Informacion/candidatosV2.json');
     return {
       /*Variables de Select */
       select: '',
@@ -156,13 +162,14 @@ export default {
       type: '1',
       provs: null,
       cantons: null,
+      types: vuelta,
       arregloPartido: null,
       partido: '',
       arreglo_prov: provincia,
       candidatos: candidato,
       /*Dibujar Sheet */
       drawer: null,
-      numvuelta: '1',
+      numvuelta: '2',
       /* */
       id_codMapa: [],
       /*Auxiliares Metodos */
@@ -179,13 +186,13 @@ export default {
     }
   },
 
-  components: { CodMapa, TCandidatoV1 },
+  components: { CodMapa, TCandidatoV1, TCandidatoV2 },
   methods: {
     limpiar() {
       this.type = "";
       this.select = "";
       this.select2 = "";
-      this.partido = "Resultados Generales";
+      this.partido = "";
       this.primeraV()
       this.drawer = false;
     },
@@ -199,11 +206,24 @@ export default {
       this.titulo = 'Resultados Nacionales 1992'
       console.log(this.candidatos)
     },
+    segundaV() {
+      this.expand = false;
+      this.asignarTitulo2()
+      this.$emit('add', 1);
+      this.numvuelta = '2'
+      this.numvuelta = (this.numvuelta == '2') ? '2' : '0';
+      console.log("VueltaNumB2 " + this.numvuelta)
+      this.id_codMapa = ["2daVuelta", "", "", ""]
+      this.titulo = 'Resultados Nacionales 1992'
+    },
 
     datosBusqueda2() {
       //let vuelta = this.expand ? '1raVuelta' : '2daVuelta'
-      let varVuelta = '1raVuelta';
+      let varVuelta = this.type == '1' ? '1raVuelta' : '2daVuelta';
+      this.type == '1' ? this.expand = true : this.expand = false;
+      this.type == '1' ? this.numvuelta = '2' : this.numvuelta = '2';
       let politico = this.candidatos.find(elemento => elemento.nombrePartido === this.partido);
+
       let condicionPartido = politico.nombrePartido == 'Resultados Generales' ? "" : politico.json;
 
 
