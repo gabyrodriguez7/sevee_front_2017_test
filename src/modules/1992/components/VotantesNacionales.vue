@@ -66,8 +66,10 @@
   
 <script>
 import InfoGeneral from '@/modules/1992/components/InfoGeneral.vue';
+import InfoGeneral2 from '@/modules/1992/components/InfoGeneral2.vue';
 import MapaNacional from '@/modules/1992/components/MapaNacional.vue';
 import CodGraficos from '@/modules/1992/components/CodGraficos.vue';
+import CodGraficos2 from '@/modules/1992/components/CodGraficos2.vue';
 import CodTablas from '@/modules/1992/components/CodTablas.vue';
 
 export default {
@@ -97,7 +99,7 @@ export default {
         : this.onboarding - 1
     },
   },
-  components: { MapaNacional, CodGraficos, CodTablas, InfoGeneral }
+  components: { MapaNacional, CodGraficos, CodGraficos2, CodTablas, InfoGeneral, InfoGeneral2 }
 
 }
 </script>

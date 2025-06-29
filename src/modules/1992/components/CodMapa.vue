@@ -12,7 +12,7 @@ import am4themes_animated from "@amcharts/amcharts4/themes/animated";
 am4core.useTheme(am4themes_animated);
 
 export default {
-  name: "CodMapa1992",
+  name: "CodMapa2017",
 
   props: { id_1: [], nvuelta: String },
 
@@ -44,36 +44,41 @@ export default {
     //Colores
     switch (cd) {
       case "1":
-        min = "#FF9191";
-        max = "#FF0000";
+        min = "#00a2ff";
+        max = "#062e81";
         break;
       case "2":
-        min = "#FFA9EA";
-        max = "#DF3CB7";
+        if (cv == "1raVuelta") {
+          min = "#fcb1b1";
+          max = "#ff0000";
+        } else {
+          min = "#e0ffde";
+          max = "#1eff00";
+        }
         break;
       case "3":
-        min = "#FFC782";
-        max = "#FF8C00";
+        min = "#e0ffde";
+        max = "#1eff00";
         break;
       case "4":
-        min = "#7EFF90";
-        max = "#02C01C";
+        min = "#ffc600";
+        max = "#980505";
         break;
       case "5":
-        min = "#BFBFA6";
-        max = "#ABAB01";
+        min = "#fa2121";
+        max = "#5d1a1a";
         break;
       case "6":
-        min = "#7AF5E2";
-        max = "#03CEAD";
+        min = "#ffffff";
+        max = "#ec0f0f";
         break;
       case "7":
-        min = "#F9FC74";
-        max = "#CACE03";
+        min = "#d99d28";
+        max = "#000000";
         break;
       case "8":
-        min = "#92A061";
-        max = "#455709";
+        min = "#bacfba";
+        max = "#051854";
         break;
     }
 
@@ -83,7 +88,7 @@ export default {
       console.log("adentro pais");
       pais.geodataSource.url = "mapa/" + cm + "/" + cm2 + ".json";
       pais.dataSource.url =
-        "Datos2009/" + cv + "/" + cd + "/" + cm + "/" + cm2 + ".json";
+        "Datos2017/" + cv + "/" + cd + "/" + cm + "/" + cm2 + ".json";
       //pais.data = pais.dataSource.url;
       pais.dataSource.load();
       pais.reverseGeodata = true;
@@ -230,7 +235,7 @@ export default {
       console.log("adentro provincia");
       provincia.geodataSource.url = "mapa/" + cm + "/" + cm2 + ".json";
       provincia.dataSource.url =
-        "Datos2009/" + cv + "/" + cd + "/" + cm + "/" + cm2 + ".json";
+        "Datos2017/" + cv + "/" + cd + "/" + cm + "/" + cm2 + ".json";
       provincia.data = provincia.dataSource.url;
       provincia.dataSource.load();
       provincia.reverseGeodata = true;
@@ -293,7 +298,7 @@ export default {
       console.log("adentro pais");
       pais.geodataSource.url = "mapa/" + cm + "/" + cm2 + ".json";
       pais.dataSource.url =
-        "Datos2009/" + cv + "/" + cd + "/" + cm + "/" + cm2 + ".json";
+        "Datos2017/" + cv + "/" + cd + "/" + cm + "/" + cm2 + ".json";
       pais.data = pais.dataSource.url;
       pais.dataSource.load();
       pais.reverseGeodata = true;
@@ -356,7 +361,7 @@ export default {
       console.log("adentro canton");
       canton.geodataSource.url = "mapa/" + cm + "/" + cm2 + ".json";
       canton.dataSource.url =
-        "Datos2009/" + cv + "/" + cd + "/" + cm + "/" + cm2 + ".json";
+        "Datos2017/" + cv + "/" + cd + "/" + cm + "/" + cm2 + ".json";
       canton.data = canton.dataSource.url;
       canton.dataSource.load();
       canton.reverseGeodata = true;
@@ -441,7 +446,7 @@ export default {
       console.log("prov " + prov);
       var x = ["mapa/" + prov + "/" + devuelta() + ".json"];
       var y = [
-        "Datos2009/" + cv + "/" + cd + "/" + prov + "/" + devuelta2() + ".json",
+        "Datos2017/" + cv + "/" + cd + "/" + prov + "/" + devuelta2() + ".json",
       ];
       var aux = y.toString();
       var str = x.toString();
@@ -532,7 +537,7 @@ export default {
       var x = ["mapa/" + prov + "/" + devuelta() + ".json"];
       //var cd = "General"
       var y = [
-        "Datos2009/" + cv + "/" + cd + "/" + prov + "/" + devuelta2() + ".json",
+        "Datos2017/" + cv + "/" + cd + "/" + prov + "/" + devuelta2() + ".json",
       ];
       var aux = y.toString();
       var str = x.toString();

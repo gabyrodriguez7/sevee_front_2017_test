@@ -8,17 +8,32 @@
       <v-col cols="12" md="8">
         <v-container class="container-datos">
           <div class="datos">
-            <v-img alt="" class="img" src="@/assets/ausentes.svg" transition="scale-transition" />
+            <v-img
+              alt=""
+              class="img"
+              src="@/assets/ausentes.svg"
+              transition="scale-transition"
+            />
             <div>{{ sufragantes }}</div>
             <div>Sufragantes</div>
           </div>
           <div class="datos">
-            <v-img alt="" class="img" src="@/assets/ausentes.svg" transition="scale-transition" />
+            <v-img
+              alt=""
+              class="img"
+              src="@/assets/ausentes.svg"
+              transition="scale-transition"
+            />
             <div class="d-flex justify-center">{{ blanco }}</div>
             <div class="d-flex justify-center">En Blanco</div>
           </div>
           <div class="datos">
-            <v-img alt="" class="img" src="@/assets/ausentes.svg" transition="scale-transition" />
+            <v-img
+              alt=""
+              class="img"
+              src="@/assets/ausentes.svg"
+              transition="scale-transition"
+            />
             <div class="d-flex justify-center">{{ nulos }}</div>
             <div class="d-flex justify-center">Nulos</div>
           </div>
@@ -28,29 +43,26 @@
   </v-card>
 </template>
   
-<script>
+  <script>
 export default {
-  name: "InfoGeneral1992",
+  name: "InfoGeneral2_1992",
   components: {},
   data() {
     return {
       vuelta: null,
-      sufragantes: 4060357,
-      blanco: 238319,
-      nulos: 405201,
+      sufragantes: 3833677,
+      blanco: 38983,
+      nulos: 349031,
     };
   },
 };
 </script>
   
-<style scoped>
-@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
-
+  <style scoped>
 .img {
   width: 60px;
   height: auto;
 }
-
 .container-datos {
   padding-left: 10%;
   padding-right: 10%;
@@ -80,6 +92,8 @@ export default {
   line-height: normal;
 }
 
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+
 .datos {
   padding: 1%;
   display: flex;
@@ -87,5 +101,9 @@ export default {
   align-items: center;
   font-family: "Open Sans", sans-serif;
   font-size: 24px;
+}
+
+.txt {
+  margin-top: 10%;
 }
 </style>
