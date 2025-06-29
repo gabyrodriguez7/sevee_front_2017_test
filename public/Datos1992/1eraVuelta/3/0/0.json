@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1,
+        "votos": 1098,
+        "candidato": "Averroes Bucaram Zaccida",
+        "value": 0.66
+    },
+    {
+        "id": 2,
+        "votos": 408,
+        "candidato": "Averroes Bucaram Zaccida",
+        "value": 0.88
+    },
+    {
+        "id": 3,
+        "votos": 292,
+        "candidato": "Averroes Bucaram Zaccida",
+        "value": 0.53
+    },
+    {
+        "id": 4,
+        "votos": 286,
+        "candidato": "Averroes Bucaram Zaccida",
+        "value": 0.51
+    },
+    {
+        "id": 5,
+        "votos": 1502,
+        "candidato": "Averroes Bucaram Zaccida",
+        "value": 1.61
+    },
+    {
+        "id": 6,
+        "votos": 3487,
+        "candidato": "Averroes Bucaram Zaccida",
+        "value": 2.99
+    },
+    {
+        "id": 7,
+        "votos": 2330,
+        "candidato": "Averroes Bucaram Zaccida",
+        "value": 1.53
+    },
+    {
+        "id": 8,
+        "votos": 1308,
+        "candidato": "Averroes Bucaram Zaccida",
+        "value": 1.50
+    },
+    {
+        "id": 9,
+        "votos": 10464,
+        "candidato": "Averroes Bucaram Zaccida",
+        "value": 1.08
+    },
+    {
+        "id": 10,
+        "votos": 543,
+        "candidato": "Averroes Bucaram Zaccida",
+        "value": 0.54
+    },
+    {
+        "id": 11,
+        "votos": 10385,
+        "candidato": "Averroes Bucaram Zaccida",
+        "value": 8.43
+    },
+    {
+        "id": 12,
+        "votos": 2066,
+        "candidato": "Averroes Bucaram Zaccida",
+        "value": 1.30
+    },
+    {
+        "id": 13,
+        "votos": 4687,
+        "candidato": "Averroes Bucaram Zaccida",
+        "value": 1.48
+    },
+    {
+        "id": 14,
+        "votos": 85,
+        "candidato": "Averroes Bucaram Zaccida",
+        "value": 0.38
+    },
+    {
+        "id": 15,
+        "votos": 2028,
+        "candidato": "Averroes Bucaram Zaccida",
+        "value": 7.63
+    },
+    {
+        "id": 16,
+        "votos": 133,
+        "candidato": "Averroes Bucaram Zaccida",
+        "value": 1.05
+    },
+    {
+        "id": 17,
+        "votos": 2278,
+        "candidato": "Averroes Bucaram Zaccida",
+        "value": 0.31
+    },
+    {
+        "id": 18,
+        "votos": 1081,
+        "candidato": "Averroes Bucaram Zaccida",
+        "value": 0.74
+    },
+    {
+        "id": 19,
+        "votos": 2179,
+        "candidato": "Averroes Bucaram Zaccida",
+        "value": 12.71
+    },
+    {
+        "id": 20,
+        "votos": 45,
+        "candidato": "Averroes Bucaram Zaccida",
+        "value": 1.20
+    },
+    {
+        "id": 21,
+        "votos": 85,
+        "candidato": "Averroes Bucaram Zaccida",
+        "value": 0.45
+    }
+]

@@ -1,0 +1,234 @@
+[
+    {
+        "candidato1": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "candidato2": "RAÚL BACA CARBO",
+        "id": 1,
+        "votos": 167074,
+        "votos1": 65849,
+        "votos2": 21368,
+        "fill": "#02C01C",
+        "porcentaje1": 39.41,
+        "porcentaje2": 18.21
+    },
+    {
+        "candidato1": "JAIME NEBOT SAADI",
+        "candidato2": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "id": 2,
+        "votos": 46407,
+        "votos1": 14623,
+        "votos2": 13668,
+        "fill": "FFD700",
+        "porcentaje1": 31.51,
+        "porcentaje2": 29.45
+    },
+    {
+        "candidato1": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "candidato2": "JAIME NEBOT SAADI",
+        "id": 3,
+        "votos": 55217,
+        "votos1": 16619,
+        "votos2": 13233,
+        "fill": "#02C01C",
+        "porcentaje1": 30.10,
+        "porcentaje2": 23.97
+    },
+    {
+        "candidato1": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "candidato2": "ABDALÁ BUCARAM ORTIZ",
+        "id": 4,
+        "votos": 55609,
+        "votos1": 21409,
+        "votos2": 10515,
+        "fill": "#02C01C",
+        "porcentaje1": 38.50,
+        "porcentaje2": 18.91
+    },
+    {
+        "candidato1": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "candidato2": "ABDALÁ BUCARAM ORTIZ",
+        "id": 5,
+        "votos": 93272,
+        "votos1": 30229,
+        "votos2": 17989,
+        "fill": "#02C01C",
+        "porcentaje1": 32.41,
+        "porcentaje2": 19.29
+    },
+    {
+        "candidato1": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "candidato2": "JAIME NEBOT SAADI",
+        "id": 6,
+        "votos": 116687,
+        "votos1": 40434,
+        "votos2": 16178,
+        "fill": "#02C01C",
+        "porcentaje1": 34.65,
+        "porcentaje2": 13.86
+    },
+    {
+        "candidato1": "ABDALÁ BUCARAM ORTIZ",
+        "candidato2": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "id": 7,
+        "votos": 152495,
+        "votos1": 55982,
+        "votos2": 36753,
+        "fill": "#DC143C",
+        "porcentaje1": 36.71,
+        "porcentaje2": 24.10
+    },
+    {
+        "candidato1": "ABDALÁ BUCARAM ORTIZ",
+        "candidato2": "JAIME NEBOT SAADI",
+        "id": 8,
+        "votos": 87261,
+        "votos1": 37706,
+        "votos2": 17784,
+        "fill": "#DC143C",
+        "porcentaje1": 43.21,
+        "porcentaje2": 20.38
+    },
+    {
+        "candidato1": "JAIME NEBOT SAADI",
+        "candidato2": "ABDALÁ BUCARAM ORTIZ",
+        "id": 9,
+        "votos": 964719,
+        "votos1": 434872,
+        "votos2": 271665,
+        "fill": "#FFD700",
+        "porcentaje1": 45.08,
+        "porcentaje2": 28.16
+    },
+    {
+        "candidato1": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "candidato2": "ABDALÁ BUCARAM ORTIZ",
+        "id": 10,
+        "votos": 100784,
+        "votos1": 34900,
+        "votos2": 21997,
+        "fill": "#02C01C",
+        "porcentaje1": 34.63,
+        "porcentaje2": 21.83
+    },
+    {
+        "candidato1": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "candidato2": "JAIME NEBOT SAADI",
+        "id": 11,
+        "votos": 123178,
+        "votos1": 32478,
+        "votos2": 23511,
+        "fill": "#02C01C",
+        "porcentaje1": 26.37,
+        "porcentaje2": 19.09
+    },
+    {
+        "candidato1": "ABDALÁ BUCARAM ORTIZ",
+        "candidato2": "JAIME NEBOT SAADI",
+        "id": 12,
+        "votos": 159447,
+        "votos1": 61496,
+        "votos2": 49997,
+        "fill": "#DC143C",
+        "porcentaje1": 38.57,
+        "porcentaje2": 31.36
+    },
+    {
+        "candidato1": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "candidato2": "ABDALÁ BUCARAM ORTIZ",
+        "id": 13,
+        "votos": 316661,
+        "votos1": 93621,
+        "votos2": 82009,
+        "fill": "#02C01C",
+        "porcentaje1": 29.57,
+        "porcentaje2": 25.90
+    },
+    {
+        "candidato1": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "candidato2": "RAÚL BACA CARBO",
+        "id": 14,
+        "votos": 22385,
+        "votos1": 7374,
+        "votos2": 4287,
+        "fill": "#02C01C",
+        "porcentaje1": 32.94,
+        "porcentaje2": 19.15
+    },
+    {
+        "candidato1": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "candidato2": "JAIME NEBOT SAADI",
+        "id": 15,
+        "votos": 26585,
+        "votos1": 7253,
+        "votos2": 4285,
+        "fill": "#02C01C",
+        "porcentaje1": 27.28,
+        "porcentaje2": 16.12
+    },
+    {
+        "candidato1": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "candidato2": "ABDALÁ BUCARAM ORTIZ",
+        "id": 16,
+        "votos": 12653,
+        "votos1": 5509,
+        "votos2": 1680,
+        "fill": "#02C01C",
+        "porcentaje1": 43.54,
+        "porcentaje2": 13.28
+    },
+    {
+        "candidato1": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "candidato2": "RAÚL BACA CARBO",
+        "id": 17,
+        "votos": 730366,
+        "votos1": 402844,
+        "votos2": 79089,
+        "fill": "#02C01C",
+        "porcentaje1": 55.16,
+        "porcentaje2": 10.83
+    },
+    {
+        "candidato1": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "candidato2": "JAIME NEBOT SAADI",
+        "id": 18,
+        "votos": 146154,
+        "votos1": 28013,
+        "votos2": 30244,
+        "fill": "#02C01C",
+        "porcentaje1": 38.95,
+        "porcentaje2": 20.69
+    },
+    {
+        "candidato1": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "candidato2": "ABDALÁ BUCARAM ORTIZ",
+        "id": 19,
+        "votos": 17139,
+        "votos1": 3664,
+        "votos2": 3467,
+        "fill": "#02C01C",
+        "porcentaje1": 21.38,
+        "porcentaje2": 20.23
+    },
+    {
+        "candidato1": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "candidato2": "JAIME NEBOT SAADI",
+        "id": 20,
+        "votos": 3754,
+        "votos1": 1351,
+        "votos2": 875,
+        "fill": "#02C01C",
+        "porcentaje1": 35.99,
+        "porcentaje2": 23.31
+    },
+    {
+        "candidato1": "SIXTO DURÁN-BALLÉN CORDOVEZ",
+        "candidato2": "JAIME NEBOT SAADI",
+        "id": 21,
+        "votos": 18990,
+        "votos1": 4732,
+        "votos2": 2980,
+        "fill": "#02C01C",
+        "porcentaje1": 24.92,
+        "porcentaje2": 15.69
+    }
+
+]

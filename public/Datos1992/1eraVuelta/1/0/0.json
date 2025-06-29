@@ -1,0 +1,128 @@
+[
+    {
+        "id":1,
+        "votos": 967,
+        "candidato": "Bolivar Chiriboga Valdivieso",
+        "value": 0.58
+    },
+    {
+        "id":2,
+        "votos": 2065,
+        "candidato": "Bolivar Chiriboga Valdivieso",
+        "value": 4.45
+    },
+    {
+        "id":3,
+        "votos": 373,
+        "candidato": "Bolivar Chiriboga Valdivieso",
+        "value": 0.68
+    },
+    {
+        "id":4,
+        "votos": 1575,
+        "candidato": "Bolivar Chiriboga Valdivieso",
+        "value": 2.83
+    },
+    {
+        "id":5,
+        "votos": 1149,
+        "candidato": "Bolivar Chiriboga Valdivieso",
+        "value": 1.23
+    },
+    {
+        "id":6,
+        "votos": 1133,
+        "candidato": "Bolivar Chiriboga Valdivieso",
+        "value": 0.97
+    },
+    {
+        "id":7,
+        "votos": 244,
+        "candidato": "Bolivar Chiriboga Valdivieso",
+        "value": 0.16
+    },
+    {
+        "id":8,
+        "votos": 920,
+        "candidato": "Bolivar Chiriboga Valdivieso",
+        "value": 1.05
+    },
+    {
+        "id":9,
+        "votos": 2584,
+        "candidato": "Bolivar Chiriboga Valdivieso",
+        "value": 0.27
+    },
+    {
+        "id":10,
+        "votos": 633,
+        "candidato": "Bolivar Chiriboga Valdivieso",
+        "value": 0.63
+    },
+    {
+        "id":11,
+        "votos": 2402,
+        "candidato": "Bolivar Chiriboga Valdivieso",
+        "value": 1.95
+    },
+    {
+        "id":12,
+        "votos": 437,
+        "candidato": "Bolivar Chiriboga Valdivieso",
+        "value": 0.27
+    },
+    {
+        "id":13,
+        "votos": 13601,
+        "candidato": "Bolivar Chiriboga Valdivieso",
+        "value": 4.30
+    },
+    {
+        "id":14,
+        "votos": 78,
+        "candidato": "Bolivar Chiriboga Valdivieso",
+        "value": 0.35
+    },
+    {
+        "id":15,
+        "votos": 137,
+        "candidato": "Bolivar Chiriboga Valdivieso",
+        "value": 0.52
+    },
+    {
+        "id":16,
+        "votos": 430,
+        "candidato": "Bolivar Chiriboga Valdivieso",
+        "value": 3.40
+    },
+    {
+        "id":17,
+        "votos": 2841,
+        "candidato": "Bolivar Chiriboga Valdivieso",
+        "value": 0.39
+    },
+    {
+        "id":18,
+        "votos": 1070,
+        "candidato": "Bolivar Chiriboga Valdivieso",
+        "value": 0.73
+    },
+    {
+        "id":19,
+        "votos": 92,
+        "candidato": "Bolivar Chiriboga Valdivieso",
+        "value": 0.54
+    },
+    {
+        "id":20,
+        "votos": 18,
+        "candidato": "Bolivar Chiriboga Valdivieso",
+        "value": 0.48
+    },
+    {
+        "id":21,
+        "votos": 71,
+        "candidato": "Bolivar Chiriboga Valdivieso",
+        "value": 0.37
+    }
+]

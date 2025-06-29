@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1,
+        "votos": 443,
+        "candidato": "Bolivar Gonzales Arguello",
+        "value": 0.27
+    },
+    {
+        "id": 2,
+        "votos": 182,
+        "candidato": "Bolivar Gonzales Arguello",
+        "value": 0.39
+    },
+    {
+        "id": 3,
+        "votos": 154,
+        "candidato": "Bolivar Gonzales Arguello",
+        "value": 0.28
+    },
+    {
+        "id": 4,
+        "votos": 177,
+        "candidato": "Bolivar Gonzales Arguello",
+        "value": 0.32
+    },
+    {
+        "id": 5,
+        "votos": 562,
+        "candidato": "Bolivar Gonzales Arguello",
+        "value": 0.60
+    },
+    {
+        "id": 6,
+        "votos": 799,
+        "candidato": "Bolivar Gonzales Arguello",
+        "value": 0.68
+    },
+    {
+        "id": 7,
+        "votos": 461,
+        "candidato": "Bolivar Gonzales Arguello",
+        "value": 0.30
+    },
+    {
+        "id": 8,
+        "votos": 384,
+        "candidato": "Bolivar Gonzales Arguello",
+        "value": 0.44
+    },
+    {
+        "id": 9,
+        "votos": 1994,
+        "candidato": "Bolivar Gonzales Arguello",
+        "value": 0.21
+    },
+    {
+        "id": 10,
+        "votos": 326,
+        "candidato": "Bolivar Gonzales Arguello",
+        "value": 0.32
+    },
+    {
+        "id": 11,
+        "votos": 465,
+        "candidato": "Bolivar Gonzales Arguello",
+        "value": 0.38
+    },
+    {
+        "id": 12,
+        "votos": 381,
+        "candidato": "Bolivar Gonzales Arguello",
+        "value": 0.24
+    },
+    {
+        "id": 13,
+        "votos": 1183,
+        "candidato": "Bolivar Gonzales Arguello",
+        "value": 0.37
+    },
+    {
+        "id": 14,
+        "votos": 55,
+        "candidato": "Bolivar Gonzales Arguello",
+        "value": 0.25
+    },
+    {
+        "id": 15,
+        "votos": 1349,
+        "candidato": "Bolivar Gonzales Arguello",
+        "value": 5.07
+    },
+    {
+        "id": 16,
+        "votos": 99,
+        "candidato": "Bolivar Gonzales Arguello",
+        "value": 0.29
+    },
+    {
+        "id": 17,
+        "votos": 2198,
+        "candidato": "Bolivar Gonzales Arguello",
+        "value": 0.30
+    },
+    {
+        "id": 18,
+        "votos": 631,
+        "candidato": "Bolivar Gonzales Arguello",
+        "value": 0.43
+    },
+    {
+        "id": 19,
+        "votos": 80,
+        "candidato": "Bolivar Gonzales Arguello",
+        "value": 0.47
+    },
+    {
+        "id": 20,
+        "votos": 6,
+        "candidato": "Bolivar Gonzales Arguello",
+        "value": 0.16
+    },
+    {
+        "id": 21,
+        "votos": 98,
+        "candidato": "Bolivar Gonzales Arguello",
+        "value": 0.52
+    }
+]
