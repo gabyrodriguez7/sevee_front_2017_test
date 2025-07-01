@@ -160,7 +160,7 @@ export default {
       /*Variables de Select */
       select: '',
       select2: '',
-      type: '',
+      type: '1',
       provs: null,
       cantons: null,
       types: vuelta,

@@ -12,7 +12,7 @@ import am4themes_animated from "@amcharts/amcharts4/themes/animated";
 am4core.useTheme(am4themes_animated);
 
 export default {
-  name: "CodMapa2017",
+  name: "CodMapa1992",
 
   props: { id_1: [], nvuelta: String },
 

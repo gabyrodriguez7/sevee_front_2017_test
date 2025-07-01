@@ -87,33 +87,42 @@ export default {
   },
   mounted() {
     var arrayColors = [
-      "#FF0000",
-      "#DF3CB7",
-      "#FF8C00",
-      "#02C01C",
-      "#ABAB01",
-      "#03CEAD",
-      "#CACE03",
-      "#455709",
-    ];
+  "#FF0000", // Partido Liberal Radical Ecuatoriano
+  "#FFD700", // Partido Roldosista Ecuatoriano
+  "#000000", // Concentración de Fuerzas Populares
+  "#008F4C", // Democracia Popular
+  "#FFD700", // Partido Social Cristiano
+  "#D0FF14", // Partido Conservador Ecuatoriano
+  "#CD5C5C", // Frente Amplio de Izquierda
+  "#CC0000", // PRE
+  "#FFA500", // Izquierda Democrática 
+  "#6F917C", // APRE
+  "#FF4500", // MPD 
+  "#AA0000" //Partido socialista
+];
+
     var presidentes = [
-      "Martha \n Bucaram",
-      "Diego \n Delgado",
-      "Carlos \n Gonzales",
-      "Rafael \n Correa",
-      "Melba \n Jacome",
-      "Carlos \n Sagnay",
-      "Alvaro \n Noboa",
-      "Lucio \n Gutierrez",
+      "Bolivar \n Chiriboga",
+      "Bolívar \n González",
+      "Averroes \n Bucaram",
+      "Vladimiro \n Álvarez",
+      "Jaime \n Nebot",
+      "Sixto \n Durán-Ballén",
+      "Gustavo \n Iturralde",
+      "Abdalá \n Bucaram",
+      "Raúl \n Baca",
+      "Frank \n Vargas",
+      "Fausto \n Moreno",
+      "León \n Roldós",
     ];
-    var porcentaje = [4.31, 0.62, 0.48, 51.88, 1.35, 1.57, 11.34, 28.4];
+    var porcentaje = [0.96, 0.35, 1.37, 1.89, 25.03, 31.88, 0.46, 21.96, 8.45, 3.16, 1.92,2.58];
 
     for (var i = 0; i < arrayColors.length; i++) {
       this.chartData[0].values.push({
         color: arrayColors[i],
         height: porcentaje[i],
-        image: require(`@/modules/2009/assets/Candidatos/${i + 1}.png`),
-        bar_image: require(`@/modules/2009/assets/Partidos/${i + 1}.jpg`),
+        image: require(`@/modules/1992/assets/Candidatos/${i + 1}.png`),
+        bar_image: require(`@/modules/1992/assets/Partidos/${i + 1}.jpg`),
         name: this.formatName(presidentes[i]),
       });
     }

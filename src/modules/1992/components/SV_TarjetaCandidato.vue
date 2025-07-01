@@ -30,7 +30,7 @@
                 </div>
               </div>
             </div>
-            <div v-if="isEnabled('Alianza Creo - Suma')">
+            <div v-if="isEnabled('PARTIDO SOCIAL CRISTIANO')">
               <div class="InfoCandidato">
                 <div>
                   <img
@@ -61,7 +61,7 @@
             </div>
             <div
               v-if="
-                isEnabled('Movimiento Alianza Pais; Patria Altiva I Soberana')
+                isEnabled('PARTIDO UNIDAD REPUBLICANA PARTIDO CONSERVADOR ECUATORIANO')
               "
             >
               <div class="InfoCandidato">
@@ -110,28 +110,28 @@ const desserts = [
 const candidato = [
   {
     partido: 1,
-    nombre: "Guillermo Lasso",
-    url: require("@/modules/2017/assets/Candidatos/150px/1.png"),
-    color: "#045A8D",
-    nombrePartido: "Alianza Creo - Suma",
-    json: "1",
+    nombre: "Jaime Nebot Saadi",
+    url: require("@/modules/1992/assets/Candidatos/150px/5.png"),
+    color: "#FFD700",
+    nombrePartido: "Partido Social Cristiano",
+    json: "5",
   },
   {
     partido: 2,
-    nombre: "Lenin Moreno",
-    url: require("@/modules/2017/assets/Candidatos/150px/3.png"),
-    color: "#EF8A62",
-    nombrePartido: "Movimiento Alianza Pais; Patria Altiva I Soberana",
-    json: "2",
+    nombre: "Sixto Durán-Ballén Cordovez",
+    url: require("@/modules/1992/assets/Candidatos/150px/6.png"),
+    color: "#D0FF14",
+    nombrePartido: "Partido Unidad Republicana - Partido Conservador Ecuatoriano",
+    json: "6",
   },
 ];
 var partidos = [
   "Resultados Generales",
-  "Alianza Creo - Suma",
-  "Movimiento Alianza Pais; Patria Altiva I Soberana",
+  "PARTIDO SOCIAL CRISTIANO",
+  "PARTIDO UNIDAD REPUBLICANA PARTIDO CONSERVADOR ECUATORIANO",
 ];
 export default {
-  name: "SV_TarjetaCandidato2017",
+  name: "SV_TarjetaCandidato1992",
   props: { etiquetaTarjeta: String },
   data: () => ({
     enabled: "Resultados Generales",

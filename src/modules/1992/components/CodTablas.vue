@@ -113,7 +113,7 @@ export default {
   methods: {
     GetData(vuelta, nac) {
       //Método que obtiene los datos desde la Api
-      const url = `Tabla2017/${nac}${vuelta}v.json`;
+      const url = `Tabla1992/${nac}${vuelta}v.json`;
       console.log(url);
       fetch(url) //petición al endpoint
         .then((response) => response.json()) // parseo a json
@@ -159,7 +159,7 @@ export default {
     },
     async descargarZIP() {
       // Ruta o URL del archivo ZIP que deseas descargar
-      const url = (this.vuelta == 1) ? 'DatosCompletos2017/2017_Elecciones_PrimeraVuelta.zip' : 'DatosCompletos2017/2017_Elecciones_SegundaVuelta.zip';
+      const url = (this.vuelta == 1) ? 'DatosCompletos1992/1992_Elecciones_PrimeraVuelta.zip' : 'DatosCompletos1992/1992_Elecciones_SegundaVuelta.zip';
       const txtvuelta = (this.vuelta == 1) ? 'PRIMERA' : 'SEGUNDA';
       console.log("PruebaaDescarga", this.vuelta)
       try {

@@ -153,8 +153,8 @@ export default {
   },
   data() {
     var vuelta = ['1', '2'];
-    const provincia = require('@/modules/2017/assets/Informacion/provincias_cantones.json');
-    const candidato = require('@/modules/2017/assets/Informacion/candidatosV2.json');
+    const provincia = require('@/modules/1992/assets/Informacion/provincias_cantones.json');
+    const candidato = require('@/modules/1992/assets/Informacion/candidatosV2.json');
     return {
       /*Variables de Select */
       select: '',
