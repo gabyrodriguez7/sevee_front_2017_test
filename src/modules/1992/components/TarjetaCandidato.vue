@@ -531,7 +531,7 @@ export default {
         aux = this.enabled === slot;
         if (aux) {
           this.$emit("tarjetaV1", [
-            "1raVuelta",
+            "1eraVuelta",
             this.buscarJson(this.enabled),
             "",
             "",

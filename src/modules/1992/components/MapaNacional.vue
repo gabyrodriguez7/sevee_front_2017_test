@@ -61,8 +61,8 @@
           <div v-if="(!expand)">
             <v-row v-show="!expand">
               <v-col cols="12" md="9">
-                <span :key="id_codMapa">
-                  <CodMapa :id_1=id_codMapa @mapaTitulo="(i) => tituloMapa = i" />
+                <span :key="id_codMapa.join('-')">
+                  <CodMapa :id_1="id_codMapa" @mapaTitulo="(i) => tituloMapa = i" />
                 </span>
               </v-col>
               <v-col cols="12" md="3">
@@ -76,8 +76,8 @@
           <div v-else>
             <v-row v-show="expand">
               <v-col cols="12" md="9">
-                <span v-bind:key="id_codMapa">
-                  <CodMapa :id_1=id_codMapa />
+                <span :key="id_codMapa.join('-')">
+                  <CodMapa :id_1="id_codMapa" />
                 </span>
               </v-col>
               <v-col cols="12" md="3">
@@ -202,7 +202,7 @@ export default {
       this.numvuelta = (this.numvuelta == '1') ? '1' : '0';
       console.log("VueltaNum " + this.numvuelta)
 
-      this.id_codMapa = ["1raVuelta", "", "", ""]
+      this.id_codMapa = ["1eraVuelta", "", "", ""]
       this.titulo = 'Resultados Nacionales 1992'
       console.log(this.candidatos)
     },
@@ -218,8 +218,8 @@ export default {
     },
 
     datosBusqueda2() {
-      //let vuelta = this.expand ? '1raVuelta' : '2daVuelta'
-      let varVuelta = this.type == '1' ? '1raVuelta' : '2daVuelta';
+      //let vuelta = this.expand ? '1eraVuelta' : '2daVuelta'
+      let varVuelta = this.type == '1' ? '1eraVuelta' : '2daVuelta';
       this.type == '1' ? this.expand = true : this.expand = false;
       this.type == '1' ? this.numvuelta = '2' : this.numvuelta = '2';
       let politico = this.candidatos.find(elemento => elemento.nombrePartido === this.partido);

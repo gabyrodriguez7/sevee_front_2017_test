@@ -5,7 +5,7 @@
         <v-window touchless v-model="onboarding">
           <v-window-item :value="0">
             <div>
-              <MapaNacional v-bind:expand_b=this.boolean1 @add="(i) => numero_vuelta = i"></MapaNacional>
+              <MapaNacional v-bind:expand_b="String(this.boolean1)" @add="(i) => numero_vuelta = i"></MapaNacional>
             </div>
           </v-window-item>
 

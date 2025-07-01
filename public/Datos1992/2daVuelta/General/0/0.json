@@ -6,7 +6,7 @@
         "votos": 205566,
         "votos1": 38314,
         "votos2": 144780,
-        "fill": "#02C01C",
+        "fill": "#D0FF14",
         "porcentaje1": 18.64,
         "porcentaje2": 70.43
     },
@@ -14,12 +14,12 @@
         "candidato1": "JAIME NEBOT SAADI",
         "candidato2": "SIXTO DURÁN-BALLÉN CORDOVEZ",
         "id": 2,
-        "votos": 63854,
-        "votos1": 24410,
-        "votos2": 30070,
-        "fill": "#455709",
-        "porcentaje1": 38.23,
-        "porcentaje2": 47.09
+        "votos": 54480,
+        "votos1": 30070,
+        "votos2": 24410,
+        "fill": "#FFD700",
+        "porcentaje1": 52.2,
+        "porcentaje2": 44.8
     },
     {
         "candidato1": "JAIME NEBOT SAADI",
@@ -28,7 +28,7 @@
         "votos": 71000,
         "votos1": 22274,
         "votos2": 39958,
-        "fill": "#02C01C",
+        "fill": "#D0FF14",
         "porcentaje1": 31.37,
         "porcentaje2": 56.28
     },
@@ -39,7 +39,7 @@
         "votos": 65814,
         "votos1": 15154,
         "votos2": 41939,
-        "fill": "#02C01C",
+        "fill": "#D0FF14",
         "porcentaje1": 23.03,
         "porcentaje2": 63.72
     },
@@ -50,7 +50,7 @@
         "votos": 129631,
         "votos1": 31691,
         "votos2": 74734,
-        "fill": "#455709",
+        "fill": "#D0FF14",
         "porcentaje1": 24.45,
         "porcentaje2": 57.65
     },
@@ -61,7 +61,7 @@
         "votos": 162144,
         "votos1": 36440,
         "votos2": 94506,
-        "fill": "#02C01C",
+        "fill": "#D0FF14",
         "porcentaje1": 22.47,
         "porcentaje2": 58.29
     },
@@ -72,7 +72,7 @@
         "votos": 177288,
         "votos1": 68072,
         "votos2": 96225,
-        "fill": "#02C01C",
+        "fill": "#D0FF14",
         "porcentaje1": 38.4,
         "porcentaje2": 54.28
     },
@@ -83,7 +83,7 @@
         "votos": 112035,
         "votos1": 47441,
         "votos2": 49607,
-        "fill": "#02C01C",
+        "fill": "#D0FF14",
         "porcentaje1": 42.34,
         "porcentaje2": 44.28
     },
@@ -94,7 +94,7 @@
         "votos": 1129363,
         "votos1": 681687,
         "votos2": 353473,
-        "fill": "#02C01C",
+        "fill": "#FFD700",
         "porcentaje1": 60.36,
         "porcentaje2": 31.3
     },
@@ -105,7 +105,7 @@
         "votos": 127358,
         "votos1": 29401,
         "votos2": 77957,
-        "fill": "#02C01C",
+        "fill": "#D0FF14",
         "porcentaje1": 23.09,
         "porcentaje2": 61.21
     },
@@ -116,7 +116,7 @@
         "votos": 150053,
         "votos1": 52727,
         "votos2": 82790,
-        "fill": "#02C01C",
+        "fill": "#D0FF14",
         "porcentaje1": 35.14,
         "porcentaje2": 55.17
     },
@@ -127,7 +127,7 @@
         "votos": 205767,
         "votos1": 113259,
         "votos2": 70835,
-        "fill": "#02C01C",
+        "fill": "#FFD700",
         "porcentaje1": 55.04,
         "porcentaje2": 34.42
     },
@@ -138,7 +138,7 @@
         "votos": 415233,
         "votos1": 195560,
         "votos2": 185959,
-        "fill": "#02C01C",
+        "fill": "#D0FF14",
         "porcentaje1": 47.1,
         "porcentaje2": 44.78
     },
@@ -149,7 +149,7 @@
         "votos": 27763,
         "votos1": 7171,
         "votos2": 17433,
-        "fill": "#455709",
+        "fill": "#D0FF14",
         "porcentaje1": 25.83,
         "porcentaje2": 62.79
     },
@@ -160,7 +160,7 @@
         "votos": 33636,
         "votos1": 11096,
         "votos2": 18938,
-        "fill": "#455709",
+        "fill": "#D0FF14",
         "porcentaje1": 32.99,
         "porcentaje2": 56.3
     },
@@ -171,7 +171,7 @@
         "votos": 15423,
         "votos1": 3715,
         "votos2": 10077,
-        "fill": "#455709",
+        "fill": "#D0FF14",
         "porcentaje1": 24.09,
         "porcentaje2": 65.34
     },
@@ -182,7 +182,7 @@
         "votos": 847679,
         "votos1": 148775,
         "votos2": 624887,
-        "fill": "#02C01C",
+        "fill": "#D0FF14",
         "porcentaje1": 17.55,
         "porcentaje2": 73.72
     },
@@ -193,7 +193,7 @@
         "votos": 185168,
         "votos1": 56296,
         "votos2": 104538,
-        "fill": "#455709",
+        "fill": "#D0FF14",
         "porcentaje1": 30.4,
         "porcentaje2": 56.46
     },
@@ -204,7 +204,7 @@
         "votos": 20224,
         "votos1": 5599,
         "votos2": 12622,
-        "fill": "#02C01C",
+        "fill": "#D0FF14",
         "porcentaje1": 27.68,
         "porcentaje2": 62.41
     },
@@ -215,7 +215,7 @@
         "votos": 4103,
         "votos1": 1226,
         "votos2": 2544,
-        "fill": "#02C01C",
+        "fill": "#D0FF14",
         "porcentaje1": 29.88,
         "porcentaje2": 62.0
     },
@@ -226,7 +226,7 @@
         "votos": 24995,
         "votos1": 8399,
         "votos2": 12890,
-        "fill": "#02C01C",
+        "fill": "#D0FF14",
         "porcentaje1": 33.6,
         "porcentaje2": 51.57
     }
